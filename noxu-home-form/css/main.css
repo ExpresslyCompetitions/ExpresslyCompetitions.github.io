@@ -1973,15 +1973,15 @@ footer {
 /****************/
 @font-face {
   font-family: 'brand-bold';
-  src: url("../../inc/fonts/lato-bla-webfont.eot");
-  src: url("../../inc/fonts/lato-bla-webfont-.eot#iefix") format("embedded-opentype"), url("../../inc/fonts/lato-bla-webfont.woff2") format("woff2"), url("../../inc/fonts/lato-bla-webfont.woff") format("woff"), url("../../inc/fonts/lato-bla-webfont.ttf") format("truetype"), url("../../inc/fonts/lato-bla-webfont.svg#gamebold") format("svg");
+  src: url("../fonts/lato-bla-webfont.eot");
+  src: url("../fonts/lato-bla-webfont-.eot#iefix") format("embedded-opentype"), url("../fonts/lato-bla-webfont.woff2") format("woff2"), url("../fonts/lato-bla-webfont.woff") format("woff"), url("../fonts/lato-bla-webfont.ttf") format("truetype"), url("../fonts/lato-bla-webfont.svg#gamebold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'brand-regular';
-  src: url("../../inc/fonts/lato-reg-webfont.eot");
-  src: url("../../inc/fonts/lato-reg-webfont-.eot#iefix") format("embedded-opentype"), url("../../inc/fonts/lato-reg-webfont.woff2") format("woff2"), url("../../inc/fonts/lato-reg-webfont.woff") format("woff"), url("../../inc/fonts/lato-reg-webfont.ttf") format("truetype"), url("../../inc/fonts/lato-reg-webfont.svg#gamereg") format("svg");
+  src: url("../fonts/lato-reg-webfont.eot");
+  src: url("../fonts/lato-reg-webfont-.eot#iefix") format("embedded-opentype"), url("../fonts/lato-reg-webfont.woff2") format("woff2"), url("../fonts/lato-reg-webfont.woff") format("woff"), url("../fonts/lato-reg-webfont.ttf") format("truetype"), url("../fonts/lato-reg-webfont.svg#gamereg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
