@@ -41,6 +41,13 @@ var xlyrData = {
   successMessage: 'Thank you for entering the competition! We\'ll be in touch by 30 June if you are the lucky winner. \n\nYour Noxu Home account is ready, use code NOXU20 to get &pound;20 off your first order!'
 };
 
+// Fix for conflict with FastClick and Places
+$(document).on({
+    'DOMNodeInserted': function() {
+        $('.pac-item, .pac-item span', this).addClass('needsclick');
+    }
+}, '.pac-container');
+
 // This example displays an address form, using the autocomplete feature
 // of the Google Places API to help users fill in the information.
 
@@ -56,16 +63,6 @@ var componentForm = {
   country: 'long_name',
   postal_code: 'short_name'
 };
-
-// need to stop prop of the touchend event
-if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
-    setTimeout(function() {
-        var container = document.getElementsByClassName('pac-container')[0];
-        container.addEventListener('touchend', function(e) {
-            e.stopImmediatePropagation();
-        });
-    }, 500);
-}
 
 function initAutocomplete() {
   // Create the autocomplete object, restricting the search to geographical
