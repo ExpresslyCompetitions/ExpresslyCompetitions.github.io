@@ -116,7 +116,6 @@ function geolocate() {
     });
   }
 }
-
 // Form validation
 
 const form = document.querySelector('#nife-contact-form');
@@ -214,7 +213,7 @@ function vrCheckAge() {
   if (!check.checked) {
     error.classList.remove('error-hidden');
     error.innerHTML = 'Please confirm your age';
-    ageLabel.style.cssText = fieldErrorStyle;
+    ageLabel.style.cssText = 'color: red;';
   } else {
     age.style.color = '#B2B2B2';
   }
@@ -226,7 +225,7 @@ function vrCheckTerms() {
   if (!check.checked) {
     error.classList.remove('error-hidden');
     error.innerHTML = 'Please accept the terms and conditions';
-    termsLabel.style.cssText = fieldErrorStyle;
+    termsLabel.style.cssText = 'color: red;';
   } else {
     terms.style.color = '#B2B2B2';
   }

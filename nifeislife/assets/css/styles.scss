@@ -52,6 +52,7 @@ section {
 		text-align: center;
 		margin-bottom: 35px;
 		padding: 0 20px;
+		line-height: 25px;
 	}
 	h3.title {
 		color: $color_mako_approx;
@@ -135,11 +136,7 @@ header {
 	}
 	h1 {
 		font: bold 48px $font_1, $font_0;
-	}
-	h3 {
-		font: normal 24px $font_1, $font_0;
-		margin-bottom: 40px;
-		position: relative;
+		text-transform: uppercase;
 		&:after {
 			content: url('../img/nife-logo.png');
 			// position: absolute;
@@ -147,11 +144,58 @@ header {
 			margin-left: 10px;
 		}
 	}
+	h3 {
+		font: normal 24px $font_1, $font_0;
+		margin-bottom: 40px;
+		position: relative;
+		text-transform: uppercase;
+	}
 	a.btn {
 		padding: 20px 50px;
 		margin-bottom: 80px;
-		border-radius: 50px;
+		border-radius: 5px;
+		position: relative;
+	  overflow: hidden;
+	  width: 50px;
+	  height: 50px;
+		&:after {
+			animation: shine 4s ease-in-out  infinite;
+		  animation-fill-mode: forwards;
+		  content: "";
+		  position: absolute;
+		  top: -110%;
+		  left: -210%;
+			width: 180%;
+	    height: 150%;
+	    opacity: 0;
+	    transform: rotate(3deg);
+
+		  background: rgba(255, 255, 255, 0.13);
+		  background: linear-gradient(
+		    to right,
+		    rgba(255, 255, 255, 0.13) 0%,
+		    rgba(255, 255, 255, 0.13) 77%,
+		    rgba(255, 255, 255, 0.5) 92%,
+		    rgba(255, 255, 255, 0.0) 100%
+		  );
+		}
 	}
+	@keyframes shine{
+  10% {
+    opacity: 1;
+    top: -30%;
+    left: -30%;
+    transition-property: left, top, opacity;
+    transition-duration: 0.7s, 0.7s, 0.15s;
+    transition-timing-function: ease;
+  }
+  100% {
+    opacity: 0;
+    top: -30%;
+    left: -30%;
+    transition-property: left, top, opacity;
+  }
+}
 	.hero-block {
 		background-color: $white;
 		width: 70vw;
@@ -256,12 +300,25 @@ header {
 .flex-outer {
   max-width: 800px;
   margin: 0 auto;
+} h4 {
+	text-align: center;
+	padding: 15px;
+	font-weight: normal;
 }
 
 .flex-outer li, .flex-inner {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+}
+
+.half-width-container {
+	display: flex;
+
+	.half-width {
+		flex-wrap: nowrap;
+		width: 50%;
+	}
 }
 
 .flex-inner {
@@ -276,8 +333,6 @@ header {
 .flex-outer li label, .flex-outer li p {
 	font-size: 14px;
   padding: 8px;
-  font-weight: 300;
-  letter-spacing: .09em;
   text-transform: uppercase;
 }
 
@@ -309,8 +364,8 @@ header {
   background: $color_nife_green;
   color: #f2f2f2;
   text-transform: uppercase;
-  letter-spacing: .09em;
-  border-radius: 2px;
+  border-radius: 5px;
+	font-size: 14px;
 }
 
 input,
@@ -414,6 +469,19 @@ input::-webkit-input-placeholder {
 		flex-basis: 10% !important;
 	} label {
 		flex-basis: 90% !important;
+	}
+	#term-confirmation {
+		flex-basis: 10% !important;
+	} label {
+		flex-basis: 90% !important;
+	}
+	.half-width-container {
+		display: flex;
+		flex-direction: column;
+		.half-width {
+			flex-wrap: nowrap;
+			width: 100%;
+		}
 	}
 
 	.contact h3 {

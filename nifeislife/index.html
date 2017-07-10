@@ -16,7 +16,12 @@
 <body>
 
 	<header>
-		<h2>
+    <h2>
+      <a href="http://www.nifeislife.com/">
+        <img src="assets/img/nife-logo.png" alt="Nife is Life logo" style="padding: 8px; background-color: #fff;">
+      </a>
+    </h2>
+    <h2>
 			<a href="http://www.lbc.co.uk/">
 				<img src="assets/img/lbc-logo.png" alt="LBC logo">
 			</a>
@@ -26,10 +31,10 @@
 	<section class="hero">
 		<div class="background-image" style="background-image: url(assets/img/header-img.png);"></div>
 		<div class="hero-block hero-block-header">
-			<h1>WIN A £500 VOUCHER</h1>
+			<h1>Win a £500 voucher at </h1>
 		</div>
 		<div class="hero-block hero-block-sub">
-			<h3>TO SPEND ON ITALIAN FOOD PRODUCTS FROM </h3>
+			<h3>To spend on delicious Italian food products, delivered to your doorstep </h3>
 			<a href="#contact-anchor" class="btn hero-btn">Enter now</a>
 		</div>
 	</section>
@@ -38,7 +43,7 @@
 	<section class="our-work">
 			<div class="our-work-left">
 				<p>
-					Online deli Nife is Life offers 1500 of Italy’s finest products – bringing your favourite Italian food to your door.
+					Online deli Nife is Life offers 1500 of Italy’s finest products – bringing your favourite Italian food to your door. Delivered across the entire UK.
 				</p>
 				<p>
 					Want to try some of Italy’s best foods? We’ve teamed up with Nife is Life to offer two lucky people the chance to win a £500 voucher to spend online – the ideal opportunity to enjoy some seriously good eating!
@@ -65,7 +70,7 @@
 				</p>
 				<a href="http://www.nifeislife.com/"><img src="assets/img/nife-logo.png" alt="Nife is life" class="nife-right-logo"></a>
 				<p>
-					The best Italian foods, many available exclusively in the UK from us, delivered to your door.  Visit their website for a one-stop online shopping experience.</p>
+					The best Italian foods, many exclusive to us here in the UK, delivered to your door.  Visit their website for a one-stop online shopping experience.</p>
 			</div>
 	</section>
 
@@ -95,7 +100,7 @@
 	      </li>
 	      <li>
 	        <label for="phone">Phone</label>
-	        <input type="tel" id="phone" class="required" placeholder="Enter your phone here" value="" />
+	        <input type="tel" id="phone" class="required" placeholder="Enter your phone here" value="" maxlength="11"  oninput="this.value=this.value.replace(/[^0-9]/g,'');"/>
 	      </li>
 				<li>
 	        <label for="gender">Gender:</label>
@@ -108,7 +113,7 @@
 	      </li>
 				<li>
 					<label for="address1">Address</label>
-					<input type="text" id="autocomplete" class="required" name="address1" placeholder="Property name/no and street name" onFocus="geolocate()" value="" />
+					<input type="text" id="autocomplete" class="required" name="address1" placeholder="Start writing your address" onFocus="geolocate()" value="" />
 				</li>
 				<!-- <li class="hidden-field">
 					<label for="address2">Address line 2</label>
@@ -126,24 +131,25 @@
 					<label for="postCode">Postcode</label>
 					<input type="text" id="postal_code" name="postCode" class="required" placeholder="e.g AB1 2AB" value="" disabled="true" />
 				</li>
-	      <li>
-	        <label for="age">Age</label>
-	        <ul class="flex-inner">
-	          <li class="required" id="age-confirmation-label">
-	            <input type="checkbox" id="age-confirmation">
-	            <label for="age-check">I confirm I am 18 years of age or older</label>
-	          </li>
-	        </ul>
-	      </li>
-				<li>
-	        <label for="terms">T&amp;C's</label>
-	        <ul class="flex-inner">
-	          <li class="required" id="term-confirmation-label">
-	            <input type="checkbox" id="term-confirmation">
-	            <label for="term-check">I agree to the terms and conditions</label>
-	          </li>
-	        </ul>
-	      </li>
+				<ul class="half-width-container">
+					<li class="half-width">
+		        <ul class="flex-inner">
+		          <li class="required" id="age-confirmation-label">
+		            <input type="checkbox" id="age-confirmation">
+		            <label for="age-check">I confirm I am 18 years of age or older</label>
+		          </li>
+		        </ul>
+		      </li>
+					<li class="half-width">
+		        <ul class="flex-inner">
+		          <li class="required" id="term-confirmation-label">
+		            <input type="checkbox" id="term-confirmation">
+		            <label for="term-check">I agree to the terms and conditions</label>
+		          </li>
+		        </ul>
+		      </li>
+				</ul>
+				<h4>Enter and visit Nife is Life</h4>
 	      <li>
 	        <button type="submit" class="btn hero-btn">Submit</button>
 	      </li>
