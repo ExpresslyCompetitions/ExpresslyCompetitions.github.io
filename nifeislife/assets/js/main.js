@@ -1,6 +1,6 @@
 function xlyRegister(data) {
   var payload = {
-    merchantUuid: '748f710d-3801-41d2-9235-3c42bf7c6b80',
+    merchantUuid: '397933a-eb87-4e5f-a82f-0b919da1f6ff',
     width: 300,
     height: 600,
     email: data.email,
@@ -8,7 +8,6 @@ function xlyRegister(data) {
     forename: data.firstName,
     surname: data.lastName,
     address1: data.address1,
-    address2: data.address2,
     city: data.city,
     zip: data.zip,
     country: data.country,
@@ -41,13 +40,6 @@ var xlyrData = {
   successMessage: 'Thank you for entering the competition! We\'ll be in touch by 30 June if you are the lucky winner. \n\nYour Noxu Home account is ready, use code NOXU20 to get &pound;20 off your first order!'
 };
 
-// Fix for conflict with FastClick and Places
-$(document).on({
-    'DOMNodeInserted': function() {
-        $('.pac-item, .pac-item span', this).addClass('needsclick');
-    }
-}, '.pac-container');
-
 // This example displays an address form, using the autocomplete feature
 // of the Google Places API to help users fill in the information.
 
@@ -60,6 +52,7 @@ var placeSearch,
 var componentForm = {
   // route: 'long_name',
   // locality: 'long_name',
+  postal_town: 'long_name',
   country: 'long_name',
   postal_code: 'short_name'
 };
@@ -70,7 +63,7 @@ function initAutocomplete() {
   autocomplete = new google.maps.places.Autocomplete(
   /** @type {!HTMLInputElement} */
   (document.getElementById('autocomplete')), {
-    types: ['geocode'],
+    types: ['address'],
     componentRestrictions: { country: "uk" }
   });
 
@@ -238,3 +231,11 @@ function vrCheckTerms() {
   }
   return check.checked;
 }
+
+// Fix for conflict with FastClick and Places
+
+jQuery(document).on({
+    'DOMNodeInserted': function() {
+        $('.pac-item, .pac-item span', this).addClass('needsclick');
+    }
+}, '.pac-container');

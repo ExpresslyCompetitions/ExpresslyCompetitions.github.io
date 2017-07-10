@@ -333,7 +333,6 @@ header {
 .flex-outer li label, .flex-outer li p {
 	font-size: 14px;
   padding: 8px;
-  text-transform: uppercase;
 }
 
 .flex-outer > li > label, .flex-outer li p {
@@ -381,6 +380,17 @@ input::-webkit-input-placeholder {
 	color: #757575;
 }
 
+#age-confirmation {
+	flex-basis: 10% !important;
+} label {
+	flex-basis: 90% !important;
+}
+#term-confirmation {
+	flex-basis: 10% !important;
+} label {
+	flex-basis: 90% !important;
+}
+
 .hidden-field {
 	display: none!important;
 }
@@ -420,6 +430,9 @@ input::-webkit-input-placeholder {
 		.hero-block-sub {
 			padding-bottom: 30px;
 			margin-bottom: -60px;
+		}
+		.hero-block-header {
+			margin-top: 90px;
 		}
 	}
 	.our-work {
@@ -465,16 +478,6 @@ input::-webkit-input-placeholder {
 	}
 	.flex-outer > li:not(:last-child) {
 	  margin-bottom: 0px;
-	}
-	#age-confirmation {
-		flex-basis: 10% !important;
-	} label {
-		flex-basis: 90% !important;
-	}
-	#term-confirmation {
-		flex-basis: 10% !important;
-	} label {
-		flex-basis: 90% !important;
 	}
 	.half-width-container {
 		display: flex;
