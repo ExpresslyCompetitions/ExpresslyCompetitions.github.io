@@ -57,6 +57,16 @@ var componentForm = {
   postal_code: 'short_name'
 };
 
+// need to stop prop of the touchend event
+if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
+    setTimeout(function() {
+        var container = document.getElementsByClassName('pac-container')[0];
+        container.addEventListener('touchend', function(e) {
+            e.stopImmediatePropagation();
+        });
+    }, 500);
+}
+
 function initAutocomplete() {
   // Create the autocomplete object, restricting the search to geographical
   // location types.
