@@ -146,7 +146,7 @@ header {
 		}
 	}
 	h3 {
-		font: normal 24px $font_1, $font_0;
+		font: normal 22px $font_1, $font_0;
 		margin-bottom: 40px;
 		position: relative;
 		text-transform: uppercase;
@@ -284,7 +284,7 @@ header {
 		margin-top: 20px;
 	}
 	p {
-		max-width: 80%;
+		max-width: 100%;
 	}
 	form {
 		width: 80%;
@@ -334,6 +334,7 @@ header {
 .flex-outer li label, .flex-outer li p {
 	font-size: 14px;
   padding: 8px;
+	width: 300px;
 }
 
 .flex-outer > li > label, .flex-outer li p {

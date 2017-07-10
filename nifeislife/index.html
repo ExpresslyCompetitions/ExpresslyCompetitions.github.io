@@ -70,7 +70,7 @@
 				</p>
 				<a href="http://www.nifeislife.com/"><img src="assets/img/nife-logo.png" alt="Nife is life" class="nife-right-logo"></a>
 				<p>
-					The best Italian food and ingredients, some exclusively sold by us in the UK, delivered to your door. Visit <a href="nifeislife.com">Nife is Life</a> for your one-stop shop for Italian goodies.
+					The best Italian food and ingredients, some exclusively sold by us in the UK, delivered to your doorstep. Visit <a href="nifeislife.com">Nife is Life</a> for your one-stop shop for Italian goodies.
 				</p>
 			</div>
 	</section>
@@ -79,34 +79,34 @@
 		<hr>
 		<h3 class="title">Win a £500 voucher to spend at Nife Is Life</h3>
 		<p>
-			Calling all foodies - enjoy delicious, top quality Italian food in your home, by entering to win £500 voucher to spend on the best Italian ingredients! Expressly has teamed up with Nife is Life to offer two lucky people a £500 voucher to be won at <a href="https://www.nifeislife.com">nifeislife.com</a> - introducing you to the best ingredients chosen by food-loving Italian experts, delivered straight to your door.
+			Calling all foodies - enjoy delicious, top quality Italian food in your home, by entering to win a £500 voucher to spend on the best Italian ingredients! Expressly has teamed up with Nife is Life to offer two lucky people a £500 voucher to be won at <a href="https://www.nifeislife.com">nifeislife.com</a> - introducing you to the best ingredients chosen by food-loving Italian experts, delivered straight to your doorstep.
 		</p>
 		<p>
 			Enter the draw to win one of these £500 vouchers by completing the form below before 23.59 on 4th August 2017.
 		</p>
-		<form id="nife-contact-form">
+		<form id="nife-contact-form" action="" method="post">
 	    <ul class="flex-outer">
 				<h5 id="global-error" class="error-hidden">
       	</h5>
 	      <li>
 	        <label for="first-name">First Name</label>
-	        <input type="text" id="first-name" class="required" placeholder="Enter your first name here" value="" />
+	        <input type="text" id="first-name" name="firstName" class="required" placeholder="Enter your first name here" value="" />
 	      </li>
 	      <li>
 	        <label for="last-name">Last Name</label>
-	        <input type="text" id="last-name" class="required" placeholder="Enter your last name here" value="" />
+	        <input type="text" id="last-name" name="lastName" class="required" placeholder="Enter your last name here" value="" />
 	      </li>
 	      <li>
 	        <label for="email">Email</label>
-	        <input type="email" id="email" class="required" placeholder="Enter your email here" value="" />
+	        <input type="email" id="email" name="email" class="required" placeholder="Enter your email here" value="" />
 	      </li>
 	      <li>
 	        <label for="phone">Phone</label>
-	        <input type="tel" id="phone" class="required" placeholder="Enter your phone here" value="" maxlength="11"  oninput="this.value=this.value.replace(/[^0-9]/g,'');"/>
+	        <input type="tel" id="phone" name="phone" class="required" placeholder="Enter your phone here" value="" maxlength="11"  oninput="this.value=this.value.replace(/[^0-9]/g,'');"/>
 	      </li>
 				<li>
 	        <label for="gender">Gender:</label>
-					<select name="gender" id="gender" class="required">
+					<select name="gender" id="gender" name="gender"class="required">
 							<option value="">Select...</option>
 							<option value="F">Female</option>
 							<option value="M">Male</option>
@@ -123,7 +123,7 @@
 				</li> -->
 				<li class="hidden-field">
 					<label for="city">Town/City</label>
-					<input type="text" id="postal_town" name="city" class="required" value="" disabled="true" />
+					<input type="text" id="postal_town" name="city" name="city" class="required" value="" disabled="true" />
 				</li>
 				<li class="hidden-field">
 					<label for="county">Country</label>
@@ -131,13 +131,13 @@
 				</li>
 				<li class="hidden-field">
 					<label for="postCode">Postcode</label>
-					<input type="text" id="postal_code" name="postCode" class="required" placeholder="e.g AB1 2AB" value="" disabled="true" />
+					<input type="text" id="postal_code" name="zip" class="required" placeholder="e.g AB1 2AB" value="" disabled="true" />
 				</li>
 				<ul class="half-width-container">
 					<li class="half-width">
 		        <ul class="flex-inner">
 		          <li class="required" id="age-confirmation-label">
-		            <input type="checkbox" id="age-confirmation">
+		            <input type="checkbox" name="ageConfirm" id="age-confirmation">
 		            <label for="age-check">I confirm I am 18 years of age or older</label>
 		          </li>
 		        </ul>
@@ -145,11 +145,12 @@
 					<li class="half-width">
 		        <ul class="flex-inner">
 		          <li class="required" id="term-confirmation-label">
-		            <input type="checkbox" id="term-confirmation">
+		            <input type="checkbox" name="terms" id="term-confirmation">
 		            <label for="term-check">By clicking Enter, I agree to the competition T&amp;C and to be added to Nifeislife newsletter</label>
 		          </li>
 		        </ul>
 		      </li>
+					<input type="text" name="Test" value="Test">
 				</ul>
 	      <li>
 	        <button type="submit" class="btn hero-btn" id="xly-submitButton">Enter and visit Nife is Life</button>
@@ -159,6 +160,7 @@
 	</section>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAC5E9zvlI5tnt_Cai0B0b5_7305vINV3g&libraries=places&callback=initAutocomplete" async defer></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="assets/js/scripts.js" charset="utf-8"></script>
 <script type="text/javascript" src="assets/js/plugins.js"></script>
 <script type="text/javascript" src="assets/js/main.js?v=1"></script>
 </body>
