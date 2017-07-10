@@ -39,6 +39,7 @@ a {
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
+	color: $color_nife_green;
 }
 hr {
 	width: 150px;
@@ -381,14 +382,14 @@ input::-webkit-input-placeholder {
 }
 
 #age-confirmation {
-	flex-basis: 10% !important;
+	flex-basis: 5% !important;
 } label {
-	flex-basis: 90% !important;
+	flex-basis: 95% !important;
 }
 #term-confirmation {
-	flex-basis: 10% !important;
+	flex-basis: 5% !important;
 } label {
-	flex-basis: 90% !important;
+	flex-basis: 95% !important;
 }
 
 .hidden-field {
