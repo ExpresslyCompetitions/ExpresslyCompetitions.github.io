@@ -334,7 +334,6 @@ header {
 .flex-outer li label, .flex-outer li p {
 	font-size: 14px;
   padding: 8px;
-	width: 300px;
 }
 
 .flex-outer > li > label, .flex-outer li p {
@@ -391,6 +390,10 @@ input::-webkit-input-placeholder {
 	flex-basis: 5% !important;
 } label {
 	flex-basis: 95% !important;
+}
+
+.flex-inner li {
+	width: 100%;
 }
 
 .hidden-field {
@@ -485,6 +488,10 @@ input::-webkit-input-placeholder {
 		flex-basis: 100%;
 		margin: 0 0 10px 0;
 	}
+	.contact form select {
+		flex-basis: 100%;
+		margin: 0 0 10px 0;
+	}
 	.flex-outer > li:not(:last-child) {
 	  margin-bottom: 0px;
 	}
@@ -513,5 +520,9 @@ input::-webkit-input-placeholder {
 	}
 	footer {
 		padding: 80px 15px;
+	}
+	.flex-outer li label, .flex-outer li p {
+		font-size: 14px;
+	  padding: 8px;
 	}
 }
