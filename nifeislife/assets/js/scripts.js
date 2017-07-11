@@ -34,7 +34,7 @@ function initAutocomplete() {
 
 function showAddressFields() {
   const hiddenFields = document.querySelectorAll('.hidden-field');
-  for (let i = 0; i < hiddenFields.length; i++) {
+  for (var i = 0; i < hiddenFields.length; i++) {
     hiddenFields[i].classList.remove('hidden-field');
   }
 }
@@ -118,8 +118,6 @@ function register(event) {
 function xlyBuildPayload() {
   var payload = {
     merchantUuid: 'b397933a-eb87-4e5f-a82f-0b919da1f6ff',
-    width: 181,
-    height: 48,
     email: email.value,
     fullName: firstName.value + ' ' + lastName.value,
     forename: firstName.value,
@@ -130,7 +128,7 @@ function xlyBuildPayload() {
     country: 'GB',
     phone: phone.value,
     gender: gender.value,
-    campaigns: ['c-735f0a46-4f8e-4e84-ae21-57177676db22'],
+    campaigns: ['c-a3fa3880-c098-4257-9a8a-faa9bed19560'],
   };
   xlyPrecache(payload);
 }
