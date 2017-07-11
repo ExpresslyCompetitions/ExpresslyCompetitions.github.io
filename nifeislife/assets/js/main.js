@@ -8,7 +8,8 @@ function xlyPrecache(payload) {
     success: function(response) {
       window.location.href = response.migrationLink;
     },
-    error: function() {
+    error: function(e) {
+      console.log(e);
       alert("Oops, something went wrong with your submission. Please try again.");
     }
   });

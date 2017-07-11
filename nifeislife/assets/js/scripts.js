@@ -11,7 +11,7 @@ var componentForm = {
   // route: 'long_name',
   // locality: 'long_name',
   postal_town: 'long_name',
-  country: 'long_name',
+  // country: 'long_name',
   postal_code: 'short_name'
 };
 
@@ -93,6 +93,7 @@ const termsLabel = document.querySelector('#term-confirmation-label');
 const city = document.querySelector('#postal_town');
 const country = document.querySelector('#country');
 const gender = document.querySelector('#gender')
+const showBtn = document.querySelector('#show-fields');
 
 const fieldErrorStyle = 'border:1px solid red;';
 const hideErrorStyle = 'border:none';
@@ -103,6 +104,10 @@ const hideErrorStyle = 'border:none';
   form.addEventListener('submit', event => {
     register(event);
   })
+
+  showBtn.addEventListener('click', event => {
+    showAddressFields();
+  })
 })();
 
 function register(event) {
@@ -112,7 +117,9 @@ function register(event) {
 
 function xlyBuildPayload() {
   var payload = {
-    merchantUuid: '748f710d-3801-41d2-9235-3c42bf7c6b80',
+    merchantUuid: 'b397933a-eb87-4e5f-a82f-0b919da1f6ff',
+    width: 181,
+    height: 48,
     email: email.value,
     fullName: firstName.value + ' ' + lastName.value,
     forename: firstName.value,
@@ -120,10 +127,10 @@ function xlyBuildPayload() {
     address1: address1.value,
     city: city.value,
     zip: postcode.value,
-    country: country.value,
+    country: 'GB',
     phone: phone.value,
     gender: gender.value,
-    campaigns: ['819ac1ed-827b-4304-a5c1-2e4240369e53']
+    campaigns: ['c-735f0a46-4f8e-4e84-ae21-57177676db22'],
   };
   xlyPrecache(payload);
 }
@@ -208,6 +215,12 @@ function vrCheckTerms() {
     terms.style.color = '#B2B2B2';
   }
   return check.checked;
+}
+
+// Show/Hide manual entry fields
+
+function showHide() {
+
 }
 
 // Fix for conflict with FastClick and Places
