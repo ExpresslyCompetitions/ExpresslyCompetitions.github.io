@@ -117,6 +117,9 @@
 					<label for="address1">Address</label>
 					<input type="text" id="autocomplete" class="required" name="address1" placeholder="Start writing your address" onFocus="geolocate()" value="" />
 				</li>
+				<li id="show-fields">
+					<p>Enter Address Manually</p>
+				</li>
 				<!-- <li class="hidden-field">
 					<label for="address2">Address line 2</label>
 					<input type="text" id="route" name="address1" placeholder="Further address details" value="" disabled="true" />
@@ -125,9 +128,9 @@
 					<label for="city">Town/City</label>
 					<input type="text" id="postal_town" name="city" name="city" class="required" value="" disabled="true" />
 				</li>
-				<li class="hidden-field">
+				<li class="hidden-field" style="display: none!important;">
 					<label for="county">Country</label>
-					<input type="text" id="country" name="country" class="required" value="" disabled="true" />
+					<input type="text" name="country" class="required" value="UK" disabled="true" />
 				</li>
 				<li class="hidden-field">
 					<label for="postCode">Postcode</label>

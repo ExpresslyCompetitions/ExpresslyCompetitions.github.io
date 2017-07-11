@@ -373,6 +373,16 @@ input::-webkit-input-placeholder {
     font-size: 14px;;
 }
 
+#show-fields {
+	justify-content: flex-end;
+	margin: 0px;
+	margin-top: -15px;
+	p {
+		text-align: right;
+		color: $color_nife_green;
+	}
+}
+
 #gender {
 	border: none;
 	height: 35px;
