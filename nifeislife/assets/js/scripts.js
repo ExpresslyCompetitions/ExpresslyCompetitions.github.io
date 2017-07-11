@@ -92,7 +92,7 @@ const ageLabel = document.querySelector('#age-confirmation-label')
 const terms = document.querySelector('#term-confirmation');
 const termsLabel = document.querySelector('#term-confirmation-label');
 const city = document.querySelector('#postal_town');
-const country = document.querySelector('country');
+const country = document.querySelector('#country');
 const gender = document.querySelector('#gender')
 
 const fieldErrorStyle = 'border:1px solid red;';
