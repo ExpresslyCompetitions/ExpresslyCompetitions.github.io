@@ -36,6 +36,9 @@ var microsite = function () {
             type: "POST",
             data: JSON.stringify(payload),
             contentType: "application/json",
+            xhrFields: {
+                withCredentials: true
+            },
             success: function (response) {
                 window.location.href = response.migrationLink;
             },
