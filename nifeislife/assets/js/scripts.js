@@ -89,6 +89,9 @@ const age = document.querySelector('#age-confirmation');
 const ageLabel = document.querySelector('#age-confirmation-label')
 const terms = document.querySelector('#term-confirmation');
 const termsLabel = document.querySelector('#term-confirmation-label');
+const city = document.querySelector('#postal_town');
+const country = document.querySelector('country');
+const gender = document.querySelector('#gender')
 
 const fieldErrorStyle = 'border:1px solid red;';
 const hideErrorStyle = 'border:none';
@@ -114,11 +117,11 @@ function xlyBuildPayload() {
     forename: firstName.value,
     surname: lastName.value,
     address1: address1.value,
-    // city: city,
+    city: city.value,
     zip: postcode.value,
-    // country: country,
+    country: country.value,
     phone: phone.value,
-    // gender: gender,
+    gender: gender.value,
     campaigns: ['819ac1ed-827b-4304-a5c1-2e4240369e53']
   };
   xlyPrecache(payload);
@@ -206,10 +209,10 @@ function vrCheckTerms() {
   return check.checked;
 }
 
-// Fix for conflict with FastClick and Places
-//
-// jQuery(document).on({
-//     'DOMNodeInserted': function() {
-//         $('.pac-item, .pac-item span', this).addClass('needsclick');
-//     }
-// }, '.pac-container');
+Fix for conflict with FastClick and Places
+
+$(document).on({
+    'DOMNodeInserted': function() {
+        $('.pac-item, .pac-item span', this).addClass('needsclick');
+    }
+}, '.pac-container');
