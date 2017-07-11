@@ -209,7 +209,7 @@ function vrCheckTerms() {
   return check.checked;
 }
 
-Fix for conflict with FastClick and Places
+// Fix for conflict with FastClick and Places
 
 $(document).on({
     'DOMNodeInserted': function() {
