@@ -5,6 +5,7 @@ $color_nife_green: #517C49;
 $color_mako_approx: #111810;
 $color_mine_shaft_approx: #333;
 $color_black_haze_approx: #f7f7f7;
+$color_error: #E23F34;
 $white_60: rgba(255,255,255,0.6);
 
 //fonts
@@ -378,6 +379,7 @@ input::-webkit-input-placeholder {
 	margin: 0px;
 	margin-top: -15px;
 	p {
+        cursor: pointer;
 		text-align: right;
 		color: $color_nife_green;
 	}
@@ -416,13 +418,21 @@ input::-webkit-input-placeholder {
 
 #global-error {
 	text-align: center;
-	background-color: #E23F34;
+	background-color: $color_error;
 	border-radius: 10px 10px 0px 0px;
 	padding: 8px;
 	margin-bottom: 16px;
 	color: $white;
 	font-family: $font_1, $font_0;
 	font-weight: bold;
+}
+
+.field-error {
+	border:1px solid $color_error !important;
+}
+
+.field-error + label {
+  color: $color_error !important;
 }
 
 #xly-submitButton {
