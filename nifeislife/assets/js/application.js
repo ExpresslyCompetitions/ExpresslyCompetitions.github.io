@@ -1,5 +1,5 @@
 var microsite = function () {
-
+    $.support.cors = true;
     var email = $('#email');
     var postcode = $('#postal_code');
 
