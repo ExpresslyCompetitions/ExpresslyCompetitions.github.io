@@ -185,8 +185,6 @@ var microsite = function () {
 
     registerEvents();
 
-    flexibility(document.documentElement);
-
     return {
         initAutocomplete: function () {
             autocomplete = new google.maps.places.Autocomplete(
@@ -218,4 +216,5 @@ $(function() {
             });
         }, 500);
     }
+    flexibility(document.body);
 });
