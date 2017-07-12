@@ -175,7 +175,7 @@ var microsite = function () {
 
     function registerEvents() {
         $('#show-fields').click(showAddressFields);
-        $('#nife-contact-form').submit(function () {
+        $('#nife-contact-form').submit(function (event) {
             event.preventDefault();
             submit();
         });
