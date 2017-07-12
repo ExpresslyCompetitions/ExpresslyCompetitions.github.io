@@ -2,7 +2,6 @@ var microsite = function () {
 
     var email = $('#email');
     var postcode = $('#postal_code');
-    var address1 = $('#autocomplete');
 
     function submit() {
         if (validate()) {
@@ -13,6 +12,8 @@ var microsite = function () {
     function buildPayload() {
         var firstName = $('#first-name').val();
         var lastName = $('#last-name').val();
+        var streetNo = $('#street_number').val();
+        var streetName = $('#route').val();
 
         return {
             merchantUuid: 'b397933a-eb87-4e5f-a82f-0b919da1f6ff',
@@ -21,7 +22,7 @@ var microsite = function () {
             fullName: firstName + ' ' + lastName,
             forename: firstName,
             surname: lastName,
-            address1: address1.val(),
+            address1: streetNo + ' ' + streetName,
             city: $('#postal_town').val(),
             zip: postcode.val(),
             country: 'GB',
@@ -132,6 +133,8 @@ var microsite = function () {
     }
 
     var componentForm = {
+        street_number: 'short_name',
+        route: 'long_name',
         postal_town: 'long_name',
         postal_code: 'short_name'
     };
@@ -207,4 +210,4 @@ $(function() {
             });
         }, 500);
     }
-}); 
+});

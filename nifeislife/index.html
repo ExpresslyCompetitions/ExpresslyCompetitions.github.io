@@ -116,11 +116,19 @@
                 </select>
         </li>
         <li>
-          <label for="autocomplete">Address</label>
+          <label for="autocomplete">Address Lookup</label>
           <input type="text" id="autocomplete" class="required" name="address1" placeholder="Start writing your address" value="" />
         </li>
         <li id="show-fields">
           <p>Enter Address Manually</p>
+        </li>
+        <li class="hidden-field">
+          <label for="street-number">Street No.</label>
+          <input type="text" id="street_number" name="street_no" class="required" value="" />
+        </li>
+        <li class="hidden-field">
+          <label for="street-name">Street Name</label>
+          <input type="text" id="route" name="street_name" class="required" value="" />
         </li>
         <li class="hidden-field">
           <label for="postal_town">Town/City</label>
