@@ -198,9 +198,13 @@ var microsite = function () {
 }();
 
 // Fix for conflict with FastClick and Places
-$(document).on({
-    'DOMNodeInserted': function () {
-        $('.pac-item, .pac-item span', this).addClass('needsclick');
+$(function() {
+    if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
+        setTimeout(function() {
+            var container = document.getElementsByClassName('pac-container')[0];
+            container.addEventListener('touchend', function(e) {
+                e.stopImmediatePropagation();
+            });
+        }, 500);
     }
-}, '.pac-container');
-
+}); 
