@@ -29,6 +29,7 @@ ul {
 
 	&.grid {
 		width: 100%;
+		-js-display: flex;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -98,6 +99,7 @@ header {
 	left: 0;
 	z-index: 10;
 	width: 100%;
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -115,6 +117,7 @@ header {
 	}
 
 	nav {
+		-js-display: flex;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -134,6 +137,7 @@ header {
 }
 
 .hero {
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -280,6 +284,7 @@ header {
 }
 
 .our-work {
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -325,6 +330,7 @@ header {
 }
 
 .quality {
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -376,6 +382,7 @@ header {
 
 .contact {
 	padding: 50px 0;
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -424,6 +431,7 @@ h4 {
 
 .flex-inner,
 .flex-outer li {
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -435,6 +443,7 @@ h4 {
 }
 
 .half-width-container {
+	-js-display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -528,24 +537,20 @@ input::-webkit-input-placeholder {
 	color: #757575;
 }
 
-#age-confirmation {
-	-ms-flex-preferred-size: 5% !important;
-	flex-basis: 5% !important;
-}
-
-label {
-	-ms-flex-preferred-size: 95% !important;
-	flex-basis: 95% !important;
-}
-
-#term-confirmation {
-	-ms-flex-preferred-size: 5% !important;
-	flex-basis: 5% !important;
-}
-
-label {
-	-ms-flex-preferred-size: 95% !important;
-	flex-basis: 95% !important;
+.checkbox-field {
+	-js-display: flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	label {
+		-ms-flex-preferred-size: 95%;
+		    flex-basis: 95%!important;
+				max-width: 100%!important;
+	}
 }
 
 .flex-inner li {
@@ -587,6 +592,10 @@ label {
 	background-color: lighten( $color_nife_green, 10% );
 }
 @media(max-width: 900px) {
+	.checkbox-field input {
+		-ms-flex-preferred-size: 5%;
+		    flex-basis: 5%!important;
+	}
 	.hero {
 		min-height: 600px;
 
@@ -694,6 +703,7 @@ label {
 	}
 
 	.half-width-container {
+		-js-display: flex;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;

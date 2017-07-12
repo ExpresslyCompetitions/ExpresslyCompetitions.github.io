@@ -141,23 +141,13 @@
           <label for="postal_code">Postcode</label>
           <input type="text" id="postal_code" name="zip" class="required" placeholder="e.g AB1 2AB" value="" />
         </li>
-        <li class="half-width-container">
-          <div class="half-width">
-            <ul class="flex-inner">
-              <li class="required" id="age-confirmation-label">
-                <input type="checkbox" name="ageConfirm" id="age-confirmation">
-                <label for="age-confirmation">I confirm I am 18 years of age or older</label>
-              </li>
-            </ul>
-          </div>
-          <div class="half-width">
-            <ul class="flex-inner">
-              <li class="required" id="term-confirmation-label">
-                <input type="checkbox" name="terms" id="term-confirmation">
-                <label for="term-confirmation">I agree to the competition <a href="https://www.buyexpressly.com" target="_blank">T&amp;C</a> and to receive Nife Is Life newsletter</label>
-              </li>
-            </ul>
-          </div>
+        <li class="required checkbox-field" id="age-confirmation-label">
+          <input type="checkbox" name="ageConfirm" id="age-confirmation">
+          <label for="age-confirmation">I confirm I am 18 years of age or older</label>
+        </li>
+        <li class="required checkbox-field" id="term-confirmation-label">
+          <input type="checkbox" name="terms" id="term-confirmation">
+          <label for="term-confirmation">I agree to the competition <a href="https://www.buyexpressly.com" target="_blank">T&amp;C</a> and to receive Nife Is Life newsletter</label>
         </li>
         <li>
           <button type="submit" class="btn hero-btn" id="xly-submitButton">Enter competition</button>

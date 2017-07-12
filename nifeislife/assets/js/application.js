@@ -185,6 +185,8 @@ var microsite = function () {
 
     registerEvents();
 
+    flexibility(document.documentElement);
+
     return {
         initAutocomplete: function () {
             autocomplete = new google.maps.places.Autocomplete(
