@@ -1,5 +1,5 @@
 var microsite = function () {
-
+    $.support.cors = true;
     var email = $('#email');
     var postcode = $('#postal_code');
 
@@ -175,7 +175,7 @@ var microsite = function () {
 
     function registerEvents() {
         $('#show-fields').click(showAddressFields);
-        $('#nife-contact-form').submit(function () {
+        $('#nife-contact-form').submit(function (event) {
             event.preventDefault();
             submit();
         });
