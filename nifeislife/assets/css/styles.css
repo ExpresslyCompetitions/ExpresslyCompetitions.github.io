@@ -11,8 +11,13 @@ ul {
   list-style: none; }
   ul.grid {
     width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
     justify-content: center; }
 
 nav {
@@ -53,6 +58,7 @@ section h3.title {
 
 @media (max-width: 600px) {
   .features .grid li {
+    -ms-flex-preferred-size: 100%;
     flex-basis: 100%; } }
 header {
   position: absolute;
@@ -60,14 +66,22 @@ header {
   left: 0;
   z-index: 10;
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   color: #fff;
   padding: 35px 100px 0; }
   header h2 {
     font-family: Quicksand, sans-serif; }
   header nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex; }
     header nav li {
       margin: 0 15px; }
@@ -77,10 +91,19 @@ header {
         margin-right: 0; }
 
 .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   position: relative;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
   min-height: 100vh;
   color: #111810;
@@ -121,7 +144,9 @@ header {
     width: 50px;
     height: 50px; }
     .hero a.btn:after {
-      animation: shine 4s ease-in-out  infinite;
+      -webkit-animation: shine 4s ease-in-out infinite;
+      animation: shine 4s ease-in-out infinite;
+      -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       content: "";
       position: absolute;
@@ -130,42 +155,76 @@ header {
       width: 180%;
       height: 150%;
       opacity: 0;
+      -webkit-transform: rotate(3deg);
       transform: rotate(3deg);
       background: rgba(255, 255, 255, 0.13);
+      background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.13)), color-stop(77%, rgba(255, 255, 255, 0.13)), color-stop(92%, rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0)));
       background: linear-gradient(to right, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.13) 77%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%); }
-@keyframes shine {
+@-webkit-keyframes shine {
   10% {
     opacity: 1;
     top: -30%;
     left: -30%;
+    -webkit-transition-property: left, top, opacity;
     transition-property: left, top, opacity;
+    -webkit-transition-duration: 0.7s, 0.7s, 0.15s;
     transition-duration: 0.7s, 0.7s, 0.15s;
+    -webkit-transition-timing-function: ease;
     transition-timing-function: ease; }
   100% {
     opacity: 0;
     top: -30%;
     left: -30%;
+    -webkit-transition-property: left, top, opacity;
+    transition-property: left, top, opacity; } }
+@keyframes shine {
+  10% {
+    opacity: 1;
+    top: -30%;
+    left: -30%;
+    -webkit-transition-property: left, top, opacity;
+    transition-property: left, top, opacity;
+    -webkit-transition-duration: 0.7s, 0.7s, 0.15s;
+    transition-duration: 0.7s, 0.7s, 0.15s;
+    -webkit-transition-timing-function: ease;
+    transition-timing-function: ease; }
+  100% {
+    opacity: 0;
+    top: -30%;
+    left: -30%;
+    -webkit-transition-property: left, top, opacity;
     transition-property: left, top, opacity; } }
   .hero .hero-block {
     background-color: #fff;
     width: 70vw;
-    padding: 20px 0px; }
+    padding: 20px 0; }
   .hero .hero-block-header {
     margin-bottom: 30px; }
   .hero .hero-block-sub {
     padding-bottom: 50px; }
 
 .our-work {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
   flex-direction: row;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center; }
   .our-work .our-work-left {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 0;
     flex: 1 0 0;
     width: 50%; }
     .our-work .our-work-left p {
       text-align: left;
-      padding: 0px 50px; }
+      padding: 0 50px; }
   .our-work .our-work-right {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 0;
     flex: 1 0 0;
     width: 50%; }
 
@@ -177,23 +236,35 @@ header {
   background-color: #333; }
 
 .our-work .grid li.large {
+  -ms-flex-preferred-size: 100%;
   flex-basis: 100%; }
 
 .quality {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
   flex-direction: row;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center; }
   .quality .quality-left {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 0;
     flex: 1 0 0;
     width: 50%; }
   .quality .quality-right {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 0;
     flex: 1 0 0;
     width: 50%; }
   .quality p {
     text-align: left;
-    padding: 0px 50px; }
+    padding: 0 50px; }
   .quality .nife-right-logo {
-    padding: 0px 50px;
+    padding: 0 50px;
     margin-bottom: 50px; }
 
 .quality-left .grid li {
@@ -204,12 +275,20 @@ header {
   background-color: #333; }
 
 .quality-left .grid li.large {
+  -ms-flex-preferred-size: 100%;
   flex-basis: 100%; }
 
 .contact {
-  padding: 50px 0px;
+  padding: 50px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   background-color: #fff; }
   .contact hr {
@@ -221,7 +300,8 @@ header {
     .contact form .btn {
       padding: 18px 42px; }
 
-.flex-outer, .flex-inner {
+.flex-inner,
+.flex-outer {
   list-style-type: none;
   padding: 0; }
 
@@ -234,40 +314,59 @@ h4 {
   padding: 15px;
   font-weight: normal; }
 
-.flex-outer li, .flex-inner {
+.flex-inner,
+.flex-outer li {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center; }
 
 .half-width-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex; }
   .half-width-container .half-width {
+    -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
     width: 50%; }
 
 .flex-inner {
   padding: 0 8px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between; }
 
 .flex-outer > li:not(:last-child) {
   margin-bottom: 20px; }
 
-.flex-outer li label, .flex-outer li p {
+.flex-outer li label,
+.flex-outer li p {
   font-size: 14px;
   padding: 8px; }
 
-.flex-outer > li > label, .flex-outer li p {
+.flex-outer > li > label,
+.flex-outer li p {
   font-size: 14px;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 0 120px;
   flex: 1 0 120px;
   max-width: 220px; }
 
-.flex-outer > li > label + *, .flex-inner {
+.flex-inner,
+.flex-outer > li > label + * {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 0 220px;
   flex: 1 0 220px; }
 
 .flex-outer li p {
   margin: 0; }
 
-.flex-outer li input:not([type='checkbox']), .flex-outer li textarea {
+.flex-outer li input:not([type='checkbox']),
+.flex-outer li textarea {
   background-color: #F7F7F7;
   padding: 15px 15px 15px 10px;
   border: none;
@@ -288,9 +387,10 @@ input::-webkit-input-placeholder {
   font-size: 14px; }
 
 #show-fields {
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
   justify-content: flex-end;
-  margin: 0px;
-  margin-top: -15px; }
+  margin: -15px 0 0; }
   #show-fields p {
     cursor: pointer;
     text-align: right;
@@ -304,15 +404,19 @@ input::-webkit-input-placeholder {
   color: #757575; }
 
 #age-confirmation {
+  -ms-flex-preferred-size: 5% !important;
   flex-basis: 5% !important; }
 
 label {
+  -ms-flex-preferred-size: 95% !important;
   flex-basis: 95% !important; }
 
 #term-confirmation {
+  -ms-flex-preferred-size: 5% !important;
   flex-basis: 5% !important; }
 
 label {
+  -ms-flex-preferred-size: 95% !important;
   flex-basis: 95% !important; }
 
 .flex-inner li {
@@ -327,7 +431,7 @@ label {
 #global-error {
   text-align: center;
   background-color: #E23F34;
-  border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0 0;
   padding: 8px;
   margin-bottom: 16px;
   color: #fff;
@@ -366,10 +470,13 @@ label {
       margin-top: 90px; }
 
   .our-work {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column; }
     .our-work .our-work-left {
       width: 100%;
-      padding: 50px 0px; }
+      padding: 50px 0; }
       .our-work .our-work-left p {
         text-align: center;
         padding: 10px; }
@@ -381,10 +488,13 @@ label {
       max-width: 100%; }
 
   .quality {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
     flex-direction: column-reverse; }
     .quality .quality-right {
       width: 100%;
-      padding: 50px 0px;
+      padding: 50px 0;
       text-align: center; }
       .quality .quality-right p {
         text-align: center;
@@ -397,20 +507,28 @@ label {
       height: 200px; }
 
   .contact form input {
+    -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
-    margin: 0 0 10px 0; }
+    margin: 0 0 10px; }
 
   .contact form select {
+    -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
-    margin: 0 0 10px 0; }
+    margin: 0 0 10px; }
 
   .flex-outer > li:not(:last-child) {
-    margin-bottom: 0px; }
+    margin-bottom: 0; }
 
   .half-width-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column; }
     .half-width-container .half-width {
+      -ms-flex-wrap: nowrap;
       flex-wrap: nowrap;
       width: 100%; }
 
@@ -421,6 +539,9 @@ label {
     margin-bottom: 30px; } }
 @media (max-width: 700px) {
   header {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column; }
     header h2 {
       margin-bottom: 15px; }
@@ -428,7 +549,8 @@ label {
   footer {
     padding: 80px 15px; }
 
-  .flex-outer li label, .flex-outer li p {
+  .flex-outer li label,
+  .flex-outer li p {
     font-size: 14px;
     padding: 8px; } }
 
