@@ -1,5 +1,6 @@
 var microsite = function () {
     $.support.cors = true;
+    var protocol = 'https:';
     var email = $('#email');
     var postcode = $('#postal_code');
 
@@ -33,7 +34,7 @@ var microsite = function () {
 
     function precacheAndRedirect(payload) {
         $.ajax({
-            url: "https://prod.expresslyapp.com/api/adserver/banner/precache",
+            url: protocol + "//prod.expresslyapp.com/api/adserver/banner/precache",
             type: "POST",
             data: JSON.stringify(payload),
             contentType: "application/json",
@@ -196,6 +197,11 @@ var microsite = function () {
                 fillInAddress();
                 showAddressFields();
             });
+        },
+
+        matchProtocol: function(value) {
+            protocol = value === true ? window.location.protocol : 'https:';
+            console.log('p=' + value + "," + protocol);
         }
     };
 }();
