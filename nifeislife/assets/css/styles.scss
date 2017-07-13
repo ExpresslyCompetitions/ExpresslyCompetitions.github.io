@@ -485,9 +485,19 @@ h4 {
 .flex-outer li input:not([type='checkbox']),
 .flex-outer li textarea {
 	background-color: #F7F7F7;
-	padding: 15px 15px 15px 10px;
+	padding-left: 10px;
 	border: none;
 	height: 35px;
+}
+
+@-moz-document url-prefix() {
+	.flex-outer li input:not([type='checkbox']),
+	.flex-outer li textarea {
+		font-size:14px;
+	}
+	#gender {
+		padding-left: 10px;
+	}
 }
 
 .flex-outer li button {
