@@ -735,3 +735,23 @@ input::-webkit-input-placeholder {
 		padding: 8px;
 	}
 }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.hero {
+		position: relative;
+	}
+
+	.hero-block {
+		text-align: center!important;
+	}
+
+	.hero-block-header {
+		position: absolute;
+		top: 45%;
+		left: 25%;
+	}
+
+	.hero-block-sub {
+		top: 45%;
+		left: 25%;
+	}
+}

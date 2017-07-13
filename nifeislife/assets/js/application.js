@@ -216,5 +216,6 @@ $(function() {
             });
         }, 500);
     }
-    // flexibility(document.body);
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent', navigator.userAgent);
 });
