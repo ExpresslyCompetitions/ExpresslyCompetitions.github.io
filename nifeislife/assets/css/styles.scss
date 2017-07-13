@@ -581,6 +581,12 @@ input::-webkit-input-placeholder {
 #xly-submitButton:hover {
 	background-color: lighten( $color_nife_green, 10% );
 }
+
+.down-arrow {
+	position: absolute;
+	bottom: 10px;
+}
+
 @media(max-width: 900px) {
 	.checkbox-field input {
 		-ms-flex-preferred-size: 5%;
