@@ -602,6 +602,9 @@ input::-webkit-input-placeholder {
 		-ms-flex-preferred-size: 5%;
 		    flex-basis: 5%!important;
 	}
+	.down-arrow {
+		display: none;
+	}
 	.hero {
 		min-height: 600px;
 
