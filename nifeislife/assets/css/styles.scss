@@ -155,28 +155,8 @@ header {
 	min-height: 100vh;
 	color: $color_mako_approx;
 	text-align: center;
-
-	.background-image {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		background-size: cover;
-		background-color: $color_nife_green;
-		z-index: -1;
-
-		&:after {
-			content: '';
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			// background-color: $color_mako_approx;
-			// opacity: 0.75;
-		}
-	}
+	background-image: url('../img/header-img.png');
+	background-size: cover;
 
 	h1 {
 		font: bold 48px $font_1, $font_0;
@@ -317,11 +297,20 @@ header {
 }
 
 .our-work .grid li {
-	height: 600px;
+	height: 580px;
 	background-clip: content-box;
 	background-size: cover;
 	background-position: center;
 	background-color: #333;
+	background-repeat: no-repeat;
+}
+
+#parma-ham {
+	background: url('../img/parma-ham.png');
+}
+
+#octopus {
+	background: url('../img/octopus-salad.jpg');
 }
 
 .our-work .grid li.large {
@@ -368,11 +357,12 @@ header {
 }
 
 .quality-left .grid li {
-	height: 600px;
+	height: 580px;
 	background-clip: content-box;
 	background-size: cover;
 	background-position: center;
 	background-color: #333;
+	background-repeat: no-repeat;
 }
 
 .quality-left .grid li.large {
@@ -649,10 +639,8 @@ input::-webkit-input-placeholder {
 
 		.grid li {
 			height: 200px;
-		}
-
-		img {
-			max-width: 100%;
+	    background-position: center!important;
+	    background-size: cover!important;
 		}
 	}
 
@@ -677,12 +665,10 @@ input::-webkit-input-placeholder {
 			width: 100%;
 		}
 
-		img {
-			max-width: 100%;
-		}
-
 		.grid li {
 			height: 200px;
+			background-position: center!important;
+	    background-size: cover!important;
 		}
 	}
 
