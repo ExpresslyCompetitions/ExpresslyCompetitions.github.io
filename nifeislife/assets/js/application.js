@@ -216,5 +216,5 @@ $(function() {
             });
         }, 500);
     }
-    flexibility(document.body);
+    // flexibility(document.body);
 });
