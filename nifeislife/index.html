@@ -29,13 +29,19 @@
   </header>
 
   <section class="hero">
-    <div class="background-image" style="background-image: url(assets/img/header-img.png);"></div>
     <div class="hero-block hero-block-header">
-      <h1>2 WINNERS GET &pound;500 TO SPEND at </h1>
+      <h1>2 WINNERS GET &pound;500 AT  </h1>
     </div>
     <div class="hero-block hero-block-sub">
       <h3>To spend on delicious Italian food products, delivered to your door.</h3>
       <a href="#contact-anchor" class="btn hero-btn">Enter now</a>
+    </div>
+    <div class="down-arrow">
+      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+          <g class="nc-icon-wrapper" fill="#ffffff">
+              <path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 24l-8-8h16l-8 8z"></path>
+          </g>
+      </svg>
     </div>
   </section>
 
@@ -43,7 +49,7 @@
   <section class="our-work">
     <div class="our-work-left">
       <p>
-        Online deli Nife is Life offers 1,500 of Italy’s finest products – bringing your favourite Italian food to your door, with UK-wide delivery within two days (same day for London).
+        Online deli Nife is Life offers 1,500 of Italy’s finest products – bringing your favourite Italian food to your door, with UK-wide same-day or next-day delivery.
       </p>
       <p>
         Want to try some of Italy’s best foods? We’ve teamed up with Nife is Life to offer two lucky people the chance to win a &pound;500 voucher to spend online – the ideal opportunity to enjoy some seriously good eating!
@@ -54,7 +60,8 @@
     </div>
     <div class="our-work-right">
       <ul class="grid">
-        <li class="large" style="background-image: url(assets/img/parma-ham.png);"></li>
+        <li class="large" id="parma-ham">
+        </li>
       </ul>
     </div>
   </section>
@@ -62,17 +69,18 @@
   <section class="quality">
     <div class="quality-left">
       <ul class="grid">
-        <li class="large" style="background-image: url(assets/img/octopus-salad.jpg);"></li>
+        <li class="large" id="octopus">
+        </li>
       </ul>
     </div>
     <div class="quality-right">
       <p>
-        Quality and flavour is at the forefront of what Nife is Life does – and, with same-day or next-day delivery throughout the UK, plus free delivery over &pound;60, there’s no easier way to indulge yourself but with a one-stop Italian food experience!
+        Quality and flavour is at the forefront of what Nife is Life does – and with free delivery over &pound;60, there’s no easier way to indulge yourself with a one-stop Italian food experience!
       </p>
       <a href="http://www.nifeislife.com/"><img src="assets/img/nife-logo.png" alt="Nife is life"
                                                   class="nife-right-logo"></a>
       <p>
-        The best Italian food and ingredients, some exclusively sold by us in the UK, delivered to your door. Visit <a href="http://www.nifeislife.com">Nife is Life</a> for your one-stop shop for Italian goodies.
+        The best Italian food and ingredients, some exclusively sold by Nife is Life in the UK, including fresh fish, meat, fruit and vegetables and a new range of home-prepared meals, salads and desserts.
       </p>
     </div>
   </section>
@@ -81,8 +89,7 @@
     <hr>
     <h3 class="title">Win a &pound;500 voucher to spend at Nife Is Life</h3>
     <p>
-      Calling all foodies - enjoy delicious, top quality Italian food in your home, by entering to win a &pound;500 voucher to spend on the best Italian ingredients! Expressly has teamed up with Nife is Life to offer two lucky people a &pound;500 voucher to
-      be won at <a href="https://www.nifeislife.com">nifeislife.com</a> - introducing you to the best ingredients chosen by food-loving Italian experts, delivered straight to your door.
+      Calling all foodies. Enjoy delicious, top-quality Italian food in your home, by entering to win a £500 voucher to spend on the best Italian ingredients! Expressly has teamed up with Nife is Life to offer two lucky people a £500 voucher to be won at <a href="https://www.nifeislife.com">nifeislife.com</a> – introducing you to the best ingredients chosen by food-loving Italian experts, delivered straight to your door.
     </p>
     <p>
       Enter the draw to win one of these &pound;500 vouchers by completing the form below before 23.59 on 4th August 2017.
@@ -142,29 +149,23 @@
           <label for="postal_code">Postcode</label>
           <input type="text" id="postal_code" name="zip" class="required" placeholder="e.g AB1 2AB" value="" />
         </li>
-        <li class="half-width-container">
-          <div class="half-width">
-            <ul class="flex-inner">
-              <li class="required" id="age-confirmation-label">
-                <input type="checkbox" name="ageConfirm" id="age-confirmation">
-                <label for="age-confirmation">I confirm I am 18 years of age or older</label>
-              </li>
-            </ul>
-          </div>
-          <div class="half-width">
-            <ul class="flex-inner">
-              <li class="required" id="term-confirmation-label">
-                <input type="checkbox" name="terms" id="term-confirmation">
-                <label for="term-confirmation">I agree to the competition <a href="https://www.buyexpressly.com" target="_blank">T&amp;C</a> and to receive Nife Is Life newsletter</label>
-              </li>
-            </ul>
-          </div>
+        <li class="required checkbox-field" id="age-confirmation-label">
+          <input type="checkbox" name="ageConfirm" id="age-confirmation">
+          <label for="age-confirmation">I confirm I am 18 years of age or older</label>
+        </li>
+        <li class="required checkbox-field" id="term-confirmation-label">
+          <input type="checkbox" name="terms" id="term-confirmation">
+          <label for="term-confirmation">I agree to the competition <a href="assets/documents/nifeislife_comp_terms.pdf" target="_blank">T&amp;C</a> and to receive Nife Is Life newsletter</label>
         </li>
         <li>
           <button type="submit" class="btn hero-btn" id="xly-submitButton">Enter competition</button>
         </li>
       </ul>
     </form>
+    <br>
+    <p>
+      Powered by Expressly
+    </p>
   </section>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script type="text/javascript" src="assets/js/application.min.js?cb=1"></script>
