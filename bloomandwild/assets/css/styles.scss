@@ -1,7 +1,7 @@
 //colors
 $color_fuscous_gray_approx: #555;
 $white: #fff;
-$color_giver_merchant: #F5D3D5;
+$color_giver_merchant: #00796B;
 $color_mako_approx: #111810;
 $color_mine_shaft_approx: #333;
 $color_black_haze_approx: #f7f7f7;
@@ -592,7 +592,7 @@ input::-webkit-input-placeholder {
 }
 
 #xly-submitButton:hover {
-	background-color: darken( $color_giver_merchant, 10% );
+	background-color: lighten( $color_giver_merchant, 10% );
 }
 
 .down-arrow {
