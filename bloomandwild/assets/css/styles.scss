@@ -159,13 +159,11 @@ header {
 	background-size: cover;
 
 	h1 {
-		font: bold 48px $font_1, $font_0;
+		font: bold 40px $font_1, $font_0;
 		text-transform: uppercase;
 
 		&:after {
 			content: url('../img/bloom-logo.png');
-			// position: absolute;
-			// top: -25%;
 			margin-left: 10px;
 		}
 	}
