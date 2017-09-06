@@ -28,12 +28,12 @@ a {
   text-decoration: none;
   color: inherit;
   cursor: pointer;
-  color: #517C49; }
+  color: #00AFDB; }
 
 hr {
   width: 150px;
   height: 2px;
-  background-color: #517C49;
+  background-color: #00AFDB;
   border: 0;
   margin-bottom: 80px; }
 
@@ -53,7 +53,7 @@ section h3.title {
   color: #fff;
   border-radius: 4px;
   text-transform: uppercase;
-  background-color: #517C49;
+  background-color: #00AFDB;
   font-weight: 800;
   text-align: center; }
 
@@ -112,13 +112,13 @@ header {
   min-height: 100vh;
   color: #111810;
   text-align: center;
-  background-image: url("../img/header-img.png");
+  background-image: url("../img/header-img.jpg");
   background-size: cover; }
   .hero h1 {
     font: bold 48px Open Sans, sans-serif;
     text-transform: uppercase; }
     .hero h1:after {
-      content: url("../img/nife-logo.png");
+      content: url("../img/brew_dog-logo.png");
       margin-left: 10px; }
   .hero h3 {
     font: normal 22px Open Sans, sans-serif;
@@ -227,11 +227,13 @@ header {
   background-color: #333;
   background-repeat: no-repeat; }
 
-#parma-ham {
-  background: url("../img/parma-ham.png"); }
+#first-img {
+  background: url("../img/first-img.jpg");
+  background-size: cover; }
 
-#octopus {
-  background: url("../img/octopus-salad.jpg"); }
+#second-img {
+  background: url("../img/second-img.jpg");
+  background-size: cover; }
 
 .our-work .grid li.large {
   -ms-flex-preferred-size: 100%;
@@ -262,7 +264,7 @@ header {
   .quality p {
     text-align: left;
     padding: 0 50px; }
-  .quality .nife-right-logo {
+  .quality .giver-right-logo {
     padding: 0 50px;
     margin-bottom: 50px; }
 
@@ -386,7 +388,7 @@ h4 {
   margin: 0 auto;
   padding: 8px 16px;
   border: none;
-  background: #517C49;
+  background: #00AFDB;
   color: #f2f2f2;
   text-transform: uppercase;
   border-radius: 5px;
@@ -404,7 +406,7 @@ input::-webkit-input-placeholder {
   #show-fields p {
     cursor: pointer;
     text-align: right;
-    color: #517C49; }
+    color: #00AFDB; }
 
 #gender {
   border: none;
@@ -453,10 +455,11 @@ input::-webkit-input-placeholder {
   color: #E23F34 !important; }
 
 #xly-submitButton {
-  margin-top: 20px; }
+  margin-top: 20px;
+  color: #fff; }
 
 #xly-submitButton:hover {
-  background-color: #669c5c; }
+  background-color: #0086a8; }
 
 .down-arrow {
   position: absolute;
