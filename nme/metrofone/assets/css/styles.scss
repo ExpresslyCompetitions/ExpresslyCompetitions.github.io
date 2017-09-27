@@ -330,9 +330,10 @@ header {
 }
 
 #second-img {
-	background: url('../img/second-img.jpg');
+    background-color: rgba(128, 128, 128, 0.25);
+	background-image: url('../img/second-img.png');
 	background-size: 100%;
-    background-position: right center;
+    background-position: right bottom;
     background-repeat: no-repeat;
 }
 
