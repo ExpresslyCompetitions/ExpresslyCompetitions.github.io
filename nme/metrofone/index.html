@@ -10,7 +10,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="assets/css/styles.min.css?v=20170927-1">
+  <link rel="stylesheet" href="assets/css/styles.min.css?v=20170928">
 </head>
 
 <body>
@@ -161,7 +161,10 @@
           <label for="term-confirmation">I agree to the competition <a href="assets/documents/nme_metrofone_terms.pdf" target="_blank">T&amp;C</a> and to receive NME & Metrofone newsletters with exclusive news and offers.</label>
         </li>
         <li>
-          <button type="submit" class="btn hero-btn" id="xly-submitButton">Enter competition</button>
+          <button type="submit" class="btn hero-btn" id="xly-submitButton">
+            <span class="hide-when-busy">Enter Competition</span>
+            <span class="show-when-busy">Submitting Entry <img src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px" valign="bottom" xstyle="position: relative; right: 0"></span>
+          </button>
         </li>
       </ul>
     </form>
@@ -173,7 +176,7 @@
   </section>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=microsite.initAutocomplete" async defer></script>
-  <script type="text/javascript" src="https://assets01.buyexpressly.com/microsite/microsite.min.js?cb=1"></script>
+  <script type="text/javascript" src="https://assets01.buyexpressly.com/microsite/microsite.min.js?cb=2"></script>
   <!--[if IE 9]>
   <script>
       microsite.matchProtocol(true);

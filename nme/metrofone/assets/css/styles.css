@@ -609,5 +609,13 @@ input::-webkit-input-placeholder {
     position: absolute;
     top: 55%;
     left: 16%; } }
+.show-when-busy {
+  display: none; }
+
+.busy .hide-when-busy {
+  display: none; }
+
+.busy .show-when-busy {
+  display: inline; }
 
 /*# sourceMappingURL=styles.css.map */

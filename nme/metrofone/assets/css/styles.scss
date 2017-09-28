@@ -801,3 +801,15 @@ input::-webkit-input-placeholder {
 		left: 16%;
 	}
 }
+
+.show-when-busy {
+	display: none;
+}
+
+.busy .hide-when-busy {
+	display: none;
+}
+
+.busy .show-when-busy {
+	display: inline;
+}
