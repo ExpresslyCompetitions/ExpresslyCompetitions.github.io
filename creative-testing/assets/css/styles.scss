@@ -1,0 +1,70 @@
+//colors
+$color_fuscous_gray_approx: #555;
+$white: #fff;
+$color_nife_green: #517C49;
+$color_mako_approx: #111810;
+$color_mine_shaft_approx: #333;
+$color_black_haze_approx: #f7f7f7;
+$color_error: #E23F34;
+$white_60: rgba(255, 255, 255, 0.6);
+//fonts
+$font_0: sans-serif;
+$font_1: Open Sans;
+$font_2: Quicksand;
+
+* {
+  font: normal 16px $font_2;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font: normal 20px $font_2;
+  color: $color_fuscous_gray_approx;
+}
+
+header {
+  margin: 20px 10px;
+}
+
+section {
+  margin: 30px auto;
+  max-width: 600px;
+  text-align: left;
+
+  p {
+    padding-bottom: 10px;
+  }
+
+  h3 {
+    font-size: 1.4em;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.xlyinfo {
+  text-align: left;
+  margin-left:auto; margin-right:auto; margin-top: 20px; background: #eee;
+  th { padding: 3px 10px; font-weight: 700; font-size: 1.2em;}
+  td { padding: 3px 10px; }
+  tr td:last-child { font-weight: 700; }
+}
+
+pre {
+  font-family: "Courier New", monospace ;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px;
+  background: #edffef;
+  overflow-x: auto;
+}
