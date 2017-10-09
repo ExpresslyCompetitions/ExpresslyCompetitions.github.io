@@ -1,0 +1,13 @@
+# Site settings
+title: Expressly Competitions
+email: marc@buyexpressly.com
+description: > # this means to ignore newlines until "baseurl:"
+ Expressly Competitions
+baseurl: ""
+url: "https://win.buyexpressly.com"
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: /_scss

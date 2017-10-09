@@ -1,0 +1,19 @@
+---
+---
+
+$image-hero: url('../img/header-img.png');
+$image-first: url('../img/first-img.png');
+$image-second: url('../img/second-img.jpg');
+$brand-colour: #517C49;
+
+@import "common";
+
+.hero h1:after {
+  content: url(../img/nife-logo.png);
+  margin-left: 10px;
+}
+
+.logo-left img {
+  padding: 8px;
+  background-color: white;
+}

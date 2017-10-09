@@ -1,7 +1,7 @@
 //colors
 $color_fuscous_gray_approx: #555;
 $white: #fff;
-$color_giver_merchant: #00AFDB;
+$color_giver_merchant: $brand-colour;
 $color_mako_approx: #111810;
 $color_mine_shaft_approx: #333;
 $color_black_haze_approx: #f7f7f7;
@@ -11,6 +11,12 @@ $white_60: rgba(255,255,255,0.6);
 $font_0: sans-serif;
 $font_1: Open Sans;
 $font_2: Quicksand;
+// default images
+$image-hero: url('../img/header-img.png') !default;
+$image-first: url('../img/first-img.png') !default;
+$image-second: url('../img/second-img.png') !default;
+
+$width-form: 800px;
 
 * {
 	margin: 0;
@@ -161,19 +167,12 @@ header {
 	min-height: 100vh;
 	color: $color_mako_approx;
 	text-align: center;
-	background-image: url('../img/header-img.jpg');
+	background-image: $image-hero;
 	background-size: cover;
 
 	h1 {
 		font: bold 48px $font_1, $font_0;
 		text-transform: uppercase;
-
-		&:after {
-			content: url('../img/metrofone_logo.png');
-			// position: absolute;
-			// top: -25%;
-			margin-left: 10px;
-		}
 	}
 
 	h3 {
@@ -267,17 +266,6 @@ header {
 	.hero-block-sub {
 		padding-bottom: 50px;
 	}
-
-    &:after {
-        content: 'Shot on iPhone 7';
-        font-size: 1.8em;
-        position: absolute;
-        bottom: 20px;
-        right: 20px;
-        color: #ffffff;
-        text-shadow: 0px 1px 5px #222222;
-        opacity: 0.8;
-    }
 }
 
 .our-work {
@@ -324,7 +312,7 @@ header {
 
 #first-img {
 	background-color: black;
-	background: url('../img/first-img-sm.png?cb=1');
+	background: $image-first;
 	background-size: cover;
     background-position: left top;
     background-repeat: no-repeat;
@@ -332,7 +320,7 @@ header {
 
 #second-img {
     background-color: rgba(128, 128, 128, 0.25);
-	background-image: url('../img/second-img.png');
+	background-image: $image-second;
 	background-size: 100%;
     background-position: right bottom;
     background-repeat: no-repeat;
@@ -434,8 +422,12 @@ header {
 }
 
 .flex-outer {
-	max-width: 800px;
+	max-width: $width-form;
 	margin: 0 auto;
+}
+
+form h5 {
+	max-width: $width-form;
 }
 
 h4 {
