@@ -1,0 +1,13 @@
+---
+---
+
+/* image and colour variables for /_scss/common.scss */
+$image-hero: url('../img/header-img.jpg');
+$image-first: url('../img/first-img.jpg');
+$image-second: url('../img/second-img.jpg');
+$brand-colour: red;
+
+/* the shared styles */
+@import "common";
+
+/* enter any custom css below here */
