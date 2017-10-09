@@ -21,11 +21,13 @@
             <img src="img/{{page.logo-left-image}}" alt="{{page.logo-left-title}}">
         </a>
     </h2>
+    {% if page.is-demo != true %}
     <h2 class="logo-right">
         <a href="{{page.logo-right-href}}">
             <img src="img/{{page.logo-right-image}}" alt="{{page.logo-right-title}}">
         </a>
     </h2>
+    {% endif %}
 </header>
 
 <section class="hero">
