@@ -5,25 +5,25 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NME Publisher Testing</title>
+    <title>{{page.merchant}} Advertiser Testing</title>
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/styles.min.css?v=20170711">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/testing.css">
 </head>
 
 <body>
 
 <header>
     <h2>
-        NME Publisher Example and Testing
+        {{page.merchant}} Testing
     </h2>
 </header>
 
 <section class="overview">
     <h3>Overview</h3>
-    <p>Below is a banner with <b>an active and working PowerLink</b> for a campaign between NME and a demo shop called Sunflower Baby</p>
+    <p>Below is a banner with <b>an active and working PowerLink</b> for a campaign between our demo data and {{page.merchant}}</p>
     <p>Powerlinks are unique per campaign and e-mail address</p>
     <p>Each load of this page generates a unique e-mail address and hence a new PowerLink hence simulating a new unique
         user</p>
@@ -35,8 +35,8 @@
     <p>&nbsp;</p>
 
     <div style="text-align:center">
-        <a target="_blank" class="xly-creative" data-campaigns="c-14e2142c-5699-4406-b03b-74ec67af5392">
-            <img width="300" height="163" border="0"/>
+        <a target="_blank" class="xly-creative" data-campaigns="{{page.campaign-uuid}}">
+            <img width="300" height="600" border="0"/>
         </a>
     </div>
     <table class="xlyinfo" width="100%">
@@ -95,54 +95,6 @@
     </table>
 </section>
 
-<h2>How it Works</h2>
-
-<section>
-    <h3>The Creative Tag</h3>
-    <p>
-        The HTML code below is required to display the banner. You may place multiple instances of these on any given
-        page.
-    </p>
-    <pre>
-&lt;a target="_blank" class="xly-creative"&gt;
-   &lt;img width="300" height="163" border="0" /&gt;
-&lt;/a&gt;</pre>
-</section>
-
-<section>
-    <h3>The Ad-Serving Script</h3>
-    <p>
-        You will need to include the Expressly adserving javascript file on any pages that include a banner creative.
-    </p>
-    <pre>
-&lt;script type="text/javascript"
-        src="https://assets01.buyexpressly.com/adserving/adserver.min.js"
-        &gt;&lt;/script&gt;</pre>
-</section>
-
-
-<section>
-    <h3>The Customer Data</h3>
-    <p>
-        Finally you will need to write the logged in user's information in the head section using meta tag properties.
-    </p>
-    <p>
-        You must always supply the merchant meta property. This will be provided by Expressly.
-    </p>
-    <p>
-        If no other meta properties are provided then an anonymous PowerLink and banner will be generated.
-    </p>
-    <p>
-        The minimal additional meta properties required to avoid an anonymous PowerLink are the cname and cemail meta
-        properties.
-    </p>
-    <p>
-        The format of the meta tags is:
-    </p>
-    <pre>
-&lt;meta property="xly:<i>name</i>" content="<i>value</i>"&gt;</pre>
-</section>
-
 <script>
     function createXlyTag(h, p, c) {
         var tag = document.createElement('meta');
@@ -158,7 +110,7 @@
     }
 
     var h = document.getElementsByTagName('head')[0];
-    createXlyTag(h, 'merchant', 'm-63a6456f-6a0f-4ad1-a1ed-4370cb79951d');
+    createXlyTag(h, 'merchant', '748f710d-3801-41d2-9235-3c42bf7c6b80');
     createXlyTag(h, 'cemail', 'john.' + new Date().getTime() + '.doe@example.com');
     createXlyTag(h, 'cname', 'John Doe');
     createXlyTag(h, 'caddress1', '46 Berwick Street');
