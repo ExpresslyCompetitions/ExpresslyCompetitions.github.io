@@ -3,10 +3,10 @@ layout: competition-style-01
 
 merchant-uuid: b397933a-eb87-4e5f-a82f-0b919da1f6ff
 campaign-uuid: c-735f0a46-4f8e-4e84-ae21-57177676db22
-disable-form: true
+disable-form: false
 is-demo: true
 
-ga-code: "UA-102915329-1"
+ga-code: ""
 title: "[DEMO] Win &pound;500 at Nife is Life"
 hero-header: "[DEMO] 2 WINNERS GET £500 AT"
 hero-subheader: "TO SPEND ON DELICIOUS ITALIAN FOOD PRODUCTS, DELIVERED TO YOUR DOOR."
