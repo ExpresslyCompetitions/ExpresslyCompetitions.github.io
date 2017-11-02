@@ -1,0 +1,35 @@
+<div class="modal fade" id="modal--login" tabindex="-1" role="dialog" aria-labelledby="modal--login-label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modal--login-label">Login</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <form id="form--login">
+                        <input type="hidden" name="rememberMe" value="true" />
+                        {% assign form_input_id_prefix = 'form--login--' %}
+                        {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter a valid email" %}
+                        {% include form_input_text.html id="password" label="Password" type="password" required="true" required="true" placeholder="Enter your password" autocomplete="password" error="The password that you've entered is incorrect" rowClass="my-0"%}
+                        {% assign form_input_id_prefix = '' %}
+                        <div class="form-group row my-0">
+                            <div class="col-sm-3"></div>
+                            <div class="col-sm-9">
+                                <div class="small"><a href="#" id="action--login-to-reset">Forgot password?</a></div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="m-auto">
+                    <button id="action--login" type="button" class="btn btn-primary">Login</button>
+                    <div class="small pt-1">Not a member? <a href="#" id="action--login-to-signup">Sign up</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

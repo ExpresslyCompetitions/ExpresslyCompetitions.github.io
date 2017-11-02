@@ -1,0 +1,21 @@
+<div class="form-group row {{include.rowClass}}">
+    <label for="{{form_input_id_prefix}}address-autocomplete" class="col-sm-3 col-form-label">{{include.label}}</label>
+    <div class="col-sm-9">
+        <input name="{{include.id}}" value="{{include.value}}" data-prefix="{{form_input_id_prefix}}"
+               id="{{form_input_id_prefix}}address-autocomplete" class="form-control address-autocomplete"
+               placeholder="Start writing your address..." autocomplete="address" />
+        <small id="{{form_input_id_prefix}}address-autocomplete-expand" class="address-autocomplete-expand form-text text-muted">
+            <a data-toggle="collapse" href="#{{form_input_id_prefix}}address-fields" aria-expanded="false" aria-controls="{{form_input_id_prefix}}address-fields">Enter Address Manually</a>
+        </small>
+        <div class="invalid-feedback">
+            <i id="{{form_input_id_prefix}}invalid-feedback--address-autocomplete" class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="{{include.error}}"></i>
+        </div>
+    </div>
+</div>
+<div class="collapse address-fields" id="{{form_input_id_prefix}}address-fields">
+    {% include form_input_text.html id="addressLine1" label="House/Street" type="text" required="true" placeholder="Enter your address" autocomplete="address-line-1" error="Please enter your address" %}
+    {% include form_input_text.html id="addressLine2" label="" type="text" autocomplete="address-line2" %}
+    {% include form_input_text.html id="city" label="Town/City" type="text" required="true" placeholder="Enter your city" autocomplete="address-level2" error="Please enter your city" %}
+    {% include form_input_text.html id="postalCode" label="Postcode" type="text" required="true" placeholder="Enter your postcode" autocomplete="postal-code" error="Please enter your postcode" %}
+    {% include form_input_text.html id="country" label="Country" type="text" value="UK" required="true" autocomplete="country"  %}
+</div>
