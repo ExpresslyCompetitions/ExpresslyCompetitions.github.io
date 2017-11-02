@@ -2,9 +2,9 @@
     <label for="{{form_input_id_prefix}}{{include.id}}" class="col-sm-3 col-form-label">{{include.label}}</label>
     <div class="col-sm-9">
         <input name="{{include.id}}" value="{{include.value}}"
-               id="{{form_input_id_prefix}}{{include.id}}" class="form-control form-control" type="{{include.type}}"
+               id="{{form_input_id_prefix}}{{include.id}}" class="dob-control form-control" type="{{include.type}}"
                placeholder="{{include.placeholder}}" autocomplete="{{include.autocomplete}}"
-               {% if include.pattern %}pattern="{{include.pattern}}"{% endif %}
+               pattern="([0-2]\d|3[0-1])/(1[0-2]|0\d)/(19\d{2}|200\d)"
                {% if include.required == 'true' %}required{% endif %} />
         <div class="invalid-feedback">
             <i id="{{form_input_id_prefix}}invalid-feedback--{{include.id}}" class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="{{include.error}}"></i>

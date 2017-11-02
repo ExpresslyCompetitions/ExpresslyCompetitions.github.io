@@ -2,7 +2,6 @@ var club = function () {
     $.support.cors = true;
     var muid = 'm-c2b72f7d-6073-4d91-a05d-55100bc49c2b';
     var protocol = 'https:';
-    var lock = false;
 
     var modal = {
         login: $('#modal--login'),
@@ -206,121 +205,18 @@ var club = function () {
                     autocomplete.setBounds(circle.getBounds());
                 });
             }
-        },
-
-        showAddressFields: function () {
-            $('.hidden-field').removeClass('hidden-field');
         }
     };
 
-    function buildPayload() {
-        var firstName = $('#first-name').val();
-        var lastName = $('#last-name').val();
-        var streetNo = $('#street_number').val();
-        var streetName = $('#route').val();
-        var campaigns = $('#campaign').val();
-        campaigns = campaigns ? campaigns.split(",") : null;
-
-        return {
-            merchantUuid: $('#merchant').val(),
-            campaigns: campaigns,
-            email: email.val(),
-            fullName: firstName + ' ' + lastName,
-            forename: firstName,
-            surname: lastName,
-            address1: streetNo + ' ' + streetName,
-            city: $('#postal_town').val(),
-            zip: postcode.val(),
-            country: 'GB',
-            phone: phone.val(),
-            gender: $('#gender').val(),
-            source: document.referrer
-        };
-    }
-
-
-    function globalError(message) {
-        var error = $('#global-error');
-        error.html(message);
-        error.toggleClass("error-hidden", !message);
-    }
-
-    var validators = [
-        vrValidateRequired,
-        vrValidateEmailField,
-        vrValidatePhoneUk,
-        vrValidatePostCode,
-        vrCheckAge,
-        vrCheckTerms
-    ];
-
-    function validate() {
-        globalError();
-        $('.field-error').removeClass('field-error');
-
-        for (var i = 0; i < validators.length; ++i) {
-            var error = validators[i]();
-            if (error) {
-                globalError(error);
-                return false;
-            }
+    var dobKpListener = function(e) {
+        var allowedKeys = [0, 8, 9, 13, 27, 37, 39, 46, 191];
+        var inp = String.fromCharCode(event.keyCode);
+        if ($.inArray(event.keyCode, allowedKeys) > -1 || /[0-9]/.test(inp)) {
+            return true;
         }
-
-        return true;
-    }
-
-    function validateRegex(field, regex) {
-        var result = regex.test(field.val());
-        field.toggleClass('field-error', !result);
-        return result;
-    }
-
-    function validateCheckbox(field) {
-        var result = field.prop('checked');
-        field.toggleClass('field-error', !result);
-        return result;
-    }
-
-    function vrValidateRequired() {
-        var valid = true;
-        $('.required').each(function () {
-            if ($(this).val() === '') {
-                $(this).addClass('field-error');
-                valid = false;
-            }
-        });
-        return valid ? '' : 'Please ensure all fields are filled';
-    }
-
-    function vrValidatePostCode() {
-        return validateRegex(postcode, /^((?:(?:gir)|(?:[a-pr-uwyz])(?:(?:[0-9](?:[a-hjkpstuw]|[0-9])?)|(?:[a-hk-y][0-9](?:[0-9]|[abehmnprv-y])?)))) ?([0-9][abd-hjlnp-uw-z]{2})$/i)
-            ? ''
-            : 'Please enter a valid UK postcode';
-    }
-
-    function vrValidatePhoneUk() {
-        return validateRegex(phone, /^(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}$/)
-            ? ''
-            : 'Please enter a valid UK phone number';
-    }
-
-    function vrValidateEmailField() {
-        return validateRegex(email, /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/)
-            ? ''
-            : 'Please enter a valid email address';
-    }
-
-    function vrCheckAge() {
-        return validateCheckbox($('#age-confirmation'))
-            ? ''
-            : 'Please confirm your age';
-    }
-
-    function vrCheckTerms() {
-        return validateCheckbox($('#term-confirmation'))
-            ? ''
-            : 'Please accept the terms and conditions';
-    }
+        event.preventDefault();
+        event.stopPropagation();
+    };
 
     function busy(working) {
         var $button = $('#xly-submitButton');
@@ -351,11 +247,8 @@ var club = function () {
             modal.login.modal('hide');
             modal.register.modal('show');
         });
-        console.log(addressAutoComplete);
+        $('.dob-control').keypress(dobKpListener);
         $('.address_autocomplete').focus(addressAutoComplete.geolocate);
-
-
-        // $('#show-fields').click(showAddressFields);
     }
 
     server.profile();
