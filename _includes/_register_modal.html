@@ -20,14 +20,18 @@
                     {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
                     {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
                     {% include form_input_text.html id="password" label="Password" type="password" required="true" placeholder="Enter a password" autocomplete="new-password" error="Please enter a password for your account. It must be at least 8 characters long" maxlength="64" pattern=".{8,}"%}
-                    {% include form_input_checkbox.html id="optin" label="I agree to the Terms and Conditions" %}
+                    {% include form_input_checkbox.html id="optin" label="I agree to the Terms and Conditions" required="true" %}
                     {% assign form_input_id_prefix = '' %}
                 </form>
                 </div>
             </div>
             <div class="modal-footer">
                 <div class="m-auto">
-                    <button id="action--register" type="button" class="btn btn-primary">Sign Up</button>
+                    <button id="action--register" type="button" class="btn btn-primary disable-if-busy">
+                        Sign Up
+                        <span class="show-when-busy"> <img
+                                src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+                    </button>
                 </div>
             </div>
         </div>

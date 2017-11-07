@@ -41,6 +41,7 @@ var club = function () {
     var form = {
         login: $('#form--login'),
         competition: $('#form--competition'),
+        profile: $('#form--profile'),
         register: $('#form--register'),
         passwordReset: $('#form--password-reset'),
         passwordResetRequest: $('#form--password-reset-request'),
@@ -74,13 +75,16 @@ var club = function () {
         },
 
         populate: function (form, data, trigger) {
+            console.log(data);
             $.each(data, function (key, value) {
                 var ctrl = $('[name=' + key + ']', form);
                 switch (ctrl.prop("type")) {
                     case "radio":
                     case "checkbox":
                         ctrl.each(function () {
-                            if ($(this).attr('value') === value) $(this).attr("checked", value);
+                            if ($(this).attr('value') === value + "") {
+                                $(this).attr("checked", value);
+                            }
                         });
                         break;
                     default:
@@ -194,7 +198,6 @@ var club = function () {
 
         register: function () {
             var formData = form.serialize(form.register);
-            console.log(formData);
             form.toggleFeedback('form--register', 'email', false);
             if (form.register.get(0).checkValidity() === true) {
                 formData.dob = dates.formatDateString(formData.dob);
@@ -207,6 +210,23 @@ var club = function () {
                 $('#form--register--address-fields').collapse('show');
             }
             form.register.toggleClass('was-validated', true);
+        },
+
+        updateProfile: function () {
+            var formData = form.serialize(form.profile);
+            console.log(formData);
+            form.toggleFeedback('form--register', 'email', false);
+            if (form.profile.get(0).checkValidity() === true) {
+                formData.dob = dates.formatDateString(formData.dob);
+                var over18 = dates.getYearsSince(dates.parseIso8601(formData.dob)) >= 18;
+                form.toggleFeedback('form--profile', 'dob', !over18);
+                if (over18) {
+                    server.update(formData);
+                }
+            } else if (form.profile.find('.address-fields input:invalid').length > 0) {
+                $('#form--profile--address-fields').collapse('show');
+            }
+            form.profile.toggleClass('was-validated', true);
         },
 
         submitEntry: function () {
@@ -232,6 +252,9 @@ var club = function () {
             $('.disable-if-logged-in').prop("disabled", profile !== null);
             if (profile !== null && form.competition.length) {
                 form.populate(form.competition, profile, true);
+            }
+            if (profile !== null && form.profile.length) {
+                form.populate(form.profile, profile, true);
             }
         }
     };
@@ -272,8 +295,9 @@ var club = function () {
         passwordResetRequest: function (payload) {
             server.submit("account/password-reset-request", "POST", payload, function (data) {
                     modal.passwordResetRequest.modal('hide');
-                    controller.setProfile(data.account)
-                    // TODO: show notification / message
+                    modal.notify(
+                        "Password Reset Email Sent",
+                        "Please check your email for your password reset link")
                 },
                 function (xhr, status, error) {
                     modal.passwordResetRequest.modal('hide');
@@ -319,7 +343,30 @@ var club = function () {
         },
 
         update: function (payload) {
-            server.submit("account/update", "POST", payload, printSuccess, printError);
+            server.submit("account/update", "POST", payload,
+                function (data) {
+                    controller.setProfile(data);
+                    form.profile.toggleClass('was-validated', false);
+                    form.toggleFeedback('form--profile', 'currentPassword', false);
+                    form.toggleFeedback('form--profile', 'email', false);
+                    modal.notify(
+                        "Profile updated",
+                        "Your profile has been updated")
+                },
+                function (xhr, status, error) {
+                    if (xhr.status === 403) {
+                        var code = JSON.parse(xhr.responseText).code;
+                        form.toggleFeedback('form--profile', 'currentPassword', true, "Wrong password");
+                        return;
+                    } else if (xhr.status === 400) {
+                        var code = JSON.parse(xhr.responseText).code;
+                        if (code === 'DUPLICATE_EMAIL') {
+                            form.toggleFeedback('form--profile', 'email', true, "Email address already in use");
+                            return
+                        }
+                    }
+                    printError(xhr, status, error);
+                });
         },
 
         register: function (payload) {
@@ -346,7 +393,6 @@ var club = function () {
             server.submit("competition/" + campaign + "/enter", "POST", payload,
                 function (data) {
                     form.busy(true);
-                    printSuccess(data);
                     controller.setProfile(data.account)
                     window.location.href = data.powerLink;
                 },
@@ -499,11 +545,17 @@ var club = function () {
                 target.change(syncFromValue);
                 syncFromValue();
 
+                var pad = function(value) {
+                  return value.length == 1
+                    ? '0' + value
+                    : value;
+                };
+
                 inputs.change(function () {
                     target.val(
                         $(inputs[2]).val() + '-' +
-                        $(inputs[1]).val() + '-' +
-                        $(inputs[0]).val());
+                        pad($(inputs[1]).val()) + '-' +
+                        pad($(inputs[0]).val()));
                 });
 
                 inputs.keypress(function (event) {
@@ -553,6 +605,10 @@ var club = function () {
         $('#action--password-reset').click(function (event) {
             event.preventDefault();
             controller.passwordReset();
+        });
+        $('#action--profile').click(function (event) {
+            event.preventDefault();
+            controller.updateProfile();
         });
         $('#action--enter').click(function (event) {
             event.preventDefault();

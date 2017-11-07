@@ -2,7 +2,7 @@
     <div class="col-sm-3"></div>
     <div class="col-sm-9">
         <label class="custom-control custom-checkbox">
-            <input type="checkbox" class="custom-control-input" value="true" name="{{include.id}}" id="{{form_input_id_prefix}}{{include.id}}" required>
+            <input type="checkbox" class="custom-control-input" value="true" name="{{include.id}}" id="{{form_input_id_prefix}}{{include.id}}" {% if include.required == 'true' %}required{% endif %}>
             <span class="custom-control-indicator"></span>
             <span class="custom-control-description">{{include.label}}</span>
         </label>
