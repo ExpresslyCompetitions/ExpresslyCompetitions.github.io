@@ -1,20 +1,67 @@
 var club = function () {
     $.support.cors = true;
-    var muid = 'm-c2b72f7d-6073-4d91-a05d-55100bc49c2b';
+    var muid = $('body').data('muid');
     var protocol = 'https:';
 
     var modal = {
+        alert: $('#modal--alert'),
         login: $('#modal--login'),
-        register: $('#modal--register')
+        register: $('#modal--register'),
+        passwordReset: $('#modal--password-reset'),
+        passwordResetRequest: $('#modal--password-reset-request'),
+
+        notify: function (title, message) {
+            modal.alert.find("#modal--alert-label").html(title);
+            modal.alert.find("#modal--alert-message").html(message);
+            modal.alert.modal('show');
+        }
+    };
+
+    var dates = {
+        formatDateString: function (value) {
+            return value.replace(/(\d{2})\/(\d{2})\/(\d{4})/, "$3-$2-$1");
+        },
+
+        parseIso8601: function (value) {
+            var tokens = value.split(/-/);
+            return new Date(parseInt(tokens[0], 10), parseInt(tokens[1], 10) - 1, parseInt(tokens[2], 10));
+        },
+
+        getYearsSince: function (date) {
+            var today = new Date();
+            var age = today.getFullYear() - date.getFullYear();
+            var m = today.getMonth() - date.getMonth();
+            if (m < 0 || (m === 0 && today.getDate() < date.getDate())) {
+                age--;
+            }
+            return age;
+        }
     };
 
     var form = {
         login: $('#form--login'),
+        competition: $('#form--competition'),
         register: $('#form--register'),
+        passwordReset: $('#form--password-reset'),
+        passwordResetRequest: $('#form--password-reset-request'),
 
-        toggleFeedback: function (prefix, field, toggle) {
-            console.log('#' + prefix + '--' + field);
-            $('#' + prefix + '--' + field).toggleClass('is-invalid', toggle);
+        toggleFeedback: function (prefix, field, toggle, customError) {
+            var control = $('#' + prefix + '--' + field);
+
+            var tooltip = $(control.next('.invalid-feedback').find('[data-toggle="tooltip"]')[0]);
+            if (!!customError) {
+                tooltip.data("default-title", tooltip.data("original-title"));
+                tooltip.prop('title', customError);
+                tooltip.tooltip("_fixTitle");
+            } else {
+                var original = tooltip.data("default-title");
+                if (!!original) {
+                    tooltip.prop('title', original);
+                    tooltip.tooltip("_fixTitle");
+                }
+            }
+
+            control.toggleClass('is-invalid', toggle);
         },
 
         serialize: function (form) {
@@ -24,17 +71,91 @@ var club = function () {
                 result[o['name']] = o['value'];
             });
             return result;
-        }
+        },
 
+        populate: function (form, data, trigger) {
+            $.each(data, function (key, value) {
+                var ctrl = $('[name=' + key + ']', form);
+                switch (ctrl.prop("type")) {
+                    case "radio":
+                    case "checkbox":
+                        ctrl.each(function () {
+                            if ($(this).attr('value') === value) $(this).attr("checked", value);
+                        });
+                        break;
+                    default:
+                        var current = ctrl.val();
+                        ctrl.val(value);
+                        if (trigger && current !== value) {
+                            ctrl.trigger('change');
+                        }
+                }
+            });
+        },
+
+        busy: function (working) {
+            var elements = $('.disable-if-busy');
+            if (working) {
+                elements.prop('disabled', true);
+                $('body').addClass('busy');
+            } else {
+                elements.prop('disabled', false);
+                $('body').removeClass('busy');
+            }
+        }
     };
 
     var state = {
         profile: null
     };
 
+    var url = {
+        parameter: function (name) {
+            var query = decodeURIComponent(window.location.search.substring(1));
+            var tokens = query.split('&');
+
+            for (var i = 0; i < tokens.length; i++) {
+                var tokenParts = tokens[i].split('=');
+                if (tokenParts[0] === name) {
+                    return tokenParts[1] === undefined ? true : tokenParts[1];
+                }
+            }
+        },
+
+        removeParameter: function (name) {
+            var url = window.location.href;
+            var parts = window.location.href.split('?');
+            if (parts.length >= 2) {
+                var query = decodeURIComponent(parts[1]);
+                var prefix = encodeURIComponent(name) + '=';
+                var tokens = query.split('&');
+
+                for (var i = tokens.length; i-- > 0;) {
+                    if (tokens[i].lastIndexOf(prefix, 0) !== -1) {
+                        tokens.splice(i, 1);
+                    }
+                }
+
+                window.location.replace(parts[0] + (tokens.length > 0 ? '?' + tokens.join('&') : ''));
+            }
+        }
+    };
+
     var strings = {
         nullToEmpty: function (s) {
             return !s || s === undefined ? '' : s;
+        }
+    };
+
+    var arrays = {
+        filter: function (a, filter) {
+            for (var i = 0; i < a.length; i++) {
+                if (!filter(a[i])) {
+                    a.splice(i, 1);
+                    i--;
+                }
+            }
+            return a;
         }
     };
 
@@ -48,7 +169,6 @@ var club = function () {
         },
 
         loginRequired: function () {
-            console.log("hi");
             modal.login.modal('show')
         },
 
@@ -56,41 +176,81 @@ var club = function () {
             server.logout();
         },
 
+        passwordResetRequest: function () {
+            if (form.passwordResetRequest.get(0).checkValidity() === true) {
+                var formData = form.serialize(form.passwordResetRequest);
+                server.passwordResetRequest(formData);
+            }
+            form.passwordResetRequest.toggleClass('was-validated', true);
+        },
+
+        passwordReset: function () {
+            if (form.passwordReset.get(0).checkValidity() === true) {
+                var formData = form.serialize(form.passwordReset);
+                server.passwordReset(url.parameter("token"), formData.newPassword);
+            }
+            form.passwordReset.toggleClass('was-validated', true);
+        },
+
         register: function () {
             var formData = form.serialize(form.register);
             console.log(formData);
+            form.toggleFeedback('form--register', 'email', false);
             if (form.register.get(0).checkValidity() === true) {
-                server.register(formData);
-            } else if (form.register.find('.address-fields input:invalid').length > 0){
+                formData.dob = dates.formatDateString(formData.dob);
+                var over18 = dates.getYearsSince(dates.parseIso8601(formData.dob)) >= 18;
+                form.toggleFeedback('form--register', 'dob', !over18);
+                if (over18) {
+                    server.register(formData);
+                }
+            } else if (form.register.find('.address-fields input:invalid').length > 0) {
                 $('#form--register--address-fields').collapse('show');
             }
             form.register.toggleClass('was-validated', true);
         },
 
+        submitEntry: function () {
+            var formData = form.serialize(form.competition);
+            console.log(formData);
+            form.toggleFeedback('form--competition', 'email', false);
+            if (form.competition.get(0).checkValidity() === true) {
+                formData.dob = dates.formatDateString(formData.dob);
+                var over18 = dates.getYearsSince(dates.parseIso8601(formData.dob)) >= 18;
+                form.toggleFeedback('form--competition', 'dob', !over18);
+                if (over18) {
+                    server.submitEntry(formData);
+                }
+            } else if (form.competition.find('.address-fields input:invalid').length > 0) {
+                $('#form--competition--address-fields').collapse('show');
+            }
+            form.competition.toggleClass('was-validated', true);
+        },
         setProfile: function (profile) {
             state.profile = profile;
             $('body').toggleClass("logged-in", profile !== null);
             $('.data-forename').text(profile !== null ? profile.forename : '');
+            $('.disable-if-logged-in').prop("disabled", profile !== null);
+            if (profile !== null && form.competition.length) {
+                form.populate(form.competition, profile, true);
+            }
         }
     };
 
     function printSuccess(result) {
         console.log('result');
         console.log(result);
-        lock = false;
     }
 
     function printError(xhr, status, error) {
         console.log('error');
         console.log(xhr.responseText);
-        lock = false;
     }
 
     var server = {
         login: function (payload) {
-            server.submit("login", "POST", payload,
+            server.submit("account/login", "POST", payload,
                 function (data) {
-                    modal.login.modal('hide')
+                    modal.login.modal('hide');
                     form.toggleFeedback('form--login', 'password', false);
                     controller.setProfile(data.account)
                 },
@@ -102,49 +262,141 @@ var club = function () {
         },
 
         logout: function () {
-            server.submit("logout", "POST", null,
+            server.submit("account/logout", "POST", null,
                 function (data) {
                     controller.setProfile(null)
                 },
                 printError);
         },
 
-        exists: function (email) {
-            server.submit("exists", "POST", {email: email}, printSuccess, printError);
+        passwordResetRequest: function (payload) {
+            server.submit("account/password-reset-request", "POST", payload, function (data) {
+                    modal.passwordResetRequest.modal('hide');
+                    controller.setProfile(data.account)
+                    // TODO: show notification / message
+                },
+                function (xhr, status, error) {
+                    modal.passwordResetRequest.modal('hide');
+                    printError(xhr, status, error);
+                });
         },
 
-        profile: function () {
-            server.submit("profile", "GET", null,
+        passwordReset: function (token, newPassword) {
+            server.submit("account/password-reset", "POST", {token: token, newPassword: newPassword},
                 function (data) {
-                    controller.setProfile(data)
+                    modal.passwordReset.modal('hide');
+                    controller.setProfile(data.account);
+                    url.removeParameter('token');
                 },
-                printError);
+                function (xhr, status, error) {
+                    printError(xhr, status, error);
+                    if (xhr.status === 401) {
+                        // TODO: token missing or invalid message
+                    } else {
+                        form.toggleFeedback('form--password-reset', 'newPassword', true);
+                    }
+                });
+        },
 
+        exists: function (email) {
+            server.submit("account/exists", "POST", {email: email}, printSuccess, printError);
+        },
+
+        profile: function (postSuccess) {
+            server.submit("account/profile", "GET", null,
+                function (data) {
+                    controller.setProfile(data);
+                    if (postSuccess) {
+                        postSuccess(data);
+                    }
+                },
+                function (xhr, status, error) {
+                    printError(xhr, status, error);
+                    if (postSuccess) {
+                        postSuccess(null);
+                    }
+                });
         },
 
         update: function (payload) {
-            server.submit("update", "POST", payload, printSuccess, printError);
+            server.submit("account/update", "POST", payload, printSuccess, printError);
         },
 
         register: function (payload) {
-            server.submit("register", "POST", payload, printSuccess, printError);
+            server.submit("account/register", "POST", payload,
+                function (data) {
+                    modal.register.modal('hide');
+                    controller.setProfile(data.account)
+                },
+                function (xhr, status, error) {
+                    if (xhr.status === 400) {
+                        var code = JSON.parse(xhr.responseText).code;
+                        if (code === 'DUPLICATE_EMAIL') {
+                            form.toggleFeedback('form--register', 'email', true, "Email address already registered. Please sign up or use a different email address");
+                            return
+                        }
+                    }
+                    printError(xhr, status, error);
+                });
+        },
+
+        submitEntry: function (payload) {
+            var campaign = payload.campaign;
+            delete payload['campaign'];
+            server.submit("competition/" + campaign + "/enter", "POST", payload,
+                function (data) {
+                    form.busy(true);
+                    printSuccess(data);
+                    controller.setProfile(data.account)
+                    window.location.href = data.powerLink;
+                },
+                function (xhr, status, error) {
+                    if (xhr.status === 400) {
+                        var code = JSON.parse(xhr.responseText).code;
+                        if (code === 'DUPLICATE_EMAIL') {
+                            modal.notify("Email Registered", "<p>Please log in to enter the compeition</p>");
+                            form.toggleFeedback('form--competition', 'email', true, "Please login to enter competition");
+                            return
+                        }
+                        else if (code === 'CLUB_ACCOUNT_ALREADY_ENTERED') {
+                            modal.notify("Duplicate Entry", "<p>We're sorry but you've already entered this competition</p>");
+                            form.toggleFeedback('form--competition', 'email', true, "You've already entered into competition");
+                            return
+                        }
+                        else if (code === 'CLUB_EMAIL_ALREADY_ENTERED') {
+                            modal.notify("Duplicate Entry", "<p>Email address has already been entered into competition</p>");
+                            form.toggleFeedback('form--competition', 'email', true, "Email address already entered into competition");
+                            return
+                        }
+                    }
+                    printError(xhr, status, error);
+                });
         },
 
         submit: function (uri, method, payload, success, error) {
-            lock = true;
+            form.busy(true);
             $.ajax({
-                url: protocol + "//prod.expresslyapp.com/api/club/" + muid + "/account/" + uri,
+                url: protocol + "//prod.expresslyapp.com/api/club/" + muid + "/" + uri,
                 type: method,
                 data: payload ? JSON.stringify(payload) : null,
                 contentType: "application/json",
                 xhrFields: {withCredentials: true},
                 statusCode: {
                     401: function () {
+                        form.busy(false);
                         controller.loginRequired();
                     }
                 },
-                success: success,
-                error: error
+                success: function(data) {
+                    form.busy(false);
+                    if(success) { success(data); }
+                    else { printSuccess(data); }
+                },
+                error: function(xhr, status, errorC) {
+                    form.busy(false);
+                    if(error) { error(xhr, status, errorC); }
+                    else { printError(xhr, status, errorC); }
+                }
             });
         }
     };
@@ -160,16 +412,37 @@ var club = function () {
         init: function () {
             $('.address-autocomplete').each(function () {
                 var $this = $(this);
-                console.log($(this).data('prefix'));
+                var prefix = $this.data('prefix');
+
                 var autocomplete = new google.maps.places.Autocomplete(
                     this,
                     {types: ['address'], componentRestrictions: {country: "uk"}});
+
+                var fields = {
+                    addressLine1: $('#' + prefix + 'addressLine1'),
+                    addressLine2: $('#' + prefix + 'addressLine2'),
+                    city: $('#' + prefix + 'city'),
+                    postalCode: $('#' + prefix + 'postalCode')
+                };
+
                 autocomplete.addListener('place_changed', function () {
                     addressAutoComplete.fillInAddress(
-                        $this.data('prefix'),
+                        fields,
                         autocomplete);
-                    //addressAutoComplete.showAddressFields();
                 });
+
+                var reconstitute = function () {
+                    var address = [fields.addressLine1.val(), fields.addressLine2.val(), fields.city.val(), fields.postalCode.val()];
+                    $this.val(arrays.filter(address, function (v) {
+                        return !!v && v.trim() !== ""
+                    }).join(", "))
+                };
+
+                fields.addressLine1.change(reconstitute);
+                fields.addressLine2.change(reconstitute);
+                fields.city.change(reconstitute);
+                fields.postalCode.change(reconstitute);
+                reconstitute();
             });
         },
 
@@ -184,12 +457,12 @@ var club = function () {
             return data;
         },
 
-        fillInAddress: function (prefix, autocomplete) {
+        fillInAddress: function (fields, autocomplete) {
             var data = addressAutoComplete.collectPlaceData(autocomplete.getPlace());
-            $('#' + prefix + 'addressLine1').val((strings.nullToEmpty(data['street_number']) + ' ' + strings.nullToEmpty(data['route'])).trim());
-            $('#' + prefix + 'addressLine2').val('');
-            $('#' + prefix + 'city').val(strings.nullToEmpty(data['postal_town']));
-            $('#' + prefix + 'postalCode').val(strings.nullToEmpty(data['postal_code']));
+            fields.addressLine1.val((strings.nullToEmpty(data['street_number']) + ' ' + strings.nullToEmpty(data['route'])).trim());
+            fields.addressLine2.val('');
+            fields.city.val(strings.nullToEmpty(data['postal_town']));
+            fields.postalCode.val(strings.nullToEmpty(data['postal_code']));
         },
 
         // Bias the autocomplete object to the user's geographical location,
@@ -208,26 +481,46 @@ var club = function () {
         }
     };
 
-    var dobKpListener = function(e) {
-        var allowedKeys = [0, 8, 9, 13, 27, 37, 39, 46, 191];
-        var inp = String.fromCharCode(event.keyCode);
-        if ($.inArray(event.keyCode, allowedKeys) > -1 || /[0-9]/.test(inp)) {
-            return true;
-        }
-        event.preventDefault();
-        event.stopPropagation();
-    };
+    var dobControl = {
+        init: function () {
+            $('.dob-control').each(function () {
+                var $this = $(this);
+                var target = $($this.data('target'));
+                var inputs = $this.find('.dob-control-input');
 
-    function busy(working) {
-        var $button = $('#xly-submitButton');
-        if (working) {
-            $button.attr('disabled', 'true');
-            $button.addClass('busy');
-        } else {
-            $button.removeAttr('disabled');
-            $button.removeClass('busy');
+                var syncFromValue = function () {
+                    if (/\d{4}-\d{2}-\d{2}/.test(target.val())) {
+                        $(inputs[0]).val(target.val().substring(8));
+                        $(inputs[1]).val(target.val().substring(5, 7));
+                        $(inputs[2]).val(target.val().substring(0, 4));
+                    }
+                };
+
+                target.change(syncFromValue);
+                syncFromValue();
+
+                inputs.change(function () {
+                    target.val(
+                        $(inputs[2]).val() + '-' +
+                        $(inputs[1]).val() + '-' +
+                        $(inputs[0]).val());
+                });
+
+                inputs.keypress(function (event) {
+                    var target = $(event.target);
+                    var length = parseInt(target.attr('maxlength'));
+                    var inp = String.fromCharCode(event.keyCode);
+                    if (/[0-9]/.test(inp) && target.val().length >= length) {
+                        event.preventDefault();
+                    }
+                    if (inp === '/' && length === 2) {
+                        var next = target.nextAll('input')[0];
+                        next.focus();
+                    }
+                });
+            });
         }
-    }
+    };
 
     function registerEvents() {
         $('#action--register').click(function (event) {
@@ -242,19 +535,48 @@ var club = function () {
             event.preventDefault();
             controller.login();
         });
+        $('#action--password-reset-request').click(function (event) {
+            event.preventDefault();
+            controller.passwordResetRequest();
+        });
         $('#action--login-to-signup').click(function (event) {
             event.preventDefault();
             modal.login.modal('hide');
             modal.register.modal('show');
         });
-        $('.dob-control').keypress(dobKpListener);
+        $('#action--login-to-reset').click(function (event) {
+            event.preventDefault();
+            modal.login.modal('hide');
+            $('#form--password-reset-request--email').val($('#form--login--email').val());
+            modal.passwordResetRequest.modal('show');
+        });
+        $('#action--password-reset').click(function (event) {
+            event.preventDefault();
+            controller.passwordReset();
+        });
+        $('#action--enter').click(function (event) {
+            event.preventDefault();
+            controller.submitEntry();
+        });
         $('.address_autocomplete').focus(addressAutoComplete.geolocate);
     }
 
-    server.profile();
-    registerEvents();
-    $('[data-toggle="tooltip"]').tooltip();
+    // iniit
+    (function () {
+        registerEvents();
+        $('[data-toggle="tooltip"]').tooltip();
+        dobControl.init();
 
+        server.profile(function (profile) {
+            if (url.parameter("token")) {
+                if (profile === null) {
+                    modal.passwordReset.modal('show');
+                } else {
+                    url.removeParameter("token");
+                }
+            }
+        });
+    }());
 
     return {
         initAutocomplete: function () {

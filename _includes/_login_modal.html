@@ -12,8 +12,8 @@
                     <form id="form--login">
                         <input type="hidden" name="rememberMe" value="true" />
                         {% assign form_input_id_prefix = 'form--login--' %}
-                        {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter a valid email" %}
-                        {% include form_input_text.html id="password" label="Password" type="password" required="true" required="true" placeholder="Enter your password" autocomplete="password" error="The password that you've entered is incorrect" rowClass="my-0"%}
+                        {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter a valid email" maxlength="128" %}
+                        {% include form_input_text.html id="password" label="Password" type="password" required="true" required="true" placeholder="Enter your password" autocomplete="password" error="The password that you've entered is incorrect" rowClass="my-0" maxlength="64" %}
                         {% assign form_input_id_prefix = '' %}
                         <div class="form-group row my-0">
                             <div class="col-sm-3"></div>

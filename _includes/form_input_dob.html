@@ -1,13 +1,16 @@
 <div class="form-group row {{include.rowClass}}">
-    <label for="{{form_input_id_prefix}}{{include.id}}" class="col-sm-3 col-form-label">{{include.label}}</label>
+    <label for="{{form_input_id_prefix}}dob" class="col-sm-3 col-form-label">{{include.label}}</label>
     <div class="col-sm-9">
-        <input name="{{include.id}}" value="{{include.value}}"
-               id="{{form_input_id_prefix}}{{include.id}}" class="dob-control form-control" type="{{include.type}}"
-               placeholder="{{include.placeholder}}" autocomplete="{{include.autocomplete}}"
-               pattern="([0-2]\d|3[0-1])/(1[0-2]|0\d)/(19\d{2}|200\d)"
-               {% if include.required == 'true' %}required{% endif %} />
+        <input id="{{form_input_id_prefix}}dob" name="dob" value="{{include.value}}" class="dob-value form-control d-none" required pattern="(19\d{2}|200\d)-(1[0-2]|0\d)-([0-2]\d|3[0-1])" />
+        <div class="dob-control" data-target="#{{form_input_id_prefix}}dob">
+            <input id="{{form_input_id_prefix}}dob-day" class="dob-control-input form-control" type="number" placeholder="DD" maxlength="2" max="31" min="1" required />
+            <span class="dob-separator">/</span>
+            <input id="{{form_input_id_prefix}}dob-month" class="dob-control-input form-control" type="number" placeholder="MM" maxlength="2" max="12" min="1" required />
+            <span class="dob-separator">/</span>
+            <input id="{{form_input_id_prefix}}dob-year" class="dob-control-input form-control" type="number" placeholder="YYYY" maxlength="4" max="2010" min="1900" required />
+        </div>
         <div class="invalid-feedback">
-            <i id="{{form_input_id_prefix}}invalid-feedback--{{include.id}}" class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="{{include.error}}"></i>
+            <i id="{{form_input_id_prefix}}invalid-feedback--dob" class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="{{include.error}}"></i>
         </div>
     </div>
 </div>

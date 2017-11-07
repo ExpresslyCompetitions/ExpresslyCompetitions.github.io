@@ -17,5 +17,6 @@
     {% include form_input_text.html id="addressLine2" label="" type="text" autocomplete="address-line2" %}
     {% include form_input_text.html id="city" label="Town/City" type="text" required="true" placeholder="Enter your city" autocomplete="address-level2" error="Please enter your city" %}
     {% include form_input_text.html id="postalCode" label="Postcode" type="text" required="true" placeholder="Enter your postcode" autocomplete="postal-code" error="Please enter your postcode" pattern="((?:(?:[gG][iI][rR])|(?:[a-pr-uwyzA-PR-UWYZ])(?:(?:[0-9](?:[a-hjkpstuwA-HJKPSTUW]|[0-9])?)|(?:[a-hk-yA-HK-Y][0-9](?:[0-9]|[abehmnprv-yABEHMNPRV-Y])?)))) ?([0-9][abd-hjlnp-uw-zABD-HJLNP-UW-Z]{2})" %}
-    {% include form_input_text.html id="country" label="Country" type="text" value="UK" required="true" autocomplete="country"  %}
+    <input type="hidden" name="country", value="UK" />
+    <!--{% include form_input_text.html id="country" label="Country" type="text" value="UK" required="true" autocomplete="country"  %}-->
 </div>

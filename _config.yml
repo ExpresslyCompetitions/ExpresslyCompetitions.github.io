@@ -11,3 +11,28 @@ markdown: kramdown
 
 sass:
     sass_dir: /_scss
+
+collections:
+  competitions_local:
+    output: true
+    permalink: /local/club/competition/:name
+
+defaults:
+  -
+    scope:
+      path: "local/club"
+      type: "pages"
+    values:
+      layout:         "club-layout"
+      club_url:       "http://localhost:4000/local/club"
+      ga-code:        "UA-102915329-1"
+      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"
+  -
+    scope:
+      path: "local/club"
+      type: "competitions_local"
+    values:
+      layout:         "club-competition"
+      club_url:       "http://localhost:4000/local/club"
+      ga-code:        "UA-102915329-1"
+      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"

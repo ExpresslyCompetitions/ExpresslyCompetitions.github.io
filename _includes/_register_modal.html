@@ -12,16 +12,15 @@
                 <form id="form--register">
                     <input type="hidden" name="rememberMe" value="true" />
                     {% assign form_input_id_prefix = 'form--register--' %}
-                    {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name"%}
-                    {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" %}
+                    {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
+                    {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
                     {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
-                    {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" %}
-                    {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}" error="Please enter a valid UK telephone number" %}
+                    {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" %}
+                    {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}" error="Please enter a valid UK telephone number" %}
                     {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
-                    {% include form_input_text.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
                     {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
-                    {% include form_input_text.html id="password" label="Password" type="password" required="true" placeholder="Enter a password" autocomplete="new-password" error="Please enter a password for your account. It must be at least 8 characters long" %}
-                    {% include form_input_checkbox.html id="optIn" label="I agree to the Terms and Conditions" %}
+                    {% include form_input_text.html id="password" label="Password" type="password" required="true" placeholder="Enter a password" autocomplete="new-password" error="Please enter a password for your account. It must be at least 8 characters long" maxlength="64" pattern=".{8,}"%}
+                    {% include form_input_checkbox.html id="optin" label="I agree to the Terms and Conditions" %}
                     {% assign form_input_id_prefix = '' %}
                 </form>
                 </div>
