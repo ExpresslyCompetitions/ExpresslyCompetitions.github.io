@@ -51,3 +51,7 @@
     }
   }
 }
+
+.dob-control ~ .invalid-feedback {
+  background-color: transparent;
+}

@@ -58,3 +58,8 @@ input[type=text].is-invalid {
   color: $colour_danger;
   background: $colour_bg_gray;
 }
+
+.form-control:disabled ~ .invalid-feedback {
+  background-color: transparent;
+}
+
