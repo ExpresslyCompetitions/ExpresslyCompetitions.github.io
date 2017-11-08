@@ -17,7 +17,7 @@ banner-img: "350x250.png"
 
 logo-left-href: "https://www.metrofone.co.uk/"
 logo-left-image: "metrofone_logo.png"
-logo-left-title: "Metrofone Logo"
+logo-left-title: "Metrofone"
 
 bg-image-hero: "metrofone-header-img.jpg"
 bg-image-first: "metrofone-first-img.png"

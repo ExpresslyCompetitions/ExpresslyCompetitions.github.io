@@ -15,7 +15,7 @@ banner-img: "350x250.png"
 
 logo-left-href: "https://www.nifeislife.com/"
 logo-left-image: "nife-logo.png"
-logo-left-title: "Nife is Life Logo"
+logo-left-title: "Nife is Life"
 
 bg-image-hero: "nife-header-img.png"
 bg-image-first: "nife-first-img.png"

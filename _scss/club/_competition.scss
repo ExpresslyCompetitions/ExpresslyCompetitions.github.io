@@ -116,7 +116,12 @@ body.competition {
         transition-property: left, top, opacity;
       }
     }
+  }
 
+  .competition-banner {
+    img {
+      width: 100%;
+    }
   }
 
   .row-he .bg-img {

@@ -1,4 +1,5 @@
-<div class="row competition-card" data-competition-toggle="{{include.item.campaign-uuid}}">
+<div class="row competition-card" id="eid-{{include.item.campaign-uuid}}" data-competition-toggle="{{include.item.campaign-uuid}}">
+    <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="col-md-5 col-lg-4 competition-card--banner">
         <img class="rounded advertiser-banner" src="img/{{include.item.banner-img}}" />
         <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>

@@ -19,15 +19,27 @@
     {% endif %}
     <script>
         var profile = null;
+        var entriesMap = {};
         var signedIn = false;
         if (typeof(Storage) !== "undefined" && localStorage.profile) {
             profile = JSON.parse(localStorage.profile);
             signedIn = !!localStorage.signedIn;
+            if (localStorage.entries) {
+                var entries = JSON.parse(localStorage.entries)
+                for (var i = 0; i < entries.length; ++i) {
+                    entriesMap[entries[i]['campaignUuid']] = entries[i];
+                }
+            }
+        }
+        function entrySet(id, cuid) {
+            var e = document.getElementById(id);
+            if (e && entriesMap[cuid]) {
+                e.className += ' competition-entered';
+            }
         }
     </script>
 </head>
 <body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}">
-
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 
 <nav class="navbar navbar-expand navbar-dark bg-main fixed-top">

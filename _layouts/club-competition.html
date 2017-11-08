@@ -62,7 +62,8 @@ body-class: "competition"
 
 <div id="contact-anchor" class="anchor"></div>
 
-<div class="container">
+<div class="container" id="eid" data-competition-toggle="{{page.campaign-uuid}}">
+    <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
     <section class="contact row">
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
@@ -70,6 +71,7 @@ body-class: "competition"
             {% assign end_date_pretty = page.end-date | date: '%B %d, %Y' %}
             <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
 
+            <div class="hide-if-entered">
             {% assign curr_date = site.time | date: "%Y-%m-%d" %}
             {% assign end_date = page.end-date | date: "%Y-%m-%d" %}
             {% if page.disable-form == false and curr_date <= end_date %}
@@ -98,7 +100,22 @@ body-class: "competition"
             {% if page.disable-form == true or curr_date > end_date %}
                 <h2 class="text-center">Competition is now over</h2>
             {% endif %}
+            </div>
+            <div class="competition-entered show-if-entered">
+                <p>
+                    You've already submitted an entry to this competition. Go to
+                    <a data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">{{page.logo-left-title}}</a>.
+                </p>
+                <div class="competition-banner mt-4">
+                    <a data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
+                        <img src="{{page.club_url}}/img/{{page.banner-img}}" />
+                    </a>
+                </div>
+            </div>
         </div>
+        <div class="col-sm-8 show-if-entered">
+        </div>
+
         <div class="col-sm-3"></div>
     </section>
 </div>

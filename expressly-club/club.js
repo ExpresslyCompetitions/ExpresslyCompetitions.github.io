@@ -273,6 +273,10 @@ var club = function () {
         setEntries: function (entries) {
             for (var i = 0; i < entries.length; ++i) {
                 $('[data-competition-toggle="' + entries[i]['campaignUuid'] + '"]').addClass('competition-entered');
+                $('[data-powerlink="' + entries[i]['campaignUuid'] + '"]').prop('href', entries[i]['powerLink']);
+            }
+            if (typeof(Storage) !== "undefined") {
+                localStorage.entries = JSON.stringify(entries);
             }
         }
     };
@@ -644,7 +648,7 @@ var club = function () {
     }
 
     // iniit
-    (function () {
+    $(function () {
         registerEvents();
         $('[data-toggle="tooltip"]').tooltip();
         dobControl.init();

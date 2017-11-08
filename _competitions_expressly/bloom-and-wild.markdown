@@ -14,7 +14,7 @@ banner-img: "350x250.png"
 
 logo-left-href: "https://www.bloomandwild.com/"
 logo-left-image: "bloom-logo.png"
-logo-left-title: "Bloom & Wild Logo"
+logo-left-title: "Bloom & Wild"
 
 bg-image-hero: "bloom-header-img.jpg"
 bg-image-first: "bloom-first-img.jpg"
