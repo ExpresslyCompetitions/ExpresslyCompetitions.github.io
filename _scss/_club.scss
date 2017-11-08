@@ -311,6 +311,14 @@ body.competition {
     background-size: cover;
     position: relative;
 
+    header {
+      img {
+        padding: 8px;
+        background: white;
+        border-radius: 5px;
+      }
+    }
+
     .hero-block {
       background-color: rgba(255, 255, 255, 0.8);
       border-radius: 5px;
@@ -323,6 +331,9 @@ body.competition {
 
       img {
         max-width: 100%;
+        padding: 5px 10px;
+        background: white;
+        border-radius: 5px;
       }
 
       h1 {
@@ -457,7 +468,7 @@ body.competition {
           font-size: 8vw;
         }
         h3 {
-          font-size: 5vw;
+          font-size: 4vw;
         }
       }
     }
