@@ -1,0 +1,33 @@
+.tooltip {
+  &.bs-tooltip-auto[x-placement^=right] .arrow::before,
+  &.bs-tooltip-right .arrow::before {
+    border-right-color: $colour_danger;
+  }
+
+  &.bs-tooltip-auto[x-placement^=left] .arrow::before,
+  &.bs-tooltip-left .arrow::before {
+    border-left-color: $colour_danger;
+  }
+
+  &.bs-tooltip-auto[x-placement^=top] .arrow::before,
+  &.bs-tooltip-top .arrow::before {
+    border-top-color: $colour_danger;
+  }
+
+  &.bs-tooltip-auto[x-placement^=bottom] .arrow::before,
+  &.bs-tooltip-bottom .arrow::before {
+    border-bottom-color: $colour_danger;
+  }
+
+  .tooltip-inner {
+    background: $colour_danger;
+  }
+}
+
+.pac-container {
+  background-color: #ffffff;
+  z-index: 2000;
+  position: fixed;
+  display: inline-block;
+  float: left;
+}

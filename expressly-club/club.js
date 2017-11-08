@@ -245,8 +245,19 @@ var club = function () {
             }
             form.competition.toggleClass('was-validated', true);
         },
+        storeProfile: function(profile) {
+            if (typeof(Storage) !== "undefined") {
+                if (profile !== null) {
+                    localStorage.profile = JSON.stringify(profile);
+                } else {
+                    localStorage.removeItem('profile');
+                }
+                localStorage.signedIn = profile !== null;
+            }
+        },
         setProfile: function (profile) {
             state.profile = profile;
+            controller.storeProfile(profile);
             $('body').toggleClass("logged-in", profile !== null);
             $('.data-forename').text(profile !== null ? profile.forename : '');
             $('.disable-if-logged-in').prop("disabled", profile !== null);
@@ -336,6 +347,7 @@ var club = function () {
                 },
                 function (xhr, status, error) {
                     printError(xhr, status, error);
+                    controller.setProfile(null);
                     if (postSuccess) {
                         postSuccess(null);
                     }

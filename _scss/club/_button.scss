@@ -1,0 +1,39 @@
+.btn-primary {
+  color: $colour_secondary;
+  background-color: $colour_primary;
+  border-color: $colour_primary;
+
+  &:hover {
+    color: $colour_primary;
+    background-color: $colour_secondary;
+    border-color: $colour_primary;
+  }
+
+  &:focus,
+  &.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
+  }
+
+  &.disabled,
+  &:disabled {
+    background-color: $colour_primary;
+    border-color: $colour_primary;
+    color: $colour_secondary;
+  }
+
+  &:not([disabled]):not(.disabled):active,
+  &:not([disabled]):not(.disabled).active {
+    color: $colour_secondary;
+    background-color: $colour_primary;
+    border-color: $colour_primary;
+    box-shadow: 0 0 0 0.2rem rgba(102, 186, 222, 0.45);
+  }
+
+}
+
+.show > .btn-primary.dropdown-toggle {
+  color: $colour_secondary;
+  background-color: $colour_primary;
+  border-color: $colour_primary;
+  box-shadow: 0 0 0 0.2rem rgba(102, 186, 222, 0.45);
+}

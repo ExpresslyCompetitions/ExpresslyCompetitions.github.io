@@ -1,0 +1,60 @@
+.form-control {
+  background: $colour_bg_gray;
+  border: 1px solid $colour_bg_gray;
+
+  &:focus {
+    color: #495057;
+    background-color: $colour_bg_gray;
+    border-color: $colour_primary;
+    outline: 0;
+    box-shadow: none;
+  }
+}
+
+input:-webkit-autofill:focus,
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px $colour_bg_gray inset;
+}
+
+input[type=email].is-invalid,
+input[type=password].is-invalid,
+input[type=text].is-invalid {
+  padding-right: 30px;
+}
+
+.custom-select.is-valid,
+.form-control.is-valid,
+.was-validated .custom-select:valid,
+.was-validated .form-control:valid {
+  border-color: $colour_bg_gray !important;
+}
+
+.custom-select.is-invalid,
+.form-control.is-invalid,
+.was-validated .form-control.is-invalid:valid,
+.was-validated .custom-select:invalid,
+.was-validated .form-control:invalid {
+  border-color: $colour_danger !important;
+}
+
+.custom-select.is-invalid:focus,
+.form-control.is-invalid:focus,
+.was-validated .custom-select:invalid:focus,
+.was-validated .form-control:invalid:focus {
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, .25) !important;
+}
+
+.custom-control-input:checked~.custom-control-indicator {
+  color: #ffffff;
+  background-color: $colour_primary;
+}
+
+.invalid-feedback {
+  position: absolute;
+  font-size: 18px;
+  margin-top: -14px;
+  top: 50%;
+  right: 20px;
+  color: $colour_danger;
+  background: $colour_bg_gray;
+}

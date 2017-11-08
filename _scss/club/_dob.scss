@@ -1,0 +1,53 @@
+.dob-control {
+  background: $colour_bg_gray;
+  border: 1px solid $colour_bg_gray;
+  border-radius: .25rem;
+  width: fit-content;
+  padding: 1px;
+
+  .form-control {
+    width: 2rem;
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+
+    &:last-child {
+      width: 3rem;
+    }
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+  }
+}
+
+.was-validated {
+  .dob-value {
+    &.is-invalid ~ .dob-control,
+    &:invalid ~ .dob-control {
+      border-color: $colour_danger;
+    }
+  }
+
+  .dob-control-input {
+    &.form-control {
+      .is-invalid,
+      .is-valid,
+      &:valid,
+      &:invalid {
+        border-color: $colour_bg_gray !important;
+      }
+
+      .is-invalid:focus,
+      .is-valid:focus,
+      &:valid:focus,
+      &:invalid:focus {
+        box-shadow: 0 0 0 0 white !important;
+      }
+    }
+  }
+}
