@@ -22,20 +22,24 @@ body-class: "competition"
             {% endif %}
         </header>
 
-        <div class="hero-block hero-block-header text-center px-3 my-3">
-            <h1>{{page.hero-header}}</h1>
-            <div class="advertiser-logo"><img src="{{page.club_url}}/img/{{page.logo-left-image}}" /></div>
-        </div>
-        <div class="hero-block hero-block-sub text-center px-3">
-            {% if page.hero-subheader and page.hero-subheader != '' %}
-            <h3 class="pb-2">{{page.hero-subheader}}</h3>
-            {% endif %}
-            <a href="#contact-anchor" class="btn btn-lg btn-primary px-5 d-none d-sm-inline">Enter now</a>
-            <a href="#contact-anchor" class="btn btn-sm btn-primary px-3 d-sm-none">Enter now</a>
+        <div class="hero-block-wrapper">
+            <div class="hero-block-inner">
+                <div class="hero-block hero-block-header text-center px-3 my-3">
+                    <h1>{{page.hero-header}}</h1>
+                    <div class="advertiser-logo"><img src="{{page.club_url}}/img/{{page.logo-left-image}}" /></div>
+                </div>
+                <div class="hero-block hero-block-sub text-center mb-3 px-3">
+                    {% if page.hero-subheader and page.hero-subheader != '' %}
+                    <h3 class="pb-2">{{page.hero-subheader}}</h3>
+                    {% endif %}
+                    <a href="#contact-anchor" class="btn btn-lg btn-primary px-5 d-none d-sm-inline">Enter now</a>
+                    <a href="#contact-anchor" class="btn btn-sm btn-primary px-3 d-sm-none">Enter now</a>
+                </div>
+            </div>
         </div>
 
         <div class="down-arrow-spacer"></div>
-        <div class="down-arrow my-3">
+        <div class="down-arrow mb-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
                 <g class="nc-icon-wrapper" fill="#ffffff">
                     <path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 24l-8-8h16l-8 8z"></path>

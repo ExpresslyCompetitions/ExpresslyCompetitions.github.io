@@ -1,6 +1,7 @@
 body.competition {
   padding-top: 0;
   .hero {
+    display: flex;
     padding-top: 4rem;
     min-height: 100vh;
     background-position: center;
@@ -13,6 +14,20 @@ body.competition {
         padding: 8px;
         background: white;
         border-radius: 5px;
+      }
+    }
+
+    .hero-block-wrapper {
+      display: flex;
+      vertical-align: middle;
+      justify-content: center;
+      align-self: center;
+      height: 100%;
+
+      .hero-block-inner {
+        align-self: center;
+        margin-top: -90px;
+        margin-bottom: 110px;
       }
     }
 
