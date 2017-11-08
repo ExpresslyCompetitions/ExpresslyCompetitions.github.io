@@ -1,0 +1,85 @@
+.competition-card {
+  border-bottom: 1px solid $colour_bg_gray;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom-width: 0;
+  }
+
+  .competition-card--banner {
+    .advertiser-banner {
+      width: 100%;
+    }
+
+    .advertiser-logo {
+      display: flex;
+      align-items: center;
+      position: absolute;
+      left: 0;
+      top: 5%;
+      width: 35%;
+      min-height: 20%;
+      background-color: white;
+      margin-left: 15px;
+      padding: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      vertical-align: middle;
+
+      img {
+        width: 100%;
+        vertical-align: middle;
+      }
+    }
+  }
+
+  .competition-card--description {
+    margin-bottom: 0;
+
+    @media (min-width: $sm) {
+      margin-bottom: 50px;
+    }
+
+    p {
+      display: none;
+
+      &:first-child {
+        display: block;
+      }
+    }
+  }
+
+  .competition-card--footer {
+    @media (min-width: $sm) {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+
+    > div {
+      margin-bottom: 1rem;
+
+      @media (min-width: $sm) {
+        margin-bottom: 0 !important;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .competition-card--status {
+      span {
+        border: 1px dashed $colour_primary;
+        border-radius: 3px;
+        display: inline-block;
+        padding: .375rem .75rem;
+      }
+    }
+  }
+}
