@@ -21,6 +21,11 @@ $color_mako_approx: #111810 !default;
   text-align: justify;
 }
 
+.anchor {
+  position: relative;
+  top: -4rem;
+}
+
 hr {
   width: 150px;
   height: 2px;
