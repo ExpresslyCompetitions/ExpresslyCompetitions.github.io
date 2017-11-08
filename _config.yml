@@ -51,7 +51,7 @@ defaults:
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
   -
     scope:
-      path: "expressly-club"
+      path: ""
       type: "competitions_expressly"
     values:
       layout:         "club-competition"
