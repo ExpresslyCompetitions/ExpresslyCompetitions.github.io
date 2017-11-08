@@ -75,26 +75,27 @@ var club = function () {
         },
 
         populate: function (form, data, trigger) {
-            console.log(data);
-            $.each(data, function (key, value) {
-                var ctrl = $('[name=' + key + ']', form);
-                switch (ctrl.prop("type")) {
-                    case "radio":
-                    case "checkbox":
-                        ctrl.each(function () {
-                            if ($(this).attr('value') === value + "") {
-                                $(this).attr("checked", value);
+            if (form.length) {
+                $.each(data, function (key, value) {
+                    var ctrl = $('[name=' + key + ']', form);
+                    switch (ctrl.prop("type")) {
+                        case "radio":
+                        case "checkbox":
+                            ctrl.each(function () {
+                                if ($(this).attr('value') === value + "") {
+                                    $(this).attr("checked", value);
+                                }
+                            });
+                            break;
+                        default:
+                            var current = ctrl.val();
+                            ctrl.val(value);
+                            if (trigger && current !== value) {
+                                ctrl.trigger('change');
                             }
-                        });
-                        break;
-                    default:
-                        var current = ctrl.val();
-                        ctrl.val(value);
-                        if (trigger && current !== value) {
-                            ctrl.trigger('change');
-                        }
-                }
-            });
+                    }
+                });
+            }
         },
 
         busy: function (working) {
@@ -261,11 +262,17 @@ var club = function () {
             $('body').toggleClass("logged-in", profile !== null);
             $('.data-forename').text(profile !== null ? profile.forename : '');
             $('.disable-if-logged-in').prop("disabled", profile !== null);
-            if (profile !== null && form.competition.length) {
+            if (profile !== null) {
                 form.populate(form.competition, profile, true);
-            }
-            if (profile !== null && form.profile.length) {
                 form.populate(form.profile, profile, true);
+                server.entries();
+            } else {
+                $('.competition-entered').removeClass('competition-entered');
+            }
+        },
+        setEntries: function (entries) {
+            for (var i = 0; i < entries.length; ++i) {
+                $('[data-competition-toggle="' + entries[i]['campaignUuid'] + '"]').addClass('competition-entered');
             }
         }
     };
@@ -431,6 +438,13 @@ var club = function () {
                 });
         },
 
+        entries: function() {
+            server.submit("competition/entries", "GET", null,
+                function (data) {
+                    controller.setEntries(data);
+                }, printError);
+        },
+
         submit: function (uri, method, payload, success, error) {
             form.busy(true);
             $.ajax({
@@ -558,7 +572,7 @@ var club = function () {
                 syncFromValue();
 
                 var pad = function(value) {
-                  return value.length == 1
+                  return value.length === 1
                     ? '0' + value
                     : value;
                 };

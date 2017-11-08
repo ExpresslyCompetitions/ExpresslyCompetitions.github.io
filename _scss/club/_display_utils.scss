@@ -25,11 +25,23 @@
 }
 
 .logged-in {
-  .logged-status-known-only,
   .logged-in-only {
     display: inherit;
   }
   .logged-out-only {
+    display: none;
+  }
+}
+
+.show-if-entered {
+  display: none;
+}
+
+.competition-entered {
+  .show-if-entered {
+    display: inherit;
+  }
+  .hide-if-entered {
     display: none;
   }
 }

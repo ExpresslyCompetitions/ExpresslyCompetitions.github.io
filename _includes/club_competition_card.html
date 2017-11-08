@@ -1,4 +1,4 @@
-<div class="row competition-card">
+<div class="row competition-card" data-competition-toggle="{{include.item.campaign-uuid}}">
     <div class="col-md-5 col-lg-4 competition-card--banner">
         <img class="rounded advertiser-banner" src="img/{{include.item.banner-img}}" />
         <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
@@ -12,10 +12,20 @@
             {% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
             {% if curr_date <= end_date %}
             <div class="col-sm-4 competition-card--buttons text-center text-sm-left">
-                <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">Enter</a>
+                <div class="show-if-entered">
+                    <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                </div>
+                <div class="hide-if-entered">
+                    <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">Enter</a>
+                </div>
             </div>
             <div class="col-sm-8 competition-card--status text-center text-sm-right">
-                <div><span class="h-100 small">Available until<br class="d-sm-none"> <strong>{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span></div>
+                <div class="show-if-entered">
+                    <span class="h-100 small"><strong>Entry submitted</strong></span>
+                </div>
+                <div class="hide-if-entered">
+                    <span class="h-100 small">Available until<br class="d-sm-none"> <strong>{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
+                </div>
             </div>
             {% else %}
             <div class="col-sm-12 competition-card--status text-center text-sm-right">
