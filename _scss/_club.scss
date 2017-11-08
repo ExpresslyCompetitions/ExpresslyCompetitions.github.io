@@ -299,7 +299,7 @@ input[type=text].is-invalid {
 body.competition {
   padding-top: 0;
   .hero {
-    padding-top: 5rem;
+    padding-top: 4rem;
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -315,6 +315,10 @@ body.competition {
       margin-right: auto;
       padding: 20px 0;
       color: $color_mako_approx;
+
+      img {
+        max-width: 100%;
+      }
 
       h1 {
         font-weight: 700;
@@ -425,20 +429,36 @@ body.competition {
 
 @media (max-width: 767px) {
   body.competition {
-    .hero {
-      .hero-block {
-        h1 {
-          font-size: 24px;
-        }
-      }
-    }
-
     #first-img,
     #second-img {
       min-height: 50vw;
     }
   }
+
+  .hero {
+    .hero-block {
+      h3 {
+        font-size: 12px;
+      }
+    }
+  }
 }
+
+@media (max-width: 575px) {
+  body.competition {
+    .hero {
+      .hero-block {
+        h1 {
+          font-size: 8vw;
+        }
+        h3 {
+          font-size: 5vw;
+        }
+      }
+    }
+  }
+}
+
 
 .competition-card {
 
