@@ -41,7 +41,7 @@
 .competition-entered {
   &.show-if-entered,
   .show-if-entered {
-    display: inherit;
+    display: inherit !important;
   }
 
   &.show-if-entered-flex,
