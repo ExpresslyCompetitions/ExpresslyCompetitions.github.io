@@ -1,0 +1,27 @@
+{% assign curr_date = site.time | date: "%Y-%m-%d" %}
+{% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
+<div class="history-card">
+    <div class="history-card--banner">
+        <img class="advertiser-banner" src="img/{{include.item.banner-img}}"/>
+    </div>
+    <div class="history-card--content p-2 text-center">
+        <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }}</p>
+        <p><strong>{{ include.item.title }}</strong></p>
+    </div>
+    <div class="history-card--footer p-2 pb-3 text-center">
+        <div class="history-card--status mb-4">
+            {% if curr_date <= end_date %}
+            <div><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span></div>
+            {% else %}
+            <div><span class="competition-over small">
+                Visit  <strong class="avoid-wrap"><a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}">{{include.item.logo-left-title}}</a></strong>
+            </span></div>
+            {% endif %}
+        </div>
+        <div class="advertiser-logo">
+            <div>
+                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}"><img  src="img/{{include.item.logo-left-image}}" /></a>
+            </div>
+        </div>
+    </div>
+</div>

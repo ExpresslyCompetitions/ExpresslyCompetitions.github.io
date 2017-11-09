@@ -25,7 +25,7 @@
                     <span class="h-100 small"><strong>Entry submitted</strong></span>
                 </div>
                 <div class="hide-if-entered">
-                    <span class="h-100 small">Available until<br class="d-sm-none"> <strong>{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
+                    <span class="h-100 small">Open until<br class="d-sm-none"> <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
                 </div>
             </div>
             {% else %}

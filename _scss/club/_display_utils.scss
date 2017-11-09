@@ -33,15 +33,24 @@
   }
 }
 
+.show-if-entered-flex,
 .show-if-entered {
-  display: none;
+  display: none !important;
 }
 
 .competition-entered {
+  &.show-if-entered,
   .show-if-entered {
     display: inherit;
   }
+
+  &.show-if-entered-flex,
+  .show-if-entered-flex {
+    display: flex !important;
+  }
+
+  &.hide-if-entered,
   .hide-if-entered {
-    display: none;
+    display: none !important;
   }
 }
