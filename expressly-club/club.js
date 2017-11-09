@@ -215,7 +215,6 @@ var club = function () {
 
         updateProfile: function () {
             var formData = form.serialize(form.profile);
-            console.log(formData);
             form.toggleFeedback('form--register', 'email', false);
             if (form.profile.get(0).checkValidity() === true) {
                 formData.dob = dates.formatDateString(formData.dob);
@@ -232,7 +231,6 @@ var club = function () {
 
         submitEntry: function () {
             var formData = form.serialize(form.competition);
-            console.log(formData);
             form.toggleFeedback('form--competition', 'email', false);
             if (form.competition.get(0).checkValidity() === true) {
                 formData.dob = dates.formatDateString(formData.dob);
@@ -256,9 +254,11 @@ var club = function () {
                 localStorage.signedIn = profile !== null;
             }
         },
-        setProfile: function (profile) {
+        setProfile: function (profile, nostore) {
             state.profile = profile;
-            controller.storeProfile(profile);
+            if(!nostore) {
+                controller.storeProfile(profile);
+            }
             $('body').toggleClass("logged-in", profile !== null);
             $('.data-forename').text(profile !== null ? profile.forename : '');
             $('.disable-if-logged-in').prop("disabled", profile !== null);
@@ -270,14 +270,20 @@ var club = function () {
                 $('.competition-entered').removeClass('competition-entered');
             }
         },
-        setEntries: function (entries) {
+        setEntries: function (entries, nostore) {
             for (var i = 0; i < entries.length; ++i) {
                 $('[data-competition-toggle="' + entries[i]['campaignUuid'] + '"]').addClass('competition-entered');
                 $('[data-powerlink="' + entries[i]['campaignUuid'] + '"]').prop('href', entries[i]['powerLink']);
             }
-            if (typeof(Storage) !== "undefined") {
+            if (typeof(Storage) !== "undefined" && !nostore) {
                 localStorage.entries = JSON.stringify(entries);
             }
+        },
+        redraw: function() {
+            var profile = localStorage.profile ? JSON.parse(localStorage.profile) : null;
+            var entries = localStorage.entries ? JSON.parse(localStorage.entries) : [];
+            controller.setEntries([], true);
+            controller.setProfile(profile, true);
         }
     };
 
@@ -605,6 +611,10 @@ var club = function () {
     };
 
     function registerEvents() {
+        $(window).bind('storage', function (e) {
+            controller.redraw();
+        });
+        localStorage.setItem('a', 'test');
         $('#action--register').click(function (event) {
             event.preventDefault();
             controller.register();
@@ -652,7 +662,8 @@ var club = function () {
         registerEvents();
         $('[data-toggle="tooltip"]').tooltip();
         dobControl.init();
-
+        console.log("#################");
+        controller.redraw();
         server.profile(function (profile) {
             if (url.parameter("token")) {
                 if (profile === null) {
