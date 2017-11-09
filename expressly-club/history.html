@@ -1,8 +1,5 @@
 ---
 title: My History
 ---
-<main role="main" class="container">
-    <h4 class="mb-4"><strong>My History</strong></h4>
-    {% assign items = site.competitions_expressly | sort: 'date' %}
-    {% include club_competition_history.html items=items %}
-</main>
+{% assign items = site.competitions_expressly | sort: 'date' %}
+{% include club_competition_history.html items=items %}
