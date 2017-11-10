@@ -62,12 +62,8 @@
     }
 
     > div {
-      @media (min-width: $sm) {
-        margin-bottom: 0 !important;
-      }
-
-      &:last-child {
-        margin-bottom: 0;
+      @media (max-width: $sm) {
+        margin-bottom: 1rem;
       }
     }
 
