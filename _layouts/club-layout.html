@@ -13,20 +13,22 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=9"/>
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=10"/>
     {% if page.extra-css && page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
     {% endif %}
     <script>
         var profile = null;
         var entriesMap = {};
+        var entriesCount = 0;
         var signedIn = false;
         if (typeof(Storage) !== "undefined" && localStorage.profile) {
             profile = JSON.parse(localStorage.profile);
             signedIn = !!localStorage.signedIn;
             if (localStorage.entries) {
                 var entries = JSON.parse(localStorage.entries)
-                for (var i = 0; i < entries.length; ++i) {
+                entriesCount = entries.length
+                for (var i = 0; i < entriesCount; ++i) {
                     entriesMap[entries[i]['campaignUuid']] = entries[i];
                 }
             }
@@ -41,6 +43,7 @@
 </head>
 <body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
+<script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
 <nav class="navbar navbar-expand navbar-dark bg-main fixed-top">
     <a class="navbar-brand" href="{{page.club_url}}">Home</a>
@@ -87,7 +90,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
         integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
         crossorigin="anonymous"></script>
-<script src="{{page.club_url}}/club.js?cb=12"></script>
+<script src="{{page.club_url}}/club.js?cb=13"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
 
 {% if page.ga-code && page.ga-code != "" %}

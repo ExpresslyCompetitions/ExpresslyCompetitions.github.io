@@ -265,16 +265,22 @@ var club = function () {
             if (profile !== null) {
                 form.populate(form.competition, profile, true);
                 form.populate(form.profile, profile, true);
-                server.entries();
+                if(!nostore) {
+                    server.entries();
+                }
             } else {
-                $('.competition-entered').removeClass('competition-entered');
+                controller.setEntries([]);
             }
         },
         setEntries: function (entries, nostore) {
+            $('body').toggleClass('entered-at-least-one', entries.length > 0);
+            $('.competition-entered').removeClass('competition-entered');
+
             for (var i = 0; i < entries.length; ++i) {
                 $('[data-competition-toggle="' + entries[i]['campaignUuid'] + '"]').addClass('competition-entered');
                 $('[data-powerlink="' + entries[i]['campaignUuid'] + '"]').prop('href', entries[i]['powerLink']);
             }
+
             if (typeof(Storage) !== "undefined" && !nostore) {
                 localStorage.entries = JSON.stringify(entries);
             }
@@ -283,7 +289,7 @@ var club = function () {
             if (typeof(Storage) !== "undefined") {
                 var profile = localStorage.profile ? JSON.parse(localStorage.profile) : null;
                 var entries = localStorage.entries ? JSON.parse(localStorage.entries) : [];
-                controller.setEntries([], true);
+                controller.setEntries(entries, true);
                 controller.setProfile(profile, true);
             }
         }
