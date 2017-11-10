@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>
-        {% if page.title && page.title != "" %}{{ page.title }} | {% endif %}
+        {% if page.title and page.title != "" %}{{ page.title }} | {% endif %}
         {{page.club-name}}
     </title>
 
@@ -14,7 +14,7 @@
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=9"/>
-    {% if page.extra-css && page.extra-css != "" %}
+    {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
     {% endif %}
     <script>
@@ -90,7 +90,7 @@
 <script src="{{page.club_url}}/club.js?cb=12"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
 
-{% if page.ga-code && page.ga-code != "" %}
+{% if page.ga-code and page.ga-code != "" %}
 <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -111,8 +111,27 @@
 {% endif %}
 
 <footer class="mt-4">
-    <div class="text-center small">{% if page.is-demo == true %}This is a demo - {% endif %}
-        Powered by Expressly Competitions
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-7 mb-sm-1">
+                <div class="text-center text-md-left small">
+                    <nav class="nav footer-nav justify-content-center justify-content-md-start">
+                        <a class="nav-link" href="{{page.club_url}}">Home</a>
+                        <a class="nav-link" href="#">Privacy Policy</a>
+                        <a class="nav-link" href="#">Terms and conditions</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-12 col-md-5">
+                <div class="copyright-text text-center text-md-right small pt-2 pb-2">
+                    {% if page.is-demo == true %}
+                        This is a demo -  Powered by Expressly Competitions
+                    {% else %}
+                        &copy; 2017 Expressly Limited
+                    {% endif %}
+                </div>
+            </div>
+        </div>
     </div>
 </footer>
 
