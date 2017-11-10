@@ -280,10 +280,12 @@ var club = function () {
             }
         },
         redraw: function() {
-            var profile = localStorage.profile ? JSON.parse(localStorage.profile) : null;
-            var entries = localStorage.entries ? JSON.parse(localStorage.entries) : [];
-            controller.setEntries([], true);
-            controller.setProfile(profile, true);
+            if (typeof(Storage) !== "undefined") {
+                var profile = localStorage.profile ? JSON.parse(localStorage.profile) : null;
+                var entries = localStorage.entries ? JSON.parse(localStorage.entries) : [];
+                controller.setEntries([], true);
+                controller.setProfile(profile, true);
+            }
         }
     };
 
@@ -662,7 +664,6 @@ var club = function () {
         registerEvents();
         $('[data-toggle="tooltip"]').tooltip();
         dobControl.init();
-        console.log("#################");
         controller.redraw();
         server.profile(function (profile) {
             if (url.parameter("token")) {
