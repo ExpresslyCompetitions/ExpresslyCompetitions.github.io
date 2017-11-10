@@ -116,21 +116,22 @@
 <footer class="mt-4">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-7 mb-sm-1">
+            <div class="col-12 col-md-9 mb-sm-1">
                 <div class="text-center text-md-left small">
                     <nav class="nav footer-nav justify-content-center justify-content-md-start">
                         <a class="nav-link" href="{{page.club_url}}">Home</a>
-                        <a class="nav-link" href="#">Privacy Policy</a>
-                        <a class="nav-link" href="#">Terms and conditions</a>
+                        <a class="nav-link" href="{{page.club_url}}/privacy">Privacy Policy</a>
+                        <a class="nav-link" href="{{page.club_url}}/terms">Terms and Conditions</a>
+                        <a class="nav-link" href="{{page.club_url}}/contact-us">Contact Us</a>
                     </nav>
                 </div>
             </div>
-            <div class="col-12 col-md-5">
+            <div class="col-12 col-md-3">
                 <div class="copyright-text text-center text-md-right small pt-2 pb-2">
                     {% if page.is-demo == true %}
                         This is a demo -  Powered by Expressly Competitions
                     {% else %}
-                        &copy; 2017 Expressly Limited
+                        {{page.club-copyright}}
                     {% endif %}
                 </div>
             </div>
