@@ -8,11 +8,11 @@
         <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }}</p>
         <h6><strong>{{ include.item.title }}</strong></h6>
         <div class="competition-card--description small">{{ include.item.section1-content }}</div>
-        <div class="row competition-card--footer">
+        <div class="row justify-content-start align-items-center competition-card--footer">
             {% assign curr_date = site.time | date: "%Y-%m-%d" %}
             {% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
             {% if curr_date <= end_date %}
-            <div class="col-sm-4 competition-card--buttons text-center text-sm-left">
+            <div class="col-4 col-md-3 competition-card--buttons text-center text-sm-left">
                 <div class="show-if-entered">
                     <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
                 </div>
@@ -20,7 +20,7 @@
                     <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">Enter</a>
                 </div>
             </div>
-            <div class="col-sm-8 competition-card--status text-center text-sm-right">
+            <div class="col competition-card--status text-center text-sm-left">
                 <div class="show-if-entered">
                     <span class="h-100 small"><strong>Entry submitted</strong></span>
                 </div>
@@ -29,7 +29,7 @@
                 </div>
             </div>
             {% else %}
-            <div class="col-sm-12 competition-card--status text-center text-sm-right">
+            <div class="col competition-card--status text-center text-sm-left">
                 <div><span class="competition-over small">Competition over</span></div>
             </div>
             {% endif %}

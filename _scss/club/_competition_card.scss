@@ -62,8 +62,6 @@
     }
 
     > div {
-      margin-bottom: 1rem;
-
       @media (min-width: $sm) {
         margin-bottom: 0 !important;
       }
