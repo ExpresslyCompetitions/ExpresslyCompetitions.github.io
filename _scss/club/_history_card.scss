@@ -42,6 +42,32 @@
       }
     }
 
+    .history-card--banner {
+      &.closed {
+        position: relative;
+
+        &:before {
+          content: 'Closed';
+          color: $colour_secondary;
+          position: absolute;
+          top: 32px;
+          left: 0px;
+          font-size: 13px;
+          z-index: 9;
+        }
+
+        &:after {
+          content: '';
+          border-top: 25px solid $color_mako_approx;
+          border-right: 15px solid transparent;
+          position: absolute;
+          top: 30px;
+          left: -5px;
+          width: 70px;
+        }
+      }
+    }
+
     .history-card--content {
       flex-grow: 1;
     }

@@ -1,7 +1,8 @@
 {% assign curr_date = site.time | date: "%Y-%m-%d" %}
 {% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
+
 <div class="history-card">
-    <div class="history-card--banner">
+    <div class="history-card--banner {% if curr_date > end_date %}closed{% endif %}">
         <img class="advertiser-banner" src="img/{{include.item.banner-img}}"/>
     </div>
     <div class="history-card--content p-2 text-center">
