@@ -11,6 +11,11 @@
     border-bottom-width: 0;
   }
 
+  &.promoted {
+    border: 1px solid #b90000;
+    border-radius: 5px;
+  }
+
   .competition-card--banner {
     .advertiser-banner {
       width: 100%;
