@@ -347,11 +347,18 @@ var club = function () {
                     modal.passwordReset.modal('hide');
                     controller.setProfile(data.account);
                     url.removeParameter('token');
+                    modal.notify(
+                        "Password Reset",
+                        "Your password has been changed")
                 },
                 function (xhr, status, error) {
                     printError(xhr, status, error);
-                    if (xhr.status === 401) {
-                        // TODO: token missing or invalid message
+                    if (xhr.status === 403) {
+                        // url.removeParameter('token');
+                        modal.passwordReset.modal('hide');
+                        modal.notify(
+                            "Password Reset Link Expired",
+                            "Your password reset link has either expired or been used. Please try signing in or resetting your password again.")
                     } else {
                         form.toggleFeedback('form--password-reset', 'newPassword', true);
                     }
@@ -673,11 +680,7 @@ var club = function () {
         controller.redraw();
         server.profile(function (profile) {
             if (url.parameter("token")) {
-                if (profile === null) {
-                    modal.passwordReset.modal('show');
-                } else {
-                    url.removeParameter("token");
-                }
+                modal.passwordReset.modal('show');
             }
         });
     }());
