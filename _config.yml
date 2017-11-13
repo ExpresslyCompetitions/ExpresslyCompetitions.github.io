@@ -25,6 +25,7 @@ clubs:
       ga-code:        "UA-102915329-1"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
       club-copyright: "&copy; 2017 Expressly Limited"
+      club-logo-nav:  "expressly-white.png"
 
 collections:
   competitions_local:

@@ -46,7 +46,13 @@
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
 <nav class="navbar navbar-expand navbar-dark bg-main fixed-top">
-    <a class="navbar-brand" href="{{page.club_url}}">Home</a>
+    <a class="navbar-brand" href="{{page.club_url}}">
+        {% if page.club-logo-nav %}
+            <img src="{{page.club_url}}/img/{{page.club-logo-nav}}" alt="{{page.club-name}}" class="navbar-logo" />
+        {% else %}
+            Home
+        {% endif %}
+    </a>
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav ml-auto">
