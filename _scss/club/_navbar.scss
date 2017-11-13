@@ -5,6 +5,14 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
     margin-right: 0;
   }
 
+  .navbar-brand {
+    img {
+      &.navbar-logo {
+        max-width: 100px;
+      }
+    }
+  }
+
   .btn-outline-primary {
     color: $colour_secondary;
     background-color: transparent;

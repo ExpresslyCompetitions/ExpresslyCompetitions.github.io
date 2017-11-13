@@ -19,8 +19,16 @@
     </div>
 
     <div class="row history-card-container">
-        {% if include.items == null %}
-            <div class="col-md-4 offset-md-4 show-if-entered-none text-center mt-4 mb-4">
+        {% for item in include.items reversed  %}
+        <div class="col-md-4 col-sm-6 mb-4 show-if-entered-flex" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}">
+            <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
+            {% include club_history_card.html item=item %}
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-md-4 offset-md-4 text-center mb-4">
+            <div class="show-if-entered-none">
                 <img src="{{page.club_url}}/img/trophy.png" alt="" class="mx-auto my-4 d-block" />
                 <h4 class="text-center">
                     <strong>Get in on the action</strong>
@@ -30,23 +38,15 @@
                     <a class="btn btn-primary h-100 text-uppercase" href="{{page.club_url}}">Take me to offers</a>
                 </div>
             </div>
-        {% else %}
-            {% for item in include.items reversed  %}
-            <div class="col-md-4 col-sm-6 mb-4 show-if-entered-flex" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}">
-                <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
-                {% include club_history_card.html item=item %}
-            </div>
-            {% endfor %}
 
-            <div class="w-100"></div>
-            <div class="col-md-4 offset-md-4 show-if-entered-any text-center mt-4 mb-4">
+            <div class="show-if-entered-any">
                 <img src="{{page.club_url}}/img/thumb-up.png" alt="" class="mx-auto my-4 d-block" />
                 <h4 class="text-center">
                     <strong>Nice work!</strong>
                 </h4>
                 <p>More opportunities to win and get great offers <a href="{{page.club_url}}">here</a></p>
             </div>
+        </div>
 
-        {% endif %}
     </div>
 </main>

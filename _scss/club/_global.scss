@@ -21,14 +21,6 @@ body {
   }
 }
 
-.navbar-brand {
-  img {
-    &.navbar-logo {
-      max-width: 100px;
-    }
-  }
-}
-
 footer {
   background-color: $colour_bg_gray;
   position: absolute;
