@@ -34,6 +34,12 @@ footer {
   @media (max-width: $sm) {
     position: relative;
   }
+
+  nav {
+    a {
+      color: $colour_text_primary;
+    }
+  }
 }
 
 a {
