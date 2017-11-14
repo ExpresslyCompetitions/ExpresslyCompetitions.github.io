@@ -10,6 +10,7 @@ has_entry_page: false
 
 title: "Win &pound;500 at Nife is Life"
 hero-header: "2 WINNERS GET £500 AT"
+competition-description: "Online deli Nife is Life offers 1,500 of Italy’s finest products – bringing your favourite Italian food to your door, with UK-wide same-day or next-day delivery."
 hero-subheader: "TO SPEND ON DELICIOUS ITALIAN FOOD PRODUCTS, DELIVERED TO YOUR DOOR."
 terms-confirmation: >
    I agree to the competition T&C and to join Nife Is Life newsletter

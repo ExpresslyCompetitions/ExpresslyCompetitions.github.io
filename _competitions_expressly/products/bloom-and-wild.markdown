@@ -10,6 +10,7 @@ has_entry_page: false
 
 title: "Win &pound;500 at Bloom &amp; Wild"
 hero-header: "2 WINNERS GET &pound;500 AT BLOOM & WILD"
+competition-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
 hero-subheader: "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISICING ELIT."
 terms-confirmation: >
    I agree to the competition T&C and to join the Bloom &amp; Wild newsletter

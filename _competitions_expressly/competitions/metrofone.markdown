@@ -11,6 +11,7 @@ has_entry_page: true
 title: "Win a sim-free iPhone 7 with Metrofone"
 
 hero-header: "Win an iPhone 7 with Metrofone"
+competition-description: "Welcome to Metrofone the home of some of the best value smartphone deals on the Internet"
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme_metrofone_terms.pdf"
