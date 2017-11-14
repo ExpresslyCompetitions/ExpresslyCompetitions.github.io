@@ -12,21 +12,11 @@ sass:
     sass_dir: /_scss
 
 collections:
-  competitions_local:
-    output: true
-    permalink: /local/club/competition/:name
   competitions_expressly:
     output: true
-    permalink: /expressly-club/competition/:name
+    permalink: /expressly-club/:path
 
 clubs:
-  local_dev: &LOCAL_DEV
-      collection:     "competitions_local"
-      club_url:       "http://localhost:4000/local/club"
-      club-name:      "Local Club"
-      club-copyright: "&copy; 2017 Expressly Limited"
-      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"
-      ga-code:        "UA-102915329-1"
   expressly_club: &EXPRESSLY_CLUB
       collection:     "competitions_expressly"
       club-name:      "Expressly Club"
@@ -37,20 +27,6 @@ clubs:
       ga-code:        "UA-102915329-1"
 
 defaults:
-  -
-    scope:
-      path: "local/club"
-      type: "pages"
-    values:
-      layout: "club-layout"
-      <<:     *LOCAL_DEV
-  -
-    scope:
-      path: ""
-      type: "competitions_local"
-    values:
-      layout: "club-competition"
-      <<:     *LOCAL_DEV
   -
     scope:
       path: "expressly-club"

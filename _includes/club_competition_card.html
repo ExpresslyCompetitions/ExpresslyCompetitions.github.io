@@ -16,20 +16,22 @@
             <div class="row justify-content-start align-items-center competition-card--footer">
                 {% assign curr_date = site.time | date: "%Y-%m-%d" %}
                 {% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
+                {% assign item-path-prefix = (item.collection | prepend: "_") %}
+                {% assign item-url = (item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, page.club_url) %}
                 {% if curr_date <= end_date %}
                     <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1">
                         {% assign button-cta = "Get Now" %}
                         {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
                         {% if include.item.has_entry_page %}
                             <div class="show-if-entered">
-                                <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                                <a href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">View</a>
                             </div>
                             <div class="hide-if-entered">
-                                <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">{{button-cta}}</a>
+                                <a href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">{{button-cta}}</a>
                             </div>
                         {% else %}
                             <div class="show-if-entered">
-                                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">View</a>
                             </div>
                             <div class="hide-if-entered">
                                 <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="h-100 btn btn-sm btn-primary px-5 disable-if-busy">{{button-cta}}</a>

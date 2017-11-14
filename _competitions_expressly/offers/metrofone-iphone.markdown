@@ -6,7 +6,7 @@ date:           2017-11-03
 end-date:       2017-12-01
 disable-form:   false
 is_promoted:    false
-has_entry_page: false
+has_entry_page: true
 
 title: "Win another sim-free iPhone 7 with Metrofone"
 
