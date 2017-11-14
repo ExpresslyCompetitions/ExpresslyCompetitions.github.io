@@ -35,12 +35,6 @@ collections:
     output: true
     permalink: /expressly-club/competition/:name
 
-page_gen:
-  - data: 'member'
-    template: 'profile'
-    name: 'name'
-    dir: 'people'
-
 defaults:
   -
     scope:
