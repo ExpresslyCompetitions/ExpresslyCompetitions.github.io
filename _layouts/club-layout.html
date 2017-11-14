@@ -59,11 +59,11 @@
 
     <div class="collapse navbar-collapse" id="nav-items">
         <ul class="navbar-nav mr-auto text-left text-md-center">
-            <li class="nav-item"><a href="{{page.club_url}}/exclusive-offers"> Exclusive <br class="d-none d-md-inline"/> Offers </a></li>
-            <li class="nav-item"><a href="{{page.club_url}}/insider-access"> Insider <br class="d-none d-md-inline"/> Access </a></li>
-            <li class="nav-item"><a href="{{page.club_url}}/trending-products"> Trending <br class="d-none d-md-inline"/> Products </a></li>
-            <li class="nav-item"><a href="{{page.club_url}}/selected-competitions"> Selected <br class="d-none d-md-inline"/> Competitions </a></li>
-            <li class="nav-item"><a href="{{page.club_url}}/winners"> Winners </a></li>
+            <li class="nav-item {% if page.active == 'exclusive-offers' %}active{% endif %}"><a href="{{page.club_url}}/exclusive-offers"> Exclusive <br class="d-none d-md-inline"/> Offers </a></li>
+            <li class="nav-item {% if page.active == 'insider-access' %}active{% endif %}"><a href="{{page.club_url}}/insider-access"> Insider <br class="d-none d-md-inline"/> Access </a></li>
+            <li class="nav-item {% if page.active == 'trending-products' %}active{% endif %}"><a href="{{page.club_url}}/trending-products"> Trending <br class="d-none d-md-inline"/> Products </a></li>
+            <li class="nav-item {% if page.active == 'selected-competitions' %}active{% endif %}"><a href="{{page.club_url}}/selected-competitions"> Selected <br class="d-none d-md-inline"/> Competitions </a></li>
+            <li class="nav-item{% if page.active == 'winners' %}active{% endif %}"><a href="{{page.club_url}}/winners"> Winners </a></li>
         </ul>
 
         <div class="divider"></div>

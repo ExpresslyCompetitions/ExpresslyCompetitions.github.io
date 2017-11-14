@@ -1,19 +1,23 @@
 <main role="main" class="container">
-<!--<div class="row history-header-container mb-4">-->
-        <!--<div class="col-md-10 col-sm-8">-->
-            <!--<h4><strong>My History</strong></h4>-->
-        <!--</div>-->
-        <!--<div class="col-md-2 col-sm-4">-->
-            <!--<form class="form-horizontal">-->
-                <!--<div class="form-group">-->
-                    <!--<select class="form-control">-->
-                        <!--<option>All</option>-->
-                    <!--</select>-->
-                <!--</div>-->
-            <!--</form>-->
-        <!--</div>-->
-    <!--</div>-->
+    <div class="row">
+        <div class="col">
+        </div>
+        <div class="col-6 col-md-4 card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    <select class="form-control card-sorter">
+                        <option data-source="posted" data-direction="desc">Posted (latest)</option>
+                        <option data-source="posted" data-direction="asc">Posted (oldest)</option>
+                        <option data-source="closes" data-direction="desc">Deadline (latest)</option>
+                        <option data-source="closes" data-direction="asc">Deadline (oldest)</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="competition-cards">
     {% for item in include.items reversed  %}
     {% include club_competition_card.html item=item %}
     {% endfor %}
+    </div>
 </main>

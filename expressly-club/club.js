@@ -669,6 +669,16 @@ var club = function () {
             event.preventDefault();
             controller.submitEntry();
         });
+        $('.card-sorter').change(function() {
+            var selected = $($(this).find(":selected"));
+            var source = selected.data("source");
+            var direction = selected.data("direction");
+            $('#competition-cards').find('.competition-card').sort(function(a,b) {
+                var l = direction === 'asc' ? a : b;
+                var r = direction === 'asc' ? b : a;
+                return $(l).data(source) > $(r).data(source);
+            }).appendTo('#competition-cards');
+        });
         $('.address_autocomplete').focus(addressAutoComplete.geolocate);
     }
 

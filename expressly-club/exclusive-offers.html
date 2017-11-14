@@ -1,5 +1,6 @@
 ---
-title: Trending Products
+title: Exclusive Offers
+active: exclusive-offers
 ---
 {% assign items = site.competitions_expressly | where:"type","offer" | sort: 'date'  %}
 {% include club_competition_cards.html items=items %}
