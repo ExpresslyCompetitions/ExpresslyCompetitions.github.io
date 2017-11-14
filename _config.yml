@@ -12,13 +12,17 @@ sass:
     sass_dir: /_scss
 
 collections:
-  competitions_expressly:
+  club_expressly_campaigns:
     output: true
     permalink: /expressly-club/:path
+  club_expressly_pages:
+    output: true
+    permalink: /expressly-club/:name
 
 clubs:
   expressly_club: &EXPRESSLY_CLUB
-      collection:     "competitions_expressly"
+      collection:     "club_expressly_campaigns"
+      pages:          "club_expressly_pages"
       club-name:      "Expressly Club"
       club_url:       "/expressly-club"
       club-copyright: "&copy; 2017 Expressly Limited"
@@ -37,7 +41,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "competitions_expressly"
+      type: "club_expressly_campaigns"
     values:
       layout: "club-competition"
+      <<:     *EXPRESSLY_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_expressly_pages"
+    values:
       <<:     *EXPRESSLY_CLUB

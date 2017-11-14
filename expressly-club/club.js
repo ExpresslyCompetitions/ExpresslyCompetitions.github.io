@@ -250,6 +250,7 @@ var club = function () {
                 delete payload['registrationCompleted'];
                 delete payload['resetPassword'];
                 payload.campaign = cuid;
+                payload.optin = false;
                 server.submitEntry(payload);
             } else {
                 modal.login.modal('show');

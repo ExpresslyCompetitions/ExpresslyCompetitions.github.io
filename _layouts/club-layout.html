@@ -64,12 +64,20 @@
     </button>
 
     <div class="collapse navbar-collapse" id="nav-items">
-        <ul class="navbar-nav mr-auto text-left text-md-center">
-            <li class="nav-item {% if page.active == 'exclusive-offers' %}active{% endif %}"><a href="{{page.club_url}}/exclusive-offers"> Exclusive <br class="d-none d-md-inline"/> Offers </a></li>
-            <li class="nav-item {% if page.active == 'insider-access' %}active{% endif %}"><a href="{{page.club_url}}/insider-access"> Insider <br class="d-none d-md-inline"/> Access </a></li>
-            <li class="nav-item {% if page.active == 'trending-products' %}active{% endif %}"><a href="{{page.club_url}}/trending-products"> Trending <br class="d-none d-md-inline"/> Products </a></li>
-            <li class="nav-item {% if page.active == 'selected-competitions' %}active{% endif %}"><a href="{{page.club_url}}/selected-competitions"> Selected <br class="d-none d-md-inline"/> Competitions </a></li>
-            <li class="nav-item{% if page.active == 'winners' %}active{% endif %}"><a href="{{page.club_url}}/winners"> Winners </a></li>
+        <ul class="navbar-nav mr-auto text-left text-md-center pr-3">
+            {% assign nav-items = site[page.pages] | where:"nav","true" | sort: "nav-order" %}
+            {% for nav-item in nav-items  %}
+                {% assign nav-path-prefix = (nav-item.pages | prepend: "_") %}
+                {% assign nav-item-url = (nav-item.relative_path | replace: ".markdown", "" | replace: nav-path-prefix, page.club_url) %}
+                <li class="nav-item {% if page.active == nav-item.nav-name %}active{% endif %}"><a href="{{nav-item-url}}">
+                    {% if nav-item.nav-label %}{{nav-item.nav-label}}{% else %}{{nav-item.title}}{% endif %}</a>
+                </li>
+            {% endfor %}
+            <!--<li class="nav-item {% if page.active == 'exclusive-offers' %}active{% endif %}"><a href="{{page.club_url}}/exclusive-offers"> Exclusive <br class="d-none d-md-inline"/> Offers </a></li>-->
+            <!--<li class="nav-item {% if page.active == 'insider-access' %}active{% endif %}"><a href="{{page.club_url}}/insider-access"> Insider <br class="d-none d-md-inline"/> Access </a></li>-->
+            <!--<li class="nav-item {% if page.active == 'trending-products' %}active{% endif %}"><a href="{{page.club_url}}/trending-products"> Trending <br class="d-none d-md-inline"/> Products </a></li>-->
+            <!--<li class="nav-item {% if page.active == 'selected-competitions' %}active{% endif %}"><a href="{{page.club_url}}/selected-competitions"> Selected <br class="d-none d-md-inline"/> Competitions </a></li>-->
+            <!--<li class="nav-item{% if page.active == 'winners' %}active{% endif %}"><a href="{{page.club_url}}/winners"> Winners </a></li>-->
         </ul>
 
         <div class="divider"></div>
