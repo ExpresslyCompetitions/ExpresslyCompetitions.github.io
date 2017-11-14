@@ -9,7 +9,7 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
   }
 
   a {
-    color: $colour_secondary;
+    color: $colour_nav_secondary;
   }
 
   .divider {
@@ -46,15 +46,15 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
     }
 
     .btn-outline-primary {
-      color: $colour_secondary;
+      color: $colour_nav_secondary;
       background-color: transparent;
-      border-color: $colour_secondary;
+      border-color: $colour_nav_secondary;
     }
 
     .btn-outline-primary:hover {
-      color: $colour_primary;
-      background-color: $colour_secondary;
-      border-color: $colour_primary;
+      color: $colour_nav_primary;
+      background-color: $colour_nav_secondary;
+      border-color: $colour_nav_primary;
     }
 
     .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -63,18 +63,18 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
 
     .btn-outline-primary:not([disabled]):not(.disabled):active, .btn-outline-primary:not([disabled]):not(.disabled).active,
     .show > .btn-outline-primary.dropdown-toggle {
-      color: $colour_primary;
-      background-color: $colour_secondary;
-      border-color: $colour_primary;
+      color: $colour_nav_primary;
+      background-color: $colour_nav_secondary;
+      border-color: $colour_nav_primary;
       box-shadow: $button-box-shadow;
     }
   }
 
   .dropdown-menu {
-    border: 1px solid $colour_primary;
+    border: 1px solid $colour_nav_primary;
 
     a {
-      color: $colour_primary;
+      color: $colour_nav_primary;
     }
   }
 }

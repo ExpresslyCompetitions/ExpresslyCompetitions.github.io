@@ -1,14 +1,43 @@
 ---
 ---
 
-$colour_primary: red;
+$colour_primary: black;
 $colour_secondary: #ffffff;
+$colour_nav_primary: #ffffff;
+$colour_nav_secondary: #9f9f9f;
+
+$colour_bg: #f5f5f5;
 
 @import "club";
 
 body {
+  background-color: $colour_bg;
   padding-top: 10rem !important;
 }
-#club-navbar {
-  top: 64px;
+
+.navbar {
+  background-color: white !important;
 }
+
+#club-navbar {
+  top: 58px;
+  padding-bottom: 0;
+
+  .navbar-nav.mr-auto {
+    > li {
+      @media (min-width: $md) {
+        margin-left: 0;
+        padding: 15px;
+      }
+
+      &.active {
+        background-color: $colour_bg;
+        a {
+          font-weight: 700;
+          color: $colour_primary;
+        }
+      }
+    }
+  }
+}
+
