@@ -3,13 +3,14 @@
   padding-bottom: 0.75rem;
   padding-top: 0.75rem;
 
-  &:last-child {
-    border-bottom-width: 0;
-  }
-
   > .row {
     padding-bottom: 0.75rem;
     padding-top: 0.75rem;
+  }
+
+  &:last-child {
+    border-bottom-width: 0;
+    padding-bottom: 0;
   }
 
   &.promoted {

@@ -10,13 +10,10 @@ html {
 body {
   padding-top: 5rem;
   color: $colour_text_primary;
-
-  @media (min-width:$sm) {
-    padding-bottom: 148px;
-  }
+  padding-bottom: 163px;
 
   @media (min-width: $md) {
-    padding-bottom: 52px;
+    padding-bottom: 67px;
   }
 }
 
@@ -29,10 +26,6 @@ footer {
   line-height: 1.5rem;
   padding-top: 1rem;
   padding-bottom: 0.5rem;
-
-  @media (max-width: $sm) {
-    position: relative;
-  }
 
   nav {
     a {
