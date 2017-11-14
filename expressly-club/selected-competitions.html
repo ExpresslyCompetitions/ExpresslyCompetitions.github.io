@@ -2,5 +2,5 @@
 title: Selected Competitions
 active: selected-competitions
 ---
-{% assign items = site.competitions_expressly | where:"type","competition" | sort: 'date'  %}
+{% assign items = site.competitions_expressly | where:"type","Competition" | sort: 'date'  %}
 {% include club_competition_cards.html items=items %}

@@ -2,5 +2,5 @@
 title: Insider Access
 active: insider-access
 ---
-{% assign items = site.competitions_expressly | where:"type","event" | sort: 'date'  %}
+{% assign items = site.competitions_expressly | where:"type","Event" | sort: 'date'  %}
 {% include club_competition_cards.html items=items %}

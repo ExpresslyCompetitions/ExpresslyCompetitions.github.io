@@ -1,6 +1,6 @@
 ---
 campaign-uuid:  c-7711adef-6c09-4d54-b8fe-fc816b07fed0
-type:           product
+type:           Product
 date:           2017-11-01
 end-date:       2017-12-25
 disable-form:   false
