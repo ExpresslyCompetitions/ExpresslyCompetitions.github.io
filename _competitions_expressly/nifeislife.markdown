@@ -1,11 +1,12 @@
 ---
 campaign-uuid: c-b28103bf-cab4-4a35-a5ba-710aa501e172
-type:           Competition
+type:           Event
 category:       Z & Lifestyle
 date:           2017-10-14
 end-date:       2017-11-08
 disable-form:   false
 is_promoted:    false
+has_entry_page: false
 
 title: "Win &pound;500 at Nife is Life"
 hero-header: "2 WINNERS GET £500 AT"

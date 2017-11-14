@@ -6,6 +6,7 @@ date:           2017-11-01
 end-date:       2017-12-25
 disable-form:   false
 is_promoted:    true
+has_entry_page: false
 
 title: "Win &pound;500 at Bloom &amp; Wild"
 hero-header: "2 WINNERS GET &pound;500 AT BLOOM & WILD"

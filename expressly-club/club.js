@@ -243,6 +243,19 @@ var club = function () {
             }
             form.competition.toggleClass('was-validated', true);
         },
+
+        autoPowerLink: function(cuid) {
+            if(state.profile) {
+                var payload = Object.assign({}, state.profile);
+                delete payload['registrationCompleted'];
+                delete payload['resetPassword'];
+                payload.campaign = cuid;
+                server.submitEntry(payload);
+            } else {
+                modal.login.modal('show');
+            }
+        },
+
         storeProfile: function(profile) {
             if (typeof(Storage) !== "undefined") {
                 if (profile !== null) {
@@ -666,6 +679,12 @@ var club = function () {
         $('#action--enter').click(function (event) {
             event.preventDefault();
             controller.submitEntry();
+        });
+        $('[data-powerlink-auto="true"]').click(function (event) {
+            event.preventDefault();
+            if (!$('body').hasClass('busy')) {
+                controller.autoPowerLink($(event.target).data('powerlink'));
+            }
         });
         $('.card-sorter').change(function() {
             var selected = $($(this).find(":selected"));

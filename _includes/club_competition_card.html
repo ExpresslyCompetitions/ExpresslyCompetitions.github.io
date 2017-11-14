@@ -17,26 +17,40 @@
                 {% assign curr_date = site.time | date: "%Y-%m-%d" %}
                 {% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
                 {% if curr_date <= end_date %}
-                <div class="col-12 col-sm-4 col-lg-3 competition-card--buttons text-center text-sm-left">
-                    <div class="show-if-entered">
-                        <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                    <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1">
+                        {% assign button-cta = "Get Now" %}
+                        {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
+                        {% if include.item.has_entry_page %}
+                            <div class="show-if-entered">
+                                <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                            </div>
+                            <div class="hide-if-entered">
+                                <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">{{button-cta}}</a>
+                            </div>
+                        {% else %}
+                            <div class="show-if-entered">
+                                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                            </div>
+                            <div class="hide-if-entered">
+                                <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="h-100 btn btn-sm btn-primary px-5 disable-if-busy">{{button-cta}}</a>
+                            </div>
+                        {% endif %}
                     </div>
-                    <div class="hide-if-entered">
-                        <a href="{{ include.item.url }}" class="h-100 btn btn-sm btn-primary px-5">Enter</a>
+
+                    <div class="col competition-card--status text-center text-sm-right">
+                        <div class="show-if-entered">
+                            <span class="h-100 small"><strong>Entry submitted</strong></span>
+                        </div>
+                        <div class="hide-if-entered">
+                            <span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
+                        </div>
                     </div>
-                </div>
-                <div class="col competition-card--status text-center text-sm-left">
-                    <div class="show-if-entered">
-                        <span class="h-100 small"><strong>Entry submitted</strong></span>
-                    </div>
-                    <div class="hide-if-entered">
-                        <span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
-                    </div>
-                </div>
                 {% else %}
-                <div class="col competition-card--status text-center text-sm-left">
-                    <div><span class="competition-over small">Competition over</span></div>
-                </div>
+                    <div class="col competition-card--status text-center text-sm-right">
+                        {% assign status-message = "Offer over" %}
+                        {% if include.item.type == 'Competition' %}{% assign status-message = "Competition over" %}{% endif %}
+                        <div><span class="competition-over small">{{status-message}}</span></div>
+                    </div>
                 {% endif %}
             </div>
         </div>
