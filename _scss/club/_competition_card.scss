@@ -1,19 +1,22 @@
 .competition-card {
   border-bottom: 1px solid $colour_bg_gray;
-  padding-bottom: 1.5rem;
-  padding-top: 1.5rem;
-
-  &:first-child {
-    padding-top: 0;
-  }
+  padding-bottom: 0.75rem;
+  padding-top: 0.75rem;
 
   &:last-child {
     border-bottom-width: 0;
   }
 
+  > .row {
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+  }
+
   &.promoted {
-    border: 1px solid #b90000;
-    border-radius: 5px;
+    > .row {
+      border: 1px solid #b90000;
+      border-radius: 5px;
+    }
   }
 
   .competition-card--banner {

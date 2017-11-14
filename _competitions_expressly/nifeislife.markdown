@@ -1,5 +1,6 @@
 ---
 campaign-uuid: c-b28103bf-cab4-4a35-a5ba-710aa501e172
+type:           competition
 date:           2017-10-14
 end-date:       2017-11-08
 disable-form:   false

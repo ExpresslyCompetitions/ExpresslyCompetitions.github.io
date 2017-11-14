@@ -634,7 +634,7 @@ var club = function () {
             event.preventDefault();
             controller.register();
         });
-        $('#action--logout').click(function (event) {
+        $('.action--logout').click(function (event) {
             event.preventDefault();
             controller.logout();
         });

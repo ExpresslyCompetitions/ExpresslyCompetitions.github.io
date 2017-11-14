@@ -1,0 +1,19 @@
+<main role="main" class="container">
+<!--<div class="row history-header-container mb-4">-->
+        <!--<div class="col-md-10 col-sm-8">-->
+            <!--<h4><strong>My History</strong></h4>-->
+        <!--</div>-->
+        <!--<div class="col-md-2 col-sm-4">-->
+            <!--<form class="form-horizontal">-->
+                <!--<div class="form-group">-->
+                    <!--<select class="form-control">-->
+                        <!--<option>All</option>-->
+                    <!--</select>-->
+                <!--</div>-->
+            <!--</form>-->
+        <!--</div>-->
+    <!--</div>-->
+    {% for item in include.items reversed  %}
+    {% include club_competition_card.html item=item %}
+    {% endfor %}
+</main>
