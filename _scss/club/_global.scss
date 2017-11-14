@@ -8,16 +8,15 @@ html {
 }
 
 body {
-  padding-bottom: 5rem;
   padding-top: 5rem;
   color: $colour_text_primary;
 
-  @media (max-width:$md) {
-    padding-bottom: 7rem;
+  @media (min-width:$sm) {
+    padding-bottom: 148px;
   }
 
-  @media (max-width: $sm) {
-    padding-bottom: 0;
+  @media (min-width: $md) {
+    padding-bottom: 52px;
   }
 }
 

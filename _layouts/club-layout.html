@@ -140,21 +140,21 @@
 </script>
 {% endif %}
 
-<footer class="mt-4">
+<footer>
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-9 mb-sm-1">
                 <div class="text-center text-md-left small">
-                    <nav class="nav footer-nav justify-content-center justify-content-md-start">
-                        <a class="nav-link" href="{{page.club_url}}">Home</a>
-                        <a class="nav-link" href="{{page.club_url}}/privacy">Privacy Policy</a>
-                        <a class="nav-link" href="{{page.club_url}}/terms">Terms and Conditions</a>
-                        <a class="nav-link" href="{{page.club_url}}/contact-us">Contact Us</a>
+                    <nav class="nav footer-nav justify-content-center justify-content-md-start flex-column flex-md-row">
+                        <a class="nav-link py-0" href="{{page.club_url}}">Home</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/privacy">Privacy Policy</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/terms">Terms and Conditions</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/contact-us">Contact Us</a>
                     </nav>
                 </div>
             </div>
             <div class="col-12 col-md-3">
-                <div class="copyright-text text-center text-md-right small pt-2 pb-2">
+                <div class="copyright-text text-center text-md-right small py-0">
                     {% if page.is-demo == true %}
                         This is a demo -  Powered by Expressly Competitions
                     {% else %}
