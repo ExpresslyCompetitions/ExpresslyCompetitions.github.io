@@ -67,8 +67,8 @@
         <ul class="navbar-nav mr-auto text-left text-md-center pr-3">
             {% assign nav-items = site[page.pages] | where:"nav","true" | sort: "nav-order" %}
             {% for nav-item in nav-items  %}
-                {% assign nav-path-prefix = (nav-item.pages | prepend: "_") %}
-                {% assign nav-item-url = (nav-item.relative_path | replace: ".markdown", "" | replace: nav-path-prefix, page.club_url) %}
+                {% assign nav-path-prefix = (nav-item.collection | prepend: "_") %}
+                {% assign nav-item-url = (nav-item.relative_path | replace: ".html", "" | replace: nav-path-prefix, page.club_url) %}
                 <li class="nav-item {% if page.active == nav-item.nav-name %}active{% endif %}"><a href="{{nav-item-url}}">
                     {% if nav-item.nav-label %}{{nav-item.nav-label}}{% else %}{{nav-item.title}}{% endif %}</a>
                 </li>

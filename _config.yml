@@ -21,7 +21,7 @@ collections:
 
 clubs:
   expressly_club: &EXPRESSLY_CLUB
-      collection:     "club_expressly_campaigns"
+      campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
       club-name:      "Expressly Club"
       club_url:       "/expressly-club"
