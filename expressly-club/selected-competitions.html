@@ -1,6 +1,6 @@
 ---
-title: Selected Competitions
+title:  Selected Competitions
 active: selected-competitions
+type:   "Competition"
 ---
-{% assign items = site.competitions_expressly | where:"type","Competition" | sort: 'date'  %}
-{% include club_competition_cards.html items=items %}
+{% include club_competition_cards.html %}

@@ -1,7 +1,8 @@
 <div class="competition-card {% if include.item.is_promoted %}promoted{% endif %}" id="eid-{{include.item.campaign-uuid}}"
      data-competition-toggle="{{include.item.campaign-uuid}}"
      data-posted="{{ include.item.date | date: '%Y%m%d' }}"
-     data-closes="{{ include.item.end-date | date: '%Y%m%d' }}">
+     data-closes="{{ include.item.end-date | date: '%Y%m%d' }}"
+     data-category="{{include.item.category | slugify}}">
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
@@ -9,7 +10,7 @@
             <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
         </div>
         <div class="col-md-7 col-lg-8 competition-card--content">
-            <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }}</p>
+            <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }} <span class="category float-right">{{include.item.category}}</span></p>
             <h6><strong>{{ include.item.title }}</strong></h6>
             <div class="competition-card--description small">{{ include.item.section1-content }}</div>
             <div class="row justify-content-start align-items-center competition-card--footer">

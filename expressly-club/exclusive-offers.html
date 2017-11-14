@@ -1,6 +1,6 @@
 ---
-title: Exclusive Offers
+title:  Exclusive Offers
 active: exclusive-offers
+type:   "Offer"
 ---
-{% assign items = site.competitions_expressly | where:"type","Offer" | sort: 'date'  %}
-{% include club_competition_cards.html items=items %}
+{% include club_competition_cards.html %}

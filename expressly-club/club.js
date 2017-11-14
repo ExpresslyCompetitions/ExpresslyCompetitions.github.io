@@ -128,7 +128,6 @@ var club = function () {
         },
 
         removeParameter: function (name) {
-            var url = window.location.href;
             var parts = window.location.href.split('?');
             if (parts.length >= 2) {
                 var query = decodeURIComponent(parts[1]);
@@ -300,7 +299,7 @@ var club = function () {
         console.log(result);
     }
 
-    function printError(xhr, status, error) {
+    function printError(xhr) {
         console.log('error');
         console.log(xhr.responseText);
     }
@@ -313,7 +312,7 @@ var club = function () {
                     form.toggleFeedback('form--login', 'password', false);
                     controller.setProfile(data.account)
                 },
-                function (xhr, status, error) {
+                function (xhr) {
                     if (xhr.status === 401) {
                         form.toggleFeedback('form--login', 'password', true);
                     }
@@ -322,14 +321,14 @@ var club = function () {
 
         logout: function () {
             server.submit("account/logout", "POST", null,
-                function (data) {
+                function () {
                     controller.setProfile(null)
                 },
                 printError);
         },
 
         passwordResetRequest: function (payload) {
-            server.submit("account/password-reset-request", "POST", payload, function (data) {
+            server.submit("account/password-reset-request", "POST", payload, function () {
                     modal.passwordResetRequest.modal('hide');
                     modal.notify(
                         "Password Reset Email Sent",
@@ -399,7 +398,6 @@ var club = function () {
                 },
                 function (xhr, status, error) {
                     if (xhr.status === 403) {
-                        var code = JSON.parse(xhr.responseText).code;
                         form.toggleFeedback('form--profile', 'currentPassword', true, "Wrong password");
                         return;
                     } else if (xhr.status === 400) {
@@ -437,7 +435,7 @@ var club = function () {
             server.submit("competition/" + campaign + "/enter", "POST", payload,
                 function (data) {
                     form.busy(true);
-                    controller.setProfile(data.account)
+                    controller.setProfile(data.account);
                     window.location.href = data.powerLink;
                 },
                 function (xhr, status, error) {
@@ -626,7 +624,7 @@ var club = function () {
     };
 
     function registerEvents() {
-        $(window).bind('storage', function (e) {
+        $(window).bind('storage', function () {
             controller.redraw();
         });
         localStorage.setItem('a', 'test');
@@ -679,16 +677,27 @@ var club = function () {
                 return $(l).data(source) > $(r).data(source);
             }).appendTo('#competition-cards');
         });
+        $('.card-filter').change(function() {
+            var selected = $($(this).find(":selected"));
+            var filter = selected.data("filter");
+            var container = $('#competition-cards');
+            if (filter) {
+                container.find('[data-category]').hide();
+                container.find('[data-category="' + filter + '"]').show();
+            } else {
+                container.find('[data-category]').show();
+            }
+        });
         $('.address_autocomplete').focus(addressAutoComplete.geolocate);
     }
 
-    // iniit
+    // init
     $(function () {
         registerEvents();
         $('[data-toggle="tooltip"]').tooltip();
         dobControl.init();
         controller.redraw();
-        server.profile(function (profile) {
+        server.profile(function () {
             if (url.parameter("token")) {
                 modal.passwordReset.modal('show');
             }

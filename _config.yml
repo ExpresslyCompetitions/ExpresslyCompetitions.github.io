@@ -12,21 +12,6 @@ markdown: kramdown
 sass:
     sass_dir: /_scss
 
-clubs:
-  local_dev: &LOCAL_DEV
-      club_url:       "http://localhost:4000/local/club"
-      club-name:      "Local Club"
-      ga-code:        "UA-102915329-1"
-      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"
-      club-copyright: "&copy; 2017 Expressly Limited"
-  expressly_club: &EXPRESSLY_CLUB
-      club-name:      "Expressly Club"
-      club_url:       "/expressly-club"
-      ga-code:        "UA-102915329-1"
-      merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
-      club-copyright: "&copy; 2017 Expressly Limited"
-      club-logo-nav:  "expressly-white.png"
-
 collections:
   competitions_local:
     output: true
@@ -34,6 +19,23 @@ collections:
   competitions_expressly:
     output: true
     permalink: /expressly-club/competition/:name
+
+clubs:
+  local_dev: &LOCAL_DEV
+      collection:     "competitions_local"
+      club_url:       "http://localhost:4000/local/club"
+      club-name:      "Local Club"
+      club-copyright: "&copy; 2017 Expressly Limited"
+      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"
+      ga-code:        "UA-102915329-1"
+  expressly_club: &EXPRESSLY_CLUB
+      collection:     "competitions_expressly"
+      club-name:      "Expressly Club"
+      club_url:       "/expressly-club"
+      club-copyright: "&copy; 2017 Expressly Limited"
+      club-logo-nav:  "expressly-white.png"
+      merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
+      ga-code:        "UA-102915329-1"
 
 defaults:
   -

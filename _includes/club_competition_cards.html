@@ -1,8 +1,22 @@
+{% if page.type %}{% assign collection = site[page.collection] | where:"type",page.type %}
+{% else %}{% assign collection = site[page.collection] %}
+{% endif %}
 <main role="main" class="container">
     <div class="row">
-        <div class="col">
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    <select class="form-control card-filter">
+                        <option selected>All</option>
+                        {% assign categories = collection | map: "category" | sort | uniq  %}
+                        {% for category in categories  %}
+                        <option data-filter="{{category | slugify}}" data-direction="desc">{{category}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </form>
         </div>
-        <div class="col-6 col-md-4 card-filter-container">
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 card-filter-container">
             <form class="form-horizontal">
                 <div class="form-group">
                     <select class="form-control card-sorter">
@@ -16,8 +30,9 @@
         </div>
     </div>
     <div id="competition-cards">
-    {% for item in include.items reversed  %}
-    {% include club_competition_card.html item=item %}
-    {% endfor %}
+        {% assign items = collection | sort: 'date'  %}
+        {% for item in items reversed  %}
+        {% include club_competition_card.html item=item %}
+        {% endfor %}
     </div>
 </main>

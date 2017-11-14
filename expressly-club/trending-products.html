@@ -1,6 +1,6 @@
 ---
 title: Trending Products
 active: trending-products
+type:   "Product"
 ---
-{% assign items = site.competitions_expressly | where:"type","Product" | sort: 'date'  %}
-{% include club_competition_cards.html items=items %}
+{% include club_competition_cards.html %}
