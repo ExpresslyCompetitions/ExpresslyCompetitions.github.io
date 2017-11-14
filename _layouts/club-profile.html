@@ -1,9 +1,13 @@
+---
+layout: club-layout
+title: My Account
+---
 <div class="container logged-out-only">
     <h4 class="mb-4"><strong>My Account</strong></h4>
     <h6><a href="#" data-toggle="modal" data-target="#modal--login">Please sign in</a></h6>
 </div>
 <div class="container logged-in-only">
-    <h4 class="mb-4"><strong>My Account</strong></h4>
+    <h4 class="mb-4"><strong>{{page.title}}</strong></h4>
     <form id="form--profile">
         {% assign form_input_id_prefix = 'form--profile--' %}
         {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
@@ -26,3 +30,5 @@
         </button>
     </div>
 </div>
+
+
