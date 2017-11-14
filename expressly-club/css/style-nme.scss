@@ -1,0 +1,14 @@
+---
+---
+
+$colour_primary: red;
+$colour_secondary: #ffffff;
+
+@import "club";
+
+body {
+  padding-top: 10rem !important;
+}
+#club-navbar {
+  top: 64px;
+}

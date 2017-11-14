@@ -1,0 +1,5 @@
+---
+layout: club-layout-nme
+---
+{% assign items = site.competitions_expressly | sort: 'date'  %}
+{% include club_competition_cards.html items=items %}
