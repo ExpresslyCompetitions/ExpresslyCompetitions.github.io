@@ -24,7 +24,7 @@ clubs:
       campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
       club-name:      "Expressly Club"
-      club_url:       "/expressly-club"
+      club_url:       "https://club.buyexpressly.com"
       club-copyright: "&copy; 2017 Expressly Limited"
       club-logo-nav:  "expressly-white.png"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
