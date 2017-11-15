@@ -29,6 +29,9 @@ clubs:
       club-logo-nav:  "expressly-white.png"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
       ga-code:        "UA-102915329-1"
+#      css: style-nme.css
+#      brand-nav-include: nme-nav-bar.html
+#      club-nav-expand: xl
 
 defaults:
   -

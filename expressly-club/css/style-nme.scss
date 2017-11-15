@@ -1,7 +1,7 @@
 ---
 ---
 
-$colour_primary: black;
+$colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
 $colour_nav_secondary: #9f9f9f;
@@ -12,32 +12,62 @@ $colour_bg: #f5f5f5;
 
 body {
   background-color: $colour_bg;
-  padding-top: 10rem !important;
+  padding-top: 128px !important;
+  color: $colour_primary;
 }
 
-.navbar {
-  background-color: white !important;
-}
+.nav-container {
+  background: white;
+  padding: 0;
+  margin: 0;
 
-#club-navbar {
-  top: 58px;
-  padding-bottom: 0;
+  .navbar {
+    background-color: white !important;
+    padding-bottom: 0;
+    margin: 0 auto !important;
+    width: 100%;
 
-  .navbar-nav.mr-auto {
-    > li {
-      @media (min-width: $md) {
-        margin-left: 0;
-        padding: 15px;
-      }
+    @media (min-width: $sm) {
+      max-width: 540px;
+    }
+    @media (min-width: $md) {
+      max-width: 720px;
+    }
+    @media (min-width: $lg) {
+      max-width: 960px;
+    }
+    @media (min-width: $xl) {
+      max-width: 1140px;
+    }
 
-      &.active {
-        background-color: $colour_bg;
-        a {
-          font-weight: 700;
-          color: $colour_primary;
+    .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(3,3,3, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+    }
+  }
+
+  #club-navbar {
+    padding-bottom: 0;
+
+    .navbar-nav.mr-auto {
+      > li {
+        @media (min-width: $md) {
+          margin-left: 0;
+          padding: 15px;
+        }
+
+        &.active {
+          background-color: $colour_bg;
+          a {
+            color: $colour_primary;
+          }
         }
       }
     }
   }
 }
 
+body.competition {
+  .hero {
+    margin-top: -2.5rem;
+  }
+}

@@ -1,4 +1,6 @@
 $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
+$navbar-breakpoint: $xl;
+
 .navbar {
   .navbar-brand {
     img {
@@ -18,14 +20,14 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
     overflow: hidden;
     background-color: #e5e5e5;
 
-    @media (min-width: $md) {
+    @media (min-width: $navbar-breakpoint) {
       display: none;
     }
   }
 
   .navbar-nav.mr-auto {
     > li {
-      @media (min-width: $md) {
+      @media (min-width: $navbar-breakpoint) {
         margin-left: 30px;
       }
 
@@ -39,7 +41,7 @@ $button-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.45);
 
   .navbar-nav.ml-auto {
     > li {
-      @media (min-width: $md) {
+      @media (min-width: $navbar-breakpoint) {
         margin-left: 10px;
         margin-right: 0;
       }
