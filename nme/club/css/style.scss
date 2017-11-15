@@ -51,6 +51,9 @@ body {
 
     .navbar-collapse {
       padding-bottom: 1rem;
+      @media (min-width: $xl) {
+        padding-bottom: 0;
+      }
     }
 
     .navbar-nav.mr-auto {
