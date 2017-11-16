@@ -11,7 +11,7 @@ extra-css:
 
 logo-left-title: Figleaves
 logo-left-href: https://www.figleaves.com/uk/
-logo-left-image: figleaves-logo.png
+logo-left-image: figleaves-logo.svg
 
 banner-img: 350x250.png
 hero-header: All bras - buy 1 get 1 half price
