@@ -4,20 +4,20 @@
 $colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
-$colour_nav_secondary: #9f9f9f;
-$colour_bg_gray: white;
+$colour_nav_secondary: #333333;
 
-$colour_bg: #f5f5f5;
+$colour_bg: #ffffff;
 
 @import "club";
 
 body {
   background-color: $colour_bg;
-  padding-top: 128px !important;
+  //padding-top: 128px !important;
+  padding-top: 0 !important;
   color: $colour_primary;
 
   @media (min-width: $xl) {
-    padding-top: 150px !important;
+    //padding-top: 150px !important;
   }
 }
 
@@ -25,6 +25,11 @@ body {
   background: white;
   padding: 0;
   margin: 0;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-top: 1px solid $colour_nav_secondary;
+  border-bottom: 1px solid $colour_nav_secondary;
+  position: static;
 
   .navbar {
     background-color: white !important;
@@ -130,8 +135,8 @@ body {
 
 body.competition {
   .hero {
-    margin-top: -130px;
-    padding-top: 8rem;
+    margin-top: 0;
+    padding-top: 0;
   }
 }
 
