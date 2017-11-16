@@ -39,5 +39,4 @@ terms-confirmation: http://www.nme.com/competitions/win-instax-mini-9-camera-fil
 entry-content: >
 	<p>Sounds great, right? Then today could be your lucky day. Every fortnight, we’ll be giving away two instax cameras plus film, with a total of six winners.</p>
 	<p>All you have to do to be in with a chance of winning is answer the very easy question below. Good luck!</p>
-
 ---
