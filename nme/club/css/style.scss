@@ -8,6 +8,8 @@ $colour_nav_secondary: #333333;
 
 $colour_bg: #ffffff;
 
+$font: Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !default;
+
 @import "club";
 
 body {
@@ -101,6 +103,7 @@ body {
 
       a {
         color: $colour_primary;
+        font-weight: 700;
       }
     }
   }
