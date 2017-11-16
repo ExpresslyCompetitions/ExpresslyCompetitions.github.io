@@ -14,7 +14,7 @@ logo-left-href: "http://www.fujifilm.com/products/instant_photo/cameras/instax_m
 logo-left-image: "fujifilm-logo.png"
 
 banner-img: "fujifilm-main_image.jpg"
-hero-header: "Fujifilm_competition"
+hero-header: "Win an instax mini 9 camera and film"
 competition-description: "Fujifilm presents: instax mini 9, the perfect instant camera!  
 Fujifilm creates innovative products and deliver effective solutions in a wide variety of fields to serve society, contribute to the quality of life, and enhance environmental sustainability."
 hero-subheader: ""
