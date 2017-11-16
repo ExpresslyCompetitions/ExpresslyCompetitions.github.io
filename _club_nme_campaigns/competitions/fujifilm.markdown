@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 extra-css: 
 
-logo-left-title: Fujifilm
+logo-left-title: ""Fujifilm""
 logo-left-href: http://www.fujifilm.com/products/instant_photo/cameras/instax_mini_9/
 logo-left-image: fujifilm-logo.png
 
@@ -35,8 +35,10 @@ section2-content: >
 	<p>Then there’s the close-up lens attachment that lets you get the perfect zoom on things up to 35 centimetres away.</p>
 
 entry-title: Win an instax mini 9 camera and film!
-terms-confirmation: http://www.nme.com/competitions/win-instax-mini-9-camera-film-3#terms-and-conditions
+terms-confirmation: >
+	http://www.nme.com/competitions/win-instax-mini-9-camera-film-3#terms-and-conditions
 entry-content: >
 	<p>Sounds great, right? Then today could be your lucky day. Every fortnight, we’ll be giving away two instax cameras plus film, with a total of six winners.</p>
 	<p>All you have to do to be in with a chance of winning is answer the very easy question below. Good luck!</p>
+
 ---
