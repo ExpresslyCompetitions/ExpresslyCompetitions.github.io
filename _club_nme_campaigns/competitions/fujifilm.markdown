@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 extra-css: 
 
-logo-left-title: ""Fujifilm""
+logo-left-title: Fujifilm
 logo-left-href: http://www.fujifilm.com/products/instant_photo/cameras/instax_mini_9/
 logo-left-image: fujifilm-logo.png
 
