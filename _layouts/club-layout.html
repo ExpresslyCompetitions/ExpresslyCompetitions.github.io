@@ -44,6 +44,10 @@
             }
         }
     </script>
+
+    {% if page.icon-url %}
+        <link rel="icon" href="{{icon-url}}" sizes="32x32" />
+    {% endif %}
 </head>
 <body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
