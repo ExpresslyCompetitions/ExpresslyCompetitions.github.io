@@ -18,7 +18,7 @@ terms-confirmation: >
    target="_blank">T&amp;C</a> and to receive NME & Metrofone newsletters with
    exclusive news and offers.
 
-banner-img: "metrofone-first-img.png"
+banner-img: "300x250.png"
 
 logo-left-href: "https://www.metrofone.co.uk/"
 logo-left-image: "metrofone_logo.png"
