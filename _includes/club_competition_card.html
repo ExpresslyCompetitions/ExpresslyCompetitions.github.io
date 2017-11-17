@@ -6,13 +6,17 @@
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
-            <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{include.item.banner-img}})"></div>
+            {% assign banner-img = include.item.banner-img %}
+            {% if include.is-winner-card and include.item.winner-banner %}{% assign banner-img = include.item.winner-banner %}{% endif %}
+            <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{banner-img}})"></div>
             <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
         </div>
 
         <div class="col-md-7 col-lg-8 competition-card--content">
             <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }} <span class="category float-right">{{include.item.category}}</span></p>
-            <h6><strong>{{ include.item.title }}</strong></h6>
+            {% assign card-title = include.item.title %}
+            {% if include.is-winner-card and include.item.winner-title %}{% assign card-title = include.item.winner-title %}{% endif %}
+            <h6><strong>{{ card-title }}</strong></h6>
             <div class="competition-card--description small"><p>{{ include.item.competition-description }}</p></div>
             <div class="row justify-content-start align-items-center competition-card--footer">
                 {% assign curr_date = site.time | date: "%Y-%m-%d" %}

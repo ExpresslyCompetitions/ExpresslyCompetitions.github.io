@@ -52,5 +52,10 @@ entry-content: >
       Enter the draw to win one of these &pound;500 vouchers by completing the form below
       before 23.59 on !end-date!.
     </p>
+
+has-winner: true
+winner-name: M Smith
+winner-title: M Smith won &pound;500 at Nife is Life
+winner-banner: nife-winner.png
 ---
 

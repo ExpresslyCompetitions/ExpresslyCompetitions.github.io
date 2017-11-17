@@ -3,7 +3,7 @@ campaign-uuid: "c-66fc7bea-6383-482c-a1d7-247255436178"
 type:           Competition
 category:       Technology
 date:           2017-11-03
-end-date:       2017-12-01
+end-date:       2017-11-16
 disable-form:   false
 is_promoted:    false
 has_entry_page: true
@@ -65,5 +65,10 @@ entry-content: >
   <p>
     Enter the draw to win a sim-free iPhone 7 by completing the form below before 23:59 on !end-date!.
   </p>
+
+has-winner: true
+winner-name: A Tricoli
+winner-title: A Tricoli won an iPhone 7 with Metrofone
+winner-banner: nife-winner.png
 ---
 
