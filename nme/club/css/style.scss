@@ -37,6 +37,11 @@ body {
     margin: 0 auto !important;
     width: 100%;
 
+    .navbar-brand img.navbar-logo {
+      max-width: 140px;
+      vertical-align: baseline;
+    }
+
     @media (min-width: $sm) {
       max-width: 540px;
     }
@@ -48,6 +53,8 @@ body {
     }
     @media (min-width: $xl) {
       max-width: 1140px;
+      padding-left: 0;
+      padding-right: 0;
     }
 
     .navbar-toggler {
@@ -84,39 +91,12 @@ body {
       }
     }
 
-    .nav-divider {
-      border: 1px solid $colour_nav_secondary;
-
-      @media (min-width: $xl) {
-        margin-left: 100px;
-      }
-    }
-  }
-
-  #brand-navbar {
-    #nme-nav-items {
-      border-bottom-width: 0;
-
-      @media (min-width: $xl) {
-        border-bottom: 1px solid $colour_nav_secondary;
-      }
-
-      a {
-        color: $colour_primary;
-        font-weight: 700;
-      }
-    }
   }
 
   #club-navbar {
     .navbar-brand {
-      img {
-        transform: rotate(-8deg);
-        margin-top: -25px;
-
-        @media (min-width: $xl) {
-          margin-top: -45px;
-        }
+      @media (min-width: $xl) {
+        display: none;
       }
     }
 
@@ -129,6 +109,8 @@ body {
           margin-bottom: -1px;
           border: 1px solid $colour_primary;
           border-bottom: 0;
+          padding-top: 10px;
+          padding-bottom: 7.5px;
         }
 
         a {
@@ -141,6 +123,15 @@ body {
       border-width: 0 !important;
     }
   }
+
+  #brand-navbar {
+    border-bottom: 1px solid #bfbfbf;
+    a {
+      color: $colour_primary;
+      font-weight: 700;
+    }
+  }
+
 }
 
 body.competition {
