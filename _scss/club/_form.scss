@@ -63,3 +63,6 @@ input[type=text].is-invalid {
   background-color: transparent;
 }
 
+select.form-control:not([size]):not([multiple]) {
+  padding-left: 0.5rem;
+}

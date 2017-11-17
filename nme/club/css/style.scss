@@ -5,6 +5,7 @@ $colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
 $colour_nav_secondary: #333333;
+$colour_nav_border: #999999;
 
 $colour_bg: #ffffff;
 
@@ -25,10 +26,8 @@ body {
 
 .nav-container {
   background: white;
-  padding: 0;
-  margin: 0;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  padding: 1px 0 0 0;
+  margin: 1.5rem 0;
   border-top: 1px solid $colour_nav_secondary;
   border-bottom: 1px solid $colour_nav_secondary;
   position: relative;
@@ -38,6 +37,11 @@ body {
     padding-bottom: 0;
     margin: 0 auto !important;
     width: 100%;
+
+    .navbar-brand img.navbar-logo {
+      max-width: 140px;
+      vertical-align: baseline;
+    }
 
     @media (min-width: $sm) {
       max-width: 540px;
@@ -50,6 +54,8 @@ body {
     }
     @media (min-width: $xl) {
       max-width: 1140px;
+      padding-left: 0;
+      padding-right: 0;
     }
 
     .navbar-toggler {
@@ -57,7 +63,8 @@ body {
       border-width: 0;
 
       .navbar-toggler-icon {
-        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(3,3,3, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+        vertical-align: baseline;
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(3,3,3, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
       }
     }
 
@@ -86,39 +93,12 @@ body {
       }
     }
 
-    .nav-divider {
-      border: 1px solid $colour_nav_secondary;
-
-      @media (min-width: $xl) {
-        margin-left: 100px;
-      }
-    }
-  }
-
-  #brand-navbar {
-    #nme-nav-items {
-      border-bottom-width: 0;
-
-      @media (min-width: $xl) {
-        border-bottom: 1px solid $colour_nav_secondary;
-      }
-
-      a {
-        color: $colour_primary;
-        font-weight: 700;
-      }
-    }
   }
 
   #club-navbar {
     .navbar-brand {
-      img {
-        transform: rotate(-8deg);
-        margin-top: -25px;
-
-        @media (min-width: $xl) {
-          margin-top: -45px;
-        }
+      @media (min-width: $xl) {
+        display: none;
       }
     }
 
@@ -131,6 +111,8 @@ body {
           margin-bottom: -1px;
           border: 1px solid $colour_primary;
           border-bottom: 0;
+          padding-top: 10px;
+          padding-bottom: 7.5px;
         }
 
         a {
@@ -143,6 +125,84 @@ body {
       border-width: 0 !important;
     }
   }
+
+  #brand-navbar {
+    border-bottom: 1px solid #bfbfbf;
+    a {
+      color: $colour_primary;
+      font-weight: 700;
+    }
+
+    .navbar-nav.mr-auto {
+      > li {
+        position: relative;
+        cursor: pointer;
+
+        &:after {
+          content: '';
+          position: absolute;
+          left: 12px;
+          right: calc(100% - 13px);
+          height: 4px;
+          background: $colour_nav_border;
+          transition: width .3s ease;
+          width: 0;
+        }
+
+        &:hover {
+          &:after {
+            width: calc(100% - 25px);
+          }
+        }
+
+        > a {
+          text-decoration: none;
+          &:hover,
+          &:active,
+          &:focus {
+            text-decoration: none;
+          }
+        }
+
+        &.dropdown {
+          &:hover {
+            > .dropdown-menu {
+              display: block;
+              box-shadow: 1px 1px 5px 1px $colour_nav_border;
+              border-radius: 0;
+              padding: 0;
+            }
+          }
+        }
+
+        > .dropdown-menu {
+          border: none;
+
+          > a {
+            position: relative;
+
+            &:before {
+              content: '';
+              position: absolute;
+              left: 0;
+              top: 0;
+              height: 0;
+              width: 4px;
+              background: $colour_nav_border;
+              transition: height .3s ease;
+            }
+
+            &:hover {
+              &:before {
+                height: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
 }
 
 body.competition {
