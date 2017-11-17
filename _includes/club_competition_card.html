@@ -6,9 +6,10 @@
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
-            <img class="rounded advertiser-banner" src="img/{{include.item.banner-img}}" />
+            <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{include.item.banner-img}})"></div>
             <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
         </div>
+
         <div class="col-md-7 col-lg-8 competition-card--content">
             <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }} <span class="category float-right">{{include.item.category}}</span></p>
             <h6><strong>{{ include.item.title }}</strong></h6>
