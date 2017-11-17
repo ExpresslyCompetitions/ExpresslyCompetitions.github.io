@@ -73,6 +73,8 @@ body {
         @media (min-width: $xl) {
           margin-left: 0;
           padding: 15px;
+          padding-top: 5px;
+          margin-top: 5px;
         }
       }
     }
@@ -126,12 +128,19 @@ body {
       .active {
         @media (min-width: $xl) {
           background-color: $colour_bg;
+          margin-bottom: -1px;
+          border: 1px solid $colour_primary;
+          border-bottom: 0;
         }
 
         a {
           color: $colour_primary;
         }
       }
+    }
+
+    .btn-outline-primary {
+      border-width: 0 !important;
     }
   }
 }
