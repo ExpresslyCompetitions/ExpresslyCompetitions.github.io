@@ -1,0 +1,57 @@
+---
+layout: club-layout
+title: My History
+---
+<div class="container logged-out-only">
+    <h4 class="mb-4"><strong>My History</strong></h4>
+    <h6><a href="#" data-toggle="modal" data-target="#modal--login">Please sign in</a></h6>
+</div>
+<main role="main" class="container logged-in-only">
+    <div class="row history-header-container mb-4">
+        <div class="col-md-10 col-sm-8">
+            <h4><strong>{{page.title}}</strong></h4>
+        </div>
+        <!--<div class="col-md-2 col-sm-4">-->
+        <!--<form class="form-horizontal">-->
+        <!--<div class="form-group">-->
+        <!--<select class="form-control">-->
+        <!--<option>All</option>-->
+        <!--</select>-->
+        <!--</div>-->
+        <!--</form>-->
+        <!--</div>-->
+    </div>
+
+    <div class="row history-card-container">
+        {% assign items = site[page.campaigns] | sort: 'date' %}
+        {% for item in items reversed  %}
+        <div class="col-md-4 col-sm-6 mb-4 show-if-entered-flex" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}">
+            <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
+            {% include club_history_card.html item=item %}
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-md-4 offset-md-4 text-center mb-4">
+            <div class="show-if-entered-none">
+                <img src="https://assets01.buyexpressly.com/club/img/trophy.png" alt="" class="mx-auto my-4 d-block" />
+                <h4 class="text-center">
+                    <strong>Get in on the action</strong>
+                </h4>
+                <p>and get exclusive offers and prizes on our Club page</p>
+                <div class="buttons">
+                    <a class="btn btn-primary h-100 text-uppercase" href="{{page.club_url}}">Take me to offers</a>
+                </div>
+            </div>
+
+            <div class="show-if-entered-any">
+                <img src="https://assets01.buyexpressly.com/club/img/thumb-up.png" alt="" class="mx-auto my-4 d-block" />
+                <h4 class="text-center">
+                    <strong>Nice work!</strong>
+                </h4>
+                <p>More opportunities to win and get great offers <a href="{{page.club_url}}">here</a></p>
+            </div>
+        </div>
+
+    </div>
+</main>

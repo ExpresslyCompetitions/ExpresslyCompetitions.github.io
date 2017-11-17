@@ -1,8 +1,0 @@
----
----
-<main role="main" class="container">
-    {% assign items = site.competitions_expressly | sort: 'date' %}
-    {% for item in items reversed  %}
-        {% include club_competition_card.html item=item %}
-    {% endfor %}
-</main>

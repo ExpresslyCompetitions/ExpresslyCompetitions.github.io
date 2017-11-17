@@ -13,7 +13,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=10"/>
+    {% if page.css %}
+    <link rel="stylesheet" href="{{page.club_url}}/css/{{page.css}}?cb=14"/>
+    {% else %}
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=19"/>
+    {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
     {% endif %}
@@ -22,12 +26,12 @@
         var entriesMap = {};
         var entriesCount = 0;
         var signedIn = false;
-        if (typeof(Storage) !== "undefined" && localStorage.profile) {
-            profile = JSON.parse(localStorage.profile);
-            signedIn = !!localStorage.signedIn;
-            if (localStorage.entries) {
-                var entries = JSON.parse(localStorage.entries)
-                entriesCount = entries.length
+        if (typeof(Storage) !== "undefined" && localStorage.getItem("profile.{{page.merchant-uuid}}")) {
+            profile = JSON.parse(localStorage.getItem("profile.{{page.merchant-uuid}}"));
+            signedIn = !!localStorage.getItem("signedIn.{{page.merchant-uuid}}");
+            if (localStorage.getItem("entries.{{page.merchant-uuid}}")) {
+                var entries = JSON.parse(localStorage.getItem("entries.{{page.merchant-uuid}}"));
+                entriesCount = entries.length;
                 for (var i = 0; i < entriesCount; ++i) {
                     entriesMap[entries[i]['campaignUuid']] = entries[i];
                 }
@@ -40,41 +44,78 @@
             }
         }
     </script>
+
+    {% if page.icon-url %}
+        <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
+    {% endif %}
 </head>
 <body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
-<nav class="navbar navbar-expand navbar-dark bg-main fixed-top">
-    <a class="navbar-brand" href="{{page.club_url}}">
-        {% if page.club-logo-nav %}
-            <img src="{{page.club_url}}/img/{{page.club-logo-nav}}" alt="{{page.club-name}}" class="navbar-logo" />
-        {% else %}
-            Home
-        {% endif %}
-    </a>
+<div class="nav-container fixed-top">
+    {% if page.brand-nav-include %}
+    {% include {{ page.brand-nav-include }} %}
+    {% endif %}
+    {% if page.club-nav-expand %}{% assign club-nav-expand = page.club-nav-expand %}{% else %}{% assign club-nav-expand = "xl" %}{% endif %}
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item logged-out-only">
-                <button class="btn btn-outline-primary my-0" type="submit" data-toggle="modal" data-target="#modal--register">Sign Up</button>
-            </li>
-            <li class="nav-item dropdown logged-status-known-only">
-                <button class="btn btn-outline-primary my-0 dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
-                        <i class="fa fa-user" aria-hidden="true"></i>
-                        <span class="data-forename"><script>if (signedIn) { document.write(profile.forename); }</script></span>
-                </button>
-                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown01">
-                    <a class="dropdown-item logged-out-only" href="#" data-toggle="modal" data-target="#modal--login">Sign In</a>
-                    <a class="dropdown-item logged-in-only" href="{{page.club_url}}/profile">My Account</a>
-                    <a class="dropdown-item logged-in-only" href="{{page.club_url}}/history">My History</a>
-                    <a id="action--logout" class="dropdown-item logged-in-only" href="#">Sign Out</a>
-                </div>
-            </li>
-        </ul>
-    </div>
-</nav>
+    <nav class="navbar navbar-expand-{{club-nav-expand}} navbar-dark bg-main" id="club-navbar">
+        <a class="navbar-brand" href="{{page.club_url}}">
+            {% if page.club-logo-nav %}
+                <img src="{{page.club_url}}/img/{{page.club-logo-nav}}" alt="{{page.club-name}}" class="navbar-logo" />
+            {% else %}
+                Home
+            {% endif %}
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-items" aria-controls="nav-items" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="nav-items">
+            <ul class="navbar-nav mr-auto text-left text-{{club-nav-expand}}-center pr-3">
+                {% assign nav-items = site[page.pages] | where:"nav","true" | sort: "nav-order" %}
+                {% for nav-item in nav-items  %}
+                    {% assign nav-path-prefix = (nav-item.collection | prepend: "_") %}
+                    {% assign nav-item-url = (nav-item.relative_path | replace: ".html", "" | replace: nav-path-prefix, page.club_url) %}
+                    <li class="nav-item {% if page.active == nav-item.nav-name %}active{% endif %}"><a href="{{nav-item-url}}">
+                        {% if nav-item.nav-label %}{{nav-item.nav-label}}{% else %}{{nav-item.title}}{% endif %}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+
+            <div class="divider"></div>
+
+            <ul class="navbar-nav ml-auto d-{{club-nav-expand}}-none">
+                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--register">Sign Up</a></li>
+                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--login">Sign In</a></li>
+                <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/profile">My Account</a></li>
+                <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/history">My History</a></li>
+                <li class="nav-item logged-in-only"><a class="nav-item action--logout" href="#">Sign Out</a></li>
+            </ul>
+
+            <ul class="navbar-nav ml-auto d-none d-{{club-nav-expand}}-flex">
+                <li class="nav-item logged-out-only">
+                    <button class="btn btn-primary my-0" type="submit" data-toggle="modal" data-target="#modal--register">Join</button>
+                </li>
+                <li class="nav-item logged-out-only">
+                    <button class="btn btn-primary my-0" type="submit" data-toggle="modal" data-target="#modal--login">Sign In</button>
+                </li>
+                <li class="nav-item dropdown logged-in-only">
+                    <button class="btn btn-outline-primary my-0 dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            <i class="fa fa-user" aria-hidden="true"></i>
+                            <span class="data-forename"><script>if (signedIn) { document.write(profile.forename); }</script></span>
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown01">
+                        <a class="dropdown-item logged-in-only" href="{{page.club_url}}/profile">My Account</a>
+                        <a class="dropdown-item logged-in-only" href="{{page.club_url}}/history">My History</a>
+                        <a class="dropdown-item logged-in-only action--logout" href="#">Sign Out</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
 
 {{ content }}
 
@@ -96,7 +137,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
         integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
         crossorigin="anonymous"></script>
-<script src="{{page.club_url}}/club.js?cb=13"></script>
+<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=1"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
 
 {% if page.ga-code and page.ga-code != "" %}
@@ -119,21 +160,21 @@
 </script>
 {% endif %}
 
-<footer class="mt-4">
+<footer>
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-9 mb-sm-1">
                 <div class="text-center text-md-left small">
-                    <nav class="nav footer-nav justify-content-center justify-content-md-start">
-                        <a class="nav-link" href="{{page.club_url}}">Home</a>
-                        <a class="nav-link" href="{{page.club_url}}/privacy">Privacy Policy</a>
-                        <a class="nav-link" href="{{page.club_url}}/terms">Terms and Conditions</a>
-                        <a class="nav-link" href="{{page.club_url}}/contact-us">Contact Us</a>
+                    <nav class="nav footer-nav justify-content-center justify-content-md-start flex-column flex-md-row">
+                        <a class="nav-link py-0" href="{{page.club_url}}">Home</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/privacy">Privacy Policy</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/terms">Terms and Conditions</a>
+                        <a class="nav-link py-0" href="{{page.club_url}}/contact-us">Contact Us</a>
                     </nav>
                 </div>
             </div>
             <div class="col-12 col-md-3">
-                <div class="copyright-text text-center text-md-right small pt-2 pb-2">
+                <div class="copyright-text text-center text-md-right small py-0">
                     {% if page.is-demo == true %}
                         This is a demo -  Powered by Expressly Competitions
                     {% else %}

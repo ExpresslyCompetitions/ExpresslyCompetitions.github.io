@@ -1,8 +1,7 @@
 # Site settings
 title: Expressly Competitions
 email: marc@buyexpressly.com
-description: > # this means to ignore newlines until "baseurl:"
- Expressly Competitions
+description: Expressly Competitions
 baseurl: ""
 url: "https://win.buyexpressly.com"
 
@@ -12,44 +11,44 @@ markdown: kramdown
 sass:
     sass_dir: /_scss
 
+collections:
+  club_expressly_campaigns:
+    output: true
+    permalink: /expressly-club/:path
+  club_expressly_pages:
+    output: true
+    permalink: /expressly-club/:name
+  club_nme_campaigns:
+    output: true
+    permalink: /nme/club/:path
+  club_nme_pages:
+    output: true
+    permalink: /nme/club/:name
+
 clubs:
-  local_dev: &LOCAL_DEV
-      club_url:       "http://localhost:4000/local/club"
-      club-name:      "Local Club"
-      ga-code:        "UA-102915329-1"
-      merchant-uuid:  "m-c2b72f7d-6073-4d91-a05d-55100bc49c2b"
-      club-copyright: "&copy; 2017 Expressly Limited"
   expressly_club: &EXPRESSLY_CLUB
+      campaigns:      "club_expressly_campaigns"
+      pages:          "club_expressly_pages"
       club-name:      "Expressly Club"
-      club_url:       "/expressly-club"
-      ga-code:        "UA-102915329-1"
-      merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
+      club_url:       "https://club.buyexpressly.com"
       club-copyright: "&copy; 2017 Expressly Limited"
       club-logo-nav:  "expressly-white.png"
-
-collections:
-  competitions_local:
-    output: true
-    permalink: /local/club/competition/:name
-  competitions_expressly:
-    output: true
-    permalink: /expressly-club/competition/:name
+      merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
+      ga-code:        "UA-102915329-1"
+  nme_club: &NME_CLUB
+      campaigns:      "club_nme_campaigns"
+      pages:          "club_nme_pages"
+      club-name:      "NME Backstage"
+      club_url:       "https://nme.buyexpressly.com"
+      #club_url:       "/nme/club"
+      club-copyright: "&copy; 2017 Expressly Limited"
+      club-logo-nav:  "nme-backstage.png"
+      icon-url:       "http://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
+      merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
+      ga-code:        "UA-102915329-1"
+      brand-nav-include: nme-nav-bar.html
 
 defaults:
-  -
-    scope:
-      path: "local/club"
-      type: "pages"
-    values:
-      layout: "club-layout"
-      <<:     *LOCAL_DEV
-  -
-    scope:
-      path: ""
-      type: "competitions_local"
-    values:
-      layout: "club-competition"
-      <<:     *LOCAL_DEV
   -
     scope:
       path: "expressly-club"
@@ -60,7 +59,33 @@ defaults:
   -
     scope:
       path: ""
-      type: "competitions_expressly"
+      type: "club_expressly_campaigns"
     values:
       layout: "club-competition"
       <<:     *EXPRESSLY_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_expressly_pages"
+    values:
+      <<:     *EXPRESSLY_CLUB
+  -
+    scope:
+      path: "/nme/club"
+      type: "pages"
+    values:
+      layout: "club-layout"
+      <<:     *NME_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_nme_campaigns"
+    values:
+      layout: "club-competition"
+      <<:     *NME_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_nme_pages"
+    values:
+      <<:     *NME_CLUB
