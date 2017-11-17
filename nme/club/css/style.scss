@@ -5,6 +5,7 @@ $colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
 $colour_nav_secondary: #333333;
+$colour_nav_border: #999999;
 
 $colour_bg: #ffffff;
 
@@ -130,6 +131,75 @@ body {
     a {
       color: $colour_primary;
       font-weight: 700;
+    }
+
+    .navbar-nav.mr-auto {
+      > li {
+        position: relative;
+        cursor: pointer;
+
+        &:after {
+          content: '';
+          position: absolute;
+          left: 12px;
+          right: calc(100% - 13px);
+          height: 4px;
+          background: $colour_nav_border;
+          transition: width .3s ease;
+          width: 0;
+        }
+
+        &:hover {
+          &:after {
+            width: calc(100% - 25px);
+          }
+        }
+
+        > a {
+          text-decoration: none;
+          &:hover,
+          &:active,
+          &:focus {
+            text-decoration: none;
+          }
+        }
+
+        &.dropdown {
+          &:hover {
+            > .dropdown-menu {
+              display: block;
+              box-shadow: 1px 1px 5px 1px $colour_nav_border;
+              border-radius: 0;
+              padding: 0;
+            }
+          }
+        }
+
+        > .dropdown-menu {
+          border: none;
+
+          > a {
+            position: relative;
+
+            &:before {
+              content: '';
+              position: absolute;
+              left: 0;
+              top: 0;
+              height: 0;
+              width: 4px;
+              background: $colour_nav_border;
+              transition: height .3s ease;
+            }
+
+            &:hover {
+              &:before {
+                height: 100%;
+              }
+            }
+          }
+        }
+      }
     }
   }
 
