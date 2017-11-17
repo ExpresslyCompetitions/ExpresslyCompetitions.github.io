@@ -15,8 +15,7 @@ competition-description: "Welcome to Metrofone the home of some of the best valu
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme_metrofone_terms.pdf"
-   target="_blank">T&amp;C</a> and to receive NME & Metrofone newsletters with
-   exclusive news and offers.
+   target="_blank">T&amp;C</a> and to create an account with NME Backstage.
 
 banner-img: "metrofone-banner.jpg"
 
