@@ -166,12 +166,16 @@ body {
         }
 
         &.dropdown {
+          > .dropdown-menu {
+            display: none;
+            background: $colour_dropdown_nav_bg;
+            border-radius: 0;
+            padding: 0;
+          }
+
           &:hover {
             > .dropdown-menu {
               display: block;
-              background: $colour_dropdown_nav_bg;
-              border-radius: 0;
-              padding: 0;
             }
           }
         }
