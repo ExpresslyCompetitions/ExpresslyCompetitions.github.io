@@ -42,8 +42,8 @@
       }
     }
 
-    .history-card--banner {
-      &.closed {
+    &.is-expired {
+      .history-card--banner {
         position: relative;
 
         &:before {
@@ -51,7 +51,7 @@
           color: $colour_secondary;
           position: absolute;
           top: 32px;
-          left: 0px;
+          left: 0;
           font-size: 13px;
           z-index: 9;
         }
