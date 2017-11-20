@@ -5,7 +5,8 @@ $colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
 $colour_nav_secondary: #333333;
-$colour_nav_border: #999999;
+$colour_nav_border: #c1c1c1;
+$colour_dropdown_nav_bg: #f9f9f9;
 
 $colour_bg: #ffffff;
 
@@ -168,7 +169,7 @@ body {
           &:hover {
             > .dropdown-menu {
               display: block;
-              box-shadow: 1px 1px 5px 1px $colour_nav_border;
+              background: $colour_dropdown_nav_bg;
               border-radius: 0;
               padding: 0;
             }
@@ -178,8 +179,14 @@ body {
         > .dropdown-menu {
           border: none;
 
-          > a {
+          &.two-column-menu {
+            min-width: 450px;
+          }
+
+          a {
             position: relative;
+            padding-top: 8px;
+            padding-bottom: 8px;
 
             &:before {
               content: '';
@@ -196,6 +203,10 @@ body {
               &:before {
                 height: 100%;
               }
+            }
+
+            &:active {
+              background: none;
             }
           }
         }
