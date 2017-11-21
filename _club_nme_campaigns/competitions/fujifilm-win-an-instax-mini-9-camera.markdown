@@ -5,7 +5,7 @@ category: Gifts
 date: 2017-11-16
 end-date: 2017-12-21
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 extra-css: ""
 

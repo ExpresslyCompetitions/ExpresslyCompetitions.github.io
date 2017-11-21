@@ -5,7 +5,7 @@ category: Entertainment
 date: 2017-11-17
 end-date: 2018-01-01
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 extra-css: ""
 
