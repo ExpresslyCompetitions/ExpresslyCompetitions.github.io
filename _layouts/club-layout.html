@@ -16,7 +16,7 @@
     {% if page.css %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.css}}?cb=14"/>
     {% else %}
-    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=29"/>
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=31"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
@@ -86,7 +86,7 @@
             <div class="divider"></div>
 
             <ul class="navbar-nav ml-auto d-{{club-nav-expand}}-none">
-                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--register">Sign Up</a></li>
+                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--register">Join</a></li>
                 <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--login">Sign In</a></li>
                 <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/profile">My Account</a></li>
                 <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/history">My History</a></li>
@@ -159,6 +159,12 @@
 
 </script>
 {% endif %}
+<script>
+    var isIos = /(iPad|iPhone|iPod)/g.test( navigator.userAgent );
+    if (isIos) {
+        document.body.className += ' is-ios';
+    }
+</script>
 
 <footer>
     <div class="container">
