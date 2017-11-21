@@ -42,7 +42,12 @@ layout: club-layout
         </div>
     </div>
     <div id="competition-cards">
-        {% assign items = campaigns | sort: 'date'  %}
+        {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
+        {% for item in items reversed  %}
+        {% include club_competition_card.html item=item %}
+        {% endfor %}
+
+        {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
         {% include club_competition_card.html item=item %}
         {% endfor %}
