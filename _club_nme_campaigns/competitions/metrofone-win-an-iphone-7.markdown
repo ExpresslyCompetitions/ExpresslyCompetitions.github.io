@@ -5,7 +5,7 @@ category:       Technology
 date:           2017-11-03
 end-date:       2017-11-26
 disable-form:   false
-is_promoted:    false
+is_promoted:    true
 has_entry_page: true
 
 title: "Win a sim-free iPhone 7 with Metrofone"
