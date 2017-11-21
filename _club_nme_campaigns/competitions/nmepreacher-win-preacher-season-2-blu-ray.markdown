@@ -3,7 +3,7 @@ campaign-uuid: c-efc7e613-4cb0-4e96-8e0f-f64636fc7829
 type: Competition
 category: Entertainment
 date: 2017-11-20T23:59:00+0000
-end-date: 2017-12-21T23:59:00+0000
+end-date: 2017-11-26T23:59:00+0000
 disable-form: false
 is_promoted: false
 has_entry_page: false

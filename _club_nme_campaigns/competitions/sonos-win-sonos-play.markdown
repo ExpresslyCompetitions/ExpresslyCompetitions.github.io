@@ -10,7 +10,7 @@ has_entry_page: false
 extra-css: ""
 
 logo-left-title: "Sonos"
-logo-left-href: "https://www.sonos.com/en/shop/play1.html"
+logo-left-href: "https://www.sonos.com/en-gb/shop/play1.html"
 logo-left-image: "sonos-logo.png"
 
 banner-img: "sonos-main_image.jpeg"

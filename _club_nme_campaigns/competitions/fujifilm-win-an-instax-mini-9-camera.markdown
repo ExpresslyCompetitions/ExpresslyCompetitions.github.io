@@ -3,10 +3,10 @@ campaign-uuid: c-b088760e-ef13-4cbc-a2ee-18df598f2597
 type: Competition
 category: Gifts
 date: 2017-11-16
-end-date: 2017-12-21
+end-date: 2017-11-22
 disable-form: false
 is_promoted: false
-has_entry_page: true
+has_entry_page: false
 extra-css: ""
 
 logo-left-title: "Fujifilm"
