@@ -3,7 +3,7 @@ campaign-uuid:  c-2ed8a442-f6b2-47e4-8020-3c88c11754b7
 type:           Competition
 category:       Technology
 date:           2017-11-03
-end-date:       2017-11-26
+end-date:       2017-11-05
 disable-form:   false
 is_promoted:    true
 has_entry_page: true
