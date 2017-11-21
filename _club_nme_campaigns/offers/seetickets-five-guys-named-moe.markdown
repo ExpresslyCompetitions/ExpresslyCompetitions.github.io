@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-48b35844-7d01-4321-83d6-d9c27d04fe4b
 type: Offer
 category: Entertainment

@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-fa16e662-b5c1-4093-818c-a2bb528c3008
 type: Offer
 category: Music

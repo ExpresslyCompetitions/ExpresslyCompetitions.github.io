@@ -18,7 +18,7 @@ hero-header: All bras - buy 1 get 1 half price
 competition-description: Discover the latest promotion of Figleaves, the home of Luxury Lingerie, Swimwear and many more. At Figleaves, they aim to deliver the best possible lingerie, swimwear and other accessories, depending on your tastes and on your way to dress. Check it out now.
 hero-subheader:
 
-title: All bras - buy 1 get 1 half price
+title: 2All bras - buy 1 get 1 half price
 bg-image-hero:
 bg-image-first:
 bg-image-second:

@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-daf0baf8-4be9-49ed-a330-1f7e940f0fae
 type: Offer
 category: Music
@@ -18,7 +18,7 @@ hero-header: "seetickets_offer"
 competition-description: "Get tickets for Lorde's concert on Friday, 22 Dec 2017 at Firebug, Leicester!"
 hero-subheader: ""
 
-title: "Homage à Trois Part 2: Lorde's Melodrama"
+title: "Homage &agrave; Trois Part 2: Lorde's Melodrama"
 bg-image-hero: ""
 bg-image-first: ""
 bg-image-second: ""
@@ -33,9 +33,9 @@ section2-content: >
     <p>0</p>
     <p>0</p>
 
-entry-title: 
+entry-title:
 terms-confirmation: >
-    
+
 entry-content: >
     <p>0</p>
     <p>0</p>

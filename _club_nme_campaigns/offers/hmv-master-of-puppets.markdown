@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-c49b35da-4e24-40ab-8119-671d69e3fef7
 type: Product
 category: Music
