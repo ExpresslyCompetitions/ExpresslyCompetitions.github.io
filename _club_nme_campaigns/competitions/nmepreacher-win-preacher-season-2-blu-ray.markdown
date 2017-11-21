@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-efc7e613-4cb0-4e96-8e0f-f64636fc7829
 type: Competition
 category: Entertainment
@@ -15,7 +15,7 @@ logo-left-image: "nme-logo.jpg"
 
 banner-img: "preacher-main_image.jpg"
 hero-header: "preacher_competition"
-competition-description: "Fans of the Preacher series, rejoice. To celebrate the Blu-ray™ release of Preacher 2 — the critically-acclaimed supernatural show starring Dominic Cooper, Ruth Negga and Joseph Gilgun — we’ve managed to get our hands on 5 copies of the complete second series and yes, we want you guys to have them!"
+competition-description: "Fans of the Preacher series, rejoice. To celebrate the Blu-ray&trade; release of Preacher 2 - the critically-acclaimed supernatural show starring Dominic Cooper, Ruth Negga and Joseph Gilgun - we've managed to get our hands on 5 copies of the complete second series and yes, we want you guys to have them!"
 hero-subheader: ""
 
 title: "Win Preacher Season 2 on Blu-ray!"
@@ -29,8 +29,8 @@ section1-content: >
     <p>Crikey.</p>
 
 section2-content: >
-    <p>Following West Texan preacher Jesse Custer (Dominic Cooper), badass ex-girlfriend Tulip (Academy Award® nominee Ruth Negga) and Irish vampire Cassidy (Joseph Gilgun), Preacher 2 takes fans on a thrilling, blood-spattered road trip to find God in America’s dark underbelly.</p>
-    <p>Containing all 13 episodes, the four-disc Blu-ray™ and DVD sets also include featurette ‘Raising the Stakes: Action on Set’, and a hilarious blooper reel.</p>
+    <p>Following West Texan preacher Jesse Custer (Dominic Cooper), badass ex-girlfriend Tulip (Academy Award&reg; nominee Ruth Negga) and Irish vampire Cassidy (Joseph Gilgun),'Preacher 2' takes fans on a thrilling, blood-spattered road trip to find God in America's dark underbelly.</p>
+    <p>Containing all 13 episodes, the four-disc Blu-ray&trade; and DVD sets also include featurette 'Raising the Stakes: Action on Set', and a hilarious blooper reel.</p>
     <p>All you have to do to get your mitts on one of these super exclusive box sets is enter. Good luck!</p>
 
 entry-title: 

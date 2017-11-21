@@ -1,6 +1,6 @@
-﻿---
+---
 campaign-uuid: c-f14b6ed2-0a4e-46a6-ba28-717385467db2
-type: Offer
+type: Product
 category: Other
 date: 2017-11-20T23:59:00+0000
 end-date: 2017-12-21T23:59:00+0000

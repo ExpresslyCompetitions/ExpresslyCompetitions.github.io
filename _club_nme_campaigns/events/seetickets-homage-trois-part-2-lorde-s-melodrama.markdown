@@ -1,6 +1,6 @@
 ---
 campaign-uuid: c-daf0baf8-4be9-49ed-a330-1f7e940f0fae
-type: Offer
+type: Event
 category: Music
 date: 2017-11-17
 end-date: 2017-12-21

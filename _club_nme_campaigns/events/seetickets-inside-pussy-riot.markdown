@@ -1,6 +1,6 @@
 ---
 campaign-uuid: c-e046f2ce-9f7b-4490-b98c-6e6a09d1ff77
-type: Offer
+type: Event
 category: Entertainment
 date: 2017-11-17
 end-date: 2017-12-24

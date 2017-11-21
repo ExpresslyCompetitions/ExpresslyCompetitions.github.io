@@ -1,4 +1,4 @@
-﻿---
+---
 campaign-uuid: c-37d5fa12-281c-4fa3-a22d-ffb6e63da94e
 type: Offer
 category: Fashion
@@ -15,7 +15,7 @@ logo-left-image: "baukjen-logo.png"
 
 banner-img: "baukjen-main_image.jpg"
 hero-header: "baukjen_offer"
-competition-description: "This season, the pentagonal symbol can be seen everywhere. We’ve incorporated it an everyday top, immediately giving it an elevated feel. By day, we’re pairing this with cargo pants and trainers, for the evening with denim and heels."
+competition-description: "This season, the pentagonal symbol can be seen everywhere. We've incorporated it an everyday top, immediately giving it an elevated feel. By day, we're pairing this with cargo pants and trainers, for the evening with denim and heels."
 hero-subheader: ""
 
 title: "Stars in our eyes with this Baukjen top!"

@@ -28,8 +28,7 @@
 
     .advertiser-banner {
       width: 100%;
-      border-top-right-radius: 5px;
-      border-top-left-radius: 5px;
+      border-radius: 0.25rem 0.25rem 0 0 !important;
     }
 
     .history-card--status {
