@@ -5,7 +5,7 @@ category: Gifts
 date: 2017-11-17
 end-date: 2017-12-21
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 extra-css: ""
 
@@ -15,7 +15,7 @@ logo-left-image: "glossier-logo.jpg"
 
 banner-img: "glossier-main_image.jpg"
 hero-header: "glossier_product"
-competition-description: "Adaptable color + cushiony shine.
+competition-description: "Adaptable colour + cushiony shine.
 Wear them on their own, or layer together for extra impact. Generation G gives the look of just-blotted lipstick minus the blot, in shades that adapt to you - not the other way around."
 hero-subheader: ""
 

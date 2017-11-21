@@ -1,24 +1,24 @@
 ---
-campaign-uuid: c-fa16e662-b5c1-4093-818c-a2bb528c3008
+campaign-uuid: c-daf0baf8-4be9-49ed-a330-1f7e940f0fae
 type: Offer
 category: Music
 date: 2017-11-17
 end-date: 2017-12-21
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 extra-css: ""
 
 logo-left-title: "See Tickets"
-logo-left-href: "https://www.seetickets.com/tour/the-alexandra-palace-ice-rink"
+logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
 logo-left-image: "seetickets-logo.png"
 
-banner-img: "seeticketsalexanderpalace-main_image.jpg"
-hero-header: "seetickets_offer_alexandrapalace"
-competition-description: "Tis the season! Get skating in the Alexandra Palace Ice Rink in London. Prebooked your tickets here!"
+banner-img: "seetickets-main_image.jpg"
+hero-header: "seetickets_offer"
+competition-description: "Get tickets for Lorde's concert on Friday, 22 Dec 2017 at Firebug, Leicester!"
 hero-subheader: ""
 
-title: "Alexandra Palace Ice Rink tickets"
+title: "Homage &agrave; Trois Part 2: Lorde's Melodrama"
 bg-image-hero: ""
 bg-image-first: ""
 bg-image-second: ""
@@ -33,9 +33,9 @@ section2-content: >
     <p>0</p>
     <p>0</p>
 
-entry-title: 
+entry-title:
 terms-confirmation: >
-    
+
 entry-content: >
     <p>0</p>
     <p>0</p>
