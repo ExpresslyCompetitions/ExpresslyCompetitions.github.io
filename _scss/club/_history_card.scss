@@ -21,7 +21,7 @@
 
   .history-card {
     height: 100%;
-    border: 1px solid $colour_bg_gray;
+    border: 1px solid red;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -73,13 +73,17 @@
 
     .history-card--footer {
       .advertiser-logo {
-        height: 40px;
         display: flex;
         flex-direction: column-reverse;
-        img {
-          max-height: 100%;
-          max-width: 70%;
-          margin-bottom: -10px;
+
+        a {
+          width: 80%;
+          height: 60px;
+          margin: 0 10%;
+          display: block;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: contain;
         }
       }
     }
