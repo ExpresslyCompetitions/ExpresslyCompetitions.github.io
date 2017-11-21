@@ -15,7 +15,7 @@ logo-left-image: "bloom-logo.jpg"
 
 banner-img: "bloom-main_image.jpg"
 hero-header: "bloom_offer"
-competition-description: "Our team of in-house floral designers?create bouquets weekly, changing with styles and seasons to ensure that only the best flowers are sent out. Our range is centred around innovative designs and products. From letterbox flowers to hand-tied bouquets, roses to mini pineapples, we go beyond our customers' wildest floral imaginations. We're always sourcing creative blooms to delight our customers."
+competition-description: "Our team of in-house floral designers create bouquets weekly, changing with styles and seasons to ensure that only the best flowers are sent out. Our range is centred around innovative designs and products. From letterbox flowers to hand-tied bouquets, roses to mini pineapples, we go beyond our customers' wildest floral imaginations. We're always sourcing creative blooms to delight our customers."
 hero-subheader: ""
 
 title: "Make someone's day or indulge yourself with a luxurious Bloom & Wild bouquet!"
