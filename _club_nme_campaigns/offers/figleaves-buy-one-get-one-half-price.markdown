@@ -3,7 +3,7 @@ campaign-uuid: c-9259b8be-e7f3-4621-b3ac-dbca4443b9e5
 type: Offer
 category: Fashion
 date: 2017-11-08
-end-date: 2017-12-21
+end-date: 2017-11-23
 disable-form: false
 is_promoted: false
 has_entry_page: false
