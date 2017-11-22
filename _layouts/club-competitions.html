@@ -8,7 +8,7 @@ layout: club-layout
     <div class="row header">
         {% if page.title %}
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6">
-            <h4>{{page.title}}</h4>
+            <h4 class="d-xl-none">{{page.title}}</h4>
         </div>
         {% else %}
         <div class="d-none d-md-flex col-sm-2 col-md-4 col-lg-6">
@@ -42,7 +42,12 @@ layout: club-layout
         </div>
     </div>
     <div id="competition-cards">
-        {% assign items = campaigns | sort: 'date'  %}
+        {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
+        {% for item in items reversed  %}
+        {% include club_competition_card.html item=item %}
+        {% endfor %}
+
+        {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
         {% include club_competition_card.html item=item %}
         {% endfor %}

@@ -5,7 +5,7 @@ category: Fashion
 date: 2017-11-08
 end-date: 2017-12-21
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 extra-css:
 
@@ -13,7 +13,7 @@ logo-left-title: Figleaves
 logo-left-href: https://www.figleaves.com/uk/
 logo-left-image: figleaves-logo.svg
 
-banner-img: 350x250.png
+banner-img: figleaves-main_image.png
 hero-header: All bras - buy 1 get 1 half price
 competition-description: Discover the latest promotion of Figleaves, the home of Luxury Lingerie, Swimwear and many more. At Figleaves, they aim to deliver the best possible lingerie, swimwear and other accessories, depending on your tastes and on your way to dress. Check it out now.
 hero-subheader:

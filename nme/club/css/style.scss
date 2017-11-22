@@ -29,8 +29,8 @@ body {
   background: white;
   padding: 1px 0 0 0;
   margin: 1.5rem 0;
-  border-top: 1px solid $colour_nav_secondary;
-  border-bottom: 1px solid $colour_nav_secondary;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
   position: relative;
 
   .navbar {
@@ -110,10 +110,10 @@ body {
         @media (min-width: $xl) {
           background-color: $colour_bg;
           margin-bottom: -1px;
-          border: 1px solid $colour_primary;
+          border: 1px solid #ccc;
           border-bottom: 0;
-          padding-top: 10px;
-          padding-bottom: 7.5px;
+          //padding-top: 10px;
+          //padding-bottom: 7.5px;
         }
 
         a {
@@ -191,6 +191,7 @@ body {
             position: relative;
             padding-top: 8px;
             padding-bottom: 8px;
+            font-size: 0.9em;
 
             &:before {
               content: '';

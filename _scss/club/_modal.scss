@@ -6,3 +6,10 @@
     padding-right: 65px !important;
   }
 }
+
+// fix for iOS input bug
+body.is-ios.modal-open {
+  position: fixed;
+  margin-left: -33.3333%;
+  left: 50%;
+}

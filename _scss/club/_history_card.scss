@@ -28,8 +28,7 @@
 
     .advertiser-banner {
       width: 100%;
-      border-top-right-radius: 5px;
-      border-top-left-radius: 5px;
+      border-radius: 0.25rem 0.25rem 0 0 !important;
     }
 
     .history-card--status {
@@ -42,8 +41,8 @@
       }
     }
 
-    .history-card--banner {
-      &.closed {
+    &.is-expired {
+      .history-card--banner {
         position: relative;
 
         &:before {
@@ -51,7 +50,7 @@
           color: $colour_secondary;
           position: absolute;
           top: 32px;
-          left: 0px;
+          left: 0;
           font-size: 13px;
           z-index: 9;
         }
@@ -74,12 +73,17 @@
 
     .history-card--footer {
       .advertiser-logo {
-        height: 40px;
         display: flex;
         flex-direction: column-reverse;
-        img {
-          max-height: 100%;
-          max-width: 70%;
+
+        a {
+          width: 80%;
+          height: 60px;
+          margin: 0 10%;
+          display: block;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: contain;
         }
       }
     }

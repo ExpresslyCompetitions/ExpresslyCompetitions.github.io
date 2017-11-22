@@ -66,7 +66,9 @@ body-class: "competition"
 
 <div id="contact-anchor" class="anchor"></div>
 
-<div class="container" id="eid" data-competition-toggle="{{page.campaign-uuid}}">
+<div class="container" id="eid"
+     data-competition-toggle="{{page.campaign-uuid}}"
+     data-expiration="{{page.end-date | date_to_xmlschema}}">
     <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
     <section class="contact row">
         <div class="col-sm-2"></div>
@@ -76,34 +78,31 @@ body-class: "competition"
             <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
 
             <div class="hide-if-entered">
-            {% assign curr_date = site.time | date: "%Y-%m-%d" %}
-            {% assign end_date = page.end-date | date: "%Y-%m-%d" %}
-            {% if page.disable-form == false and curr_date <= end_date %}
-            <form id="form--competition" method="post" novalidate>
-                <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
-                {% assign form_input_id_prefix = 'form--competition--' %}
-                {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
-                {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
-                {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
-                {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
-                {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
-                {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}" error="Please enter a valid UK telephone number" %}
-                {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
-                {% include form_input_checkbox.html id="optin" label=page.terms-confirmation required="true" %}
-                {% assign form_input_id_prefix = '' %}
-            </form>
-            <div class="text-center pt-3">
-                <button class="btn btn-primary disable-if-busy" id="action--enter">
-                    <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
-                    <span class="show-when-busy">Submitting Entry <img
-                            src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
-                </button>
-            </div>
-            {% endif %}
-
-            {% if page.disable-form == true or curr_date > end_date %}
-                <h2 class="text-center">Competition is now over</h2>
-            {% endif %}
+                {% if page.disable-form == false %}
+                    <div class="hide-if-expired">
+                        <form id="form--competition" method="post" novalidate>
+                            <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
+                            {% assign form_input_id_prefix = 'form--competition--' %}
+                            {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
+                            {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
+                            {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
+                            {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
+                            {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
+                            {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}" error="Please enter a valid UK telephone number" %}
+                            {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
+                            {% include form_input_checkbox.html id="optin" label=page.terms-confirmation required="true" %}
+                            {% assign form_input_id_prefix = '' %}
+                        </form>
+                        <div class="text-center pt-3">
+                            <button class="btn btn-primary disable-if-busy" id="action--enter">
+                                <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
+                                <span class="show-when-busy">Submitting Entry <img
+                                        src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+                            </button>
+                        </div>
+                    </div>
+                {% endif %}
+                <h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
             </div>
             <div class="show-if-entered">
                 <p>

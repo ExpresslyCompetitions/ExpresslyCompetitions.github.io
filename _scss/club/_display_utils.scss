@@ -67,3 +67,22 @@
     display: block;
   }
 }
+
+.show-if-expired,
+.show-if-expired-flex {
+  display: none;
+}
+
+.is-expired {
+  .hide-if-expired {
+    display: none;
+  }
+  .show-if-expired {
+    display: block;
+  }
+  .show-if-expired-flex {
+    display: flex;
+  }
+}
+
+

@@ -16,7 +16,7 @@
     {% if page.css %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.css}}?cb=14"/>
     {% else %}
-    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=22"/>
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=41"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
@@ -86,7 +86,7 @@
             <div class="divider"></div>
 
             <ul class="navbar-nav ml-auto d-{{club-nav-expand}}-none">
-                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--register">Sign Up</a></li>
+                <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--register">Join</a></li>
                 <li class="nav-item logged-out-only"><a class="nav-item" href="#" data-toggle="modal" data-target="#modal--login">Sign In</a></li>
                 <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/profile">My Account</a></li>
                 <li class="nav-item logged-in-only"><a class="nav-item" href="{{page.club_url}}/history">My History</a></li>
@@ -137,7 +137,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
         integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
         crossorigin="anonymous"></script>
-<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=2"></script>
+<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=8"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
 
 {% if page.ga-code and page.ga-code != "" %}
@@ -159,6 +159,12 @@
 
 </script>
 {% endif %}
+<script>
+    var isIos = /(iPad|iPhone|iPod)/g.test( navigator.userAgent );
+    if (isIos) {
+        document.body.className += ' is-ios';
+    }
+</script>
 
 <footer>
     <div class="container">
@@ -185,6 +191,5 @@
         </div>
     </div>
 </footer>
-
 </body>
 </html>

@@ -1,8 +1,5 @@
-{% assign curr_date = site.time | date: "%Y-%m-%d" %}
-{% assign end_date = include.item.end-date | date: "%Y-%m-%d" %}
-
-<div class="history-card">
-    <div class="history-card--banner {% if curr_date > end_date %}closed{% endif %}">
+<div class="history-card" data-expiration="{{ include.item.end-date | date_to_xmlschema }}">
+    <div class="history-card--banner">
         <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{include.item.banner-img}})"></div>
     </div>
     <div class="history-card--content p-2 text-center">
@@ -11,17 +8,14 @@
     </div>
     <div class="history-card--footer p-2 pb-3 text-center">
         <div class="history-card--status mb-4">
-            {% if curr_date <= end_date %}
-            <div><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span></div>
-            {% else %}
-            <div><span class="competition-over small">
+            <div class="hide-if-expired"><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span></div>
+            <div class="show-if-expired"><span class="competition-over small">
                 Visit  <strong class="avoid-wrap"><a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}">{{include.item.logo-left-title}}</a></strong>
             </span></div>
-            {% endif %}
         </div>
         <div class="advertiser-logo">
             <div>
-                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}"><img  src="img/{{include.item.logo-left-image}}" /></a>
+                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}" style="background-image: url({{page.club_url}}/img/{{include.item.logo-left-image}})">&nbsp;</a>
             </div>
         </div>
     </div>
