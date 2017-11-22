@@ -15,7 +15,7 @@ logo-left-image: "creative-blasterX-logo.png"
 
 banner-img: "creative_comp_image.jpg"
 hero-header: "A Sound BlasterX Katana, complete with a year's Spotify Membership"
-competition-description: "Creative Labs UK introduces their amazing Sound BlasterX Katana, the award-winning Under Monitor Audio System. With it, you won't just get amazing sound quality, you'll get style too."
+competition-description: "Creative Labs UK introduces their amazing Sound BlasterX Katana, the award-winning Under Monitor Audio System. With it, you won't just get amazing sound quality, you'll get style too. With this, an amazing 1-year Spotify membership, in the competition originally hosted on Capital FM and promoted by Expressly"
 hero-subheader: ""
 
 title: ""
@@ -41,7 +41,7 @@ entry-content: >
 
 has-winner: true
 winner-name: Emma H.
-winner-title: Emma H. of Sittingbourne was one of the lucky winners of the Creative Sound BlasterX competition, originally hosted on Capital FM and promoted by Expressly. Congratulations Emma!
+winner-title: Congratulations to Emma H. of Sittingbourne who won a Creative Sound BlasterX Katana!
 winner-banner: creative-winner-Emma.jpg
    
 ---
