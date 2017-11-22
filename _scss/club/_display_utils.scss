@@ -75,7 +75,7 @@
 
 .is-expired {
   .hide-if-expired {
-    display: none;
+    display: none !important;
   }
   .show-if-expired {
     display: block;
