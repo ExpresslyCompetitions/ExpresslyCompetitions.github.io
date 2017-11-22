@@ -32,6 +32,12 @@ body {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   position: relative;
+  display: none;
+
+  @media (min-width: $xl) {
+    margin: 1.5rem 0 0;
+    display: block;
+  }
 
   .navbar {
     background-color: white !important;
@@ -97,6 +103,10 @@ body {
   }
 
   #club-navbar {
+    @media (min-width: $xl) {
+      background-color: #eeeeee !important;
+    }
+
     .navbar-brand {
       @media (min-width: $xl) {
         display: none;
@@ -122,13 +132,16 @@ body {
       }
     }
 
+    .d-none.d-xl-flex li {
+      margin-top: -8px;
+    }
+
     .btn-outline-primary {
       border-width: 0 !important;
     }
   }
 
   #brand-navbar {
-    border-bottom: 1px solid #bfbfbf;
     a {
       color: $colour_primary;
       font-weight: 700;
@@ -219,6 +232,15 @@ body {
     }
   }
 
+}
+
+#club-nav-container {
+  display: block !important;
+  @media (min-width: $xl) {
+    margin: 0 0 1.5rem;
+    border-top-width: 0;
+    background-color: #eeeeee;
+  }
 }
 
 body.competition {
