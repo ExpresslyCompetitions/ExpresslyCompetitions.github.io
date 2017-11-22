@@ -6,35 +6,46 @@ title: Contact Us
     <div class="container">
         <div class="row mb-4">
             <div class="col">
-                <h4><strong>{{page.title}}</strong></h4>
+                <h4><strong>Contact Us</strong></h4>
             </div>
         </div>
         <div class="row">
             <div class="col">
-                <form class="form-horizontal">
-                    <div class="form-group row">
-                        <label for="name" class="required col-sm-3 col-form-label">Name</label>
-                        <div class="col">
-                            <input type="text" name="name" id="name" class="form-control" maxlength="64" placeholder="Your name" />
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="email" class="required col-sm-3 col-form-label">Email</label>
-                        <div class="col">
-                            <input type="email" name="email" id="email" class="form-control" maxlength="128" placeholder="Valid email address" />
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="message" class="required col-sm-3 col-form-label">Message</label>
-                        <div class="col">
-                            <textarea name="message" id="message" class="form-control" maxlength="1024" placeholder="What's on your mind?"></textarea>
+                <form id="form--contact-us" method="POST" action="{{page.club_url}}/contact-us-confirmation">
+                    <input type="text" name="_gotcha" style="display:none" />
+                    <input type="hidden" name="_format" value="plain" />
+                    <input type="hidden" name="_subject" value="Contact us from {{page.club-name}}" />
+                    {% assign form_input_id_prefix = 'form--login--' %}
+                    {% include form_input_text.html id="name" label="Name" type="text" required="true"
+                    placeholder="Your name" autocomplete="full-name" error="Please enter your name" maxlength="64" %}
+                    {% include form_input_text.html id="email" label="Email" type="email" required="true"
+                    placeholder="Valid email address" autocomplete="username email" error="Please enter your email"
+                    maxlength="128" %}
+                    <div class="form-group row {{include.rowClass}}">
+                        <label for="{{form_input_id_prefix}}message" class="col-sm-3 col-form-label">Message</label>
+                        <div class="col-sm-9">
+                        <textarea name="message"
+                                  id="{{form_input_id_prefix}}message" class="form-control"
+                                  placeholder="What is on your mind"
+                                  maxlength="1024"
+                                  required></textarea>
+                            <div class="invalid-feedback">
+                                <i id="{{form_input_id_prefix}}invalid-feedback--message"
+                                   class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip"
+                                   data-placement="right" title="Please enter a message"></i>
+                            </div>
                         </div>
                     </div>
                     <div class="form-submit row">
                         <div class="col m-auto text-center">
-                            <button type="submit" class="btn btn-primary px-5">Send</button>
+                            <button id="action--contact-us" type="button" class="btn btn-primary px-5 disable-if-busy">
+                                Send
+                                <span class="show-when-busy"> <img
+                                        src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+                            </button>
                         </div>
                     </div>
+                    {% assign form_input_id_prefix = '' %}
                 </form>
             </div>
         </div>
