@@ -3,12 +3,12 @@
         <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{include.item.banner-img}})"></div>
     </div>
     <div class="history-card--content p-2 text-center">
-        <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }}</p>
+        <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}</p>
         <p><strong>{{ include.item.title }}</strong></p>
     </div>
     <div class="history-card--footer p-2 pb-3 text-center">
         <div class="history-card--status mb-4">
-            <div class="hide-if-expired"><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span></div>
+            <div class="hide-if-expired"><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span></div>
             <div class="show-if-expired"><span class="competition-over small">
                 Visit  <strong class="avoid-wrap"><a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}">{{include.item.logo-left-title}}</a></strong>
             </span></div>

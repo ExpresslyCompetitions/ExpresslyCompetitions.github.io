@@ -1,14 +1,14 @@
 
 .history-card-container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  flex-wrap: wrap;
+  //display: -webkit-box;
+  //display: -webkit-flex;
+  //display: -ms-flexbox;
+  //display: flex;
+  //flex-wrap: wrap;
 
   > [class*='col-'] {
-    display: flex;
-    flex-direction: column;
+    //display: flex;
+    //flex-direction: column;
 
     &:nth-child(3n) {
       //padding-left: 0;
@@ -20,11 +20,13 @@
   }
 
   .history-card {
-    height: 100%;
+    //height: 100%;
+    width: 100%;
     border: 1px solid $colour_bg_gray;
     border-radius: 5px;
-    display: flex;
-    flex-direction: column;
+    padding-bottom: 130px;
+    //display: flex;
+    //flex-direction: column;
 
     .advertiser-banner {
       width: 100%;
@@ -72,14 +74,25 @@
     }
 
     .history-card--footer {
+      .history-card--status {
+        position: absolute;
+        bottom: 80px;
+        margin-left: -24px;
+        width: 100%;
+      }
+
       .advertiser-logo {
-        display: flex;
-        flex-direction: column-reverse;
+        //display: flex;
+        //flex-direction: column-reverse;
+        width: 80%;
+        height: 60px;
+        margin: 0 10%;
+        position: absolute;
+        bottom: 10px;
 
         a {
           width: 80%;
           height: 60px;
-          margin: 0 10%;
           display: block;
           background-repeat: no-repeat;
           background-position: center;
