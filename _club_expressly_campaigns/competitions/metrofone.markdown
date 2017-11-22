@@ -68,8 +68,8 @@ entry-content: >
   </p>
 
 has-winner: true
-winner-name: A Tricoli
-winner-title: A Tricoli won an iPhone 7 with Metrofone
+winner-name: A Tricoli and M Smith
+winner-title: A Tricoli and M Smith won an iPhone 7 with Metrofone
 winner-banner: nife-winner.png
 ---
 
