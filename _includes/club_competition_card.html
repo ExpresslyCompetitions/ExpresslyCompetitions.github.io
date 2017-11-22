@@ -28,34 +28,34 @@
                     {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
                     {% if include.item.has_entry_page %}
                         <div class="show-if-entered">
-                            <a href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
                         </div>
                         <div class="hide-if-entered">
-                            <a href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">{{button-cta}}</a>
+                            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">{{button-cta}}</a>
                         </div>
                     {% else %}
                         <div class="show-if-entered">
-                            <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-sm btn-primary px-5">View</a>
+                            <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
                         </div>
                         <div class="hide-if-entered">
-                            <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="h-100 btn btn-sm btn-primary px-5 disable-if-busy">{{button-cta}}</a>
+                            <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">{{button-cta}}</a>
                         </div>
                     {% endif %}
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right hide-if-expired">
                     <div class="show-if-entered">
-                        <span class="h-100 small"><strong>Entry submitted</strong></span>
+                        <span class="h-100"><strong>Entry submitted</strong></span>
                     </div>
                     <div class="hide-if-entered">
-                        <span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%B %d, %Y' }}</strong></span>
+                        <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
                     </div>
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right show-if-expired">
                     {% assign status-message = "Offer over" %}
                     {% if include.item.type == 'Competition' %}{% assign status-message = "Competition over" %}{% endif %}
-                    <div><span class="competition-over small">{{status-message}}</span></div>
+                    <div><span class="competition-over">{{status-message}}</span></div>
                 </div>
             </div>
         </div>
