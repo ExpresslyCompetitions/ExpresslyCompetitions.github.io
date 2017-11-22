@@ -16,7 +16,7 @@
     {% if page.css %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.css}}?cb=14"/>
     {% else %}
-    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=46"/>
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=47"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
@@ -67,7 +67,17 @@
                 Home
             {% endif %}
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-items" aria-controls="nav-items" aria-expanded="false" aria-label="Toggle navigation">
+
+        <ul class="navbar-nav ml-auto d-xl-none">
+            <li class="nav-item logged-in-only">
+                <button class="btn btn-outline-primary my-0 dropdown-toggle" type="button" data-toggle="collapse" data-target="#nav-items" aria-controls="nav-items" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    <span class="data-forename"><script>if (signedIn) { document.write(profile.forename); }</script></span>
+                </button>
+            </li>
+        </ul>
+
+        <button class="navbar-toggler logged-out-only" type="button" data-toggle="collapse" data-target="#nav-items" aria-controls="nav-items" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
