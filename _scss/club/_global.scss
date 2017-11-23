@@ -59,6 +59,7 @@ hr {
 }
 
 .advertiser-banner {
+  position: relative;
   width: 100%;
   padding-top: 71.428571428%;
   background-size: cover;
@@ -68,8 +69,8 @@ hr {
     display: block;
     position: absolute;
     top: 0;
-    left: 15px;
-    right: 15px;
+    left: 0;
+    right: 0;
     bottom: 0;
     text-decoration: none;
   }
