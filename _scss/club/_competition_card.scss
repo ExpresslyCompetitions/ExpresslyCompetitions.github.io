@@ -9,9 +9,6 @@
   }
 
   &:first-child {
-    &.promoted {
-      margin-top: 1rem;
-    }
   }
 
   &:last-child {
@@ -20,28 +17,22 @@
   }
 
   &.promoted {
-    padding-left: 15px;
-    padding-right: 15px;
-
-    @media (min-width: $md) {
-      padding-left: 0;
-      padding-right: 0;
-    }
-
-    > .row {
-      border: 1px solid #b90000;
-      border-radius: 5px;
-      margin-bottom: 15px;
-      margin-top: 15px;
-    }
-
-    &:before {
-      content: "selected for you";
-      color: #b90000;
-      position: absolute;
-      margin-top: -5px;
-      font-weight: 700;
-      font-size: 0.8rem;
+    .advertiser-banner {
+      &:after {
+        content: 'Selected for you';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        color: #ffffffaa;
+        padding: 10px 10px 10px 40px;
+        font-size: 0.8rem;
+        background: #ff0000aa;
+        background-size: contain;
+        background-position: 5px -2px;
+        background-repeat: no-repeat;
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='245'%3E%3Cpath style='fill: #ffffffaa' d='m89.108334,185.450005l40.391668,-124.450005l40.391668,124.450005l-105.891671,-76.962503l131.000006,0'/%3E%3C/svg%3E");
+      }
     }
   }
 
