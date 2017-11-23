@@ -2,7 +2,7 @@
 campaign-uuid: c-0a5a5168-23ab-4ecd-a4e5-4f52292d04c4
 type: Product
 category: Music
-date: 2017-11-16
+date: 2017-11-20
 end-date: 2017-12-21
 disable-form: false
 is_promoted: false
