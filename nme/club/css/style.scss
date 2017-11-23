@@ -235,7 +235,7 @@ body {
 }
 
 #club-nav-container {
-  z-index: inherit !important;
+  z-index: 1000 !important;
   display: block !important;
   @media (min-width: $xl) {
     margin: 0 0 1.5rem;
