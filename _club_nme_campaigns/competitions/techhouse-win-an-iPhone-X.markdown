@@ -20,12 +20,12 @@ terms-confirmation: >
 banner-img: "techhouse-banner.jpg"
 
 logo-left-href: "https://www.techhouse.com/"
-logo-left-image: "metrofone_logo.png"
+logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-header-img.jpg"
 bg-image-first: "techhouse-first-img.jpg"
-bg-image-second: "metrofone-second-img.png"
+bg-image-second: "techhouse-second-img.jpg"
 
 extra-css: "metrofone.css"
 
