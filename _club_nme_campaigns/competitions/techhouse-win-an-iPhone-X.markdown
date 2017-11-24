@@ -15,16 +15,16 @@ competition-description: "An amazing iPhone X is the prize of NME AAA's launch c
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme_metrofone_terms.pdf"
-   target="_blank">T&amp;C</a> and to create an account with NME AAA.
+   target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
-banner-img: "metrofone-banner.jpg"
+banner-img: "techhouse-banner.jpg"
 
 logo-left-href: "https://www.techhouse.com/"
 logo-left-image: "metrofone_logo.png"
 logo-left-title: "TechHouse"
 
-bg-image-hero: "metrofone-header-img.jpg"
-bg-image-first: "metrofone-first-img.png"
+bg-image-hero: "techhouse-header-img.jpg"
+bg-image-first: "techhouse-first-img.png"
 bg-image-second: "metrofone-second-img.png"
 
 extra-css: "metrofone.css"
