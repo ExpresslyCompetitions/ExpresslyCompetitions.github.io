@@ -14,7 +14,7 @@ hero-header: "Win an iPhone X with TechHouse"
 competition-description: "An amazing iPhone X is the prize of NME AAA's launch competition. Join us and get a chance to win the most innovative phone in a generation! Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
 hero-subheader: ""
 terms-confirmation: >
-   I agree to the competition <a href="../etc/nme_metrofone_terms.pdf"
+   I agree to the competition <a href="../etc/nme_techhouse_terms.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
 banner-img: "techhouse-banner.jpg"
