@@ -18,20 +18,16 @@
 
   &.promoted {
     .advertiser-banner {
-      &:after {
-        content: 'TOP PICK';
+      &:before {
+        content: '';
         position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        color: #ffffffaa;
-        padding: 10px 10px 10px 40px;
-        font-size: 0.8rem;
-        background: #ff0000aa;
+        top: -4px;
+        left: -4px;
+        width: 40%;
+        height: 40%;
         background-size: contain;
-        background-position: 5px -2px;
         background-repeat: no-repeat;
-        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='245'%3E%3Cpath style='fill: #ffffffaa' d='m89.108334,185.450005l40.391668,-124.450005l40.391668,124.450005l-105.891671,-76.962503l131.000006,0'/%3E%3C/svg%3E");
+        background-image: url('https://assets01.buyexpressly.com/club/img/label-top-pick.png');
       }
     }
   }
@@ -46,11 +42,10 @@
       align-items: center;
       position: absolute;
       left: 0;
-      top: 5%;
+      bottom: 5%;
       width: 35%;
       min-height: 20%;
       background-color: #ffffff;
-      margin-left: 15px;
       padding: 5px;
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
