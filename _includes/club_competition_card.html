@@ -44,7 +44,7 @@
                             <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
                         </div>
                         <div class="hide-if-entered">
-                            <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">{{button-cta}}</a>
+                            <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">{{button-cta}}</a>
                         </div>
                     {% endif %}
                 </div>
