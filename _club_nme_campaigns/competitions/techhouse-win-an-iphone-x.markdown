@@ -43,7 +43,7 @@ section2-content: >
 entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with TechHouse
 entry-content: >
    <p>
-    Enjoy one of the best phones ever-built, with a slick design, fantastic camera, and a world of beautiful apps. Brought to you by TechHouse, your destination for phone accessories and repairs.
+    Enjoy one of the best phones ever built, with a slick design, fantastic camera, and a world of beautiful apps. Brought to you by TechHouse, your destination for phone accessories and repairs.
    </p>
    <p>
     Enter the draw to win an iPhone X by completing the form below before 23:59 on !end-date!.
