@@ -35,10 +35,10 @@ section1-content: >
    <p>Say hello to the future.</p>
    
 section2-content: >
-   <p>Welcome to TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores.</p>
+   <p>Welcome to TechHouse, the cool and hip younger sibling of the Fonehouse Group. We bring cool gadgets, cutting edge tech and the latest in fashion to high street stores at affordable prices and offer an award winning mobile phone repair service.</p>
    <p>We are part of a company that has been at the forefront of the mobile industry for 23 years and was originally set up by Clive Bayley, a former member of the prog band Yes, which went on to achieve worldwide success
      in the 70s.</p>
-   <p>Our experts their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
+   <p>Our experts spend their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
    
 entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with TechHouse
 entry-content: >
