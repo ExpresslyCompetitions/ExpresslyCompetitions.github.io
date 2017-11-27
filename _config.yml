@@ -54,7 +54,7 @@ clubs:
       company-privacy: "https://www.timeincuk.com/privacy/"
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
-      ga-code:        "UA-102915329-1"
+      ga-code:        "UA-110278937-1"
       brand-nav-include: nme-nav-bar.html
 
 defaults:
