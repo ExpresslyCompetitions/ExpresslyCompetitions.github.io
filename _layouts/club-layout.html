@@ -84,13 +84,16 @@
         <div class="collapse navbar-collapse" id="nav-items">
             <ul class="navbar-nav mr-auto text-left text-{{club-nav-expand}}-center pr-3">
                 {% assign nav-items = site[page.pages] | where:"nav","true" | sort: "nav-order" %}
+                {% assign nav-active = page.active %}
+                {% if nav-active == null %}{% assign nav-active = layout.active %}{% endif %}
                 {% for nav-item in nav-items  %}
                     {% assign nav-path-prefix = nav-item.collection | prepend: "_" %}
                     {% assign nav-item-url = nav-item.relative_path | replace: ".html", "" | replace: nav-path-prefix, page.club_url %}
-                    <li class="nav-item {% if page.active == nav-item.nav-name %}active{% endif %}"><a href="{{nav-item-url}}">
+                    <li class="nav-item {% if nav-active == nav-item.nav-name %}active{% endif %}"><a href="{{nav-item-url}}">
                         {% if nav-item.nav-label %}{{nav-item.nav-label}}{% else %}{{nav-item.title}}{% endif %}</a>
                     </li>
                 {% endfor %}
+                <li>{{nav-active}}</li>
             </ul>
 
             <div class="divider"></div>
