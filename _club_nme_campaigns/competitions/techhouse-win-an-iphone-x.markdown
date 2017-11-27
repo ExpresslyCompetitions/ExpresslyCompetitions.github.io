@@ -27,7 +27,7 @@ bg-image-hero: "techhouse-header-img.jpg"
 bg-image-first: "techhouse-first-img.jpg"
 bg-image-second: "techhouse-second-img.jpg"
 
-extra-css: "metrofone.css"
+extra-css: ""
 
 section1-content: >
    <p><strong>iPhone X</strong></p>
