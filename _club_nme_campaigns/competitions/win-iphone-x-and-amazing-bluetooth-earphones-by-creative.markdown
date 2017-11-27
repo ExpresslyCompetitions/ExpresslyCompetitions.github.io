@@ -16,7 +16,7 @@ logo-left-image: "creative-logo.jpg"
 title: "Win an iPhone X and a Creative Omni bluetooth speaker"
 
 hero-header: "Win a 64GB iPhone X and a Creative Omni bluetooth speaker"
-competition-description: "Get your best music anywhere, with the latest gadget from Apple, the iPhone X, and from the Creative, the Omni bluetooth speaker. One lucky winner will get the amazing prize of the NME AAA's launch competition. Join us and get a chance to win the most innovative phone in a generation! Complement it with Aurvana Gold Headphones, presented by Creative, the Active Noise-canceling Bluetooth® Headset with NFC."
+competition-description: "Get your best music anywhere, with the latest gadget from Apple, the iPhone X, and from the Creative, the Omni bluetooth speaker. One lucky winner will get the amazing prize of the NME AAA's launch competition. Join us and get a chance to win the most innovative phone in a generation! Complement it with Creative Omni, presented by Creative, the portable splash-proof smart speaker with Wi-Fi and Bluetooth connectivity."
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme_creative_terms.pdf"
