@@ -82,6 +82,7 @@ body-class: "competition"
                     <div class="hide-if-expired">
                         <form id="form--competition" method="post" novalidate>
                             <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
+                            <input type="hidden" name="emailEntrant" value="true" />
                             <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
                             {% assign form_input_id_prefix = 'form--competition--' %}
                             {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
