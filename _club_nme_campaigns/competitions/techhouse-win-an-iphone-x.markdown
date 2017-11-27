@@ -40,7 +40,7 @@ section2-content: >
      in the 70s.</p>
    <p>Our experts their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
    
-entry-title: Win a 64GB unlocked <span style="text-transform:lowercase">i</span>Phone X with TechHouse
+entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with TechHouse
 entry-content: >
    <p>
     Enjoy one of the best phones ever-built, with a slick design, fantastic camera, and a world of beautiful apps. Brought to you by TechHouse, your destination for phone accessories and repairs.
