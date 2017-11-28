@@ -8,22 +8,22 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win an iPhone X with TechHouse"
+title: "Win an iPhone X and unique cover signed by Alice Cooper"
 
-hero-header: "Win an iPhone X with TechHouse"
-competition-description: "An amazing iPhone X is the prize of NME AAA's launch competition. Join us and get a chance to win the most innovative phone in a generation! Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
+hero-header: "Win an iPhone X and unique cover signed by Alice Cooper"
+competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new music lovers' backstage. Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by noone else than the amazing Alice Cooper! Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme_techhouse_terms.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
-banner-img: "techhouse-banner.jpg"
+banner-img: "techhouse-iphone-alice-cooper-banner.jpg"
 
 logo-left-href: "https://www.techhouse.com/"
 logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
-bg-image-hero: "techhouse-header-img.jpg"
+bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
 bg-image-first: "techhouse-first-img.jpg"
 bg-image-second: "techhouse-second-img.jpg"
 
@@ -43,7 +43,7 @@ section2-content: >
 entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with TechHouse
 entry-content: >
    <p>
-    Enjoy one of the best phones ever built, with a slick design, fantastic camera, and a world of beautiful apps. Brought to you by TechHouse, your destination for phone accessories and repairs.
+    Enjoy one of the best phones ever built, and a cover signed by the one and the only Alice Cooper. Brought to you by NME AAA and TechHouse, your destination for phone accessories and repairs.
    </p>
    <p>
     Enter the draw to win an iPhone X by completing the form below before 23:59 on !end-date!.
