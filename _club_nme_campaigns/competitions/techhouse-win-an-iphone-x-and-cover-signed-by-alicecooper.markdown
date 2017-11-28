@@ -24,7 +24,7 @@ logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
-bg-image-first: "techhouse-first-img.jpg"
+bg-image-first: "techhouse-iphone-alice-cooper-banner.jpg"
 bg-image-second: "techhouse-second-img.jpg"
 
 extra-css: ""
@@ -33,6 +33,7 @@ section1-content: >
    <p><strong>iPhone X</strong></p>
    <p>"Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality."</p>
    <p>Say hello to the future.</p>
+   <p>And spicy it up with a unique cover signed by the one and the only <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>.</p>
    
 section2-content: >
    <p>Welcome to TechHouse, the cool and hip younger sibling of the Fonehouse Group. We bring cool gadgets, cutting edge tech and the latest in fashion to high street stores at affordable prices and offer an award winning mobile phone repair service.</p>
