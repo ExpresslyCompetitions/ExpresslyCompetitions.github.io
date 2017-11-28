@@ -24,7 +24,7 @@ logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
-bg-image-first: "techhouse-iphone-alice-cooper-banner.jpg"
+bg-image-first: "techhouse-first-img.jpg"
 bg-image-second: "techhouse-second-img.jpg"
 
 extra-css: ""
