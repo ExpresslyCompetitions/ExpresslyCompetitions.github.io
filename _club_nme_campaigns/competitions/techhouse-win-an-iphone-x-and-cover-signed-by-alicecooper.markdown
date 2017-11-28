@@ -14,7 +14,7 @@ hero-header: "Win an iPhone X and unique cover signed by Alice Cooper"
 competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new music lovers' backstage. Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by noone else than the amazing Alice Cooper! Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
 hero-subheader: ""
 terms-confirmation: >
-   I agree to the competition <a href="../etc/nme_techhouse_terms.pdf"
+   I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
 banner-img: "techhouse-iphone-alice-cooper-banner.jpg"
