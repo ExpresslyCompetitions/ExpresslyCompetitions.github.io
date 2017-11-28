@@ -11,7 +11,7 @@ has_entry_page: true
 title: "Win an iPhone X and unique cover signed by Alice Cooper"
 
 hero-header: "Win an iPhone X and unique cover signed by Alice Cooper"
-competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new music lovers' backstage. Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by noone else than the amazing Alice Cooper! Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
+competition-description: "An amazing iPhone X by Xmas: the special competition prize for the launch of NME AAA, our new music lovers' backstage. <br/> Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by noone else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
@@ -31,7 +31,7 @@ extra-css: ""
 
 section1-content: >
    <p><strong>iPhone X</strong></p>
-   <p>"Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality. Say hello to the future."</p>
+   <p>"Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality."</p>
    <p>Say hello to the future.</p>
    
 section2-content: >
@@ -40,7 +40,7 @@ section2-content: >
      in the 70s.</p>
    <p>Our experts spend their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
    
-entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with TechHouse
+entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X and unique cover signed by Alice Cooper
 entry-content: >
    <p>
     Enjoy one of the best phones ever built, and a cover signed by the one and the only Alice Cooper. Brought to you by NME AAA and TechHouse, your destination for phone accessories and repairs.
