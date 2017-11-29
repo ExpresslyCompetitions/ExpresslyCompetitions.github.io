@@ -1,6 +1,8 @@
 ---
 ---
 
+$font-import-url: "https://fonts.googleapis.com/css?family=Roboto%3A500%7CRoboto%3Anormal%7CRoboto%3A700%7CRoboto%3Aitalic%7CRoboto%3A700italic%7CCabin%3A700%7CCabin%3A500&ver=9056303960094196203";
+
 $colour_primary: #333333;
 $colour_secondary: #ffffff;
 $colour_nav_primary: #ffffff;
@@ -144,13 +146,20 @@ body {
   #brand-navbar {
     a {
       color: $colour_primary;
-      font-weight: 700;
+      font-weight: 500;
     }
 
     .navbar-nav.mr-auto {
       > li {
         position: relative;
         cursor: pointer;
+
+        @media (min-width: $xl) {
+          margin-left: 0;
+          padding: 10px;
+          padding-top: 5px;
+          margin-top: 5px;
+        }
 
         &:after {
           content: '';
