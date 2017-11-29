@@ -32,7 +32,7 @@ extra-css: ""
 
 section1-content: >
    <p><a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary leader of the homonymous rockband, has agreed to endorse our launch campaign.</p>
-   <p>Get an exclusive iPhone X cover signed by the one and only Alice Cooper.</p>
+   <p>Win an exclusive iPhone X cover signed by the one and only Alice Cooper.</p>
    <p>No More Mr. Nice Guy</p>
 
 section2-content: >
