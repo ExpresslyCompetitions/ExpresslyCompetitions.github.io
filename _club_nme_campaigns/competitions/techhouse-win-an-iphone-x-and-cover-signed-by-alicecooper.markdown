@@ -8,10 +8,10 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win an iPhone X and an exclusive cover signed by Alice Cooper"
+title: "Win one iPhone X with exclusive cover signed by Alice Cooper"
 
-hero-header: "Win an iPhone X and an exclusive cover signed by Alice Cooper"
-competition-description: "An amazing iPhone X by Christmas: the special competition prize for the launch of NME AAA, our new music lovers' backstage. <br/> Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
+hero-header: "Win one iPhone X with exclusive cover signed by Alice Cooper"
+competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new music lovers' backstage. <br/> Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores.<br/>Hurry, the winner will be announced by Christmas!"
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
@@ -24,16 +24,15 @@ logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
-bg-image-first: "techhouse-iphone-alice-cooper-banner.jpg"
+bg-image-first: "techhouse-zero-img.jpg"
 bg-image-second: "techhouse-first-img.jpg"
 bg-image-third: "techhouse-second-img.jpg"
 
 extra-css: ""
 
 section1-content: >
-   <p><a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary leader of the homonymous rockband, has agreed to endorse our launch campaign.</p>
+   <p>We are launching NME AAA: our new backstage designed to give you access to exclusive events, offers and competitions! To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a unique phone cover signed by <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary Godfather of Shock Rock.</p>
    <p>Win an exclusive iPhone X cover signed by the one and only Alice Cooper.</p>
-   <p>No More Mr. Nice Guy</p>
 
 section2-content: >
    <p><strong>iPhone X</strong></p>
