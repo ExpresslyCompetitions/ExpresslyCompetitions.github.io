@@ -1,5 +1,5 @@
 ---
-campaign-uuid: "c-c277fbdd-2318-49fe-82cf-cd3636981f39"
+campaign-uuid: "c-66fc7bea-6383-482c-a1d7-247255436178"
 type:           Competition
 category:       Technology
 date:           2017-11-03
@@ -9,7 +9,7 @@ disable-form:   false
 is_promoted:    false
 has_entry_page: true
 
-title: "Win a sim-free iPhone 7 with Metrofone Local"
+title: "Win a sim-free iPhone 7 with Metrofone"
 
 hero-header: "Win an iPhone 7 with Metrofone"
 competition-description: "Welcome to Metrofone the home of some of the best value smartphone deals on the Internet"
