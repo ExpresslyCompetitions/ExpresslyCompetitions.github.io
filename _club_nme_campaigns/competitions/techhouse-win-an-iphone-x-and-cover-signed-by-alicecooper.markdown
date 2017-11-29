@@ -24,19 +24,24 @@ logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
-bg-image-first: "techhouse-first-img.jpg"
-bg-image-second: "techhouse-second-img.jpg"
+bg-image-first: "techhouse-iphone-alice-cooper-banner.jpg"
+bg-image-second: "techhouse-first-img.jpg"
+bg-image-third: "techhouse-second-img.jpg"
 
 extra-css: ""
 
 section1-content: >
+   <p><a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary leader of the homonymous rockband, has agreed to endorse our launch campaign.</p>
+   <p>Get an exclusive iPhone X cover signed by the one and only Alice Cooper.</p>
+   <p>No More Mr. Nice Guy</p>
+
+section2-content: >
    <p><strong>iPhone X</strong></p>
    <p>"Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality."</p>
    <p>Say hello to the future.</p>
-   <p>And spice it up with an exclusive cover signed by the one and only <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>.</p>
    
-section2-content: >
-   <p>Welcome to TechHouse, the cool and hip younger sibling of the Fonehouse Group. We bring cool gadgets, cutting edge tech and the latest in fashion to high street stores at affordable prices and offer an award winning mobile phone repair service.</p>
+section3-content: >
+   <p>Welcome to <a href="https://www.techhouse.com/"><strong>TechHouse</strong></a>, the cool and hip younger sibling of the Fonehouse Group. We bring cool gadgets, cutting edge tech and the latest in fashion to high street stores at affordable prices and offer an award winning mobile phone repair service.</p>
    <p>We are part of a company that has been at the forefront of the mobile industry for 23 years and was originally set up by Clive Bayley, a former member of the prog band Yes, which went on to achieve worldwide success
      in the 70s.</p>
    <p>Our experts spend their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
