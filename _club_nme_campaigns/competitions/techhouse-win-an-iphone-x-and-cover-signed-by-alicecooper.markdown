@@ -28,7 +28,7 @@ bg-image-first: "techhouse-zero-img.jpg"
 bg-image-second: "techhouse-first-img.jpg"
 bg-image-third: "techhouse-second-img.jpg"
 
-extra-css: ""
+extra-css: "techhouse-win-an-iphone-x-cover-signed-by-alicecooper.css"
 
 section1-content: >
    <p>We are launching NME AAA: our new backstage designed to give you access to exclusive events, offers and competitions! To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a unique phone cover signed by <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary Godfather of Shock Rock.</p>
