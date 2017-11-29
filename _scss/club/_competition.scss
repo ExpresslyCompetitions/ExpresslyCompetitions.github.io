@@ -2,21 +2,13 @@ body.competition {
   padding-top: 0;
   .hero {
     display: flex;
-    padding-top: 4rem;
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
-    header {
-      img {
-        padding: 8px;
-        background: white;
-        border-radius: 5px;
-        max-width: 200px;
-      }
-    }
+    padding-top: 2rem;
+    border-top: solid transparent 50px;
 
     .hero-block-wrapper {
       display: flex;
@@ -24,11 +16,11 @@ body.competition {
       justify-content: center;
       align-self: center;
       height: 100%;
+      padding: 1rem;
 
       .hero-block-inner {
         align-self: center;
         margin-top: -90px;
-        margin-bottom: 110px;
         width: 100%;
       }
     }
@@ -43,11 +35,15 @@ body.competition {
       padding: 20px 0;
       color: $color_mako_approx;
 
-      img {
+      .advertiser-logo {
+        margin: 0 auto;
         max-width: 200px;
-        padding: 5px 10px;
-        background: white;
-        border-radius: 5px;
+        img {
+          width: 100%;
+          padding: 5px 10px;
+          background: white;
+          border-radius: 5px;
+        }
       }
 
       h1 {
@@ -165,7 +161,9 @@ body.competition {
 @media (max-width: 767px) {
   body.competition {
     #first-img,
-    #second-img {
+    #second-img,
+    #third-img
+    {
       min-height: 50vw;
     }
   }

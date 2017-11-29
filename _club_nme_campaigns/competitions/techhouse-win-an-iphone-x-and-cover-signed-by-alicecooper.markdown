@@ -28,7 +28,7 @@ bg-image-first: "techhouse-iphone-alice-cooper-banner.jpg"
 bg-image-second: "techhouse-first-img.jpg"
 bg-image-third: "techhouse-second-img.jpg"
 
-extra-css: ""
+extra-css: "techhouse-win-an-iphone-x-cover-signed-by-alicecooper.css"
 
 section1-content: >
    <p><a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary leader of the homonymous rockband, has agreed to endorse our launch campaign.</p>

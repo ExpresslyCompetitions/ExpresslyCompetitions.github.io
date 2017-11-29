@@ -7,21 +7,6 @@ active: selected-competitions
 <section class="hero" style="background-image: url({{page.club_url}}/img/{{page.bg-image-hero}})">
 
     <div class="container">
-        <header class="row">
-
-            <div class="logo-left col-sm-6 text-center text-sm-left mt-3">
-                <a href="{{page.logo-left-href}}">
-                    <img src="{{page.club_url}}/img/{{page.logo-left-image}}" alt="{{page.logo-left-title}}">
-                </a>
-            </div>
-            {% if page.is-demo != true and page.logo-right-image %}
-            <div class="logo-right col-sm-6 text-center text-sm-right mt-3">
-                <a href="{{page.logo-right-href}}">
-                    <img src="{{page.club_url}}/img/{{page.logo-right-image}}" alt="{{page.logo-right-title}}">
-                </a>
-            </div>
-            {% endif %}
-        </header>
 
         <div class="hero-block-wrapper">
             <div class="hero-block-inner">
@@ -61,6 +46,12 @@ active: selected-competitions
         <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{page.club_url}}/img/{{page.bg-image-second}})"></div>
     </section>
 
+    {% if page.section3-content and page.bg-image-third %}
+        <section class="our-work row row-he align-items-center">
+            <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
+            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{page.club_url}}/img/{{page.bg-image-third}})"></div>
+        </section>
+    {% endif %}
 </div>
 
 <hr class="my-5" />
