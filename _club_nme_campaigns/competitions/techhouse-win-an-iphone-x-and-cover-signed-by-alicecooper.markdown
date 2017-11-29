@@ -8,10 +8,10 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win one iPhone X with exclusive cover signed by Alice Cooper"
+title: "Win an iPhone X with cover exclusively signed by Alice Cooper"
 
-hero-header: "Win one iPhone X with exclusive cover signed by Alice Cooper"
-competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new music lovers' backstage. <br/> Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores.<br/>Hurry, the winner will be announced by Christmas!"
+hero-header: "Win an iPhone X with cover exclusively signed by Alice Cooper"
+competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new Access All Areas Backstage for music lovers. <br/> Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores.<br/>Hurry, the winner will be announced by Christmas!"
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
@@ -31,8 +31,8 @@ bg-image-third: "techhouse-second-img.jpg"
 extra-css: "techhouse-win-an-iphone-x-cover-signed-by-alicecooper.css"
 
 section1-content: >
-   <p>We are launching NME AAA: our new backstage designed to give you access to exclusive events, offers and competitions!</p>
-   <p>To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a unique phone cover signed by <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary Godfather of Shock Rock.</p>
+   <p>We are launching NME AAA: our new Access All Areas Backstage, designed to give you access to exclusive events, offers and competitions!</p>
+   <p>To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a phone cover uniquely signed by Alice Cooper, the legendary Godfather of Shock Rock.</p>
    <p>Welcoming you to a whole new world of opportunities.</p>
 
 section2-content: >
@@ -46,10 +46,10 @@ section3-content: >
      in the 70s.</p>
    <p>Our experts spend their time researching the very best in smart phone protection, urban tech-wear, gadgets and add-ons, so you can have the ultimate in functionality and practicality that money can buy. We’re so busy that when we’re not designing our own products, we’re scouring tech fairs all over the world to bring back the next generation of fun, functional, kit.  Whether you’re into adventure, travel, business, music, vlogging or the ultimate family gift.</p>
    
-entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X and an exclusive cover signed by Alice Cooper
+entry-title: Win an unlocked 64GB <span style="text-transform:lowercase">i</span>Phone X with cover exclusively signed by Alice Cooper
 entry-content: >
    <p>
-    Enjoy one of the best phones ever built, and an exclusive cover signed by the one and only Alice Cooper. Brought to you by NME AAA and TechHouse, your destination for phone accessories and repairs.
+    Enjoy one of the best phones ever built, with a cover exclusively signed by the one and only Alice Cooper. Brought to you by NME AAA and TechHouse, your destination for phone accessories and repairs.
    </p>
    <p>
     Enter the draw to win an iPhone X by completing the form below before 23:59 on !end-date!.
