@@ -25,7 +25,7 @@ logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
 bg-image-first: "techhouse-zero-img.jpg"
-bg-image-second: "techhouse-first-img.jpg"
+bg-image-second: "techhouse-iphone-first-img.jpg"
 bg-image-third: "techhouse-second-img.jpg"
 
 extra-css: "techhouse-win-an-iphone-x-cover-signed-by-alicecooper.css"
