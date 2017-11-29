@@ -33,7 +33,7 @@ extra-css: "techhouse-win-an-iphone-x-cover-signed-by-alicecooper.css"
 section1-content: >
    <p>We are launching NME AAA: our new backstage designed to give you access to exclusive events, offers and competitions!</p>
    <p>To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a unique phone cover signed by <a href="http://www.alicecooper.com/"><strong>Alice Cooper</strong></a>, the legendary Godfather of Shock Rock.</p>
-   <p>Win an exclusive iPhone X cover signed by the one and only Alice Cooper.</p>
+   <p>Welcoming you to a whole new world of opportunities.</p>
 
 section2-content: >
    <p><strong>iPhone X</strong></p>
