@@ -50,12 +50,18 @@
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right hide-if-expired">
-                    <div class="show-if-entered">
-                        <span class="h-100"><strong>Entry submitted</strong></span>
-                    </div>
-                    <div class="hide-if-entered">
-                        <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
-                    </div>
+                    {% if include.item.type == 'Competition' %}
+                        <div class="show-if-entered">
+                            <span class="h-100"><strong>Entry submitted</strong></span>
+                        </div>
+                        <div class="hide-if-entered">
+                            <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
+                        </div>
+                    {% else %}
+                        <div>
+                            <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
+                        </div>
+                    {% endif %}
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right show-if-expired">
