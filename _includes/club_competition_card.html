@@ -16,7 +16,7 @@
                     <a href="{{item-url}}" class="hide-if-expired"></a>
                 {% else %}
                     <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
-                    <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" href="#" class="hide-if-expired hide-if-entered"></a>
+                    <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>
                 {% endif %}
                 <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
             </div>
