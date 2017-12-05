@@ -34,6 +34,7 @@ section1-content: >
    <p>We are launching NME AAA: our new Access All Areas Backstage, designed to give you access to exclusive events, offers and competitions!</p>
    <p>To celebrate, we selected this special competition prize: the hard-to-get iPhone X, with a phone cover uniquely signed by Alice Cooper, the legendary Godfather of Shock Rock.</p>
    <p>Welcoming you to a whole new world of opportunities.</p>
+   <p><i>(Picture by Ralph Arvesen)</i></p>
 
 section2-content: >
    <p><strong>iPhone X</strong></p>
