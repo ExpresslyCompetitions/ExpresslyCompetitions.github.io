@@ -17,14 +17,14 @@ terms-confirmation: >
    I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
-banner-img: "techhouse-iphone-alice-cooper-banner.jpg"
+banner-img: "techhouse-iphone-alice-cooper-banner.jpg?cb=1"
 
 logo-left-href: "https://www.techhouse.com/"
 logo-left-image: "techhouse-logo.png"
 logo-left-title: "TechHouse"
 
 bg-image-hero: "techhouse-iphone-alice-cooper-header.png"
-bg-image-first: "techhouse-zero-img.jpg"
+bg-image-first: "techhouse-zero-img.jpg?cb=1"
 bg-image-second: "techhouse-iphone-first-img.jpg"
 bg-image-third: "techhouse-second-img.jpg"
 
