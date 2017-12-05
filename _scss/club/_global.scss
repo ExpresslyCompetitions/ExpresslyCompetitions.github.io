@@ -75,3 +75,9 @@ hr {
     text-decoration: none;
   }
 }
+
+.modal-open {
+  .fixed-top {
+    padding-right: 0 !important;
+  }
+}
