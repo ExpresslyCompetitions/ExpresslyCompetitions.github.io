@@ -29,8 +29,7 @@
     {% endif %}
     <script>
         if (document.location.href.indexOf('https://nme.buyexpressly.com') === 0) {
-            document.location.href = document.location.href.replace('https://nme.buyepressly.com', '{{page.club_url}}');
-            console.log("redirect to " + document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}'));
+            document.location.href = document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}');
         } else {
             var profile = null;
             var entriesMap = {};
