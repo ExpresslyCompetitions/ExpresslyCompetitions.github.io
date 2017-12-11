@@ -60,7 +60,7 @@
         <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
     {% endif %}
 </head>
-<body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}">
+<body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}" data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
@@ -189,7 +189,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"
         integrity="sha256-9Nt2r+tJnSd2A2CRUvnjgsD+ES1ExvjbjBNqidm9doI="
         crossorigin="anonymous"></script>
-<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=28"></script>
+<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=29"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
 
 {% if page.ga-code and page.ga-code != "" %}
@@ -206,7 +206,7 @@
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', '{{page.ga-code}}', 'auto');
+    ga('create', '{{page.ga-code}}',  {'cookieDomain': '{{page.ga-domain}}'});
     ga('send', 'pageview');
 
 </script>
