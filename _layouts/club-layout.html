@@ -28,10 +28,10 @@
     <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
     {% endif %}
     <script>
-//        if (document.location.href.indexOf('https://nme.buyepressly.com') !== 0) {
-            //document.location.href = document.location.href.replace('https://nme.buyepressly.com', '{{page.club_url}}');
-            console.log("redirect to " + document.location.href.replace('https://nme.buyepressly.com', '{{page.club_url}}'));
-//        } else {
+        if (document.location.href.indexOf('https://nme.buyexpressly.com') === 0) {
+            document.location.href = document.location.href.replace('https://nme.buyepressly.com', '{{page.club_url}}');
+            console.log("redirect to " + document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}'));
+        } else {
             var profile = null;
             var entriesMap = {};
             var entriesCount = 0;
@@ -54,7 +54,7 @@
                     e.className += ' competition-entered';
                 }
             }
-//        }
+        }
     </script>
 
     {% if page.icon-url %}
