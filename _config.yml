@@ -44,7 +44,7 @@ clubs:
       campaigns:      "club_nme_campaigns"
       pages:          "club_nme_pages"
       club-name:      "NME AAA"
-      club_url:       "https://nme.buyexpressly.com"
+      club_url:       "https://aaa.nme.com"
 #      club_url:       "/nme/club"
       club-copyright: "&copy; 2017 Expressly Limited"
       club-logo-nav:  "nme-aaa-logo.svg"
