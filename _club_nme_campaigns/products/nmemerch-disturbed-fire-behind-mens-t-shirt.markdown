@@ -5,7 +5,7 @@ category: Music
 date: 2018-01-04
 end-date: 2017-01-31
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 extra-css: ""
 
