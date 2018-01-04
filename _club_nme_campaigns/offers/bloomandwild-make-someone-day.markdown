@@ -3,7 +3,7 @@ campaign-uuid: c-fecabed1-4fc7-4003-98ac-da04efdf0e37
 type: Offer
 category: Gifts
 date: 2017-11-20T23:59:00+0000
-end-date: 2017-01-31T23:59:00+0000
+end-date: 2018-01-31T23:59:00+0000
 disable-form: false
 is_promoted: false
 has_entry_page: false
