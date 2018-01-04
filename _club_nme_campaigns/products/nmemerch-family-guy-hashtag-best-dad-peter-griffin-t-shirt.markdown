@@ -15,7 +15,7 @@ logo-left-image: "nmemerch-logo.jpg"
 
 banner-img: "nmemerch-family_guy_main.jpg"
 hero-header: ""
-competition-description: "Heavy cotton classic fit adult Gildan t-shirt with taped neck and shoulders, pre-shrunk jersey knit and quarter-turned to eliminate creases.<br/>Fabric - 100% Cotton (Heather Grey, 90% cotton 10% polyester) Weight - White 175gsm, Colours 185gsm<br/>Washing Instructions - Machine wash low 30°. Do not bleach. Tumble dry low. Do not iron print area. Do not dry clean."
+competition-description: "Heavy cotton classic fit adult Gildan t-shirt with taped neck and shoulders, pre-shrunk jersey knit and quarter-turned to eliminate creases.<br/>Fabric - 100% Cotton (Heather Grey, 90% cotton 10% polyester) Weight - White 175gsm, Colours 185gsm"
 hero-subheader: ""
 
 title: "Get brilliant Family Guy #bestdad Peter Griffin T-Shirt"
