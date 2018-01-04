@@ -1,7 +1,7 @@
 ---
 campaign-uuid: c-b07d119f-601f-4fa9-93ff-2567d2dac3ad
 type: Product
-category: Music
+category: Fashion
 date: 2018-01-04
 end-date: 2018-01-31
 disable-form: false
@@ -10,7 +10,7 @@ has_entry_page: false
 extra-css: ""
 
 logo-left-title: "NME Merch"
-logo-left-href: "https://nmemerch.com/products/disturbed-fire-behind-mens-t-shirt?variant=26194868613"
+logo-left-href: "https://nmemerch.com/collections/best-selling/products/family-guy-hashtag-t-shirt?variant=26277328069"
 logo-left-image: "nmemerch-logo.jpg"
 
 banner-img: "nmemerch-family_guy_main.jpg"

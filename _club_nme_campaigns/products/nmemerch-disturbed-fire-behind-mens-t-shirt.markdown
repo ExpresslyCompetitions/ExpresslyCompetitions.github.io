@@ -1,7 +1,7 @@
 ---
 campaign-uuid: c-64b50a4b-e1fe-4c4a-9b75-980774ccf326
 type: Product
-category: Music
+category: Fashion
 date: 2018-01-04
 end-date: 2018-01-31
 disable-form: false
