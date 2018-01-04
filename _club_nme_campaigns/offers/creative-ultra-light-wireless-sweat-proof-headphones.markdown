@@ -2,10 +2,10 @@
 campaign-uuid: c-94fe78a3-21f1-4a40-81e6-a25c06ac1669
 type: Offer
 category: Music
-date: 2017-11-20T23:59:00+0000
-end-date: 2017-12-21T23:59:00+0000
+date: 2017-01-03T23:59:00+0000
+end-date: 2017-01-31T23:59:00+0000
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 extra-css: ""
 
