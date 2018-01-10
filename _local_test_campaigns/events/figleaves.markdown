@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-66abf3db-fd87-4c71-8346-7f9d811de218"
-type: "Offer"
+type: "Event"
 category: "Fashion"
 date: "2017-11-08T00:00:00.000Z"
 end-date: "2017-12-20T14:01:01.000Z"
