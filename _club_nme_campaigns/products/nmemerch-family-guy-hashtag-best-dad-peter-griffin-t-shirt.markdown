@@ -2,7 +2,7 @@
 campaign-uuid: c-b07d119f-601f-4fa9-93ff-2567d2dac3ad
 type: Product
 category: Fashion
-date: 2018-01-04
+date: 2017-11-29
 end-date: 2018-01-31
 disable-form: false
 is_promoted: true
