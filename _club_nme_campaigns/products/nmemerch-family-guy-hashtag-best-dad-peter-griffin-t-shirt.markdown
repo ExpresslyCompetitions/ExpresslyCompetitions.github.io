@@ -5,7 +5,7 @@ category: Fashion
 date: 2017-11-29
 end-date: 2018-01-31
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 extra-css: ""
 
