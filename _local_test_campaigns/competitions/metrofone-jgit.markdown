@@ -1,13 +1,13 @@
 ---
-campaign-uuid: "c-20286440-9f4c-41f8-8a86-f4d87c694d3f"
-type: "Offer"
+campaign-uuid: "c-6f797741-7a9e-44ec-a7bd-e4d8265ce401"
+type: "Competition"
 category: "Technology"
 date: "2017-11-03T00:00:00.000Z"
-end-date: "2017-12-01T00:00:00.000Z"
+end-date: "2017-12-20T14:01:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win another sim-free iPhone 7 with Metrofone"
+title: "Win a sim-free iPhone 7 with Metrofone"
 competition-description: "Welcome to Metrofone the home of some of the best value\
   \ smartphone deals on the Internet"
 hero-header: "Win an iPhone 7 with Metrofone"
@@ -50,5 +50,7 @@ entry-content: "<p>\n  Enjoy one of the best phones ever-built, with a slick des
   \ the home of some of the best value smartphone deals on the Internet.\n</p> <p>\n\
   \  Enter the draw to win a sim-free iPhone 7 by completing the form below before\
   \ 23:59 on !end-date!.\n</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "A Tricoli and M Smith won an iPhone 7 with Metrofone"
+winner-banner: "nife-winner.png"
 ---
