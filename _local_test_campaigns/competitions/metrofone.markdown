@@ -9,7 +9,7 @@ disable-form:   false
 is_promoted:    false
 has_entry_page: true
 
-title: "Win a sim-free iPhone 7 with Metrofone"
+title: "WWin a sim-free iPhone 7 with Metrofone"
 
 hero-header: "Win an iPhone 7 with Metrofone"
 competition-description: "Welcome to Metrofone the home of some of the best value smartphone deals on the Internet"
