@@ -8,9 +8,9 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win 2 months of personalised training, worth £250"
+title: "Win 2 months of personalised and adaptive training, with your dedicated professional coach, worth £250"
 
-hero-header: "Win 2 months of personalised and adaptive training, with your dedicated professional coach, worth £250"
+hero-header: "Win 2 months of personalised training, worth £250"
 competition-description: "Make 2018 be the year you take out your WILD side, and get fit. Everyone can do, accessing the best adapting training with WildNow.co, a London-based startup within the latest Entrepreneur First cohort. <br/> The lucky winner will have 2 months of free, personalised and adaptive training, with your dedicated professional coach, worth £250."
 hero-subheader: ""
 terms-confirmation: >
