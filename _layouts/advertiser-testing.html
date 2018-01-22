@@ -110,7 +110,7 @@
     }
 
     var h = document.getElementsByTagName('head')[0];
-    createXlyTag(h, 'merchant', '748f710d-3801-41d2-9235-3c42bf7c6b80');
+    createXlyTag(h, 'merchant', '{{page.merchant-uuid}}');
     createXlyTag(h, 'cemail', 'john.' + new Date().getTime() + '.doe@example.com');
     createXlyTag(h, 'cname', 'John Doe');
     createXlyTag(h, 'caddress1', '46 Berwick Street');
