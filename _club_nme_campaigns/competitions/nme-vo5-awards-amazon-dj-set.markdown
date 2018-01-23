@@ -17,7 +17,7 @@ terms-confirmation: >
    I agree to the competition <a href="../etc/nme-vo5-propaganda-awards-terms-and-conditions.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
-banner-img: "techhouse-iphone-alice-cooper-banner.jpg?cb=2"
+banner-img: "nme-vo5-amazons-ticket-banner.jpg"
 
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-amazons-logo.jpg"
