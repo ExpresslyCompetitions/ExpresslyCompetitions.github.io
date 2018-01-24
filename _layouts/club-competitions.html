@@ -44,12 +44,16 @@ layout: club-layout
     <div id="competition-cards">
         {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
         {% for item in items reversed  %}
-        {% include club_competition_card.html item=item %}
+            {% if page.type == "Preview" or item.type != "Preview" %}
+                {% include club_competition_card.html item=item %}
+            {% endif %}
         {% endfor %}
 
         {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
-        {% include club_competition_card.html item=item %}
+            {% if page.type == "Preview" or item.type != "Preview" %}
+                {% include club_competition_card.html item=item %}
+            {% endif %}
         {% endfor %}
     </div>
 </main>
