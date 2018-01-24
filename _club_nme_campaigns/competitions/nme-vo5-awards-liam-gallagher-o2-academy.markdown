@@ -1,0 +1,50 @@
+---
+campaign-uuid:  c-5009644b-e23d-4753-8b64-3bb02c9b9b71
+type:           Preview
+category:       Tickets
+date:           2018-01-23T00:00:00+0000
+end-date:       2018-02-07T23:59:00+0000
+disable-form:   false
+is_promoted:    true
+has_entry_page: true
+
+title: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy"
+
+hero-header: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy"
+competition-description: "Want to join the marvelous VO5 NME Awards Ceremony on February 14th in London (O2 Academy, Brixton)? The event is sold-out, but a lucky winner will get 2 standing stall tickets thanks to NME AAA, the All Area Access for NME readers. <br />Visit NME AAA for a chance to win by 23.59 on Wed 7th February"
+
+hero-subheader: ""
+terms-confirmation: >
+   I agree to the competition <a href="../etc/nme-vo5-awards-ceremony-terms-and-conditions.pdf"
+   target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
+
+banner-img: "nme-awards-liam-gallagher-banner.jpg"
+
+logo-left-href: "https://awards.nme.com/"
+logo-left-image: "nme-awards-logo-2018-2.png"
+logo-left-title: "NME VO5 Awards"
+
+bg-image-hero: "nme-awards-liam-gallagher-hero.jpg"
+bg-image-first: "nme-awards-liam-gallagher-banner.jpg"
+bg-image-second: "nme-awards-banner2.png"
+bg-image-third: 
+
+extra-css: ""
+
+section1-content: >
+   <p> Held at London’s iconic O2 Academy in Brixton on February 14, the VO5 NME Awards 2018 will celebrate the best music of the past year. </p>
+   <p> Among the many winners and performances on the night, Liam Gallagher will be closing the ceremony as this year’s recipient of the coveted Godlike Genius Award.</p>
+
+section2-content: >
+   <p> Liam will be joining previous winners of the Godlike Genius Award, including The Cure, Manic Street Preachers, Coldplay, Paul Weller, Dave Grohl, Johnny Marr and many more.</p>
+   <p> And remember, you can still vote here: https://awards.nme.com/ (and get another chance to come to the ceremony on us!) </p>
+
+section3-content: >
+      
+entry-title: Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy
+entry-content: >
+   <p> Join the VO5 NME Awards Ceremony Awards with NME AAA.</p>
+   <p> Enter the draw to win 2x tickets by completing the form below before 11.59pm on 24/01/2018. </p>
+
+---
+
