@@ -2,7 +2,7 @@
 layout: club-layout
 ---
 {% if page.type %}{% assign campaigns = site[page.campaigns] | where:"type",page.type %}
-{% else %}{% assign campaigns = site[page.campaigns] %}
+{% else %}{% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
 {% endif %}
 <main role="main" class="container">
     <div class="row header">
@@ -44,16 +44,12 @@ layout: club-layout
     <div id="competition-cards">
         {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
         {% for item in items reversed  %}
-            {% if page.type == "Preview" or item.type != "Preview" %}
-                {% include club_competition_card.html item=item %}
-            {% endif %}
+            {% include club_competition_card.html item=item %}
         {% endfor %}
 
         {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
-            {% if page.type == "Preview" or item.type != "Preview" %}
-                {% include club_competition_card.html item=item %}
-            {% endif %}
+            {% include club_competition_card.html item=item %}
         {% endfor %}
     </div>
 </main>
