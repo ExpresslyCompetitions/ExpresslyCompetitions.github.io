@@ -11,7 +11,7 @@ has_entry_page: true
 title: "Win an iPhone X with cover exclusively signed by Alice Cooper"
 
 hero-header: "Win an iPhone X with cover exclusively signed by Alice Cooper"
-competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new Access All Areas Backstage for music lovers. Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores.<br/>Hurry, the winner will be announced by Christmas!"
+competition-description: "An amazing iPhone X: the special competition prize for the launch of NME AAA, our new Access All Areas Backstage for music lovers. Join us and get a chance to win the most innovative phone in a generation! And get an exclusive cover signed by no one else than the amazing Alice Cooper! <br/> Presented by TechHouse, the cooler, younger, hipper, sibling of Fonehouse Group, bringing cutting edge tech, cool gadgets and the latest in fashion to your high street stores."
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition <a href="../etc/nme-techhouse-terms-and-conditions.pdf"
@@ -55,5 +55,10 @@ entry-content: >
    <p>
     Enter the draw to win an iPhone X by completing the form below before 23:59 on !end-date!.
    </p>
+   
+has-winner: true
+winner-name: Gabriel S.
+winner-title: Congratulations to Gabriel S. of London who won the iPhone X with cover exclusively signed by Alice Cooper
+winner-banner: techhouse-winner-img.jpg
 ---
 
