@@ -8,9 +8,9 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy"
+title: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards Ceremony"
 
-hero-header: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy"
+hero-header: "Win 2x tickets to Liam Gallagher at the VO5 NME Awards Ceremony"
 competition-description: "Want to join the marvelous VO5 NME Awards Ceremony on February 14th in London (O2 Academy, Brixton)? The event is sold-out, but a lucky winner will get 2 standing stall tickets thanks to NME AAA, the All Area Access for NME readers. <br />Visit NME AAA for a chance to win by 23.59 on Wed 7th February"
 
 hero-subheader: ""
@@ -41,7 +41,7 @@ section2-content: >
 
 section3-content: >
       
-entry-title: Win 2x tickets to Liam Gallagher at the VO5 NME Awards at the O2 Academy
+entry-title: Win 2x tickets to Liam Gallagher at the VO5 NME Awards Ceremony
 entry-content: >
    <p> Join the VO5 NME Awards Ceremony Awards with NME AAA.</p>
    <p> Enter the draw to win 2x tickets by completing the form below before 11.59pm on 24/01/2018. </p>
