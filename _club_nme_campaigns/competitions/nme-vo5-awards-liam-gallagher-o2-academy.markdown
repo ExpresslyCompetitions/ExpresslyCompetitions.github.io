@@ -24,7 +24,7 @@ logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-awards-logo-2018-2.png"
 logo-left-title: "NME VO5 Awards"
 
-bg-image-hero: "nme-awards-liam-gallagher-hero.jpg"
+bg-image-hero: "nme-awards-liam-gallagher-hero2.jpg"
 bg-image-first: "nme-awards-page1.jpg"
 bg-image-second: "nme-awards-page2.jpg"
 bg-image-third: 
