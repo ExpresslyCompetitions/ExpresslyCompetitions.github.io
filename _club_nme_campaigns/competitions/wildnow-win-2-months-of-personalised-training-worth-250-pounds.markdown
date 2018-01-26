@@ -2,15 +2,15 @@
 campaign-uuid:  c-febae1f8-204c-4dca-834f-7cb80f01ec02
 type:           Preview
 category:       Technology
-date:           2018-01-22
+date:           2018-01-25
 end-date:       2018-02-23
 disable-form:   false
-is_promoted:    true
+is_promoted:    false
 has_entry_page: true
 
 title: "Win 2 months of personalised and adaptive training, with a dedicated professional coach, worth £250"
 
-hero-header: "Win 2 months of personalised training, worth £250"
+hero-header: "Win 2 months of personalised and adaptive training with Wild Now"
 competition-description: "Make 2018 be the year you take out your WILD side, and get fit. Everyone can do it, accessing the best adapting training with WildNow.co, a London-based startup within the latest Entrepreneur First cohort. <br/> The lucky winner will have 2 months of free, personalised and adaptive training, with a dedicated professional coach, worth £250."
 hero-subheader: ""
 terms-confirmation: >
