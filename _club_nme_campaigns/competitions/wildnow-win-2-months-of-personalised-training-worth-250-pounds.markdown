@@ -5,7 +5,7 @@ category:       Technology
 date:           2018-01-25
 end-date:       2018-02-23
 disable-form:   false
-is_promoted:    false
+is_promoted:    true
 has_entry_page: true
 
 title: "Win 2 months of personalised and adaptive training, with a dedicated professional coach, worth £250"
