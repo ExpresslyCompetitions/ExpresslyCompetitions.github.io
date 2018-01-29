@@ -3,8 +3,8 @@ layout: club-layout
 body-class: "competition"
 active: selected-competitions
 ---
-
-<section class="hero" style="background-image: url({{page.club_url}}/img/{{page.bg-image-hero}})">
+{% include club_base_url.html %}
+<section class="hero" style="background-image: url({{club_base}}/img/{{page.bg-image-hero}})">
 
     <div class="container">
 
@@ -12,7 +12,7 @@ active: selected-competitions
             <div class="hero-block-inner">
                 <div class="hero-block hero-block-header text-center px-3 my-3">
                     <h1>{{page.hero-header}}</h1>
-                    <div class="advertiser-logo"><img src="{{page.club_url}}/img/{{page.logo-left-image}}" /></div>
+                    <div class="advertiser-logo"><img src="{{club_base}}/img/{{page.logo-left-image}}" /></div>
                 </div>
                 <div class="hero-block hero-block-sub text-center mb-3 px-3">
                     {% if page.hero-subheader and page.hero-subheader != '' %}
@@ -38,18 +38,18 @@ active: selected-competitions
 <div class="container-fluid">
     <section class="our-work row row-he align-items-center">
         <div class="col-md-6 content p-4 text-justify">{{page.section1-content}}</div>
-        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{page.club_url}}/img/{{page.bg-image-first}})"></div>
+        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{club_base}}/img/{{page.bg-image-first}})"></div>
     </section>
 
     <section class="quality row row-he align-items-center">
         <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
-        <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{page.club_url}}/img/{{page.bg-image-second}})"></div>
+        <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{club_base}}/img/{{page.bg-image-second}})"></div>
     </section>
 
     {% if page.section3-content and page.bg-image-third %}
         <section class="our-work row row-he align-items-center">
             <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
-            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{page.club_url}}/img/{{page.bg-image-third}})"></div>
+            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{club_base}}/img/{{page.bg-image-third}})"></div>
         </section>
     {% endif %}
 </div>
@@ -106,7 +106,7 @@ active: selected-competitions
                 </p>
                 <div class="competition-banner mt-4">
                     <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
-                        <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{page.banner-img}})"></div>
+                        <div class="advertiser-banner rounded" style="background-image: url({{club_base}}/img/{{page.banner-img}})"></div>
                     </a>
                 </div>
             </div>
