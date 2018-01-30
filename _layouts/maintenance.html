@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%;">
+<head>
+    <link rel='dns-prefetch' href='//prod.expresslyapp.com' />
+    <link rel='dns-prefetch' href='//assets01.buyexpressly.com' />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel="preconnect" href="https://prod.expresslyapp.com">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>
+        Down for maintenance
+    </title>
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    {% if page.css %}
+    <link rel="stylesheet" href="{{page.club_url}}/css/{{page.css}}?cb=14"/>
+    {% else %}
+    <link rel="stylesheet" href="{{page.club_url}}/css/style.css?cb=58"/>
+    {% endif %}
+    {% if page.extra-css and page.extra-css != "" %}
+    <link rel="stylesheet" href="{{page.club_url}}/css/{{page.extra-css}}?cb=1"/>
+    {% endif %}
+    <script>
+        if (document.location.href.indexOf('https://nme.buyexpressly.com') === 0) {
+            document.location.href = document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}');
+        } else {
+            var profile = null;
+            var entriesMap = {};
+            var entriesCount = 0;
+            var signedIn = false;
+            if (typeof(Storage) !== "undefined" && localStorage.getItem("profile.{{page.merchant-uuid}}")) {
+                profile = JSON.parse(localStorage.getItem("profile.{{page.merchant-uuid}}"));
+                signedIn = !!localStorage.getItem("signedIn.{{page.merchant-uuid}}");
+                if (localStorage.getItem("entries.{{page.merchant-uuid}}")) {
+                    var entries = JSON.parse(localStorage.getItem("entries.{{page.merchant-uuid}}"));
+                    entriesCount = entries.length;
+                    for (var i = 0; i < entriesCount; ++i) {
+                        entriesMap[entries[i]['campaignUuid']] = entries[i];
+                    }
+                }
+            }
+
+            function entrySet(id, cuid) {
+                var e = document.getElementById(id);
+                if (e && entriesMap[cuid]) {
+                    e.className += ' competition-entered';
+                }
+            }
+        }
+    </script>
+
+    {% if page.icon-url %}
+    <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
+    {% endif %}
+
+    <style type="text/css">
+        .navbar-brand img {
+            max-width: 150px;
+            height: auto;
+            background: #fafafa;
+            padding: 10px;
+            border-radius: 7px;
+            box-sizing: content-box;
+        }
+    </style>
+</head>
+<body class="h-100 d-flex align-self-center justify-content-center" data-muid="{{page.merchant-uuid}}" data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
+
+
+<section class="align-self-center">
+    <div class="container">
+        <div class="row mb-4 mt-4">
+            <div class="col text-center justify-content-center">
+                <a class="navbar-brand" href="{{page.club_url}}">
+                    <img src="{{page.club_url}}/img/{{page.club-logo-nav}}" alt="{{page.club-name}}" class="navbar-logo" />
+                </a>
+                <h1>Sorry, we're down for maintenance.</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <p class="text-center">
+                    We'll be back shortly.<br/>
+                    Visit <a href="{{page.company-url}}">{{page.company-name}}</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-9 mb-sm-1">
+                <div class="text-center text-md-left small">
+
+                </div>
+            </div>
+            <div class="col-12 col-md-3">
+                <div class="copyright-text text-center text-md-right small py-0">
+                    {% if page.is-demo == true %}
+                    This is a demo -  Powered by Expressly Competitions
+                    {% else %}
+                    {{page.club-copyright}}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"
+        integrity="sha256-zG8v+NWiZxmjNi+CvUYnZwKtHzFtdO8cAKUIdB8+U9I="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"
+        integrity="sha256-9Nt2r+tJnSd2A2CRUvnjgsD+ES1ExvjbjBNqidm9doI="
+        crossorigin="anonymous"></script>
+<script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=30"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
+
+{% if page.ga-code and page.ga-code != "" %}
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', '{{page.ga-code}}',  {'cookieDomain': '{{page.ga-domain}}'});
+    ga('send', 'pageview');
+
+</script>
+{% endif %}
+<script>
+    var isIos = /(iPad|iPhone|iPod)/g.test( navigator.userAgent );
+    if (isIos) {
+        document.body.className += ' is-ios';
+    }
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#000"
+                },
+                "button": {
+                    "background": "#f1d600"
+                }
+            },
+            "theme": "classic",
+            "content": {
+                "link": "More Info",
+                "href": "{{page.club_url}}/privacy"
+            }
+        })});
+</script>
+
+</body>
+</html>
