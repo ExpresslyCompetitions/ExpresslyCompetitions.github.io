@@ -27,7 +27,7 @@
             <p class="text-muted small">Posted {{ include.item.date | date: '%B %d, %Y' }} <span class="category float-right">{{include.item.category}}</span></p>
             {% assign card-title = include.item.title %}
             {% if include.is-winner-card and include.item.winner-title %}{% assign card-title = include.item.winner-title %}{% endif %}
-            <h6><strong>{{ card-title }} base:{{club_base}}:</strong></h6>
+            <h6><strong>{{ card-title }}</strong></h6>
             <div class="competition-card--description small"><p>{{ include.item.competition-description }}</p></div>
             <div class="row justify-content-start align-items-center competition-card--footer">
                 <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1 hide-if-expired">
