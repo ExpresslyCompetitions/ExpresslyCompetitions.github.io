@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-6f797741-7a9e-44ec-a7bd-e4d8265ce401"
-type: "Competition"
+type: "Event"
 category: "Technology"
 date: "2017-11-03T00:00:00.000Z"
 end-date: "2017-12-20T14:01:00.000Z"
@@ -8,8 +8,8 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Basic Editor"
-competition-description: "Welcome to Metrofone the home of some of the best value\
-  \ smartphone deals on the Internet"
+competition-description: "Welcome to Basic the home of some of the best value smartphone\
+  \ deals on the Internet"
 hero-header: "Win an iPhone 7 with Metrofone"
 hero-subheader: "Sub-title"
 terms-confirmation: "I agree to the competition <a href=\"../etc/nme_metrofone_terms.pdf\"\
