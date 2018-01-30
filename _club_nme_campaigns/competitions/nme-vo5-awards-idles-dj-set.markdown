@@ -17,7 +17,7 @@ terms-confirmation: >
    I agree to the competition <a href="../etc/nme-vo5-awards-idles-dj-set-terms-and-conditions.pdf"
    target="_blank">Terms &amp; Conditions</a> and to create an account with NME AAA.
 
-banner-img: "resized-idles-1.jpg"
+banner-img: "resized-idles-1.png"
 
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-amazons-logo.jpg"
@@ -26,7 +26,7 @@ logo-left-title: "NME VO5"
 bg-image-hero: "resized-idles-press-shoot.jpg"
 bg-image-first: "resized-idles-2.jpg"
 bg-image-second: "nme-resized-henrycalvert-img2.jpg"
-bg-image-third: "resized-idles-1.jpg"
+bg-image-third: "resized-idles-1.png"
 
 extra-css: ""
 
