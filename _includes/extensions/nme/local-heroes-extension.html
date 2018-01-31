@@ -1,0 +1,50 @@
+<div class="form-group row">
+    <label for="{{form_input_id_prefix}}meta-lh-trade" class="col-sm-3 col-form-label">Trade</label>
+    <div class="col-sm-9">
+        <select class="form-control" name="meta-lh-trade" id="{{form_input_id_prefix}}meta-lh-trade" placeholder="Choose a trade..." required>
+            <option value="" disabled="disabled" selected="selected">Choose a trade…</option>
+            <option value="1">Plumber</option>
+            <option value="2">Heating Engineer</option>
+            <option value="3">Drainage Engineer</option>
+            <option value="4">Electrician</option>
+            <option value="5">Handyman</option>
+            <option value="6">Painter &amp; Decorator</option>
+            <option value="8">Plasterer</option>
+            <option value="9">Tiler</option>
+            <option value="10">Locksmith</option>
+        </select>
+
+        <div class="invalid-feedback">
+            <i id="{{form_input_id_prefix}}invalid-feedback--meta-lh-trade" class="fa fa-exclamation-circle"
+               aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Please select a trade"></i>
+        </div>
+    </div>
+</div>
+<div class="form-group row">
+    <label for="{{form_input_id_prefix}}meta-lh-item" class="col-sm-3 col-form-label">Item</label>
+    <div class="col-sm-9">
+        <select class="form-control" name="meta-lh-item" id="{{form_input_id_prefix}}meta-lh-item" placeholder="Need help with..." required>
+            <option value="" disabled="disabled" selected="selected">Need help with…</option>
+            <option value="11">Dummy Value</option>
+        </select>
+
+        <div class="invalid-feedback">
+            <i id="{{form_input_id_prefix}}invalid-feedback--meta-lh-item" class="fa fa-exclamation-circle"
+               aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Please select what you need help with"></i>
+        </div>
+    </div>
+</div>
+<div class="form-group row">
+    <label for="{{form_input_id_prefix}}meta-lh-issue" class="col-sm-3 col-form-label">Issue</label>
+    <div class="col-sm-9">
+        <select class="form-control" name="meta-lh-issue" id="{{form_input_id_prefix}}meta-lh-issue" placeholder="That's..." required>
+            <option value="" disabled="disabled" selected="selected">That's…</option>
+            <option value="111">Dummy Value</option>
+        </select>
+
+        <div class="invalid-feedback">
+            <i id="{{form_input_id_prefix}}invalid-feedback--meta-lh-issue" class="fa fa-exclamation-circle"
+               aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Please select a specific issue"></i>
+        </div>
+    </div>
+</div>
