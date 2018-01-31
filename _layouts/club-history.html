@@ -2,6 +2,7 @@
 layout: club-layout
 title: My History
 ---
+{% include club_base_url.html %}
 <div class="container logged-out-only">
     <h4 class="mb-4"><strong>My History</strong></h4>
     <h6><a href="#" data-toggle="modal" data-target="#modal--login">Please sign in</a></h6>
@@ -40,7 +41,7 @@ title: My History
                 </h4>
                 <p>and get exclusive offers and prizes on our Club page</p>
                 <div class="buttons">
-                    <a class="btn btn-primary h-100 text-uppercase" href="{{page.club_url}}">Take me to offers</a>
+                    <a class="btn btn-primary h-100 text-uppercase" href="{{club_base}}">Take me to offers</a>
                 </div>
             </div>
 
@@ -49,7 +50,7 @@ title: My History
                 <h4 class="text-center">
                     <strong>Nice work!</strong>
                 </h4>
-                <p>More chances to win and get great offers <a href="{{page.club_url}}">here</a></p>
+                <p>More chances to win and get great offers <a href="{{club_base}}">here</a></p>
             </div>
         </div>
 

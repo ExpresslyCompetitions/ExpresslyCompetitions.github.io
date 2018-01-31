@@ -1,0 +1,10 @@
+{% assign club_base = '' %}
+{% assign depth = page.url | replace: page.club_dir, '' | split: '/' | size | minus: 1 %}
+{% if    depth <= 1 %}{% assign club_base = '.' %}
+{% elsif depth == 2 %}{% assign club_base = '..' %}
+{% elsif depth == 3 %}{% assign club_base = '../..' %}
+{% elsif depth == 4 %}{% assign club_base = '../../..' %}
+{% elsif depth == 5 %}{% assign club_base = '../../../..' %}
+{% elsif depth == 6 %}{% assign club_base = '../../../../..' %}
+{% elsif depth == 7 %}{% assign club_base = '../../../../../..' %}
+{% endif %}

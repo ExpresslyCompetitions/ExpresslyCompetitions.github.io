@@ -1,6 +1,7 @@
+{% include club_base_url.html %}
 <div class="history-card" data-expiration="{{ include.item.end-date | date_to_xmlschema }}">
     <div class="history-card--banner">
-        <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{include.item.banner-img}})"></div>
+        <div class="advertiser-banner rounded" style="background-image: url({{club_base}}/img/{{include.item.banner-img}})"></div>
     </div>
     <div class="history-card--content p-2 text-center">
         <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}</p>
@@ -15,7 +16,7 @@
         </div>
         <div class="advertiser-logo">
             <div>
-                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}" style="background-image: url({{page.club_url}}/img/{{include.item.logo-left-image}})">&nbsp;</a>
+                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}" style="background-image: url({{club_base}}/img/{{include.item.logo-left-image}})">&nbsp;</a>
             </div>
         </div>
     </div>

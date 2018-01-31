@@ -1,5 +1,6 @@
+{% include club_base_url.html %}
 {% assign item-path-prefix = (item.collection | prepend: "_") %}
-{% assign item-url = (item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, page.club_url) %}
+{% assign item-url = (item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, club_base) %}
 <div class="competition-card {% if include.item.is_promoted %}promoted{% endif %}" id="eid-{{include.item.campaign-uuid}}"
      data-competition-toggle="{{include.item.campaign-uuid}}"
      data-posted="{{ include.item.date | date: '%Y%m%d' }}"
@@ -11,7 +12,7 @@
         <div class="col-md-5 col-lg-4 competition-card--banner">
             {% assign banner-img = include.item.banner-img %}
             {% if include.is-winner-card and include.item.winner-banner %}{% assign banner-img = include.item.winner-banner %}{% endif %}
-            <div class="advertiser-banner rounded" style="background-image: url({{page.club_url}}/img/{{banner-img}})">
+            <div class="advertiser-banner rounded" style="background-image: url({{club_base}}/img/{{banner-img}})">
                 {% if include.item.has_entry_page %}
                     <a href="{{item-url}}" class="hide-if-expired"></a>
                 {% else %}
