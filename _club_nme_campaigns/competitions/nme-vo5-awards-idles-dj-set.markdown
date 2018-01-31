@@ -47,7 +47,7 @@ section3-content: >
    
 entry-title: Win 2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda this Saturday
 entry-content: >
-   <p> Dance along to some banging tunes this Saturday, courtesy of the Idles at The Fleece in Bristol, as part of our VO5 NME Awards Road Trip with Propaganda. </p>
+   <p> Dance along to some banging tunes this Saturday, courtesy of Idles at The Fleece in Bristol, as part of our VO5 NME Awards Road Trip with Propaganda. </p>
    <p> Enter the draw to win tickets to the DJ Set by completing the form below before 11.59pm on 01/02/2018. </p>
 
 ---
