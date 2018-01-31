@@ -1,5 +1,5 @@
 ---
-campaign-uuid:  
+campaign-uuid:  c-89232165-f51a-4e9d-a55a-1aa23869ef4d
 type:           Preview
 category:       Tickets
 date:           2018-02-02T00:00:00+0000
