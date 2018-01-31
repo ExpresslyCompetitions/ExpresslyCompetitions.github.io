@@ -8,9 +8,9 @@ disable-form:   false
 is_promoted:    true
 has_entry_page: true
 
-title: "Win 2 tickets to The Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda"
+title: "Win 2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda"
 
-hero-header: "Win 2 tickets to The Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda"
+hero-header: "Win 2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda"
 competition-description: "Weekend plans? We're giving away 3 pairs of tickets to the Idles' DJ Set this Saturday, as part of our epic NME Awards Road Trip with Propaganda, and you won't want to miss it. <br/> Idles will be playing a special DJ Set at The Fleece in their hometown Bristol and it's guaranteed to be huge. <br/> Hurry – competition closes on Thursday 1 February at 23:59."
 hero-subheader: ""
 terms-confirmation: >
