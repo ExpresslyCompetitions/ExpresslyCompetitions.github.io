@@ -50,5 +50,8 @@ entry-content: >
    <p> Dance along to some banging tunes, courtesy of The Amazons, this Friday at Fez Club in Cambridge as part of our VO5 NME Awards Road Trip with Propaganda.</p>
    <p> Enter the draw to win 2x tickets to the DJ Set by completing the form below before 11.59pm on 24/01/2018. </p>
 
+has-winner: true
+winner-name: Saffron L. & Ashley A.
+winner-title: Congratulations to Saffron L. (Luton) & Ashley A. (London) who won the tickets to The Amazons' DJ set
+winner-banner: nme-vo5-amazons-ticket-banner2.jpg
 ---
-
