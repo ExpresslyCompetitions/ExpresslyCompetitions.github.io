@@ -7,7 +7,7 @@ end-date: "2018-02-15T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win localheroes.com"
+title: "Win &pound500 for home improvements with Local Heroes"
 competition-description: "Win localheroes.com Win localheroes.com Win localheroes.com\
   \ Win localheroes.com Win localheroes.com <br />Visit NME AAA for a chance to win\
   \ by 23.59 on Wed 7th February"
@@ -35,5 +35,6 @@ section2-content: "<p> Local Heroes is a separate business unit that has been se
 entry-title: "Win localheroes.com"
 entry-content: "<p> Win localheroes.com</p> <p> Enter the draw to win localheroes\
   \ by completing the form below before 11.59pm on 24/01/2018. FORM BELOW</p>"
+entry-extension: "nme/local-heroes-extension.html"
 has-winner: false
 ---
