@@ -1,6 +1,6 @@
 ---
 campaign-uuid:  c-febae1f8-204c-4dca-834f-7cb80f01ec02
-type:           Preview
+type:           Competition
 category:       Technology
 date:           2018-01-25
 end-date:       2018-02-23
