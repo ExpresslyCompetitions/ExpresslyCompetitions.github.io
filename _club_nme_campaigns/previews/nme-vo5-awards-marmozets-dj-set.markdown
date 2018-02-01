@@ -2,7 +2,7 @@
 campaign-uuid: "c-40331281-cbe2-4bff-9197-b17eb3662357"
 type: "Preview"
 category: "Tickets"
-date: "2018-02-01T17:38:43.347Z"
+date: "2018-02-01T17:38:43.000Z"
 end-date: "2018-02-08T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -35,8 +35,7 @@ section2-content: "<p>Wanna bag some tix? Course you do.</p>\r\n<p>Marmozets are
   \ out.</p> \r\n<p> If you're a Marmozets fan, or just fancy a night out on the tiles,\
   \ get yourself and a mate to complete the form below, but hurry – the competition\
   \ closes on Thursday 8th February at 23:59. Over 18s only. Winners will be contacted\
-  \ via email on Friday 9th February to confirm attendance. Full terms and conditions\
-  \ can be found here https://www.timeincuk.com/standard-competition-terms/ </p>"
+  \ via email on Friday 9th February to confirm attendance. </p>"
 entry-title: "Win 2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
 entry-content: "<p>Grab your dancing shoes people. Win one of 6 pairs of tickets to\
