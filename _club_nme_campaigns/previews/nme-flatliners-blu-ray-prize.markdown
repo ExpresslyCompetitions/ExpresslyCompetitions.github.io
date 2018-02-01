@@ -26,7 +26,7 @@ bg-image-first: "nme-flatliners-blu-ray-1.jpg"
 bg-image-second: "nme-flatliners-blu-ray-2.jpg"
 bg-image-third: "nme-flatliners-blu-ray-banner.jpg"
 section1-content: "<p>To celebrate the Blu-ray™ and DVD release of Flatliners we've\
-  \ got our hands on 5 Blu-ray™ copies for you lucky NME peeps to win</p>\r\n <p>\
+  \ got our hands on 5 Blu-ray™ copies for you lucky NME peeps to win.</p>\r\n <p>\
   \ Starring Academy Award® nominee Ellen Page (Best Actress, Juno, 2007), Diego Luna\
   \ (Rogue One) and Nina Dobrev (“The Vampire Diaries”) this contemporary take on\
   \ a 90’s cult classic follows five medical students as they embark on a dangerous\
@@ -34,7 +34,7 @@ section1-content: "<p>To celebrate the Blu-ray™ and DVD release of Flatliners 
 section2-content: "<p>Packed full of exclusive bonus content including two behind-the-scenes\
   \ featurettes, plus extended and deleted scenes, this Flatliners Blu-ray™ release\
   \ from Sony Pictures Home Entertainment is perfect for kicking off a post-payday\
-  \ weekend horrorthon</p>\r\n <p>Oh, and did we mention that original 90s Flatliner\
+  \ weekend horrorthon.</p>\r\n <p>Oh, and did we mention that original 90s Flatliner\
   \ Kiefer Sutherland also stars? Errr, amazing?</p>"
 section3-content: "<p>For your chance to win this super cool, supernatural thriller\
   \ simply enter your deets below.</p>\r\n <p>Good luck!</p>"
