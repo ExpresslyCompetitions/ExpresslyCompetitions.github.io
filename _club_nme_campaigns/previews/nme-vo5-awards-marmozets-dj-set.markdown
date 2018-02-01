@@ -19,7 +19,7 @@ terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-
   \ AAA."
 banner-img: "nme-vo5-awards-marmozets-banner.jpg"
 logo-left-href: "https://awards.nme.com/"
-logo-left-image: "nme-vo5-awards-marmozets-logo.jpg"
+logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"
 logo-left-title: "NME VO5"
 bg-image-hero: "nme-vo5-awards-marmozets-hero.jpg"
 bg-image-first: "nme-vo5-awards-marmozets-1.jpg"
