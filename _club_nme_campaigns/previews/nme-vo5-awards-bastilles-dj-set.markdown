@@ -2,7 +2,7 @@
 campaign-uuid: "c-da9b3ff5-f667-47e6-acd1-e4d5c2dae22e"
 type: "Preview"
 category: "Tickets"
-date: "2018-02-01T20:09:00.031Z"
+date: "2018-02-01T20:09:00.000Z"
 end-date: "2018-02-08T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -41,7 +41,7 @@ section3-content: "<p>Bastille's Woody joins the long list of special guests tak
   \ 9th February to confirm attendance. </p>"
 entry-title: "Win 2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
-entry-content: "<p>Listen up Bastille fand.. Win one of 14 pairs of tickets to Woody's\
+entry-content: "<p>Listen up Bastille fans.. Win one of 14 pairs of tickets to Woody's\
   \ DJ Set on Saturday 10th February, as part of our epic NME Awards Road Trip with\
   \ Propaganda.<p> Enter the draw by completing the form below before 11.59pm on 08/02/2018.\
   \ </p>"
