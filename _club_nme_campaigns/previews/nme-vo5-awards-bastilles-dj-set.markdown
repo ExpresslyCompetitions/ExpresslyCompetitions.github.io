@@ -34,11 +34,11 @@ section1-content: "<p>How to sass up your weekend in one easy step? Read on.</p>
 section2-content: "<p>Wanna bag some tix? Course you do.</p>"
 section3-content: "<p>Bastille's Woody joins the long list of special guests taking\
   \ over The VO5 NME Awards Road Trip, which has been touring the country to bring\
-  \ all you NME lovlies you a series of whopper nights out.</p> \r\n<p> If you're\
-  \ a Bastille fan, or just fancy a night out on the tiles, get yourself and a mate\
-  \ to complete the form below, but hurry – the competition closes on Thursday 8th\
-  \ February at 23:59. Over 18s only. Winners will be contacted via email on Friday\
-  \ 9th February to confirm attendance. </p>"
+  \ all you NME lovelies a series of whopper nights out.</p> \r\n<p> If you're a Bastille\
+  \ fan, or just fancy a night out on the tiles, get yourself and a mate to complete\
+  \ the form below, but hurry – the competition closes on Thursday 8th February at\
+  \ 23:59. Over 18s only. Winners will be contacted via email on Friday 9th February\
+  \ to confirm attendance. </p>"
 entry-title: "Win 2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
 entry-content: "<p>Listen up Bastille fans.. Win one of 14 pairs of tickets to Woody's\
