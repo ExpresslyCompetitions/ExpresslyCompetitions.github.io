@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-01-15T00:00:00.000Z"
 end-date: "2018-02-28T00:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Get official Alice Cooper Vintage Poster Men's Tee"
 competition-description: "This vintage poster design from Alice Cooper's 1979 Madhouse\
