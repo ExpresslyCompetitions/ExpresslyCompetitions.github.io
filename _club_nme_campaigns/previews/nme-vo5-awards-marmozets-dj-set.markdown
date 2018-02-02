@@ -31,7 +31,7 @@ section1-content: "<p>Things are about to get LIT this weekend...</p>\r\n <p> We
   \ a serious rug while these Brit-rockers soundtrack your night. </p>"
 section2-content: "<p>Wanna bag some tix? Course you do.</p>\r\n<p>Marmozets are just\
   \ some of the special guests taking over The VO5 NME Awards Road Trip, which has\
-  \ been touring the country to bring all you NME lovlies you a series of banger nights\
+  \ been touring the country to bring all you NME lovelies a series of banger nights\
   \ out.</p> \r\n<p> If you're a Marmozets fan, or just fancy a night out on the tiles,\
   \ get yourself and a mate to complete the form below, but hurry – the competition\
   \ closes on Thursday 8th February at 23:59. Over 18s only. Winners will be contacted\
