@@ -17,30 +17,28 @@ competition-description: "Want to inject some excitement into your weekend? We'r
   \ January."
 hero-header: "Win 2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
-hero-subheader: ""
 terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-amazon-dj-set-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
-  \ AAA.\n"
+  \ AAA."
 banner-img: "nme-vo5-amazons-ticket-banner2.jpg"
 logo-left-href: "https://awards.nme.com/"
-logo-left-image: "nme-vo5-amazons-logo.jpg"
+logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"
 logo-left-title: "NME VO5"
 bg-image-hero: "nme-vo5-amazons-ticket-hero.jpg"
 bg-image-first: "nme-vo5-amazons-ticket-banner1.jpg"
 bg-image-second: "nme-vo5-amazons-ticket-banner2.jpg"
 bg-image-third: "nme-vo5-amazons-ticket-banner3.jpg"
-extra-css: ""
 section1-content: "<p> Scrap your Friday night plans – you won't want to miss this...\
   \ </p> <p> We're giving away 2x tickets for you and a mate to The Amazons' DJ Set\
   \ at Fez Club in Cambridge this Friday, as part of our VO5 NME Awards Road Trip\
   \ with Progaganda. </p>  <p> All you need to do is enter your details and you could\
   \ be swaying along in the crowd, cold beer in hand, as the four-piece rockers fill\
-  \ your ears with the coolest new sounds. </p>\n"
+  \ your ears with the coolest new sounds. </p>"
 section2-content: "<p> The breakthrough four-piece indie rock band from Reading set\
   \ their much-loved tour van on fire for the cover of their debut album – so you\
   \ can expect them to turn up the heat on this set. </p>  <p> The band were also\
   \ included in both the BBC's 'Sound of 2017' and MTV's 'Brand New 2017' lists, so\
-  \ expect BIG things from them this year. </p>\n"
+  \ expect BIG things from them this year. </p>"
 section3-content: "<p> The boys are just one of our special guests to take over The\
   \ VO5 NME Awards Road Trip, where we've been touring the country to bring you the\
   \ ultimate indie nights out you'll be talking about all year. But they won’t be\
@@ -49,13 +47,13 @@ section3-content: "<p> The boys are just one of our special guests to take over 
   \ Frank Turner, Bastille and of course, The Amazons spinning their favourite tunes\
   \ along the way. </p> <p> So get ready for a big night out by grabbing a mate and\
   \ completing the form below. But hurry – the competition closes at 11.59pm on Wednesday\
-  \ 24th January! Open to over 18s only.\n"
+  \ 24th January! Open to over 18s only."
 entry-title: "Win 2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda this Friday"
 entry-content: "<p> Dance along to some banging tunes, courtesy of The Amazons, this\
   \ Friday at Fez Club in Cambridge as part of our VO5 NME Awards Road Trip with Propaganda.</p>\
   \ <p> Enter the draw to win 2x tickets to the DJ Set by completing the form below\
-  \ before 11.59pm on 24/01/2018. </p>\n"
+  \ before 11.59pm on 24/01/2018. </p>"
 has-winner: true
 winner-title: "Congratulations to Saffron L. (Luton) & Ashley A. (London) who won\
   \ the tickets to The Amazons' DJ set"
