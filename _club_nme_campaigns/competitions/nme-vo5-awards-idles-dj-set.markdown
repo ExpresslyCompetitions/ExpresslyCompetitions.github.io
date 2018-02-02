@@ -20,7 +20,7 @@ terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-
   \ AAA."
 banner-img: "resized-idles-1.png"
 logo-left-href: "https://awards.nme.com/"
-logo-left-image: "nme-vo5-awards-idles-logo.jpg"
+logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"
 logo-left-title: "NME VO5"
 bg-image-hero: "resized-idles-press-shoot.jpg"
 bg-image-first: "resized-idles-2.jpg"
