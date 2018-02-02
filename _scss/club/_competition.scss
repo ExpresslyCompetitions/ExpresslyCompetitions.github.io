@@ -1,6 +1,9 @@
 body.competition {
   padding-top: 0;
   .hero {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
     min-height: 100vh;
     background-position: center;
@@ -11,14 +14,19 @@ body.competition {
     border-top: solid transparent 50px;
 
     .hero-block-wrapper {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
       display: flex;
       vertical-align: middle;
       justify-content: center;
+      -webkit-align-self: center;
       align-self: center;
       height: 100%;
       padding: 1rem;
 
       .hero-block-inner {
+        -webkit-align-self: center;
         align-self: center;
         margin-top: -90px;
         width: 100%;
