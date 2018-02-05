@@ -1,0 +1,5 @@
+{% if include.image contains "https://" %}
+    {% assign image-url = include.image %}
+{% else %}
+    {% assign image-url = include.image | prepend: "/img/" | prepend: club_base %}
+{% endif %}

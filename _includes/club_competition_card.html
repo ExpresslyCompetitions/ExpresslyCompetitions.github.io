@@ -12,14 +12,16 @@
         <div class="col-md-5 col-lg-4 competition-card--banner">
             {% assign banner-img = include.item.banner-img %}
             {% if include.is-winner-card and include.item.winner-banner %}{% assign banner-img = include.item.winner-banner %}{% endif %}
-            <div class="advertiser-banner rounded" style="background-image: url({{club_base}}/img/{{banner-img}})">
+            {% include image_url_builder.html image=banner-img %}
+            <div class="advertiser-banner rounded" style="background-image: url({{image-url}})">
                 {% if include.item.has_entry_page %}
                     <a href="{{item-url}}" class="hide-if-expired"></a>
                 {% else %}
                     <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
                     <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>
                 {% endif %}
-                <div class="advertiser-logo"><img  src="img/{{include.item.logo-left-image}}" /></div>
+                {% include image_url_builder.html image=include.item.logo-left-image %}
+                <div class="advertiser-logo"><img  src="{{image-url}}" /></div>
             </div>
         </div>
 
