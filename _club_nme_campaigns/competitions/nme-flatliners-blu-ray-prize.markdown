@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-14ced289-5c86-4958-9055-9440c9b72d33"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-02-05T09:00:00.000Z"
 end-date: "2018-02-11T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a copy of Flatliners on Blu-ray™"
 competition-description: "Calling all sci-fi fans. To celebrate the Blu-ray™ and DVD\
