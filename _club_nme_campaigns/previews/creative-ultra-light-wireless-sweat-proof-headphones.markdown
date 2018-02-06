@@ -3,7 +3,7 @@ campaign-uuid: c-94fe78a3-21f1-4a40-81e6-a25c06ac1669
 type: Preview
 category: Music
 date: 2018-01-03T23:59:00+0000
-end-date: 2018-01-31T23:59:00+0000
+end-date: 2018-02-28T23:59:00+0000
 disable-form: false
 is_promoted: true
 has_entry_page: false
