@@ -43,13 +43,20 @@ layout: club-layout
     </div>
     <div id="competition-cards">
         {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
+        {% assign past_epoch_seconds = site.time | date: '%s' | minus: 5184000  %}
         {% for item in items reversed  %}
-            {% include club_competition_card.html item=item %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+                {% include club_competition_card.html item=item %}
+            {% endif %}
         {% endfor %}
 
         {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
-            {% include club_competition_card.html item=item %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+                {% include club_competition_card.html item=item %}
+            {% endif %}
         {% endfor %}
     </div>
 </main>
