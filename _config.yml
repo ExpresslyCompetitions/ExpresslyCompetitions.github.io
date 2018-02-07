@@ -81,7 +81,7 @@ clubs:
       icon-url:       "http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/07/cropped-trusted-reviews-icon-3-192x192.png"
       merchant-uuid:  "m-1a7b03af-82ba-482f-952c-5e7228bf10d5"
       domain-migrations-enabled: true
-      ga-code:        "UA-110278937-1"
+      ga-code:        "UA-110278937-2"
       ga-domain:      "trustedreviews.buyexpressly.com"
 #      brand-nav-include: nme-nav-bar.html
 
