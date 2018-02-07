@@ -24,6 +24,12 @@ collections:
   club_nme_pages:
     output: true
     permalink: /nme/club/:name
+  club_trustedreviews_campaigns:
+    output: true
+    permalink: /trustedreviews/club/:path
+  club_trustedreviews_pages:
+    output: true
+    permalink: /trustedreviews/club/:name
 
 clubs:
   expressly_club: &EXPRESSLY_CLUB
@@ -60,6 +66,24 @@ clubs:
       ga-code:        "UA-110278937-1"
       ga-domain:      "aaa.nme.com"
       brand-nav-include: nme-nav-bar.html
+  trustedreviews_club: &TRUSTEDREVIEWS_CLUB
+      campaigns:      "club_trustedreviews_campaigns"
+      pages:          "club_trustedreviews_pages"
+      club-name:      "TrustedReviews"
+      club_url:       "https://trustedreviews.buyexpressly.com"
+      club_dir:       "/trustedreviews/club"
+      club-copyright: "&copy; 2018 Expressly Limited"
+      club-logo-nav:  "trustedreviews-logo.svg"
+      company-name:   "Time Inc. UK"
+      company-url:    "https://www.timeincuk.com/"
+      company-terms:  "https://www.timeincuk.com/terms-and-conditions/"
+      company-privacy: "https://www.timeincuk.com/privacy/"
+      icon-url:       "http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/07/cropped-trusted-reviews-icon-3-192x192.png"
+      merchant-uuid:  "m-1a7b03af-82ba-482f-952c-5e7228bf10d5"
+      domain-migrations-enabled: true
+      ga-code:        "UA-110278937-1"
+      ga-domain:      "trustedreviews.buyexpressly.com"
+#      brand-nav-include: nme-nav-bar.html
 
 defaults:
   -
@@ -102,3 +126,23 @@ defaults:
       type: "club_nme_pages"
     values:
       <<:     *NME_CLUB
+  -
+    scope:
+      path: "/trustedreviews/club"
+      type: "pages"
+    values:
+      layout: "club-layout"
+      <<:     *TRUSTEDREVIEWS_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_trustedreviews_campaigns"
+    values:
+      layout: "club-competition"
+      <<:     *TRUSTEDREVIEWS_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_trustedreviews_pages"
+    values:
+      <<:     *TRUSTEDREVIEWS_CLUB

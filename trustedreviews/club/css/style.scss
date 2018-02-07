@@ -1,0 +1,22 @@
+---
+---
+
+$font-import-url: "https://fonts.googleapis.com/css?family=Roboto%3A500%7CRoboto%3Anormal%7CRoboto%3A700%7CRoboto%3Aitalic%7CRoboto%3A700italic%7CCabin%3A700%7CCabin%3A500&ver=9056303960094196203";
+
+$colour_primary: #66bade;
+$colour_secondary: #ffffff;
+//$colour_nav_primary: #ffffff;
+//$colour_nav_secondary: #333333;
+//$colour_nav_border: #c1c1c1;
+//$colour_dropdown_nav_bg: #f9f9f9;
+//$colour_text_primary: #333333;
+//$colour_bg: #ffffff;
+
+$font: Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !default;
+
+@import "club";
+
+.navbar .navbar-brand img.navbar-logo {
+  max-width: 200px;
+  width: 200px;
+}
