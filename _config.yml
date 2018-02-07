@@ -69,7 +69,7 @@ clubs:
   trustedreviews_club: &TRUSTEDREVIEWS_CLUB
       campaigns:      "club_trustedreviews_campaigns"
       pages:          "club_trustedreviews_pages"
-      club-name:      "TrustedReviews"
+      club-name:      "TrustedReviews Insider"
       club_url:       "https://trustedreviews.buyexpressly.com"
       club_dir:       "/trustedreviews/club"
       club-copyright: "&copy; 2018 Expressly Limited"
