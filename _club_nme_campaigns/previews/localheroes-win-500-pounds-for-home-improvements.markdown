@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win £500 for home improvements with Local Heroes"
-competition-description: "Planning on making your life BETTER?. Put your home improvement\
+competition-description: "Planning on making your life BETTER? Put your home improvement\
   \ project in motion by the chance of wining £500 with Local Heroes."
 hero-header: "Win £500 for home improvements with Local Heroes"
 terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-for-home-improvements-terms-and-conditions.pdf\"\
