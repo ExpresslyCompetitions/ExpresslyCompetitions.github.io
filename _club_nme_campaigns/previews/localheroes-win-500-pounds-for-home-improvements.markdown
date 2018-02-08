@@ -1,40 +1,36 @@
 ---
-campaign-uuid: "c-89232165-f51a-4e9d-a55a-1aa23869ef4d"
+campaign-uuid: "c-b9838468-3557-4398-b3bb-70361e038bbb"
 type: "Preview"
-category: "Tickets"
-date: "2018-02-02T00:00:00.000Z"
-end-date: "2018-02-15T23:59:00.000Z"
+category: "Other"
+date: "2018-02-21T09:00:00.000Z"
+end-date: "2018-03-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
-title: "Win &pound500 for home improvements with Local Heroes"
-competition-description: "Win localheroes.com Win localheroes.com Win localheroes.com\
-  \ Win localheroes.com Win localheroes.com <br />Visit NME AAA for a chance to win\
-  \ by 23.59 on Wed 7th February"
-hero-header: "Win localheroes.com"
-terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-competition-terms-and-conditions.pdf\"\
+title: "Win £500 for home improvements with Local Heroes"
+competition-description: "Planning on making your life BETTER?. Put your home improvement\
+  \ project in motion by the chance of wining £500 with Local Heroes."
+hero-header: "Win £500 for home improvements with Local Heroes"
+terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-for-home-improvements-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
   \ AAA."
-banner-img: "localheroes-logo.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58b2d657c.jpg"
 logo-left-href: "https://www.localheroes.com/"
 logo-left-image: "localheroes-logo.jpg"
 logo-left-title: "British Gas Local Heroes"
-bg-image-hero: "localheroes-logo.jpg"
-bg-image-first: "localheroes-logo.jpg"
-bg-image-second: "localheroes-logo.jpg"
-section1-content: "<p> Local Heroes is a separate business unit that has been set\
-  \ up by British Gas to redefine the way that trade related jobs are done around\
-  \ the home. </p> <p> We’re a mix of people from world class consumer internet companies\
-  \ and experts from within British Gas that understand great online experiences and\
-  \ what’s involved in completing professional trade related jobs inside peoples homes.</p>"
-section2-content: "<p> Local Heroes is a separate business unit that has been set\
-  \ up by British Gas to redefine the way that trade related jobs are done around\
-  \ the home. </p> <p> We’re a mix of people from world class consumer internet companies\
-  \ and experts from within British Gas that understand great online experiences and\
-  \ what’s involved in completing professional trade related jobs inside peoples homes.</p>"
-entry-title: "Win localheroes.com"
-entry-content: "<p> Win localheroes.com</p> <p> Enter the draw to win localheroes\
-  \ by completing the form below before 11.59pm on 24/01/2018. FORM BELOW</p>"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2143b8c5-6ecc-4dfc-af2d-b5213e511e45.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-16d7c36d-038e-4d37-9938-5722e8891810.png"
+bg-image-second: "https://assets.expresslyapp.com/asset-42fedfcd-71df-4d3b-8b3b-107e47731d1d.jpg"
+section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
+  \ seek for a quality contract from Local Heros? This is your chance to create a\_\
+  sophisticated new look and Local Heroes can help you with it.</p>"
+section2-content: "<p>Local Heroes is offering one lucky reader the chance to win\
+  \ £500 by only entering your details and choosing your new home improvement and\
+  \ one of their tradesmen will help you with all of your projects.</p>"
+entry-title: "Win £500 for home improvements with Local Heroes"
+entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
+  \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
+  \ by completing the form below before 11.59pm on 14/03/2018.</p>"
 entry-extension: "nme/local-heroes-extension.html"
 has-winner: false
 ---
