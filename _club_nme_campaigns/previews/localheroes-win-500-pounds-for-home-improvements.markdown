@@ -11,7 +11,7 @@ title: "Win £500 for home improvements with Local Heroes"
 competition-description: "Planning on making your life BETTER? Put your home improvement\
   \ project in motion by the chance of wining £500 with Local Heroes."
 hero-header: "Win £500 for home improvements with Local Heroes"
-terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-for-home-improvements-terms-and-conditions.pdf\"\
+terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
   \ AAA."
 banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58b2d657c.jpg"
@@ -30,7 +30,7 @@ section2-content: "<p>Local Heroes is offering one lucky reader the chance to wi
 entry-title: "Win £500 for home improvements with Local Heroes"
 entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
   \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
-  \ by completing the form below before 11.59pm on 14/03/2018.</p>"
+  \ by completing the form below before 23.59pm on 14/03/2018.</p>"
 entry-extension: "nme/local-heroes-extension.html"
 has-winner: false
 ---
