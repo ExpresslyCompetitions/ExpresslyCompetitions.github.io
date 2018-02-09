@@ -32,21 +32,21 @@
             <h6><strong>{{ card-title }}</strong></h6>
             <div class="competition-card--description small"><p>{{ include.item.competition-description }}</p></div>
             <div class="row justify-content-start align-items-center competition-card--footer">
-                <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1 hide-if-expired">
+                <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1">
                     {% assign button-cta = "Get Now" %}
                     {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
                     {% if include.item.has_entry_page %}
                         <div class="show-if-entered">
                             <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
                         </div>
-                        <div class="hide-if-entered">
+                        <div class="hide-if-entered hide-if-expired">
                             <a href="{{item-url}}" class="h-100 btn btn-primary px-5">{{button-cta}}</a>
                         </div>
                     {% else %}
-                        <div class="show-if-entered">
+                        <div class="show-if-entered hide-if-expired">
                             <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
                         </div>
-                        <div class="hide-if-entered">
+                        <div class="hide-if-entered hide-if-expired">
                             <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">{{button-cta}}</a>
                         </div>
                     {% endif %}
