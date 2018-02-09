@@ -24,8 +24,8 @@ bg-image-first: "https://assets.expresslyapp.com/asset-49944115-c0e2-4251-b8d1-d
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
 section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
   \ seek for a quality contract from Local Heros? They are offering one lucky reader\
-  \ the possibility to win £500! This is your chance to create a\_sophisticated new\
-  \ look and Local Heroes can help you with it.</p>"
+  \ the possibility to win £500!</p>\r\n<p>This is your chance to create a\_sophisticated\
+  \ new look and Local Heroes can help you with it.</p>"
 section2-content: "<p>Don't miss this great opportunity! It's very easy: enter your\
   \ details, choose your new home improvement and one of their tradesmen will help\
   \ you with all of your projects. Don't think about it anymore and submit into the\
