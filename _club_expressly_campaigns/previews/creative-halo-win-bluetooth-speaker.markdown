@@ -23,14 +23,14 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-ba95fcc8-5878-4e91-9849-10
 bg-image-first: "https://assets.expresslyapp.com/asset-a208be8d-3b30-405c-8274-ab5c34dd3989.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-eb48472c-e5d7-4705-85ce-77ff8f1bfa62.png"
 section1-content: "<p>There are so many Bluetooth speakers nowadays, hard for any\
-  \ to stand out. Nevertheless, the new Halo Bluetooth Speaker has revolutionised\
-  \ the technological market. The visual effects are the primary attraction but that\
-  \ is just the beginning. Unique Multi-Material Design, 16.8 Million colours, Xpectra\
-  \ Lightshow, 8 Hours Battery Life.. as some of it's numerous features. </p>"
+  \ to stand out.Nevertheless, the new Halo Bluetooth Speaker has revolutionised the\
+  \ technological market</p>. \r\n<p>The visual effects are the primary attraction\
+  \ but that is just the beginning. Unique Multi-Material Design, 16.8 Million colours,\
+  \ Xpectra Lightshow, 8 Hours Battery Life.. as some of it's numerous features. </p>"
 section2-content: "<p>Great portability and great sound quality. This new speaker\
-  \ sounds as good as it looks! Heavenly, right? Don't miss out the opportunity of\
-  \ winning one the brand new Creative products: The new Halo Bluetooth Speaker. Check\
-  \ it out now, this could be the perfect fit for you or your loved ones.</p>"
+  \ sounds as good as it looks! Heavenly, right?</p>\r\n<p>Don't miss out the opportunity\
+  \ of winning one the brand new Creative products: The new Halo Bluetooth Speaker.\
+  \ Check it out now, this could be the perfect fit for you or your loved ones.</p>"
 entry-title: "Win a Creative Halo and experience an Expressly Powerlink"
 entry-content: "<p>If you were thinking on buying new speakers..wait a minute! You\
   \ could win the brand new Halo Bluetooth Speaker with Creative and experience an\
