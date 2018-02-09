@@ -9,8 +9,9 @@ is_promoted: false
 has_entry_page: true
 title: "Win £500 for home improvements with Local Heroes"
 competition-description: "Planning on making your life BETTER? Put your home improvement\
-  \ project in motion by the chance of wining £500 with Local Heroes. Click here to\
-  \ get involved."
+  \ project in motion by the chance of wining £500 with Local Heroes.\r\n<br/> Don't\
+  \ miss out this great opportunity and make your dream house a reality for you and\
+  \ your loved ones. Click here to get involved."
 hero-header: "Win £500 for home improvements with Local Heroes"
 terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
@@ -30,7 +31,7 @@ section2-content: "<p>Don't miss this great opportunity! It's very easy: enter y
   \ details, choose your new home improvement and one of their tradesmen will help\
   \ you with all of your projects. As soon as you submit into the competition, you\
   \ will receive a free call to help you get through everything you need.</p>\r\n\r\
-  \n<p>Don't think about it anymore and register to get involved</p>"
+  \n<p>Don't think about it anymore and register for a chance to win.</p>"
 entry-title: "Win £500 for home improvements with Local Heroes"
 entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
   \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
