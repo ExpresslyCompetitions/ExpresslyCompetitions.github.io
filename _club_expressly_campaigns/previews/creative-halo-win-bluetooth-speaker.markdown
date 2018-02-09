@@ -24,8 +24,8 @@ bg-image-first: "https://assets.expresslyapp.com/asset-a208be8d-3b30-405c-8274-a
 bg-image-second: "https://assets.expresslyapp.com/asset-eb48472c-e5d7-4705-85ce-77ff8f1bfa62.png"
 section1-content: "<p>There are so many Bluetooth speakers nowadays, hard for any\
   \ to stand out.Nevertheless, the new Halo Bluetooth Speaker has revolutionised the\
-  \ technological market</p>. \r\n<p>The visual effects are the primary attraction\
-  \ but that is just the beginning. Unique Multi-Material Design, 16.8 Million colours,\
+  \ technological market</p>\r\n<p>The visual effects are the primary attraction but\
+  \ that is just the beginning. Unique Multi-Material Design, 16.8 Million colours,\
   \ Xpectra Lightshow, 8 Hours Battery Life.. as some of it's numerous features. </p>"
 section2-content: "<p>Great portability and great sound quality. This new speaker\
   \ sounds as good as it looks! Heavenly, right?</p>\r\n<p>Don't miss out the opportunity\
