@@ -9,9 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win a Creative Halo and experience an Expressly Powerlink"
 competition-description: "Our friends from Creative have done it again and now you\
-  \ have the chance to win one of them. A new Bluetooth speaker, The new Halo Bluetooth\
-  \ Speaker is finally here and it comes with new brand features. If you love what\
-  \ you are reading, don't think more about it and click here to get involved."
+  \ have the chance to win one of them. \r\n<br/>A new Bluetooth speaker, The new\
+  \ Halo Bluetooth Speaker is finally here and it comes with new brand features. \r\
+  \n<br/>If you love what you are reading, don't think more about it and click here\
+  \ to get involved."
 hero-header: "Win a Creative Halo and experience an Expressly Powerlink"
 terms-confirmation: "I agree to the competition <a href=\"../etc/creative-halo-win-bluetooth-speaker-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with Creative."
