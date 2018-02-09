@@ -27,11 +27,11 @@ section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why 
   \ seek for a quality contract from Local Heros? They are offering one lucky reader\
   \ the possibility to win £500!</p>\r\n<p>This is your chance to create a\_sophisticated\
   \ new look and Local Heroes can help you with it.</p>"
-section2-content: "<p>Don't miss this great opportunity! It's very easy: enter your\
-  \ details, choose your new home improvement and one of their tradesmen will help\
-  \ you with all of your projects. As soon as you submit into the competition, you\
-  \ will receive a free call to help you get through everything you need.</p>\r\n\r\
-  \n<p>Don't think about it anymore and register for a chance to win.</p>"
+section2-content: "<p>Don't miss this great occasion! It's very easy: enter your details,\
+  \ choose your new home improvement and one of their tradesmen will help you with\
+  \ all of your projects. As soon as you submit into the competition, you will receive\
+  \ a free call to help you get through everything you need.</p>\r\n\r\n<p>Don't think\
+  \ about it anymore and register for a chance to win.</p>"
 entry-title: "Win £500 for home improvements with Local Heroes"
 entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
   \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
