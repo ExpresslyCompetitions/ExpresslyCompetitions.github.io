@@ -21,7 +21,7 @@ logo-left-href: "https://www.localheroes.com/"
 logo-left-image: "localheroes-logo.jpg"
 logo-left-title: "British Gas Local Heroes"
 bg-image-hero: "https://assets.expresslyapp.com/asset-883d056c-e84c-4fc0-b313-7247e9b6331e.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-f66a5d9c-eb68-4de7-bf32-6278c0b15d1b.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-1b8d0373-f23f-4c9e-bf03-d6e82a1d7387.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
 section1-content: "<p>Local Heroes is a separate business unit that has been set up\
   \ by British Gas to redefine the way that trade related jobs are done around the\
