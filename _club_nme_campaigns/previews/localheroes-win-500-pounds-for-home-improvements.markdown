@@ -22,11 +22,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-023dbacd-deae-435c-afc9-00
 bg-image-first: "https://assets.expresslyapp.com/asset-7b314850-9bb8-4a3f-bd3e-c1ceddd0422e.png"
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
 section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
-  \ seek for a quality contract from Local Heros? This is your chance to create a\_\
-  sophisticated new look and Local Heroes can help you with it.</p>"
-section2-content: "<p>Local Heroes is offering one lucky reader the chance to win\
-  \ £500 by only entering your details and choosing your new home improvement and\
-  \ one of their tradesmen will help you with all of your projects.</p>"
+  \ seek for a quality contract from Local Heros? They are offering one lucky reader\
+  \ the chance to win £500! This is your chance to create a\_sophisticated new look\
+  \ and Local Heroes can help you with it.</p>"
+section2-content: "<p>Don't miss this great opportunity! Its very easy: enter your\
+  \ details, choose your new home improvement and one of their tradesmen will help\
+  \ you with all of your projects.</p>"
 entry-title: "Win £500 for home improvements with Local Heroes"
 entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
   \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
