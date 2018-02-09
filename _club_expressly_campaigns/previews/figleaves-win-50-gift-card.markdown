@@ -20,8 +20,8 @@ banner-img: "https://assets.expresslyapp.com/asset-0d1cb823-3cf3-43ee-a141-2b0be
 logo-left-href: "https://www.figleaves.com/uk/"
 logo-left-image: "https://assets.expresslyapp.com/4260eb96-7718-4b5a-aebd-c9d246c3453b-thumb.png"
 logo-left-title: "Figleaves"
-bg-image-hero: "https://assets.expresslyapp.com/asset-632a62ef-7316-47d5-b61c-2826142943c7.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-9fd05314-a7b5-433d-86db-cf5d6214a5f5.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-41a9e3b4-5826-4f07-8611-f279f7221692.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-5c62a28a-530e-474b-b5cf-2d0017aa327b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-16a293c5-9401-486e-a73e-d33d77e71fdd.jpg"
 section1-content: "<p>Figleaves knows what it takes to create the perfect fit. They\
   \ offer something for all woman, whatever their shape, size and style.</p>\r\n\r\
