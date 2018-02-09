@@ -27,7 +27,7 @@ section1-content: "<p>Local Heroes is a separate business unit that has been set
   \ by British Gas to redefine the way that trade related jobs are done around the\
   \ home. A mix of people from world class consumer internet companies and experts\
   \ from within British Gas that understand great online experiences and what’s involved\
-  \ in completing professional trade related jobs inside peoples homes.</p>.\r\n<p>Do\
+  \ in completing professional trade related jobs inside peoples homes.</p>\r\n<p>Do\
   \ you have a problem? Planning a kitchen renovation? Why not seek for a quality\
   \ contract from Local Heros? They are offering one lucky reader the possibility\
   \ to win £500!.This is your chance to create a\_sophisticated new look and Local\
