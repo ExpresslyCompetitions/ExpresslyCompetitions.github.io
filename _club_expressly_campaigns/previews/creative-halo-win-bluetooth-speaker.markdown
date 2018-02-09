@@ -26,7 +26,7 @@ section1-content: "<p>There are so many Bluetooth speakers nowadays, hard for an
   \ to stand out. Nevertheless, the new Halo Bluetooth Speaker has revolutionised\
   \ the technological market. The visual effects are the primary attraction but that\
   \ is just the beginning. Unique Multi-Material Design, 16.8 Million colours, Xpectra\
-  \ Lightshow, 8 Hours Battery Life.. as some of its numerous features. </p>"
+  \ Lightshow, 8 Hours Battery Life.. as some of it's numerous features. </p>"
 section2-content: "<p>Great portability and great sound quality. This new speaker\
   \ sounds as good as it looks! Heavenly, right? Don't miss out the opportunity of\
   \ winning one the brand new Creative products: The new Halo Bluetooth Speaker. Check\
