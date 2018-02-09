@@ -18,9 +18,9 @@ banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58
 logo-left-href: "https://www.localheroes.com/"
 logo-left-image: "localheroes-logo.jpg"
 logo-left-title: "British Gas Local Heroes"
-bg-image-hero: "https://assets.expresslyapp.com/asset-2143b8c5-6ecc-4dfc-af2d-b5213e511e45.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-7a2c6571-2cca-40bf-a32b-d6a6b3d24a1a.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-71383da2-6045-43b5-a9d4-dd8e4f4dced7.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-023dbacd-deae-435c-afc9-0091ae70c754.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-7b314850-9bb8-4a3f-bd3e-c1ceddd0422e.png"
+bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
 section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
   \ seek for a quality contract from Local Heros? This is your chance to create a\_\
   sophisticated new look and Local Heroes can help you with it.</p>"
