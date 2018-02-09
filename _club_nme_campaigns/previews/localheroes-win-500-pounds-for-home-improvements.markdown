@@ -20,13 +20,18 @@ banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58
 logo-left-href: "https://www.localheroes.com/"
 logo-left-image: "localheroes-logo.jpg"
 logo-left-title: "British Gas Local Heroes"
-bg-image-hero: "https://assets.expresslyapp.com/asset-9ca750bc-1b7f-4677-8f80-a75fefc25679.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-49944115-c0e2-4251-b8d1-de41a93c131e.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-883d056c-e84c-4fc0-b313-7247e9b6331e.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-f66a5d9c-eb68-4de7-bf32-6278c0b15d1b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
-section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
-  \ seek for a quality contract from Local Heros? They are offering one lucky reader\
-  \ the possibility to win £500!</p>\r\n<p>This is your chance to create a\_sophisticated\
-  \ new look and Local Heroes can help you with it.</p>"
+section1-content: "<p>Local Heroes is a separate business unit that has been set up\
+  \ by British Gas to redefine the way that trade related jobs are done around the\
+  \ home. A mix of people from world class consumer internet companies and experts\
+  \ from within British Gas that understand great online experiences and what’s involved\
+  \ in completing professional trade related jobs inside peoples homes.</p>.\r\n<p>Do\
+  \ you have a problem? Planning a kitchen renovation? Why not seek for a quality\
+  \ contract from Local Heros? They are offering one lucky reader the possibility\
+  \ to win £500!.This is your chance to create a\_sophisticated new look and Local\
+  \ Heroes can help you with it.</p>"
 section2-content: "<p>Don't miss this great occasion! It's very easy: enter your details,\
   \ choose your new home improvement and one of their tradesmen will help you with\
   \ all of your projects. As soon as you submit into the competition, you will receive\
