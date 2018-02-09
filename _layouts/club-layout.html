@@ -193,6 +193,7 @@
         crossorigin="anonymous"></script>
 <script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=30"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js"></script>
 
 {% if page.ga-code and page.ga-code != "" %}
 <script>
@@ -238,6 +239,19 @@
                 "href": "{{club_base}}/privacy"
             }
         })});
+</script>
+<!-- Function to export HTML to PDF -->
+<script type="text/javascript">
+    function exportPDF(target_element, file_name) {
+        var doc = new jsPDF();
+        doc.fromHTML($('#' + target_element).html().replace(/[^\x00-\x7F]/g, ""), 15, 15, {
+            'width': 170
+        });
+        if(file_name == undefined) {
+            file_name = 'expressly.pdf';
+        }
+        doc.save(file_name);
+    }
 </script>
 
 </body>
