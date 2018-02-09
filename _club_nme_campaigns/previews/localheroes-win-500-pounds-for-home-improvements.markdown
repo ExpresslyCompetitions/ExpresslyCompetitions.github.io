@@ -27,7 +27,8 @@ section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why 
   \ look and Local Heroes can help you with it.</p>"
 section2-content: "<p>Don't miss this great opportunity! Its very easy: enter your\
   \ details, choose your new home improvement and one of their tradesmen will help\
-  \ you with all of your projects.</p>"
+  \ you with all of your projects. Don't think about it anymore and submit into the\
+  \ competition! </p>"
 entry-title: "Win £500 for home improvements with Local Heroes"
 entry-content: "<p>Planning on renovation projects?.. Now you have the solution! Win\
   \ £500 for home improvements with Local Heroes.</p> <p> Enter the draw to win localheroes\
