@@ -9,7 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "Win £500 for home improvements with Local Heroes"
 competition-description: "Planning on making your life BETTER? Put your home improvement\
-  \ project in motion by the chance of wining £500 with Local Heroes."
+  \ project in motion by the chance of wining £500 with Local Heroes. Click here to\
+  \ get involved."
 hero-header: "Win £500 for home improvements with Local Heroes"
 terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
