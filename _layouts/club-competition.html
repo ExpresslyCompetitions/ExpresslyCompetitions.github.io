@@ -5,6 +5,7 @@ active: selected-competitions
 ---
 {% include club_base_url.html %}
 {% include image_url_builder.html image=page.bg-image-hero %}
+{% capture terms_modal_id %}modal-{{page.campaign-uuid}}{% endcapture %}
 <section class="hero" style="background-image: url({{image-url}})">
 
     <div class="container">
@@ -92,26 +93,8 @@ active: selected-competitions
                             {% if page.entry-extension %}
                                 {% include extensions/{{ page.entry-extension }} %}
                             {% endif %}
-                            {% capture terms_modal_id %}modal-{{page.campaign-uuid}}{% endcapture %}
                             {% capture terms_checkbox_label %}I agree to the {{ page.type  | downcase }} <a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">Terms and Conditions</a> and to create an account with {{ page.club-name }}{% endcapture %}
-                            {% assign terms_start_date = page.date | date: '%B %d, %Y' %}
-                            {% assign terms_start_time = page.date | date: '%r' %}
-                            {% assign terms_end_date = page.end-date | date: '%B %d, %Y' %}
-                            {% assign terms_end_time = page.end-date | date: '%r' %}
                             {% include form_input_checkbox.html id="optin" label=terms_checkbox_label required="true" %}
-                            {% include form_terms_modal.html
-                                id=terms_modal_id
-                                club-name=page.club-name
-                                club-url=page.club_url
-                                competition-name=page.title
-                                competition-link=page.url
-                                start-date=terms_start_date
-                                start-time=terms_start_time
-                                end-date=terms_end_date
-                                end-time=terms_end_time
-                                prize-description=page.prize-description
-                                prize-restrictions=page.prize-restrictions
-                                special-conditions=page.special-conditions %}
                             {% assign form_input_id_prefix = '' %}
                         </form>
                         <div class="text-center pt-3">
@@ -127,7 +110,7 @@ active: selected-competitions
             </div>
             <div class="show-if-entered">
                 <p>
-                    You've already submitted an entry to this competition. <span class="terms-dynamic">{{page.terms-confirmation}}</span>
+                    You've already submitted an entry to this competition. <a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">Terms and Conditions</a>.
                     <!--Go to-->
                     <!--<a data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">{{page.logo-left-title}}</a>.-->
                 </p>
@@ -143,3 +126,21 @@ active: selected-competitions
         <div class="col-sm-3"></div>
     </section>
 </div>
+
+{% assign terms_start_date = page.date | date: '%B %d, %Y' %}
+{% assign terms_start_time = page.date | date: '%r' %}
+{% assign terms_end_date = page.end-date | date: '%B %d, %Y' %}
+{% assign terms_end_time = page.end-date | date: '%r' %}
+{% include form_terms_modal.html
+    id=terms_modal_id
+    club-name=page.club-name
+    club-url=page.club_url
+    competition-name=page.title
+    competition-link=page.url
+    start-date=terms_start_date
+    start-time=terms_start_time
+    end-date=terms_end_date
+    end-time=terms_end_time
+    prize-description=page.prize-description
+    prize-restrictions=page.prize-restrictions
+    special-conditions=page.special-conditions %}
