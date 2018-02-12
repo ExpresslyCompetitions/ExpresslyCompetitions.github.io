@@ -21,7 +21,7 @@ logo-left-image: "https://assets.expresslyapp.com/4260eb96-7718-4b5a-aebd-c9d246
 logo-left-title: "Figleaves"
 bg-image-hero: "https://assets.expresslyapp.com/asset-41a9e3b4-5826-4f07-8611-f279f7221692.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-5c62a28a-530e-474b-b5cf-2d0017aa327b.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-6bf0567e-76c9-4237-8493-59f0cc0dfbd4.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-0a2afb43-d235-4af5-b273-7af703d250de.png"
 section1-content: "<p>Figleaves knows what it takes to create the perfect fit. They\
   \ offer something for all women, whatever their shape, size and style.</p>\r\n\r\
   \n<p>Their passion for lingerie and swimwear never stops. They create their very\
