@@ -9,10 +9,9 @@ is_promoted: false
 has_entry_page: true
 title: "Win a Creative Halo and experience an Expressly Powerlink"
 competition-description: "Our friends from Creative have done it again and now you\
-  \ have the chance to win one of them. \r\n<br/>A new Bluetooth speaker, The new\
-  \ Halo Bluetooth Speaker is finally here and it comes with new brand features. \r\
-  \n<br/>If you love what you are reading, don't think more about it and click here\
-  \ to get involved."
+  \ have the chance to win one of them. \r\n<br/>A new Bluetooth speaker, the new\
+  \ Halo Bluetooth Speaker is finally here with a sleek design and with brand new\
+  \ features.\r\n<br/>Click on the link below to discover more and enter the competition."
 hero-header: "Win a Creative Halo and experience an Expressly Powerlink"
 terms-confirmation: "I agree to the competition <a href=\"../etc/creative-halo-win-bluetooth-speaker-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with Creative."
@@ -24,18 +23,17 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-ba95fcc8-5878-4e91-9849-10
 bg-image-first: "https://assets.expresslyapp.com/asset-a208be8d-3b30-405c-8274-ab5c34dd3989.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-eb48472c-e5d7-4705-85ce-77ff8f1bfa62.png"
 section1-content: "<p>There are so many Bluetooth speakers nowadays, hard for any\
-  \ to stand out. Nevertheless, the new Halo Bluetooth Speaker has revolutionised\
-  \ the technological market.</p>\r\n<p>The visual effects are the primary attraction\
-  \ but that is just the beginning. Unique Multi-Material Design, 16.8 Million colours,\
-  \ Xpectra Lightshow, 8 Hours Battery Life.. as some of it's numerous features. </p>"
+  \ to stand out. Except for the new Creative Halo whose sleek design is definitely\
+  \ worth a look.</p>\r\n<p>The visual effects are the primary attraction but that\
+  \ is just the beginning. Unique Multi-Material Design, 16.8 Million colours, Xpectra\
+  \ Lightshow, 8 Hours Battery Life... as some of its numerous features. </p>"
 section2-content: "<p>Great portability and great sound quality. This new speaker\
   \ sounds as good as it looks! Heavenly, right?</p>\r\n<p>Don't miss out the opportunity\
   \ of winning one the brand new Creative products: The new Halo Bluetooth Speaker.\
   \ Check it out now, this could be the perfect fit for you or your loved ones.</p>"
 entry-title: "Win a Creative Halo and experience an Expressly Powerlink"
-entry-content: "<p>If you were thinking on buying new speakers..wait a minute! You\
-  \ could win the brand new Halo Bluetooth Speaker with Creative and experience an\
-  \ Expressly Powerlink. </p> <p> Enter the draw to win  by completing the form below\
-  \ before 23.59pm on 23/04/2018.</p>"
+entry-content: "<p>Liking the brand new looks of the new Creative Halo? You could\
+  \ win the brand new Halo Bluetooth Speaker with Creative by entering the form below.</p>\
+  \ <p> Enter the draw to win  by completing the form below before 23.59pm on 23/04/2018.</p>"
 has-winner: false
 ---
