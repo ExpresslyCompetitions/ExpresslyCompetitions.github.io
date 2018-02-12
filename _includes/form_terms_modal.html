@@ -8,12 +8,12 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <div class="modal-body" id="{{include.id}}-content">
+            <div class="modal-body px-5" id="{{include.id}}-content">
                 <h4>'{{include.competition-name}}' Competition Rules</h4>
                 <div class="competition-terms-date">
                     <em>January 2018</em>
                 </div>
-                <div class="competition-terms-rules">
+                <div class="competition-terms-rules small text-justify pt-4">
                     <h5>A. RULES</h5>
                     <ol>
                         <li>
@@ -21,8 +21,8 @@
                             conditions (which can be found at http://win.buyexpressly.com/competition-terms.html) (the
                             "Competition Terms and Conditions") of Expressly (as defined in the Competition Terms and
                             Conditions apply to '{{include.competition-name}}' competition (the "Competition") which
-                            will run from '{{include.start-date}}' to '{{include.end-date}}' on NME AAA website:
-                            https://aaa.nme.com.
+                            will run from '{{include.start-date}}' to '{{include.end-date}}' on {{include.club-name}} website:
+                            {{include.club-url}}.
                         </li>
                         <li>
                             Anyone who enters the Competition (an "Entrant") will be deemed to have read and accepted
@@ -61,13 +61,13 @@
                     </ol>
                     <h5>D. Prize</h5>
                     <ol start="10">
-                        <li>One winner wins {{include.prize-description}}, subject to the Restrictions in Clause 11.</li>
-                        <li>Restrictions on Prize redemption ("Restrictions"): {{include.prize-restrictions}}.</li>
+                        <li>One winner wins '{{include.prize-description | default: include.competition-name}}', subject to the Restrictions in Clause 11.</li>
+                        <li>Restrictions on Prize redemption ("Restrictions"): {{include.prize-restrictions | default: 'N/A'}}.</li>
                         <li>Prize redemption will be discussed with the winner.</li>
                         <li>Expressly reserves the right to substitute the prize with another prize at its absolute
                             discretion.
                         </li>
-                        <li>{{include.special-conditions}}</li>
+                        {% if include.special-conditions  %}<li>{{include.special-conditions}}</li>{% endif %}
                     </ol>
                 </div>
 
@@ -75,7 +75,7 @@
             </div>
             <div class="modal-footer justify-content-center">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" onclick="exportPDF('{{include.id}}-content', '{{include.competition-name}} - Competition Rules.pdf')"><i class="fa fa-file-pdf-o"></i> Save PDF</button>
+                <button type="button" class="btn btn-primary" data-pdf-source="{{include.id}}-content" data-pdf-title="{{include.competition-name}} - Competition Rules.pdf"><i class="fa fa-file-pdf-o"></i> Save PDF</button>
             </div>
         </div>
     </div>
