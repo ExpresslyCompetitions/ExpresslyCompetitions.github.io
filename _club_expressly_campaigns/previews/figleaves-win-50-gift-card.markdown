@@ -11,7 +11,7 @@ title: "Win a £50 gift card at Figleaves and experience an Expressly Powerlink"
 competition-description: "In need to renovate your sleepwear wardrobe? Looking for\
   \ the perfect bikini for your next holidays? You've come to the right place, this\
   \ is perfect for you. Figleaves is offering one lucky lady the chance to win a £\
-  50 gift card!\r\n\r\n<br/>Treat yourself to something nice. And now, with Figleaves\
+  50 gift card!\r\n<br/>Treat yourself to something nice. And now, with Figleaves\
   \ you can."
 hero-header: "Win a £50 gift card at Figleaves and experience an Expressly Powerlink"
 terms-confirmation: "I agree to the competition <a href=\"../etc/figleaves-win-50-gift-card-terms-and-conditions.pdf\"\
@@ -22,7 +22,7 @@ logo-left-image: "https://assets.expresslyapp.com/4260eb96-7718-4b5a-aebd-c9d246
 logo-left-title: "Figleaves"
 bg-image-hero: "https://assets.expresslyapp.com/asset-41a9e3b4-5826-4f07-8611-f279f7221692.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-5c62a28a-530e-474b-b5cf-2d0017aa327b.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-16a293c5-9401-486e-a73e-d33d77e71fdd.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-6bf0567e-76c9-4237-8493-59f0cc0dfbd4.jpg"
 section1-content: "<p>Figleaves knows what it takes to create the perfect fit. They\
   \ offer something for all woman, whatever their shape, size and style.</p>\r\n\r\
   \n<p>Their passion for lingerie and swimwear never stops. They create their very\
