@@ -32,8 +32,8 @@ section2-content: "<p>With numerous designs and pieces landing in store and onli
   \ dreamed of for that week in the sun or the perfect gift for your loved ones!</p>\r\
   \n<p>Every woman deserves to feel confident and Figleaves makes it possible.</p>"
 entry-title: "Win a £50 gift card at Figleaves and experience an Expressly Powerlink"
-entry-content: "<p>Nightwear, swimwear, lingerie...treat yourself with something with\
-  \ the chance to win a £50 gift card at Figleaves!</p> <p> Enter the draw to win\
-  \ by completing the form below before 23.59pm on 23/04/2018.</p>"
+entry-content: "<p>Nightwear, swimwear, lingerie...treat yourself with something nice\
+  \ with the chance to win a £50 gift card at Figleaves!</p> <p> Enter the draw to\
+  \ win by completing the form below before 23.59pm on 23/04/2018.</p>"
 has-winner: false
 ---
