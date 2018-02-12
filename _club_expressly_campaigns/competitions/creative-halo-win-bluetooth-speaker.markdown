@@ -36,4 +36,5 @@ entry-content: "<p>Liking the brand new looks of the new Creative Halo? You coul
   \ win the brand new Halo Bluetooth Speaker with Creative by entering the form below.</p>\
   \ <p> Enter the draw to win  by completing the form below before 23.59pm on 23/04/2018.</p>"
 has-winner: false
+prize-description: "a Creative Halo"
 ---
