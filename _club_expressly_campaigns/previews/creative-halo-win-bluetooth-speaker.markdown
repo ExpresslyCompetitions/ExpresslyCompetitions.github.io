@@ -21,7 +21,7 @@ logo-left-image: "https://assets.expresslyapp.com/02c67b6a-94df-43a2-b775-26fb02
 logo-left-title: "Creative UK"
 bg-image-hero: "https://assets.expresslyapp.com/asset-ba95fcc8-5878-4e91-9849-10775ce01be3.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-51fde598-e1f5-46d4-87fc-a603076bbc94.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-eb48472c-e5d7-4705-85ce-77ff8f1bfa62.png"
+bg-image-second: "https://assets.expresslyapp.com/asset-70f98b9f-8231-4a27-9dcc-d04518160330.jpg"
 section1-content: "<p>There are so many Bluetooth speakers nowadays, hard for any\
   \ to stand out. Except for the new Creative Halo whose sleek design is definitely\
   \ worth a look.</p>\r\n<p>The visual effects are the primary attraction but that\
