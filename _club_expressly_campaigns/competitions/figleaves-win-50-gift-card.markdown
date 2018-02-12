@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-743379c8-2001-461c-b353-976d98b2aada"
-type: "Preview"
+type: "Competition"
 category: "Fashion"
 date: "2018-02-09T15:22:05.000Z"
-end-date: "2018-04-23T09:00:00.000Z"
+end-date: "2018-05-31T09:00:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
