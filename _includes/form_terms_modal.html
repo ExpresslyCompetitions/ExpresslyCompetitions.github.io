@@ -8,14 +8,14 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <div class="modal-body px-5" id="{{include.id}}-content">
+            <div class="modal-body px-2 px-md-5" id="{{include.id}}-content">
                 <h4>'{{include.competition-name}}' Competition Rules</h4>
                 <div class="competition-terms-date">
                     <em>January 2018</em>
                 </div>
                 <div class="competition-terms-rules small text-justify pt-4">
                     <h5>A. RULES</h5>
-                    <ol>
+                    <ol class="pl-4">
                         <li>
                             The following rules ("Specific Rules") together with the general competition terms and
                             conditions (which can be found at http://win.buyexpressly.com/competition-terms.html) (the
@@ -30,7 +30,7 @@
                         </li>
                     </ol>
                     <h5>B. Details of the Competition</h5>
-                    <ol start="3">
+                    <ol class="pl-4" start="3">
                         <li>
                             To enter the Competition an Entrant must go online to {{include.competition-link}} and register their
                             details. Online entry will open at {{include.start-time}} {{include.start-date}} and close at {{include.end-time}} on
@@ -47,7 +47,7 @@
                         </li>
                     </ol>
                     <h5>C. Eligibility</h5>
-                    <ol start="7">
+                    <ol class="pl-4" start="7">
                         <li>
                             Entrants must be UK & Channel Islands residents only.
                         </li>
@@ -60,7 +60,7 @@
                         </li>
                     </ol>
                     <h5>D. Prize</h5>
-                    <ol start="10">
+                    <ol class="pl-4" start="10">
                         <li>One winner wins '{{include.prize-description | default: include.competition-name}}', subject to the Restrictions in Clause 11.</li>
                         <li>Restrictions on Prize redemption ("Restrictions"): {{include.prize-restrictions | default: 'N/A'}}.</li>
                         <li>Prize redemption will be discussed with the winner.</li>
@@ -74,8 +74,8 @@
 
             </div>
             <div class="modal-footer justify-content-center">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" data-pdf-source="{{include.id}}-content" data-pdf-title="{{include.competition-name}} - Competition Rules.pdf"><i class="fa fa-file-pdf-o"></i> Save PDF</button>
+                <button type="button" class="btn btn-secondary px-3 px-sm-5" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary px-3 px-sm-5" data-pdf-source="{{include.id}}-content" data-pdf-title="{{include.competition-name}} - Competition Rules.pdf"><i class="fa fa-file-pdf-o"></i> Save PDF</button>
             </div>
         </div>
     </div>
