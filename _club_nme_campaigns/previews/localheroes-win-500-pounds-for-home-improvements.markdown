@@ -23,15 +23,15 @@ logo-left-title: "British Gas Local Heroes"
 bg-image-hero: "https://assets.expresslyapp.com/asset-883d056c-e84c-4fc0-b313-7247e9b6331e.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-1b8d0373-f23f-4c9e-bf03-d6e82a1d7387.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
-section1-content: "<p>Do you have a problem? Planning a kitchen renovation? Why not\
-  \ seek for a quality contract from Local Heros? They are offering one lucky winner\
-  \ the possibility to get £500! This is your chance to get some extra renovation\
-  \ done, and Local Heroes can help you with it.</p>\r\n<p>Local Heroes is a separate\
-  \ business unit that has been set up by British Gas to redefine the way that trade\
-  \ related jobs are done around the home.</p>\r\n<p> Built by a mix of people from\
-  \ world class consumer internet companies and experts from within British Gas, they\
-  \ understand great online experiences and what’s involved in completing professional\
-  \ jobs inside peoples homes.</p>"
+section1-content: "<p>Anything needing work at home? Planning a kitchen renovation?\
+  \ Or something else? Why not seek for a quality contract from Local Heros? They\
+  \ are offering one lucky winner the possibility to get £500! This is your chance\
+  \ to get some extra renovation done, and Local Heroes can help you with it.</p>\r\
+  \n<p>Local Heroes is a separate business unit that has been set up by British Gas\
+  \ to redefine the way that trade related jobs are done around the home.</p>\r\n\
+  <p> Built by a mix of people from world class consumer internet companies and experts\
+  \ from within British Gas, they understand great online experiences and what’s involved\
+  \ in completing professional jobs inside peoples homes.</p>"
 section2-content: "<p>Don't miss this great occasion! It's very easy: enter your details,\
   \ choose your desired new home improvement and get a free quote from one of their\
   \ tradesmen. They can give you a free call to help you get through everything you\
