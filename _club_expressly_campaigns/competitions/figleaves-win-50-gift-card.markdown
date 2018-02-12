@@ -37,4 +37,9 @@ entry-content: "<p>Nightwear, swimwear, lingerie...treat yourself with something
   \ win by completing the form below before 23.59pm on 23/04/2018.</p>"
 has-winner: false
 prize-description: "a £50 gift card at Figleaves"
+prize-restrictions: "<p>Nightwear, swimwear, lingerie...treat yourself with something\
+  \ nice with  the chance to win a £50 gift card at Figleaves.</p> <p> Enter the draw\
+  \ to win by completing the form below before 23.59pm on 23/04/2018.</p>"
+special-conditions: "I agree to the competition <a href=\"../etc/figleaves-win-50-gift-card-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with Figleaves."
 ---
