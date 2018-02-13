@@ -58,4 +58,6 @@ has-winner: true
 winner-title: "Congratulations to Saffron L. (Luton) & Ashley A. (London) who won\
   \ the tickets to The Amazons' DJ set"
 winner-banner: "nme-vo5-amazons-ticket-banner2.jpg"
+prize-description: "x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
+  \ with Propaganda"
 ---
