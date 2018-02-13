@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-01-23T00:00:00.000Z"
 end-date: "2018-01-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
@@ -58,6 +58,6 @@ has-winner: true
 winner-title: "Congratulations to Saffron L. (Luton) & Ashley A. (London) who won\
   \ the tickets to The Amazons' DJ set"
 winner-banner: "nme-vo5-amazons-ticket-banner2.jpg"
-prize-description: "x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
+prize-description: "2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
 ---
