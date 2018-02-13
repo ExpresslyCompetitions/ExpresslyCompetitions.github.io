@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2017-11-19T00:00:00.000Z"
 end-date: "2018-01-31T00:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Get an original Disturbed Fire Behind Men's T-Shirt"
 competition-description: "Heavy cotton classic fit adult Gildan t-shirt with taped\
