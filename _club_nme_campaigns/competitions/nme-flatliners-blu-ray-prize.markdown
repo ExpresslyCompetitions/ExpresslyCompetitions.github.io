@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-02-05T09:00:00.000Z"
 end-date: "2018-02-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a copy of Flatliners on Blu-ray™"
 competition-description: "Calling all sci-fi fans. To celebrate the Blu-ray™ and DVD\
@@ -43,4 +43,5 @@ entry-content: "<p>The Flatliners Blu-ray release is loaded with additional excl
   \ bonus material, including deleted and extended scenes, for you to get stuck into.\
   \ <p><p>Enter the draw to win by completing the form below before 11.59pm on 11/02/2018.<p>"
 has-winner: false
+prize-description: "1 copy of Flatliners on Blu-ray"
 ---
