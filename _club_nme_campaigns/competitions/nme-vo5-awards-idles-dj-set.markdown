@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-01-30T10:00:00.000Z"
 end-date: "2018-02-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip with Propaganda"
 competition-description: "Weekend plans? We're giving away 3 pairs of tickets to the\
@@ -54,4 +54,6 @@ entry-content: "<p> Dance along to some banging tunes this Saturday, courtesy of
   \ </p> <p> Enter the draw to win tickets to the DJ Set by completing the form below\
   \ before 11.59pm on 01/02/2018. </p>"
 has-winner: false
+prize-description: "2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip\
+  \ with Propaganda"
 ---
