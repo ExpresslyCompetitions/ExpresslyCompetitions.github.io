@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-02-01T17:38:43.000Z"
 end-date: "2018-02-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
@@ -43,4 +43,6 @@ entry-content: "<p>Grab your dancing shoes people. Win one of 6 pairs of tickets
   \ Road Trip with Propaganda.<p> Enter the draw by completing the form below before\
   \ 11.59pm on 08/02/2018. </p>"
 has-winner: false
+prize-description: "2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
+  \ with Propaganda"
 ---
