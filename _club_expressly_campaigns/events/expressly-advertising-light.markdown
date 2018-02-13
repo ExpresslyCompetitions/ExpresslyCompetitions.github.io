@@ -3,7 +3,7 @@ campaign-uuid: "c-76414c35-b48e-4f92-9d54-fe2ec8d1a992"
 type: "Event"
 category: "Other"
 date: "2018-02-13T15:59:59.000Z"
-end-date: "2018-03-25T23:59:00.000Z"
+end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
