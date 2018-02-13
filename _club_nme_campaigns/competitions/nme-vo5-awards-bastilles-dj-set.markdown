@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-02-01T20:09:00.000Z"
 end-date: "2018-02-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip with Propaganda"
 competition-description: "Oh, Bastille fans are going to LOVE this. We're giving away\
@@ -46,4 +46,6 @@ entry-content: "<p>Listen up Bastille fans.. Win one of 14 pairs of tickets to W
   \ Propaganda.<p> Enter the draw by completing the form below before 11.59pm on 08/02/2018.\
   \ </p>"
 has-winner: false
+prize-description: "2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip\
+  \ with Propaganda"
 ---
