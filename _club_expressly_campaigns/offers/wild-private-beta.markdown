@@ -3,7 +3,7 @@ campaign-uuid: "c-38126421-32ec-42b5-b043-a647c038b4f3"
 type: "Offer"
 category: "Technology"
 date: "2018-02-13T11:21:44.000Z"
-end-date: "2018-03-25T23:59:00.000Z"
+end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
