@@ -7,14 +7,16 @@ end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a copy of Blade Runner 2049 on Blu-ray™  and a Vinyl soundtrack"
+title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack of the\
+  \ movie"
 competition-description: "Calling all Ryan Gosling and Ana de Armas lovers. To celebrate\
   \ the Blu-ray™ release of the 8 BAFTA nominations and Academy Award®-nominated director\
   \ Denis Villeneuve, Blade Runner 2049 — we’ve got in our hands the official Blu-ray™\
   and a fantastic Vinyl soundtrack of the movie for one lucky NME reader to win. Featuring\
   \ exclusive bonus content such as behind-the-scenes action, prologues…and many more!\r\
   \n\r\n<br/>Sounds good? You know what to do…"
-hero-header: "Win a copy of Blade Runner 2049 on Blu-ray™and a Vinyl soundtrack"
+hero-header: "Win a copy of Blade Runner 2049 on Blu-ray™and a Vinyl soundtrack of\
+  \ the movie"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0ddce3ab-71bf-45c9-a846-c6ed7044719a.jpg"
 logo-left-href: "http://nme.com/"
@@ -27,7 +29,7 @@ bg-image-third: "https://assets.expresslyapp.com/asset-ababb656-e43d-4f2f-bbe5-4
 section1-content: "<p>To celebrate the Blu-ray™ release of Blade Runner 2049, we've\
   \ managed to get our hands on the official Blu-ray™ and a fantastic Vinyl soundtrack\
   \ of the movie for one lucky NME reader to win.</p>\r\n <p>Starring Ryan Gosling\
-  \ (La La Land), Harrison Ford (Star Wars Films), and Ana de Armas (War Dogs)…this\
+  \ (La La Land), Harrison Ford (Star Wars Films), and Ana de Armas (War Dogs), this\
   \ new movie unearths a long-buried secret that has the potential to plunge what’\
   s left of society into chaos. </p>"
 section2-content: "<p>The sensational Blu-ray™ is packed with full of exclusive bonus\
@@ -43,5 +45,6 @@ entry-content: "<p>The Blade Runner 2049 Blu-ray™ release is loaded with addit
   \ exclusive bonus content for you to get stuck into. <p><p>Enter the draw to win\
   \ by completing the form below before 11.59pm on 20/02/2018.<p>"
 has-winner: false
-prize-description: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
+prize-description: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack\
+  \ of the movie"
 ---
