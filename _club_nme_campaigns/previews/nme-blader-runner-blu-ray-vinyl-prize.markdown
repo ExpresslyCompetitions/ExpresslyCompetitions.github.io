@@ -39,8 +39,10 @@ section2-content: "<p>The sensational Blu-ray™ is packed with full of exclusiv
   \ \r\n<p>This Blade Runner 2049 Blu-ray™ release from Sony Pictures Home Entertainment\
   \ is the best plan for your weekend!</p>"
 section3-content: "<p>Enter your details below for a chance to win this Science-Fiction\
-  \ Epic movie on Blu-ray™ and a fantastic Vinyl sountrack.</p>\r\n <p>Good luck!</p>"
-entry-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
+  \ Epic movie on Blu-ray™ and a fantastic Vinyl sountrack of the movie.</p>\r\n <p>Good\
+  \ luck!</p>"
+entry-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack of\
+  \ the movie"
 entry-content: "<p>The Blade Runner 2049 Blu-ray™ release is loaded with additional\
   \ exclusive bonus content for you to get stuck into. <p><p>Enter the draw to win\
   \ by completing the form below before 11.59pm on 20/02/2018.<p>"
