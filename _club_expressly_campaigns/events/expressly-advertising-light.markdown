@@ -16,7 +16,7 @@ competition-description: "Everyone wants to feel safe when surfing online but mo
   \ with technology to transform any link into a ‘Powerlink’ that transparently asks\
   \ the person if they want to visit the advertiser's site.</p> <p>Click on the link\
   \ to know all of the details.</p>"
-banner-img: "https://assets.expresslyapp.com/asset-3435c7ae-68e9-41a1-a055-fb036a77268d.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-c08e85dc-5fb1-4922-8aa8-ef9842999bd1.jpg"
 logo-left-href: "http://demo.buyexpressly.com/"
 logo-left-image: "https://assets.expresslyapp.com/113a7c4c-159d-4e0d-952c-214bc7f3bad3-thumb.png"
 logo-left-title: "Expressly Demo"
