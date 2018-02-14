@@ -16,6 +16,6 @@ competition-description: "Get ready, because we have huge news to tell you! The 
 banner-img: "https://assets.expresslyapp.com/asset-82128fae-b577-42d8-9adb-84e0f89fc261.jpg"
 logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
 logo-left-image: "seetickets-logo.png"
-logo-left-title: "See Tickets"
+logo-left-title: "NME"
 has-winner: false
 ---
