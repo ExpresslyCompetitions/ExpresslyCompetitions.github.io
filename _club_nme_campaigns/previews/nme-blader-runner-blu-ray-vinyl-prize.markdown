@@ -7,7 +7,7 @@ end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
+title: "Win a copy of Blade Runner 2049 on Blu-ray™  and a Vinyl soundtrack"
 competition-description: "Calling all Ryan Gosling and Ana de Armas lovers. To celebrate\
   \ the Blu-ray™ release of the 8 BAFTA nominations and Academy Award®-nominated director\
   \ Denis Villeneuve, Blade Runner 2049 — we’ve got in our hands the official Blu-ray™\
