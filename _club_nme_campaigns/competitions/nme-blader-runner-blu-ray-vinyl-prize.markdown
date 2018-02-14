@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-b3bcbdbf-13ee-4cd7-8dd5-6a078e4cadb8"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-02-14T15:00:00.000Z"
 end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack of the\
   \ movie"
