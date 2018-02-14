@@ -2,18 +2,18 @@
 campaign-uuid: "c-b3bcbdbf-13ee-4cd7-8dd5-6a078e4cadb8"
 type: "Preview"
 category: "Entertainment"
-date: "2018-02-14T10:07:58.464Z"
+date: "2018-02-14T10:07:58.000Z"
 end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
 competition-description: "Calling all Ryan Gosling and Ana de Armas lovers. To celebrate\
-  \ the Blu-ray™release of the 8 BAFTA nominations and Academy Award®-nominated director\
-  \ Denis Villeneuve, Blade Runner 2049 —we’ve got in our hands the official Blu-ray™\
+  \ the Blu-ray™ release of the 8 BAFTA nominations and Academy Award®-nominated director\
+  \ Denis Villeneuve, Blade Runner 2049 — we’ve got in our hands the official Blu-ray™\
   and a fantastic Vinyl soundtrack of the movie for one lucky NME reader to win. Featuring\
   \ exclusive bonus content such as behind-the-scenes action, prologues…and many more!\r\
-  \n\r\nSounds good? You know what to do…"
+  \n\r\n<br/>Sounds good? You know what to do…"
 hero-header: "Win a copy of Blade Runner 2049 on Blu-ray™and a Vinyl soundtrack"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0ddce3ab-71bf-45c9-a846-c6ed7044719a.jpg"
@@ -35,7 +35,7 @@ section2-content: "<p>The sensational Blu-ray™ is packed with full of exclusiv
   \ Denis Villeneuve, executive producer Ridley Scott, Harrison Ford and Ryan Gosling\
   \ and three original shorts from directors Shinichiro Watanabe and Luke Scott. This\
   \ Blade Runner 2049 Blu-ray™ release from Sony Pictures Home Entertainment is the\
-  \ best plan for the weekend.</p>"
+  \ best plan for your weekend!</p>"
 section3-content: "<p>Enter your details below for a chance to win this Science-Fiction\
   \ Epic movie on Blu-ray™ and a fantastic Vinyl sountrack.</p>\r\n <p>Good luck!</p>"
 entry-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
