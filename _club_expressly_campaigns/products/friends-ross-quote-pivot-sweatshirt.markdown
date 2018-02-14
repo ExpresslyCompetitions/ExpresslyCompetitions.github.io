@@ -11,7 +11,7 @@ title: "Get the official Friends Inspired Ross Quote Pivot Men's Sweatshirt"
 competition-description: "Are you the biggest fan of one of the most recognised and\
   \ funny shows of all times? If the answer is yes, you've come to the right place.\
   \ Don't miss out the chance to get the official sweatshirt of the comical and quirky\
-  \ Ross Geller from the American show ¡FRIENDS!\r\n\r\n<br/>The set-in-sleeves sweatshirt\
+  \ Ross Geller from the American show FRIENDS!\r\n\r\n<br/>The set-in-sleeves sweatshirt\
   \ is available in different sizes. \r\nPrinted in three different tones with a photo\
   \ front design of the inspired Ross quote Pivot, will make you stand out."
 banner-img: "https://assets.expresslyapp.com/asset-386991e1-477f-49f7-8a3f-a6b065ddade2.jpg"
