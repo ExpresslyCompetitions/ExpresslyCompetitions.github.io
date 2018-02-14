@@ -2,7 +2,7 @@
 campaign-uuid: "c-b3bcbdbf-13ee-4cd7-8dd5-6a078e4cadb8"
 type: "Preview"
 category: "Entertainment"
-date: "2018-02-14T10:07:58.000Z"
+date: "2018-02-14T15:00:00.000Z"
 end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
