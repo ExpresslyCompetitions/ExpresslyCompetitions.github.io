@@ -33,9 +33,9 @@ section1-content: "<p>To celebrate the Blu-ray™ release of Blade Runner 2049, 
 section2-content: "<p>The sensational Blu-ray™ is packed with full of exclusive bonus\
   \ content including in-depth behind the scenes of the cast and crew including director\
   \ Denis Villeneuve, executive producer Ridley Scott, Harrison Ford and Ryan Gosling\
-  \ and three original shorts from directors Shinichiro Watanabe and Luke Scott. This\
-  \ Blade Runner 2049 Blu-ray™ release from Sony Pictures Home Entertainment is the\
-  \ best plan for your weekend!</p>"
+  \ and three original shorts from directors Shinichiro Watanabe and Luke Scott.</p>\
+  \ \r\n<p>This Blade Runner 2049 Blu-ray™ release from Sony Pictures Home Entertainment\
+  \ is the best plan for your weekend!</p>"
 section3-content: "<p>Enter your details below for a chance to win this Science-Fiction\
   \ Epic movie on Blu-ray™ and a fantastic Vinyl sountrack.</p>\r\n <p>Good luck!</p>"
 entry-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack"
