@@ -11,10 +11,10 @@ title: "Bring advertising back into the light with Expressly"
 competition-description: "Everyone wants to feel safe when surfing online but most\
   \ consumers are often not aware of what they are signing up for when they use websites.\r\
   \n\r\n<p>It’s time to start building direct, human relationships online, and make\
-  \ them the centre of digital advertising. This is exactly what Expressly does.</p>\
-  \ <p>Expressly is one of the largest e-commerce and tech hubs worldwide,\_that provides\
-  \ publishers with technology to transform any link into a ‘Powerlink’ that transparently\
-  \ asks the person if they want to visit the advertiser's site.</p>\r\n\r\n<br/>Click\
+  \ them the centre of digital advertising. This is exactly what Expressly does. Expressly\
+  \ is one of the largest e-commerce and tech hubs worldwide,\_that provides publishers\
+  \ with technology to transform any link into a ‘Powerlink’ that transparently asks\
+  \ the person if they want to visit the advertiser's site.</p>\r\n\r\n<br/>Click\
   \ on the link to know all of the details."
 banner-img: "https://assets.expresslyapp.com/asset-29f92d06-ab59-4a3a-9d1b-159b94c56b39.jpg"
 logo-left-href: "http://demo.buyexpressly.com/"
