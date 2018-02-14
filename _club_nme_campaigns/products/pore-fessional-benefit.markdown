@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-99d478ee-f640-49fb-a40a-84c2561f3cda"
-type: "Preview"
-category: "Fashion"
-date: "2018-02-14T15:41:21.622Z"
+type: "Product"
+category: "Gifts"
+date: "2018-02-14T15:41:22.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
