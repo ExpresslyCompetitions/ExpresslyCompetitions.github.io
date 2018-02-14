@@ -15,7 +15,7 @@ competition-description: "Calling all Ryan Gosling and Ana de Armas lovers. To c
   and a fantastic Vinyl soundtrack of the movie for one lucky NME reader to win. Featuring\
   \ exclusive bonus content such as behind-the-scenes action, prologues…and many more!\r\
   \n\r\n<br/>Sounds good? You know what to do…"
-hero-header: "Win a copy of Blade Runner 2049 on Blu-ray™and a Vinyl soundtrack of\
+hero-header: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack of\
   \ the movie"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0ddce3ab-71bf-45c9-a846-c6ed7044719a.jpg"
