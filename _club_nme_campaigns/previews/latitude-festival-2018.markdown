@@ -15,7 +15,7 @@ competition-description: "Latitude festival has announced its lineup for 2018 an
   \ like a perfect plan? Get tickets before they are sold out!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-1aa0aa8b-6b57-48fb-b0de-86b4e812ce4b.jpg"
 logo-left-href: "https://www.tickx.co.uk/event/999306/"
-logo-left-image: "https://assets.expresslyapp.com/asset-588b2925-6af0-4f86-ac14-208d9c84307d.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-51a82d6b-d501-4dcb-babb-15d3445c11d8.jpg"
 logo-left-title: "Tickx"
 has-winner: false
 ---
