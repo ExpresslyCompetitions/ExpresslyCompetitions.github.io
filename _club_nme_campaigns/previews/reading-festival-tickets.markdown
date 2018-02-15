@@ -2,7 +2,7 @@
 campaign-uuid: "c-29a8bd38-685c-418c-8e30-81c9408c0f4e"
 type: "Preview"
 category: "Tickets"
-date: "2018-02-15T11:57:05.719Z"
+date: "2018-02-15T11:57:06.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -17,6 +17,6 @@ competition-description: "The number one UK music festival is coming back, The R
 banner-img: "https://assets.expresslyapp.com/asset-e88c4b1b-65f4-463b-9a76-b4604faa97b0.jpg"
 logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
 logo-left-image: "seetickets-logo.png"
-logo-left-title: "NME"
+logo-left-title: "See Tickets"
 has-winner: false
 ---
