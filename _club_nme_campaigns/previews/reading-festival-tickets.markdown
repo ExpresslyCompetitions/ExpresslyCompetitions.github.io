@@ -12,8 +12,8 @@ competition-description: "The number one UK music festival is coming back, The R
   \ Festival! and is taking place over August Bank Holiday Weekend! \r\nWe know that\
   \ you have been waiting patiently.. and now we can finally reveal some of the headliners\
   \ for the event of the year! Kendrick Lamar, Kings of Lion, Fall Out Boy… and many\
-  \ more! We are just getting started! \r\nReady to secure the best weekend of your\
-  \ summer?"
+  \ more! We are just getting started! \r\n<p>Ready to secure the best weekend of\
+  \ your summer?</p>"
 banner-img: "https://assets.expresslyapp.com/asset-e88c4b1b-65f4-463b-9a76-b4604faa97b0.jpg"
 logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
 logo-left-image: "seetickets-logo.png"
