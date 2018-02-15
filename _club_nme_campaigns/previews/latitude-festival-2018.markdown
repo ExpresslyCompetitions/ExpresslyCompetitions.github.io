@@ -11,8 +11,8 @@ title: "Latitude Festival 2018"
 competition-description: "Latitude festival has announced its lineup for 2018 and\
   \ if it was anything like last year, we're in for a treat. The Killers, Alt-J and\
   \ Solange have been confirmed to headline this year's event in July that will be\
-  \ taking place from Thursday 12 – Sunday 15 at Henham Park in Suffolk. \r\nSounds\
-  \ like a perfect plan? Get tickets before they are sold out!"
+  \ taking place from Thursday 12 – Sunday 15 at Henham Park in Suffolk. \r\n<p>Sounds\
+  \ like a perfect plan? Get tickets before they are sold out!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-1aa0aa8b-6b57-48fb-b0de-86b4e812ce4b.jpg"
 logo-left-href: "https://www.seetickets.com/tour/latitude-festival"
 logo-left-image: "seetickets-logo.png"
