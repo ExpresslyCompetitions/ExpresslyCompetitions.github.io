@@ -15,8 +15,8 @@ competition-description: "The number one UK music festival is coming back, The R
   \ more! We are just getting started! \r\n<p>Ready to secure the best weekend of\
   \ your summer?</p>"
 banner-img: "https://assets.expresslyapp.com/asset-e88c4b1b-65f4-463b-9a76-b4604faa97b0.jpg"
-logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
-logo-left-image: "seetickets-logo.png"
-logo-left-title: "See Tickets"
+logo-left-href: "https://www.tickx.co.uk/reading-festival-tickets/"
+logo-left-image: "https://assets.expresslyapp.com/asset-a79b33ea-bebc-4cc2-8e55-c50b46231f24.jpg"
+logo-left-title: "Tickx"
 has-winner: false
 ---
