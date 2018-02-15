@@ -14,8 +14,8 @@ competition-description: "Get ready, because we have huge news to tell you! The 
   \ and Glasgow. \r\nTickets go on sale this Friday (February 16) at 9am, click in\
   \ the link below before they're sold out!"
 banner-img: "https://assets.expresslyapp.com/asset-82128fae-b577-42d8-9adb-84e0f89fc261.jpg"
-logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
-logo-left-image: "seetickets-logo.png"
-logo-left-title: "NME"
+logo-left-href: "https://www.tickx.co.uk/camila-cabello-tickets/"
+logo-left-image: "https://assets.expresslyapp.com/asset-b6b337a8-a234-4384-8ee7-a0dee9275af2.jpg"
+logo-left-title: "Tickx"
 has-winner: false
 ---
