@@ -8,9 +8,9 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Go back to the origins with Belstaff"
-competition-description: "Incorporating “seasonless” technology,\_\_that make the\
-  \ garments\_incredibly lightweight, waterproof, windproof, breathable, moisture-wicking\
-  \ and UV protective… these developments look set to represent\_a\_vanguard of performance\
+competition-description: "Incorporating “seasonless” technology,\_that make the garments\_\
+  incredibly lightweight, waterproof, windproof, breathable, moisture-wicking and\
+  \ UV protective… these developments look set to represent\_a\_vanguard of performance\
   \ fabric technology! \r\nThis brand new collection is the latest chapter in the\
   \ brand’s long history of fabric innovation. Discover your inner adventurer side\
   \ with Belstaff new collection: ORIGINS."
