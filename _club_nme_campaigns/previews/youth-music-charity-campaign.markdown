@@ -2,7 +2,7 @@
 campaign-uuid: "c-ddc94fe9-66c1-4c90-8625-8c303e597f9c"
 type: "Preview"
 category: "Tickets"
-date: "2018-02-16T12:27:44.023Z"
+date: "2018-02-16T12:27:44.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -19,7 +19,7 @@ competition-description: "Bringing musical opportunities and working collaborati
   \n<p>Click in the link below to get involved.</p>"
 banner-img: "https://assets.expresslyapp.com/asset-750a3440-6bfd-4295-aae8-02d3800a0829.jpg"
 logo-left-href: "https://www.youthmusic.org.uk/"
-logo-left-image: "https://assets.expresslyapp.com/adf750da-cc76-4945-bd62-6a5693609aaf-thumb.png"
+logo-left-image: "https://assets.expresslyapp.com/asset-86972922-c68f-4d93-8844-a7c0c86dead1.jpg"
 logo-left-title: "Youth Music"
 has-winner: false
 ---
