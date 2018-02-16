@@ -9,11 +9,11 @@ is_promoted: false
 has_entry_page: false
 title: "Youth Music: Making music, Changing lives."
 competition-description: "Bringing musical opportunities and working collaboratively\
-  \ to transform music education for children all over the UK… Youth Music flagship\
+  \ to transform music education for children all over the UK… Youth Music's flagship\
   \ fund-raising initiative is back! Their goal is support and help young people’\
   s relationship with music and to build their confidence, resilience and   self-esteem.\r\
   \n<p>After a fantastic first-ever Give a Gig Week in 2017, Youth Music’s flagship\
-  \ fundraising will take place from 16-25 March 18. Raise money to support young\
+  \ fund-raising will take place from 16-25 March 18. Raise money to support young\
   \ people experiencing incredibly challenging circumstances! You can transform the\
   \ lives of children and young people by putting on a live music event.</p><p>Click\
   \ in the link below to get involved.</p>"
