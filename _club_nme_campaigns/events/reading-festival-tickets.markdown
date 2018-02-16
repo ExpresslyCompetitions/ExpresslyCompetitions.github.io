@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-02-15T11:57:06.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Get tickets for the nº1 UK Festival: Reading Festival"
 competition-description: "The number one UK music festival is coming back, The Reading\
