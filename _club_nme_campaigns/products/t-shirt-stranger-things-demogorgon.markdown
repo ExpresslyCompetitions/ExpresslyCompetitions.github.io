@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-dcca05a0-bf2b-4f7d-acb2-386d84696b3d"
-type: "Preview"
+type: "Product"
 category: "Fashion"
 date: "2018-02-15T10:41:46.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 title: "Get the official t-shirt of Netflix new series Stranger Things!"
 competition-description: "Don’t miss the chance to get the official t-shirt of the\
