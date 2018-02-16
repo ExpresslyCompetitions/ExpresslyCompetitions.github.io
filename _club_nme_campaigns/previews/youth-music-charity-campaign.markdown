@@ -7,7 +7,7 @@ end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
-title: "Youth Music: Making music, Changing lives."
+title: "Help Youth Music: Give a Gig in 2018"
 competition-description: "Bringing musical opportunities and working collaboratively\
   \ to transform music education for children all over the UK… Youth Music's flagship\
   \ fund-raising initiative is back! Their goal is support and help young people’\
