@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-e3d8b139-8deb-4555-bbb6-5d84a5f5ec35"
-type: "Preview"
+type: "Product"
 category: "Gifts"
 date: "2018-02-15T14:10:00.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
