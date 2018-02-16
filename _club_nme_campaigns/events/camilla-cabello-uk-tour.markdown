@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-02-14T16:53:08.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Camila Cabello 2018 UK tour"
 competition-description: "Get ready, because we have huge news to tell you! The ‘\
