@@ -17,16 +17,15 @@ banner-img: "https://assets.expresslyapp.com/asset-36a24be9-cf11-41f3-bb3b-9b77c
 logo-left-href: "http://nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-48ee95da-bf48-42e4-b66e-d645d249e958.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-7e10474f-1952-4728-8b12-2574cb2cc8b8.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-b8887e7c-f283-411f-8a34-7043185ddd7b.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-f2b35b26-ac68-4d3b-b410-404b84507cd9.png"
-bg-image-third: "https://assets.expresslyapp.com/asset-aec46bb2-dd6c-4b60-bb9b-7bf8d1f34db1.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2c1bd9d1-d518-4096-bf93-75cbb11db5d7.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-c8d4cd0a-b9cc-4f20-8295-90770239386f.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-d72d6bd1-a0a2-4190-b492-f93b52c77870.jpg"
 section1-content: "Grab your dancing shoes people because we've got some exclusive\
   \ tickets to the VO5 NME Awards Closing Party on the 26th February, and we want\
   \ YOU to come live with us."
 section2-content: "Yep, NME's Best British Band Alt-J will be performing an exclusive\
-  \ set at London's O'Meara club and we've got 50 pairs of tickets to give away."
-section3-content: "Wanna come hang? Simply enter via the link below."
+  \ set at London's O'Meara club and we've got 50 pairs of tickets to give away.\r\
+  \n\r\n<p>Wanna come hang? Simply enter via the link below.</p>"
 entry-title: "Win tickets to the VO5 NME Awards Closing Party with Alt-J"
 entry-content: "<p>Enter the draw to win tickets by completing the form below before\
   \ 14:00 on 2018:02:22.</p>"
