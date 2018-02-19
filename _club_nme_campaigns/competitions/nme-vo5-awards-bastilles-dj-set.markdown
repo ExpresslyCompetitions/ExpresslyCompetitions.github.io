@@ -45,7 +45,10 @@ entry-content: "<p>Listen up Bastille fans.. Win one of 14 pairs of tickets to W
   \ DJ Set on Saturday 10th February, as part of our epic NME Awards Road Trip with\
   \ Propaganda.<p> Enter the draw by completing the form below before 11.59pm on 08/02/2018.\
   \ </p>"
-has-winner: false
+has-winner: true
+winner-title: "Bethan, Daisy, Francesca, Chloe, Monika, Antoana, Montserrat, Eloise,\
+  \ Larissa, Serena, Matilda, Lauren, Lucy and Daniella."
+winner-banner: "https://assets.expresslyapp.com/asset-86f3d074-b180-4de1-a740-9affa50e6f9d.jpg"
 prize-description: "2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
 ---
