@@ -42,7 +42,10 @@ entry-content: "<p>Grab your dancing shoes people. Win one of 6 pairs of tickets
   \ the Marmozets DJ Set on Saturday 10th February, as part of our epic NME Awards\
   \ Road Trip with Propaganda.<p> Enter the draw by completing the form below before\
   \ 11.59pm on 08/02/2018. </p>"
-has-winner: false
+has-winner: true
+winner-title: "Andrew, Kavita, Rachel, Jackie, Antoana, and Tasmin won 2 tickets to\
+  \ see the amazing Marmozets, CONGRATULATIONS!"
+winner-banner: "https://assets.expresslyapp.com/asset-6f79f79a-b3a9-4c75-9a9e-d9acaaa4ece5.jpg"
 prize-description: "2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
 ---
