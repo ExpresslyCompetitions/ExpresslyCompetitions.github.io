@@ -43,8 +43,8 @@ entry-content: "<p>The Flatliners Blu-ray release is loaded with additional excl
   \ bonus material, including deleted and extended scenes, for you to get stuck into.\
   \ <p><p>Enter the draw to win by completing the form below before 11.59pm on 11/02/2018.<p>"
 has-winner: true
-winner-title: "CONGRATULATIONS to Colin, Chris, Daniel, Ayden and Nicky won a fantastic\
-  \ copy of Flatliners on Blu-ray™"
+winner-title: "CONGRATULATIONS to Colin, Chris, Daniel, Ayden and Nicky who won a\
+  \ fantastic copy of Flatliners on Blu-ray™"
 winner-banner: "https://assets.expresslyapp.com/asset-5bffc88a-9e5b-4843-938e-7f46eead84d7.jpg"
 prize-description: "1 copy of Flatliners on Blu-ray"
 ---
