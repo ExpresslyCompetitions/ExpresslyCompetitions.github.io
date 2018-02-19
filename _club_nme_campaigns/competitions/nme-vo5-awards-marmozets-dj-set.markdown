@@ -44,7 +44,7 @@ entry-content: "<p>Grab your dancing shoes people. Win one of 6 pairs of tickets
   \ 11.59pm on 08/02/2018. </p>"
 has-winner: true
 winner-title: "CONGRATULATIONS! to Andrew, Kavita, Rachel, Jackie, Antoana, and Tasmin\
-  \ won 2 tickets to see the amazing Marmozets DJ set."
+  \ who won 2 tickets to see the amazing Marmozets DJ set."
 winner-banner: "https://assets.expresslyapp.com/asset-6f79f79a-b3a9-4c75-9a9e-d9acaaa4ece5.jpg"
 prize-description: "2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
