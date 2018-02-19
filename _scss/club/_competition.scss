@@ -142,7 +142,8 @@ body.competition {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 30vw;
+    padding-bottom: 50%;
+    width: 100%;
   }
 
   .row-he {
@@ -164,7 +165,7 @@ body.competition {
     #second-img,
     #third-img
     {
-      min-height: 50vw;
+      padding-bottom: 100%;
     }
   }
 
