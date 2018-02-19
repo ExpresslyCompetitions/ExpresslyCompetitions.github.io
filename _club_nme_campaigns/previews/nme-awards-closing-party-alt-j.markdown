@@ -17,10 +17,10 @@ banner-img: "https://assets.expresslyapp.com/asset-0024694a-de7b-418b-829c-d51ea
 logo-left-href: "http://nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-48ee95da-bf48-42e4-b66e-d645d249e958.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-86d18068-be2e-4480-bc0f-2f39fb02d73e.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-a3e426c7-4e9b-47f0-a9dc-14fe6feb54bc.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-3f851093-35c1-4b2e-90be-73c088ee70fc.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-11ac99c8-f22a-4f03-ba67-912dfa84c005.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-e3224f43-5969-4431-9342-38eb6236808f.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-ccd0a5d7-58af-4113-b0d6-d3cb22e7c954.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-48bdc8bd-405f-41c4-9f21-7c5a7a8e9fc5.png"
+bg-image-third: "https://assets.expresslyapp.com/asset-4fdb1db9-4e9e-4878-bcac-0064ff534c96.jpg"
 section1-content: "Grab your dancing shoes people because we've got some excluisve\
   \ tickets to the VO5 NME Awards Closing Party on the 26th February, and we want\
   \ YOU to come jive with us."
