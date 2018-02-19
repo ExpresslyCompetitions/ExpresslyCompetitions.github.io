@@ -21,9 +21,9 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-e3224f43-5969-4431-9342-38
 bg-image-first: "https://assets.expresslyapp.com/asset-ccd0a5d7-58af-4113-b0d6-d3cb22e7c954.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-48bdc8bd-405f-41c4-9f21-7c5a7a8e9fc5.png"
 bg-image-third: "https://assets.expresslyapp.com/asset-4fdb1db9-4e9e-4878-bcac-0064ff534c96.jpg"
-section1-content: "Grab your dancing shoes people because we've got some excluisve\
+section1-content: "Grab your dancing shoes people because we've got some exclusive\
   \ tickets to the VO5 NME Awards Closing Party on the 26th February, and we want\
-  \ YOU to come jive with us."
+  \ YOU to come live with us."
 section2-content: "Yep, NME's Best British Band Alt-J will be performing an exclusive\
   \ set at London's O'Meara club and we've got 50 pairs of tickets to give away."
 section3-content: "Wanna come hang? Simply enter via the link below."
