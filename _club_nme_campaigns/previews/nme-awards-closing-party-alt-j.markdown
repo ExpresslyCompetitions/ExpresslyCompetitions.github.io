@@ -17,7 +17,7 @@ banner-img: "https://assets.expresslyapp.com/asset-36a24be9-cf11-41f3-bb3b-9b77c
 logo-left-href: "http://nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-3c0377ca-4563-4cb5-b568-5d9a86ab5716.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-7ca33a08-207f-45ba-91ae-12a5f5f1a6aa.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2dfc9689-5fee-47c7-857b-4e209e95e2b2.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-c8d4cd0a-b9cc-4f20-8295-90770239386f.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-d72d6bd1-a0a2-4190-b492-f93b52c77870.jpg"
 section1-content: "Grab your dancing shoes people because we've got some exclusive\
