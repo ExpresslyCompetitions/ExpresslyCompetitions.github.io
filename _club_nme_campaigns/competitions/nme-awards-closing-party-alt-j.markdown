@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-5581c82a-0bed-4a65-a245-ef8e6e4a9b5c"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-02-19T10:20:54.000Z"
 end-date: "2018-02-22T14:00:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 competition-description: "Fancy coming along to see the winner of NME's Best British\
