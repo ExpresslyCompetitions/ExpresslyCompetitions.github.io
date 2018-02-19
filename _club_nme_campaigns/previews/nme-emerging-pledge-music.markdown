@@ -2,7 +2,7 @@
 campaign-uuid: "c-a808cdbd-bd4e-4ba5-be1e-9cd8f2cdb64d"
 type: "Preview"
 category: "Other"
-date: "2018-02-19T16:54:12.250Z"
+date: "2018-02-19T16:54:12.000Z"
 end-date: "2018-03-15T00:00:00.000Z"
 disable-form: false
 is_promoted: false
