@@ -30,8 +30,8 @@ section1-content: "The NME Team are listening…and if they like what they hear,
 section2-content: "Sell merch, share music, videos…NME wants to support emerging artists!\
   \ and thanks to them you could keep your brand consistent everywhere!"
 section3-content: "Smart bands also join Pledge Music, the simple way to get your\
-  \ fans to support you: sign up here: https://www.pledgemusic.com/\r\n\r\nDon't miss\
-  \ out on this amazing opportunity and let the world hear your voice!"
+  \ fans to support you: sign up here: https://www.pledgemusic.com/\r\n<p>Don't miss\
+  \ out on this amazing opportunity and let the world hear your voice!</p>"
 entry-title: "Get your favourite indie band a real chance with NME Emerging and Pledge\
   \ Music!"
 entry-content: "<p>Do you want to be noticed in today’s music industry? Create an\
