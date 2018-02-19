@@ -25,8 +25,8 @@ section1-content: "Grab your dancing shoes people because we've got some exclusi
   \ to come live with us."
 section2-content: "Yep, NME's Best British Band Alt-J will be performing an exclusive\
   \ set at London's O'Meara Club and we've got 50 pairs of standard tickets to give\
-  \ away. Sounds amazing, right?\r\n\r\n<p>If you wanna come hang? Simply enter via\
-  \ the link below.</p>"
+  \ away. Sounds amazing, right?\r\n<p>If you wanna come hang? Simply enter via the\
+  \ link below.</p>"
 entry-title: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 entry-content: "<p>Enter the draw to win tickets by completing the form below before\
   \ 14:00 on 2018:02:22.</p>"
