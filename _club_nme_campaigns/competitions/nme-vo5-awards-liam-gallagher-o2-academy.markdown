@@ -39,8 +39,8 @@ entry-content: "<p> Join the VO5 NME Awards Ceremony Awards with NME AAA. One lu
   \ included.</p> <p> Enter the draw to win 2 tickets by completing the form below\
   \ before 11.59pm on 24/01/2018. </p>"
 has-winner: true
-winner-title: "CONGRATULATIONS to Jacob B. won 2 tickets to the NME Awards Ceremony\
-  \ with Liam Gallagher and had the chance to attend the event!"
+winner-title: "CONGRATULATIONS to Jacob B. who won 2 tickets to the NME Awards Ceremony\
+  \ with Liam Gallagher."
 winner-banner: "https://assets.expresslyapp.com/asset-d3934cf3-590d-4870-b985-4f317da5089d.jpg"
 prize-description: "2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
 ---
