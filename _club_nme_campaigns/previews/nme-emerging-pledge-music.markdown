@@ -23,12 +23,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-3e27a2a1-4702-486a-9fba-1a
 bg-image-first: "https://assets.expresslyapp.com/asset-a3ebdfad-da50-406b-b921-a7c76b238352.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-6f27431b-afd9-46b9-8dd2-6546212f052b.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-38a0f371-d519-4368-91b4-94f0390b4819.jpg"
-section1-content: "The NME Team are listening…and if they like what they hear, they\
+section1-content: "The NME Team are listening… and if they like what they hear, they\
   \ could promote you across NME or invite you to perform at one of their London venues!\
-  \ Does it sounds good to you?\r\n<p>Setting up your profile on NME.com is so easy\
+  \ Does it sound good to you?\r\n<p>Setting up your profile on NME.com is so easy\
   \ and it’s also completely free!</p>"
-section2-content: "Sell merch, share music, videos…NME wants to support emerging artists!\
-  \ and thanks to them you could keep your brand consistent everywhere!"
+section2-content: "Sell merch, share music, videos… NME wants to support emerging\
+  \ artists! and thanks to them you could keep your brand consistent everywhere!"
 section3-content: "Smart bands also join Pledge Music, the simple way to get your\
   \ fans to support you: sign up here: https://www.pledgemusic.com/\r\n<p>Don't miss\
   \ out on this amazing opportunity and let the world hear your voice!</p>"
