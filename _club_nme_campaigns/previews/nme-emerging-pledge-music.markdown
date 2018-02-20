@@ -35,7 +35,7 @@ section3-content: "Smart bands also join Pledge Music, the simple way to get you
 entry-title: "Get your favourite indie band a real chance with NME Emerging and Pledge\
   \ Music!"
 entry-content: "<p>Do you want to be noticed in today’s music industry? Create an\
-  \ NME Artist Profile and get your music heard by the NME Team.</p>"
+  \ NME Artist Profile and get your music heard by the NME Team!</p>"
 has-winner: false
 prize-description: "One lucky fan will give his/her favourite band the chance to go\
   \ and play in NME offices & £2,000 support from Pledge Music."
