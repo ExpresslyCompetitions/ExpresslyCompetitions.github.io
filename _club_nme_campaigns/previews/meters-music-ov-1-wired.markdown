@@ -11,7 +11,7 @@ title: "Meters Music, bringing a stage close to you"
 competition-description: "What's better than listening to good music? To\_Meters Music,\
   \ it's seeing it as well. A unique range of headphones and audio products, bringing\
   \ together lifestyle and audiophile aspirations in one incredible package. \r\n\r\
-  \nThat Is why they have created the incredibles OV-1 WIRED. \r\nDeep, dynamic, articulate,\
+  \nThat is why they have created the amazing OV-1 WIRED. \r\nDeep, dynamic, articulate,\
   \ detailed… are just a few words to describe them.\r\n<p>If you want to make the\
   \ loudest environment a place of solitude, click here to get to know them better!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-693b508b-d801-443a-99a0-60ced0a35e89.jpg"
