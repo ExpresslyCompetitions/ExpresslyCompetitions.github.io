@@ -7,7 +7,7 @@ end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
-title: "Meters Music, bringing a stage close to you"
+title: "Meters Music, bringing a stage close to you!"
 competition-description: "What's better than listening to good music? To\_Meters Music,\
   \ it's seeing it as well. A unique range of headphones and audio products, bringing\
   \ together lifestyle and audiophile aspirations in one incredible package. \r\n\r\
