@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: false
 title: "VO5 NME Awards 2018 Shows"
 competition-description: "This year’s line-up of London NME Shows is the best in recent\
-  \ memory…and a huge line-up of artists has been announced… so why not make sure\
+  \ memory… and a huge line-up of artists has been announced… so why not make sure\
   \ you get your hands on tickets for one of the greatest events of the year?\r\n\
   Franz Ferdinand at O2 Academy Brixton, Yonaka at The Garage, A2 at KOKO London…\
   \ sounds good, right? <p>Tickets are on sale right now so get your hands on them\
