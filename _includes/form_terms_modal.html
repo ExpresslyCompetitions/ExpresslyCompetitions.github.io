@@ -58,23 +58,22 @@
                     <h5>D. Prize</h5>
                     <ol class="pl-4">
                         {% if include.prize-description %}
-                        <li>The prize is as described in the title: "{{include.competition-name}}", subject to the Restrictions in Clause D(2).</li>
+                        <li>The prize is as described in the title: "{{include.competition-name}}", subject to the Restrictions in Clause D{% if include.special-conditions  %}(5){% else %}(4){% endif %}.</li>
                         {% else %}
-                        <li>Winner wins: "{{include.prize-description}}", subject to the Restrictions in Clause D(2).</li>
+                        <li>Winner wins: "{{include.prize-description}}", subject to the Restrictions in Clause D{% if include.special-conditions  %}(5){% else %}(4){% endif %}.</li>
                         {% endif %}
-                        {% assign formatted_restrictions = 'N/A' %}
-                        {% if include.prize-restrictions %}
-                        {% assign formatted_restrictions = include.prize-restrictions | strip_newlines %}
-                        {% assign formatted_restrictions = formatted_restrictions | replace: 'p>', 'li>' %}
-                        {% assign formatted_restrictions = '<ol>' | append: formatted_restrictions | append: '</ol>' %}
-
-                        {% endif %}
-                        <li>Restrictions on Prize redemption ("Restrictions"):{{formatted_restrictions | default: 'N/A'}}</li>
                         <li>Prize redemption will be discussed with the winner.</li>
                         <li>Expressly reserves the right to substitute the prize with another prize at its absolute
                             discretion.
                         </li>
                         {% if include.special-conditions  %}<li>{{include.special-conditions}}</li>{% endif %}
+                        {% assign formatted_restrictions = 'N/A' %}
+                        {% if include.prize-restrictions %}
+                        {% assign formatted_restrictions = include.prize-restrictions | strip_newlines %}
+                        {% assign formatted_restrictions = formatted_restrictions | replace: 'p>', 'li>' %}
+                        {% assign formatted_restrictions = '<ol>' | append: formatted_restrictions | append: '</ol>' %}
+                        {% endif %}
+                        <li>Restrictions on Prize redemption ("Restrictions"):{{formatted_restrictions | default: 'N/A'}}</li>
                     </ol>
                 </div>
 
