@@ -131,7 +131,8 @@ active: selected-competitions
 {% assign terms_start_time = page.date | date: '%r' %}
 {% assign terms_end_date = page.end-date | date: '%B %d, %Y' %}
 {% assign terms_end_time = page.end-date | date: '%r' %}
-{% assign terms_competition_link = site.url | append: page.url %}
+{% assign item-path-prefix = page.collection | prepend: "_" %}
+{% assign terms_competition_link = page.relative_path | replace: ".markdown", "" | replace: item-path-prefix, page.club_url %}
 {% include form_terms_modal.html
     id=terms_modal_id
     club-name=page.club-name
