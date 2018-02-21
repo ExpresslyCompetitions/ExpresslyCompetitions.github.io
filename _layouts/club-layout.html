@@ -66,7 +66,7 @@
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
-<div class="nav-container fixed-top">
+<div class="nav-container fixed-top {{ page.nav-container-classes }}">
     {% if page.brand-nav-include %}
     {% include {{ page.brand-nav-include }} %}
     {% endif %}

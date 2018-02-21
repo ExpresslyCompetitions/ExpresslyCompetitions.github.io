@@ -1,0 +1,30 @@
+---
+---
+
+$font-import-url: "https://fonts.googleapis.com/css?family=Cabin%3A500%7CPT+Serif%3Anormal%7CLora%3Anormal%7CCabin%3Anormal&#038;ver=5263376696006720577";
+
+$colour_primary: #fff;
+$colour_secondary: #202020;
+$colour_nav_secondary: #202020;
+$colour_bg_gray: #202020;
+//        #dd1a22;
+
+$font: "Lora", sans-serif !default;
+
+@import "club";
+
+body {
+  padding-top: 8rem;
+}
+.navbar {
+  border-top: 1px solid #cfcfcf;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+footer {
+  nav {
+    a {
+      color: #ffd637;
+    }
+  }
+}
