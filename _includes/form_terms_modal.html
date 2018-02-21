@@ -10,9 +10,6 @@
             </div>
             <div class="modal-body px-2 px-md-5" id="{{include.id}}-content">
                 <h4>'{{include.competition-name}}' Competition Rules</h4>
-                <div class="competition-terms-date">
-                    <em>January 2018</em>
-                </div>
                 <div class="competition-terms-rules small text-justify pt-4">
                     <h5>A. RULES</h5>
                     <ol class="pl-4">
@@ -30,11 +27,10 @@
                         </li>
                     </ol>
                     <h5>B. Details of the Competition</h5>
-                    <ol class="pl-4" start="3">
+                    <ol class="pl-4">
                         <li>
                             To enter the Competition an Entrant must go online to {{include.competition-link}} and register their
-                            details. Online entry will open at {{include.start-time}} {{include.start-date}} and close at {{include.end-time}} on
-                            {{include.end-date}}.
+                            details. Online entry will open at {{include.start-time}} {{include.start-date}} and close at {{include.end-time}} on {{include.end-date}}. All times are London times.
                         </li>
                         <li>
                             Entrants must their details correctly for the chance to win.
@@ -47,7 +43,7 @@
                         </li>
                     </ol>
                     <h5>C. Eligibility</h5>
-                    <ol class="pl-4" start="7">
+                    <ol class="pl-4">
                         <li>
                             Entrants must be UK & Channel Islands residents only.
                         </li>
@@ -60,9 +56,20 @@
                         </li>
                     </ol>
                     <h5>D. Prize</h5>
-                    <ol class="pl-4" start="10">
-                        <li>One winner wins '{{include.prize-description | default: include.competition-name}}', subject to the Restrictions in Clause 11.</li>
-                        <li>Restrictions on Prize redemption ("Restrictions"): {{include.prize-restrictions | default: 'N/A'}}.</li>
+                    <ol class="pl-4">
+                        {% if include.prize-description %}
+                        <li>The prize is as described in the title: "{{include.competition-name}}", subject to the Restrictions in Clause D(2).</li>
+                        {% else %}
+                        <li>Winner wins: "{{include.prize-description}}", subject to the Restrictions in Clause D(2).</li>
+                        {% endif %}
+                        {% assign formatted_restrictions = 'N/A' %}
+                        {% if include.prize-restrictions %}
+                        {% assign formatted_restrictions = include.prize-restrictions | strip_newlines %}
+                        {% assign formatted_restrictions = formatted_restrictions | replace: 'p>', 'li>' %}
+                        {% assign formatted_restrictions = '<ol>' | append: formatted_restrictions | append: '</ol>' %}
+
+                        {% endif %}
+                        <li>Restrictions on Prize redemption ("Restrictions"):{{formatted_restrictions | default: 'N/A'}}</li>
                         <li>Prize redemption will be discussed with the winner.</li>
                         <li>Expressly reserves the right to substitute the prize with another prize at its absolute
                             discretion.
@@ -70,7 +77,6 @@
                         {% if include.special-conditions  %}<li>{{include.special-conditions}}</li>{% endif %}
                     </ol>
                 </div>
-
 
             </div>
             <div class="modal-footer justify-content-center">

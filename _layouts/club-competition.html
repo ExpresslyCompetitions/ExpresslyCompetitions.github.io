@@ -131,12 +131,13 @@ active: selected-competitions
 {% assign terms_start_time = page.date | date: '%r' %}
 {% assign terms_end_date = page.end-date | date: '%B %d, %Y' %}
 {% assign terms_end_time = page.end-date | date: '%r' %}
+{% assign terms_competition_link = site.url | append: page.url %}
 {% include form_terms_modal.html
     id=terms_modal_id
     club-name=page.club-name
     club-url=page.club_url
     competition-name=page.title
-    competition-link=page.url
+    competition-link=terms_competition_link
     start-date=terms_start_date
     start-time=terms_start_time
     end-date=terms_end_date
