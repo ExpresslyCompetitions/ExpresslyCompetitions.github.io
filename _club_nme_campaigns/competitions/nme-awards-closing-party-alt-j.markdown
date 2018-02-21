@@ -29,7 +29,7 @@ section2-content: "Yep, NME's Best British Band supported by Zig-Zag Alt-J will 
   \ hang? Simply enter via the link below.</p>"
 entry-title: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 entry-content: "<p>Enter the draw to win tickets by completing the form below before\
-  \ 14:00 on 2018:02:22.</p>"
+  \ 14:00 on 22/02/2018</p>"
 has-winner: false
 prize-description: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 prize-restrictions: "<p>18+ (ID on entry)</p>\r\n\r\n<p>Winners will be notified by\
