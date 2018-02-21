@@ -58,9 +58,9 @@
                     <h5>D. Prize</h5>
                     <ol class="pl-4">
                         {% if include.prize-description %}
-                        <li>The prize is as described in the title: "{{include.competition-name}}", subject to the Restrictions in Clause D{% if include.special-conditions  %}(5){% else %}(4){% endif %}.</li>
-                        {% else %}
                         <li>Winner wins: "{{include.prize-description}}", subject to the Restrictions in Clause D{% if include.special-conditions  %}(5){% else %}(4){% endif %}.</li>
+                        {% else %}
+                        <li>The prize is as described in the title: "{{include.competition-name}}", subject to the Restrictions in Clause D{% if include.special-conditions  %}(5){% else %}(4){% endif %}.</li>
                         {% endif %}
                         <li>Prize redemption will be discussed with the winner.</li>
                         <li>Expressly reserves the right to substitute the prize with another prize at its absolute
