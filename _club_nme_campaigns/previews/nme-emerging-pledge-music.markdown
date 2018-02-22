@@ -25,13 +25,13 @@ bg-image-second: "https://assets.expresslyapp.com/asset-6f27431b-afd9-46b9-8dd2-
 bg-image-third: "https://assets.expresslyapp.com/asset-38a0f371-d519-4368-91b4-94f0390b4819.jpg"
 section1-content: "The NME Team are listening… and if they like what they hear, they\
   \ could promote you across NME or invite you to perform at one of their London venues!\
-  \ Does it sound good to you?\r\n<p>Setting up your profile on NME.com is so easy\
-  \ and it’s also completely free!</p>"
+  \ Does it sound good to you?\r\n<p>Setting up your profile on <a href=\"https://artists.nme.com/\"\
+  >artists.nme.com</a> is so easy and it’s also completely free!</p>"
 section2-content: "Sell merch, share music, videos… NME wants to support emerging\
   \ artists! and thanks to them you could keep your brand consistent everywhere!"
-section3-content: "Smart bands also join Pledge Music, the simple way to get your\
-  \ fans to support you: sign up here: https://www.pledgemusic.com/\r\n<p>Don't miss\
-  \ out on this amazing opportunity and let the world hear your voice!</p>"
+section3-content: "<p>Smart bands also join Pledge Music, the simple way to get your\
+  \ fans to support you: sign up here: https://www.pledgemusic.com/</p>\r\n<p>Don't\
+  \ miss out on this amazing opportunity and let the world hear your voice!</p>"
 entry-title: "Get your favourite indie band a real chance with NME Emerging and Pledge\
   \ Music!"
 entry-content: "<p>Do you want to be noticed in today’s music industry? Create an\
