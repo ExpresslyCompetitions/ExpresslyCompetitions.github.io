@@ -9,9 +9,9 @@ is_promoted: false
 has_entry_page: false
 title: "The sunglasses you never knew you needed!"
 competition-description: "See what you've been missing… and with the new Jawbreaker\
-  \ sunglasses from Oakley you can! If you were looking for the perfect match, Oakley\
-  \ is a superb option. Available in different colours, numerous lens options and\
-  \ an innovative Switchlock interchangeable lens system this new range will make\
+  \ sunglasses from Oakley you can! \r\nIf you were looking for the perfect match,\
+  \ Oakley is a superb option. Available in different colours, numerous lens options\
+  \ and an innovative Switchlock interchangeable lens system this new range will make\
   \ you stand out! If you want great optical quality… Oakley is hard to beat! <p>Think\
   \ no more and get them now!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-1f7944fb-1ddf-46fc-9d13-43f5e0d4d144.jpg"
