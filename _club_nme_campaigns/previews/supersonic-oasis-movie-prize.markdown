@@ -27,10 +27,10 @@ section1-content: "Wether you have seen it or not, you cannot miss the opportuni
   \ of the band during their formative years and their success in the 1990s featuring\
   \ exclusive bonus content such as off-screen interviews, archive video of concerts…\
   \ and many more!</p>"
-section2-content: "Vue will screen Supersonic in 10 cinemas across the UK and NME\
+section2-content: "VUE will screen Supersonic in 10 cinemas across the UK and NME\
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
-  \ screen! \r\n<p>Good luck!</p>"
+  \ screen! \r\n\r\n<p>Good luck!</p>"
 entry-title: "Win 2 tickets to the incredible British music documentary, Supersonic!"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
   \ Oasis band.</p> <p> Enter the draw by completing the form below before 14:00pm\
