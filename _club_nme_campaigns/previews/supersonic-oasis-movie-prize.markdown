@@ -7,12 +7,12 @@ end-date: "2018-03-01T14:00:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win 2 tickets to the incredible British music documentary, Supersonic!"
+title: "Win 2 tickets to the greatest British music documentary, Supersonic!"
 competition-description: "Calling all OASIS fans! Supersonic is coming to a cinema\
   \ near you and thanks to NME you could be there! We’re giving away 5 pairs of 2\
   \ tickets to the movie of the year 2016! \r\n<p>If you don't want to miss it, click\
   \ here for a chance to win!</p>"
-hero-header: "Win 2 tickets to the incredible British music documentary, Supersonic!"
+hero-header: "Win 2 tickets to the greatest British music documentary, Supersonic!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-beee463d-7a8d-400e-9a2b-8bcf9505f084.jpg"
 logo-left-href: "http://nme.com/"
@@ -31,10 +31,10 @@ section2-content: "VUE will screen Supersonic in 10 cinemas across the UK and NM
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
   \ screen! \r\n\r\n<p>Good luck!</p>"
-entry-title: "Win 2 tickets to the incredible British music documentary, Supersonic!"
+entry-title: "Win 2 tickets to the greatest British music documentary, Supersonic!"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
   \ Oasis band.</p> <p> Enter the draw by completing the form below before 14:00pm\
   \ on 01/03/2018.</p>"
 has-winner: false
-prize-description: "Win 2 tickets to the incredible British music documentary, Supersonic!"
+prize-description: "Win 2 tickets to the greatest British music documentary, Supersonic!"
 ---
