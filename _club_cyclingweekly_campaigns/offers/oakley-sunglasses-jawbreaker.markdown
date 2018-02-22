@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-3dc5189c-bbde-466b-8a80-da5669e7543a"
-type: "Preview"
+type: "Offer"
 category: "Offer"
 date: "2018-02-22T10:27:21.000Z"
 end-date: "2018-05-31T09:00:00.000Z"
