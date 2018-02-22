@@ -23,14 +23,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-3f76d595-915a-4b0c-a893-9
 bg-image-second: "https://assets.expresslyapp.com/asset-b333d3b4-9b22-4783-b383-99cca6dd16bb.jpg"
 section1-content: "Wether you have seen it or not, you cannot miss the opportunity\
   \ of winning 2 tickets to see the amazing documentary of the band that have sold\
-  \ over 85 million records worldwide Oasis!\r\n\r\n<p>The film details the history\
+  \ over 85 million records worldwide Oasis!\r\n\r\n<br/>The film details the history\
   \ of the band during their formative years and their success in the 1990s featuring\
   \ exclusive bonus content such as off-screen interviews, archive video of concerts…\
-  \ and many more!</p>"
+  \ and many more!"
 section2-content: "VUE will screen Supersonic in 10 cinemas across the UK and NME\
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
-  \ screen! \r\n\r\n<p>Good luck!</p>"
+  \ screen! \r\n\r\n<br/>Good luck!"
 entry-title: "Win 2 tickets to the incredible British music documentary, Supersonic!"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
   \ Oasis band.</p> <p> Enter the draw by completing the form below before 14:00pm\
