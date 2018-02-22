@@ -181,6 +181,7 @@ body {
     padding-top: 0 !important;
     border-top: 1px solid $colour_nav_border;
     border-bottom: 1px solid $colour_nav_border;
+    margin-bottom: 20px;
 
     .navbar {
       .navbar-brand {
@@ -221,10 +222,31 @@ a {   color: $colour_brand;
   }
 }
 
+.form-control {
+  background: $colour_primary;
+  border-color: $colour_brand;
+
+  &:focus, &:active, &:hover {
+    background: $colour_primary;
+    border-color: $colour_brand;
+    outline: none;
+  }
+}
+
+.btn, .btn-primary {
+  background: $colour_brand;
+  color: $colour_primary;
+
+  &:hover {
+    background: $colour_secondary;
+  }
+}
+
 footer {
+  color: $colour_primary;
   nav {
     a {
-      color: #ffd637;
+      color: $colour_primary;
 
       &:hover {
         color: $colour_primary;
