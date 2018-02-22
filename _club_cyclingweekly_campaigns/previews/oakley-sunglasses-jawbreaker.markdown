@@ -2,7 +2,7 @@
 campaign-uuid: "c-3dc5189c-bbde-466b-8a80-da5669e7543a"
 type: "Preview"
 category: "Offer"
-date: "2018-02-22T10:27:20.968Z"
+date: "2018-02-22T10:27:21.000Z"
 end-date: "2018-05-31T09:00:00.000Z"
 disable-form: false
 is_promoted: false
@@ -12,11 +12,11 @@ competition-description: "See what you've been missing… and with the new Jawbr
   \ sunglasses from Oakley you can! If you were looking for the perfect match, Oakley\
   \ is a superb option. Available in different colours, numerous lens options and\
   \ an innovative Switchlock interchangeable lens system this new range will make\
-  \ you stand out! If you want great optical quality… Oakley is hard to beat! Think\
-  \ no more and get them now!"
-banner-img: "https://assets.expresslyapp.com/asset-1fe89d9f-3753-40df-8943-e3578974e906.jpg"
+  \ you stand out! If you want great optical quality… Oakley is hard to beat! <p>Think\
+  \ no more and get them now!</p>"
+banner-img: "https://assets.expresslyapp.com/asset-1f7944fb-1ddf-46fc-9d13-43f5e0d4d144.jpg"
 logo-left-href: "http://uk.oakley.com"
-logo-left-image: "https://assets.expresslyapp.com/af7861b9-0d0d-4973-b4af-8634a3784332-thumb.png"
+logo-left-image: "https://assets.expresslyapp.com/asset-bc34b739-db19-4559-ad7d-43d9d417ad45.jpg"
 logo-left-title: "Oakley"
 has-winner: false
 ---
