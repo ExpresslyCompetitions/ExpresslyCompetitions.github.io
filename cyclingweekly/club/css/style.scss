@@ -8,6 +8,7 @@ $colour_secondary: #202020;
 $colour_nav_secondary: #202020;
 $colour_bg_gray: #202020;
 //        #dd1a22;
+$colour_brand: #dd1a22;
 
 $font: "Lora", sans-serif !default;
 
@@ -19,6 +20,12 @@ body {
 .navbar {
   border-top: 1px solid #cfcfcf;
   border-bottom: 1px solid #cfcfcf;
+}
+
+a {   color: $colour_brand;
+  &:hover {
+    color: $colour_secondary;
+  }
 }
 
 footer {
