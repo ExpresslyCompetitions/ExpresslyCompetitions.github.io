@@ -45,11 +45,13 @@ active: selected-competitions
         <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{image-url}})"></div>
     </section>
 
-    <section class="quality row row-he align-items-center">
-        <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
-        {% include image_url_builder.html image=page.bg-image-second %}
-        <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{image-url}})"></div>
-    </section>
+    {% if page.section2-content and page.bg-image-second %}
+        <section class="quality row row-he align-items-center">
+            <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
+            {% include image_url_builder.html image=page.bg-image-second %}
+            <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{image-url}})"></div>
+        </section>
+    {% endif %}
 
     {% if page.section3-content and page.bg-image-third %}
         <section class="our-work row row-he align-items-center">
