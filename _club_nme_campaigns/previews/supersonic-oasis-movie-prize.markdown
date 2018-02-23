@@ -31,11 +31,11 @@ section1-content: "Whether you have seen it or not, you cannot miss the opportun
   \ and many more!</p>"
 section2-content: "Your world's leading cinema operators VUE, managing the most respected\
   \ brands in European markets will bring you the major Oasis documentary movie. <p>Does\
-  \ it sounds like the perfect plan to you?</p>"
+  \ it sound like the perfect plan to you?</p>"
 section3-content: "VUE will screen Supersonic in 10 cinemas across the UK and NME\
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
-  \ screen!"
+  \ screen!\r\n\r\n<p>Good luck!</p>"
 entry-title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
