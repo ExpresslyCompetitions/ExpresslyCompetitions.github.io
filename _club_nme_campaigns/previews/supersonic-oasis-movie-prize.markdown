@@ -34,7 +34,7 @@ section2-content: "Your world's leading cinema operators VUE, managing the most 
   \ it sound like the perfect plan to you?</p>"
 section3-content: "<p>Get ready, because on Thursday 8th of March at 19:00... you\
   \ have a date with Supersonic!</p> \r\n\r\n<p>VUE will screen the documentary movie\
-  \ in 10 cinemas across the UK. The lucky ones are: Due Bolton, Bristol Cribbs, Cheshire\
+  \ in 10 cinemas across the UK. The lucky ones are: VUE Bolton, Bristol Cribbs, Cheshire\
   \ Oaks, Edinburgh Omni, Gateshead, Hamilton, Islington, Leeds Light, Manchester\
   \ Printworks, Plymouth, Portsmouth and West End!</p>\r\n\r\n<p>NME is here to get\
   \ you there! so if you are an Oasis fan, get yourself and a friend to complete the\
