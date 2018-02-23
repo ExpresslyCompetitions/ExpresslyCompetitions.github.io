@@ -32,7 +32,7 @@ section1-content: "Whether you have seen it or not, you cannot miss the opportun
 section2-content: "VUE will screen Supersonic in 10 cinemas across the UK and NME\
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
-  \ screen! \r\n\r\n<p>Good luck!</p>"
+  \ screen!"
 section3-content: "Your world's leading cinema operators VUE, managing the most respected\
   \ brands in European markets will bring you the major Oasis documentary movie. <p>Does\
   \ it sounds like the perfect plan to you?</p>"
