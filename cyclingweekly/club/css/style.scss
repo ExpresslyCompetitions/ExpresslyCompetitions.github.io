@@ -38,8 +38,7 @@ body {
     &:first-child {
       #cyclingweekly-nav-items {
         > ul.navbar-nav {
-          margin-right: 0 !important;
-          margin-left: auto;
+          margin-left: 1rem;
         }
       }
     }
