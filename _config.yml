@@ -50,6 +50,7 @@ clubs:
       company-url:    "http://www.cyclingweekly.com"
       company-terms:  "http://www.timeincuk.com/terms-and-conditions/"
       company-privacy: "http://www.timeincuk.com/privacy/"
+      icon-url:       "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2016/02/cropped-favicon-copy-32x32.jpg"
       merchant-uuid:  "m-17001ac9-9405-4b4f-ada9-fa90426806cc"
       domain-migrations-enabled: false
       ga-code:        "UA-110278937-3"
