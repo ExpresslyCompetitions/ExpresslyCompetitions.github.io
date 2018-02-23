@@ -62,7 +62,7 @@
         <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
     {% endif %}
 </head>
-<body class="{{page.body-class}} {{layout.body-class}}" data-muid="{{page.merchant-uuid}}" data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
+<body class="{{page.body-class}} {{layout.body-class}} {% if page.is-demo == true %} pb-big {% endif %}" data-muid="{{page.merchant-uuid}}" data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 
@@ -163,8 +163,8 @@
                     </nav>
                 </div>
             </div>
-            <div class="col-12 col-md-3">
-                <div class="copyright-text text-center text-md-right small py-0">
+            <div class="col-12 col-md-3 pl-0">
+                <div class="copyright-text text-center text-md-right small py-0 {% if page.is-demo != true %} text-nowrap {% endif %}">
                     {% if page.is-demo == true %}
                     This is a demo -  Powered by Expressly Competitions
                     {% else %}
