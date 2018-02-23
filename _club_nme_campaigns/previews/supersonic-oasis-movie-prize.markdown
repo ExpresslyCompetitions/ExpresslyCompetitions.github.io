@@ -18,7 +18,7 @@ terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-beee463d-7a8d-400e-9a2b-8bcf9505f084.jpg"
 logo-left-href: "http://nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-99d383be-a97d-41a8-a77d-4782e0c2efa7.jpg"
-logo-left-title: "Vue"
+logo-left-title: "VUE"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f269a838-e0d6-40d8-97e1-1e0772b898cd.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3f76d595-915a-4b0c-a893-98e379e697e0.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-b333d3b4-9b22-4783-b383-99cca6dd16bb.jpg"
@@ -33,9 +33,9 @@ section2-content: "VUE will screen Supersonic in 10 cinemas across the UK and NM
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
   \ screen! \r\n\r\n<p>Good luck!</p>"
-section3-content: "Your world's leading cinema operators Vue, managing the most respected\
-  \ brands in major European markets will bring you the major Oasis documentary movie.\
-  \ Sounds perfect, right?"
+section3-content: "Your world's leading cinema operators VUE, managing the most respected\
+  \ brands in European markets will bring you the major Oasis documentary movie. <p>Does\
+  \ it sounds like the perfect plan to you?</p>"
 entry-title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
