@@ -16,6 +16,7 @@ $font: "Lora", sans-serif !default;
 
 body {
   padding-top: 0 !important;
+  color: $colour_secondary;
 }
 
 
@@ -222,15 +223,31 @@ a {   color: $colour_brand;
   }
 }
 
-.form-control {
+%form-control-style {
   background: $colour_primary;
-  border-color: $colour_brand;
+  border-color: $colour_nav_border;
 
   &:focus, &:active, &:hover {
     background: $colour_primary;
-    border-color: $colour_brand;
+    border-color: $colour_secondary;
     outline: none;
   }
+}
+
+.form-control {
+  @extend %form-control-style;
+}
+
+.dob-control {
+  @extend %form-control-style;
+
+  .form-control {
+    border: none !important;
+  }
+}
+
+.invalid-feedback {
+  background: transparent !important;
 }
 
 .btn, .btn-primary {
