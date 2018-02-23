@@ -44,4 +44,5 @@ entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of 
 has-winner: false
 prize-description: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
+entry-extension: "nme/supersonic-oasis-movie-prize.html"
 ---
