@@ -26,13 +26,13 @@ bg-image-second: "https://assets.expresslyapp.com/asset-39bcd330-be0a-4c42-9c87-
 bg-image-third: "https://assets.expresslyapp.com/asset-0ba77a4d-42ce-4b93-972f-e63b2bdfd438.jpg"
 section1-content: "<p>Whether you have seen it or not, you cannot miss the opportunity\
   \ of winning 2 tickets to see the amazing documentary of the band that have sold\
-  \ over 85 million records worldwide: Oasis’s Supersonic</p>\r\n\r\n<p>The film details\
-  \ the history of the band during their formative years and their success in the\
-  \ 1990s featuring exclusive bonus content such as off-screen interviews, archive\
-  \ video of concerts… and many more!</p>"
+  \ over 85 million records worldwide: Oasis’s Supersonic!</p>\r\n\r\n<p>The film\
+  \ details the history of the band during their formative years and their success\
+  \ in the 1990s featuring exclusive bonus content such as off-screen interviews,\
+  \ archive video of concerts… and many more!</p>"
 section2-content: "<p>Your world's leading cinema operators VUE, managing a large\
-  \ number of venues across the UK and Europe will bring you the Oasis documentary\
-  \ movie on the Big Screen.</p>\r\n\r\n<p>What’s not to like?</p>"
+  \ number of venues across the UK and Europe, will bring you the Oasis documentary\
+  \ movie on the Big Screen!</p>\r\n\r\n<p>What’s not to like?</p>"
 section3-content: "<p>Get ready: on Thursday 8th of March at 19:00... you have a date\
   \ with Supersonic!</p> \r\n\r\n<p>VUE will screen the documentary movie in 10 cinemas\
   \ across the UK. The chosen ones are: VUE Bolton, Bristol Cribbs, Cheshire Oaks,\
