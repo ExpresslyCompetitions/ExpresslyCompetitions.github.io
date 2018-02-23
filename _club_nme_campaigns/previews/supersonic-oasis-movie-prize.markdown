@@ -35,7 +35,7 @@ section2-content: "Your world's leading cinema operators VUE, managing the most 
 section3-content: "VUE will screen Supersonic in 10 cinemas across the UK and NME\
   \ is here to get you there. So if you are an Oasis fan, get yourself and a friend\
   \ to complete the form below and you could see the Gallagher brothers on the big\
-  \ screen!\r\n\r\n<p>Good luck!</p>"
+  \ screen!\r\n<p>Good luck!</p>"
 entry-title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
