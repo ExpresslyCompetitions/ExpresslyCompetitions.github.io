@@ -45,6 +45,7 @@ entry-title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis docume
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
   \ Oasis band.</p> <p> Enter the draw by completing the form below before 14:00pm\
   \ on 01/03/2018.</p>"
+entry-extension: "nme/supersonic-oasis-movie-prize.html"
 has-winner: false
 prize-description: "2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
