@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win a copy of the new TV show Britannia on Blu-ray™"
 competition-description: "<p>Get ready… because Britannia is coming home with you!\
-  \ The top Sky drama series is coming to DVD and Blu-ray™! This is certainly one\
+  \ The Top Sky drama series is coming to DVD and Blu-ray™! This is certainly one\
   \ release that you don't want to miss! that’s why we've got our hands on five copies\
   \ of this exciting and wild new show for you!</p>\r\n<p>Yes, we want you guys to\
   \ have them! Click on the link to get involved.</p>"
@@ -28,11 +28,12 @@ section1-content: "<p>To celebrate the Blu-ray™ and DVD release of the British
   ), BAFTA® award nominee David Morrisey (“The Missing”, “The Walking Dead’’), Nikolaj\
   \ Lie Kaas (“Follow The Money”) and BAFTA® award winner Mackenzie Crook (“The Detectorists”\
   ), this new series story follows the Roman Imperial Army of 43AD, and their determination\
-  \ to take over the Celtic heart of Britannia</p>"
+  \ to take over the Celtic heart of Britannia.</p>"
 section2-content: "<p>We know that this Britannia series Blu-ray™ release from Sony\
   \ Pictures Home Entertainment is the best plan for your weekend! and now, you can\
   \ make it happen with NME!</p>\r\n<p>Enter your details below and don't miss out\
-  \ on your chance to win a copy of the British show of the year, Britannia!</p>"
+  \ on your chance to win a copy of the British show of the year, Britannia!</p>\r\
+  \n<p>Good luck!</p>"
 entry-title: "Win a copy of the new TV show Britannia on Blu-ray™"
 entry-content: "<p>Britannia Blu-ray™ release is full of content for you to get stuck\
   \ into. <p><p>Enter the draw to win by completing the form below before 23.59pm\
