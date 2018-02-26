@@ -9,8 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "Win a copy of the new TV show Britannia on Blu-ray™"
 competition-description: "<p>Get ready… because Britannia is coming home with you!\
-  \ The Top Sky drama series is coming to DVD and Blu-ray™!</p><p>This is certainly\
-  \ one release that you don't want to miss! that’s why we've got our hands on 5 copies\
+  \ The Top Sky drama series is coming to DVD and Blu-ray™!\r\nThis is certainly one\
+  \ release that you don't want to miss! that’s why we've got our hands on 5 copies\
   \ of this exciting and wild new show for you!</p>\r\n<p>Yes, we want you guys to\
   \ have them! Click on the link to get involved.</p>"
 hero-header: "Win a copy of the new TV show Britannia on Blu-ray™"
