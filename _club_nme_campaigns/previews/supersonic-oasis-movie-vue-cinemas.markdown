@@ -1,8 +1,8 @@
 ---
-campaign-uuid: "c-3c31976a-82ef-4ed3-8dcc-68994f149cff"
+campaign-uuid: "c-5dbf089f-7d75-42ea-b929-d6f6c120afca"
 type: "Preview"
 category: "Competition"
-date: "2018-02-23T09:00:00.000Z"
+date: "2018-02-27T09:00:00.000Z"
 end-date: "2018-03-05T14:00:00.000Z"
 disable-form: false
 is_promoted: true
@@ -17,9 +17,9 @@ hero-header: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis docume
   \ movie"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-beee463d-7a8d-400e-9a2b-8bcf9505f084.jpg"
-logo-left-href: "https://www.myvue.com/"
-logo-left-image: "https://assets.expresslyapp.com/asset-99d383be-a97d-41a8-a77d-4782e0c2efa7.jpg"
-logo-left-title: "VUE"
+logo-left-href: "https://www.myvue.com"
+logo-left-image: "https://assets.expresslyapp.com/57f95175-7c51-4bda-af3d-55c438e9e5de-thumb.png"
+logo-left-title: "Vue"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f269a838-e0d6-40d8-97e1-1e0772b898cd.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3f76d595-915a-4b0c-a893-98e379e697e0.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-39bcd330-be0a-4c42-9c87-c7a945a23628.jpg"
