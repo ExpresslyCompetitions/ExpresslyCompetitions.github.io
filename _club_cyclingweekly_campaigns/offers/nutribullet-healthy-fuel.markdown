@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: false
 title: "Fueling the future!"
 competition-description: "In need to start eating healthy? If the answer is YES we\
-  \ have the solution! Theres so many blenders in the market but we are more than\
+  \ have the solution! There are so many blenders in the market but we are more than\
   \ happy to introduce you to the only one, The NutriBullet! \r\nVegetables, fruits,\
   \ nuts, seeds…the Nutribullet transforms ordinary foods into extraordinary nutrition,\
   \ exceptional liquid fuel for your body! \r\n<p>Get it now and have 2 amazing NutriBullets\

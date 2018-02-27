@@ -5,7 +5,7 @@ category: "Competition"
 date: "2018-02-23T09:00:00.000Z"
 end-date: "2018-03-01T14:00:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary movie"
 competition-description: "Calling all OASIS fans! Supersonic is coming to a cinema\
@@ -47,10 +47,7 @@ entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of 
   \ on 01/03/2018.</p>"
 entry-extension: "nme/supersonic-oasis-movie-prize.html"
 has-winner: false
-prize-description: "2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
-  \ movie"
-prize-restrictions: "5 pairs of tickets for the March 8th 19:00 screening at each\
-  \ of the following venues: VUE Bolton, Bristol Cribbs, Cheshire Oaks, Edinburgh\
-  \ Omni, Gateshead, Hamilton, Islington, Leeds Light, Manchester Printworks, Plymouth,\
-  \ Portsmouth and West End."
+prize-description: "One of 5 pairs of tickets for the March 8th 19:00 screening at\
+  \ each of the following venues: VUE Bolton, Bristol Cribbs, Cheshir"
+prize-restrictions: "Any travel expenses are not included."
 ---
