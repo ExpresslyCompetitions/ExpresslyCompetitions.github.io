@@ -30,7 +30,10 @@ section2-content: "Yep, NME's Best British Band supported by Zig-Zag Alt-J will 
 entry-title: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 entry-content: "<p>Enter the draw to win tickets by completing the form below before\
   \ 14:00 on 22/02/2018</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Charlotte, Jon, Samuel, Lydia, Catherine, Juanita,\
+  \ Mescaline, Lois, Steven... who had a blast with Alt-J"
+winner-banner: "https://assets.expresslyapp.com/asset-44bab0a9-5279-4367-bcb2-188ebad6ab14.jpg"
 prize-description: "Win 2 tickets to the VO5 NME Awards Closing Party with Alt-J"
 prize-restrictions: "<p>18+ (ID on entry)</p>\r\n\r\n<p>Winners will be notified by\
   \ email and added to the guestlist on the night.</p>\r\n\r\n<p>Winners will win\
