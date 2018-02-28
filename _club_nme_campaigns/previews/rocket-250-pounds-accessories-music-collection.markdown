@@ -27,10 +27,10 @@ bg-image-second: "https://assets.expresslyapp.com/asset-15a106f4-5ff0-4151-bc19-
 bg-image-third: "https://assets.expresslyapp.com/asset-6232afe7-2dcf-4cd2-bb90-835f66fc64fb.jpg"
 section1-content: "<p>At ROCKET they make awesome home, travel & lifestyle gifts and\
   \ accessories inspired by music. They take that visceral emotional connection music\
-  \ has with each one of us humble earthlings, and use it to turn boring everyday\
-  \ items into fun and soulful new designs. Our stuff makes for the perfect gift -\
-  \ but no shame in keeping some for yourself.</p>\r\n<p>If it sounds crazy, you’\
-  re right. it’s the good kind of crazy…</p>"
+  \ has with each one of their humble earthlings, and use it to turn boring everyday\
+  \ items into fun and soulful new designs. Their stuff makes for the perfect gift\
+  \ - but no shame in keeping some for yourself.</p>\r\n<p>If it sounds crazy, you’\
+  re right. It’s the good kind of crazy…</p>"
 section2-content: "<p>So lucky for you their crazy-good designers cooked up a kick-ass\
   \ range that’s just about got everyone covered: from the wanderlust-bitten California\
   \ dreamer to the every-day-I’m-hustlin office warrior… from the fashionista to the\
@@ -41,7 +41,7 @@ section3-content: "<p>Get ready to rumble because the party starts right here: t
   \ giving 3 lucky winners £250 each to indulge in a shopping spree bonanza worthy\
   \ of a rockstar, only without the credit card hangover!</p>\r\n<p>So what are you\
   \ waiting for! Click on the link for a chance to win! They don’t call them The Good\
-  \ Vibes Co. for nothing.</p>"
+  \ Vibes Co. for nothing!</p>"
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on !end-date!.\r\n</p>"
