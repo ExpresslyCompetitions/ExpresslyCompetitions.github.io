@@ -28,13 +28,13 @@ bg-image-third: "https://assets.expresslyapp.com/asset-6232afe7-2dcf-4cd2-bb90-8
 section1-content: "<p>At ROCKET they make awesome home, travel & lifestyle gifts and\
   \ accessories inspired by music. They take that visceral emotional connection music\
   \ has with each one of their humble earthlings, and use it to turn boring everyday\
-  \ items into fun and soulful new designs. Their stuff makes for the perfect gift\
-  \ - but no shame in keeping some for yourself.</p>\r\n<p>If it sounds crazy, you’\
+  \ items into fun and soulful new designs. Their stuff makes for the perfect gift,\
+  \ but no shame in keeping some for yourself!</p>\r\n<p>If it sounds crazy, you’\
   re right. It’s the good kind of crazy…</p>"
 section2-content: "<p>So lucky for you their crazy-good designers cooked up a kick-ass\
   \ range that’s just about got everyone covered: from the wanderlust-bitten California\
   \ dreamer to the every-day-I’m-hustlin office warrior… from the fashionista to the\
-  \ iphonista… from the next Jamie Oliver to the next dinner party!</p>\r\n<p>Dive\
+  \ Iphonista… from the next Jamie Oliver to the next dinner party!</p>\r\n<p>Dive\
   \ right into the rabbit hole, but don’t be surprised if you end up filling your\
   \ basket. After all, with nearly 1M products sold, it must be a mad world out there.</p>"
 section3-content: "<p>Get ready to rumble because the party starts right here: they're\
