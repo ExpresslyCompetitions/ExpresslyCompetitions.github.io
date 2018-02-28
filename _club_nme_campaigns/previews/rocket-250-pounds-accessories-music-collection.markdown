@@ -44,7 +44,7 @@ section3-content: "<p>Get ready to rumble because the party starts right here: t
   \ Vibes Co. for nothing!</p>"
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
-  \ the form below before 23:59 on 21/03/2018!.\r\n</p>"
+  \ the form below before 23:59 on 21/03/2018.\r\n</p>"
 has-winner: false
 prize-description: "3 lucky winners win £250 each for shopping at Rocket"
 ---
