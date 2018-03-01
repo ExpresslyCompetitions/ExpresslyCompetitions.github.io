@@ -8,11 +8,10 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary movie"
-competition-description: "Calling all OASIS fans! Supersonic is coming to a cinema\
-  \ near you and thanks to NME and VUE you could be there for FREE! We’re giving away\
-  \ 5 pairs to watch the screening of the movie at a Vue Cinema near you. It’s 5 pairs\
-  \ for EACH cinema – so check the list inside!\r\n<p>If you don't want to miss it,\
-  \ click here for a chance to win!</p>"
+competition-description: "<p>Oasis fans! The ultimate Oasis documentary, Supersonic,\
+  \ is returning to a cinema near you, and NME and VUE have partnered to offer 5 free\
+  \ pairs of tickets to each screening around the country.</p> \r\n<p>Wanna be there\
+  \ now? Click here for a chance to win.</p>"
 hero-header: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
 terms-confirmation: "N/A"
@@ -24,22 +23,23 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-f269a838-e0d6-40d8-97e1-1e
 bg-image-first: "https://assets.expresslyapp.com/asset-3f76d595-915a-4b0c-a893-98e379e697e0.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-39bcd330-be0a-4c42-9c87-c7a945a23628.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-0ba77a4d-42ce-4b93-972f-e63b2bdfd438.jpg"
-section1-content: "<p>Whether you have seen it or not, you cannot miss the opportunity\
-  \ of winning 2 tickets to see the amazing documentary of the band that have sold\
-  \ over 85 million records worldwide: Oasis’s Supersonic!</p>\r\n\r\n<p>The film\
-  \ details the history of the band during their formative years and their success\
-  \ in the 1990s featuring exclusive bonus content such as off-screen interviews,\
-  \ archive video of concerts… and many more!</p>"
-section2-content: "<p>Your world's leading cinema operators VUE, managing a large\
-  \ number of venues across the UK and Europe, will bring you the Oasis documentary\
-  \ movie on the Big Screen!</p>\r\n\r\n<p>What’s not to like?</p>"
-section3-content: "<p>Get ready: on Thursday 8th of March at 19:00... you have a date\
-  \ with Supersonic!</p> \r\n\r\n<p>VUE will screen the documentary movie in 10 cinemas\
-  \ across the UK. The chosen ones are: VUE Bolton, Bristol Cribbs, Cheshire Oaks,\
-  \ Edinburgh Omni, Gateshead, Hamilton, Islington, Leeds Light, Manchester Printworks,\
-  \ Plymouth, Portsmouth and West End!</p>\r\n\r\n<p>NME is here to get you there\
-  \ with VUE! so if you are an Oasis fan, complete the form below and you could see\
-  \ the Gallagher brothers on the big screen!</p>\r\n<p>Good luck!</p>"
+section1-content: "<p>If you missed the opportunity to see the Oasis documentary Supersonic\
+  \ when it hit cinemas 18 months ago, now is your chance: two tickets are on offer\
+  \ to see the film NME called “rousing, heart-rending and really f**king funny” on\
+  \ its release in September 2016.</p>\r\n<p>World-leading cinema group VUE – who\
+  \ manage tons of venues across the UK and Europe – are rescreening the doc, which\
+  \ picked up the gong for Best Music Film at the VO5 NME Awards 2017.</p>\r\n<p>It’\
+  s gonna be biblical, all over again.</p>"
+section2-content: "The film details the history of the band during their formative\
+  \ years and their success in the ‘90s, featuring exclusive bonus content of all\
+  \ kinds, from off-screen interviews to archive video of concerts."
+section3-content: "<p>On Thursday 8th of March at 19:00, 12 VUE cinemas across the\
+  \ UK are playing host to the instant-classic: VUE Bolton, Bristol Cribbs, Cheshire\
+  \ Oaks, Edinburgh Omni, Gateshead, Hamilton, Islington, Leeds Light, Manchester\
+  \ Printworks, Plymouth, Portsmouth and West End.</p>\r\n \r\n<p>Wanna be there now?\
+  \ NME is here to help: all Oasis fans need to do is complete the form below to be\
+  \ in with a chance to see the Gallagher brothers on the big screen once more.</p>\
+  \ \r\n\r\n<p>As you were…</p>"
 entry-title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary\
   \ movie"
 entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of the\
