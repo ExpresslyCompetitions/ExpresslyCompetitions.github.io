@@ -7,7 +7,8 @@ end-date: "2018-03-21T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win £250 for shopping spree at Rocket and get the party started!"
+title: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
+  \ for winners!”"
 competition-description: "<p>If you were thinking on what kind of look and mood you'd\
   \ like to have for your home… we have the perfect solution for you! Get that rock\
   \ look that your house deserves with Rocket! and their accessories inspired by music!\
@@ -37,14 +38,17 @@ section2-content: "<p>So lucky for you their crazy-good designers cooked up a ki
   \ Iphonista… from the next Jamie Oliver to the next dinner party!</p>\r\n<p>Dive\
   \ right into the rabbit hole, but don’t be surprised if you end up filling your\
   \ basket. After all, with nearly 1M products sold, it must be a mad world out there.</p>"
-section3-content: "<p>Get ready to rumble because the party starts right here: they're\
-  \ giving 3 lucky winners £250 each to indulge in a shopping spree bonanza worthy\
-  \ of a rockstar, only without the credit card hangover!</p>\r\n<p>So what are you\
-  \ waiting for! Click on the link for a chance to win! They don’t call them The Good\
-  \ Vibes Co. for nothing!</p>"
+section3-content: "<p>Get ready to rumble because the party starts right here: NME\
+  \ AAA is partnering with them to give 3 lucky winners £250 each to indulge in a\
+  \ shopping spree bonanza worthy of a Rockstar, only without the credit card hangover!</p>\r\
+  \n<p>They don’t call them The Good Vibes Co. for nothing! Enter below for a chance\
+  \ to win!</p>"
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on 21/03/2018.\r\n</p>"
 has-winner: false
 prize-description: "3 lucky winners win £250 each for shopping at Rocket"
+special-conditions: "RocketDesign.it items are priced in Euros. Winners will receive\
+  \ a coupon for a £250 equivalent in euros as per the end day of the competition\
+  \ spot exchange rate as posted by the Bank of England at http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp"
 ---
