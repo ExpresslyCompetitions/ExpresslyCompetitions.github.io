@@ -48,8 +48,8 @@ entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on 21/03/2018.\r\n</p>"
 has-winner: false
-prize-description: "3 lucky winners win £250 each for shopping at Rocket"
+prize-description: "3 lucky winners win £250* each for shopping at Rocket"
 special-conditions: "RocketDesign.it items are priced in Euros. Winners will receive\
-  \ a coupon for a £250 equivalent in euros as per the end day of the competition\
-  \ spot exchange rate as posted by the Bank of England at http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp"
+  \ a coupon for a €285, i.e., the euro equivalent of £250 as per 28 February 2018\
+  \ spot exchange rate as posted by the Bank of England at http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp."
 ---
