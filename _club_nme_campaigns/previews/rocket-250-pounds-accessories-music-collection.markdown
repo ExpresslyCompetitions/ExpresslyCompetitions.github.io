@@ -16,7 +16,8 @@ competition-description: "<p>If you were thinking on what kind of look and mood 
   \ chance of winning £250 for shopping spree at their entire collection!</p><p>Take\
   \ a look at their products and treat yourself or your loved ones with the perfect\
   \ gift!</p>"
-hero-header: "Win £250 for shopping spree at Rocket and get the party started!"
+hero-header: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
+  \ for winners!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-8f775576-4fff-421a-a125-00be6f86f424.jpg"
 logo-left-href: "https://www.rocketdesign.it/"
