@@ -43,7 +43,7 @@ section2-content: "<p>The sensational Blu-ray™ & DVD returns on March 5th and 
   \ screen four very special sessions starting March 17!</p>"
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
   \ for kicking off you weekend! Enter your details below for a chance to win this\
-  \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie.</p>\r\
+  \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie!</p>\r\
   \n<p>Good luck!</p>"
 entry-title: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
