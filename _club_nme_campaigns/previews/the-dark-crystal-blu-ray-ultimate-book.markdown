@@ -54,6 +54,6 @@ entry-content: "<p>The Dark Crystal on Blu-ray™ is loaded with additional excl
   \ bonus content for you to get stuck into. <p><p>Enter the draw to win by completing\
   \ the form below before 23.59pm on 19/03/2018.<p>"
 has-winner: false
-prize-description: "3 copies of The Dark Crystal on Blu-ray™ and 3 copies of the Ultimate\
-  \ Visual History book of the movie."
+prize-description: "The winner wins one of 3 copies of The Dark Crystal on Blu-ray™\
+  \ and one of  3 copies of the Ultimate Visual History book of the movie."
 ---
