@@ -7,8 +7,8 @@ end-date: "2018-03-19T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win The Dark Crystal on 4K Ultra HD™ and the Ultimate Visual History book\
-  \ of the movie!"
+title: "Win The Dark Crystal on Blu-Ray™ and the Ultimate Visual History book of the\
+  \ movie!"
 competition-description: "Calling all The Dark Crystal fans! Get ready to return to\
   \ the mystical world of Thrall! To celebrate the debut on 4K Ultra HD™ and the return\
   \ on Blu-ray™ & DVD of the movie, we've managed to get our hands on 3 copies of\
