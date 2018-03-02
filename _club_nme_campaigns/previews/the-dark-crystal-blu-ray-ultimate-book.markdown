@@ -34,13 +34,16 @@ section1-content: "<p>The high fantasy adventure film directed by Jim Henson and
   \ for one lucky NME reader to win!</p> \r\n<p>The epic fantasy movie follows the\
   \ spectacular story of a young hero who must find a legendary relic in order restore\
   \ harmony to the universe!</p>"
-section2-content: "<p>The sensational Blu-ray™ & DVD returns on March 5th and is packed\
-  \ with exclusive bonus content including a collectable 30 page booklet with photos\
-  \ and numerous behind the scenes stories! But that is just the beginning…The Ultimate\
-  \ Visual History book comes with amazing removable pieces such as script pages and\
-  \ sketches form from the director!</p>\r\n<p>Oh, and did I mention The Dark Crystal\
-  \ movie returns to the cinema as well? The Prince Charles Cinema in London will\
-  \ screen four very special sessions starting March 17!</p>"
+section2-content: "<p>The sensational Blu-ray™ & DVD now at HMV  is packed with exclusive\
+  \ bonus content including a collectable 30 page booklet with photos and numerous\
+  \ behind the scenes stories! But that is just the beginning…The Ultimate Visual\
+  \ History book is a lavish compendium featuring candid set photography, unseen concept\
+  \ art and amazing removable pieces such as script pages and sketches form Henson!</p>\r\
+  \n<p>Oh, and did I mention The Dark Crystal movie returns to the cinema as well?\
+  \ The Prince Charles Cinema in London will screen four very special sessions starting\
+  \ March 17! The chosen dates are: Saturday 17 March 2018 at 15:25, Sunday 18 March\
+  \ 2018 at 18:00, Tuesday 20 March 2018 at 16:05\r\nand Thursday 22 March 2018 at\
+  \ 13:25</p>"
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
   \ for kicking off you weekend! Enter your details below for a chance to win this\
   \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie!</p>\r\
