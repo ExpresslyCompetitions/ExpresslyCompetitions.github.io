@@ -38,9 +38,9 @@ section2-content: "<p>The sensational Blu-ray™ & DVD returns on March 5th and 
   \ with exclusive bonus content including a collectable 30 page booklet with photos\
   \ and numerous behind the scenes stories! But that is just the beginning…The Ultimate\
   \ Visual History book comes with amazing removable pieces such as script pages and\
-  \ sketches form from the director!</p>\r\n<p>Oh, and did I mention that The Dark\
-  \ Crystal movie returns to the cinema as well? The Prince Charles Cinema in London\
-  \ will screen four very special sessions starting March 17!</p>"
+  \ sketches form from the director!</p>\r\n<p>Oh, and did I mention The Dark Crystal\
+  \ movie returns to the cinema as well? The Prince Charles Cinema in London will\
+  \ screen four very special sessions starting March 17!</p>"
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
   \ for kicking off you weekend! Enter your details below for a chance to win this\
   \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie.</p>\r\
