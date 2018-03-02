@@ -18,12 +18,14 @@ competition-description: "Calling all The Dark Crystal fans! Get ready to return
 hero-header: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-2648e53a-a785-48aa-ab6d-95eabf253b03.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-4d12c9e5-c5ec-41a7-96c5-207ed0d483f2.jpg"
 logo-left-href: "http://www.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-72adbf1a-6bed-4427-84c6-e2efb2c697e2.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-9749d9c2-c0cf-4f9a-b420-9df415dfd691.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-5eab9993-1006-4c52-bf57-2c9a279fdd8e.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-46e29147-cd1c-4c02-bbc2-529844ef189f.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-efc62060-74f3-4a41-9517-69ceb91ea2b1.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-6f1254fb-1511-4628-af79-a6762be8dec7.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-baa8b75b-0316-4f18-8c69-97de98854402.jpg"
 section1-content: "<p>The high fantasy adventure film directed by Jim Henson and Frank\
   \ Oz back in 1982 has been fully restored in 4K from the original camera negative\
   \ and is coming home with you!</p> \r\n<p>To celebrate the debut on 4K Ultra HD™\
