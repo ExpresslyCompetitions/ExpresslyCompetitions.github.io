@@ -36,7 +36,7 @@ section1-content: "<p>The high fantasy adventure film directed by Jim Henson and
   \ harmony to the universe!</p>"
 section2-content: "<p>The sensational Blu-ray™ & DVD returns on March 5th and is packed\
   \ with exclusive bonus content including a collectable 30 page booklet with photos\
-  \ and numerous behind the scenes stories! But that is just the beginning… The Ultimate\
+  \ and numerous behind the scenes stories! But that is just the beginning…The Ultimate\
   \ Visual History book comes with amazing removable pieces such as script pages and\
   \ sketches form from the director!</p>\r\n<p>Oh, and did I mention that The Dark\
   \ Crystal movie returns to the cinema as well? The Prince Charles Cinema in London\
