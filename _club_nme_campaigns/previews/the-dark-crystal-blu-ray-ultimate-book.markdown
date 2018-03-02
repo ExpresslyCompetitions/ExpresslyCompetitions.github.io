@@ -12,9 +12,9 @@ title: "Win The Dark Crystal on Blu-Ray™ and the Ultimate Visual History book 
 competition-description: "Calling all The Dark Crystal fans! Get ready to return to\
   \ the mystical world of Thrall! To celebrate the debut on 4K Ultra HD™ and the return\
   \ on Blu-ray™ & DVD of the movie, we've managed to get our hands on 3 copies of\
-  \ the 4K Ultra HD™ and 3 copies of The Ultimate Visual History book of the movie!\
-  \ An exciting time and a must have for any Dark Crystal fan!\r\n<p>Sounds good?\
-  \ You know what to do…</p>"
+  \ the Blu-Ray™ and 3 copies of The Ultimate Visual History book of the movie! An\
+  \ exciting time and a must have for any Dark Crystal fan!\r\n<p>Sounds good? You\
+  \ know what to do…</p>"
 hero-header: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
 terms-confirmation: "N/A"
@@ -42,7 +42,7 @@ section2-content: "<p>The sensational Blu-ray™ & DVD returns on March 5th and 
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
   \ for kicking off you weekend! Enter your details below for a chance to win this\
   \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie.</p>\r\
-  \n <p>Good luck!</p>"
+  \n<p>Good luck!</p>"
 entry-title: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
 entry-content: "<p>The Dark Crystal on Blu-ray™ is loaded with additional exclusive\
