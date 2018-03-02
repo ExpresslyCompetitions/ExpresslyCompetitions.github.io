@@ -41,7 +41,7 @@ section2-content: "<p>The sensational Blu-ray™ & DVD now at HMV  is packed wit
   \ art and amazing removable pieces such as script pages and sketches form Henson!</p>\r\
   \n<p>Oh, and did I mention The Dark Crystal movie returns to the cinema as well?\
   \ The Prince Charles Cinema in London will screen four very special sessions starting\
-  \ March 17! You can get the tickets here: https://princecharlescinema.com/</p><p><br/>The\
+  \ March 17! You can get the tickets here: https://princecharlescinema.com</p><p><br/>The\
   \ chosen dates are: <br/>Saturday 17 March 2018 at 15:25 <br/>Sunday 18 March 2018\
   \ at 18:00 <br/>Tuesday 20 March 2018 at 16:05 <br/>Thursday 22 March 2018 at 13:25</p>"
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
