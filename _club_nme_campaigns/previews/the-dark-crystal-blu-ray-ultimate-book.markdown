@@ -24,7 +24,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-72adbf1a-6bed-4427-84c6-
 logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-c4618a43-e9ff-48db-a33d-2c4493c2114e.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-efc62060-74f3-4a41-9517-69ceb91ea2b1.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-b2627531-2cea-4474-bf0f-2d517801a148.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-cf4c3273-c4ed-4cf6-988d-57963f51d315.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-baa8b75b-0316-4f18-8c69-97de98854402.jpg"
 section1-content: "<p>The high fantasy adventure film directed by Jim Henson and Frank\
   \ Oz back in 1982 has been fully restored in 4K from the original camera negative\
