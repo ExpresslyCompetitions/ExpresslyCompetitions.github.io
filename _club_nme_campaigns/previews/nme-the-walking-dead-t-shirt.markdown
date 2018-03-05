@@ -2,12 +2,12 @@
 campaign-uuid: "c-bfe04a31-ed2f-4144-9559-83964b00615c"
 type: "Preview"
 category: "Fashion"
-date: "2018-03-05T14:44:14.312Z"
+date: "2018-03-05T14:44:14.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
-title: "Get the official The Walking Dead Revolver Mens T-shirt!"
+title: "Get the official The Walking Dead Revolver Men's T-shirt!"
 competition-description: "<p>Calling all The Walking Dead fans! We have something\
   \ special for you! A totally  must for your wardrobe! The Walking Dead Revolver\
   \ Mens T-shirt is finally here!</p> \r\nWe know a good signature weapon is more\
