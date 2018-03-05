@@ -10,7 +10,7 @@ has_entry_page: false
 title: "Create without limits. Deliver without exceptions."
 competition-description: "<p>Comfort and a good feel are key factors for a serious\
   \ photographer. Performance is everything, thats why the brand new Nikon D850 doesn’\
-  t just perform, it takes perfection to a whole new level.</p>\r\n<p>Ultra-high-resolution\
+  t just perform, it takes perfection to a whole new level!</p>\r\n<p>Ultra-high-resolution\
   \ FX-format sensor, Ultra-high-resolution images in ultra-large formats, Full-frame\
   \ movies at 4K, 153-point AF system… are some of its numerous features! You can\
   \ also streamline your workflow with high-speed data transfer and wireless connectivity!\
