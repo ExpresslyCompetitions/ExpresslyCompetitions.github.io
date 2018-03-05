@@ -12,7 +12,7 @@ competition-description: "<p>Calling all The Walking Dead fans! We have somethin
   \ special for you! A totally  must for your wardrobe! The Walking Dead Revolver\
   \ Men's T-shirt is finally here!</p> \r\n<p>We know a good signature weapon is more\
   \ than a practical tool for a hero… that is why the brand new The Walking Dead T-shirt\
-  \ features Rick’s symbol of leadership, the Revolver! Printed in red and white tones\
+  \ features Rick’s symbol of leadership, The Revolver! Printed in red and white tones\
   \ will make you stand out! Think no more and be the biggest fan of the American\
   \ show that everybody is talking about, The Walking Dead!</p>\r\n<p>Get it now!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-2fa14a84-a2e3-450b-ac31-940cb002ce6d.jpg"
