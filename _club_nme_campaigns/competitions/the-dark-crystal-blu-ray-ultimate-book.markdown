@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-e2057474-016b-49a5-b0b4-4826ab5d4d0f"
-type: "Preview"
+type: "Competition"
 category: "Competition"
 date: "2018-03-05T09:00:00.000Z"
 end-date: "2018-03-19T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win The Dark Crystal on Blu-Ray™ and the Ultimate Visual History book of the\
   \ movie!"
