@@ -19,7 +19,7 @@ competition-description: "<p>If you were thinking on what kind of look and mood 
 hero-header: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
   \ for winners!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-300f11ad-6e18-4fe6-a979-7ce5bc8fc457.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-6b2dc262-edfc-4b90-9064-098be1e00927.jpg"
 logo-left-href: "https://www.rocketdesign.it/"
 logo-left-image: "https://assets.expresslyapp.com/27be0a0a-07f2-4577-b8e8-d214b471a5b7-thumb.png"
 logo-left-title: "Rocket Design"
