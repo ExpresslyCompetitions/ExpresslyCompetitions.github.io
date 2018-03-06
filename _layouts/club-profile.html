@@ -18,6 +18,12 @@ title: My Account
         {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){9}" error="Please enter a valid UK telephone number" %}
         {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
         {% include form_input_checkbox.html id="optin" label="Please notify me of selected new offers and competitions" %}
+        <div class="form-group row my-0">
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9 text-right">
+                <div class="small"><a href="#" id="action--profile--password-reset-request">Forgot password?</a></div>
+            </div>
+        </div>
         {% include form_input_text.html id="currentPassword" label="Password" type="password" required="true" placeholder="Enter your password" autocomplete="password" error="Please enter your current password"%}
         {% include form_input_text.html id="newPassword" label="New Password" type="password" placeholder="Enter a new password to change it" autocomplete="new-password" error="Password must be at least 8 characters long" maxlength="64" pattern=".{8,}"%}
         {% assign form_input_id_prefix = '' %}
