@@ -19,13 +19,13 @@ competition-description: "<p>If you were thinking on what kind of look and mood 
 hero-header: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
   \ for winners!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-8f775576-4fff-421a-a125-00be6f86f424.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-6b2dc262-edfc-4b90-9064-098be1e00927.jpg"
 logo-left-href: "https://www.rocketdesign.it/"
 logo-left-image: "https://assets.expresslyapp.com/27be0a0a-07f2-4577-b8e8-d214b471a5b7-thumb.png"
 logo-left-title: "Rocket Design"
-bg-image-hero: "https://assets.expresslyapp.com/asset-be4eb480-84d6-4c59-89fc-09b233a48d21.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-7c89c8eb-73d1-4b69-933c-72dd7e29fa38.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-15a106f4-5ff0-4151-bc19-c93a39c65ec8.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-96211b05-805a-4535-8759-a0e0a5a026f7.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-ee16e0c1-981d-4537-8781-fa8b66fbdfa4.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-698fe01a-76ab-4159-9208-23cd27d274ea.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-6232afe7-2dcf-4cd2-bb90-835f66fc64fb.jpg"
 section1-content: "<p>At ROCKET they make awesome home, travel & lifestyle gifts and\
   \ accessories inspired by music. They take that visceral emotional connection music\
