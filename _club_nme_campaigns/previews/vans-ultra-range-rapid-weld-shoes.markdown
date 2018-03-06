@@ -11,8 +11,8 @@ title: "The ULTRARANGE RAPIDWELD SHOES are finally here!"
 competition-description: "We have a new addition to the Vans family! The UltraRange\
   \ Rapidweld shoes have just arrived! and they come with numerous brand new features!\
   \ \r\nFully breathable mesh, water-based inks and glues, suede uppers… and that\
-  \ is just the beginning! \r\n<p>Click in the link to get to know them better and\
-  \ experience a great comfort for long journeys with Vans!</p>"
+  \ is just the beginning! \r\n<p>Click here to get to know them better and experience\
+  \ a great comfort for long journeys with Vans!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-6ad6e58c-9aa7-45c4-85e9-aa45f486d806.jpg"
 logo-left-href: "https://www.vans.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/2099d462-23ca-4154-87b6-a3c37dc48b95-thumb.png"

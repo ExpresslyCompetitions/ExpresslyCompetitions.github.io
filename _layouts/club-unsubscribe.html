@@ -1,0 +1,25 @@
+---
+layout: club-layout
+title: Unsubscribe
+---
+{% include club_base_url.html %}
+<div class="container logged-out-only">
+    <h4 class="mb-4"><strong>{{page.title}}</strong></h4>
+    <h6><a href="#" data-toggle="modal" data-target="#modal--login">Please sign in</a></h6>
+</div>
+<div class="container logged-in-only">
+    <h4 class="mb-4"><strong>{{page.title}}</strong></h4>
+    <p>
+        By clicking unsubscribe below you will opt to no longer receive e-mails regarding exclusive
+        news, offers and competitions from {{page.club-name}}.
+    </p>
+    <div class="m-auto text-center">
+        <button id="action--unsubscribe" type="button" class="btn btn-primary px-5 disable-if-busy" data-redirect="{{club_base}}">
+            Unsubscribe
+            <span class="show-when-busy"> <img
+                    src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+        </button>
+    </div>
+</div>
+
+

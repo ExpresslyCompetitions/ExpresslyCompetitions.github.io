@@ -46,7 +46,10 @@ entry-content: "<p>Win 2 tickets to see Supersonic, the greatest documentary of 
   \ Oasis band.</p> <p> Enter the draw by completing the form below before 14:00pm\
   \ on 05/03/2018.</p>"
 entry-extension: "nme/supersonic-oasis-movie-prize.html"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lawrenson, Rachel, Meredith, Conway and the remaining\
+  \ 56 who are going to attend the screening!"
+winner-banner: "https://assets.expresslyapp.com/asset-fb794ea1-6cac-48aa-bb51-d248671f9722.jpg"
 prize-description: "One of 5 pairs of tickets for the March 8th 19:00 screening at\
   \ each of the venues listed below."
 special-conditions: "Any travel expenses are not included.\r\nLimited to the following\
