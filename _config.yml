@@ -50,6 +50,8 @@ clubs:
       company-url:    "http://www.cyclingweekly.com"
       company-terms:  "http://www.timeincuk.com/terms-and-conditions/"
       company-privacy: "http://www.timeincuk.com/privacy/"
+      parent-website-name: "Cycling Weekly"
+      parent-website-url: "http://www.cyclingweekly.com/"
       icon-url:       "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2016/02/cropped-favicon-copy-32x32.jpg"
       merchant-uuid:  "m-17001ac9-9405-4b4f-ada9-fa90426806cc"
       domain-migrations-enabled: false
@@ -68,6 +70,8 @@ clubs:
       company-url:    "https://buyexpressly.com"
       company-terms:  "https://buyexpressly.com/terms-and-conditions"
       company-privacy: "https://buyexpressly.com/privacy"
+      parent-website-name: "Expressly"
+      parent-website-url: "https://buyexpressly.com/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
       domain-migrations-enabled: false
       ga-code:        "UA-102915329-1"
@@ -84,6 +88,8 @@ clubs:
       company-url:    "https://www.timeincuk.com/"
       company-terms:  "https://www.timeincuk.com/terms-and-conditions/"
       company-privacy: "https://www.timeincuk.com/privacy/"
+      parent-website-name: "NME"
+      parent-website-url: "http://www.nme.com/"
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
       domain-migrations-enabled: false
@@ -102,6 +108,8 @@ clubs:
       company-url:    "https://www.timeincuk.com/"
       company-terms:  "https://www.timeincuk.com/terms-and-conditions/"
       company-privacy: "https://www.timeincuk.com/privacy/"
+      parent-website-name: "Trusted Reviews"
+      parent-website-url: "http://www.trustedreviews.com/"
       icon-url:       "http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/07/cropped-trusted-reviews-icon-3-192x192.png"
       merchant-uuid:  "m-1a7b03af-82ba-482f-952c-5e7228bf10d5"
       domain-migrations-enabled: true
