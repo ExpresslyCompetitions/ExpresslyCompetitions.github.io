@@ -1,14 +1,14 @@
 ---
 campaign-uuid: "c-00fa9af2-154e-44ca-bf73-e030d4839312"
-type: "Preview"
+type: "Competition"
 category: "Competition"
 date: "2018-03-07T09:00:00.000Z"
 end-date: "2018-03-21T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
-  \ to win!"
+  \ for winners!”"
 competition-description: "<p>If you were thinking on what kind of look and mood you'd\
   \ like to have for your home… we have the perfect solution for you! Get that rock\
   \ look that your house deserves with Rocket! and their accessories inspired by music!\
@@ -17,7 +17,7 @@ competition-description: "<p>If you were thinking on what kind of look and mood 
   \ a look at their products and treat yourself or your loved ones with the perfect\
   \ gift!</p>"
 hero-header: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
-  \ to win!"
+  \ for winners!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-6b2dc262-edfc-4b90-9064-098be1e00927.jpg"
 logo-left-href: "https://www.rocketdesign.it/"
@@ -48,8 +48,8 @@ entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on 21/03/2018.\r\n</p>"
 has-winner: false
-prize-description: "One of 3x £250* vouchers to shop at Rocket (Rocketdesign.it)"
-special-conditions: "* RocketDesign.it items are priced in Euros. Winners will receive\
+prize-description: "3 lucky winners win £250* each for shopping at Rocket"
+special-conditions: "RocketDesign.it items are priced in Euros. Winners will receive\
   \ a coupon for a €285, i.e., the euro equivalent of £250 as per 28 February 2018\
   \ spot exchange rate as posted by the Bank of England at http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp."
 ---
