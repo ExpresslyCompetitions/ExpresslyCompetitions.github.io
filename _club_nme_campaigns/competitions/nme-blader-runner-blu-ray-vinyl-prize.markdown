@@ -46,7 +46,10 @@ entry-title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtra
 entry-content: "<p>The Blade Runner 2049 Blu-ray™ release is loaded with additional\
   \ exclusive bonus content for you to get stuck into. <p><p>Enter the draw to win\
   \ by completing the form below before 11.59pm on 20/02/2018.<p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michael-john Hannigan who won a fantastic copy of\
+  \ Blade Runner 2049 on Blu-ray™ and the Vinyl of the movie!"
+winner-banner: "https://assets.expresslyapp.com/asset-37197fcc-1352-4f0b-839e-69a89dc8b85b.jpg"
 prize-description: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack\
   \ of the movie"
 ---
