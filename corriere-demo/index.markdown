@@ -9,7 +9,7 @@ title: "Win a Creative Halo and experience an Expressly Powerlink"
 hero-header: "Win a Creative Halo and experience an Expressly Powerlink"
 hero-subheader: ""
 terms-confirmation: >
-    I agree to the competition T&amp;C
+    I agree to the competition T&amp;C and to create an account at Corriere.it
 
 logo-left-href: "https://uk.creative.com"
 logo-left-image: "creative-logo.jpg"
