@@ -54,7 +54,7 @@ clubs:
       parent-website-url: "http://www.cyclingweekly.com/"
       icon-url:       "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2016/02/cropped-favicon-copy-32x32.jpg"
       merchant-uuid:  "m-17001ac9-9405-4b4f-ada9-fa90426806cc"
-      ad_include:     "ad/expressly/list-top-ad-html"
+      ad_include:     "ad/expressly/list-top-ad.html"
       domain-migrations-enabled: false
       ga-code:        "UA-110278937-3"
       ga-domain:      "cyclingweekly.buyexpressly.com"
