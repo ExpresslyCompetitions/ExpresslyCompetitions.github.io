@@ -2,14 +2,14 @@
 layout: competition-style-01
 
 merchant-uuid: m-5415be1c-1ebf-4d28-aea4-ae37afa895ba
-campaign-uuid: c-885e54f1-757e-4209-8ac8-11cb6631be81
+campaign-uuid: c-b8c020bd-46cb-46ac-8c21-9cb6ba1b6ad4
 disable-form: false
 
 title: "Win a Creative Halo and experience an Expressly Powerlink"
 hero-header: "Win a Creative Halo and experience an Expressly Powerlink"
 hero-subheader: ""
 terms-confirmation: >
-    agree to the competition T&amp;C
+    I agree to the competition T&amp;C
 
 logo-left-href: "https://uk.creative.com"
 logo-left-image: "creative-logo.jpg"
