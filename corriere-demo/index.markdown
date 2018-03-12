@@ -25,11 +25,12 @@ section1-content: >
 
 section2-content: >
   <p>Great portability and great sound quality. This new speaker sounds as good as it looks! Heavenly, right?</p>
-  <p>Don't miss out the opportunity of winning one the brand new Creative products: The new Halo Bluetooth Speaker. Check it out now, this could be the perfect fit for you or your loved ones.</p>"
+  <p>Don't miss out the opportunity of winning one the brand new Creative products: The new Halo Bluetooth Speaker. Check it out now, this could be the perfect fit for you or your loved ones.</p>
 
-entry-title: "Win a Creative Halo and experience an Expressly Powerlink
+entry-title: Win a Creative Halo and experience an Expressly Powerlink
+
 entry-content: >
   <p>Liking the brand new looks of the new Creative Halo? You could win the brand new Halo Bluetooth Speaker with Creative by entering the form below.</p>
-  <p> Enter the draw to win by completing the form below before 23.59pm on 23/04/2018.</p>"
+  <p> Enter the draw to win by completing the form below before 23.59pm on 23/04/2018.</p>
 ---
 
