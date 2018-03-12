@@ -58,6 +58,7 @@ layout: club-layout
                 {% include club_competition_card.html item=item %}
             {% endif %}
         {% endfor %}
+        {% if page.ad_include %}{% include ads/expressly/list-top-ad.html %}{% endif %}
     </div>
 </main>
 

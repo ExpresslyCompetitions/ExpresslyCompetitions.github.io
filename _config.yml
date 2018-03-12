@@ -73,6 +73,7 @@ clubs:
       parent-website-name: "Expressly"
       parent-website-url: "https://buyexpressly.com/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
+      ad_include:     "ad/expressly/list-top-ad.html"
       domain-migrations-enabled: false
       ga-code:        "UA-102915329-1"
       ga-domain:      "club.buyexpressly.com"
