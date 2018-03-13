@@ -40,13 +40,14 @@ section2-content: "<p>Lifeprint is the first, and only, instant photo printer in
   \ you can stick your\_Lifeprints to make a super quick photo album,\_postcard or\
   \ collage!</p>"
 section3-content: "<p>Now you can decorate your room with your favorite memories much\
-  \ better than just hitting ‘like’ on a screen!\_Think no more and enter your details\
-  \ below for a chance to win the amazing Lifeprint 2x3 Hyperphoto Printer worth £\
-  134.95!</p> \r\n<p>Good luck!</p>"
+  \ better than just hitting ‘like’ on a screen!\_But that is just the beginning,\
+  \ have a look at its numerous products here: http://lifeprintphotos.com/</p> \r\n\
+  <p>Think no more and enter your details below for a chance to win the amazing Lifeprint\
+  \ 2x3 Hyperphoto Printer worth £134.95! </p> \r\n<p>Good luck!</p>"
 entry-title: "Win\_your very own Lifeprint – the Instant photo\_and\_video printer\
   \ for your iPhone or Android!"
 entry-content: "Enter the draw to win the Lifeprint 2x3 Hyperphoto Printer worth £\
   134.95!  by completing the form below before 23:59 on 30/03/18!"
 has-winner: false
-prize-description: "One 2x3 Lifeprint Hyperphoto printer worth £134.9"
+prize-description: "One 2x3 Lifeprint Hyperphoto printer worth £134.95"
 ---
