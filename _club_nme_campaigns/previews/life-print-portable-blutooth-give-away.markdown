@@ -9,12 +9,12 @@ is_promoted: false
 has_entry_page: true
 title: "Win\_your very own Lifeprint – the Instant photo\_and\_video printer for your\
   \ iPhone or Android!"
-competition-description: "<p>If you want to print instantly your favorite photos and\
-  \ videos from your iPhone or Android… you can make it possible now with the new\
-  \ Lifeprint 2x3 Hyperphoto Printer! NME is giving YOU the opportunity to win the\
-  \ brand new portable Bluetooth printer you were waiting for!</p>\r\n<p>Click on\
-  \ the link for a chance to win and make your photos come to life with the new Lifeprint\
-  \ 2x3 Hyperphoto Printer!</p>"
+competition-description: "<p>If you want to print instantly your favourite photos\
+  \ and videos from your iPhone or Android… you can make it possible now with the\
+  \ new Lifeprint 2x3 Hyperphoto Printer! NME is giving YOU the opportunity to win\
+  \ the brand new portable Bluetooth printer you were waiting for!</p>\r\n<p>Click\
+  \ on the link for a chance to win and make your photos come to life with the new\
+  \ Lifeprint 2x3 Hyperphoto Printer!</p>"
 hero-header: "Win\_your very own Lifeprint - the Instant photo\_and\_video printer\
   \ for your iPhone or Android!"
 terms-confirmation: "N/A"
