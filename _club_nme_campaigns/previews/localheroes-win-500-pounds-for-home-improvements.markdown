@@ -1,5 +1,5 @@
 ---
-campaign-uuid: "c-b9838468-3557-4398-b3bb-70361e038bbb"
+campaign-uuid: "c-89232165-f51a-4e9d-a55a-1aa23869ef4d"
 type: "Preview"
 category: "Other"
 date: "2018-03-14T09:00:00.000Z"
@@ -18,8 +18,8 @@ terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win
   \ AAA."
 banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58b2d657c.jpg"
 logo-left-href: "https://www.localheroes.com/"
-logo-left-image: "localheroes-logo.jpg"
-logo-left-title: "British Gas Local Heroes"
+logo-left-image: "https://assets.expresslyapp.com/f30d9143-4bf0-4ebe-a770-328b7f8d908d-thumb.png"
+logo-left-title: "Local Heroes"
 bg-image-hero: "https://assets.expresslyapp.com/asset-883d056c-e84c-4fc0-b313-7247e9b6331e.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-1b8d0373-f23f-4c9e-bf03-d6e82a1d7387.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-88432b87-de93-478d-acd3-7b47948145de.jpg"
