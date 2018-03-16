@@ -10,7 +10,7 @@ has_entry_page: true
 title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary Concert!"
 competition-description: "<p>Charlton Athletic Community Trust has been bringing opportunity\
   \ and social change to communities for more than two decades! To celebrate their\
-  \ 25th anniversary the X Factor winner Louisa Johnson will headline an exclusive\
+  \ 25th Anniversary the X Factor winner Louisa Johnson will headline an exclusive\
   \ concert sponsored by Andrews Air Conditioning and we want YOU to be there.</p>\
   \ \r\n<p>Click on the link to get involved!</p>"
 hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at Indigo at The\
@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-072ad130-3e3d-4f0c-bbab-85d16
 logo-left-href: "https://www.andrews-sykes.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-4f27d58a32e0.jpg"
 logo-left-title: "Andrews Air Conditioning"
-bg-image-hero: "https://assets.expresslyapp.com/asset-8c1a5d27-6b76-429d-b1bb-53c093fab34c.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2e4ef688-bf66-4586-859d-2f1e8f5c6378.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-e736785f-1f06-47d2-ada7-ecf394294b22.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-8af52613-1dda-4e9e-9d7a-3b3aebd11f08.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-d1a13426-5613-4cc9-a1cc-cfcee74f5c2c.jpg"
