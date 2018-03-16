@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b6886f71-5bf1-4bde-98c3-c57d9
 logo-left-href: "https://www.andrews-sykes.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-4f27d58a32e0.jpg"
 logo-left-title: "Andrews Air Conditioning"
-bg-image-hero: "https://assets.expresslyapp.com/asset-3fcbcd06-da12-4e03-8455-4ad61bde8292.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ef29431d-676c-4f50-b747-575af9da94a7.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-2ce7dc96-cc23-4991-b3a8-0bde0bf57ce2.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-8af52613-1dda-4e9e-9d7a-3b3aebd11f08.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-e70065fa-3060-489a-8e78-78ff97dfd9b7.jpg"
@@ -31,7 +31,7 @@ section1-content: "The 25th Anniversary Committee of the Charlton Athletic Commu
   \ perform live!"
 section2-content: "The country’s leading supplier of specialist cooling services and\
   \ operate temporary solutions to clients across a full scale of industries, Andrews\
-  \ Air conditioning ( https://www.andrews-sykes.com) is the sponsor of this amazing\
+  \ Air conditioning (https://www.andrews-sykes.com) is the sponsor of this amazing\
   \ event and thanks to them and NME, you could win a pair of VIP tickets to attend\
   \ the event!"
 section3-content: "<p>The X Factor winner, Louisa Johnson will headline The 25th Anniversary\
