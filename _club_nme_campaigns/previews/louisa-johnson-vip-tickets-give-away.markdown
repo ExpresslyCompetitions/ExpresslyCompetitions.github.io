@@ -7,13 +7,13 @@ end-date: "2018-04-10T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a pair of VIP tickets to see Louisa Johnson!"
+title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary Concert!"
 competition-description: "<p>Charlton Athletic Community Trust has been bringing opportunity\
   \ and social change to communities for more than two decades! To celebrate their\
   \ 25th anniversary the X Factor winner Louisa Johnson will headline an exclusive\
   \ concert sponsored by Andrews Air Conditioning and we want YOU to be there.</p>\
   \ \r\n<p>Click on the link to get involved!</p>"
-hero-header: "Win a pair of VIP tickets to see Louisa Johnson!"
+hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at! The O2!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-072ad130-3e3d-4f0c-bbab-85d16abd0fdc.jpg"
 logo-left-href: "https://www.andrews-sykes.com"
