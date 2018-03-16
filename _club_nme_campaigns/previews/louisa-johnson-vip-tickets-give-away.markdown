@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b6886f71-5bf1-4bde-98c3-c57d9
 logo-left-href: "https://www.andrews-sykes.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-4f27d58a32e0.jpg"
 logo-left-title: "Andrews Air Conditioning"
-bg-image-hero: "https://assets.expresslyapp.com/asset-22c22735-d43c-44ae-b635-47ff735e80ca.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-f58c6e2e-0fb3-4345-a346-fd28c22613a9.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-2ce7dc96-cc23-4991-b3a8-0bde0bf57ce2.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-8af52613-1dda-4e9e-9d7a-3b3aebd11f08.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-e70065fa-3060-489a-8e78-78ff97dfd9b7.jpg"
