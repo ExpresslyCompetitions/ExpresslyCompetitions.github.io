@@ -7,7 +7,8 @@ end-date: "2018-04-10T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary Concert!"
+title: "Win a pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
+  \ Concert!"
 competition-description: "<p>Charlton Athletic Community Trust has been bringing opportunity\
   \ and social change to communities for more than two decades! To celebrate their\
   \ 25th Anniversary the X Factor winner Louisa Johnson will headline an exclusive\
