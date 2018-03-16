@@ -17,7 +17,7 @@ competition-description: "<p>Charlton Athletic Community Trust has been bringing
 hero-header: "Win a pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-b6886f71-5bf1-4bde-98c3-c57d9c94905c.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-072ad130-3e3d-4f0c-bbab-85d16abd0fdc.jpg"
 logo-left-href: "https://www.andrews-sykes.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-4f27d58a32e0.jpg"
 logo-left-title: "Andrews Air Conditioning"
