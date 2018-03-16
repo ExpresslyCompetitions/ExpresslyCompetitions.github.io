@@ -13,7 +13,7 @@ competition-description: "<p>Charlton Athletic Community Trust has been bringing
   \ 25th anniversary the X Factor winner Louisa Johnson will headline an exclusive\
   \ concert sponsored by Andrews Air Conditioning and we want YOU to be there.</p>\
   \ \r\n<p>Click on the link to get involved!</p>"
-hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at! The O2!"
+hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at The O2!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-072ad130-3e3d-4f0c-bbab-85d16abd0fdc.jpg"
 logo-left-href: "https://www.andrews-sykes.com"
