@@ -23,8 +23,8 @@ logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-
 logo-left-title: "Andrews Air Conditioning"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7f0f6a5c-978a-4922-aa07-881625bf13dc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-e736785f-1f06-47d2-ada7-ecf394294b22.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-8af52613-1dda-4e9e-9d7a-3b3aebd11f08.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-d1a13426-5613-4cc9-a1cc-cfcee74f5c2c.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-2d70aee6-32ec-491d-bf54-adacd7bc619f.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-abb6e58a-e574-4b71-a14e-c364e6b8a037.jpg"
 section1-content: "The 25th Anniversary Committee of the Charlton Athletic Community\
   \ Trust is excited to announce an exclusive concert in order to support projects\
   \ at the heart of the community and where the X Factor winner Louisa Johnson will\
