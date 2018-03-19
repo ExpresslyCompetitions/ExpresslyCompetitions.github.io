@@ -35,12 +35,12 @@ section2-content: "<p>The country’s leading supplier of specialist cooling ser
   \ </a> is the sponsor of this amazing concert!</p>\r\n<p>Thanks to them and NME,\
   \ you could win a pair of VIP tickets to attend the event!</p>"
 section3-content: "<p>The X Factor winner Louisa Johnson will headline The 25th Anniversary\
-  \ concert at Indigo at The O2 on Friday 18 May where Radio and TV personality Dave\
-  \ Berry will host the concert in which all funds raised will go to support the organisation’\
-  s activities! \r\nWe have a pair of VIP tickets to see her perform live and to meet\
-  \ and greet Louisa herself!</p> \r\n<p>If you are over 16 and a big fan of Louisa\
-  \ Johnson, complete the form below to be in with a chance to see her perform live!</p>\r\
-  \n<p>Good luck!</p>"
+  \ concert at Indigo at The O2 on Friday 18th of May where Radio and TV personality\
+  \ Dave Berry will host the concert in which all funds raised will go to support\
+  \ the organisation’s activities! \r\nWe have a pair of VIP tickets to see her perform\
+  \ live and to meet and greet Louisa herself!</p> \r\n<p>If you are over 16 and a\
+  \ big fan of Louisa Johnson, complete the form below to be in with a chance to see\
+  \ her perform live!</p>\r\n<p>Good luck!</p>"
 entry-title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert"
 entry-content: "<p>Enter the draw to win a pair of VIP tickets to see Louisa Johnson\
