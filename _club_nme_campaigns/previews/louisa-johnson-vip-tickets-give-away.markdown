@@ -32,8 +32,8 @@ section1-content: "The 25th Anniversary Committee of the Charlton Athletic Commu
 section2-content: "The country’s leading supplier of specialist cooling services and\
   \ operate temporary solutions to clients across a full scale of industries, Andrews\
   \ Air conditioning is the sponsor of this amazing concert and thanks to them and\
-  \ NME, you could win a pair of VIP tickets to attend the event!\r\n\r\n<a href=“\
-  https://www.andrews-sykes.com/air-conditioning/\">https://www.andrews-sykes.com/air-conditioning/</a>"
+  \ NME, you could win a pair of VIP tickets to attend the event!\r\n\r\n<a href=\"\
+  https://www.andrews-sykes.com/air-conditioning/\"> Andrews Air conditioning </a>"
 section3-content: "<p>The X Factor winner Louisa Johnson will headline The 25th Anniversary\
   \ concert at Indigo at The O2 on Friday 18 May where Radio and TV personality Dave\
   \ Berry will host the concert in which all funds raised will go to support the organisation’\
