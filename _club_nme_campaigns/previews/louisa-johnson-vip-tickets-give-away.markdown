@@ -29,11 +29,11 @@ section1-content: "The 25th Anniversary Committee of the Charlton Athletic Commu
   \ Trust is excited to announce an exclusive concert in order to support projects\
   \ at the heart of the community and where the X Factor winner Louisa Johnson will\
   \ perform live!"
-section2-content: "The country’s leading supplier of specialist cooling services and\
-  \ operate temporary solutions to clients across a full scale of industries,<a href=\"\
-  https://www.andrews-sykes.com/air-conditioning/\"> Andrews Air conditioning </a>is\
-  \ the sponsor of this amazing concert and thanks to them and NME, you could win\
-  \ a pair of VIP tickets to attend the event!"
+section2-content: "<p>The country’s leading supplier of specialist cooling services\
+  \ and operate temporary solutions to clients across a full scale of industries,\
+  \ <a href=\"https://www.andrews-sykes.com/air-conditioning/\"> Andrews Air conditioning\
+  \ </a> is the sponsor of this amazing concert!</p>\r\n<p>Thanks to them and NME,\
+  \ you could win a pair of VIP tickets to attend the event!</p>"
 section3-content: "<p>The X Factor winner Louisa Johnson will headline The 25th Anniversary\
   \ concert at Indigo at The O2 on Friday 18 May where Radio and TV personality Dave\
   \ Berry will host the concert in which all funds raised will go to support the organisation’\
