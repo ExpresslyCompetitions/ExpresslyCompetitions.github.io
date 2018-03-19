@@ -23,7 +23,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-5b986a97-efdb-4e15-8988-
 logo-left-title: "Andrews Air Conditioning"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7f0f6a5c-978a-4922-aa07-881625bf13dc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-e736785f-1f06-47d2-ada7-ecf394294b22.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-2d70aee6-32ec-491d-bf54-adacd7bc619f.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-6a29aa5f-38c4-48a6-916a-be23d41baee6.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-abb6e58a-e574-4b71-a14e-c364e6b8a037.jpg"
 section1-content: "The 25th Anniversary Committee of the Charlton Athletic Community\
   \ Trust is excited to announce an exclusive concert in order to support projects\
@@ -31,9 +31,9 @@ section1-content: "The 25th Anniversary Committee of the Charlton Athletic Commu
   \ perform live!"
 section2-content: "The country’s leading supplier of specialist cooling services and\
   \ operate temporary solutions to clients across a full scale of industries, Andrews\
-  \ Air conditioning (https://www.andrews-sykes.com) is the sponsor of this amazing\
-  \ event and thanks to them and NME, you could win a pair of VIP tickets to attend\
-  \ the event!"
+  \ Air conditioning <a href=\"https://www.andrewssykes.com\">https://www.andrews-sykes.com</a>https://www.andrews-sykes.com\
+  \ is the sponsor of this amazing event and thanks to them and NME, you could win\
+  \ a pair of VIP tickets to attend the event!"
 section3-content: "<p>The X Factor winner, Louisa Johnson will headline The 25th Anniversary\
   \ concert at Indigo at The O2 on Friday 18 May where Radio and TV personality Dave\
   \ Berry will host the concert in which all funds raised will go to support the organisation’\
