@@ -12,7 +12,7 @@ title: "Win a pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniver
 competition-description: "<p>Charlton Athletic Community Trust has been bringing opportunity\
   \ and social change to communities for more than two decades! To celebrate their\
   \ 25th Anniversary the X Factor winner Louisa Johnson will headline an exclusive\
-  \ concert sponsored by Andrews Air Conditioning and we want YOU to be there.</p>\
+  \ concert sponsored by Andrews Air Conditioning and we want YOU to be there!</p>\
   \ \r\n<p>Click on the link to get involved!</p>"
 hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at Indigo at The\
   \ O2!"
