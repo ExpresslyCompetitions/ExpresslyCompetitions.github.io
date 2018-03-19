@@ -2281,6 +2281,12 @@ window.onload = function() {
         var trade_field = $('select[name="meta-lh-trade"]').first();
         var item_field = $('select[name="meta-lh-item"]').first();
         var issue_field = $('select[name="meta-lh-issue"]').first();
+
+        var trade_text_field = $('input[name="meta-lh-trade-text"]').first();
+        var item_text_field = $('input[name="meta-lh-item-text"]').first();
+        var issue_text_field = $('input[name="meta-lh-issue-text"]').first();
+        var default_text = 'To be discussed';
+
         var populated_items = [];
         var selected_trade_id, selected_item;
         /* Populate trade select field */
@@ -2291,6 +2297,7 @@ window.onload = function() {
 
         /* Populate Items when trade changes */
         $(trade_field).on('change', function (e) {
+            fillup_hidden_text_fields();
             selected_trade_id = $(trade_field).val();
             var filtered_items = items.filter(function (item) {
                 return item.tradeId == selected_trade_id;
@@ -2322,6 +2329,7 @@ window.onload = function() {
 
         /* Populate Issues when item changes */
         $(item_field).on('change, mouseleave', function (e) {
+            fillup_hidden_text_fields();
             selected_item = $(item_field).val();
             var issues = populated_items.filter(function (item) {
                 return item.tradeId == selected_trade_id && item.item == selected_item;
@@ -2340,5 +2348,29 @@ window.onload = function() {
                 }
             })
         });
+
+        /* Set the text value when issue changed */
+        $(issue_field).on('change, mouseleave', function(e) {
+            fillup_hidden_text_fields();
+        });
+
+        function fillup_hidden_text_fields() {
+            $(trade_text_field).val(default_text);
+            $(item_text_field).val(default_text);
+            $(issue_text_field).val(default_text);
+
+            if($(trade_field).val() != undefined && $(trade_field).val().length > 0) {
+                $(trade_text_field).val($('option[value="' + $(trade_field).val() + '"]', trade_field).text());
+            }
+            if($(item_field).val() != undefined && $(item_field).val().length > 0) {
+                $(item_text_field).val($('option[value="' + $(item_field).val() + '"]', item_field).text());
+            }
+            if($(issue_field).val() != undefined && $(issue_field).val().length > 0) {
+                $(issue_text_field).val($('option[value="' + $(issue_field).val() + '"]', issue_field).text());
+            }
+
+        }
+
+        fillup_hidden_text_fields();
     });
 };
