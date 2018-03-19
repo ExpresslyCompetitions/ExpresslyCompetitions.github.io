@@ -31,7 +31,7 @@ section1-content: "The 25th Anniversary Committee of the Charlton Athletic Commu
   \ perform live!"
 section2-content: "The country’s leading supplier of specialist cooling services and\
   \ operate temporary solutions to clients across a full scale of industries, Andrews\
-  \ Air conditioning <a href=\"https://www.andrewssykes.com\">https://www.andrews-sykes.com</a>https://www.andrews-sykes.com\
+  \ Air conditioning <a href=\"https://www.andrewssykes.com\">https://www.andrews-sykes.com</a>\
   \ is the sponsor of this amazing event and thanks to them and NME, you could win\
   \ a pair of VIP tickets to attend the event!"
 section3-content: "<p>The X Factor winner, Louisa Johnson will headline The 25th Anniversary\
