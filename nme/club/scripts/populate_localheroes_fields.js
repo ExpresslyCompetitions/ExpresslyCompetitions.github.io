@@ -2321,7 +2321,7 @@ window.onload = function() {
         });
 
         /* Populate Issues when item changes */
-        $(item_field).on('change', function (e) {
+        $(item_field).on('change, mouseleave', function (e) {
             selected_item = $(item_field).val();
             var issues = populated_items.filter(function (item) {
                 return item.tradeId == selected_trade_id && item.item == selected_item;
