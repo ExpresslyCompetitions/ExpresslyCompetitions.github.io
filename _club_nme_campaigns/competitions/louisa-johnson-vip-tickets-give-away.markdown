@@ -49,5 +49,6 @@ entry-content: "<p>Enter the draw to win a pair of VIP tickets to see Louisa Joh
 has-winner: false
 prize-description: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert"
-prize-restrictions: "No-one below the age of 16 may enter the competition"
+prize-restrictions: "No-one below the age of 16 may enter the competition. Clarification:\
+  \ winners are responsible for any transport costs to/from the event."
 ---
