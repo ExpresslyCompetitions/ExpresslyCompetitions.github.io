@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-8422b0b3-f25b-4455-b981-a452db794f21"
-type: "Preview"
+type: "Competition"
 category: "Competition"
 date: "2018-03-20T09:00:00.000Z"
 end-date: "2018-04-10T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert!"
