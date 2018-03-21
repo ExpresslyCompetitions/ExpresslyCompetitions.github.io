@@ -38,8 +38,8 @@ section3-content: "<p>Bastille's Woody joins the long list of special guests tak
   \ fan, or just fancy a night out on the tiles, get yourself and a mate to complete\
   \ the form below, but hurry – the competition closes on Thursday 8th February at\
   \ 23:59. Over 18s only. Winners will be contacted via email on Friday 9th February\
-  \ to confirm attendance. </p>\r\n\r\n<p>All picture credits to Victoria Greensmith\
-  \ Photography</p>"
+  \ to confirm attendance. </p>\r\n\r\n<p><i>(All picture credits to Victoria Greensmith\
+  \ Photography)</i></p>"
 entry-title: "Win 2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
 entry-content: "<p>Listen up Bastille fans.. Win one of 14 pairs of tickets to Woody's\
