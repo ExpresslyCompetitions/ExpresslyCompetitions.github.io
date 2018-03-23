@@ -12,7 +12,7 @@ terms-confirmation: >
     I agree to the competition T&amp;C and to create an account at Corriere.it
 
 logo-right-href: "https://www.westwing.it"
-logo-right-image: "westwing-logo.png"
+logo-right-image: "westwing-logo.png?cb=43"
 logo-right-title: "Westwing Logo"
 
 logo-left-href: "https://www.corriere.it"
