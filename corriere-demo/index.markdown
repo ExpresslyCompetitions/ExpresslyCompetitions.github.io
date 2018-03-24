@@ -19,6 +19,10 @@ logo-right-href: "https://www.corriere.it"
 logo-right-image: "corriere-logo.png"
 logo-right-title: "Corriere Logo"
 
+bg-image-hero: "header-img.png"
+bg-image-first: "first-img.png"
+bg-image-second: "second-img.jpg"
+
 section1-content: >
   <p>There are so many Bluetooth speakers nowadays, hard for any to stand out. Except for the new Creative Halo whose sleek design is definitely worth a look.</p>
   <p>The visual effects are the primary attraction but that is just the beginning. Unique Multi-Material Design, 16.8 Million colours, Xpectra Lightshow, 8 Hours Battery Life... as some of its numerous features. </p>

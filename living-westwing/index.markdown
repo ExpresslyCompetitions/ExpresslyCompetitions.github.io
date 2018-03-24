@@ -19,6 +19,10 @@ logo-left-href: "https://www.corriere.it"
 logo-left-image: "corriere-logo.png"
 logo-left-title: "Corriere Logo"
 
+bg-image-hero: "header-img.png"
+bg-image-first: "first-img.png"
+bg-image-second: "second-img.jpg"
+
 section1-content: >
   <p>Precedentemente conosciuto come Dalani, Westwing è il primo Shopping Club in Italia dedicato alla casa e all’arredamento. Gli amanti dei mobili e accessori per la casa potranno trovare soluzioni eleganti e di qualità, con prezzi scontati fino al 70% rispetto ai prezzi consigliati dai produttori.</p>
   
