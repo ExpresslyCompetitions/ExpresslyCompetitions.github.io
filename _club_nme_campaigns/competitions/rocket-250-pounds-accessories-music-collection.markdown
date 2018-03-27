@@ -47,7 +47,7 @@ section3-content: "<p>Get ready to rumble because the party starts right here: N
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on 21/03/2018.\r\n</p>"
-has-winner: true
+has-winner: false
 winner-title: "CONGRATULATIONS to Graham O'mara, Ruth Roberts and Bryan McHugh who\
   \ won £250 for shopping spree at Rocket Design!"
 winner-banner: "https://assets.expresslyapp.com/asset-d9cca2b2-760a-4477-b89b-f70050db50db.jpg"
