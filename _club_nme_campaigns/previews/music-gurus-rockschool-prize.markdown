@@ -22,9 +22,9 @@ logo-left-href: "https://www.musicgurus.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-78f189a4-1ce3-4c02-85c0-e96cd9039121.jpg"
 logo-left-title: "MusicGurus"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e2379a2b-2fe8-465d-aa34-742d28aac117.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-ea563d032515.png"
-bg-image-second: "https://assets.expresslyapp.com/asset-942f906f-a9dd-4503-bd51-003c3827b52e.png"
-bg-image-third: "https://assets.expresslyapp.com/asset-2ddb6bb4-2055-422b-8f2a-5388b89a2c5e.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-40a1bbd9-5003-4989-a146-9c3e6ec8c909.png"
+bg-image-second: "https://assets.expresslyapp.com/asset-21ce8266-be4b-468b-af07-e1d571e73120.png"
+bg-image-third: "https://assets.expresslyapp.com/asset-28399afc-2090-46cc-ba49-026e196f5ee3.png"
 section1-content: "<p> <a href=\"https://www.musicgurus.com/\">MusicGurus.com</a>\
   \ is the #1 place to learn music online! \r\nBeginners just starting out and experienced\
   \ musicians choose from 1000s of video lessons across a range of instrument and\
