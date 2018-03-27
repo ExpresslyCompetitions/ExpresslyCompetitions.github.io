@@ -49,7 +49,6 @@ entry-content: "<p>Enter the draw to win a Rockschool Drums online video course 
   \ 11/04/2018.</p>"
 has-winner: false
 prize-description: "A Rockschool video course of their choice and 3 personal online\
-  \ lessons from an expert teacher worth £100 each!"
-special-conditions: "The £100 depends on the selection of the course that the winner\
-  \ chooses."
+  \ lessons from an expert teacher, indicatively worth £100 (depending on the actual\
+  \ winner's choice)"
 ---
