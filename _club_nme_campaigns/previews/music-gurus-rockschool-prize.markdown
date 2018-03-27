@@ -2,7 +2,7 @@
 campaign-uuid: "c-9726f536-7a64-467f-bec4-94ded1dc42a4"
 type: "Preview"
 category: "Competition"
-date: "2018-03-28T09:00:12.000Z"
+date: "2018-03-28T09:00:00.000Z"
 end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -19,7 +19,7 @@ hero-header: "Win a Rockschool Drums online video course and personal lessons on
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-41c0aab7-43b7-49cf-8b33-2e2cdcca1cb0.png"
 logo-left-href: "https://www.musicgurus.com/"
-logo-left-image: "https://assets.expresslyapp.com/33aa114e-e727-47d8-949d-926d288e722d-thumb.png"
+logo-left-image: "https://assets.expresslyapp.com/asset-eacb00e4-ab5b-4401-afad-971390bc92ee.jpg"
 logo-left-title: "MusicGurus"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e2379a2b-2fe8-465d-aa34-742d28aac117.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-ea563d032515.png"
@@ -35,7 +35,8 @@ section1-content: "<p> <a href=\"https://www.musicgurus.com/\">MusicGurus.com</a
 section2-content: "MusicGurus has just released new courses for the ENTIRE drum syllabus\
   \ for the global leaders in contemporary music education and exams, Rockschool!\
   \ This means students can now join a community of hundreds of thousands of Rockschool\
-  \ students and experience the full learning journey for drums!"
+  \ students and experience the full learning journey for drums!\r\n\r\n<img src=\"\
+  https://aaa.nme.com/img/rockschool-logo.png\">"
 section3-content: "<p>Get ready, because NME AAA is partnering with them to give 3\
   \ lucky winners the chance of winning a Rockschool video course of their choice\
   \ and 3 personal online lessons from an expert teacher worth £100 each!<p/>\r\n\r\
