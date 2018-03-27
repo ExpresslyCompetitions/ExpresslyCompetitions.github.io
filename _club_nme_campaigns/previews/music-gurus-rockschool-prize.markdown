@@ -36,7 +36,7 @@ section2-content: "MusicGurus has just released new courses for the ENTIRE drum 
   \ for the global leaders in contemporary music education and exams, Rockschool!\
   \ This means students can now join a community of hundreds of thousands of Rockschool\
   \ students and experience the full learning journey for drums!\r\n\r\n<img src=\"\
-  https://aaa.nme.com/img/rockschool-logo.png?cb=687\">"
+  https://aaa.nme.com/img/rockschool-logo.png?cb=683\">"
 section3-content: "<p>Get ready, because NME AAA is partnering with them to give 3\
   \ lucky winners the chance of winning a Rockschool video course of their choice\
   \ and 3 personal online lessons from an expert teacher worth £100 each!<p/>\r\n\r\
