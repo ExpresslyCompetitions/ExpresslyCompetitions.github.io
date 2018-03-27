@@ -2,18 +2,18 @@
 campaign-uuid: "c-9726f536-7a64-467f-bec4-94ded1dc42a4"
 type: "Preview"
 category: "Competition"
-date: "2018-03-28T09:38:12.000Z"
+date: "2018-03-28T09:00:12.000Z"
 end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
 competition-description: "<p>Calling all the musicians out there! We have a surprise\
-  \ for you! Thanks to NME AAA and MusicGurus three budding drum heroes could win\
-  \ a Rockschool video course of their choice (or any other MusicGurus course) including\
-  \ a 1-2-1 personal online lesson from a friendly and expert teacher to set them\
-  \ off in the right direction!</p> \r\n<p>Liking what you hear? Click on the link\
-  \ below for a chance to win!</p>"
+  \ for you! Thanks to NME AAA and MusicGurus 3 budding drum heroes could win a Rockschool\
+  \ video course of their choice (or any other MusicGurus course) including a 1-2-1\
+  \ personal online lesson from a friendly and expert teacher to set them off in the\
+  \ right direction!</p> \r\n<p>Liking what you hear? Click on the link below for\
+  \ a chance to win!</p>"
 hero-header: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-41c0aab7-43b7-49cf-8b33-2e2cdcca1cb0.png"
