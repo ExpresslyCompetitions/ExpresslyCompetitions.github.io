@@ -26,7 +26,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-e
 bg-image-second: "https://assets.expresslyapp.com/asset-942f906f-a9dd-4503-bd51-003c3827b52e.png"
 bg-image-third: "https://assets.expresslyapp.com/asset-2ddb6bb4-2055-422b-8f2a-5388b89a2c5e.png"
 section1-content: "<p> <a href=\"https://www.musicgurus.com/\">MusicGurus.com</a>\
-  \ is the #1 place to learn music! \r\nBeginners just starting out and experience\
+  \ is the #1 place to learn music! \r\nBeginners just starting out and experienced\
   \ musicians choose from 1000s of video lessons across a range of instrument and\
   \ styles taught by top teachers and contemporary stars such as Katie Melua, Everything\
   \ Everything and Radiohead.</p>\r\n<p>Students learn anything from piano to electronic\
