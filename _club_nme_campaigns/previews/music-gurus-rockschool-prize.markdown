@@ -7,7 +7,7 @@ end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
+title: "Win a Rockschool Drums online video course and 3 personal lessons on MusicGurus\
   \ £100 each!"
 competition-description: "<p>Calling all the musicians out there! We have a surprise\
   \ for you! Thanks to NME AAA and MusicGurus 3 budding drum heroes could win a Rockschool\
