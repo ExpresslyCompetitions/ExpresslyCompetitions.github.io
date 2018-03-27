@@ -11,10 +11,9 @@ title: "Win a Rockschool Drums online video course and personal lessons on Music
   \ £100 each!"
 competition-description: "<p>Calling all the musicians out there! We have a surprise\
   \ for you! Thanks to NME AAA and MusicGurus 3 budding drum heroes could win a Rockschool\
-  \ video course of their choice (or any other MusicGurus course) including a 1-2-1\
-  \ personal online lesson from a friendly and expert teacher to set them off in the\
-  \ right direction!</p> \r\n<p>Liking what you hear? Click on the link below for\
-  \ a chance to win!</p>"
+  \ video course of their choice (or any other MusicGurus course) and 3 personal online\
+  \ lessons from a friendly and expert teacher to set them off in the right direction!</p>\
+  \ \r\n<p>Liking what you hear? Click on the link below for a chance to win!</p>"
 hero-header: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
   \ worth £100 each!"
 terms-confirmation: "N/A"
@@ -39,16 +38,17 @@ section2-content: "MusicGurus has just released new courses for the ENTIRE drum 
   \ students and experience the full learning journey for drums!"
 section3-content: "<p>Get ready, because NME AAA is partnering with them to give 3\
   \ lucky winners the chance of winning a Rockschool video course of their choice\
-  \ including a 1-2-1 personal online lesson from an expert teacher worth £100 each!<p/>\r\
-  \n\r\n<p>Sounds amazing, right? Don’t miss out on this amazing opportunity and enter\
+  \ and 3 personal online lessons from an expert teacher worth £100 each!<p/>\r\n\r\
+  \n<p>Sounds amazing, right? Don’t miss out on this amazing opportunity and enter\
   \ below for a chance to win!</p> \r\n\r\n<p>Good luck!</p>"
-entry-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
-  \ worth £100 each!"
+entry-title: "Win a Rockschool Drums online video course and 3 personal lessons on\
+  \ MusicGurus worth £100 each!"
 entry-content: "<p>Enter the draw to win a Rockschool Drums online video course and\
-  \ personal lessons on MusicGurus by completing the form below before 23:59 on 11/04/2018.</p>"
+  \ 3 personal lessons on MusicGurus by completing the form below before 23:59 on\
+  \ 11/04/2018.</p>"
 has-winner: false
-prize-description: "A Rockschool video course of their choice including a 1-2-1 personal\
-  \ online lesson from an expert teacher worth £100 each!"
+prize-description: "A Rockschool video course of their choice and 3 personal online\
+  \ lessons from an expert teacher worth £100 each!"
 special-conditions: "The £100 depends on the selection of the course that the winner\
   \ chooses."
 ---
