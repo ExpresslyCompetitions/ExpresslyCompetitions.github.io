@@ -24,12 +24,13 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-f785881a-5acb-46e0-8553-85
 bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-ea563d032515.png"
 bg-image-second: "https://assets.expresslyapp.com/asset-cee04fff-51df-49e1-8f9c-13cc99a2e39a.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-2ddb6bb4-2055-422b-8f2a-5388b89a2c5e.png"
-section1-content: "<p>MusicGurus.com is the #1 place to learn music online! \r\nBeginners\
-  \ just starting out and experience musicians choose from 1000s of video lessons\
-  \ across a range of instrument and styles taught by top teachers and contemporary\
-  \ stars such as Katie Melua, Everything Everything and Radiohead.</p>\r\n<p>Students\
-  \ learn anything from piano to electronic music production and more with HD video\
-  \ lessons and get 1-2-1 personalized tutoring from awesome teachers anytime, anywhere.</p>"
+section1-content: "<p> <a href=\"https://www.musicgurus.com/\">MusicGurus.com</a>\
+  \ is the #1 place to learn music online! \r\nBeginners just starting out and experience\
+  \ musicians choose from 1000s of video lessons across a range of instrument and\
+  \ styles taught by top teachers and contemporary stars such as Katie Melua, Everything\
+  \ Everything and Radiohead.</p>\r\n<p>Students learn anything from piano to electronic\
+  \ music production and more with HD video lessons and get 1-2-1 personalized tutoring\
+  \ from awesome teachers anytime, anywhere.</p>"
 section2-content: "MusicGurus has just released new courses for the ENTIRE drum syllabus\
   \ for the global leaders in contemporary music education and exams, Rockschool!\
   \ This means students can now join a community of hundreds of thousands of Rockschool\
