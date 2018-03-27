@@ -7,14 +7,16 @@ end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
+title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
+  \ £100 each!"
 competition-description: "<p>Calling all the musicians out there! We have a surprise\
   \ for you! Thanks to NME AAA and MusicGurus 3 budding drum heroes could win a Rockschool\
   \ video course of their choice (or any other MusicGurus course) including a 1-2-1\
   \ personal online lesson from a friendly and expert teacher to set them off in the\
   \ right direction!</p> \r\n<p>Liking what you hear? Click on the link below for\
   \ a chance to win!</p>"
-hero-header: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
+hero-header: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
+  \ worth £100 each!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-41c0aab7-43b7-49cf-8b33-2e2cdcca1cb0.png"
 logo-left-href: "https://www.musicgurus.com/"
@@ -25,7 +27,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-e
 bg-image-second: "https://assets.expresslyapp.com/asset-942f906f-a9dd-4503-bd51-003c3827b52e.png"
 bg-image-third: "https://assets.expresslyapp.com/asset-2ddb6bb4-2055-422b-8f2a-5388b89a2c5e.png"
 section1-content: "<p> <a href=\"https://www.musicgurus.com/\">MusicGurus.com</a>\
-  \ is the #1 place to learn music online! \r\nBeginners just starting out and experience\
+  \ is the #1 place to learn music! \r\nBeginners just starting out and experience\
   \ musicians choose from 1000s of video lessons across a range of instrument and\
   \ styles taught by top teachers and contemporary stars such as Katie Melua, Everything\
   \ Everything and Radiohead.</p>\r\n<p>Students learn anything from piano to electronic\
@@ -37,13 +39,16 @@ section2-content: "MusicGurus has just released new courses for the ENTIRE drum 
   \ students and experience the full learning journey for drums!"
 section3-content: "<p>Get ready, because NME AAA is partnering with them to give 3\
   \ lucky winners the chance of winning a Rockschool video course of their choice\
-  \ including a 1-2-1 personal online lesson from an expert teacher!<p/>\r\n\r\n<p>Sounds\
-  \ amazing, right? Don’t miss out on this amazing opportunity and enter below for\
-  \ a chance to win!</p> \r\n\r\n<p>Good luck!</p>"
-entry-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
+  \ including a 1-2-1 personal online lesson from an expert teacher worth £100 each!<p/>\r\
+  \n\r\n<p>Sounds amazing, right? Don’t miss out on this amazing opportunity and enter\
+  \ below for a chance to win!</p> \r\n\r\n<p>Good luck!</p>"
+entry-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus\
+  \ worth £100 each!"
 entry-content: "<p>Enter the draw to win a Rockschool Drums online video course and\
   \ personal lessons on MusicGurus by completing the form below before 23:59 on 11/04/2018.</p>"
 has-winner: false
 prize-description: "A Rockschool video course of their choice including a 1-2-1 personal\
-  \ online lesson from an expert teacher."
+  \ online lesson from an expert teacher worth £100 each!"
+special-conditions: "The £100 depends on the selection of the course that the winner\
+  \ chooses."
 ---
