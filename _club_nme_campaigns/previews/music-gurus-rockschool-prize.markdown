@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-41c0aab7-43b7-49cf-8b33-2e2cd
 logo-left-href: "https://www.musicgurus.com/"
 logo-left-image: "https://assets.expresslyapp.com/33aa114e-e727-47d8-949d-926d288e722d-thumb.png"
 logo-left-title: "MusicGurus"
-bg-image-hero: "https://assets.expresslyapp.com/asset-f785881a-5acb-46e0-8553-8595052010bd.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-42c6403b-3d33-4f20-b17e-bedc03d89694.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-99e803ad-862f-4b60-bebe-ea563d032515.png"
 bg-image-second: "https://assets.expresslyapp.com/asset-cee04fff-51df-49e1-8f9c-13cc99a2e39a.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-2ddb6bb4-2055-422b-8f2a-5388b89a2c5e.png"
