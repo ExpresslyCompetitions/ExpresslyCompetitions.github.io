@@ -42,7 +42,7 @@ section3-content: "<p>Get ready, because NME AAA is partnering with them to give
   \ a chance to win!</p> \r\n\r\n<p>Good luck!</p>"
 entry-title: "Win a Rockschool Drums online video course and personal lessons on MusicGurus!"
 entry-content: "<p>Enter the draw to win a Rockschool Drums online video course and\
-  \ personal lessons on MusicGurus by completing the form below before 23:59 on 04/11/2018.</p>"
+  \ personal lessons on MusicGurus by completing the form below before 23:59 on 11/04/2018.</p>"
 has-winner: false
 prize-description: "A Rockschool video course of their choice including a 1-2-1 personal\
   \ online lesson from an expert teacher."
