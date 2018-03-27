@@ -20,6 +20,10 @@ logo-right-href: "https://www.nme.co.uk/"
 logo-right-image: "nme-logo.png"
 logo-right-title: "NME Logo"
 
+bg-image-hero: "header-img.jpg"
+bg-image-first: "first-img.jpg"
+bg-image-second: "second-img.jpg"
+
 section1-content: >
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>

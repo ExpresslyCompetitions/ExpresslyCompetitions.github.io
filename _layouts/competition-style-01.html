@@ -9,170 +9,132 @@
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/style.css?cb=1"/>
 </head>
 
-<body>
+<body class="competition">
 
-<header>
-    <h2 class="logo-left">
-        <a href="{{page.logo-left-href}}">
-            <img src="img/{{page.logo-left-image}}" alt="{{page.logo-left-title}}">
-        </a>
-    </h2>
-    {% if page.is-demo != true %}
-    <h2 class="logo-right">
-        <a href="{{page.logo-right-href}}">
-            <img src="img/{{page.logo-right-image}}" alt="{{page.logo-right-title}}">
-        </a>
-    </h2>
+<section class="hero" style="background-image: url(img/{{page.bg-image-hero}})">
+
+    <div class="container">
+        <div class="hero-block-wrapper">
+            <div class="hero-block-inner">
+                <div class="hero-block hero-block-header text-center px-3 my-3">
+                    <h1>{{page.hero-header}}</h1>
+                    {% include image_url_builder.html image=page.logo-left-image %}
+                    <div class="advertiser-logo">
+                        <img  class="mx-4 my-1" src="img/{{ page.logo-left-image }}" />
+                        {% if page.is-demo != true %}
+                            <img class="mx-4 my-1" src="img/{{ page.logo-right-image }}" />
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="hero-block hero-block-sub text-center mb-3 px-3">
+                    {% if page.hero-subheader and page.hero-subheader != '' %}
+                    <h3 class="pb-2">{{page.hero-subheader}}</h3>
+                    {% endif %}
+                    <a href="#contact-anchor" class="btn btn-lg btn-primary px-5 d-none d-sm-inline">Enter now</a>
+                    <a href="#contact-anchor" class="btn btn-sm btn-primary px-3 d-sm-none">Enter now</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="down-arrow-spacer"></div>
+        <div class="down-arrow mb-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+                <g class="nc-icon-wrapper" fill="#ffffff">
+                    <path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 24l-8-8h16l-8 8z"></path>
+                </g>
+            </svg>
+        </div>
+    </div>
+</section>
+
+
+<div class="container-fluid">
+    <section class="our-work row row-he align-items-center">
+        <div class="col-md-6 content p-4 text-justify">{{page.section1-content}}</div>
+        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url(img/{{page.bg-image-first}})"></div>
+    </section>
+
+    {% if page.section2-content and page.bg-image-second %}
+    <section class="quality row row-he align-items-center">
+        <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
+        <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url(img/{{page.bg-image-second}})"></div>
+    </section>
     {% endif %}
-</header>
 
-<section class="hero">
-    <div class="hero-block hero-block-header">
-        <h1>{{page.hero-header}}</h1>
-    </div>
-    <div class="hero-block hero-block-sub">
-        <h3>{{page.hero-subheader}}</h3>
-        <a href="#contact-anchor" class="btn hero-btn">Enter now</a>
-    </div>
-    <div class="down-arrow">
-        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-            <g class="nc-icon-wrapper" fill="#ffffff">
-                <path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 24l-8-8h16l-8 8z"></path>
-            </g>
-        </svg>
-    </div>
-</section>
+    {% if page.section3-content and page.bg-image-third %}
+    <section class="our-work row row-he align-items-center">
+        <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
+        <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url(img/{{page.bg-image-third}})"></div>
+    </section>
+    {% endif %}
+</div>
 
+<hr class="my-5" />
 
-<section class="our-work">
-    <div class="our-work-left">{{page.section1-content}}</div>
-    <div class="our-work-right">
-        <ul class="grid">
-            <li class="large" id="first-img">
-            </li>
-        </ul>
-    </div>
-</section>
+<div id="contact-anchor" class="anchor"></div>
 
-<section class="quality">
-    <div class="quality-left">
-        <ul class="grid">
-            <li class="large" id="second-img">
-            </li>
-        </ul>
-    </div>
-    <div class="quality-right">{{page.section2-content}}</div>
-</section>
+<div class="container">
+<section class="contact row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+        <h2 class="title text-center">{{page.entry-title}}</h2>
+        <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
 
-<section class="contact" id="contact-anchor">
-    <hr>
-    <h3 class="title">{{page.entry-title}}</h3>
-    <div>{{page.entry-content}}</div>
+        {% if page.disable-form != true %}
+            <form id="form--competition" method="post" novalidate>
+                <input type="hidden" id="merchant" name="merchantUuid" value="{{page.merchant-uuid}}"/>
+                <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
 
-    {% if page.disable-form != true %}
-    <form id="nife-contact-form" method="post">
-        <input type="hidden" id="merchant" name="merchant" value="{{page.merchant-uuid}}"/>
-        <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
-
-        <h5 id="global-error" class="flex-outer error-hidden"></h5>
-        <ul class="flex-outer">
-            <li>
-                <label for="first-name">First Name</label>
-                <input id="first-name" name="firstName" class="required"
-                       placeholder="Enter your first name here" value=""/>
-            </li>
-            <li>
-                <label for="last-name">Last Name</label>
-                <input id="last-name" name="lastName" class="required"
-                       placeholder="Enter your last name here" value=""/>
-            </li>
-            <li>
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" class="required" placeholder="Enter your email here"
-                       value=""/>
-            </li>
-            <li>
-                <label for="phone">Phone</label>
-                <input type="tel" id="phone" name="phone" class="required" placeholder="Enter your phone here" value=""
-                       maxlength="11" oninput="this.value=this.value.replace(/[^0-9]/g,'');"/>
-            </li>
-            <li>
-                <label for="gender">Gender:</label>
-                <select name="gender" id="gender" class="required">
-                    <option value="">Select...</option>
-                    <option value="F">Female</option>
-                    <option value="M">Male</option>
-                    <option value="O">Other/Won't declare</option>
-                </select>
-            </li>
-            <li>
-                <label for="autocomplete">Address Lookup</label>
-                <input id="autocomplete" class="required" name="address1"
-                       placeholder="Start writing your address" value=""/>
-            </li>
-            <li id="show-fields">
-                <p>Enter Address Manually</p>
-            </li>
-            <li class="hidden-field">
-                <label for="street_number">Street No.</label>
-                <input id="street_number" name="street_no" class="required" value=""/>
-            </li>
-            <li class="hidden-field">
-                <label for="route">Street Name</label>
-                <input id="route" name="street_name" class="required" value=""/>
-            </li>
-            <li class="hidden-field">
-                <label for="postal_town">Town/City</label>
-                <input id="postal_town" name="city" class="required" value=""/>
-            </li>
-            <li class="hidden-field" style="display: none!important;">
-                <label for="country">Country</label>
-                <input id="country" name="country" class="required" value="UK" disabled/>
-            </li>
-            <li class="hidden-field">
-                <label for="postal_code">Postcode</label>
-                <input id="postal_code" name="zip" class="required" placeholder="e.g AB1 2AB" value=""/>
-            </li>
-            <li class="required checkbox-field" id="age-confirmation-label">
-                <input type="checkbox" name="ageConfirm" id="age-confirmation">
-                <label for="age-confirmation">I confirm I am 18 years of age or older</label>
-            </li>
-            <li class="required checkbox-field" id="term-confirmation-label">
-                <input type="checkbox" name="terms" id="term-confirmation">
-                <label for="term-confirmation">{{page.terms-confirmation}}</label>
-            </li>
-            <li>
-                <button class="btn hero-btn" id="xly-submitButton">
+                <h5 id="global-error" class="flex-outer error-hidden"></h5>
+                {% assign form_input_id_prefix = 'form--competition--' %}
+                {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
+                {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
+                {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
+                {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
+                {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
+                {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9}" error="Please enter a valid UK telephone number" %}
+                {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
+                {% include form_input_checkbox.html id="term-confirmation" label=page.terms-confirmation required="true" %}
+                {% assign form_input_id_prefix = '' %}
+            </form>
+            <div class="text-center pt-3">
+                <button class="btn btn-primary disable-if-busy" id="action--enter">
                     <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
                     <span class="show-when-busy">Submitting Entry <img
                             src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
                 </button>
-            </li>
-        </ul>
-    </form>
-    {% endif %}
-
-
-    {% if page.disable-form == true %}
-    <h3>Competition is now over</h3>
-    {% endif %}
-    <br>
-    <br>
-    <!-- AT commenting out
-	<p>{% if page.is-demo == true %}This is a demo - {% endif %}
-        Powered by Expressly Competitions
-    </p>
-	-->
+            </div>
+        {% endif %}
+        {% if page.disable-form == true %}
+            <h2>Competition is now over</h2>
+        {% endif %}
+    </div>
+    <div class="col-sm-3"></div>
 </section>
+</div>
+
 {% if page.disable-form != true %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"
+        integrity="sha256-zG8v+NWiZxmjNi+CvUYnZwKtHzFtdO8cAKUIdB8+U9I="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://assets01.buyexpressly.com/microsite/microsite.min.js?cb=7"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=microsite.initAutocomplete"
         async defer></script>
-<script type="text/javascript" src="https://assets01.buyexpressly.com/microsite/microsite.min.js?cb=2"></script>
 <!--[if IE 9]>
 <script>
     microsite.matchProtocol(true);

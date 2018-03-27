@@ -1,18 +1,5 @@
 ---
 ---
 
-$image-hero: url('../img/header-img.jpg');
-$image-first: url('../img/first-img.jpg');
-$image-second: url('../img/second-img.jpg');
 $brand-colour: #00796B;
-
 @import "common";
-
-.hero h1:after {
-  display: block;
-  content: url(../img/bloom-logo.png);
-}
-
-.logo-left img {
-  background-color: white;
-}

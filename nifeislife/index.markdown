@@ -21,6 +21,10 @@ logo-right-href: "https://www.lbc.co.uk/"
 logo-right-image: "lbc-logo.png"
 logo-right-title: "LBC Logo"
 
+bg-image-hero: "header-img.png"
+bg-image-first: "first-img.png"
+bg-image-second: "second-img.jpg"
+
 section1-content: >
   <p>Online deli Nife is Life offers 1,500 of Italy’s finest products – bringing your favourite Italian food to your door, with UK-wide same-day or next-day delivery.</p>
   <p>Want to try some of Italy’s best foods? We’ve teamed up with Nife is Life to offer two lucky people the chance to win a £500 voucher to spend online – the ideal opportunity to enjoy some seriously good eating!</p>
