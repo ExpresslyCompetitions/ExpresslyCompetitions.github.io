@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-02-14T15:00:00.000Z"
 end-date: "2018-02-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack of the\
   \ movie"
