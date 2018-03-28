@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-02-27T09:00:00.000Z"
 end-date: "2018-03-05T14:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to a Big Screen show of Supersonic, the Oasis documentary movie"
 competition-description: "<p>Oasis fans! The ultimate Oasis documentary, Supersonic,\
