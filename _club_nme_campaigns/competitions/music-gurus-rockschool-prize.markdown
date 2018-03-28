@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-9726f536-7a64-467f-bec4-94ded1dc42a4"
-type: "Preview"
+type: "Competition"
 category: "Competition"
 date: "2018-03-28T09:00:00.000Z"
 end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a Rockschool Drums online video course including 3 personal lessons on\
   \ MusicGurus. Worth £100 each!"
