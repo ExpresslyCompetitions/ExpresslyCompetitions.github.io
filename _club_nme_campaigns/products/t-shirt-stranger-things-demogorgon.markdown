@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-02-15T10:41:46.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Get the official t-shirt of Netflix new series Stranger Things!"
 competition-description: "Don’t miss the chance to get the official t-shirt of the\
