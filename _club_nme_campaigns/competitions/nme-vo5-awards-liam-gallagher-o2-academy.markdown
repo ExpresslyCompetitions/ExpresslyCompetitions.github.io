@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-01-25T00:00:00.000Z"
 end-date: "2018-02-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
 competition-description: "Want to join the marvelous VO5\_NME Awards Ceremony on <strong>February\
