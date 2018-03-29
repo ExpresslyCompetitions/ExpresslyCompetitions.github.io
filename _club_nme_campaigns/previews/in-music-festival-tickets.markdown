@@ -34,10 +34,10 @@ section2-content: "<p>The line-up is packed to hilt with bands not to be missed 
   \ Californian desert grooves with over 20 million album sales worldwide! Alice In\
   \ Chains or the acclaimed Indie band Interpol’s Croatian debut and many, many more!</p>"
 section3-content: "<p>INmusic offers something for everyone. An array of the best\
-  \ indie rock bands on the planet, sunshine, a picturesque location and activities\
+  \ Indie rock bands on the planet, sunshine, a picturesque location and activities\
   \ like swimming, yoga and sports. Hardcore campers lay back and relax with the lakeside\
-  \ camping on two of the islands that are equipped with Wi-Fi, showers and beaches\
-  \ camping has never looked so good!</p>\r\n<p>If you are over 16, complete the form\
+  \ camping on two of the islands that are equipped with Wi-Fi, showers and beaches!\
+  \ Camping has never looked so good!</p>\r\n<p>If you are over 16, complete the form\
   \ below to be in with a chance to rock out with INmusic in Croatia!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win a 3-day ticket for INmusic Festival!"
@@ -45,7 +45,7 @@ entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic festival by 
   \ the form below before 23:59 on 20 April 2018.</p>"
 has-winner: false
 prize-description: "A 3-day festival and 7-day camping ticket to INmusic festival,\
-  \ lake Jarun, Zagreb on 25th-27th June 2018"
+  \ Lake Jarun, Zagreb on 25th-27th June 2018"
 special-conditions: "<a href=\"https://aaa.nme.com/etc/INMusic_TsCs.pdf\"> INmusic\
   \ Festival Terms & Conditions </a>"
 ---
