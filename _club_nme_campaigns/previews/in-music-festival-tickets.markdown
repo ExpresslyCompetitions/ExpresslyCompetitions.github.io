@@ -34,10 +34,10 @@ section2-content: "What better way to kick of the summer off in style than with 
   \ you’ll be spoilt to find a more idyllic location to enjoy your favourite bands!"
 section3-content: "<p>The line-up is packed to hilt with bands not to be missed live,\
   \ from pioneering new artists to rock legends. Kicking off the headliners are the\
-  \ …Villians Josh Homme and the gang, Queens of Stone Age, bringing back their Californian\
+  \ Villians Josh Homme and the gang, Queens of Stone Age, bringing back their Californian\
   \ desert grooves; with over 20 million album sales worldwide you can’t afford to\
   \ miss Alice In Chains or the acclaimed Indie band Interpol’s Croatian debut and\
-  \ many, many more.</p>\r\n<p>INmusic offers something for everyone. An array of\
+  \ many, many more!</p>\r\n<p>INmusic offers something for everyone. An array of\
   \ the best indie rock bands on the planet, sunshine, a picturesque location and\
   \ activities like swimming, yoga and sports. Hardcore campers lay back and relax\
   \ with the lakeside camping on two of the islands that are equipped with Wi-Fi,\
@@ -50,5 +50,6 @@ entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic festival by 
 has-winner: false
 prize-description: "2 winners win a 3-day festival and 7-day camping ticket to INmusic\
   \ festival, lake Jarun, Zagreb on 25th-27th June 2018"
-special-conditions: "https://aaa.nme.com/etc/INMusic_TsCs.pdf"
+special-conditions: "<a href=\"https://aaa.nme.com/etc/INMusic_TsCs.pdf/\"> INmusic\
+  \ Festival Terms & Conditions </a>"
 ---
