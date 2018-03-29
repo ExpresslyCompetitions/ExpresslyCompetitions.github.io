@@ -7,7 +7,7 @@ end-date: "2018-04-20T00:00:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a 3-day ticket for INmusic festival"
+title: "Win a 3-day ticket for INmusic festival!"
 competition-description: "Fans of Nick Cave and the Bad Seeds, Queens of the Stone\
   \ Age, The Kills and St.Vincent get ready because your summer starts here! We’ve\
   \ been lucky enough to get our hands on tickets to the coveted INmusic Festival\
@@ -22,8 +22,8 @@ logo-left-image: "https://assets.expresslyapp.com/asset-72adbf1a-6bed-4427-84c6-
 logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-480d9801-1541-49ce-a2b9-bbf0504a3ece.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-cee651bd-125c-40a9-9679-ad298bf18257.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-b5d78e63-72e1-4597-8dba-dfb9270c3c9c.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-b21eeac7-eac0-43f9-8d92-85dea989a566.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-5ab957f4-1c97-467d-835d-0167e2ff57d2.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-989e0c67-c5d3-429b-8873-6480d44275f0.jpg"
 section1-content: "Fans of Nick Cave and the Bad Seeds, Queens of the Stone Age, The\
   \ Kills and St.Vincent get ready because your summer starts here! We’ve been lucky\
   \ enough to get our hands on tickets to the coveted INmusic Festival and they’re\
