@@ -27,7 +27,7 @@ bg-image-third: "https://assets.expresslyapp.com/asset-989e0c67-c5d3-429b-8873-6
 section1-content: "Fans of Nick Cave and the Bad Seeds, Queens of the Stone Age, The\
   \ Kills and St.Vincent get ready because your summer starts here! We’ve been lucky\
   \ enough to get our hands on tickets to the coveted INmusic Festival and they’re\
-  \ up for grabs for one very lucky NME reader.  Click here for a chance to win!"
+  \ up for grabs for one very lucky NME reader!"
 section2-content: "What better way to kick of the summer off in style than with amazing\
   \ festival and camping tickets to the 13th INmusic festival in the beautiful Zageb,\
   \ Croatia? Spanning three beautiful islands in the middle of Lake Jarun, Zagreb,\
@@ -37,7 +37,7 @@ section3-content: "<p>The line-up is packed to hilt with bands not to be missed 
   \ …Villians Josh Homme and the gang, Queens of Stone Age, bringing back their Californian\
   \ desert grooves; with over 20 million album sales worldwide you can’t afford to\
   \ miss Alice In Chains or the acclaimed Indie band Interpol’s Croatian debut and\
-  \ many, many more.</p>\r\n<p>INmusic offers something for everyone.  An array of\
+  \ many, many more.</p>\r\n<p>INmusic offers something for everyone. An array of\
   \ the best indie rock bands on the planet, sunshine, a picturesque location and\
   \ activities like swimming, yoga and sports. Hardcore campers lay back and relax\
   \ with the lakeside camping on two of the islands that are equipped with Wi-Fi,\
