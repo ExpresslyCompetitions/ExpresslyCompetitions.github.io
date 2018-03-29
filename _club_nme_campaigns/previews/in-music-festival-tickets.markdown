@@ -18,7 +18,7 @@ hero-subheader: "Win a 3-day festival and 7-day camping ticket for INmusic Festi
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-266a833d-60c6-40fc-ade8-c8341d857d90.jpg"
 logo-left-href: "http://www.nme.com/"
-logo-left-image: "https://assets.expresslyapp.com/asset-72adbf1a-6bed-4427-84c6-e2efb2c697e2.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-1abf3812-8775-4933-b996-9d01aa1427e1.jpg"
 logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-480d9801-1541-49ce-a2b9-bbf0504a3ece.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-cee651bd-125c-40a9-9679-ad298bf18257.jpg"
@@ -41,11 +41,12 @@ section3-content: "<p>INmusic offers something for everyone. An array of the bes
   \ below to be in with a chance to rock out with INmusic in Croatia!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win a 3-day ticket for INmusic Festival!"
-entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic Festival by completing\
+entry-content: "<p>Enter the draw to win a 3-day ticket for INmusic Festival by completing\
   \ the form below before 23:59 on 20 April 2018.</p>"
 has-winner: false
 prize-description: "A 3-day festival and 7-day camping ticket to INmusic festival,\
   \ Lake Jarun, Zagreb on 25th-27th June 2018"
-special-conditions: "<a href=\"https://aaa.nme.com/etc/INMusic_TsCs.pdf\"> INmusic\
-  \ Festival Terms & Conditions </a>"
+special-conditions: "This competition is run in conjunction with Time Inc UK and these\
+  \ special Terms and Conditions apply:\r\n<a href=\"https://aaa.nme.com/etc/INMusic_TsCs.pdf\"\
+  > INmusic Festival Terms & Conditions </a>"
 ---
