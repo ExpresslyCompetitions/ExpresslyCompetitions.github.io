@@ -8,14 +8,14 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win a Rockschool Drums online video course including 3 personal lessons on\
-  \ MusicGurus. Worth £100 each!"
+  \ MusicGurus. Worth £100!"
 competition-description: "<p>Calling all the musicians out there! We have a surprise\
   \ for you! Thanks to NME AAA and MusicGurus 3 budding drum heroes could win a Rockschool\
   \ video course of their choice (or any other MusicGurus course) and 3 personal online\
   \ lessons from a friendly and expert teacher to set them off in the right direction!</p>\
   \ \r\n<p>Liking what you hear? Click on the link below for a chance to win!</p>"
 hero-header: "Win a Rockschool Drums online video course including 3 personal lessons\
-  \ on MusicGurus. Worth £100 each!"
+  \ on MusicGurus. Worth £100!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-41c0aab7-43b7-49cf-8b33-2e2cdcca1cb0.png"
 logo-left-href: "https://www.musicgurus.com/"
@@ -44,7 +44,7 @@ section3-content: "<p>Get ready, because NME AAA is partnering with them to give
   \n<p>Sounds amazing, right? Don’t miss out on this amazing opportunity and enter\
   \ below for a chance to win!</p> \r\n\r\n<p>Good luck!</p>"
 entry-title: "Win a Rockschool Drums online video course including 3 personal lessons\
-  \ on MusicGurus. Worth £100 each!"
+  \ on MusicGurus. Worth £100!"
 entry-content: "<p>Enter the draw to win a Rockschool Drums online video course including\
   \ 3 personal lessons on MusicGurus by completing the form below before 23:59 on\
   \ 11 April 2018.</p>"
