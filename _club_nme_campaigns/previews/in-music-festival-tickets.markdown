@@ -37,7 +37,7 @@ section3-content: "<p>INmusic offers something for everyone. An array of the bes
   \ Indie rock bands on the planet, sunshine, a picturesque location and activities\
   \ like swimming, yoga and sports. Hardcore campers lay back and relax with the lakeside\
   \ camping on two of the islands that are equipped with Wi-Fi, showers and beaches!\
-  \ Camping has never looked so good!</p>\r\n<p>If you are over 16, complete the form\
+  \ Camping has never looked so good!</p>\r\n<p>If you are over 18, complete the form\
   \ below to be in with a chance to rock out with INmusic in Croatia!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win a 3-day ticket for INmusic Festival!"
