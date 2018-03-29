@@ -25,7 +25,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-cee651bd-125c-40a9-9679-a
 bg-image-second: "https://assets.expresslyapp.com/asset-5ab957f4-1c97-467d-835d-0167e2ff57d2.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-989e0c67-c5d3-429b-8873-6480d44275f0.jpg"
 section1-content: "What better way to kick off the summer in style than with an amazing\
-  \ festival and camping tickets to the13th INmusic Festival in the beautiful Zagreb,\
+  \ festival and camping tickets to the 13th INmusic Festival in the beautiful Zagreb,\
   \ Croatia? Spanning three beautiful islands in the middle of Lake Jarun, Zagreb,\
   \ you’ll be spoilt to find a more idyllic location to enjoy your favourite bands!"
 section2-content: "<p>The line-up is packed to hilt with bands not to be missed live,\
