@@ -12,7 +12,7 @@ competition-description: "Fans of Nick Cave and the Bad Seeds, Queens of the Sto
   \ Age, The Kills and St.Vincent get ready because your summer starts here! We’ve\
   \ been lucky enough to get our hands on tickets to the coveted INmusic Festival\
   \ and they’re up for grabs for one very lucky NME reader!"
-hero-header: "Win a 3-day ticket for INmusic festival"
+hero-header: "Win a 3-day ticket for INmusic festival!"
 hero-subheader: "Win a 3-day festival and 7-day camping ticket for INmusic Festival\
   \ in Zagreb, Croatia taking place from June 25th – 27th 2018!"
 terms-confirmation: "N/A"
