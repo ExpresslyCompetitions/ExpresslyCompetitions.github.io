@@ -41,7 +41,7 @@ section3-content: "<p>INmusic offers something for everyone. An array of the bes
   \ below to be in with a chance to rock out with INmusic in Croatia!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win a 3-day ticket for INmusic Festival!"
-entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic festival by completing\
+entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic Festival by completing\
   \ the form below before 23:59 on 20 April 2018.</p>"
 has-winner: false
 prize-description: "A 3-day festival and 7-day camping ticket to INmusic festival,\
