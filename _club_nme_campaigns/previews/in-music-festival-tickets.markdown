@@ -31,9 +31,8 @@ section1-content: "What better way to kick off the summer in style than with an 
 section2-content: "<p>The line-up is packed to hilt with bands not to be missed live,\
   \ from pioneering new artists to rock legends. Kicking off the headliners are the\
   \ Villians Josh Homme and the gang, Queens of Stone Age, bringing back their Californian\
-  \ desert grooves; with over 20 million album sales worldwide you can’t afford to\
-  \ miss Alice In Chains or the acclaimed Indie band Interpol’s Croatian debut and\
-  \ many, many more!</p>"
+  \ desert grooves with over 20 million album sales worldwide! Alice In Chains or\
+  \ the acclaimed Indie band Interpol’s Croatian debut and many, many more!</p>"
 section3-content: "<p>INmusic offers something for everyone. An array of the best\
   \ indie rock bands on the planet, sunshine, a picturesque location and activities\
   \ like swimming, yoga and sports. Hardcore campers lay back and relax with the lakeside\
