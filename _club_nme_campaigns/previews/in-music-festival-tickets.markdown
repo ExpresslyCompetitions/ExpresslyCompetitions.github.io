@@ -24,26 +24,23 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-480d9801-1541-49ce-a2b9-bb
 bg-image-first: "https://assets.expresslyapp.com/asset-cee651bd-125c-40a9-9679-ad298bf18257.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-5ab957f4-1c97-467d-835d-0167e2ff57d2.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-989e0c67-c5d3-429b-8873-6480d44275f0.jpg"
-section1-content: "Fans of Nick Cave and the Bad Seeds, Queens of the Stone Age, The\
-  \ Kills and St.Vincent get ready because your summer starts here! We’ve been lucky\
-  \ enough to get our hands on tickets to the coveted INmusic Festival and they’re\
-  \ up for grabs for one very lucky NME reader!"
-section2-content: "What better way to kick of the summer off in style than with amazing\
+section1-content: "What better way to kick of the summer off in style than with amazing\
   \ festival and camping tickets to the 13th INmusic festival in the beautiful Zageb,\
   \ Croatia? Spanning three beautiful islands in the middle of Lake Jarun, Zagreb,\
   \ you’ll be spoilt to find a more idyllic location to enjoy your favourite bands!"
-section3-content: "<p>The line-up is packed to hilt with bands not to be missed live,\
+section2-content: "<p>The line-up is packed to hilt with bands not to be missed live,\
   \ from pioneering new artists to rock legends. Kicking off the headliners are the\
   \ Villians Josh Homme and the gang, Queens of Stone Age, bringing back their Californian\
   \ desert grooves; with over 20 million album sales worldwide you can’t afford to\
   \ miss Alice In Chains or the acclaimed Indie band Interpol’s Croatian debut and\
-  \ many, many more!</p>\r\n<p>INmusic offers something for everyone. An array of\
-  \ the best indie rock bands on the planet, sunshine, a picturesque location and\
-  \ activities like swimming, yoga and sports. Hardcore campers lay back and relax\
-  \ with the lakeside camping on two of the islands that are equipped with Wi-Fi,\
-  \ showers and beaches camping has never looked so good!</p>\r\n<p>If you are over\
-  \ 16, complete the form below to be in with a chance to rock out with INmusic in\
-  \ Croatia!</p>\r\n<p>Good luck!</p>"
+  \ many, many more!</p>"
+section3-content: "<p>INmusic offers something for everyone. An array of the best\
+  \ indie rock bands on the planet, sunshine, a picturesque location and activities\
+  \ like swimming, yoga and sports. Hardcore campers lay back and relax with the lakeside\
+  \ camping on two of the islands that are equipped with Wi-Fi, showers and beaches\
+  \ camping has never looked so good!</p>\r\n<p>If you are over 16, complete the form\
+  \ below to be in with a chance to rock out with INmusic in Croatia!</p>\r\n<p>Good\
+  \ luck!</p>"
 entry-title: "Win a 3-day ticket for INmusic festival!"
 entry-content: "<p>Enter the draw to Win a 3-day ticket for INmusic festival by completing\
   \ the form below before 23:59 on 20 April 2018.</p>"
