@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-a60a1189-342b-4ca8-ae3a-34305390932a"
-type: "Preview"
+type: "Competition"
 category: "Competition"
 date: "2018-04-02T00:00:00.000Z"
 end-date: "2018-04-20T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a 3-day ticket for INmusic Festival!"
 competition-description: "Fans of Nick Cave, The Bad Seeds, Queens of the Stone Age,\
