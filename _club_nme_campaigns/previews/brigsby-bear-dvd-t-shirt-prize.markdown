@@ -25,10 +25,10 @@ bg-image-third: "https://assets.expresslyapp.com/asset-ceafaa44-135f-4408-8e40-e
 section1-content: "<p>To celebrate the DVD release of the Brigsby Bear movie on April\
   \ 16th, we’ve got our hands on 3 DVD’s and 3 official T-Shirts of the movie to bring\
   \ them home with you!</p>\r\n<p>Starring the Emmy® and Golden Globe® winner Claire\
-  \ Danes (Homeland), Mark Hamill ( Star Wars), Academy Award® nominee and Emmy® Award-winning\
+  \ Danes (Homeland), Mark Hamill (Star Wars), Academy Award® nominee and Emmy® Award-winning\
   \ Greg Kinnear (Modern Family), Emmy® nominated Matt Walsh (Veep) and Michaela Watkins\
   \ (Casual), this comedy follows the life of James, the world’s biggest fan of Brigsby\
-  \ Bear.</p>"
+  \ Bear!</p>"
 section2-content: "<p>The DVD and digital release is packed with bonus materials including:\
   \ “Twin Speak: Kyle & Dave,” a featurette in which Kyle Mooney and Dave McCary reflect\
   \ on their creative partnership that spans from grade school to “Saturday Night\
