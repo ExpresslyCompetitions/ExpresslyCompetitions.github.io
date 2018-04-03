@@ -35,9 +35,9 @@ section2-content: "<p>The DVD and digital release is packed with bonus materials
   \ Live”; “An Evening with BRIGSBY BEAR,” featuring a Q&A featuring Kyle Mooney,\
   \ Dave McCary, Mark Hamill and “The Wisdom of BRIGSBY BEAR,” a collection of\_life\
   \ lessons from Brigsby himself; plus, a filmmaker commentary and hilarious gag reel!</p>\r\
-  \n<p>ALSO, On the exclusive digital release, fans can get more with deleted and\
+  \n<p>ALSO, on the exclusive digital release, fans can get more with deleted and\
   \ extended scenes as well as a coveted lost episode of the “BRIGSBY BEAR” series\
-  \ entitled “The Festival of Kindness”.</p>"
+  \ entitled “The Festival of Kindness”!</p>"
 section3-content: "<p>This truly original and remarkably touching comedy from Sony\
   \ Pictures Home Entertainment is the best plan for kicking off your weekend!</p>\
   \ \r\n<p>Think no more and click on the link for a chance to win the DVD and the\
