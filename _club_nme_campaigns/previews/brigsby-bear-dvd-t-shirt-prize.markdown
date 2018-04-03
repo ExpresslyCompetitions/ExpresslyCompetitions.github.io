@@ -47,5 +47,6 @@ entry-content: "<p>Brigsby bear DVD release is full of content for you to get st
   \ into.<p><p>Enter the draw to win by completing the form below before 23.59pm on\
   \ 30/04/2018.</p>"
 has-winner: false
-prize-description: "The DVD and official T-Shirt of the Brigsby Bear movie."
+prize-description: "One of 3 available DVD's and one of 3 available T-Shirt's of the\
+  \ Brigsby Bear movie."
 ---
