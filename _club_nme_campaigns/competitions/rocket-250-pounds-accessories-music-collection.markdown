@@ -5,7 +5,7 @@ category: "Competition"
 date: "2018-03-07T09:00:00.000Z"
 end-date: "2018-03-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
   \ for winners!”"
@@ -47,7 +47,7 @@ section3-content: "<p>Get ready to rumble because the party starts right here: N
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
   \ the form below before 23:59 on 21/03/2018.\r\n</p>"
-has-winner: false
+has-winner: true
 winner-title: "CONGRATULATIONS to Graham O'mara, Ruth Roberts and Bryan McHugh who\
   \ won £250 for shopping spree at Rocket Design!"
 winner-banner: "https://assets.expresslyapp.com/asset-d9cca2b2-760a-4477-b89b-f70050db50db.jpg"
