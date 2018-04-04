@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-03-19T09:00:00.000Z"
 end-date: "2018-04-02T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a copy of the new TV show Britannia on Blu-ray™"
 competition-description: "<p>Get ready… because Britannia is coming home with you!\
