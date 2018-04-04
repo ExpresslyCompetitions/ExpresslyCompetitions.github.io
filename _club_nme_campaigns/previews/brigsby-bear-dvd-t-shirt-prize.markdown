@@ -7,12 +7,12 @@ end-date: "2018-04-30T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win the official DVD and T-Shirt of the Brigsby Bear movie!"
+title: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
 competition-description: "<p>Calling all fans of Saturday Night Live's Kyle Mooney!\
   \ To celebrate the DVD release of the Brigsby Bear movie, we’ve managed to get our\
   \ hands on 3 amazing DVD’s and 3 official T-shirts of the movie to 3 lucky NME readers\
   \ to win!</p>\r\n<p>Sounds good? You know what to do…</p>"
-hero-header: "Win the official DVD and T-Shirt of the Brigsby Bear movie!"
+hero-header: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d15c38da-c83e-49ea-b05c-e3227e309824.jpg"
 logo-left-href: "http://nme.com/"
@@ -42,11 +42,13 @@ section3-content: "<p>This truly original and remarkably touching comedy from So
   \ Pictures Home Entertainment is the best plan for kicking off your weekend!</p>\
   \ \r\n<p>Think no more and click on the link for a chance to win the DVD and the\
   \ official T-Shirt of the Brigsby Bear movie!</p>\r\n<p>Good luck!</p>"
-entry-title: "Win the official DVD and T-Shirt of the Brigsby Bear movie!"
-entry-content: "<p>Brigsby bear DVD release is full of content for you to get stuck\
-  \ into.<p><p>Enter the draw to win by completing the form below before 23.59pm on\
-  \ 30/04/2018.</p>"
+entry-title: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
+entry-content: "<p>Brigsby bear DVD release is full with additional exclusive bonus\
+  \ content for you to get stuck into! A Q&A featuring Kyle Mooney, Dave McCary, Mark\
+  \ Hamill, a collection of\_life lessons from Brigsby himself or a filmmaker commentary\
+  \ and hilarious gag reel!.<p><p>Enter the draw to win by completing the form below\
+  \ before 23.59pm on 30/04/2018.</p>"
 has-winner: false
-prize-description: "One of 3 available DVD's and one of 3 available T-Shirt's of the\
-  \ Brigsby Bear movie."
+prize-description: "One of 3 combinations of DVD's and official T-Shirt's of the Brigsby\
+  \ Bear movie."
 ---
