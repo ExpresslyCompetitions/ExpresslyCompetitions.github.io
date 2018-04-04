@@ -5,7 +5,7 @@ category: "competition"
 date: "2018-03-14T09:00:00.000Z"
 end-date: "2018-03-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win\_your very own Lifeprint – the Instant photo\_and\_video printer for your\
   \ iPhone or Android!"
