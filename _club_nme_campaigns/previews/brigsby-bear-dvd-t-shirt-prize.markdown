@@ -47,7 +47,7 @@ entry-title: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear
 entry-content: "<p>Brigsby bear DVD release is full with additional exclusive bonus\
   \ content for you to get stuck into! A Q&A featuring Kyle Mooney, Dave McCary, Mark\
   \ Hamill, a collection of\_life lessons from Brigsby himself or a filmmaker commentary\
-  \ and hilarious gag reel!.<p><p>Enter the draw to win by completing the form below\
+  \ and hilarious gag reel!<p><p>Enter the draw to win by completing the form below\
   \ before 23.59pm on 30/04/2018.</p>"
 has-winner: false
 prize-description: "One of 3 combinations of DVD's and official T-Shirt's of the Brigsby\
