@@ -22,7 +22,7 @@ logo-left-title: "SunflowerBaby"
 bg-image-hero: "https://assets.expresslyapp.com/asset-cf4de674-d68a-4002-bd56-69f4634a82dd.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3eb0eec1-6d44-49b8-913a-6ce37b0efe04.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-63eda0af-c4c3-45e2-8e60-049dcccf152d.jpg"
-section1-content: "<p>At Sunflowebaby, they believe that simplicity, quality, and\
+section1-content: "<p>At Sunflowerbaby, they believe that simplicity, quality, and\
   \ integrity are the key to comfort, that’s why they love making clothes that let’\
   s kids be kid!</p>\r\n<p>Featuring stunning and high quality fabrics there is quite\
   \ a selection to choose from! Knitwear, accesories, swimmwear, t-shirts…all to make\
