@@ -44,7 +44,7 @@ section3-content: "<p>This truly original and remarkably touching comedy from So
   \ \r\n<p>Think no more and click on the link for a chance to win the DVD and the\
   \ official T-Shirt of the Brigsby Bear movie!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
-entry-content: "<p>Brigsby bear DVD release is full with additional exclusive bonus\
+entry-content: "<p>Brigsby Bear DVD release is full with additional exclusive bonus\
   \ content for you to get stuck into! A Q&A featuring Kyle Mooney, Dave McCary, Mark\
   \ Hamill, a collection of\_life lessons from Brigsby himself or a filmmaker commentary\
   \ and hilarious gag reel!<p><p>Enter the draw to win by completing the form below\
