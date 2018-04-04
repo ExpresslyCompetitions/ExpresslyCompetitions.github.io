@@ -10,7 +10,7 @@ has_entry_page: true
 title: "DEMO: win £300 at Sunflowerbaby"
 competition-description: "<p>In need to spice up your baby’s wardrobe? If that’s a\
   \ YES you’ve come to the right place! We’re giving away a voucher worth £300 to\
-  \ spend at Sunflowerbaby! Babygrows, bodies, blankets, baby gifts and many more\r\
+  \ spend at Sunflowerbaby! Babygrows, bodies, blankets, baby gifts and many more!\r\
   \n</p>\r\n<p>Don’t miss out on this amazing opportunity and get the perfect outfit\
   \ for cosying up with your baby at Sunflowerbaby!</p>"
 hero-header: "DEMO: win £300 at Sunflowerbaby"
