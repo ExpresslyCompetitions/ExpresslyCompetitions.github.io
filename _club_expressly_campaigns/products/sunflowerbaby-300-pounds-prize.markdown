@@ -25,15 +25,15 @@ bg-image-second: "https://assets.expresslyapp.com/asset-63eda0af-c4c3-45e2-8e60-
 section1-content: "<p>At Sunflowerbaby, they believe that simplicity, quality, and\
   \ integrity are the key to comfort, that’s why they love making clothes that let’\
   s kids be kid!</p>\r\n<p>Featuring stunning and high quality fabrics there is quite\
-  \ a selection to choose from! Knitwear, accesories, swimmwear, t-shirts…all to make\
-  \ your baby stand out!</p>"
+  \ a selection to choose from! Knitwear, accesories, swimmwear, t-shirts… all to\
+  \ make your baby stand out!</p>"
 section2-content: "<p>Their new collection includes clothes for both special occasions\
   \ and for cosy nights! Get your baby that playful toy or those shoes that she deserves!\
   \ They’re offering one lucky winner the chance to win £300 to spend at their entire\
   \ collection!</p> \r\n<p>Treat your baby to something nice. With Sunflowerbaby,\
   \ you can.</p>"
 entry-title: "DEMO: win £300 at Sunflowerbaby"
-entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby with something\
+entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby to something\
   \ nice with the chance to win a voucher worth £300 at Sunflowerbaby!</p> <p> Enter\
   \ the draw to win by completing the form below before 23.59pm on 30/04/2018.</p>"
 has-winner: false
