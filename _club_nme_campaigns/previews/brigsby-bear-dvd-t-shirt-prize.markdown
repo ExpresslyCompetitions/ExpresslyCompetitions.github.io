@@ -12,7 +12,8 @@ competition-description: "<p>Calling all fans of Saturday Night Live's Kyle Moon
   \ To celebrate the DVD release of the Brigsby Bear movie, we’ve managed to get our\
   \ hands on 3 amazing DVD’s and 3 official T-shirts of the movie to 3 lucky NME readers\
   \ to win!</p>\r\n<p>Sounds good? You know what to do…</p>"
-hero-header: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
+hero-header: "Win 3 combinations of DVD and official  T-shirt of the Brigsby Bear\
+  \ movie!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d15c38da-c83e-49ea-b05c-e3227e309824.jpg"
 logo-left-href: "http://nme.com/"
