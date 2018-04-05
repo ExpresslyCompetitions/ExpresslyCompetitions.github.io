@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-6bca2cfe-5902-4717-8fc4-ed0e1724dafe"
-type: "Competition"
+type: "Preview"
 category: "product"
-date: "2018-04-05T14:09:50.506Z"
+date: "2018-04-05T14:09:51.000Z"
 end-date: "2018-04-18T23:59:00.000Z"
 disable-form: false
 is_promoted: false
