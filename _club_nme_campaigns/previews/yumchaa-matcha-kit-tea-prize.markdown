@@ -7,14 +7,14 @@ end-date: "2018-04-18T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a Matcha preparing kit & more at Yumchaa!"
+title: "Win a Matcha preparing kit and some delicious teas from Yumchaa!"
 competition-description: "<p>If you are one of those who thinks that tea is a hug\
   \ in a cup… we have excellent news for you! Here’s your chance to win an amazing\
   \ Matcha preparing kit PLUS a tin of matcha tea & 3 delicious green teas from Yumchaa!\
   \ They blend their whole leafs sourced from the best tea gardens worldwide creating\
   \ an unique flavour!</p> \r\n<p>If you are a tea lover, click on the link below\
   \ for a chance to win!</p>"
-hero-header: "Win a Matcha preparing kit & more at Yumchaa!"
+hero-header: "Win a Matcha preparing kit and some delicious teas from Yumchaa!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c5253095-e1a7-4cd7-a95e-efaa52c1825f.jpg"
 logo-left-href: "https://www.yumchaa.com"
@@ -42,7 +42,7 @@ section3-content: "<p>If you can’t resist to taste their delicious teas, think
   \ a tin of matcha tea & 3 delicious green teas from Yumchaa!</p> \r\n<p>Because\
   \ Yumchaa are here to help you bring the best out of their blends!</p>\r\n<p>Good\
   \ luck!</p>"
-entry-title: "Win a Matcha preparing kit & more at Yumchaa!"
+entry-title: "Win a Matcha preparing kit and some delicious teas from Yumchaa!"
 entry-content: "<p>Enter the draw to win a Matcha preparing kit, a tin of matcha tea\
   \ & 3 green teas from Yumchaa by completing the form below before 23:59 on 18 April\
   \ 2018.</p>"
