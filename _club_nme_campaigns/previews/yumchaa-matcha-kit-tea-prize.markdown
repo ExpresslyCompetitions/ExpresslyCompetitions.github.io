@@ -3,7 +3,7 @@ campaign-uuid: "c-6bca2cfe-5902-4717-8fc4-ed0e1724dafe"
 type: "Preview"
 category: "product"
 date: "2018-04-05T14:09:51.000Z"
-end-date: "2018-04-18T23:59:00.000Z"
+end-date: "2018-04-24T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -49,8 +49,8 @@ section3-content: "<p>They are all delicious! The Regent’s Park, Wanderlust or
   \ you bring the best out of their blends!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Matcha preparing kit and some delicious teas from Yumchaa!"
 entry-content: "<p>Enter the draw to win a Matcha preparing kit, a tin of Matcha tea\
-  \ & 3 green teas from Yumchaa by completing the form below before 23:59 on 18 April\
-  \ 2018.</p>"
+  \ & 3 green teas from Yumchaa by completing the form below before 23:59 on 24th\
+  \ April 2018.</p>"
 has-winner: false
 prize-description: "A Matcha preparing kit, a tin of Matcha tea & 3 green teas from\
   \ Yumchaa!"
