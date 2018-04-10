@@ -41,7 +41,7 @@ section2-content: "<p>They love mixing up\_tea, herbs, flowers, fruit pieces, sp
   \ a Yumchaa market stall which quickly became a haven for tea lovers to talk, try,\
   \ and buy tea! They now have several busy London cafés and a shop online which ships\
   \ their blends to their tasty tea lovers worldwide!</p>"
-section3-content: "<p>They are all delicious! The Regent’s Park, Wanderlust, or their\
+section3-content: "<p>They are all delicious! The Regent’s Park, Wanderlust or their\
   \ famous colour changing tea & Yumchaa’s best-selling tea up to date, Blue Voodoo!</p>\r\
   \n<p>If you can’t resist\_to taste\_their teas, think no more and submit the draw\
   \ for a chance to win an amazing Matcha preparing kit PLUS a tin of Matcha tea &\
