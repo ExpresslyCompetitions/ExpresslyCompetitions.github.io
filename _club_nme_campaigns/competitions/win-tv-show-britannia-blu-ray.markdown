@@ -38,6 +38,9 @@ entry-title: "Win a copy of the new TV show Britannia on Blu-ray™"
 entry-content: "<p>Britannia Blu-ray™ release is full of content for you to get stuck\
   \ into. <p><p>Enter the draw to win by completing the form below before 23.59pm\
   \ on 02/04/2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Waris, Andrea, Lizzie, Alex & Perrie who won a copy\
+  \ of the new TV show Britannia on Blu-ray™!"
+winner-banner: "https://assets.expresslyapp.com/asset-1470dabc-f089-46bc-8fa5-44b0e296d7c7.jpg"
 prize-description: "Win a copy of the new TV show Britannia on Blu-ray™"
 ---
