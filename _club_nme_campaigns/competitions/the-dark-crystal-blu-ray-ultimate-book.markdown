@@ -53,7 +53,10 @@ entry-title: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History
 entry-content: "<p>The Dark Crystal on Blu-ray™ is loaded with additional exclusive\
   \ bonus content for you to get stuck into. <p><p>Enter the draw to win by completing\
   \ the form below before 23.59pm on 19/03/2018.<p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joanna, Jackie & Laura who won The Dark Crystal\
+  \ on Blu-ray™ & the Ultimate Visual History book of the movie!"
+winner-banner: "https://assets.expresslyapp.com/asset-2c4e4bc5-98bb-4934-b399-6db79ca86bcc.jpg"
 prize-description: "One of 3 copies of The Dark Crystal on Blu-ray™ and one of  3\
   \ copies of the Ultimate Visual History book of the movie."
 ---
