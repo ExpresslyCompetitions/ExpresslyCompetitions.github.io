@@ -95,7 +95,12 @@ active: selected-competitions
                             {% if page.entry-extension %}
                                 {% include extensions/{{ page.entry-extension }} %}
                             {% endif %}
-                            {% capture terms_checkbox_label %}I agree to the {{ page.type  | downcase }} <a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">Terms and Conditions</a><span class="logged-out-only"> and to create an account with {{ page.club-name }}</span>{% endcapture %}
+                            {% if page.terms-confirmation == 'N/A' %}
+                                {% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{% endcapture %}
+                            {% else %}
+                                {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}">{% endcapture %}
+                            {% endif %}
+                            {% capture terms_checkbox_label %}I agree to the {{ page.type  | downcase }} {{terms_checkbox_link}}Terms and Conditions</a><span class="logged-out-only"> and to create an account with {{ page.club-name }}</span>{% endcapture %}
                             {% include form_input_checkbox.html id="optin" label=terms_checkbox_label required="true" %}
                             {% assign form_input_id_prefix = '' %}
                         </form>
