@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Test Campaign"
 competition-description: "This is a test"
 hero-header: "Image Test"
-terms-confirmation: "TC"
+terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a8e6ad76-e993-4c5e-9f39-5d1817811b03.png"
 logo-left-href: "https://google.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-46edea12-472b-4400-8142-33c89915ab45.png"

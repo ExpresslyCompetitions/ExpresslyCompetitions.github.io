@@ -12,9 +12,7 @@ competition-description: "Welcome to Metrofone the home of some of the best valu
   \ smartphone deals on the Internet"
 hero-header: "Win an iPhone 7 with Metrofone"
 hero-subheader: ""
-terms-confirmation: "I agree to the competition <a href=\"../etc/nme_metrofone_terms.pdf\"\
-  \ target=\"_blank\">T&amp;C</a> and to receive NME & Metrofone newsletters with\
-  \ exclusive news and offers.\n"
+terms-confirmation: "nme_metrofone_terms.pdf"
 banner-img: "350x250.png"
 logo-left-href: "https://www.metrofone.co.uk/"
 logo-left-image: "metrofone_logo.png"

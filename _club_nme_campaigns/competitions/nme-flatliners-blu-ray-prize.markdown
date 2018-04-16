@@ -14,9 +14,7 @@ competition-description: "Calling all sci-fi fans. To celebrate the Blu-ray™ a
   \ bonus content, this prize is a must for movie buffs who love a bit of behind-the-scenes\
   \ action. Weekend = sorted."
 hero-header: "Win a copy of Flatliners on Blu-ray™"
-terms-confirmation: "I agree to the competition <a href=\"../etc/nme-flatliners-blu-ray-terms-and-conditions.pdf\"\
-  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
-  \ AAA."
+terms-confirmation: "nme-flatliners-blu-ray-terms-and-conditions.pdf"
 banner-img: "nme-flatliners-blu-ray-banner.jpg"
 logo-left-href: "http://nme.com/"
 logo-left-image: "nme-flatliners-blu-ray-logo.jpg"

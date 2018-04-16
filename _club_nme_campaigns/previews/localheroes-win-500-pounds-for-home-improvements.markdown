@@ -13,9 +13,7 @@ competition-description: "Planning on making your life BETTER? Put your home imp
   \ this great opportunity and make your dream house a reality for you and your loved\
   \ ones. \r\n<p>Click here to get involved.</p>"
 hero-header: "Win £500 for home improvements with Local Heroes"
-terms-confirmation: "I agree to the competition <a href=\"../etc/localheroes-win-500-pounds-terms-and-conditions.pdf\"\
-  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
-  \ AAA."
+terms-confirmation: "localheroes-win-500-pounds-terms-and-conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-b209c887-d7a3-4aba-8c7f-c5c58b2d657c.jpg"
 logo-left-href: "https://www.localheroes.com/"
 logo-left-image: "https://assets.expresslyapp.com/f30d9143-4bf0-4ebe-a770-328b7f8d908d-thumb.png"

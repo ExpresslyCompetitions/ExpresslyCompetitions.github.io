@@ -14,9 +14,7 @@ competition-description: "Grab your dancing shoes people. We're giving away 6 pa
   \ NME Awards Road Trip with Propaganda. Click here to get involved."
 hero-header: "Win 2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
-terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-marmozets-dj-set-terms-and-conditions.pdf\"\
-  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
-  \ AAA."
+terms-confirmation: "nme-vo5-awards-marmozets-dj-set-terms-and-conditions.pdf"
 banner-img: "nme-vo5-awards-marmozets-banner.jpg"
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"

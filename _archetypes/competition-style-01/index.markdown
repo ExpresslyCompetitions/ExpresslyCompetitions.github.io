@@ -9,8 +9,7 @@ ga-code: "UA-102915329-1"
 title: "Win ... at ..."
 hero-header: "2 WINNERS GET &pound;.... AT ...."
 hero-subheader: "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISICING ELIT."
-terms-confirmation: >
-   I agree to the competition T&C and to join the newsletter
+terms-confirmation: "N/A"
 
 logo-left-href: "https://url-of-taker"
 logo-left-image: "logo-of-taker.png"
