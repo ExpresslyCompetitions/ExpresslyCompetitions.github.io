@@ -17,7 +17,7 @@ competition-description: "<p>Want to hear some epic live music? Then you won't w
   \ in the crowd, wine in hand as the alt rock/indie pop bands fill your ears with\
   \ their favourite songs!</p>"
 hero-header: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London!"
-terms-confirmation: "N/A"
+terms-confirmation: "Terms-19-CrimesLockInCompetition.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-d6c7d6ab-43b6-472c-a2ec-acb377522d50.jpg"
 logo-left-href: "http://19crimes.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ea931195-26b7-4606-a3a3-93d40eccbf66.jpg"
