@@ -29,8 +29,8 @@ bg-image-third: "https://assets.expresslyapp.com/asset-6c52b6a8-8f05-4ea0-8fdf-1
 section1-content: "<p>If you don't already know, one of the most exciting new indie\
   \ bands on the bloc – Sea Girls – are all set to take to the stage!</p>\r\n<p>It\
   \ can be easy to simiss four-piece indie bands as simply one of many, but Sea Girls\
-  \ have something gloriously special up their sleeves! Led by the prowling and captivating\
-  \ figure of frontman Henry Camamile; this is one gig you shouldn't miss!</p>"
+  \ have something gloriously special up their sleeves led by the prowling and captivating\
+  \ figure of frontman Henry Camamile!</p>\r\n<p>This is one gig you shouldn't miss!</p>"
 section2-content: "Sea Girls are not the only special guests: BLOXX are known to fuse\
   \ grungy undertones with classic indie-influenced melodies to create their unique,\
   \ yet comfortably familiar sound that's most evident at their live shows!"
