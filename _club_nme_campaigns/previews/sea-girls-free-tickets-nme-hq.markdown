@@ -51,5 +51,5 @@ special-conditions: "This competition is promoted in conjunction with Time Inc U
   \ and these special Terms and Conditions apply:\r\n<a href=\"https://aaa.nme.com/etc/Terms-19-CrimesLockInCompetition.pdf\"\
   > Time Inc UK 19 Crimes Lock in Competition Terms & Conditions </a>.\r\nNotable\
   \ extract: all expenses (including but not limited to travel expenses) are not covered.\r\
-  \n\r\nTerms-19-CrimesLockInCompetition.pdf"
+  \n\r\nTerms-19-CrimesLockInCompetition"
 ---
