@@ -49,7 +49,7 @@ prize-description: "One pair of 35 tickets to see Sea Girls and BLOXX at NME HQ.
 prize-restrictions: "Over 18s only and ID will be required."
 special-conditions: "This competition is promoted in conjunction with Time Inc UK\
   \ and these special Terms and Conditions apply:\r\n<a href=\"Terms and conditions\
-  \ 19 Crimes Lock In Competition V3\"> Time Inc UK 19 Crimes Lock in Competition\
+  \ 19 Crimes Lock In Competition V3.pdf\"> Time Inc UK 19 Crimes Lock in Competition\
   \ Terms & Conditions </a>.\r\nNotable extract: all expenses (including but not limited\
   \ to travel expenses) are not covered."
 ---
