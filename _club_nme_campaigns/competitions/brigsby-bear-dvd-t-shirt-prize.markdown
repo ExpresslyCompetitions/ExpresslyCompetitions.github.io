@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-d8e23c64-0165-4317-9210-392405f3a662"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-04-16T09:00:00.000Z"
 end-date: "2018-04-30T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 3 combinations of DVD and official T-shirt of the Brigsby Bear movie!"
 competition-description: "<p>Calling all fans of Saturday Night Live's Kyle Mooney!\
