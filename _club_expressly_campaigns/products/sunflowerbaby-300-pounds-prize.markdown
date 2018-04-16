@@ -14,7 +14,7 @@ competition-description: "<p>In need to spice up your baby’s wardrobe? If that
   \n</p>\r\n<p>Don’t miss out on this amazing opportunity and get the perfect outfit\
   \ for cosying up with your baby at Sunflowerbaby!</p>"
 hero-header: "DEMO: win £300 at Sunflowerbaby"
-terms-confirmation: "N/A"
+terms-confirmation: "nme_metrofone_terms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-14bda4c0-341e-40fb-9f2e-c453075b29cd.jpg"
 logo-left-href: "http://sunflowerbaby.uk/"
 logo-left-image: "https://assets.expresslyapp.com/9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
