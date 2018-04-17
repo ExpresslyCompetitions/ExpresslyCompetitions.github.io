@@ -31,19 +31,19 @@ section1-content: "<p>If you’re into banging indie tunes in the vein of The Ki
   \ with Sea Girls!</p>\r\n <p>The London group have fast become one of the UK’s most\
   \ exciting new bands, conquering venues up and down the nation with their riotous\
   \ live show and they’ll be bringing that reputation and attitude to our upcoming\
-  \ gig right here at NME HQ on May 3.</p>"
+  \ gig right here at NME HQ on May 3rd!</p>"
 section2-content: "They’re not the only band playing, though. Fellow indie-four piece\
   \ Bloxx – who have already supported bands like The Wombats in arenas – will be\
   \ joining in on the fun. Think 1975 meets Nirvana, and you’re getting a taste of\
   \ the group’s eclectic sound!"
 section3-content: "<p>If you're a big fan of Sea Girls, Bloxx or just up for a banging\
   \ night out, complete the form below to be in the chance of winning tickets for\
-  \ the exclusive gig on May 3 in London</p> \r\n<p>You need to act quickly though\
-  \ as the competition closes on Sunday 29 April at 23:59. Over 18s only and ID will\
-  \ be required. Winners will be contacted via email on Monday 30 April 2018 to confirm\
-  \ attendance.</p>\r\n<p>Good luck!</p>"
+  \ the exclusive gig on May 3rd in London!</p> \r\n<p>You need to act quickly as\
+  \ the competition closes on Sunday 29th of April at 23:59. Over 18s only and ID\
+  \ will be required. Winners will be contacted via email on Monday 30 April 2018\
+  \ to confirm attendance!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London\
-  \ on 3 May 2018!"
+  \ on the 3rd of May 2018!"
 entry-content: "Dance along to some banging tunes courtesy of Sea Girls and BLOXX\
   \ at the next NME Lock In in association with 19 Crimes Winery at NME's HQ in London.\
   \ Good luck!"
