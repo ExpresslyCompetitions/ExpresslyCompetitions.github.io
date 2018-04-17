@@ -26,25 +26,27 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-d0bfed59-bdd3-4672-8454-3e
 bg-image-first: "https://assets.expresslyapp.com/asset-39302f83-1ee7-4a2b-bf3b-83c5c42ebcbf.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-d2f1333f-a7b0-4ac9-b7b8-245b0052e523.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-6c52b6a8-8f05-4ea0-8fdf-1be034e9bd27.jpg"
-section1-content: "<p>If you don't already know, one of the most exciting new indie\
-  \ bands on the bloc – Sea Girls – are all set to take to the stage!</p>\r\n<p>It\
-  \ can be easy to simiss four-piece indie bands as simply one of many, but Sea Girls\
-  \ have something gloriously special up their sleeves led by the prowling and captivating\
-  \ figure of frontman Henry Camamile!</p>\r\n<p>This is one gig you shouldn't miss!</p>"
-section2-content: "Sea Girls are not the only special guests: BLOXX are known to fuse\
-  \ grungy undertones with classic indie-influenced melodies to create their unique,\
-  \ yet comfortably familiar sound that's most evident at their live shows!"
-section3-content: "<p>If you're a big fan of Sea Girls and BLOXX, or just up for a\
-  \ banging night out, complete the form below!</p> \r\n<p>But hurry! the competition\
-  \ closes on Sunday 29 April at 23:59! Over 18s only and ID will be required. Winners\
-  \ will be contacted via email on Monday 30 April 2018 to confirm attendance!</p>\r\
-  \n<p>Good luck!</p>"
+section1-content: "<p>If you’re into banging indie tunes in the vein of The Killers\
+  \ and Arctic Monkeys, chances are you’re almost certainly going to fall in love\
+  \ with Sea Girls!</p>\r\n <p>The London group have fast become one of the UK’s most\
+  \ exciting new bands, conquering venues up and down the nation with their riotous\
+  \ live show and they’ll be bringing that reputation and attitude to our upcoming\
+  \ gig right here at NME HQ on May 3.</p>"
+section2-content: "They’re not the only band playing, though. Fellow indie-four piece\
+  \ Bloxx – who have already supported bands like The Wombats in arenas – will be\
+  \ joining in on the fun. Think 1975 meets Nirvana, and you’re getting a taste of\
+  \ the group’s eclectic sound!"
+section3-content: "<p>If you're a big fan of Sea Girls, Bloxx or just up for a banging\
+  \ night out, complete the form below to be in the chance of winning tickets for\
+  \ the exclusive gig on May 3 in London</p> \r\n<p>You need to act quickly though\
+  \ as the competition closes on Sunday 29 April at 23:59. Over 18s only and ID will\
+  \ be required. Winners will be contacted via email on Monday 30 April 2018 to confirm\
+  \ attendance.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London\
   \ on 3 May 2018!"
 entry-content: "Dance along to some banging tunes courtesy of Sea Girls and BLOXX\
   \ at the next NME Lock In in association with 19 Crimes Winery at NME's HQ in London.\
   \ Good luck!"
-entry-extension: "nme/sea-girls-free-tickets-nme-hq.html"
 has-winner: false
 prize-description: "One pair of 35 tickets to see Sea Girls and BLOXX at NME HQ."
 prize-restrictions: "Over 18s only and ID will be required."
