@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-81e94312-6b33-4fd3-8537-8746141eb208"
-type: "Preview"
+type: "Competition"
 category: "competition"
 date: "2018-04-18T17:00:00.000Z"
 end-date: "2018-04-29T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ"
 competition-description: "<p>Want to hear some epic live music? Then you won't want\
