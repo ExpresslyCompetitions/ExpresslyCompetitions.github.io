@@ -2,16 +2,17 @@
 campaign-uuid: "c-e43fbd0f-7c92-439b-a0d3-fad3fd98d4ae"
 type: "Preview"
 category: "product"
-date: "2018-04-18T12:14:52.951Z"
+date: "2018-04-18T12:14:53.000Z"
 end-date: "2018-05-30T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win the brand new Exploding Kittens card game!"
-competition-description: "The most-backed project in kickstarter history could be\
+competition-description: "The most-backed project in Kickstarter history could be\
   \ coming home with you! NME is giving away 3 Exploding Kittens card game to 3 lucky\
-  \ nme readers to win! If this sound like the best family-friendly party game to\
-  \ play, think no more and click on the link for a chance to win this fantastic game!"
+  \ NME readers to win! If this sound like the best family-friendly party game to\
+  \ play, think no more and click on the link for a chance to win this fantastic game\
+  \ that raised $8.7 million on Kickstarter!"
 hero-header: "Win the brand new Exploding Kittens card game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3888e4ef-0104-496f-a81f-cd91b053c822.jpg"
