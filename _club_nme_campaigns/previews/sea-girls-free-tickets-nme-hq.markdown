@@ -41,7 +41,7 @@ section3-content: "<p>If you're a big fan of Sea Girls, Bloxx or just up for a b
   \ the exclusive gig on May 3 in London.</p> \r\n<p>You need to act quickly though\
   \ as the competition closes on Sunday 29 April at 23:59. Over 18s only and ID will\
   \ be required. Winners will be contacted via email on Monday 30 April 2018 to confirm\
-  \ attendance</p>"
+  \ attendance.</p>"
 entry-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London\
   \ on the 3rd of May 2018!"
 entry-content: "Dance along to some banging tunes courtesy of Sea Girls and BLOXX\
