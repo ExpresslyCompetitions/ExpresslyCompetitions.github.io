@@ -1,15 +1,15 @@
 ﻿---
 layout: competition-style-01
 
-merchant-uuid: m-5415be1c-1ebf-4d28-aea4-ae37afa895ba
-campaign-uuid: c-7971762b-a358-4cf6-9a71-c9fde5e1f39c
+merchant-uuid: m-3c4e4a1a-3032-4f1f-add8-628ecbfef12c
+campaign-uuid: c-d06ac8bf-b968-4041-ba92-5b4c5d084651
 disable-form: false
 
 title: "DEMO: win £300 at Sunflowerbaby"
 hero-header: "DEMO: win £300 at Sunflowerbaby"
 hero-subheader: ""
 terms-confirmation: >
-    I agree to the competition T&amp;C and to create an account at Demo Publisher
+    I agree to the competition T&amp;C and to create an account at Publisher Demo
 
 logo-right-href: "http://sunflowerbaby.uk/"
 logo-right-image: "9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
