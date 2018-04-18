@@ -10,12 +10,12 @@ has_entry_page: true
 title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ"
 competition-description: "<p>Want to hear some epic live music? Then you won't want\
   \ to miss this...\r\nNME is opening it's doors to host an exclusive lock-in gig\
-  \ in association with 19 Crimes Winery and we've got a limited amount of FREE tickets\
-  \ to give away, want it?</p> \r\n<p>You can get your hands on one of 35 pairs of\
-  \ tickets to see Sea Girls and BLOXX at NME HQ in London on Thursday 3rd of May\
-  \ 2018! All you need to do is enter your details and you could be swaying along\
-  \ in the crowd, wine in hand as the alt rock/indie pop bands fill your ears with\
-  \ their favourite songs!</p>"
+  \ in association with 19 Crimes Winery – and we've got a limited amount of FREE\
+  \ tickets to give away. Want in?</p> \r\n<p>You can get your hands on one of 35\
+  \ pairs of tickets to see Sea Girls and BLOXX at NME HQ in London on Thursday 3\
+  \ May 2018. All you need to do is enter your details and you could be swaying along\
+  \ in the crowd, wine in hand, as the alt rock/indie pop bands fill your ears with\
+  \ their favourite songs.</p>"
 hero-header: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London"
 terms-confirmation: "Terms-19-CrimesLockInCompetition.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-d6c7d6ab-43b6-472c-a2ec-acb377522d50.jpg"
