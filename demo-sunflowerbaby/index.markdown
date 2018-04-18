@@ -12,16 +12,16 @@ terms-confirmation: >
     I agree to the competition T&amp;C and to create an account at Demo Publisher
 
 logo-left-href: "http://sunflowerbaby.uk/"
-logo-left-image: "https://assets.expresslyapp.com/9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
+logo-left-image: "9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
 logo-left-title: "SunflowerBaby"
 
 logo-right-href: ""
-logo-right-image: "corriere-logo.png"
-logo-right-title: ""
+logo-right-image: "publisher-demo.png"
+logo-right-title: "Publisher Demo"
 
-bg-image-hero: "https://assets.expresslyapp.com/asset-cf4de674-d68a-4002-bd56-69f4634a82dd.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-3eb0eec1-6d44-49b8-913a-6ce37b0efe04.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-63eda0af-c4c3-45e2-8e60-049dcccf152d.jpg"
+bg-image-hero: "asset-cf4de674-d68a-4002-bd56-69f4634a82dd.jpg"
+bg-image-first: "asset-3eb0eec1-6d44-49b8-913a-6ce37b0efe04.jpg"
+bg-image-second: "asset-63eda0af-c4c3-45e2-8e60-049dcccf152d.jpg"
 section1-content: "<p>At Sunflowerbaby, they believe that simplicity, quality, and\
   \ integrity are the key to comfort, that’s why they love making clothes that let’\
   s kids be kid!</p>\r\n<p>Featuring stunning and high quality fabrics there is quite\
