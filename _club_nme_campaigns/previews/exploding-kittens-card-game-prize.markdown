@@ -31,7 +31,7 @@ section2-content: "<p>This card game is all about kittens, explosions, laser bea
   \ and sometimes goats! A must for a great night with friends! And now, thanks to\
   \ NME you could get your hands on one of the Exploding kittens card game!</p>\r\n\
   <p>What are you waiting for? Complete the draw below and get ready to beat your\
-  \ opponent with the brand new Exploding kittens card game</p>\r\n<p>Good luck!</p>"
+  \ opponent with the brand new Exploding kittens card game!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the highly-strategic Exploding Kittens card game!"
 entry-content: "<p>Enter the draw to win the game that raised more than $8.7 million\
   \ on Kickstarter! Exploding Kittens card game by completing the form below before\
