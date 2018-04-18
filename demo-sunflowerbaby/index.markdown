@@ -1,25 +1,24 @@
----
-merchant-uuid: "m-5415be1c-1ebf-4d28-aea4-ae37afa895ba"
-campaign-uuid: "c-7971762b-a358-4cf6-9a71-c9fde5e1f39c"
-type: "Product"
-category: "fashion"
-date: "2018-04-04T10:50:19.000Z"
-end-date: "2018-05-30T23:59:00.000Z"
+﻿---
+layout: competition-style-01
+
+merchant-uuid: m-5415be1c-1ebf-4d28-aea4-ae37afa895ba
+campaign-uuid: c-7971762b-a358-4cf6-9a71-c9fde5e1f39c
 disable-form: false
-is_promoted: false
-has_entry_page: true
+
 title: "DEMO: win £300 at Sunflowerbaby"
-competition-description: "<p>In need to spice up your baby’s wardrobe? If that’s a\
-  \ YES you’ve come to the right place! We’re giving away a voucher worth £300 to\
-  \ spend at Sunflowerbaby! Babygrows, bodies, blankets, baby gifts and many more!\r\
-  \n</p>\r\n<p>Don’t miss out on this amazing opportunity and get the perfect outfit\
-  \ for cosying up with your baby at Sunflowerbaby!</p>"
 hero-header: "DEMO: win £300 at Sunflowerbaby"
-terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-14bda4c0-341e-40fb-9f2e-c453075b29cd.jpg"
+hero-subheader: ""
+terms-confirmation: >
+    I agree to the competition T&amp;C and to create an account at Demo Publisher
+
 logo-left-href: "http://sunflowerbaby.uk/"
 logo-left-image: "https://assets.expresslyapp.com/9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
 logo-left-title: "SunflowerBaby"
+
+logo-right-href: ""
+logo-right-image: "corriere-logo.png"
+logo-right-title: ""
+
 bg-image-hero: "https://assets.expresslyapp.com/asset-cf4de674-d68a-4002-bd56-69f4634a82dd.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3eb0eec1-6d44-49b8-913a-6ce37b0efe04.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-63eda0af-c4c3-45e2-8e60-049dcccf152d.jpg"
@@ -37,6 +36,5 @@ entry-title: "DEMO: win £300 at Sunflowerbaby"
 entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby to something\
   \ nice with the chance to win a voucher worth £300 at Sunflowerbaby!</p> <p> Enter\
   \ the draw to win by completing the form below before 23.59pm on 30/04/2018.</p>"
-has-winner: false
-prize-description: "£300 to spend at Sunflowerbaby."
 ---
+
