@@ -14,7 +14,9 @@ competition-description: "Oh, Bastille fans are going to LOVE this. We're giving
   \ what to do…"
 hero-header: "Win 2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
-terms-confirmation: "nme-vo5-awards-bastilles-dj-set-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-bastilles-dj-set-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "nme-vo5-awards-bastilles-banner.jpg"
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"

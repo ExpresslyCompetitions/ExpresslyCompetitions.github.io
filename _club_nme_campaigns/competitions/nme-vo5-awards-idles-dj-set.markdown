@@ -15,7 +15,9 @@ competition-description: "Weekend plans? We're giving away 3 pairs of tickets to
   \ – competition closes on Thursday 1 February at 23:59."
 hero-header: "Win 2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip with\
   \ Propaganda"
-terms-confirmation: "nme-vo5-awards-idles-dj-set-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-idles-dj-set-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "resized-idles-1.png"
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"

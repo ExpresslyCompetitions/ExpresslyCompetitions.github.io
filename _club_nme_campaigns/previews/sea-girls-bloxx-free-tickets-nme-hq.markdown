@@ -7,7 +7,7 @@ end-date: "2018-04-29T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ!"
+title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ"
 competition-description: "<p>Want to hear some epic live music? Then you won't want\
   \ to miss this...\r\nNME is opening it's doors to host an exclusive lock-in gig\
   \ in association with 19 Crimes Winery and we've got a limited amount of FREE tickets\
@@ -43,10 +43,10 @@ section3-content: "<p>If you're a big fan of Sea Girls, Bloxx or just up for a b
   \ be required. Winners will be contacted via email on Monday 30 April 2018 to confirm\
   \ attendance.</p>"
 entry-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in London\
-  \ on the 3rd of May 2018!"
-entry-content: "Dance along to some banging tunes courtesy of Sea Girls and BLOXX\
-  \ at the next NME Lock In in association with 19 Crimes Winery at NME's HQ in London.\
-  \ Good luck!"
+  \ on May 3"
+entry-content: "Complete the form below to dance along to some banging tunes courtesy\
+  \ of Sea Girls and BLOXX at the next NME Lock In in association with 19 Crimes Winery\
+  \ at NME's HQ in London."
 has-winner: false
 prize-description: "One pair of 35 tickets to see Sea Girls and BLOXX at NME HQ."
 prize-restrictions: "Over 18s only and ID will be required."
