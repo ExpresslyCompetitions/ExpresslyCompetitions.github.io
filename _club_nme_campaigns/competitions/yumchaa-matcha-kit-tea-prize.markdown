@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-6bca2cfe-5902-4717-8fc4-ed0e1724dafe"
 type: "Competition"
-category: "product"
+category: "Food"
 date: "2018-04-05T14:09:51.000Z"
 end-date: "2018-04-24T23:59:00.000Z"
 disable-form: false
