@@ -2,8 +2,8 @@
 campaign-uuid: "c-7971762b-a358-4cf6-9a71-c9fde5e1f39c"
 type: "Product"
 category: "fashion"
-date: "2018-04-04T11:50:19.000+01:00"
-end-date: "2018-05-31T00:59:00.000+01:00"
+date: "2018-04-04T10:50:19.000Z"
+end-date: "2018-05-30T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true

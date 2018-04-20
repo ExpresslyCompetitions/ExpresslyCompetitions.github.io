@@ -17,7 +17,9 @@ competition-description: "Want to inject some excitement into your weekend? We'r
   \ January."
 hero-header: "Win 2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
-terms-confirmation: "nme-vo5-awards-amazon-dj-set-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-amazon-dj-set-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "nme-vo5-amazons-ticket-banner2.jpg"
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-vo5-awards-bastilles-logo.jpg"

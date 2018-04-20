@@ -16,7 +16,9 @@ competition-description: "An amazing iPhone X: the special competition prize for
   \ cutting edge tech, cool gadgets and the latest in fashion to your high street\
   \ stores."
 hero-header: "Win an iPhone X with cover exclusively signed by Alice Cooper"
-terms-confirmation: "nme-techhouse-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-techhouse-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "techhouse-iphone-alice-cooper-banner.jpg?cb=2"
 logo-left-href: "https://www.techhouse.com/"
 logo-left-image: "techhouse-logo.png"

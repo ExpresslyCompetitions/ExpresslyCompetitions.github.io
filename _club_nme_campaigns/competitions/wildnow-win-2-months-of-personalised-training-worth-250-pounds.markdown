@@ -15,7 +15,9 @@ competition-description: "Make 2018 be the year you take out your WILD side, and
   \ lucky winner will have 2 months of free, personalised and adaptive training, with\
   \ a dedicated professional coach, worth £250."
 hero-header: "Win 2 months of personalised and adaptive training with Wild Now"
-terms-confirmation: "nme-wild-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-wild-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "wild-image-1.jpg"
 logo-left-href: "https://www.wildnow.co"
 logo-left-image: "wild-logo.png"

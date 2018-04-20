@@ -13,7 +13,9 @@ competition-description: "Want to join the marvelous VO5\_NME Awards Ceremony on
   \ winner will get 2 standing stall tickets thanks to NME AAA, the All Area Access\
   \ for NME readers. <br />Visit NME AAA for a chance to win by 23.59 on Wed 7th February"
 hero-header: "Win 2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
-terms-confirmation: "nme-vo5-awards-ceremony-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-ceremony-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
+  \ AAA."
 banner-img: "nme-awards-page2.jpg"
 logo-left-href: "https://awards.nme.com/"
 logo-left-image: "nme-awards-logo-2018-2.png"
