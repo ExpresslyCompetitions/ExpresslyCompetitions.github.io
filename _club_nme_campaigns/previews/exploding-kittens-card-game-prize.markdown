@@ -9,14 +9,15 @@ is_promoted: false
 has_entry_page: true
 title: "Win the highly-strategic Exploding Kittens card game!"
 competition-description: "The most-backed project in Kickstarter history could be\
-  \ coming home with you! NME is giving away 3 Exploding Kittens card game to 3 lucky\
-  \ NME readers to win! If this sound like the best family-friendly party game to\
-  \ play, think no more and click on the link for a chance to win this fantastic game!"
+  \ coming home with you! NME is giving away one Exploding Kittens card game to one\
+  \ lucky NME reader! <br />If this sound like the best family-friendly party game\
+  \ to play, think no more and click on the link for a chance to win this fantastic\
+  \ game!"
 hero-header: "Win the highly-strategic Exploding Kittens card game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3888e4ef-0104-496f-a81f-cd91b053c822.jpg"
 logo-left-href: "http://www.nme.com/"
-logo-left-image: "https://assets.expresslyapp.com/asset-55b7e308-a94d-4d2d-a22f-d127baf341a8.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-4abe75b6-b586-4c6c-aaef-663bdb0f020b.jpg"
 logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-106e8e74-e289-43da-a11d-5a0658a3b0f8.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-a0432ac0-0c7b-439f-9f50-41d10c0b02ff.png"
@@ -37,5 +38,5 @@ entry-content: "<p>Enter the draw to win the game that raised more than $8.7 mil
   \ on Kickstarter! Exploding Kittens card game by completing the form below before\
   \ 23:59 on 30th May 2018.</p>"
 has-winner: false
-prize-description: "One of 3 Exploding Kittens card game."
+prize-description: "One Exploding Kittens card game."
 ---
