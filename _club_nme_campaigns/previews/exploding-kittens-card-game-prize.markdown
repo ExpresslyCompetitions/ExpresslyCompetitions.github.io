@@ -2,7 +2,7 @@
 campaign-uuid: "c-e43fbd0f-7c92-439b-a0d3-fad3fd98d4ae"
 type: "Preview"
 category: "product"
-date: "2018-04-18T12:14:53.000Z"
+date: "2018-04-25T10:00:00.000Z"
 end-date: "2018-05-30T23:59:00.000Z"
 disable-form: false
 is_promoted: false
