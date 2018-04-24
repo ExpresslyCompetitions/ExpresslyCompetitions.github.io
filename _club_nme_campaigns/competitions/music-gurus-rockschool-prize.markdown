@@ -5,7 +5,7 @@ category: "Competition"
 date: "2018-03-28T09:00:00.000Z"
 end-date: "2018-04-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 3 one-on-one music lessons plus an online video course with MusicGurus!\
   \ Worth £100!"
