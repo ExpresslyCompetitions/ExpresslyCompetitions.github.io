@@ -5,7 +5,7 @@ category: "Competition"
 date: "2018-03-20T09:00:00.000Z"
 end-date: "2018-04-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert!"
