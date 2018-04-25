@@ -216,6 +216,11 @@
     ga('create', '{{page.ga-code}}',  {'cookieDomain': '{{page.ga-domain}}'});
     ga('send', 'pageview');
 
+    {% if page.ga-extra-include %}
+    {% include {{ page.ga-extra-include }} %}
+    {% endif %}
+
+
 </script>
 {% endif %}
 <script>
