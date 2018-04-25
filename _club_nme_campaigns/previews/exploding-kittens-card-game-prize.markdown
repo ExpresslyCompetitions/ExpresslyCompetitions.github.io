@@ -2,10 +2,10 @@
 campaign-uuid: "c-e43fbd0f-7c92-439b-a0d3-fad3fd98d4ae"
 type: "Preview"
 category: "Entertainment"
-date: "2018-04-25T10:00:00.000Z"
+date: "2018-04-25T09:25:00.000Z"
 end-date: "2018-05-16T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the highly-strategic Exploding Kittens card game!"
 competition-description: "The most-backed project in Kickstarter history could be\
