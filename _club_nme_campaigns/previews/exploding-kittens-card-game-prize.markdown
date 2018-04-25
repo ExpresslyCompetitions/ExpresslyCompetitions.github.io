@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-e43fbd0f-7c92-439b-a0d3-fad3fd98d4ae"
 type: "Preview"
-category: "product"
+category: "Entertainment"
 date: "2018-04-25T10:00:00.000Z"
-end-date: "2018-05-30T23:59:00.000Z"
+end-date: "2018-05-16T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -36,7 +36,7 @@ section2-content: "<p>This card game is all about kittens, explosions, laser bea
 entry-title: "Win the highly-strategic Exploding Kittens card game!"
 entry-content: "<p>Enter the draw to win the game that raised more than $8.7 million\
   \ on Kickstarter! Exploding Kittens card game by completing the form below before\
-  \ 23:59 on 30th May 2018.</p>"
+  \ 23:59 on 16th May 2018.</p>"
 has-winner: false
 prize-description: "One Exploding Kittens card game."
 ---
