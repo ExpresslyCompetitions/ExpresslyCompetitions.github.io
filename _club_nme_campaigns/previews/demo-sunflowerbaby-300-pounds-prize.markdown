@@ -2,8 +2,8 @@
 campaign-uuid: "c-87cf7919-6c6a-440a-a623-1d71d7ca0660"
 type: "Preview"
 category: "Fashion"
-date: "2018-04-20T11:39:50.525Z"
-end-date: "2018-10-20T11:39:50.525Z"
+date: "2018-04-20T11:39:51.000Z"
+end-date: "2018-10-20T11:39:51.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
