@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-ef2f02b4-2286-4e68-9d37-f827bb08448d"
 type: "Preview"
-category: "Product"
+category: "Technology"
 date: "2018-03-05T12:47:54.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
