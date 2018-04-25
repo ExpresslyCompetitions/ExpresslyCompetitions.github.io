@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-909dc364-2420-4cab-96ad-fccd5d98f1a0"
 type: "Preview"
-category: "product"
+category: "Gift"
 date: "2018-03-12T10:55:43.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
