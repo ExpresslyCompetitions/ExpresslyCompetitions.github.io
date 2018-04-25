@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-e2057474-016b-49a5-b0b4-4826ab5d4d0f"
 type: "Competition"
-category: "Competition"
+category: "Entertainment"
 date: "2018-03-05T09:00:00.000Z"
 end-date: "2018-03-19T23:59:00.000Z"
 disable-form: false
