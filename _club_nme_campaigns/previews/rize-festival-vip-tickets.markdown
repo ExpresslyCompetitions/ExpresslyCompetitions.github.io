@@ -36,13 +36,12 @@ section2-content: "<p>The prize includes 2 x VIP weekend tickets so the winner w
   \ Miles Kane and many more…</p>"
 section3-content: "<p>A mini festival within the festival, access to the festival’\
   s VIP Area includes:</p>\r\n<p>Street Food Stalls where you can buy delicious food\
-  \ *\LVIP Bar selling wines, beers, spirits and cocktails *\LGlitter Make-up Station\
-  \ *\LInformation hub and Cloakroom *\LProper Toilets\LChill-out area with garden\
-  \ seating\LExclusive DJ sets (separate line-up confirmed closer to the show)\LVIP\
-  \ wristband</p> \r\n<p>* Please note these items are at an additional Cost</p>\r\
-  \n<p>Wanna be there now? Complete the form below for a chance to win 2 x VIP tickets\
-  \ and you could be singing along with Liam Gallagher & many more at Rize Festival\
-  \ next August!</p>"
+  \ *?VIP Bar selling wines, beers, spirits and cocktails *?Glitter Make-up Station\
+  \ *?Information hub and Cloakroom *?Proper Toilets?Chill-out area with garden seating?Exclusive\
+  \ DJ sets (separate line-up confirmed closer to the show)?VIP wristband</p> \r\n\
+  <p>* Please note these items are at an additional Cost</p>\r\n<p>Wanna be there\
+  \ now? Complete the form below for a chance to win 2 x VIP tickets and you could\
+  \ be singing along with Liam Gallagher & many more at Rize Festival next August!</p>"
 entry-title: "Win VIP weekend tickets to RiZE Festival 2018!"
 entry-content: "<p>Wanna be there now? Complete the form below for a chance to win\
   \ 2 x VIP tickets and you could be singing along with Liam Gallagher & many more\
