@@ -35,17 +35,17 @@ section2-content: "<p>The prize includes 2 x VIP weekend tickets so the winner w
   \ announced include Rag N Bone Man, Rita Ora, James Bay, Years & Years, Bastille,\
   \ Miles Kane and many more…</p>"
 section3-content: "<p>A mini festival within the festival, access to the festival’\
-  s VIP Area includes: *Street Food Stalls where you can buy delicious food,*VIP Bar\
-  \ selling wines, beers, spirits and cocktails, *Glitter Make-up Station,*Information\
-  \ hub and Cloakroom,*Proper Toilets, Chill-out area with garden seating, Exclusive\
+  s VIP Area includes: Street Food Stalls where you can buy delicious food*, VIP Bar\
+  \ selling wines, beers, spirits and cocktails*, Glitter Make-up Station*, Information\
+  \ hub and Cloakroom*, Proper Toilets, Chill-out area with garden seating*, Exclusive\
   \ DJ sets (separate line-up confirmed closer to the show), VIP wristband... and\
-  \ more!</p> \r\n<p>* Please note these items are at an additional Cost</p>\r\n<p>Complete\
-  \ the form below to be in with a chance to rock out with RiZE Festival in Hylands\
-  \ Park next August!</p>"
+  \ more!</p> \r\n<p>* Please note these items are at an additional Cost</p>\r\n<p>Wanna\
+  \ be there now? Complete the form below for a chance to win 2 x VIP tickets and\
+  \ you could be singing along with Liam Gallagher & many more at RiZE Festival next\
+  \ August!</p>"
 entry-title: "Win VIP weekend tickets to RiZE Festival 2018!"
-entry-content: "<p>Wanna be there now? Complete the form below for a chance to win\
-  \ 2 x VIP tickets and you could be singing along with Liam Gallagher & many more\
-  \ at RiZE Festival next August!</p>"
+entry-content: "<p>Hurry up! Complete the form below to be in with a chance to rock\
+  \ out with RiZE Festival in Hylands Park next August!</p>"
 has-winner: false
 prize-description: "A pair of VIP weekend tickets to RiZE Festival"
 prize-restrictions: "Winners are responsible for any transport costs to/from the event."
