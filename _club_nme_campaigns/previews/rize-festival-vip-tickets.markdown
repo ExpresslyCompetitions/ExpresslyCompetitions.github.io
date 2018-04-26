@@ -45,7 +45,7 @@ section3-content: "<p>A mini festival within the festival, access to the festiva
 entry-title: "Win VIP weekend tickets to RiZE Festival 2018!"
 entry-content: "<p>Wanna be there now? Complete the form below for a chance to win\
   \ 2 x VIP tickets and you could be singing along with Liam Gallagher & many more\
-  \ at Rize Festival next August!</p>"
+  \ at RiZE Festival next August!</p>"
 has-winner: false
 prize-description: "A pair of VIP weekend tickets to RiZE Festival"
 prize-restrictions: "Winners are responsible for any transport costs to/from the event."
