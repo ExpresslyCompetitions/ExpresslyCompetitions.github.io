@@ -20,9 +20,9 @@ logo-left-href: "http://www.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-4abe75b6-b586-4c6c-aaef-663bdb0f020b.jpg"
 logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-1639598d-cb96-4b32-8a22-d258aaf435e4.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-06d1e731-ad2b-4e19-9b84-a3c5b75f28cd.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-531ab2aa-3045-4563-b459-5ea3850f1fea.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-e16da817-906d-49e9-b432-255602e9554f.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-743ce874-4ba1-4631-9739-6f82e9080a56.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-aef2ee67-73dc-49c4-9b8f-3f0710f4be68.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-5119da3a-f6e0-4c37-bc88-d9afcae69977.jpg"
 section1-content: "Celebrating its very first year, RiZE Festival brings together\
   \ an exciting mix of the very best music from classic indie, pop, urban, dance and\
   \ new upcoming talent across four stages! Hylands Park has a history of hosting\
@@ -47,5 +47,9 @@ entry-content: "<p>Wanna be there now? Complete the form below for a chance to w
   \ 2 x VIP tickets and you could be singing along with Liam Gallagher & many more\
   \ at Rize Festival next August!</p>"
 has-winner: false
-prize-description: "VIP weekend ticket to RiZE Festival"
+prize-description: "A pair of VIP weekend tickets to RiZE Festival"
+prize-restrictions: "Winners are responsible for any transport costs to/from the event."
+special-conditions: "* Please note these items are at an additional Cost:\r\nStreet\
+  \ Food Stalls*\r\nVIP Bar*\r\nGlitter Make-up Station *\r\nInformation hub and Cloakroom*\r\
+  \n\r\nAny travel expenses are not included."
 ---
