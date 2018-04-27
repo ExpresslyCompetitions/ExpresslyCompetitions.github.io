@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
 competition-description: "<p>Get your festival mood ready because NME is running a\
-  \ competition for a lucky winner to attend the brand new RiZE Festival which will\
-  \ take place at the iconic Hylands Park in Chelmsford on Friday 17th and Saturday\
-  \ 18th August 2018!</p> \r\n<p>If this sounds like the best plan of your summer,\
-  \ click on the link for a chance to win!</p>"
+  \ competition for one lucky winner and one guest to attend the brand new RiZE Festival\
+  \ which will take place at the iconic Hylands Park in Chelmsford on Friday 17th\
+  \ and Saturday 18th August 2018!</p> \r\n<p>If this sounds like the best plan of\
+  \ your summer, click on the link for a chance to win!</p>"
 hero-header: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b6222144-8707-4737-ac27-9fd9f09ad0c5.jpg"
@@ -44,11 +44,11 @@ section3-content: "<p>A mini festival within the festival, access to the festiva
   \ below for a chance to win a pair of VIP tickets and you could be singing along\
   \ with Liam Gallagher & many more at RiZE Festival next August!</p>"
 entry-title: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
-entry-content: "<p>Hurry up! Complete the form below to be in with a chance to rock\
-  \ out with RiZE Festival in Hylands Park next August!</p>"
+entry-content: "<p>Hurry up! Complete the form below before May 11th at 23:59 to be\
+  \ in with a chance to rock out with RiZE Festival in Hylands Park next August!</p>"
 has-winner: false
 prize-description: "A pair of VIP weekend tickets to RiZE Festival"
-prize-restrictions: "Winners are responsible for any transport costs to/from the event."
+prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "* Please note these items are at an additional Cost:\r\nStreet\
   \ Food Stalls*\r\nVIP Bar*\r\nGlitter Make-up Station *\r\nInformation hub and Cloakroom*\r\
   \n\r\nAny travel expenses are not included."
