@@ -29,9 +29,9 @@ section1-content: "<p>Celebrating its very first year, RiZE Festival brings toge
   \ hosting world class events and this new local festival promises to bring an incredible\
   \ weekend of live music plus a huge hub of the best food and drink on the festival\
   \ circuit!</p>"
-section2-content: "<p>The prize includes 2 x VIP weekend tickets so the winner will\
-  \ have access to the VIP area which is the heart of the festival and the place to\
-  \ be!</p> <p>Liam Gallagher & Stereophonics will be headlining and other artists\
+section2-content: "<p>The prize includes a pair of VIP weekend tickets so the winner\
+  \ will have access to the VIP area which is the heart of the festival and the place\
+  \ to be!</p> <p>Liam Gallagher & Stereophonics will be headlining and other artists\
   \ announced include Rag N Bone Man, Rita Ora, James Bay, Years & Years, Bastille,\
   \ Miles Kane and many more…</p>"
 section3-content: "<p>A mini festival within the festival, access to the festival’\
