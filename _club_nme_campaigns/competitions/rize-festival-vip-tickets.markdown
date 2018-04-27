@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-0ab912b2-7b7f-4724-bdb3-c56be8bcd579"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-04-27T11:00:00.000Z"
 end-date: "2018-05-11T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
 competition-description: "<p>Get your festival mood ready because NME is running a\
