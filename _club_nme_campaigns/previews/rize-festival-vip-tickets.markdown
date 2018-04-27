@@ -32,7 +32,7 @@ section1-content: "<p>Celebrating its very first year, RiZE Festival brings toge
 section2-content: "<p>The prize includes a pair of VIP weekend tickets so the winner\
   \ will have access to the VIP area which is the heart of the festival and the place\
   \ to be!</p> <p>Liam Gallagher & Stereophonics will be headlining and other artists\
-  \ announced include Rag N Bone Man, Rita Ora, James Bay, Years & Years, Bastille,\
+  \ announced include Rag'n'Bone Man, Rita Ora, James Bay, Years & Years, Bastille,\
   \ Miles Kane and many more…</p>"
 section3-content: "<p>A mini festival within the festival, access to the festival’\
   s VIP Area includes: Street Food Stalls where you can buy delicious food*, VIP Bar\
