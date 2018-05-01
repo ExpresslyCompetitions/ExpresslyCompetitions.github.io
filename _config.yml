@@ -58,6 +58,8 @@ clubs:
       ga-code:        "UA-110278937-3"
       ga-domain:      "cyclingweekly.buyexpressly.com"
       brand-nav-include: cyclingweekly-nav-bar.html
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
   expressly_club: &EXPRESSLY_CLUB
       campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
@@ -98,6 +100,8 @@ clubs:
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
       brand-nav-include: nme-nav-bar.html
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
   trustedreviews_club: &TRUSTEDREVIEWS_CLUB
       campaigns:      "club_trustedreviews_campaigns"
       pages:          "club_trustedreviews_pages"
@@ -117,6 +121,8 @@ clubs:
       domain-migrations-enabled: true
       ga-code:        "UA-110278937-2"
       ga-domain:      "trustedreviews.buyexpressly.com"
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
 #      brand-nav-include: nme-nav-bar.html
 
 defaults:
