@@ -47,6 +47,7 @@ entry-title: "Win FREE gig tickets to see Sea Girls and BLOXX at NME HQ in Londo
 entry-content: "Complete the form below to dance along to some banging tunes courtesy\
   \ of Sea Girls and BLOXX at the next NME Lock In in association with 19 Crimes Winery\
   \ at NME's HQ in London."
+entry-extension: "nme/sea-girls-free-tickets-nme-hq.html"
 has-winner: false
 prize-description: "One pair of 35 tickets to see Sea Girls and BLOXX at NME HQ."
 prize-restrictions: "Over 18s only and ID will be required."
