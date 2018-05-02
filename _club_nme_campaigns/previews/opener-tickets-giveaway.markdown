@@ -9,8 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "WIN a pair of tickets with camping to Open'er Festival 2018"
 competition-description: "That's right. We have a pair of tickets to Poland's 2018\
-  \ Open'er Festival (plus camping) to give away, and we want you to get involved."
-hero-header: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
+  \ Open'er Festival PLUS camping to give away, and we want you to get involved."
+hero-header: "WIN a pair of tickets with camping to Open'er Festival 2018"
 terms-confirmation: "OpenerCompetitionTermsConditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-aded3b98-9f1a-4912-b681-162d4967fdb3.jpg"
 logo-left-href: "https://opener.pl/en"
