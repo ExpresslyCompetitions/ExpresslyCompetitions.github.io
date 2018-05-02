@@ -7,7 +7,7 @@ end-date: "2018-05-24T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
+title: "WIN a pair of tickets with camping to Open'er Festival 2018"
 competition-description: "That's right. We have a pair of tickets to Poland's 2018\
   \ Open'er Festival (plus camping) to give away, and we want you to get involved."
 hero-header: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
@@ -35,7 +35,7 @@ section3-content: "<p>(Cue shameless name-dropping), Arctic Monkeys, Gorillaz, D
   \ of a banging summer festival.</p>\r\n<p>Plus, budget airlines such as Ryanair\
   \ fly direct to the festival, so you won't have to drop a wad of cash to get there.</p>\r\
   \n<p>Fancy it? Just complete the form below...</p>"
-entry-title: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
+entry-title: "WIN a pair of tickets with camping to Open'er Festival 2018"
 entry-content: "Yes, I want to attend Open'er Festival 2018. Please complete the form\
   \ below before 24/05/18 at 23:59 to be in with a chance of bagging a pair of tickets."
 has-winner: false
