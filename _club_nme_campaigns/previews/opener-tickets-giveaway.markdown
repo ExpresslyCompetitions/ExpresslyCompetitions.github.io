@@ -2,7 +2,7 @@
 campaign-uuid: "c-df2ce163-be1c-40ae-a805-15cf5d7cc84b"
 type: "Preview"
 category: "Tickets"
-date: "2018-05-02T08:56:57.807Z"
+date: "2018-05-03T17:00:00.000Z"
 end-date: "2018-05-24T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -11,7 +11,7 @@ title: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
 competition-description: "That's right. We have a pair of tickets to Poland's 2018\
   \ Open'er Festival (plus camping) to give away, and we want you to get involved."
 hero-header: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
-terms-confirmation: "N/A"
+terms-confirmation: "Open'er Competition Terms & Conditions V2 2.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-aded3b98-9f1a-4912-b681-162d4967fdb3.jpg"
 logo-left-href: "https://opener.pl/en"
 logo-left-image: "https://assets.expresslyapp.com/asset-0d4c9f03-5f3f-4ec3-b2fd-d13809fbfba8.jpg"
