@@ -34,8 +34,8 @@ section1-content: "<p>BFI Champion Membership is one of the best ways to enjoy a
   >all the benefits here</a></p>"
 section2-content: "<p>BFI player gives you access to the greatest global cinema on\
   \ demand.</p>\r\n<p>Rent the latest releases, subscribe to classics and explore\
-  \ the best from the BFI, national and regional archives.</p>\r\n<p>Pictured: the\
-  \ Handmade</p>"
+  \ the best from the BFI, national and regional archives.</p>\r\n<p>Pictured: The\
+  \ Housemaid</p>"
 entry-title: "Win a BFI Champion and Player membership for 1 year worth £300"
 entry-content: "Complete the form below to win a year of BFI Champion membership and\
   \ Player subscription for 1 year worth £300. Valid entries have to be submitted\
