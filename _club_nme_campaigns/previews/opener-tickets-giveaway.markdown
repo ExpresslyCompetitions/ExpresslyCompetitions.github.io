@@ -28,12 +28,12 @@ section1-content: "<p>Oh yes, it's that time of the year again and we want to of
 section2-content: "Happening at Poland's Gdynia-Kosakowo Airport over a whopping four\
   \ days (4th-7th July 2018), the Open'er Festival has bagged some pretty impressive\
   \ headliners – most of which you'd pay £££ to see here in the UK.."
-section3-content: "(Cue shameless name-dropping), Arctic Monkeys, Gorillaz, Depeche\
+section3-content: "<p>(Cue shameless name-dropping), Arctic Monkeys, Gorillaz, Depeche\
   \ Mode, Massive Attack and Nick Cave are just some of the major headliners setting\
   \ off our festi-radars across Open'er's three stages – add to that the multitude\
   \ of other acts, an onsite cinema, museum and fashion zone, and you've got the makings\
-  \ of a banging summer festival.\r\n<p>Plus, budget airlines such as Ryanair fly\
-  \ direct to the festival, so you won't have to drop a wad of cash to get there.</p>\r\
+  \ of a banging summer festival.</p>\r\n<p>Plus, budget airlines such as Ryanair\
+  \ fly direct to the festival, so you won't have to drop a wad of cash to get there.</p>\r\
   \n<p>Fancy it? Just complete the form below...</p>"
 entry-title: "WIN a pair of tickets (with camping) to Open'er Festival 2018"
 entry-content: "Yes, I want to attend Open'er Festival 2018. Please complete the form\
