@@ -28,10 +28,11 @@ section1-content: "The Oomph brews your blend beautifully, producing an incredib
   \ rich and smooth coffee in under 2 minutes making it perfect for those grab and\
   \ go mornings. Active stirring mixes the coffee as it is brewed, making the last\
   \ sip taste as good as the first."
-section2-content: "The Oomph’s intelligent, self-contained design utilizes every millimeter\
-  \ of available space. Acting as a filter, piston brewer and drinking flask all in\
-  \ one, it can hold up to 2 cups of coffee and every component is completely reusable.\
-  \ At home or on the move, the Oomph is the only brewing device you’ll ever need."
+section2-content: "<p>The Oomph’s intelligent, self-contained design utilizes every\
+  \ millimeter of available space. Acting as a filter, piston brewer and drinking\
+  \ flask all in one, it can hold up to 2 cups of coffee and every component is completely\
+  \ reusable.</p>\r\n<p>At home or on the move, the Oomph is the only brewing device\
+  \ you’ll ever need.</p>"
 section3-content: "<p>Good coffee shouldn’t be confined to cafés and kitchens so think\
   \ no more and enter the draw below for a chance to win the amazing Oomph Advanced\
   \ Coffee Maker and enjoy the best taste from their delicious coffees anywhere!</p>\r\
