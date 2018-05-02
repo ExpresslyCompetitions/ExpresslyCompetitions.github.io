@@ -7,7 +7,7 @@ end-date: "2018-05-30T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a BFI Champion and Player membership for 1 year worth £300"
+title: "Win a BFI Champion membership and Player subscription for 1 year worth £300"
 competition-description: "BFI is the British cinema best-known icon and can give you\
   \ access to the best British and Global movies. <br />\r\nBFI Champion Membership\
   \ is one of the best ways to experience the BFI and enjoy extra priority access\
@@ -15,7 +15,8 @@ competition-description: "BFI is the British cinema best-known icon and can give
   \ every quarter. <br />\r\nBFI Player gives you access to the greatest global cinema\
   \ on demand. You can rent the latest releases, subscribe to classics and explore\
   \ the best from the BFI, national and regional archives."
-hero-header: "Win a BFI Champion and Player membership for 1 year worth £300"
+hero-header: "Win a BFI Champion membership and Player subscription for 1 year worth\
+  \ £300"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-17fcb570-3e76-4437-ad91-15f56fb4a590.jpg"
 logo-left-href: "https://player.bfi.org.uk/"
@@ -36,7 +37,8 @@ section2-content: "<p>BFI player gives you access to the greatest global cinema 
   \ demand.</p>\r\n<p>Rent the latest releases, subscribe to classics and explore\
   \ the best from the BFI, national and regional archives.</p>\r\n<p>Pictured: The\
   \ Housemaid</p>"
-entry-title: "Win a BFI Champion and Player membership for 1 year worth £300"
+entry-title: "Win a BFI Champion membership and Player subscription for 1 year worth\
+  \ £300"
 entry-content: "Complete the form below to win a year of BFI Champion membership and\
   \ Player subscription for 1 year worth £300. Valid entries have to be submitted\
   \ by 23:59 on May 31st."
