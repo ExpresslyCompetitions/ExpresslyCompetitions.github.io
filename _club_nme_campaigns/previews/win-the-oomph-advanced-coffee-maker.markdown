@@ -2,7 +2,7 @@
 campaign-uuid: "c-70b2350b-e1e9-4103-b67b-8b93dfe1ead9"
 type: "Preview"
 category: "Gifts"
-date: "2018-05-02T10:26:56.928Z"
+date: "2018-05-02T10:26:57.000Z"
 end-date: "2018-06-03T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -38,8 +38,8 @@ section3-content: "<p>Good coffee shouldn’t be confined to cafés and kitchens
   \n\r\n<p>Good luck!</p>"
 entry-title: "Win the ultimate portable coffee maker, The Oomph Advanced Coffee Maker!"
 entry-content: "<p>Enter the draw to win the toy your coffee was waiting for! The\
-  \ Oomph Advanced Coffee Maker! by completing the form below before 23:59 on 3th\
-  \ June 2018.</p>"
+  \ Oomph Advanced Coffee Maker! by completing the form below before 23:59 on 3rd\
+  \  June 2018.</p>"
 has-winner: false
 prize-description: "An Oomph Advanced Coffee Maker!"
 ---
