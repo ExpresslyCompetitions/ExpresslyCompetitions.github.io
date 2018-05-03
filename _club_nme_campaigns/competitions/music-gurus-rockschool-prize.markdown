@@ -48,6 +48,9 @@ entry-content: "<p>Enter the draw to win any MusicGurus online video course (inc
   \ the newest Rockschool Drums course) plus 3 personal lessons on MusicGurus by completing\
   \ the form below before 23:59 on 11 April 2018.</p>"
 has-winner: false
+winner-title: "CONGRATULATIONS to the first 2 winners: Maddie King & Theo Davey who\
+  \ won an amazing course and lessons with MusicGurus!"
+winner-banner: "https://assets.expresslyapp.com/asset-3262ddb8-ab92-4052-9639-81cfe4cf266a.jpg"
 prize-description: "One of 3 \"Rockschool video course of choice including 3 personal\
   \ online lessons from an expert teacher\", indicatively worth £100 (depending on\
   \ the actual winner's choice of course and tutor)"

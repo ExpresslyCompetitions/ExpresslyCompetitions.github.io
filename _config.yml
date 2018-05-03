@@ -44,7 +44,7 @@ clubs:
       club-name:      "Cycling Weekly Club"
       club_url:       "https://cyclingweekly.buyexpressly.com"
       club_dir:       "/cyclingweekly/club"
-      club-copyright: "&copy; 2018 Expressly Limited"
+#      club-copyright: "&copy; 2018 Expressly Limited"
       club-logo-nav:  "cyclingweekly-logo.png"
       company-name:   "Time Inc. UK"
       company-url:    "http://www.cyclingweekly.com"
@@ -58,6 +58,8 @@ clubs:
       ga-code:        "UA-110278937-3"
       ga-domain:      "cyclingweekly.buyexpressly.com"
       brand-nav-include: cyclingweekly-nav-bar.html
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
   expressly_club: &EXPRESSLY_CLUB
       campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
@@ -83,7 +85,7 @@ clubs:
       club-name:      "NME AAA"
       club_url:       "https://aaa.nme.com"
       club_dir:       "/nme/club"
-      club-copyright: "&copy; 2018 Expressly Limited"
+#      club-copyright: "&copy; 2018 Expressly Limited"
       club-logo-nav:  "nme-aaa-logo.svg"
       company-name:   "Time Inc. UK"
       company-url:    "https://www.timeincuk.com/"
@@ -98,13 +100,15 @@ clubs:
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
       brand-nav-include: nme-nav-bar.html
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
   trustedreviews_club: &TRUSTEDREVIEWS_CLUB
       campaigns:      "club_trustedreviews_campaigns"
       pages:          "club_trustedreviews_pages"
       club-name:      "TrustedReviews Insider"
       club_url:       "https://trustedreviews.buyexpressly.com"
       club_dir:       "/trustedreviews/club"
-      club-copyright: "&copy; 2018 Expressly Limited"
+#      club-copyright: "&copy; 2018 Expressly Limited"
       club-logo-nav:  "trustedreviews-logo.svg"
       company-name:   "Time Inc. UK"
       company-url:    "https://www.timeincuk.com/"
@@ -117,6 +121,8 @@ clubs:
       domain-migrations-enabled: true
       ga-code:        "UA-110278937-2"
       ga-domain:      "trustedreviews.buyexpressly.com"
+      privacy-url:    "http://www.timeincuk.com/privacy/"
+      terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
 #      brand-nav-include: nme-nav-bar.html
 
 defaults:

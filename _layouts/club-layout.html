@@ -157,8 +157,10 @@
                 <div class="text-center text-md-left small">
                     <nav class="nav footer-nav justify-content-center justify-content-md-start flex-column flex-md-row">
                         <a class="nav-link py-0" href="{{club_base}}">Home</a>
-                        <a class="nav-link py-0" href="{{club_base}}/privacy">Privacy Policy</a>
-                        <a class="nav-link py-0" href="{{club_base}}/terms">Terms and Conditions</a>
+                        {% assign privacy-url-default = club_base | append: '/privacy' %}
+                        <a class="nav-link py-0" href="{{page.privacy-url | default: privacy-url-default}}">Privacy Policy</a>
+                        {% assign terms-url-default = club_base | append: '/terms' %}
+                        <a class="nav-link py-0" href="{{page.terms-url | default: terms-url-default}}">Terms and Conditions</a>
                         <a class="nav-link py-0" href="{{club_base}}/contact-us">Contact Us</a>
                     </nav>
                 </div>
