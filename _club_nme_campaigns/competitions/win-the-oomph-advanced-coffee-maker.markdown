@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-70b2350b-e1e9-4103-b67b-8b93dfe1ead9"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-05-03T17:00:00.000Z"
 end-date: "2018-06-03T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the ultimate portable coffee maker, The Oomph Advanced Coffee Maker!"
 competition-description: "<p>If coffee it’s your favorite co-worker, we have great\
