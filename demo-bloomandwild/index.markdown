@@ -7,7 +7,7 @@ disable-form: false
 
 ga-code: ""
 title: "Win 12 months of flowers from Bloom &amp; Wild"
-hero-header: "Win 12 months of flowers from Bloom &amp; Wild
+hero-header: "Win 12 months of flowers from Bloom &amp; Wild"
 hero-subheader: ""
 terms-confirmation: >
    I agree to the competition T&C
