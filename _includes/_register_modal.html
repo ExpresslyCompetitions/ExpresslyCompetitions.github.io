@@ -11,6 +11,7 @@
                 <div class="container">
                 <form id="form--register">
                     <input type="hidden" name="rememberMe" value="true" />
+                    <input type="hidden" name="version" value="1" />
                     {% assign form_input_id_prefix = 'form--register--' %}
                     {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
                     {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
@@ -20,7 +21,21 @@
                     {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
                     {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
                     {% include form_input_text.html id="password" label="Password" type="password" required="true" placeholder="Enter a password" autocomplete="new-password" error="Please enter a password for your account. It must be at least 8 characters long" maxlength="64" pattern=".{8,}"%}
-                    {% include form_input_checkbox.html id="optin" label="I agree to the Terms and Conditions" required="true" %}
+                    {% capture terms_checkbox_label %}
+                            By signing-up, you agree to become a club member of  {{ page.club-name }}.  As a club member of
+                            {{ page.club-name }}, you'll receive weekly email updates about offers and competitions available
+                            to members. You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
+                            <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
+                                <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout" />
+                                <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
+                            </label>
+                    {% endcapture %}
+                    <div class="small">
+                        {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
+                        {% include optin-fragment.html
+                            optin2p-hide=page.optin2p-create-hide
+                            optin3p-hide=page.optin3p-create-hide%}
+                    </div>
                     {% assign form_input_id_prefix = '' %}
                 </form>
                 </div>

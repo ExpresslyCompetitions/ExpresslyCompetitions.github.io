@@ -60,6 +60,9 @@ clubs:
       brand-nav-include: cyclingweekly-nav-bar.html
       privacy-url:    "http://www.timeincuk.com/privacy/"
       terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
+      optin2p-label-override: "Please email me with special offers and news from Cycling Weekly and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
+      optin2p-update-hide: true
+      optin3p-update-hide: true
   expressly_club: &EXPRESSLY_CLUB
       campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
@@ -79,6 +82,10 @@ clubs:
       domain-migrations-enabled: false
       ga-code:        "UA-102915329-1"
       ga-domain:      "club.buyexpressly.com"
+      optin2p-create-hide: true
+      optin3p-create-hide: true
+      optin2p-update-hide: true
+      optin3p-update-hide: true
   nme_club: &NME_CLUB
       campaigns:      "club_nme_campaigns"
       pages:          "club_nme_pages"
@@ -102,6 +109,9 @@ clubs:
       brand-nav-include: nme-nav-bar.html
       privacy-url:    "http://www.timeincuk.com/privacy/"
       terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
+      optin2p-label-override: "Please email me with special offers and news from NME and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
+      optin2p-update-hide: true
+      optin3p-update-hide: true
   trustedreviews_club: &TRUSTEDREVIEWS_CLUB
       campaigns:      "club_trustedreviews_campaigns"
       pages:          "club_trustedreviews_pages"
@@ -123,6 +133,9 @@ clubs:
       ga-domain:      "trustedreviews.buyexpressly.com"
       privacy-url:    "http://www.timeincuk.com/privacy/"
       terms-url:      "http://www.timeincuk.com/terms-and-conditions/"
+      optin2p-label-override: "Please email me with special offers and news from Trusted Reviews and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
+      optin2p-update-hide: true
+      optin3p-update-hide: true
 #      brand-nav-include: nme-nav-bar.html
 
 defaults:

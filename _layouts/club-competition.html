@@ -84,6 +84,8 @@ active: selected-competitions
                             <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
                             <input type="hidden" name="emailEntrant" value="true" />
                             <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
+                            <input type="hidden" id="version" name="version" value="1"/>
+
                             {% assign form_input_id_prefix = 'form--competition--' %}
                             {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
                             {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
@@ -95,13 +97,37 @@ active: selected-competitions
                             {% if page.entry-extension %}
                                 {% include extensions/{{ page.entry-extension }} %}
                             {% endif %}
+
                             {% if page.terms-confirmation == 'N/A' %}
                                 {% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{% endcapture %}
                             {% else %}
                                 {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}" target="_blank">{% endcapture %}
                             {% endif %}
-                            {% capture terms_checkbox_label %}I agree to the {{ page.type  | downcase }} {{terms_checkbox_link}}Terms and Conditions</a><span class="logged-out-only"> and to create an account with {{ page.club-name }}</span>{% endcapture %}
-                            {% include form_input_checkbox.html id="optin" label=terms_checkbox_label required="true" %}
+
+                             <div class="small">
+                                {% capture terms_checkbox_label %}
+                                    <span class="logged-in-only">
+                                        I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+                                    </span>
+                                    <span class="logged-out-only">
+                                        By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+                                        and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
+                                        you'll receive weekly email updates about offers and competitions available to members.
+                                        You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
+                                        <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
+                                            <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout" />
+                                            <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
+                                        </label>
+                                    </span>
+                                {% endcapture %}
+                                {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
+
+                                <div class="logged-out-only">
+                                    {% include optin-fragment.html
+                                        optin2p-hide=page.optin2p-create-hide
+                                        optin3p-hide=page.optin3p-create-hide%}
+                                </div>
+                            </div>
                             {% assign form_input_id_prefix = '' %}
                         </form>
                         <div class="text-center pt-3">

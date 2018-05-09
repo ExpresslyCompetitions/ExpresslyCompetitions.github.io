@@ -1,0 +1,22 @@
+{% if include.optin2p-hide != true and include.optin2p-hide != 'true' %}
+    {% assign optin2p-label = 'Please email me with special offers and news from  ' | append: page.parent-website-name | append: '. You can unsubscribe at any time.' %}
+    {% if page.optin2p-label-override %}{% assign optin2p-label = page.optin2p-label-override %}{% endif %}
+    {% include form_input_checkbox.html id="optin2p" label=optin2p-label %}
+{% else %}
+    <input type="hidden" name="optin2p" />
+{% endif %}
+{% if include.optin3p-hide != true and include.optin3p-hide != 'true' %}
+    {% assign optin3p-label = 'Please keep me up to date with special offers and news just by email from carefully selected companies. Your personal details will not be shared with those companies - we send the emails and you can unsubscribe at any time.' %}
+    {% if page.optin3p-label-override %}{% assign optin3p-label = page.optin3p-label-override %}{% endif %}
+    {% include form_input_checkbox.html id="optin3p" label=optin3p-label %}
+{% else %}
+    <input type="hidden" name="optin3p" />
+{% endif %}
+{% assign privacy-url-default = club_base | append: '/privacy' %}
+{% assign terms-url-default = club_base | append: '/terms' %}
+<div class="text-center pt-3 safety-message">
+    Your personal details are safe with us.<br>
+    <a href="{{page.privacy-url | default: privacy-url-default}}" target="_blank">Privacy Policy</a> |
+    <a href="{{page.terms-url | default: terms-url-default}}" target="_blank">Terms and Conditions</a>
+</div>
+
