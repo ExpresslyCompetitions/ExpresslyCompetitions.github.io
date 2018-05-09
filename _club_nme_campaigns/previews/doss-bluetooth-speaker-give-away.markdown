@@ -2,7 +2,7 @@
 campaign-uuid: "c-23e27304-6a5f-4727-ad10-91b4c55db543"
 type: "Preview"
 category: "Gift"
-date: "2018-05-09T11:23:41.858Z"
+date: "2018-05-09T11:23:42.000Z"
 end-date: "2018-06-09T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -25,11 +25,11 @@ bg-image-second: "https://assets.expresslyapp.com/asset-f69df065-0cc4-4379-9e66-
 bg-image-third: "https://assets.expresslyapp.com/asset-a91467de-b3ad-480f-8b85-c0c34e3d0266.jpg"
 section1-content: "Powerful, superior and unique are the three perfect words to describe\
   \ this new technological portable speaker! There are too many speakers in the market,\
-  \ so hard for them to stand out but this one is totally a MUST."
+  \ so hard for them to stand out but this one is totally a MUST!"
 section2-content: "Compatible with all Bluetooth-enabled devices, Superior sound quality,\
   \ Sensitive touch button with Laser Carving finish, Ultra-compact that can easily\
   \ be slipped everywhere, Rechargeable battery supply to a 12 hours continuous play\
-  \ with high-quality, that enrich your ears all the time & many more!"
+  \ with high-quality that enrich your ears all the time & many more!"
 section3-content: "<p>If you’re looking for amazing music and elegant control, complete\
   \ the draw below for a chance to win the brand new Doss SoundBox Bluetooth speaker\
   \ and it could be coming home with you!</p>\r\n<p>Good luck</p>"
