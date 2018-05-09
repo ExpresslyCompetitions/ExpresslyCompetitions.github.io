@@ -32,7 +32,7 @@ section2-content: "Compatible with all Bluetooth-enabled devices, Superior sound
   \ with high-quality that enrich your ears all the time & many more!"
 section3-content: "<p>If you’re looking for amazing music and elegant control, complete\
   \ the draw below for a chance to win the brand new Doss SoundBox Bluetooth speaker\
-  \ and it could be coming home with you!</p>\r\n<p>Good luck</p>"
+  \ and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the ultimate DOSS SoundBox Bluetooth speaker!"
 entry-content: "<p>Enter the draw to win the speakers your ears deserve, DOSS SoundBox\
   \ Bluetooth speaker! by completing the form below before 23:59 on 9th  June 2018.</p>"
