@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-23e27304-6a5f-4727-ad10-91b4c55db543"
-type: "Preview"
+type: "Competition"
 category: "Gift"
-date: "2018-05-10T16:00:00.000Z"
+date: "2018-05-10T14:00:00.000Z"
 end-date: "2018-06-09T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the ultimate DOSS SoundBox Bluetooth speaker!"
 competition-description: "<p>In need to find the perfect speaker to make your party\
