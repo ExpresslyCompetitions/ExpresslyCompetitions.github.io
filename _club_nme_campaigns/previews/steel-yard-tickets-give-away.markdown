@@ -7,13 +7,13 @@ end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a pair of weekend tickets to Steel Yard London Weekender!"
+title: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekender!"
 competition-description: "<p>Get ready: we have the perfect plan for YOU this coming\
   \ May Bank Holiday weekend! Following last year’s sell out success in Victoria Park,\
   \ Steel Yard is back, this time taking over Finsbury Park to dominate the capital’\
-  s skyline once again and we’ve managed to get our hands on 3 pairs of weekend tickets\
-  \ for 3 lucky NME readers to win!</p>\r\n<p>Wanna be there now?</p>"
-hero-header: "Win a pair of weekend tickets to Steel Yard London Weekender!"
+  s skyline once again and we’ve managed to get our hands on 5 pairs of weekend tickets\
+  \ for 5 lucky NME readers to win!</p>\r\n<p>Wanna be there now?</p>"
+hero-header: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekender!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-bf066666-f088-4b42-bcb8-38a286ef5836.jpg"
 logo-left-href: "https://www.creamfields.com/steelyardlondon"
@@ -40,7 +40,7 @@ section3-content: "Fancy coming with us? Competition closes on Thursday 17 May a
   \ 23:59 so complete the form below for a chance to win a pair of weekend tickets\
   \ and you could be spending your next May Bank Holiday weekend at Steel Yard thanks\
   \ to NME!"
-entry-title: "Win a pair of weekend tickets to Steel Yard London Weekender!"
+entry-title: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekender!"
 entry-content: "<p>Hurry up! Complete the form below before May 17th at 23:59 to be\
   \ in with a chance to rock out with Steel Yard in Finsbury Park next May Bank Holiday\
   \ weekend!</p>"
