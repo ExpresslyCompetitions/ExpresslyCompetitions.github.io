@@ -5,7 +5,7 @@ category: "Food"
 date: "2018-04-05T14:09:51.000Z"
 end-date: "2018-04-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a Matcha preparing kit and some delicious teas from Yumchaa!"
 competition-description: "<p>If you are one of those who thinks that tea is a hug\
