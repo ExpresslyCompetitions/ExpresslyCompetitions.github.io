@@ -33,9 +33,8 @@ section2-content: >
   <p>Bloom & Wild have a range of bouquets to suit every occasion from Birthday blooms, letterbox plants to hand-tied seasonal bouquets.</p>
 
 
-entry-title: "Win 12 months of flowers from Bloom &amp; Wild"
+entry-title: "Create your Telegraph Account"
 entry-content: >
-    <p>Let us brighten your week, with a delivery of fresh flowers every week for a year, one lucky winner will receive a 12-month Bloom & Wild lux letterbox subscription.</p>
-    <p>Enter the draw before 23.59 on 31st October 2018 to win. [THIS IS A DEMO]</p>
+    <p>To create your Telegraph account simply fill in the short form below. [THIS IS A DEMO]</p>
 ---
 

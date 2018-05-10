@@ -1,5 +1,158 @@
 ---
 ---
 
-$brand-colour: #00796B;
+$brand-colour: #c38419;
+$alt-colour: #9E6710;
 @import "common";
+
+@font-face {
+  font-family: 'Austin News Deck Medium';
+  src: url('telegraph-fonts/Austin-News-Deck-Web-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Austin News Text Roman';
+  src: url('telegraph-fonts/Austin-News-Text-Web-Roman.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Telesans Text Regular';
+  src: url('telegraph-fonts/Telesans-Text-Web-Regular.woff2') format('woff2');
+}
+
+p, table {
+  font-family: "Austin News Text Roman",Georgia,Times,serif;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+}
+
+a {
+  color: $brand-colour !important;
+
+  &:hover {
+    color: $alt-colour !important;
+  }
+
+  &:link, &:focus, &:active, &:visited {
+    color: $brand-colour !important;
+  }
+}
+
+.btn {
+  border-radius: 0 !important;
+  font-family: "Telesans Text Regular",Arial,sans-serif !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  padding: 11px 30px !important;
+
+  &.btn-primary {
+    background-color: $brand-colour !important;
+    border-color: $brand-colour !important;
+    color: #ffffff !important;
+    transition: .25s;
+
+    &:hover, &:active, &:focus {
+      background-color: $alt-colour !important;
+      border-color: $alt-colour !important;
+      color: #ffffff !important;
+    }
+  }
+}
+
+hr {
+  background-color: $brand-colour !important;
+}
+
+h2 {
+  &.title {
+    font-family: "Austin News Deck Medium",Georgia,Times,serif;
+    color: $brand-colour;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    text-align: left !important;
+  }
+  & ~ p {
+    font-family: "Austin News Text Roman",Georgia,Times,serif;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+    text-align: left !important;
+  }
+}
+
+form {
+  &#form--competition {
+    font-family: "Telesans Text Regular",Arial,sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+
+    label, input, textarea, select, .dob-control {
+      font-family: "Telesans Text Regular",Arial,sans-serif !important;
+      font-size: 0.9rem !important;
+      line-height: 1.3rem!important;
+
+      &:focus {
+        outline: none !important;
+      }
+    }
+
+    input, select, textarea, .dob-control {
+      border-radius: 0 !important;
+      background: none !important;
+      border: 1px solid $brand-colour !important;
+    }
+
+    .dob-control {
+      width: inherit !important;
+      input {
+        background: none !important;
+        border: none !important;
+      }
+    }
+
+    .custom-control {
+      &:focus {
+        outline: none !important;
+      }
+
+      .custom-control-indicator {
+        background-color: $brand-colour !important;
+        border-radius: 0 !important;
+        outline: none !important;
+        box-shadow: none !important;
+        top: .1rem !important;
+        &:focus {
+          outline: none !important;
+        }
+      }
+    }
+
+    label {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      flex: none;
+
+      &+div {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        flex: none;
+      }
+    }
+
+    .address-fields {
+      &+.form-group {
+        .col-sm-3 {
+          display: none;
+        }
+      }
+    }
+
+    &+div {
+      .btn {
+        &.btn-primary {
+          display: block;
+          width: 100%;
+        }
+      }
+    }
+  }
+}
