@@ -9,7 +9,7 @@ title: "Win 12 months of flowers from Bloom &amp; Wild"
 hero-header: "Win 12 months of flowers from Bloom &amp; Wild"
 hero-subheader: ""
 terms-confirmation: >
-    I agree to the competition T&C
+    By signing-up, you agree to the specific competition T&Cs and to become a registered user of the Telegraph Group. You'll have access to offers and competitions available to registered users. <a href="https://www.telegraph.co.uk/topics/about-us/3692012/Terms-and-Conditions.html">Terms&Conditions</a> <a href="https://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy Policy</a>
 
 logo-left-href: "http://www.telegraph.co.uk/"
 logo-left-image: "e768d78d-4306-44df-a177-ea3e8b6f146d-thumb.png"
