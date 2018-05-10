@@ -12,7 +12,7 @@ competition-description: "<p>In need to find the perfect speaker to make your pa
   \ stand out? We have the ONE for YOU! Here comes the ultimate and innovative DOSS\
   \ SoundBox Bluetooth speaker with Wireless Bluetooth, HD sound, Handsfree… and more\
   \ features to know!</p> \r\n<p>Click on the link below for a chance to win The DOSS\
-  \ Soundbox speaker and enjoy an extraordinary audiovisual experience!</p>"
+  \ SoundBox speaker and enjoy an extraordinary audiovisual experience!</p>"
 hero-header: "Win the ultimate DOSS SoundBox Bluetooth speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0589d91b-35db-4b0c-bdba-d76cd0d3ed8b.jpg"
