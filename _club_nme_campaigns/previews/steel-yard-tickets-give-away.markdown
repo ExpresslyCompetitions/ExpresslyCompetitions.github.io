@@ -37,9 +37,9 @@ section2-content: "The award-winning Steel Yard superstructure was designed and 
   \ for electronic music fans. Featuring ground breaking technology and production,\
   \ Steel Yard has become a unique and exciting addition to the festival calendar."
 section3-content: "Fancy coming with us? Competition closes on Thursday 17 May at\
-  \ 23:59 so complete the form below for a chance to win a pair of weekend tickets\
-  \ and you could be spending your next May Bank Holiday weekend at Steel Yard thanks\
-  \ to NME!"
+  \ 23:59 so complete the form below for a chance to win one of 5 pairs of weekend\
+  \ tickets and you could be spending your next May Bank Holiday weekend at Steel\
+  \ Yard thanks to NME!"
 entry-title: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekender!"
 entry-content: "<p>Hurry up! Complete the form below before May 17th at 23:59 to be\
   \ in with a chance to rock out with Steel Yard in Finsbury Park next May Bank Holiday\
