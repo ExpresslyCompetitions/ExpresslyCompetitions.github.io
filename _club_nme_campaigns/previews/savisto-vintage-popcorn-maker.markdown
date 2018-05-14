@@ -2,16 +2,16 @@
 campaign-uuid: "c-adf0752a-2e00-4d11-a183-3a46438ecc35"
 type: "Preview"
 category: "Gift"
-date: "2018-05-14T11:25:43.939Z"
+date: "2018-05-14T11:25:44.000Z"
 end-date: "2018-06-14T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win the Savisto Vintage Retro Hot Air Popcorn Maker!"
-competition-description: "If you’re craving some delicious cinema style popcorn or\
-  \ looking for a healthier alternative to shop bought popcorn, look no further than\
-  \ the Savisto popcorn maker! the perfect machine for movie nights in, house parties\
-  \ or special moments!"
+competition-description: "<p>If you’re craving some delicious cinema style popcorn\
+  \ or looking for a healthier alternative to shop bought popcorn, look no further\
+  \ than the Savisto popcorn maker! the perfect machine for movie nights in, house\
+  \ parties or special moments!</p>\r\n<p>Want it?</p>"
 hero-header: "Win the Savisto Vintage Retro Hot Air Popcorn Maker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-707fc5f3-508d-4eee-a529-5dede3652493.jpg"
