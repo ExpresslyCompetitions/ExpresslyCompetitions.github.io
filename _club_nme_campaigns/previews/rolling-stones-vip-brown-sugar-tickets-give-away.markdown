@@ -18,7 +18,7 @@ competition-description: "<p>\"There is no stopping us” and just like they pro
 hero-header: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No\
   \ Filter’ Tour in London!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-29506aea-94d8-4ee4-9b28-8b30b3397431.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-20c0e09e-1fae-41da-ba23-9dbb5a8fbb6e.jpg"
 logo-left-href: "http://www.rollingstones.com/tickets/"
 logo-left-image: "https://assets.expresslyapp.com/asset-ce75c925-7d00-4672-ace8-97d84af13c1d.jpg"
 logo-left-title: "Stones NoFilter."
@@ -34,15 +34,15 @@ section1-content: "<p>Over the past eighteen months the Rolling Stones have been
   , ‘Paint It Black’, ‘Tumbling Dice’ & ‘Brown Sugar’ and that is just the beginning!</p>"
 section2-content: "<p>We’ve managed to get our hands on 2 VIP Brown Sugar tickets\
   \ to their massive concert on Friday May 25th at London Stadium! The VIP Brown Sugar\
-  \ tickets include:</p>\r\n\r\n<p>One Amazing Golden Circle General Admission Pitch\
-  \ Ticket\r\n\t•\tPackage Includes Early Entry and First Access to Your Section</p>\r\
-  \n<p>One Limited Edition The Rolling Stones Tour Lithograph\r\n\t•\tLimited Edition\
-  \ Tour Lithograph Based Upon Original The Rolling Stones Artwork\r\n\t•\tAll Limited\
-  \ Edition Lithographs Printed on Heavy Weight, Acid Free Fine Art Paper</p>\r\n\
-  <p>The Rolling Stones VIP Travel Pack\r\n\t•\tCreated Exclusively For VIP Package\
-  \ Purchasers - Includes Items You’d Take “On the Road”\r\n\t•\tTravel Pack Contains\
-  \ an Assortment of Exclusive The Rolling Stones Themed Merchandise and Includes\
-  \ a Commemorative VIP Laminate & Matching Lanyard</p>"
+  \ tickets include:</p>\r\n\r\n<p>• One Amazing Golden Circle General Admission Pitch\
+  \ Ticket (package Includes Early Entry and First Access to Your Section)</p>\r\n\
+  <p>• One Limited Edition The Rolling Stones Tour Lithograph (limited Edition Tour\
+  \ Lithograph Based Upon Original The Rolling Stones Artwork, all Limited Edition\
+  \ Lithographs Printed on Heavy Weight, Acid Free Fine Art Paper)</p>\r\n<p>• The\
+  \ Rolling Stones VIP Travel Pack (created Exclusively For VIP Package Purchasers\
+  \ - Includes Items You’d Take “On the Road'', travel Pack Contains an Assortment\
+  \ of Exclusive The Rolling Stones Themed Merchandise and Includes a Commemorative\
+  \ VIP Laminate & Matching Lanyard</p>"
 section3-content: "<p>The Rolling Stones are coming to town to bring a spectacular\
   \ production and state of the art stage design! If you don’t want to miss this special\
   \ occasion, enter the draw below for a chance to win a pair of 2 VIP Brown Sugar\
