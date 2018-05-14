@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
   \ Tour in London!"
-competition-description: "<p>\"There is no stopping us” and just like the promissed,\
+competition-description: "<p>\"There is no stopping us” and just like they promissed,\
   \ The Rolling Stones are back on the road again with massive concerts around UK,\
   \ Ireland, France, Germany, Czech Republic & Poland and they’re stopping at home\
   \ on Friday May 25th at London Stadium and we want YOU to be there! We’ve got our\
