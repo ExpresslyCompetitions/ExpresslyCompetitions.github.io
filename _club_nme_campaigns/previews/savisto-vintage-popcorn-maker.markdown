@@ -34,7 +34,7 @@ section2-content: "<p>Making fresh popcorn couldn’t be easier! Once cooked, ad
   \  Enter the draw below for a chance to win!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the Savisto Vintage Retro Hot Air Popcorn Maker!"
 entry-content: "<p>Enter the draw to win the Savisto Vintage Retro Hot Air Popcorn\
-  \ Maker and create your own cinema at home! by completing the form below before\
+  \ Maker and create your own cinema at home! By completing the form below before\
   \ 23:59 on June 14th 2018.</p>"
 has-winner: false
 prize-description: "A Savisto Vintage Retro Hot Air Popcorn Maker!"
