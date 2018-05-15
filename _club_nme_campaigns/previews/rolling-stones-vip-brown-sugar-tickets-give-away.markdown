@@ -20,7 +20,7 @@ hero-header: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones â€
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-20c0e09e-1fae-41da-ba23-9dbb5a8fbb6e.jpg"
 logo-left-href: "http://www.rollingstones.com/tickets/"
-logo-left-image: "https://assets.expresslyapp.com/asset-fbaf20e9-2d21-4bc4-acfa-849daaa43faa.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-1959c548-769f-418d-8ace-7f9b254dc01c.jpg"
 logo-left-title: "Stones NoFilter."
 bg-image-hero: "https://assets.expresslyapp.com/asset-7bf8b8bf-5eab-4afa-bd84-d8f7060e8b67.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-73520083-d77d-48ef-b8fb-d839e0b3a085.jpg"
