@@ -36,12 +36,12 @@ section1-content: "<p>Over the past eighteen months the Rolling Stones have been
 section2-content: "<p>We’ve managed to get our hands on 2 VIP Brown Sugar tickets\
   \ to their massive concert on Friday May 25th at London Stadium! The VIP Brown Sugar\
   \ tickets include:</p>\r\n<p>• One Amazing Golden Circle General Admission Pitch\
-  \ Ticket: package Includes Early Entry and First Access to Your Section.</p>\r\n\
-  <p>• One Limited Edition The Rolling Stones Tour Lithograph: limited Edition Tour\
-  \ Lithograph Based Upon Original The Rolling Stones Artwork, all Limited Edition\
+  \ Ticket: Package Includes Early Entry and First Access to Your Section.</p>\r\n\
+  <p>• One Limited Edition The Rolling Stones Tour Lithograph: Limited Edition Tour\
+  \ Lithograph Based Upon Original The Rolling Stones Artwork, All Limited Edition\
   \ Lithographs Printed on Heavy Weight & Acid Free Fine Art Paper.</p>\r\n<p>• The\
   \ Rolling Stones VIP Travel Pack created Exclusively For VIP Package Purchasers:\
-  \ includes Items You’d Take “On the Road'', travel Pack Contains an Assortment of\
+  \ Includes Items You’d Take “On the Road'', travel Pack Contains an Assortment of\
   \ Exclusive The Rolling Stones Themed Merchandise and Includes a Commemorative VIP\
   \ Laminate & Matching Lanyard.</p>\r\n<p><i>Credit. Claude Gassian</i></p>"
 section3-content: "<p>The Rolling Stones are coming to town to bring a spectacular\
