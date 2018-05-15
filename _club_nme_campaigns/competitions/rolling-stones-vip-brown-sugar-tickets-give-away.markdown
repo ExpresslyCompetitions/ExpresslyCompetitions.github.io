@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-731b554a-2384-41db-b590-ce12be0e2e1a"
-type: "Preview"
+type: "Competition"
 category: "tickets"
 date: "2018-05-15T14:00:00.000Z"
 end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
   \ Tour in London! 2 prizes to win!"
