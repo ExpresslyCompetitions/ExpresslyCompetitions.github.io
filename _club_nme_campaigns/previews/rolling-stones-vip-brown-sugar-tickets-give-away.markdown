@@ -7,16 +7,16 @@ end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
-  \ Tour in London!"
+title: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
+  \ Tour in London! 2 prizes to win!"
 competition-description: "<p>\"There is no stopping us” and just like they promised,\
   \ The Rolling Stones are back on the road again with massive concerts around UK,\
   \ Ireland, France, Germany, Czech Republic & Poland and they’re stopping at home\
   \ on Friday May 25th at London Stadium and we want YOU to be there! We’ve got our\
-  \ hands on 2 VIP Brown Sugar tickets to 2 lucky NME AAA members to win!</p>\r\n\
-  <p>Sounds good? You know what to do…</p>"
-hero-header: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No\
-  \ Filter’ Tour in London!"
+  \ hands on 2 pairs of VIP Brown Sugar tickets to 2 lucky NME AAA members to win!</p>\r\
+  \n<p>Sounds good? You know what to do…</p>"
+hero-header: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
+  \ Tour in London! 2 prizes to win!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-20c0e09e-1fae-41da-ba23-9dbb5a8fbb6e.jpg"
 logo-left-href: "http://www.rollingstones.com/tickets/"
@@ -33,11 +33,11 @@ section1-content: "<p>Over the past eighteen months the Rolling Stones have been
   \ again! and they want to treat fans to a set list packed full of classics such\
   \ as ‘Satisfaction’, ‘Paint It Black’, ‘Tumbling Dice’ & ‘Brown Sugar’ and that\
   \ is just the beginning!</p>\r\n<p><i>(Credit: Manfred Vogel)</i></p>"
-section2-content: "<p>We’ve managed to get our hands on 2 VIP Brown Sugar tickets\
-  \ to their massive concert on Friday May 25th at London Stadium! The VIP Brown Sugar\
-  \ tickets include:</p>\r\n<p>• One Amazing Golden Circle General Admission Pitch\
-  \ Ticket: Package Includes Early Entry and First Access to Your Section.</p>\r\n\
-  <p>• One Limited Edition The Rolling Stones Tour Lithograph: Limited Edition Tour\
+section2-content: "<p>We’ve managed to get our hands on 2 pairs of VIP Brown Sugar\
+  \ tickets to their massive concert on Friday May 25th at London Stadium! The VIP\
+  \ Brown Sugar tickets include:</p>\r\n<p>• One Amazing Golden Circle General Admission\
+  \ Pitch Ticket: Package Includes Early Entry and First Access to Your Section.</p>\r\
+  \n<p>• One Limited Edition The Rolling Stones Tour Lithograph: Limited Edition Tour\
   \ Lithograph Based Upon Original The Rolling Stones Artwork, All Limited Edition\
   \ Lithographs Printed on Heavy Weight & Acid Free Fine Art Paper.</p>\r\n<p>• The\
   \ Rolling Stones VIP Travel Pack created Exclusively For VIP Package Purchasers:\
@@ -46,16 +46,16 @@ section2-content: "<p>We’ve managed to get our hands on 2 VIP Brown Sugar tick
   \ Laminate & Matching Lanyard.</p>\r\n<p><i>(Credit: Claude Gassian)</i></p>"
 section3-content: "<p>The Rolling Stones are coming to town to bring a spectacular\
   \ production and state of the art stage design!</p>\r\n<p>If you don’t want to miss\
-  \ this special occasion, enter the draw below for a chance to win one pair of 2\
-  \ VIP Brown Sugar tickets to see them perform live on Friday May 25th at London\
+  \ this special occasion, enter the draw below for a chance to win one of the 2 pairs\
+  \ of VIP Brown Sugar tickets to see them perform live on Friday May 25th at London\
   \ Stadium!</p>\r\n<p>Good luck!</p>\r\n<p><i>(Credit: Manfred Vogel)</i></p>"
-entry-title: "Win one pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No\
-  \ Filter’ Tour in London!"
+entry-title: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
+  \ Tour in London! 2 prizes to win!"
 entry-content: "<p>Complete the form below before May 17th at 23:59 to be in with\
   \ a chance to rock out with The Rolling Stones at London Stadium next Friday May\
   \ 25th!</p>"
 has-winner: false
-prize-description: "One pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘\
-  No Filter’ Tour in London!"
+prize-description: "One of 2 pairs of VIP Brown Sugar tickets to The Rolling Stones\
+  \ ‘No Filter’ Tour in London."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 ---
