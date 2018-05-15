@@ -41,7 +41,7 @@ section2-content: "<p>We’ve managed to get our hands on 2 VIP Brown Sugar tick
   \ Lithograph Based Upon Original The Rolling Stones Artwork, All Limited Edition\
   \ Lithographs Printed on Heavy Weight & Acid Free Fine Art Paper.</p>\r\n<p>• The\
   \ Rolling Stones VIP Travel Pack created Exclusively For VIP Package Purchasers:\
-  \ Includes Items You’d Take “On the Road'', travel Pack Contains an Assortment of\
+  \ Includes Items You’d Take “On the Road'', Travel Pack Contains an Assortment of\
   \ Exclusive The Rolling Stones Themed Merchandise and Includes a Commemorative VIP\
   \ Laminate & Matching Lanyard.</p>\r\n<p><i>Credit. Claude Gassian</i></p>"
 section3-content: "<p>The Rolling Stones are coming to town to bring a spectacular\
