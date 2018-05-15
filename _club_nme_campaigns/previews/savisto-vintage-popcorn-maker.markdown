@@ -21,10 +21,11 @@ logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-c04a4e31-7f78-4c55-94a8-b04f235880eb.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f983c361-c57c-41a5-abe1-ea88855d780b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-bafa95fe-4911-4c76-a5b0-bea0174f7178.jpg"
-section1-content: "The Vintage Retro Hot Air Popcorn maker lets you cook healthy,\
-  \ fresh and homemade theatre style popcorn! It cooks without the need of oil or\
-  \ butter, just using hot air to heat up the kernels and there you will have the\
-  \ best popcorn in less than 6 minutes! Healthier, low calorie and a fat free snack!"
+section1-content: "<p>The Vintage Retro Hot Air Popcorn maker lets you cook healthy,\
+  \ fresh and homemade theatre style popcorn!</p>\r\n<p>It cooks without the need\
+  \ of oil or butter, just using hot air to heat up the kernels and there you will\
+  \ have the best popcorn in less than 6 minutes!</p>\r\n<p>Healthier, low calorie\
+  \ and a fat free snack!</p>"
 section2-content: "<p>Making fresh popcorn couldn’t be easier! Once cooked, add any\
   \ flavours you desire and find your perfect combination! ALSO their design doesn’\
   t take up too much space and it's so easy to store away when is not in use!</p>\
