@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-adf0752a-2e00-4d11-a183-3a46438ecc35"
-type: "Preview"
+type: "Competition"
 category: "Gift"
 date: "2018-05-14T11:25:44.000Z"
 end-date: "2018-06-14T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the Savisto Vintage Retro Hot Air Popcorn Maker!"
 competition-description: "<p>If you’re craving some delicious cinema style popcorn\
