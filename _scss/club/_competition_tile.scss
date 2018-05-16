@@ -1,0 +1,79 @@
+.competition-tile {
+  width: 100%;
+  border: 1px solid $colour_bg_gray;
+  border-radius: 5px;
+  padding-bottom: 130px;
+
+
+  .advertiser-banner {
+    width: 100%;
+    border-radius: 0.25rem 0.25rem 0 0 !important;
+  }
+
+  .competition-tile--status {
+    span {
+      border: 1px dashed $colour_primary;
+      border-radius: 3px;
+      display: inline-block;
+      padding: .375rem .75rem;
+      color: $colour_primary;
+    }
+  }
+
+  &.is-expired {
+    .history-card--banner {
+      position: relative;
+
+      &:before {
+        content: 'Closed';
+        color: $colour_secondary;
+        position: absolute;
+        top: 32px;
+        left: 0;
+        font-size: 13px;
+        z-index: 9;
+      }
+
+      &:after {
+        content: '';
+        border-top: 25px solid $colour_text_primary;
+        border-right: 15px solid transparent;
+        position: absolute;
+        top: 30px;
+        left: -5px;
+        width: 70px;
+      }
+    }
+  }
+
+  .competition-tile--content {
+    flex-grow: 1;
+  }
+
+  .competition-tile--footer {
+    .competition-tile--status {
+      position: absolute;
+      bottom: 80px;
+      margin-left: -24px;
+      width: 100%;
+    }
+
+    .advertiser-logo {
+      width: 80%;
+      height: 60px;
+      margin: 0 10%;
+      position: absolute;
+      bottom: 10px;
+
+      a {
+        width: 80%;
+        height: 60px;
+        display: block;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+      }
+    }
+  }
+}
+

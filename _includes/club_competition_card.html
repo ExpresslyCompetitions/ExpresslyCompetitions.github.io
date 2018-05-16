@@ -10,19 +10,7 @@
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
-            {% assign banner-img = include.item.banner-img %}
-            {% if include.is-winner-card and include.item.winner-banner %}{% assign banner-img = include.item.winner-banner %}{% endif %}
-            {% include image_url_builder.html image=banner-img %}
-            <div class="advertiser-banner rounded" style="background-image: url({{image-url}})">
-                {% if include.item.has_entry_page %}
-                    <a href="{{item-url}}" class="hide-if-expired"></a>
-                {% else %}
-                    <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
-                    <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>
-                {% endif %}
-                {% include image_url_builder.html image=include.item.logo-left-image %}
-                <div class="advertiser-logo"><img  src="{{image-url}}" /></div>
-            </div>
+            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=include.is-winner-card %}
         </div>
 
         <div class="col-md-7 col-lg-8 competition-card--content">
@@ -33,23 +21,7 @@
             <div class="competition-card--description small"><p>{{ include.item.competition-description }}</p></div>
             <div class="row justify-content-start align-items-center competition-card--footer">
                 <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1">
-                    {% assign button-cta = "Get Now" %}
-                    {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
-                    {% if include.item.has_entry_page %}
-                        <div class="show-if-entered">
-                            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
-                        </div>
-                        <div class="hide-if-entered hide-if-expired">
-                            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">{{button-cta}}</a>
-                        </div>
-                    {% else %}
-                        <div class="show-if-entered hide-if-expired">
-                            <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
-                        </div>
-                        <div class="hide-if-entered hide-if-expired">
-                            <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">{{button-cta}}</a>
-                        </div>
-                    {% endif %}
+                    {% include club_card_cta.html item=item item-url=item-url %}
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right hide-if-expired">

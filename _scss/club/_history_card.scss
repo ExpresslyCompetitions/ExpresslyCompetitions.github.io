@@ -1,32 +1,11 @@
 
 .history-card-container {
-  //display: -webkit-box;
-  //display: -webkit-flex;
-  //display: -ms-flexbox;
-  //display: flex;
-  //flex-wrap: wrap;
-
-  > [class*='col-'] {
-    //display: flex;
-    //flex-direction: column;
-
-    &:nth-child(3n) {
-      //padding-left: 0;
-    }
-
-    &:nth-child(3n+3) {
-      //padding-right: 0;
-    }
-  }
-
   .history-card {
-    //height: 100%;
     width: 100%;
     border: 1px solid $colour_bg_gray;
     border-radius: 5px;
     padding-bottom: 130px;
-    //display: flex;
-    //flex-direction: column;
+
 
     .advertiser-banner {
       width: 100%;

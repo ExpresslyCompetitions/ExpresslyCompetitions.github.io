@@ -74,6 +74,7 @@
 }
 
 .is-expired {
+  &.hide-if-expired,
   .hide-if-expired {
     display: none !important;
   }
