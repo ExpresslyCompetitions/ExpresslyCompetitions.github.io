@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-662571ac-57bb-4098-b9ce-3d487
 logo-left-href: "http://sunflowerbaby.uk/"
 logo-left-image: "https://assets.expresslyapp.com/9b502e6a-ee8f-441c-add2-31e544fe837a-thumb.png"
 logo-left-title: "Sunflower Baby"
-bg-image-hero: "https://assets.expresslyapp.com/asset-eb09f5fc-d7ca-49f2-a27d-9212f3a77076.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-349a7794-28d4-42d2-8d0a-c647f2bdda7b.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d498684b-dc6b-40f7-94a5-9827a654114d.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-274e6a1a-ecb8-462c-9193-cca63cf1a6cd.jpg"
 section1-content: "<p>At Sunflowerbaby, they believe that simplicity, quality, and\
