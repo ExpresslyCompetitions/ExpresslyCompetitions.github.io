@@ -20,7 +20,7 @@ title: Thank you for entering
 
     <div class="row competition-tile-container">
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
-        {% assign items = campaigns | sort: 'date'  %}
+        {% assign items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
         {% for item in items reversed  %}
             {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
