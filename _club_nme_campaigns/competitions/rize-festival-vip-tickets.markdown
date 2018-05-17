@@ -46,7 +46,10 @@ section3-content: "<p>A mini festival within the festival, access to the festiva
 entry-title: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
 entry-content: "<p>Hurry up! Complete the form below before May 11th at 23:59 to be\
   \ in with a chance to rock out with RiZE Festival in Hylands Park next August!</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Terence H. who won a pair of VIP weekend tickets\
+  \ to RiZE Festival 2018!"
+winner-banner: "https://assets.expresslyapp.com/asset-b27e976f-944c-4757-a7bc-89fd0a8ba7c7.jpg"
 prize-description: "A pair of VIP weekend tickets to RiZE Festival"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "* Please note these items are at an additional Cost:\r\nStreet\
