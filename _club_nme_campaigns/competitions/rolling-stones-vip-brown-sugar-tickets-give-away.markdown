@@ -5,7 +5,7 @@ category: "tickets"
 date: "2018-05-15T14:00:00.000Z"
 end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘No Filter’\
   \ Tour in London! 2 prizes to win!"
