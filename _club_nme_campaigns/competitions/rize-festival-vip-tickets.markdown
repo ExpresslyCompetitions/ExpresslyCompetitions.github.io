@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-04-27T11:00:00.000Z"
 end-date: "2018-05-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of VIP weekend tickets to RiZE Festival 2018!"
 competition-description: "<p>Get your festival mood ready because NME is running a\
