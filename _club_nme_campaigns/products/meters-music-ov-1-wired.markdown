@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-141da1e5-be7e-406d-a519-1ae574e23245"
-type: "Preview"
+type: "Product"
 category: "Gifts"
 date: "2018-02-19T14:53:53.000Z"
 end-date: "2018-05-31T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 title: "Meters Music, bringing a stage close to you!"
 competition-description: "What's better than listening to good music? To\_Meters Music,\
