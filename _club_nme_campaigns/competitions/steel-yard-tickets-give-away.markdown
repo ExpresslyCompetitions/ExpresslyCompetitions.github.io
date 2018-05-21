@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-05-10T14:00:00.000Z"
 end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekender!"
 competition-description: "<p>Get ready: we have the perfect plan for YOU this coming\
