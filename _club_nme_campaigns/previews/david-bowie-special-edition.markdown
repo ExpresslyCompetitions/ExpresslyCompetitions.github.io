@@ -3,9 +3,9 @@ campaign-uuid: "c-fe266e5f-53a4-44d6-9c64-c63aeceb8c8a"
 type: "Preview"
 category: "Fashion"
 date: "2018-02-20T10:23:54.000Z"
-end-date: "2018-05-31T23:59:00.000Z"
+end-date: "2018-07-31T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 title: "Get David Bowie Special Edition Tours T-shirt"
 competition-description: "From the special edition range 'Tours that Rocked the World'…\
