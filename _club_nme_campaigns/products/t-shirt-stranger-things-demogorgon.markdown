@@ -3,7 +3,7 @@ campaign-uuid: "c-dcca05a0-bf2b-4f7d-acb2-386d84696b3d"
 type: "Product"
 category: "Fashion"
 date: "2018-02-15T10:41:46.000Z"
-end-date: "2018-05-31T23:59:00.000Z"
+end-date: "2018-07-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
