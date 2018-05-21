@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-04-25T09:25:00.000Z"
 end-date: "2018-05-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the highly-strategic Exploding Kittens card game!"
 competition-description: "The most-backed project in Kickstarter history could be\
