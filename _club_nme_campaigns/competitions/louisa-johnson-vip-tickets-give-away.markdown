@@ -46,7 +46,10 @@ entry-title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniv
 entry-content: "<p>Enter the draw to win a pair of VIP tickets to see Louisa Johnson\
   \ at the CACT 25th Anniversary Concert by completing the form below before 23:59\
   \ on 10/04/2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Edwards E. who won a pair of VIP tickets to see\
+  \ Louisa Johnson and had a blast at the event!"
+winner-banner: "https://assets.expresslyapp.com/asset-80999979-3254-44ad-88a2-8420c700c279.jpg"
 prize-description: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert"
 prize-restrictions: "No-one below the age of 16 may enter the competition. Clarification:\
