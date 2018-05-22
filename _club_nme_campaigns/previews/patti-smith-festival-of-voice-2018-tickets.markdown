@@ -7,13 +7,13 @@ end-date: "2018-06-04T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
+title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is back\
-  \ and we want to take YOU there! We’ve managed to get our hands on 2 tickets to\
-  \ see perform live the incredible Patti Smith PLUS a side of stage access at the\
-  \ Wales Millennium Centre to 2 lucky NME AAA members to win!</p>\r\n<p>Fancy coming\
-  \ along with us?</p>"
-hero-header: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
+  \ and we want to take YOU there! We’ve managed to get our hands on a pair of tickets\
+  \ to see perform live the incredible Patti Smith PLUS a side of stage access at\
+  \ the Wales Millennium Centre to 2 lucky NME AAA members to win!</p>\r\n<p>Fancy\
+  \ coming along with us?</p>"
+hero-header: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-221a24d4-94b5-48da-9fea-8fca1a3e6647.jpg"
 logo-left-href: "http://festivalofvoice.wales"
@@ -41,12 +41,12 @@ section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and 
   \n<p>Enter the draw below for a chance to win and you could hear her powerful voice\
   \ at Festival of Voice 2018! with side of stage access at the Wales Millennium Centre.</p>\
   \ \r\n<p>Good luck!</p>"
-entry-title: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
+entry-title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 4th at 23:59 to be in with\
   \ a chance to rock out with Patti Smith at Festival of Voice 2018! with side of\
   \ stage access at the Wales Millennium Centre.</p>"
 has-winner: false
-prize-description: "A ticket to see Patti Smith at Festival of Voice 2018 with side\
-  \ of stage access at the Wales Millennium Centre."
+prize-description: "A pair of tickets to see Patti Smith at Festival of Voice 2018\
+  \ with side of stage access at the Wales Millennium Centre."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 ---
