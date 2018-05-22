@@ -2,7 +2,7 @@
 campaign-uuid: "c-dc403916-5411-4122-bea7-1992cc525fe0"
 type: "Preview"
 category: "Tickets"
-date: "2018-05-22T13:03:13.255Z"
+date: "2018-05-22T13:03:13.000Z"
 end-date: "2018-06-04T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -16,9 +16,9 @@ competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is 
 hero-header: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-221a24d4-94b5-48da-9fea-8fca1a3e6647.jpg"
-logo-left-href: "http://wearefullfat.com"
-logo-left-image: "https://assets.expresslyapp.com/5035ac36-4bc5-4c59-b4b0-c7e7e75b750a-thumb.png"
-logo-left-title: "Full Fat"
+logo-left-href: "http://festivalofvoice.wales"
+logo-left-image: "https://assets.expresslyapp.com/asset-98c823ca-1261-40db-9044-2a86babd9347.jpg"
+logo-left-title: "Festival of Voice"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f61f1d85-9332-4c95-aa59-fe1a88fa125d.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-81a6fc66-f6e1-4871-a2a1-569b88b4df21.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-fa65bee8-2ae0-4dcb-9cb7-320aa8c6b30f.jpg"
