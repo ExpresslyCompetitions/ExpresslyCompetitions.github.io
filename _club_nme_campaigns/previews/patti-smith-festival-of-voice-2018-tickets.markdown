@@ -28,7 +28,7 @@ section1-content: "<p>Taking place in Cardiff this year, Festival of Voice 2018!
   \ – a new collaboration between Laura Marling and musician and producer Mike Lindsay\
   \ of Tunng – join Patti Smith, Elvis Costello, Angélique Kidjo, a Gruff Rhys world\
   \ premiere and more to complete the line-up of headline music artists performing\
-  \ at Wales Millennium Centre</p>"
+  \ at Wales Millennium Centre.</p>"
 section2-content: "<p>Festival of Voice is overjoyed to invite Patti Smith to perform\
   \ live in Cardiff for the first time since she played at the city’s Coal Exchange\
   \ in 2011!</p>\r\n<p>13 albums, 4 Grammy nominations, and a Golden Globe nominee\
@@ -37,10 +37,10 @@ section2-content: "<p>Festival of Voice is overjoyed to invite Patti Smith to pe
 section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and poetry\
   \ exploring life as a mother, lover, a widow, and a dreamer at this amazing event\
   \ which promises to be an incredible\_festival!</p> \r\n<p>If you are as excited\
-  \ as we are, think no more because we have 2 tickets to see her perform live! Enter\
-  \ the draw below for a chance to win and you could hear her powerful voice at Festival\
-  \ of Voice 2018! with side of stage access at the Wales Millennium Centre.</p> \r\
-  \n<p>Good luck!</p>"
+  \ as we are, think no more because we have 2 tickets to see her perform live!</p>\r\
+  \n<p>Enter the draw below for a chance to win and you could hear her powerful voice\
+  \ at Festival of Voice 2018! with side of stage access at the Wales Millennium Centre.</p>\
+  \ \r\n<p>Good luck!</p>"
 entry-title: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 4th at 23:59 to be in with\
   \ a chance to rock out with Patti Smith at Festival of Voice 2018! with side of\
