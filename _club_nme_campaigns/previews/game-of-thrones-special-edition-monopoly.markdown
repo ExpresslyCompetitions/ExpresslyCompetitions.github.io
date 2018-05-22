@@ -23,14 +23,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-52088c86-6113-48a6-b821-2
 bg-image-second: "https://assets.expresslyapp.com/asset-9977fe64-411b-4374-8f13-6e4db5e17c86.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-89631db3-47ed-47cb-97f2-80a0ffd582bf.jpg"
 section1-content: "<p>Winter is here… because MONOPOLY: Game of Thrones Special Edition\
-  \ has officially arrived! If you’re one of the biggest fans of the show, we know\
-  \ you’ve always wanted to claim the power of the Seven Kingdoms and control King’\
-  s Landing, or fight for the North and rule Winterfell!</p>"
+  \ has officially arrived!</p>\r\n<p>If you’re one of the biggest fans of the show,\
+  \ we know you’ve always wanted to claim the power of the Seven Kingdoms and control\
+  \ King’s Landing, or fight for the North and rule Winterfell!</p>"
 section2-content: "<p>Game of Thrones Monopoly is elegant enough for a Lannister and\
-  \ thrilling enough for a Wilding. The Iron Throne, Crown, Direwolf, Three-Eyed Raven,\
-  \ Dragon Egg, White Walker… choose your favourite token and adventure yourself to\
-  \ your favourite sites!</p>\r\n<p>Accumulate fortunes, invest in villages and trade\
-  \ your way to success! but be careful watch out for taxes, jail and bankruptcy!</p>"
+  \ thrilling enough for a Wilding.</p>\r\n<p>The Iron Throne, Crown, Direwolf, Three-Eyed\
+  \ Raven, Dragon Egg, White Walker… choose your favourite token and adventure yourself\
+  \ to your favourite sites!</p>\r\n<p>Accumulate fortunes, invest in villages and\
+  \ trade your way to success! but be careful watch out for taxes, jail and bankruptcy!</p>"
 section3-content: "<p>Don’t miss out on this amazing opportunity and enter the draw\
   \ below for a chance to win the brand new MONOPOLY edition: Game of Thrones Special\
   \ Edition.</p>\r\n<p>Do you have what it takes to sit on the Iron Throne?</p>"
