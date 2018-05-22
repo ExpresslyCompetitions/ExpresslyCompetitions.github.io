@@ -38,9 +38,9 @@ section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and 
   \ exploring life as a mother, lover, a widow, and a dreamer at this amazing event\
   \ which promises to be an incredible\_festival!</p> \r\n<p>If you are as excited\
   \ as we are, think no more because we have 2 tickets to see her perform live! Enter\
-  \ the draw below for a chance to win and you could hear the powerful voice of Patti\
-  \ Smith at Festival of Voice 2018! with side of stage access at the Wales Millennium\
-  \ Centre.</p> \r\n<p>Good luck!</p>"
+  \ the draw below for a chance to win and you could hear her powerful voice at Festival\
+  \ of Voice 2018! with side of stage access at the Wales Millennium Centre.</p> \r\
+  \n<p>Good luck!</p>"
 entry-title: "Win a ticket to see Patti Smith at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 4th at 23:59 to be in with\
   \ a chance to rock out with Patti Smith at Festival of Voice 2018! with side of\
