@@ -11,7 +11,7 @@ title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is back\
   \ and we want to take YOU there! We’ve managed to get our hands on a pair of tickets\
   \ to see perform live the incredible Patti Smith PLUS a side of stage access at\
-  \ the Wales Millennium Centre to 2 lucky NME AAA members to win!</p>\r\n<p>Fancy\
+  \ the Wales Millennium Centre to a lucky NME AAA member to win!</p>\r\n<p>Fancy\
   \ coming along with us?</p>"
 hero-header: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 terms-confirmation: "N/A"
