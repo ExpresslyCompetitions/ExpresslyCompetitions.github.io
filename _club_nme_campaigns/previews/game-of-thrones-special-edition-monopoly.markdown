@@ -7,12 +7,12 @@ end-date: "2018-06-23T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win the brand new Game of Thrones Special Edition!"
+title: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
 competition-description: "<p>The world’s best family board game brings you a brand\
   \ new exciting edition of MONOPOLY:  Game of Thrones Special Edition! and it could\
   \ be coming home with YOU! We managed to get our hands on the brand new Monopoly\
   \ edition for one lucky NME AAA member to win!</p>\r\n<p>Want it?</p>"
-hero-header: "Win the brand new Game of Thrones Special Edition!"
+hero-header: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ac3d121a-47ac-47ce-805f-056afa328bd9.jpg"
 logo-left-href: "nme.com"
@@ -39,5 +39,5 @@ entry-content: "<p>Complete the form below before June 23rd at 23:59 to be in wi
   \ a chance win the world's best family board game, the brand new Game of Thrones\
   \ Special Edition!</p>"
 has-winner: false
-prize-description: "The brand new Game of Thrones Special Edition."
+prize-description: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
 ---
