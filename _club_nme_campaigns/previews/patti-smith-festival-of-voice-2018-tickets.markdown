@@ -11,8 +11,8 @@ title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is back\
   \ and we want to take YOU there! We’ve managed to get our hands on a pair of tickets\
   \ to see perform live the incredible Patti Smith PLUS a side of stage access at\
-  \ the Wales Millennium Centre to a lucky NME AAA member to win!</p>\r\n<p>Fancy\
-  \ coming along with us?</p>"
+  \ the Wales Millennium Centre on the 12th of June to a lucky NME AAA member to win!</p>\r\
+  \n<p>Fancy coming along with us?</p>"
 hero-header: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-221a24d4-94b5-48da-9fea-8fca1a3e6647.jpg"
@@ -47,6 +47,6 @@ entry-content: "<p>Complete the form below before June 4th at 23:59 to be in wit
   \ stage access at the Wales Millennium Centre.</p>"
 has-winner: false
 prize-description: "A pair of tickets to see Patti Smith at Festival of Voice 2018\
-  \ with side of stage access at the Wales Millennium Centre."
+  \ with side of stage access at the Wales Millennium Centre on the 12th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 ---
