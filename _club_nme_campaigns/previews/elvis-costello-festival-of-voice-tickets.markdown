@@ -23,7 +23,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-853b7654-622f-41a3-8f63-2e
 bg-image-first: "https://assets.expresslyapp.com/asset-625d13b4-b661-4f45-959b-42b18009cd14.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-383cbed0-87d8-45b4-ab7c-7de064ab4713.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-62a667d7-df11-4d53-b834-2e8a4d6bc536.jpg"
-section1-content: "<p>Festival of Voice 2018! is packed with great music artists to\
+section1-content: "<p>Festival of Voice 2018 is packed with great music artists to\
   \ celebrate culture and the voice!</p>\r\n<p>Patti Smith, Elvis Costello, Angélique\
   \ Kidjo, a brand new collaboration between Laura Marling and musician and producer\
   \ Mike Lindsay of Tunng – LUMP – and many more will  join the line-up of headline\
