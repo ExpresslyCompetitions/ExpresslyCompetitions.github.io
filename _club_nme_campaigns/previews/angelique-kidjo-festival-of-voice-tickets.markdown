@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to see Angélique Kidjo at Festival of Voice 2018!"
 competition-description: "<p>Would you like to see the amazing Angélique\_Kidjo perform\
-  \ live? If the answer is YES, you won’t want to miss this… NME AAA has a pair of\
-  \ tickets for one lucky NME AAA member to win to attend Festival of Voice 2018 taking\
-  \ place at Wales Millennium Centre in Cardiff on Saturday 9th of June</p>\r\n<p>Want\
-  \ to know more? Click below!</p>"
+  \ live? If the answer is YES, you won’t want to miss this…</p>\r\n<p>NME AAA has\
+  \ a pair of tickets for one lucky NME AAA member to win to attend Festival of Voice\
+  \ 2018 taking place at Wales Millennium Centre in Cardiff on Saturday 9th of June.</p>\r\
+  \n<p>Want to know more? Click below!</p>"
 hero-header: "Win a pair of tickets to see Angélique Kidjo at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7094a610-db1b-4327-ae74-f9f87b5d603d.jpg"
@@ -24,7 +24,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-5700db50-d7b3-47b9-9456-d
 bg-image-second: "https://assets.expresslyapp.com/asset-34bb5a84-7c1d-488f-ad4a-a81dde85589e.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-8b514455-ce6b-4d84-8a5c-ff04983f3481.jpg"
 section1-content: "<p>Festival of Voice is back for its second instalment, and they’\
-  re celebrating culture and the voice during\_11 days from 7th- 17th\_of June across\
+  re celebrating culture and the voice during\_11 days from 7th -17th\_of June across\
   \ Cardiff.</p>\r\n<p>Theatre, talks, unique collaborations, one-off events, contemporary\
   \ music such as Patti Smith, Elvis Costello, the brand new collaboration —LUMP—\
   \  and that is just the beginning!</p>"
