@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is back\
   \ and we want to take YOU there! We’ve managed to get our hands on a pair of tickets\
-  \ to see perform live the incredible Patti Smith PLUS a side of stage access at\
-  \ the Wales Millennium Centre, Cardiff on Tuesday 12th of June to a lucky NME AAA\
-  \ member to win!</p>\r\n<p>Fancy coming along with us?</p>"
+  \ to see perform live the incredible Patti Smith at the Wales Millennium Centre,\
+  \ Cardiff on Tuesday 12th of June to a lucky NME AAA member to win!</p>\r\n<p>Fancy\
+  \ coming along with us?</p>"
 hero-header: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-221a24d4-94b5-48da-9fea-8fca1a3e6647.jpg"
@@ -39,14 +39,14 @@ section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and 
   \ which promises to be an incredible\_festival!</p> \r\n<p>If you are as excited\
   \ as we are, think no more because we have 2 tickets to see her perform live!</p>\r\
   \n<p>Enter the draw below for a chance to win and you could hear her powerful voice\
-  \ at Festival of Voice 2018 with exclusive side of stage access at Wales Millennium\
-  \ Centre, Cardiff on Tuesday 12th of June.</p> \r\n<p>Good luck!</p>"
+  \ at Festival of Voice 2018 at Wales Millennium Centre, Cardiff on Tuesday 12th\
+  \ of June.</p> \r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 4th at 23:59 to be in with\
-  \ a chance to rock out with Patti Smith at Festival of Voice 2018! with side of\
-  \ stage access at the Wales Millennium Centre.</p>"
+  \ a chance to rock out with Patti Smith at Festival of Voice 2018! at Wales Millennium\
+  \ Centre.</p>"
 has-winner: false
 prize-description: "A pair of tickets to see Patti Smith at Festival of Voice 2018\
-  \ with side of stage access at the Wales Millennium Centre on the 12th of June."
+  \ at the Wales Millennium Centre on the 12th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 ---
