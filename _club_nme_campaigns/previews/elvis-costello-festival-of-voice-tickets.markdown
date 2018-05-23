@@ -2,7 +2,7 @@
 campaign-uuid: "c-514fe24a-5a53-415a-b7fe-6344348addc6"
 type: "Preview"
 category: "Tickets"
-date: "2018-05-23T14:00:00.000Z"
+date: "2018-05-23T17:00:00.000Z"
 end-date: "2018-06-08T23:59:00.000Z"
 disable-form: false
 is_promoted: false
