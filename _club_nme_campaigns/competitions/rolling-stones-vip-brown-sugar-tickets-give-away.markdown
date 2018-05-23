@@ -54,7 +54,10 @@ entry-title: "Win a pair of 2 VIP Brown Sugar tickets to The Rolling Stones ‘N
 entry-content: "<p>Complete the form below before May 17th at 23:59 to be in with\
   \ a chance to rock out with The Rolling Stones at London Stadium next Friday May\
   \ 25th!</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen and Emma who won a pair of 2 VIP Brown Sugar\
+  \ tickets to The Rolling Stones 'No Filter' Tour!"
+winner-banner: "https://assets.expresslyapp.com/asset-2c7af056-5e98-4ffe-a0b5-37a0286fc809.jpg"
 prize-description: "One of 2 pairs of VIP Brown Sugar tickets to The Rolling Stones\
   \ ‘No Filter’ Tour in London."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
