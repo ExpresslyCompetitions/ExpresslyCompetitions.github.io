@@ -44,7 +44,10 @@ entry-title: "Win one of 5 pairs of weekend tickets to Steel Yard London Weekend
 entry-content: "<p>Hurry up! Complete the form below before May 17th at 23:59 to be\
   \ in with a chance to rock out with Steel Yard in Finsbury Park next May Bank Holiday\
   \ weekend!</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Romilly, Irene, Martyn, Kevin & Anill who won tickets\
+  \ to Steel Yard Festival in London!"
+winner-banner: "https://assets.expresslyapp.com/asset-d3ee762b-34a3-4d5d-ba08-8cfeec9685d3.jpg"
 prize-description: "A pair of weekend tickets to Steel Yard London Weekender."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 ---
