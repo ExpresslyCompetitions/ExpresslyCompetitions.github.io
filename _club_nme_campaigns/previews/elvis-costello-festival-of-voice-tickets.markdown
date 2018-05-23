@@ -20,9 +20,9 @@ logo-left-href: "http://festivalofvoice.wales"
 logo-left-image: "https://assets.expresslyapp.com/asset-98c823ca-1261-40db-9044-2a86babd9347.jpg"
 logo-left-title: "Festival of Voice"
 bg-image-hero: "https://assets.expresslyapp.com/asset-853b7654-622f-41a3-8f63-2e61641c32bc.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-625d13b4-b661-4f45-959b-42b18009cd14.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-383cbed0-87d8-45b4-ab7c-7de064ab4713.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-62a667d7-df11-4d53-b834-2e8a4d6bc536.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-6765673a-df36-44fa-a8f4-ef8f4b76749c.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-a8d4b22a-e51a-46bd-833f-27a8fa7a5a8c.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-bd70aba9-60c4-41e3-ba4a-5495a1687369.jpg"
 section1-content: "<p>Festival of Voice 2018 is packed with great music artists to\
   \ celebrate culture and the voice!</p>\r\n<p>Patti Smith, Elvis Costello, Angélique\
   \ Kidjo, a brand new collaboration between Laura Marling and musician and producer\
