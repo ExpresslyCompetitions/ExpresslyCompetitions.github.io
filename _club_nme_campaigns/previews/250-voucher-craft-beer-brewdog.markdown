@@ -36,7 +36,7 @@ section2-content: "<p>At BrewDog they are on a mission to make people love craft
   \ Jet Black Heart, 5AM Saint, Indie Pale Ale… are the beers that they brew and people\
   \ love the most! but that is just the beginning of their long collection!</p>"
 section3-content: "<p>If you want to try one of the BEST craft beers out there, now\
-  \ you can because NME AAA is giving YOU a £250 voucher to spend in craft beer at\
+  \ you can because NME AAA is giving YOU a £200 voucher to spend in craft beer at\
   \ BrewDog!</p>\r\n<p>Competition closes on June 27th at 23:59 so complete the form\
   \ below and as they say: Walk tall, kick ass and learn to speak craft beer!</p>"
 entry-title: "Win £200 to buy your favourite craft beer at BrewDog!"
