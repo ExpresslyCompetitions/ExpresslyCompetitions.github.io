@@ -35,7 +35,7 @@ section2-content: "<p>From the first note to the final mix, the Beats Pro headph
   \ aluminum gunmetal frame and high-quality leather ear cups for added comfort.</p>"
 section3-content: "<p>Competition closes on June 27th so hurry up! complete the form\
   \ below and don’t miss out on this amazing chance to get the headphones that will\
-  \ make blown your mind away, the Beats Pro!</p>\r\n<p>Good luck!</p>"
+  \ make blow your mind away, the Beats Pro!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the brand new Beats Pro Headphones!"
 entry-content: "<p>Complete the form below before June 27th at 23:59 and rediscover\
   \ your music with the brand new Beats Pro Headphones!</p>"
