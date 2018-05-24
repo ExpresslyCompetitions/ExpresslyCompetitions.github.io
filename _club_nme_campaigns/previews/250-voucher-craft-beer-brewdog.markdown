@@ -38,7 +38,7 @@ section2-content: "<p>At BrewDog they are on a mission to make people love craft
 section3-content: "<p>If you want to try the BEST craft beer you’ll ever have tasted,\
   \ now you can because NME AAA is giving YOU a £250 voucher to spend in craft beer\
   \ at BrewDog!</p>\r\n<p>Competition closes on June 27th at 23:59 so complete the\
-  \ draw below and as they say: Walk tall, kick ass and learn to speak craft beer.</p>"
+  \ draw below and as they say: Walk tall, kick ass and learn to speak craft beer!</p>"
 entry-title: "Win a £250 voucher to spend in craft beer at BrewDog!"
 entry-content: "<p>Complete the form below before June 27th at 23:59 and get ready\
   \ for summer with a £250 voucher to spend in craft beer at BrewDog </p>"
