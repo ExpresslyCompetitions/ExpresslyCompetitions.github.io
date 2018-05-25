@@ -2,7 +2,7 @@
 campaign-uuid: "c-c3a68cf2-d1bf-4ead-b714-26b5a6facac5"
 type: "Preview"
 category: "competition"
-date: "2018-05-25T16:27:52.916Z"
+date: "2018-05-25T16:27:53.000Z"
 end-date: "2018-06-27T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -28,7 +28,7 @@ section1-content: "<p>At Ticketmaster, they believe that the artist is the heart
   \ no live event, which is why they are dedicated to supporting them!</p>\r\n<p>Such\
   \ a wide and diverse offering: Festivals, Sports events, Family attractions… and\
   \ many more!</p>\r\n<p>They truly believe that your needs are unique and they specialise\
-  \ in the unique</p>"
+  \ in the unique.</p>"
 section2-content: "<p>Go to that football game you were waiting for, treat your girlfriend\
   \ to that concert she always wanted to attend.. or take your kids to a family-friendly\
   \ event around the country!</p>\r\n<p>Get your event started!</p>"
@@ -36,7 +36,7 @@ section3-content: "<p>Don’t miss out on this amazing opportunity of winning a 
   \ Ticketmaster gift card thanks to NME AAA!</p>\r\n<p>Competition closes on June\
   \ 27th at 23:59. Think no more and enter below for a chance to win and you could\
   \ be going to the Festival of your dreams next summer thanks to NME AAA!</p>\r\n\
-  <p>Good luck</p>"
+  <p>Good luck!</p>"
 entry-title: "Win a £250 Ticketmaster gift card!"
 entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy your\
   \ favourite event with Ticketmaster!</p>"
