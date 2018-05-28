@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-5b031575-73a1-4300-932f-609185399534"
-type: "Preview"
+type: "Offer"
 category: "Music"
 date: "2018-05-01T12:00:00.000Z"
 end-date: "2018-06-30T12:00:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 title: "Musicgurus offer"
 competition-description: "<p>Start learning the drums today with a special 30% offer\
