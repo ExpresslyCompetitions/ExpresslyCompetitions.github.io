@@ -86,4 +86,20 @@
   }
 }
 
+.show-if-reenter-now,
+.show-if-reenter-later {
+  display: none;
+}
+
+.reenter-later {
+  .show-if-reenter-later {
+    display: block;
+  }
+}
+
+.reenter-now {
+  .show-if-reenter-now {
+    display: block;
+  }
+}
 

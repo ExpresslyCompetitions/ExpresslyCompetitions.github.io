@@ -66,6 +66,12 @@ active: selected-competitions
 
 <div id="contact-anchor" class="anchor"></div>
 
+{% if page.terms-confirmation == 'N/A' %}
+    {% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{% endcapture %}
+{% else %}
+    {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}" target="_blank">{% endcapture %}
+{% endif %}
+
 <div class="container" id="eid"
      data-competition-toggle="{{page.campaign-uuid}}"
      data-expiration="{{page.end-date | date_to_xmlschema}}">
@@ -81,10 +87,10 @@ active: selected-competitions
                 {% if page.disable-form == false %}
                     <div class="hide-if-expired">
                         <form id="form--competition" method="post" novalidate>
-                            <input type="hidden" id="campaign" name="campaign" value="{{page.campaign-uuid}}"/>
+                            <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
                             <input type="hidden" name="emailEntrant" value="true" />
                             <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
-                            <input type="hidden" id="version" name="version" value="1"/>
+                            <input type="hidden" name="version" value="1"/>
 
                             {% assign form_input_id_prefix = 'form--competition--' %}
                             {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
@@ -96,12 +102,6 @@ active: selected-competitions
                             {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
                             {% if page.entry-extension %}
                                 {% include extensions/{{ page.entry-extension }} %}
-                            {% endif %}
-
-                            {% if page.terms-confirmation == 'N/A' %}
-                                {% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{% endcapture %}
-                            {% else %}
-                                {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}" target="_blank">{% endcapture %}
                             {% endif %}
 
                              <div class="small">
@@ -130,8 +130,12 @@ active: selected-competitions
                             </div>
                             {% assign form_input_id_prefix = '' %}
                         </form>
-                        <div class="text-center pt-3">
-                            <button class="btn btn-primary disable-if-busy" id="action--enter">
+                <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
+                <input type="hidden" name="emailEntrant" value="true" />
+                <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
+
+                <div class="text-center pt-3">
+                            <button class="btn btn-primary disable-if-busy" id="action--enter" data>
                                 <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
                                 <span class="show-when-busy">Submitting Entry <img
                                         src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
@@ -143,10 +147,19 @@ active: selected-competitions
             </div>
             <div class="show-if-entered">
                 <p>
-                    You've already submitted an entry to this competition. <a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">Terms and Conditions</a>.
-                    <!--Go to-->
-                    <!--<a data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">{{page.logo-left-title}}</a>.-->
+                    You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
                 </p>
+
+                <div class="hide-if-expired">
+                    <div class="show-if-reenter-later text-center pt-3">
+                        <b>You may submit more than one entry for this competition.<br>Please check back later to enter again.</b>
+                    </div>
+
+                    <div class="show-if-reenter-now text-center pt-3">
+                        <a data-reenter="{{page.campaign-uuid}}" data-campaign-title="{{page.title | uri_escape}}" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">Enter Competition Again</a>
+                    </div>
+                </div>
+
                 <div class="competition-banner mt-4">
                     <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
                         {% include image_url_builder.html image=page.banner-img %}
