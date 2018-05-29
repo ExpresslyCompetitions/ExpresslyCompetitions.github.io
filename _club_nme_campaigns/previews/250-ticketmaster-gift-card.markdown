@@ -28,7 +28,7 @@ section1-content: "<p>At Ticketmaster, they believe that the artist is the heart
   \ no live event, which is why they are dedicated to supporting them!</p>\r\n<p>Such\
   \ a wide and diverse offering: Festivals, Sports events, Family attractions… and\
   \ many more!</p>\r\n<p>They truly believe that your needs are unique and they specialise\
-  \ in the unique.</p>"
+  \ in the unique!</p>"
 section2-content: "<p>Go to that football game you were waiting for, treat your loved\
   \ ones to that concert they always wanted to attend.. or take your kids to a family-friendly\
   \ event around the country!</p>\r\n<p>Get your event started!</p>"
