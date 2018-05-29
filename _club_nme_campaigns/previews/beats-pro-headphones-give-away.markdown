@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-54d2c58e-5b8d-4884-be59-4ca59
 logo-left-href: "https://www.beatsbydre.com/uk/headphones/pro"
 logo-left-image: "https://assets.expresslyapp.com/asset-04b897f1-91a3-482a-9e41-1e137548bc5b.jpg"
 logo-left-title: "Beats"
-bg-image-hero: "https://assets.expresslyapp.com/asset-db1c5a35-838a-451c-a34f-38f6150ab49c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ea29e454-f4ef-41b1-b77a-01164caf0792.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-5d1c531c-93a7-4db8-8fe1-1fddfe8362e7.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-e33c2040-9032-4bbe-b58d-ec23e5bc20c9.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-b1b4fe85-8208-497b-8754-cc7bf6d2d79f.jpg"
