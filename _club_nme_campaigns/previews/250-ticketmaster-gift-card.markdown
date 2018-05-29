@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-9c7a60d2-969c-4a52-bab8-1fa82
 logo-left-href: "https://www.ticketmaster.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-1569cb8e-9838-475e-b8ae-608d0cc3cbcb.jpg"
 logo-left-title: "Ticketmaster"
-bg-image-hero: "https://assets.expresslyapp.com/asset-92dbf1ac-ad54-49ce-90db-6f603ed633c6.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-8c509f05-ca4f-4ebc-89ea-f90bbf616ed3.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-789d8441-5ae6-4b88-97f7-e741c113327e.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-3eba17fa-8b93-49dd-a163-b32569d23584.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-17f4c628-a3b8-400d-bf50-0720d257ea12.jpg"
