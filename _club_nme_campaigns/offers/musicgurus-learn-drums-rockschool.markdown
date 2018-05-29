@@ -7,7 +7,7 @@ end-date: "2018-06-30T12:00:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: false
-title: "Musicgurus offer"
+title: "Exclusive: start learning the drums today with a special 30% offer at Musicgurus"
 competition-description: "<p>Start learning the drums today with a special 30% offer\
   \ at Musicgurus & Rockschool!</p>\r\n<p>Rockschool drum courses on MusicGurus are\
   \ for beginners (Debut) all the way through to very advanced musicians (Grade 8)\
