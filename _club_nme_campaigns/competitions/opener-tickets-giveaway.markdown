@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-05-03T17:00:00.000Z"
 end-date: "2018-05-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "WIN a pair of tickets with camping to Open'er Festival 2018"
 competition-description: "That's right. We have a pair of tickets to Poland's 2018\
