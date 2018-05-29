@@ -29,8 +29,8 @@ section1-content: "<p>At Ticketmaster, they believe that the artist is the heart
   \ a wide and diverse offering: Festivals, Sports events, Family attractions… and\
   \ many more!</p>\r\n<p>They truly believe that your needs are unique and they specialise\
   \ in the unique.</p>"
-section2-content: "<p>Go to that football game you were waiting for, treat your girlfriend\
-  \ to that concert she always wanted to attend.. or take your kids to a family-friendly\
+section2-content: "<p>Go to that football game you were waiting for, treat your loved\
+  \ ones to that concert they always wanted to attend.. or take your kids to a family-friendly\
   \ event around the country!</p>\r\n<p>Get your event started!</p>"
 section3-content: "<p>Don’t miss out on this amazing opportunity of winning a £250\
   \ Ticketmaster gift card thanks to NME AAA!</p>\r\n<p>Competition closes on June\
