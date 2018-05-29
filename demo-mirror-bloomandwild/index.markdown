@@ -9,7 +9,7 @@ title: "Win 12 months of flowers from Bloom &amp; Wild"
 hero-header: "Win 12 months of flowers from Bloom &amp; Wild"
 hero-subheader: ""
 terms-confirmation: >
-    By signing-up, you agree to the specific competition <a href="https://win.buyexpressly.com/demo-mirror-bloomandwild/Example-T&Cs.pdf">T&Cs</a> and to become a registered user of the Telegraph Group. You'll have access to offers and competitions available to registered users. <br /><a href="https://www.mirror.co.uk/terms-conditions/">Terms & Conditions</a> | <a href="https://www.mirror.co.uk/privacy-statement/">Privacy Policy</a>
+    By signing-up, you agree to the specific competition <a href="https://win.buyexpressly.com/demo-mirror-bloomandwild/Example-T&Cs.pdf">T&Cs</a> and to become a registered user of the Mirror. You'll have access to offers and competitions available to registered users. <br /><a href="https://www.mirror.co.uk/terms-conditions/">Terms & Conditions</a> | <a href="https://www.mirror.co.uk/privacy-statement/">Privacy Policy</a>
 
 logo-left-href: "https://www.mirror.co.uk/"
 logo-left-image: "0e139c93-c543-41bc-830a-29cbaf5ccf51-thumb.png"
