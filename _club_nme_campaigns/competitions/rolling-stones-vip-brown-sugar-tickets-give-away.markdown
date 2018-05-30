@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-731b554a-2384-41db-b590-ce12be0e2e1a"
 type: "Competition"
-category: "tickets"
+category: "Tickets"
 date: "2018-05-15T14:00:00.000Z"
 end-date: "2018-05-17T23:59:00.000Z"
 disable-form: false
