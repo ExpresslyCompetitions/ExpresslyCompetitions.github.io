@@ -52,4 +52,5 @@ has-winner: false
 prize-description: "A pair of tickets to see Angélique Kidjo at Wales Millennium Centre\
   \ in Cardiff on Saturday 9th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
