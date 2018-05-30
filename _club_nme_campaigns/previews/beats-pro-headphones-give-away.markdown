@@ -41,4 +41,5 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and redisco
   \ your music with the brand new Beats Pro Headphones!</p>"
 has-winner: false
 prize-description: "The Beats Pro Headphones."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
