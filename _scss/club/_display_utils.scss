@@ -99,8 +99,14 @@
 }
 
 .reenter-now {
+  &.show-if-reenter-now,
   .show-if-reenter-now {
-    display: block;
+    display: block !important;
+  }
+
+  &.show-if-reenter-now-flex,
+  .show-if-reenter-now-flex {
+    display: flex !important;
   }
 }
 
