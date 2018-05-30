@@ -42,4 +42,5 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy y
   \ favourite event with Ticketmaster!</p>"
 has-winner: false
 prize-description: "A  £250 Ticketmaster gift card!"
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
