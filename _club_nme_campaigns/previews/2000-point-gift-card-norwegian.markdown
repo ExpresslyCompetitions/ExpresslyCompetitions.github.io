@@ -20,7 +20,7 @@ logo-left-image: "https://assets.expresslyapp.com/be4f75e2-469f-4e72-973d-638438
 logo-left-title: "Norwegian"
 bg-image-hero: "https://assets.expresslyapp.com/asset-05b05615-ab78-4a8b-8830-186417dae3f9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ba9213af-5dc2-40db-a71a-1ab4c8ec300f.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-1f015c5e-7fd2-4a5c-8e8b-42a22bec5bbe.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-a4eabc5c-822f-46ae-ae00-1dc1b8f9861f.jpg"
 section1-content: "<p>Who doesn’t love a free trip? We do! That’s why we’re giving\
   \ away a 2,000 point gift card on Norwegian!</p>\r\n<p>Gift cards can be spent on\
   \ loads of Norwegian’s services like seat reservations, checked baggage, and pre-ordered\
