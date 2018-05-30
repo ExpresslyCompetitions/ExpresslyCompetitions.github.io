@@ -13,7 +13,7 @@ competition-description: "<p>Summer is just around the corner and there is no be
   \ about great craft beer as we are you won’t want to miss this: We’re giving away\
   \ a £200 voucher to spend in craft beer at Brewdog!</p>\r\n<p>Want to know more?\
   \ Click on the link below!</p>"
-hero-header: "Win a £250 voucher to spend in craft beer at BrewDog!"
+hero-header: "Win a £200 voucher to spend in craft beer at BrewDog!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f70adced-e574-4b6b-8b81-0a59e0d8373c.jpg"
 logo-left-href: "https://www.brewdog.com/"
@@ -46,5 +46,6 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy a
 has-winner: false
 prize-description: "A £200 voucher to spend in craft beer at BrewDog.\r\nWinner wins\
   \ 4x £50 vouchers"
-special-conditions: "Winner wins 4x £50 vouchers"
+special-conditions: "Winner wins 4x £50 vouchers.\r\nMultiple entries are allowed\
+  \ up to one every 24 hours."
 ---
