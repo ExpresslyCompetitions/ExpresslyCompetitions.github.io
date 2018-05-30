@@ -40,4 +40,5 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy y
   \ favourite movie and those popcorns at Vue cinemas!</p>"
 has-winner: false
 prize-description: "A £200 gift card at Vue cinemas!"
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
