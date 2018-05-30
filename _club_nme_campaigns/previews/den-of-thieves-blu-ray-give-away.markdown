@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™!"
-competition-description: "<p>Calling all Gerard Butler and 50 Cent fans! To celebrate\
+competition-description: "<p>Calling all Gerard Butler and ''50 Cent'' fans! To celebrate\
   \ the Blu-ray™ release of the directorial debut of Christian Gudegast, DEN OF THIEVES,\
   \ we’ve got in our hands 5 copies of the official Blu-ray™ of the movie for five\
   \ lucky NME AAA members to win.</p>\r\n<p>Sounds good? You know what to do…</p>"
