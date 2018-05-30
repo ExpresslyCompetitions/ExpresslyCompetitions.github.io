@@ -24,7 +24,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-81a6fc66-f6e1-4871-a2a1-5
 bg-image-second: "https://assets.expresslyapp.com/asset-fa65bee8-2ae0-4dcb-9cb7-320aa8c6b30f.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-0b49fdd0-f35d-48a0-aef9-0e2f88866772.jpg"
 section1-content: "<p>Festival of Voice 2018 has finally arrived and is packed with\
-  \ great music artists to celebrate culture and the voice!</p>\r\n<p>LUMP – a new\
+  \ great music artists to celebrate culture and the voice.</p>\r\n<p>LUMP – a new\
   \ collaboration between Laura Marling and musician and producer Mike Lindsay of\
   \ Tunng – join Patti Smith, Elvis Costello, Angélique Kidjo, a Gruff Rhys world\
   \ premiere and more to complete the line-up of headline music artists performing\
