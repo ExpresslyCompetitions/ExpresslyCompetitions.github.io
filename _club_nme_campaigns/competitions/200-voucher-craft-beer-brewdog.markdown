@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-8088d4fe-3991-404b-b24f-8973f7371e59"
-type: "Preview"
+type: "Competition"
 category: "Food"
 date: "2018-05-30T09:00:00.000Z"
 end-date: "2018-06-27T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win £200 to buy your favourite craft beer at BrewDog!"
 competition-description: "<p>Summer is just around the corner and there is no better\
