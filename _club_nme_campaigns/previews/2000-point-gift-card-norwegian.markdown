@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win a 2,000 point gift card on Norwegian!"
 competition-description: "<p>Summer is just around the corner… so get ready and pick\
   \ up your bags because NME AAA want to get YOU a holiday organised! We’re giving\
-  \ away a 2,000 point gift card on Norwegian to one lucky NME member to win</p>\r\
+  \ away a 2,000 point gift card on Norwegian to one lucky NME AAA member to win!</p>\r\
   \n<p>Travel anytime and anywhere with Norwegian! Enter below to know more!</p>"
 hero-header: "Win a 2,000 point gift card on Norwegian!"
 terms-confirmation: "N/A"
@@ -30,7 +30,7 @@ section2-content: "<p>Norwegian gift cards are the best presents! and this one c
   \ be yours! Treat yourself or your loved ones to a nice trip anywhere they like\
   \ by the chance of winning a 2,000 point gift card on Norwegian!</p>\r\n<p>Think\
   \ no more, enter below and you could be flying anywhere next summer thanks to NME\
-  \ AAA</p>"
+  \ AAA!</p>"
 entry-title: "Win a 2,000 point gift card on Norwegian!"
 entry-content: "<p>Enter the draw to win a 2,000 point gift card on Norwegian and\
   \ you could be travelling to your dream destination next summer by completing the\
