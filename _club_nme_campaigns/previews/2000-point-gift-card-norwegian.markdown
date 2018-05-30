@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-897948fb-2774-44d5-95eb-3ba39e497591"
 type: "Preview"
-category: "competition"
+category: "Travel"
 date: "2018-06-01T09:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
