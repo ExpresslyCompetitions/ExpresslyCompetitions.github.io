@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-fe359cda-b21f-4553-8107-00fede0a9ac5"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-05-25T07:18:07.000Z"
 end-date: "2018-06-27T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a £200 gift card at Vue cinemas!"
 competition-description: "<p>Looking forward to spending a great night out with friends?\
@@ -40,4 +40,5 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy y
   \ favourite movie and those popcorns at Vue cinemas!</p>"
 has-winner: false
 prize-description: "A £200 gift card at Vue cinemas!"
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---

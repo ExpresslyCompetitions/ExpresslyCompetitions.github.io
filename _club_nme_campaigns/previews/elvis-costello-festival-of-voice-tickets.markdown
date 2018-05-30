@@ -29,15 +29,16 @@ section1-content: "<p>Festival of Voice 2018 is packed with great music artists 
   \ Mike Lindsay of Tunng – LUMP – and many more will  join the line-up of headline\
   \ music artists performing at Wales Millennium Centre.</p>"
 section2-content: "<p>Festival of Voice\_is thrilled\_to welcome\_Elvis\_Costello\
-  \ for a\_fabulous finale\_to close\_this magnificent event!</p>\r\n<p>Two Ivor\_\
-  Novello Awards for\_songwriting, a\_BAFTA for Alan Bleasdale’s television drama\
-  \ series G.B.H, a Grammy for\_I Still Have That Other Girl, best known for the\_\
-  songs,\_Alison,\_Pump It Up,\_Everyday\_I Write\_The\_Book,\_and his rendition of\
-  \ the\_Nick Lowe\_song are some of his numerous honours!</p>"
+  \ for a\_fabulous finale\_to close\_this magnificent series of events.</p>\r\n<p>Two\
+  \ Ivor\_Novello Awards for\_songwriting, a\_BAFTA for Alan Bleasdale’s television\
+  \ drama series G.B.H, a Grammy for\_I Still Have That Other Girl, best known for\
+  \ the\_songs,\_Alison,\_Pump It Up,\_Everyday\_I Write\_The\_Book,\_and his rendition\
+  \ of the\_Nick Lowe\_song are some of his most recognised and acclaimed pieces of\
+  \ work. </p>"
 section3-content: "<p>Want to come along with us? Competition closes on Friday 8th\
   \ of June at 23:59 so complete the form below for a chance to win a pair of tickets\
   \ and you could be singing along with Elvis Costello at Wales Millennium Centre\
-  \ in Cardiff on Sunday 17th of June!</p>\r\n<p>Good luck!</p>"
+  \ in Cardiff on Sunday 17th of June.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 8th at 23:59 to be in with\
   \ a chance to rock out with Elvis Costello at Festival of Voice 2018! at Wales Millennium\
@@ -46,4 +47,5 @@ has-winner: false
 prize-description: "A pair of tickets to see Elvis Costello at Festival of Voice 2018\
   \ at Wales Millennium Centre on the 17th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---

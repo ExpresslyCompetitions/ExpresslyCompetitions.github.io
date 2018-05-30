@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-4e011172-521a-4c22-81a4-050d8fd48623"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-05-30T09:00:00.000Z"
 end-date: "2018-06-27T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the brand new Beats Pro Headphones!"
 competition-description: "<p>If you’re looking for a new pair of great quality headphones\
@@ -41,4 +41,5 @@ entry-content: "<p>Complete the form below before June 27th at 23:59 and redisco
   \ your music with the brand new Beats Pro Headphones!</p>"
 has-winner: false
 prize-description: "The Beats Pro Headphones."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
