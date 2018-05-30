@@ -30,8 +30,8 @@ section1-content: "<p>Starring Gerard Butler, Pablo Schreiber, O’shea Jackson 
 section2-content: "<p>The sensational Blu-ray™ is packed with full of exclusive bonus\
   \ content for you to get stuck in: Alternate Ending, Outtakes, Deleted Scenes, Commentary\
   \ with Director Christian Gudegast and Producer Tucker Tooley, Den of Thieves Theatrical\
-  \ Cut…</p> \r\n<p>This DEN OF THIEVES Blu-ray™ release from Universal Pictures Home\
-  \ Entertainment is the best plan for your weekend!</p>"
+  \ Cut…</p> \r\n<p>This DEN OF THIEVES Blu-ray™ release from Sony Pictures Home Entertainment\
+  \ is the best plan for your weekend!</p>"
 section3-content: "<p>Enter your details below for a chance to win this Blu-ray™ filled\
   \ with gripping, explosive action and an ending that left audiences stunned!</p>\r\
   \n <p>Good luck!</p>"
