@@ -32,8 +32,8 @@ section2-content: "<p>Leader of the Region in Financial Services, Best Deal of t
   \ Cross Cultural Trainingfor Gamers, Cross Cultural Customer Experience,G2A Land\
   \ Oculus Virtual Reality are some of its numerous awards</p>\r\n<p>If you’re looking\
   \ forward to join the G2A community, now thanks to NME AAA you can, because we are\
-  \ giving YOU the chance to win £100 to spend at G2A! Enter the form below and you\
-  \ could discover and enjoy tons of games at G2A!</p>"
+  \ giving YOU the chance to win £100 to spend at G2A!</p>\r\n<p>Enter the form below\
+  \ and you could discover and enjoy tons of games at G2A!</p>"
 entry-title: "Win £100 to discover many exciting games at G2A!"
 entry-content: "<p>Enter the draw to win a £100 to discover many exciting games at\
   \ G2A and enjoy your favourite games by completing the form below before 23.59pm\
