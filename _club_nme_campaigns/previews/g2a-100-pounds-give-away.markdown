@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-4997008a-a904-460f-ab65-eecbc
 logo-left-href: "http://g2a.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-2c869b3a-c212-4099-9a95-887e898331e2.jpg"
 logo-left-title: "G2A"
-bg-image-hero: "https://assets.expresslyapp.com/asset-322e7aa1-8100-4b28-8b11-41d999392364.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-e9eb477f-b7ef-4e95-8812-2217bc176fee.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-55bf271b-e937-4346-b06b-dd66393f8090.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-05768a75-4217-42ac-b1fa-041a846ffe0b.jpg"
 section1-content: "<p>At G2A they want to reinvent the simplicity of global trade.\
