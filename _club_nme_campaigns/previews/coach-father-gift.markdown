@@ -7,8 +7,8 @@ end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
-title: "Treat your father everyday with Coach!"
-competition-description: "<p>Whether is father’s day or not, at Coach they want to\
+title: "Treat your Father everyday with Coach!"
+competition-description: "<p>Whether is Father’s day or not, at Coach they want to\
   \ treat them everyday with their numerous gifts with character!</p>\r\n<p>Suitcases,\
   \ Sunglasses, Watches, Fragances… they have a different range of gifts to choose\
   \ from! Get him set for summer with one of his gifts he’ll love at every price at\
