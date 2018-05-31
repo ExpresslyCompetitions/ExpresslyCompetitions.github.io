@@ -26,7 +26,7 @@ section1-content: "<p>Who doesn’t love a free trip? We do! That’s why we’r
   \ loads of Norwegian’s services like seat reservations, checked baggage, and pre-ordered\
   \ meals on board. But we know that the one you like the most is spending your gift\
   \ card on flights to any of Norwegian’s destinations!</p>"
-section2-content: "<p>Norwegian gift cards are the best presents! and this one could\
+section2-content: "<p>Norwegian gift cards are the best presents, and this one could\
   \ be yours! Treat yourself or your loved ones to a nice trip anywhere they like\
   \ by the chance of winning a 2,000 point gift card on Norwegian!</p>\r\n<p>Think\
   \ no more, enter below and you could be flying anywhere next summer thanks to NME\
