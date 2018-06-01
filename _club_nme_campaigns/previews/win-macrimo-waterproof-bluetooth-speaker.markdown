@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win the Macrimo Waterproof Bluetooth Speaker!"
 competition-description: "<p>Want to enjoy crystal clear music while camping, at the\
   \ beach, by the pool, in the shower without worrying that water, sand or dust could\
-  \ damage your speaker. We have the solution for you, we’re giving away the ultimate\
+  \ damage your speaker? We have the solution for you, we’re giving away the ultimate\
   \ Macrimo Waterproof Bluetooth Speaker to one lucky NME AAA member to win!</p>\r\
   \n<p>Maybe is you?</p>"
 hero-header: "Win the Macrimo Waterproof Bluetooth Speaker!"
