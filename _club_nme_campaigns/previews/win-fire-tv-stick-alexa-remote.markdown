@@ -2,7 +2,7 @@
 campaign-uuid: "c-4d5c81a6-ba01-407a-be62-fb700a428957"
 type: "Preview"
 category: "competition"
-date: "2018-06-01T11:39:42.117Z"
+date: "2018-06-01T11:39:42.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -25,9 +25,9 @@ section1-content: "<p>With the Fire TV Stick there’s something always on, just
   \ your Fire TV Stick into an HDTV and start streaming in minutes! Has the fastest\
   \ Wi-Fi and most accurate voice search of any streaming media stick.</p> <p>Shows\
   \ start faster and stream more smoothly than ever before! Access to Amazon Video,\
-  \ Netflix, Curzon Home Cinema, live TV,YouTube, Facebook.. and many more!</p>\r\n\
-  <p>Enter the form below for a chance to win and be ready to entertain you way with\
-  \ the brand new Fire TV Stick with Alexa Voice Remote!</p>"
+  \ Netflix, Curzon Home Cinema, live TV, YouTube, Facebook.. and many more!</p>\r\
+  \n<p>Enter the form below for a chance to win and be ready to entertain you way\
+  \ with the brand new Fire TV Stick with Alexa Voice Remote!</p>"
 entry-title: "Win the Fire TV Stick with Alexa Voice Remote!"
 entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa Voice\
   \ Remote! by completing the form below before 23:59 on 1st July 2018.</p>"
