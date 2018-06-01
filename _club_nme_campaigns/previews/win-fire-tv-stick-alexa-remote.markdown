@@ -30,7 +30,7 @@ section1-content: "<p>With the Fire TV Stick there’s something always on, just
   \ with the brand new Fire TV Stick with Alexa Voice Remote!</p>"
 entry-title: "Win the Fire TV Stick with Alexa Voice Remote!"
 entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa Voice\
-  \ Remote! by completing the form below before 23:59 on 1st July 2018.</p>"
+  \ Remote by completing the form below before 23:59 on 1st July 2018.</p>"
 has-winner: false
 prize-description: "The Fire TV Stick with Alexa Voice Remote!"
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
