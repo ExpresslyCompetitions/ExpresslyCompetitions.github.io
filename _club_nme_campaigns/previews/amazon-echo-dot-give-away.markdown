@@ -2,7 +2,7 @@
 campaign-uuid: "c-87b56fa7-9b6c-4857-ae70-34a113fd7718"
 type: "Preview"
 category: "competition"
-date: "2018-06-01T12:18:22.655Z"
+date: "2018-06-01T12:18:23.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -24,7 +24,7 @@ section1-content: "<p>Amazon Echo Dot is a hands-free, voice-controlled device w
   \ a small built-in speaker. When you want to use your Echo Dot, just say the wake\
   \ word “Alexa” and Echo Dot responds! Simple, useful and made for any room!</p>\r\
   \n<p>If you want to listen your tunes just ask for your favourite artist or song\
-  \ and it provides hands-free voice control to Spotify and TuneIn</p>\r\n<p>This\
+  \ and it provides hands-free voice control to Spotify and TuneIn.</p>\r\n<p>This\
   \ Amazon Echo Dot is the perfect gift for you! Enter the form below and it could\
   \ be yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "The innovative Amazon Echo Dot!"
