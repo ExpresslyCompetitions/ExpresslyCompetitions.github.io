@@ -2,7 +2,7 @@
 campaign-uuid: "c-71ff3d43-cb91-4953-bbcd-9c55787cb54c"
 type: "Preview"
 category: "competition"
-date: "2018-06-01T12:44:07.056Z"
+date: "2018-06-01T12:44:07.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
