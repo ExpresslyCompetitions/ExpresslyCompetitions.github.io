@@ -2,7 +2,7 @@
 campaign-uuid: "c-69c56353-d5d0-4e01-8f23-32d9f961307d"
 type: "Preview"
 category: "Competition"
-date: "2018-06-01T10:01:22.436Z"
+date: "2018-06-01T10:01:22.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 competition-description: "<p>Calling all Liam Gallagher fans! we have the best gift\
   \ for YOU! We’re giving away the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition\
-  \ for one lucky NME AAA member to win!/</p>\r\n<p>Liking what you hear? Click below\
+  \ for one lucky NME AAA member to win!</p>\r\n<p>Liking what you hear? Click below\
   \ to get involved!</p>"
 hero-header: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 terms-confirmation: "N/A"
