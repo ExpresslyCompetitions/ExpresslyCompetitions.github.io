@@ -33,5 +33,7 @@ entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa
   \ Remote by completing the form below before 23:59 on 1st July 2018.</p>"
 has-winner: false
 prize-description: "The Fire TV Stick with Alexa Voice Remote!"
+prize-restrictions: "Prize includes only the product. Any related account or subscription\
+  \ is not included."
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
