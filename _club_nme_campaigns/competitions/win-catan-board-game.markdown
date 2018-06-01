@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-d2625b4e-e497-4314-b65e-591af93fef52"
-type: "Preview"
-category: "competition"
-date: "2018-06-01T10:35:52.000Z"
+type: "Competition"
+category: "Competition"
+date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -24,12 +24,12 @@ section1-content: "<p>This multiplayer board game involves large amounts of stra
   \ Players assume the roles of settlers attempting to build and develop holdings\
   \ while trading and acquiring resources! Very simple to learn and so much fun!</p>\r\
   \n<p>We want to get your weekend sorted by giving you the chance to win this amazing\
-  \ game: The Catan Board Game!</p>\r\n<p>Enter the form below and have a great a\
-  \ night in with friends with the Catan Board Game!</p>"
+  \ game: The Catan Board Game!</p>\r\n<p>Enter the form below for a chance to win\
+  \ and a great a night in with friends with the Catan Board Game!</p>"
 entry-title: "Win the grand Catan Board Game!"
 entry-content: "<p>Enter the draw to win the popular Catan Board Game! by completing\
   \ the form below before 23:59 on 1st July 2018.</p>"
 has-winner: false
-prize-description: "A Catan Board Game."
+prize-description: "Catan Board Game (base edition)"
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
