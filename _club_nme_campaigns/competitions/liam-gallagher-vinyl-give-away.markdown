@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-69c56353-d5d0-4e01-8f23-32d9f961307d"
-type: "Preview"
+type: "Competition"
 category: "Competition"
-date: "2018-06-01T10:01:22.000Z"
+date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -11,7 +11,7 @@ title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 competition-description: "<p>Calling all Liam Gallagher fans! we have the best gift\
   \ for YOU! We’re giving away the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition\
   \ for one lucky NME AAA member to win!</p>\r\n<p>Liking what you hear? Click below\
-  \ to get involved!</p>"
+  \ to get a chance to win</p>"
 hero-header: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7f0fab28-1328-43e1-863d-c01fe221c1ae.jpg"
