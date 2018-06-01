@@ -2,10 +2,10 @@
 campaign-uuid: "c-98b8e5c7-7516-4788-8f48-1d65a38a1350"
 type: "Preview"
 category: "Entertainment"
-date: "2018-05-01T09:00:00.000Z"
+date: "2018-06-01T16:45:00.000Z"
 end-date: "2018-06-01T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win £50 to discover many exciting games at G2A!"
 competition-description: "<p>Calling all gamers out there! We have great news for\
@@ -29,16 +29,16 @@ section1-content: "<p>At G2A they want to reinvent the simplicity of global trad
   \ of products at attractive prices!</p>"
 section2-content: "<p>Leader of the Region in Financial Services, Best Deal of the\
   \ year 2017, Company of the year, Innovation in Costumer Experience, Innovative\
-  \ Cross Cultural Trainingfor Gamers, Cross Cultural Customer Experience,G2A Land\
+  \ Cross Cultural Training for Gamers, Cross Cultural Customer Experience,G2A Land\
   \ Oculus Virtual Reality are some of its numerous awards</p>\r\n<p>If you’re looking\
   \ forward to join the G2A community, now thanks to NME AAA you can, because we are\
-  \ giving YOU the chance to win £100 to spend at G2A!</p>\r\n<p>Enter the form below\
+  \ giving YOU the chance to win £50 to spend at G2A!</p>\r\n<p>Enter the form below\
   \ and you could discover and enjoy tons of games at G2A!</p>"
 entry-title: "Win £50 to discover many exciting games at G2A!"
 entry-content: "<p>Enter the draw to win a £50 to discover many exciting games at\
   \ G2A and enjoy your favourite games by completing the form below before 23.59pm\
   \ on 01/07/2018.</p>"
 has-winner: false
-prize-description: "£50 to discover many exciting games at G2A."
+prize-description: "£50 gift card at G2A."
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
