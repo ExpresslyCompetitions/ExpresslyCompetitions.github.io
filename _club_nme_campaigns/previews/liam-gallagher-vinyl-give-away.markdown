@@ -24,7 +24,7 @@ section1-content: "<p>Liam Gallagher’s ‘As You Were’ is the fastest-sellin
   \ record of the last 20 years! It sold 16,000 copies on vinyl in just one week!\
   \ And we have one for YOU!</p> \r\n<p>Enter the form below for a chance to win the\
   \ exclusive ‘As You Were’ Vinyl Edition and you could be dancing along Wall of Glass,\_\
-  Chinatown,\_For What It's Worth,Greedy Soul and more of his hits!</p>\r\n<p>Good\
+  Chinatown,\_For What It's Worth, Greedy Soul and more of his hits!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 entry-content: "<p>Enter the draw to win the fastest-selling vinyl record of the last\
