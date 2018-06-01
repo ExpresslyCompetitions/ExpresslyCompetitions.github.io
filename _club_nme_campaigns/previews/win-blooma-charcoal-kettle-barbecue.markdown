@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win Blooma® Charcoal Kettle Barbecue!"
 competition-description: "<p>Summer is just around the corner and it wouldn't be complete\
   \ without a BBQ, so why not host your own with this Blooma® stylish kettle barbecue\
-  \ grill!Want it? Enter below to get involved!</p>"
+  \ grill!</p>\r\n<p>Want it? Enter below to get involved!</p>"
 hero-header: "Win Blooma® Charcoal Kettle Barbecue!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a144ee56-4d56-417f-a653-bd20bd0b012f.jpg"
