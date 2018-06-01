@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-d2625b4e-e497-4314-b65e-591af93fef52"
 type: "Competition"
-category: "Entertainment"
+category: "Gifts"
 date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
