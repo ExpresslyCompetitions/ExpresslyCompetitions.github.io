@@ -21,7 +21,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-365b1b48-1d6f-4d3b-9aa7-8b
 bg-image-first: "https://assets.expresslyapp.com/asset-2338c409-c589-4827-878f-89dd4b676bac.jpg"
 section1-content: "<p>This attractive and modern BBQ grill will cater for BBQ parties/gatherings\
   \ of up to 10 people. Features a porcelain enamelled lid and bowl with warming rack\
-  \ and chrome plated grill and ash collector</p>\r\n<p>Nothing beats like a perfect\
+  \ and chrome plated grill and ash collector.</p>\r\n<p>Nothing beats like a perfect\
   \ home made bbq this summer! Think no more, enter below and you could be enjoying\
   \ this magnificent Blooma® Charcoal Kettle Barbecue with your loved ones!</p>"
 entry-title: "Win Blooma® Charcoal Kettle Barbecue!"
