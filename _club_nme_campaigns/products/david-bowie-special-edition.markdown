@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-02-20T10:23:54.000Z"
 end-date: "2018-07-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Get David Bowie Special Edition Tours T-shirt"
 competition-description: "From the special edition range 'Tours that Rocked the World'…\
