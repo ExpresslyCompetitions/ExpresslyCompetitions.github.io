@@ -26,7 +26,7 @@ section1-content: "<p>With the Fire TV Stick there’s something always on, just
   \ Wi-Fi and most accurate voice search of any streaming media stick.</p> <p>Shows\
   \ start faster and stream more smoothly than ever before! Access to Amazon Video,\
   \ Netflix, Curzon Home Cinema, live TV, YouTube, Facebook.. and many more!</p>\r\
-  \n<p>Enter the form below for a chance to win and be ready to entertain you way\
+  \n<p>Enter the form below for a chance to win and be ready to entertain your way\
   \ with the brand new Fire TV Stick with Alexa Voice Remote!</p>"
 entry-title: "Win the Fire TV Stick with Alexa Voice Remote!"
 entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa Voice\
