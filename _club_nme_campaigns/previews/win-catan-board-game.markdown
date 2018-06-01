@@ -1,0 +1,35 @@
+---
+campaign-uuid: "c-d2625b4e-e497-4314-b65e-591af93fef52"
+type: "Preview"
+category: "competition"
+date: "2018-06-01T10:35:52.064Z"
+end-date: "2018-07-01T23:59:00.000Z"
+disable-form: false
+is_promoted: false
+has_entry_page: true
+title: "Win the grand Catan Board Game!"
+competition-description: "<p>Are you the best at boarding games? Sure you don’t want\
+  \ to miss this! We’ve got our hands on the game that has sold more than 22 million\
+  \ copies in 30 languages: Catan Board Game!\r\n<p>Ready to beat your opponent and\
+  \ build your own territory? Click below to know more!</p>"
+hero-header: "Win the grand Catan Board Game!"
+terms-confirmation: "N/A"
+banner-img: "https://assets.expresslyapp.com/asset-31e28e24-c96c-43c1-857c-8f20f119f8c8.jpg"
+logo-left-href: "nme.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-04c5cf15-7690-405e-9d79-fb71715b2d42.jpg"
+logo-left-title: "NME AAA"
+bg-image-hero: "https://assets.expresslyapp.com/asset-b0e4c1d3-a833-4a13-a8f9-e54561d487ad.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-23fd08a9-d09a-4ead-9ab5-7858fca91819.jpg"
+section1-content: "<p>This multiplayer board game involves large amounts of strategy.\
+  \ Players assume the roles of settlers attempting to build and develop holdings\
+  \ while trading and acquiring resources! Very simple to learn and so much fun!</p>\r\
+  \n<p>We want to get your weekend sorted by giving you the chance to win this amazing\
+  \ game: The Catan Board Game! Enter the form below and have a great a night in with\
+  \ friends with the Catan Board Game!</p>"
+entry-title: "Win the grand Catan Board Game!"
+entry-content: "<p>Enter the draw to win the popular Catan Board Game! by completing\
+  \ the form below before 23:59 on 1st July 2018.</p>"
+has-winner: false
+prize-description: "A Catan Board Game."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
+---
