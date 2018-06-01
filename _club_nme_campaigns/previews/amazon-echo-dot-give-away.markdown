@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-87b56fa7-9b6c-4857-ae70-34a113fd7718"
 type: "Preview"
-category: "competition"
-date: "2018-06-01T12:18:23.000Z"
+category: "Competition"
+date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -12,7 +12,7 @@ competition-description: "<p>We’ve got our hands on the innovative Amazon Echo
   \ Yes, you’ve heard right! the hands-free, voice-controlled device that uses Alexa\
   \ to play music, control smart home devices, provide information, read the news,\
   \ set alarms and more!</p>\r\n<p>Want it? Enter to know how!</p>"
-hero-header: "Win the innovative Amazon Echo Dot!"
+hero-header: "Win the brilliant Amazon Echo Dot!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-976613d4-dbe4-475c-86c4-21192664d761.jpg"
 logo-left-href: "https://aaa.nme.com/"
@@ -31,6 +31,8 @@ entry-title: "The innovative Amazon Echo Dot!"
 entry-content: "<p>Enter the draw to win the best gift you could ever have, the innovative\
   \ Amazon Echo Dot! by completing the form below before 23:59 on 1st July 2018.</p>"
 has-winner: false
-prize-description: "An Amazon Echo Dot."
+prize-description: "An Amazon Echo Dot"
+prize-restrictions: "Prize includes only the product. Any related account or subscription\
+  \ is not included."
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
