@@ -2,7 +2,7 @@
 campaign-uuid: "c-d2625b4e-e497-4314-b65e-591af93fef52"
 type: "Preview"
 category: "competition"
-date: "2018-06-01T10:35:52.064Z"
+date: "2018-06-01T10:35:52.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -16,7 +16,7 @@ hero-header: "Win the grand Catan Board Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-31e28e24-c96c-43c1-857c-8f20f119f8c8.jpg"
 logo-left-href: "nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-04c5cf15-7690-405e-9d79-fb71715b2d42.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-57fc0f3e-8826-4d65-b0e2-304a1a83a7fc.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-b0e4c1d3-a833-4a13-a8f9-e54561d487ad.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-23fd08a9-d09a-4ead-9ab5-7858fca91819.jpg"
