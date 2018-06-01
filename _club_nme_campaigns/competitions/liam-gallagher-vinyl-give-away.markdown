@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-69c56353-d5d0-4e01-8f23-32d9f961307d"
 type: "Competition"
-category: "Competition"
+category: "music"
 date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
