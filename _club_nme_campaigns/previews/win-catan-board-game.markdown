@@ -24,8 +24,8 @@ section1-content: "<p>This multiplayer board game involves large amounts of stra
   \ Players assume the roles of settlers attempting to build and develop holdings\
   \ while trading and acquiring resources! Very simple to learn and so much fun!</p>\r\
   \n<p>We want to get your weekend sorted by giving you the chance to win this amazing\
-  \ game: The Catan Board Game! Enter the form below and have a great a night in with\
-  \ friends with the Catan Board Game!</p>"
+  \ game: The Catan Board Game!</p>\r\n<p>Enter the form below and have a great a\
+  \ night in with friends with the Catan Board Game!</p>"
 entry-title: "Win the grand Catan Board Game!"
 entry-content: "<p>Enter the draw to win the popular Catan Board Game! by completing\
   \ the form below before 23:59 on 1st July 2018.</p>"
