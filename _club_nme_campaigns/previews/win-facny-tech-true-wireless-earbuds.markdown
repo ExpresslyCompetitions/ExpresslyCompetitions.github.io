@@ -2,7 +2,7 @@
 campaign-uuid: "c-c98e9b3e-b386-4a63-8c08-4dd60ed990e2"
 type: "Preview"
 category: "competition"
-date: "2018-06-01T11:06:50.305Z"
+date: "2018-06-01T11:06:50.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the FancyTech True Wireless Earbuds!"
 competition-description: "<p>Looking for a great pair of Wireless Earbuds? Get ready\
   \ and set your ears free with the brand new FancyTech True Wireless Earbuds!\r\n\
-  We want to give your ears the quality that they deserve, thats what we’re giving\
-  \ you the chance to win The FancyTech  True Wireless Earbuds!</p>\r\n<p>Want them?\
+  We want to give your ears the quality that they deserve, that's why we’re giving\
+  \ you the chance to win the FancyTech True Wireless Earbuds!</p>\r\n<p>Want them?\
   \ You know what to do…</p>"
 hero-header: "Win the FancyTech True Wireless Earbuds!"
 terms-confirmation: "N/A"
