@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-05-01T10:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Discover Rocket Design unique pieces"
 competition-description: "<p>At Rocket Design they think that music is what feelings\
