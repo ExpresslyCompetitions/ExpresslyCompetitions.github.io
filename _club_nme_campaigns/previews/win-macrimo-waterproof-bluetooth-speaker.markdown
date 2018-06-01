@@ -19,8 +19,8 @@ banner-img: "https://assets.expresslyapp.com/asset-65caa322-8c66-424e-bfb8-bdb64
 logo-left-href: "https://aaa.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-bf1c2e88-fdda-430d-8e1f-5cf880e5f433.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-befe93a5-2071-487b-b985-863f51e82efe.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-43862381-280f-47a4-a975-b71e0edb5844.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-48c1703d-e466-4036-8a2c-8e05d669ba1d.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-0d1b9906-89fc-4cea-b78a-319a86c2cf78.jpg"
 section1-content: "<p>This Waterproof Bluetooth Speaker is perfect for everyday indoor\
   \ and outdoor use, such as shower, beach, pool, boat, bath, car, office and more.\
   \ With warm white, red, blue, green, purple, light blue, color change and musical\
