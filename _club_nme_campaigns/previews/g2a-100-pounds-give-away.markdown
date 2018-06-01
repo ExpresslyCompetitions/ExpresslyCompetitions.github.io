@@ -7,14 +7,14 @@ end-date: "2018-06-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win £100 to discover many exciting games at G2A!"
+title: "Win £50 to discover many exciting games at G2A!"
 competition-description: "<p>Calling all gamers out there! We have great news for\
-  \ you! We’re giving away a £100 voucher for you to spend at the fastest growing\
-  \ digital gaming marketplace in the world: G2A!</p> \r\n<p>Liking what you hear?\
-  \ Click below to get involved!</p>"
-hero-header: "Win £100 to discover many exciting games at G2A!"
+  \ you! We’re giving away a £50 voucher for you to spend at the fastest growing digital\
+  \ gaming marketplace in the world: G2A!</p> \r\n<p>Liking what you hear? Click below\
+  \ to get involved!</p>"
+hero-header: "Win £50 to discover many exciting games at G2A!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-4997008a-a904-460f-ab65-eecbc48641de.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-b972241f-1f30-4471-8e71-a252abbf335c.jpg"
 logo-left-href: "http://g2a.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-2c869b3a-c212-4099-9a95-887e898331e2.jpg"
 logo-left-title: "G2A"
@@ -34,11 +34,11 @@ section2-content: "<p>Leader of the Region in Financial Services, Best Deal of t
   \ forward to join the G2A community, now thanks to NME AAA you can, because we are\
   \ giving YOU the chance to win £100 to spend at G2A!</p>\r\n<p>Enter the form below\
   \ and you could discover and enjoy tons of games at G2A!</p>"
-entry-title: "Win £100 to discover many exciting games at G2A!"
-entry-content: "<p>Enter the draw to win a £100 to discover many exciting games at\
+entry-title: "Win £50 to discover many exciting games at G2A!"
+entry-content: "<p>Enter the draw to win a £50 to discover many exciting games at\
   \ G2A and enjoy your favourite games by completing the form below before 23.59pm\
   \ on 01/07/2018.</p>"
 has-winner: false
-prize-description: "£100 to discover many exciting games at G2A."
+prize-description: "£50 to discover many exciting games at G2A."
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
