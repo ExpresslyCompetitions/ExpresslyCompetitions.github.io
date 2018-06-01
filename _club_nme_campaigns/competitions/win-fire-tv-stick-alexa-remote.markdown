@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-4d5c81a6-ba01-407a-be62-fb700a428957"
 type: "Competition"
-category: "Competition"
+category: "Technology"
 date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
