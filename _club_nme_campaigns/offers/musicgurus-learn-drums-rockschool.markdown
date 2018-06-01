@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-05-01T12:00:00.000Z"
 end-date: "2018-06-30T12:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Exclusive: start learning the drums today with a special 30% offer at Musicgurus"
 competition-description: "<p>Start learning the drums today with a special 30% offer\
