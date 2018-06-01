@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-44135a31-ed4d-4f1f-8343-1c0ce01a7ef5"
-type: "Preview"
-category: "competition"
-date: "2018-06-01T14:15:17.000Z"
+type: "Competition"
+category: "Competition"
+date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: false
