@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-02-19T14:53:53.000Z"
 end-date: "2018-07-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Meters Music, bringing a stage close to you!"
 competition-description: "What's better than listening to good music? To\_Meters Music,\
