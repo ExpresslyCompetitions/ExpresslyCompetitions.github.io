@@ -1,0 +1,45 @@
+---
+layout: club-layout
+title: Thank you for entering
+---
+{% include club_base_url.html %}
+
+<main role="main" class="container">
+    <div class="row mb-4">
+        <div class="col-12 text-center">
+            <h2 class="my-4">{{page.title}}</h2>
+            <p class="mb-5">
+                We will let you know if you win
+            </p>
+            <p class="mb-2">
+                <img src="https://assets01.buyexpressly.com/club/img/trophy.png" alt="" class="mx-auto mb-4 d-block" />
+                Discover other exciting opportunities below!
+            </p>
+        </div>
+    </div>
+
+    <div class="row competition-tile-container">
+        {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
+        {% assign items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
+        {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
+        {% for item in items reversed  %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-format="fluid"
+				data-ad-layout-key="-69+bw+11-10+hz"
+				data-ad-client="ca-pub-4949036163981273"
+				data-ad-slot="9631376469"></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+            <div class="col-md-4 col-sm-6 mb-4 hide-if-entered hide-if-expired show-if-reenter-now-flex growable" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}" data-expiration="{{ item.end-date | date_to_xmlschema }}">
+                <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
+                {% include club_tile.html item=item %}
+            </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</main>
