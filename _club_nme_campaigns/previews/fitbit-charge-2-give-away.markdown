@@ -25,8 +25,7 @@ section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep T
   \ of its numerous features!</p>\r\n<p>Tracking is so important for the health and\
   \ fitness that's why the #1 seller tracker will keep you moving and motivated! Enter\
   \ below for a chance to win the brand new Fitbit Charge 2 and let it be part of\
-  \ your personal fitness journey!</p>\r\n<p>Enter the draw to win your day-to-day\
-  \ Fitbit Charge 2 by completing the form below before 23:59 on 4th July 2018.</p>"
+  \ your personal fitness journey!</p>"
 entry-title: "Win the brand new Fitbit Charge 2!"
 entry-content: "<p>Enter the draw to win your day-to-day Fitbit Charge 2 by completing\
   \ the form below before 23:59 on 5th July 2018.</p>"
