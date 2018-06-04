@@ -2,7 +2,7 @@
 campaign-uuid: "c-ac83eacb-8e1b-404b-8d93-a2608e4cbe2d"
 type: "Preview"
 category: "Gifts"
-date: "2018-06-04T13:34:26.786Z"
+date: "2018-06-04T13:34:27.000Z"
 end-date: "2018-07-05T09:00:00.000Z"
 disable-form: false
 is_promoted: false
@@ -21,7 +21,7 @@ logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-1116f08b-cba4-45ce-a5d6-19c2307f867a.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-748077fc-e295-4087-8f71-eab7209c84d4.jpg"
 section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep Tracking\
-  \ & Alarms, Multi-Sport Modes, Connected GPS, Guided Breathing Sessions and some\
+  \ & Alarms, Multi-Sport Modes, Connected GPS, Guided Breathing Sessions are some\
   \ of its numerous features!</p>\r\n<p>Tracking is so important for the health and\
   \ fitness thats why the #1 seller tracker will keep you moving and motivated! Enter\
   \ below for a chance to win the brand new Fitbit Charge 2 and let it be part of\
