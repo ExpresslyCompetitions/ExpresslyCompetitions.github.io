@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-cdeb9767-20eb-4fe0-a2d7-ab1a2da931d9"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-06-04T09:00:00.000Z"
 end-date: "2018-06-18T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™!"
 competition-description: "<p>Calling all Gerard Butler and ''50 Cent'' fans! To celebrate\
