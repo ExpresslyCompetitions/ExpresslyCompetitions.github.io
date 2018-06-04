@@ -40,4 +40,5 @@ entry-content: "<p>DEN OF THIEVES Blu-ray™ release is the perfect plan for you
   \ <p><p>Enter the draw to win by completing the form below before 23.59pm on 18/06/2018.</p>"
 has-winner: false
 prize-description: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™."
+special-conditions: "Multiple entries are allowed up to one every 24 hours."
 ---
