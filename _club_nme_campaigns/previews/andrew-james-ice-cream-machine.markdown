@@ -24,7 +24,7 @@ section1-content: "<p>At Andrew James they provide the best quality products, th
   \ is why the Andrew James Ice Cream Maker has been voted the Which 'Best Buy’.</p>\r\
   \n<p>Chocolate, Strawberry… make delicious homemade ice cream in just 15 - 20 minutes!\
   \ As you are in control, you can avoid artificial ingredients found in mass-produced\
-  \ ice creams, make healthy treats, and adapt your recipes to cater for allergie</p>\r\
+  \ ice creams, make healthy treats, and adapt your recipes to cater for allergies.</p>\r\
   \n<p>If you or your loved ones have a sweet tooth, this Ice Cream Maker should be\
   \ yours! Enter below and grab a few spoons for a real treat!</p>"
 entry-title: "Win Andrew James Ice Cream Maker Machine!"
