@@ -27,12 +27,13 @@ section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep T
   \ fitness that's why the #1 seller tracker will keep you moving and motivated!</p>"
 section2-content: "<p>A better YOU starts with heart! If you want to conquer your\
   \ day, shed light on your night or push your fitness further... this is a MUST for\
-  \ you!</p>\r\nEnter below for a chance to win the brand new Fitbit Charge 2 and\
-  \ let it be part of your personal fitness journey!</p>"
+  \ you!</p>\r\n<p>Get a better understanding of your fitness level and see how you\
+  \ can improve over time with the new Fitbit Charge 2!</p>\r\n<p>Enter below for\
+  \ a chance to win and it could be coming home with you!</p>"
 entry-title: "Win the brand new Fitbit Charge 2!"
-entry-content: "<p>Enter the draw to win and get a better understanding of your fitness\
-  \ level with the brand new Fitbit Charge 2 by completing the form below before 23:59\
-  \ on 5th July 2018.</p>"
+entry-content: "<p>Enter the draw to win the brand new Fitbit Charge 2 and and let\
+  \ it be part of your personal fitness journey by completing the form below before\
+  \ 23:59 on 5th July 2018.</p>"
 has-winner: false
 prize-description: "A Fitbit Charge 2!"
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
