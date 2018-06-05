@@ -18,17 +18,21 @@ banner-img: "https://assets.expresslyapp.com/asset-d9a4e18f-a786-4417-bd04-bbdb3
 logo-left-href: "https://aaa.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-f3542555-d98d-4142-bbcf-3eaab6c311bc.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-5d20a119-1245-4bc6-8776-d3d1c62bf457.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-c641ad48-de44-4dda-86f5-17a5e2716bc9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-748077fc-e295-4087-8f71-eab7209c84d4.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-78b7f25b-4d18-4df3-82af-13511f526995.jpg"
 section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep Tracking\
   \ & Alarms, Multi-Sport Modes, Connected GPS, Guided Breathing Sessions are some\
   \ of its numerous features!</p>\r\n<p>Tracking is so important for the health and\
-  \ fitness that's why the #1 seller tracker will keep you moving and motivated! Enter\
-  \ below for a chance to win the brand new Fitbit Charge 2 and let it be part of\
-  \ your personal fitness journey!</p>"
+  \ fitness that's why the #1 seller tracker will keep you moving and motivated!</p>"
+section2-content: "<p>A better YOU starts with heart! If you want to conquer your\
+  \ day, shed light on your night or push your fitness further... this is a MUST for\
+  \ you!</p>\r\nEnter below for a chance to win the brand new Fitbit Charge 2 and\
+  \ let it be part of your personal fitness journey!</p>"
 entry-title: "Win the brand new Fitbit Charge 2!"
-entry-content: "<p>Enter the draw to win your day-to-day Fitbit Charge 2 by completing\
-  \ the form below before 23:59 on 5th July 2018.</p>"
+entry-content: "<p>Enter the draw to win and get a better understanding of your fitness\
+  \ level with the brand new Fitbit Charge 2 by completing the form below before 23:59\
+  \ on 5th July 2018.</p>"
 has-winner: false
 prize-description: "A Fitbit Charge 2!"
 special-conditions: "Multiple entries are allowed up to one every 24 hours."
