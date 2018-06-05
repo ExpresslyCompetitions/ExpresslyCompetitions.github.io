@@ -2,8 +2,8 @@
 campaign-uuid: "c-514fe24a-5a53-415a-b7fe-6344348addc6"
 type: "Preview"
 category: "Tickets"
-date: "2018-05-23T19:00:00.000Z"
-end-date: "2018-06-08T23:59:00.000Z"
+date: "2018-06-07T09:00:00.000Z"
+end-date: "2018-06-14T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -37,12 +37,12 @@ section2-content: "<p>Festival of Voice\_is thrilled\_to welcome\_Elvis\_Costell
   \ the\_songs,\_Alison,\_Pump It Up,\_Everyday\_I Write\_The\_Book,\_and his rendition\
   \ of the\_Nick Lowe\_song are some of his most recognised and acclaimed pieces of\
   \ work. </p>"
-section3-content: "<p>Want to come along with us? Competition closes on Friday 8th\
+section3-content: "<p>Want to come along with us? Competition closes on Friday 14th\
   \ of June at 23:59 so complete the form below for a chance to win a pair of tickets\
   \ and you could be singing along with Elvis Costello at Wales Millennium Centre\
   \ in Cardiff on Sunday 17th of June.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
-entry-content: "<p>Complete the form below before June 8th at 23:59 to be in with\
+entry-content: "<p>Complete the form below before June 14th at 23:59 to be in with\
   \ a chance to rock out with Elvis Costello at Festival of Voice 2018! at Wales Millennium\
   \ Centre.</p>"
 has-winner: false
