@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-0d66257a-3075-4164-af5a-b41d55efcda2"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-06-05T16:00:00.000Z"
 end-date: "2018-07-05T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Andrew James Ice Cream Maker Machine!"
 competition-description: "<p>Summer is about to come and what a better way to start\
