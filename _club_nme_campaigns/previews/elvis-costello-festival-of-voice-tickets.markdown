@@ -23,13 +23,13 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-853b7654-622f-41a3-8f63-2e
 bg-image-first: "https://assets.expresslyapp.com/asset-6765673a-df36-44fa-a8f4-ef8f4b76749c.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-a8d4b22a-e51a-46bd-833f-27a8fa7a5a8c.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-bd70aba9-60c4-41e3-ba4a-5495a1687369.jpg"
-section1-content: "<p>Festival of Voice 2018 it’s a biennial arts festival in Cardiff\
-  \ packed with great music artists to celebrate culture and the voice</p>\r\n<p>It\
-  \ is finally here to bring you an eclectic lineup of cultural peformers from around\
-  \ the world: Patti Smith, Elvis Costello, Angélique Kidjo, a brand new collaboration\
-  \ between Laura Marling and musician and producer Mike Lindsay of Tunng – LUMP –\
-  \ and many more will  join the line-up of headline music artists performing at Wales\
-  \ Millennium Centre.</p>"
+section1-content: "<p>Festival of Voice 2018 it’s a biennial arts festival taking\
+  \ place in Cardiff packed with great music artists to celebrate culture and the\
+  \ voice.</p>\r\n<p>It is finally here to bring you an eclectic line-up of cultural\
+  \ peformers from around the world: Patti Smith, Elvis Costello, Angélique Kidjo,\
+  \ a brand new collaboration between Laura Marling and musician and producer Mike\
+  \ Lindsay of Tunng – LUMP – and many more will  join the line-up of headline music\
+  \ artists performing at Wales Millennium Centre.</p>"
 section2-content: "<p>Festival of Voice\_is thrilled\_to welcome\_Elvis\_Costello\
   \ for a\_fabulous finale\_to close\_this magnificent series of events.</p>\r\n<p>Two\
   \ Ivor\_Novello Awards for\_songwriting, a\_BAFTA for Alan Bleasdale’s television\
