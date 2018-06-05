@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-d9a4e18f-a786-4417-bd04-bbdb3
 logo-left-href: "https://aaa.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-f3542555-d98d-4142-bbcf-3eaab6c311bc.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-1116f08b-cba4-45ce-a5d6-19c2307f867a.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5d20a119-1245-4bc6-8776-d3d1c62bf457.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-748077fc-e295-4087-8f71-eab7209c84d4.jpg"
 section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep Tracking\
   \ & Alarms, Multi-Sport Modes, Connected GPS, Guided Breathing Sessions are some\
