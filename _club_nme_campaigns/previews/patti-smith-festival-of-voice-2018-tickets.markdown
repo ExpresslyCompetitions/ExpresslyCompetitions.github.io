@@ -2,8 +2,8 @@
 campaign-uuid: "c-dc403916-5411-4122-bea7-1992cc525fe0"
 type: "Preview"
 category: "Tickets"
-date: "2018-05-23T19:00:00.000Z"
-end-date: "2018-06-04T23:59:00.000Z"
+date: "2018-06-05T15:00:00.000Z"
+end-date: "2018-06-08T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -43,7 +43,7 @@ section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and 
   \ powerful voice at Festival of Voice 2018 at Wales Millennium Centre, Cardiff on\
   \ Tuesday 12th of June.</p> \r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
-entry-content: "<p>Complete the form below before June 4th at 23:59 to be in with\
+entry-content: "<p>Complete the form below before June 8th at 23:59 to be in with\
   \ a chance to rock out with Patti Smith at Festival of Voice 2018! at Wales Millennium\
   \ Centre.</p>"
 has-winner: false
