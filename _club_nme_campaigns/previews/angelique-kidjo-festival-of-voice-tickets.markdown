@@ -23,11 +23,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-e9443c9a-ee5a-4939-8c6c-88
 bg-image-first: "https://assets.expresslyapp.com/asset-5700db50-d7b3-47b9-9456-dc993abebc9b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-34bb5a84-7c1d-488f-ad4a-a81dde85589e.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-8b514455-ce6b-4d84-8a5c-ff04983f3481.jpg"
-section1-content: "<p>Festival of Voice is back for its second instalment, and they’\
-  re celebrating culture and the voice during\_11 days from 7th -17th\_of June across\
-  \ Cardiff.</p>\r\n<p>Theatre, talks, unique collaborations, one-off events, contemporary\
-  \ music such as Patti Smith, Elvis Costello, the brand new collaboration —LUMP—\
-  \  and that is just the beginning!</p>"
+section1-content: "<p>Festival of Voice 2018, the biennial arts festival is back for\
+  \ its second instalment, and they’re celebrating culture and the voice during\_\
+  11 days from 7th -17th\_of June across Cardiff with numerous artists, events and\
+  \ community projects.</p>\r\n<p>Theatre, talks, unique collaborations, one-off events,\
+  \ contemporary music such as Patti Smith, Elvis Costello, the brand new collaboration\
+  \ —LUMP—  and that is just the beginning!</p>"
 section2-content: "<p>The incredible performer Angélique Kidjo is set to show us her\
   \ magnificent voice through familiar melodies reworked into a spectacular genre-bending\
   \ presentation.</p>\_\r\n<p>Angélique\_Kidjo's\_latest project; her reinterpretation\
