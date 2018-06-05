@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-824e2b53-78c0-4ad7-8c98-9cfd5
 logo-left-href: "https://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-43284012-e792-43f9-a945-ca033dde758e.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-a7882433-9afe-450f-b651-e121edb7d657.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-a6357e93-4973-49bb-b784-f06615d5198b.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-878c8132-f27f-42e1-abad-7f43de182ec7.jpg"
 section1-content: "<p>At Andrew James they provide the best quality products, that\
   \ is why the Andrew James Ice Cream Maker has been voted the Which 'Best Buy’.</p>\r\
