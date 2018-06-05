@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-f444e27e-34c3-4464-8e69-da745214e0b0"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
-date: "2018-06-05T15:00:00.000Z"
+date: "2018-06-05T11:00:00.000Z"
 end-date: "2018-06-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of tickets to see Angélique Kidjo at Festival of Voice 2018!"
 competition-description: "<p>Would you like to see the amazing Angélique\_Kidjo perform\
