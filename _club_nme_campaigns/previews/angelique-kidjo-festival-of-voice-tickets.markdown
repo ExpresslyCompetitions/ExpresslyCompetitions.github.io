@@ -3,7 +3,7 @@ campaign-uuid: "c-f444e27e-34c3-4464-8e69-da745214e0b0"
 type: "Preview"
 category: "Tickets"
 date: "2018-06-05T15:00:00.000Z"
-end-date: "2018-06-08T23:59:00.000Z"
+end-date: "2018-06-07T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -46,7 +46,7 @@ section3-content: "<p>If you don’t want to miss an unforgettable performance o
   \ her live at Wales Millennium Centre in Cardiff on Saturday 9th of June!</p>\r\n\
   <p>Good luck!</p>"
 entry-title: "Win a pair of tickets to see Angélique Kidjo at Festival of Voice 2018!"
-entry-content: "<p>Complete the form below before 1st of June at 23:59 to be in with\
+entry-content: "<p>Complete the form below before 7th of June at 23:59 to be in with\
   \ a chance to dance and sing along with Angelique Kiddo music at Festival of Voice\
   \ 2018! at Wales Millennium Centre.</p>"
 has-winner: false
