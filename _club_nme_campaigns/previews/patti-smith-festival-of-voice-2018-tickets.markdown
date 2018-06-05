@@ -2,7 +2,7 @@
 campaign-uuid: "c-dc403916-5411-4122-bea7-1992cc525fe0"
 type: "Preview"
 category: "Tickets"
-date: "2018-06-05T15:00:00.000Z"
+date: "2018-06-06T09:00:00.000Z"
 end-date: "2018-06-08T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -32,12 +32,12 @@ section1-content: "<p>Festival of Voice 2018 has finally arrived and is packed w
   \ music artists performing at Wales Millennium Centre.</p>"
 section2-content: "<p>Festival of Voice is overjoyed to invite Patti Smith to perform\
   \ live in Cardiff for the first time since she played at the city’s Coal Exchange\
-  \ in 2011!</p>\r\n<p>13 albums, 4 Grammy nominations, and a Golden Globe nominee\
+  \ in 2011.</p>\r\n<p>13 albums, 4 Grammy nominations, and a Golden Globe nominee\
   \ for the song Mercy Is from the film Noah; these are just a few of this astonishing\
   \ woman’s awards, nominations, honours and accolades.</p>"
 section3-content: "<p>Patti joins Festival of Voice 2018 to share her words and poetry\
   \ exploring life as a mother, lover, a widow, and a dreamer at this amazing event\
-  \ which promises to be an incredible\_festival!</p> \r\n<p>If you are as excited\
+  \ which promises to be an incredible\_festival.</p> \r\n<p>If you are as excited\
   \ as we are, think no more because we have a pair of tickets to see her perform\
   \ live!</p>\r\n<p>Enter the draw below for a chance to win and you could hear her\
   \ powerful voice at Festival of Voice 2018 at Wales Millennium Centre, Cardiff on\
