@@ -25,7 +25,7 @@ section1-content: "<p>At Andrew James they provide the best quality products, th
   \n<p>Chocolate, Strawberry… make delicious homemade ice cream in just 15 - 20 minutes!\
   \ As you are in control, you can avoid artificial ingredients found in mass-produced\
   \ ice creams, make healthy treats, and adapt your recipes to cater for allergies.</p>\r\
-  \n<p>If you or your loved ones have a sweet tooth, this Ice Cream Maker should be\
+  \n<p>If you or your loved ones have a sweet tooth, this ice cream maker should be\
   \ yours! Enter below and grab a few spoons for a real treat!</p>"
 entry-title: "Win Andrew James Ice Cream Maker Machine!"
 entry-content: "<p>Enter the draw to win the Andrew James Ice Cream Maker Machine!\
