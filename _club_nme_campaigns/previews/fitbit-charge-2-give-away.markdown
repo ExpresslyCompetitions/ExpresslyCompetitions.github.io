@@ -27,7 +27,7 @@ section1-content: "<p>All-Day Activity Tracking, Reminders to Move, Auto Sleep T
   \ fitness that's why the #1 seller tracker will keep you moving and motivated!</p>"
 section2-content: "<p>A better YOU starts with heart! If you want to conquer your\
   \ day, shed light on your night or push your fitness further... this is a MUST for\
-  \ you!</p>\r\n<p>Get a better understanding of your fitness level and see how you\
+  \ you.</p>\r\n<p>Get a better understanding of your fitness level and see how you\
   \ can improve over time with the new Fitbit Charge 2!</p>\r\n<p>Enter below for\
   \ a chance to win and it could be coming home with you!</p>"
 entry-title: "Win the brand new Fitbit Charge 2!"
