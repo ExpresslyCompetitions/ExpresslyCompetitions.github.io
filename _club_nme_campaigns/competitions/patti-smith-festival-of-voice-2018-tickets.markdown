@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-dc403916-5411-4122-bea7-1992cc525fe0"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-06-06T09:00:00.000Z"
 end-date: "2018-06-08T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of tickets to see Patti Smith at Festival of Voice 2018!"
 competition-description: "<p>Calling all Patti Smith fans! Festival of Voice is back\
