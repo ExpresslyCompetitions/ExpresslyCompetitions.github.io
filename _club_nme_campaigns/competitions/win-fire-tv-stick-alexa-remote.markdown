@@ -35,5 +35,6 @@ has-winner: false
 prize-description: "The Fire TV Stick with Alexa Voice Remote!"
 prize-restrictions: "Prize includes only the product. Any related account or subscription\
   \ is not included."
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
