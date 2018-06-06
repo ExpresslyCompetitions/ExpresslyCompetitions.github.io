@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the Macrimo Waterproof Bluetooth Speaker!"
 competition-description: "<p>Want to enjoy crystal clear music while camping, at the\
@@ -34,5 +34,6 @@ entry-content: "<p>Enter the draw to win the ultimate Waterproof Bluetooth Speak
   \ 23:59 on 1st July 2018.</p>"
 has-winner: false
 prize-description: "A Macrimo Waterproof Bluetooth Speaker!"
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
