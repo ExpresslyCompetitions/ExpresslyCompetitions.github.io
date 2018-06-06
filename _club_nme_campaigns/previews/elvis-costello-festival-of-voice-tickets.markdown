@@ -49,5 +49,5 @@ has-winner: false
 prize-description: "A pair of tickets to see Elvis Costello at Festival of Voice 2018\
   \ at Wales Millennium Centre on the 17th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day."
 ---
