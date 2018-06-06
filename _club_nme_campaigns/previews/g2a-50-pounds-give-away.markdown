@@ -40,5 +40,5 @@ entry-content: "<p>Enter the draw to win a £50 to discover many exciting games 
   \ on 01/07/2018.</p>"
 has-winner: false
 prize-description: "£50 gift card at G2A."
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day."
 ---
