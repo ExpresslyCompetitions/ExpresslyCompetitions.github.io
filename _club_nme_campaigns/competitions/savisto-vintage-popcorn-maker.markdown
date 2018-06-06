@@ -38,4 +38,6 @@ entry-content: "<p>Enter the draw to win the Savisto Vintage Retro Hot Air Popco
   \ 23:59 on June 14th 2018.</p>"
 has-winner: false
 prize-description: "A Savisto Vintage Retro Hot Air Popcorn Maker!"
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
