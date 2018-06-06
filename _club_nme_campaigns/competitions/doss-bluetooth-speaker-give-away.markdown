@@ -37,4 +37,6 @@ entry-content: "<p>Enter the draw to win the speakers your ears deserve, DOSS So
   \ Bluetooth speaker! by completing the form below before 23:59 on 9th  June 2018.</p>"
 has-winner: false
 prize-description: "A Doss SoundBox Bluetooth speaker"
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
