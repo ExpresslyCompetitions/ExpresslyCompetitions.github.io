@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-ac83eacb-8e1b-404b-8d93-a2608e4cbe2d"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-06-04T13:34:27.000Z"
 end-date: "2018-07-05T09:00:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the brand new Fitbit Charge 2!"
 competition-description: "<p>Make every beat count with the brand new Fitbit Charge\
@@ -36,5 +36,6 @@ entry-content: "<p>Enter the draw to win the brand new Fitbit Charge 2 and and l
   \ 23:59 on 5th July 2018.</p>"
 has-winner: false
 prize-description: "A Fitbit Charge 2!"
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
