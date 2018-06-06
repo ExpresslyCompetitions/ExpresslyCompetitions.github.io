@@ -50,5 +50,5 @@ has-winner: false
 prize-description: "A pair of tickets to see Patti Smith at Festival of Voice 2018\
   \ at the Wales Millennium Centre on the 12th of June."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day."
 ---
