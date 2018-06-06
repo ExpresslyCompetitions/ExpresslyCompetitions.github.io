@@ -35,5 +35,6 @@ entry-content: "<p>Enter the draw to win the brand new Andrew James Pancake Make
   \ form below before 23:59 on 1st July 2018.</p>"
 has-winner: false
 prize-description: "Andrew James Pancake Maker Machine!"
-special-conditions: "Multiple entries are allowed up to one every 24 hours."
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
