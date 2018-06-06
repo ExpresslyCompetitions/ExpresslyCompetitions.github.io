@@ -47,5 +47,6 @@ has-winner: false
 prize-description: "A £200 voucher to spend in craft beer at BrewDog.\r\nWinner wins\
   \ 4x £50 vouchers"
 special-conditions: "Winner wins 4x £50 vouchers.\r\nMultiple entries are allowed\
-  \ up to one every 24 hours."
+  \ up to one every day. Starting June 6, 2018, the 24h interval between multiple\
+  \ entries resets at midnight every day."
 ---
