@@ -40,4 +40,6 @@ entry-content: "<p>Complete the form below before June 23rd at 23:59 to be in wi
   \ Special Edition!</p>"
 has-winner: false
 prize-description: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
+special-conditions: "Multiple entries are allowed up to one every day. Starting June\
+  \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
 ---
