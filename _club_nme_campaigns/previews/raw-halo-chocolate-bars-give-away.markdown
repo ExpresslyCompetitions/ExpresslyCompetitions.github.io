@@ -35,12 +35,12 @@ section2-content: "<p>Driven by her passion for eating well, Raw Halo was born, 
   \ ingredients.</p>\r\n\_<p>With the support of local retailers, her collection of\
   \ bars quickly grew in popularity, and now the brand can be found in more than 1,000\
   \ stores in over 25 countries worldwide!</p>"
-section3-content: "p>Pure Dark, Pure Mylk,  Mylk + Salted Caramel bars all winning\
+section3-content: "<p>Pure Dark, Pure Mylk,  Mylk + Salted Caramel bars all winning\
   \ prestigious Great Taste Awards, recognising Raw Halo as the raw chocolate bar\
   \ which tastes as delicious as it looks!</p>\r\n<p>If you cannot wait to try their\
   \ amazing and tasty chocolates, now thanks to NME AAA and Raw Halo you can! We’\
   re giving away a delicious bundle of healthy chocolates bars for you! Enter the\
-  \ form below and they can be yours!\r\n<p>Good luck</p>"
+  \ form below and they can be yours!</p>\r\n<p>Good luck</p>"
 entry-title: "Win a delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 entry-content: "<p>Enter the draw to win a delicious bundle of healthy chocolates\
   \ bars courtesy of Raw Halo and get ready to taste their amazing flavours by completing\
