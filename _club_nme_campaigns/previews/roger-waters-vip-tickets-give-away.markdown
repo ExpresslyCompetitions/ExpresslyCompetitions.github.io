@@ -28,18 +28,19 @@ section1-content: "<p>Roger Waters – Us + Them is coming to the UK and will\_s
   \ the 1974 track “Us And Them,” from the multi-million selling Pink Floyd album\
   \ The Dark Side of the Moon.</p>\r\n<p>His legendary live performances are renowned\
   \ as immersive sensory experiences featuring high class, state-of-the-art audio\
-  \ visual production and breathtaking quad sound.</p> \_"
-section2-content: "Roger Waters – Us + Them marks Waters’ first return to Europe since\
-  \ The Wall Live (2010-2013), his sold-out world tour which was seen by more than\
-  \ 4 million fans globally at 219 shows and remains the highest grossing tour by\
-  \ any solo artist in history!"
+  \ visual production and breathtaking quad sound.</p> \_\r\n<p><i>(Credit: KATE IZOR)</i></p>"
+section2-content: "<p>Roger Waters – Us + Them marks Waters’ first return to Europe\
+  \ since The Wall Live (2010-2013), his sold-out world tour which was seen by more\
+  \ than 4 million fans globally at 219 shows and remains the highest grossing tour\
+  \ by any solo artist in history!</p>\r\n<p><i>(Credit: KATE IZOR)</i></p>"
 section3-content: "<p>This new tour will\_be no exception, following months of meticulous\
   \ planning and visionary craft, it will inspire crowds with its powerful delivery\
   \ to take the audience on a musical journey and NME AAA wants to take YOU there!</p>\r\
   \n<p>We have a pair of Bronze Hot VIP Tickets for one lucky NME AAA member to win\
   \ including: Seated tickets, Exclusive merchandise, Tour lithographs designed exclusively\
   \ by Roger Waters, Designated check-in with on-site event staff and many more!</p>\r\
-  \n</p>Enter the form below and you could be going to Manchester next July!</p>"
+  \n</p>Enter the form below and you could be going to Manchester next July!</p>\r\
+  \n<p><i>(Credit: KATE IZOR)</i></p>"
 entry-title: "Win a pair of Bronze Hot VIP Tickets to Roger Waters 'Us + Them' Tour\
   \ in Manchester!"
 entry-content: "<p>Enter the draw to win a pair of Bronze Hot VIP Tickets and get\
