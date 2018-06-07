@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-514fe24a-5a53-415a-b7fe-6344348addc6"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-06-07T09:00:00.000Z"
 end-date: "2018-06-14T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
 competition-description: "<p>Get ready because NME AAA is giving away a pair of tickets\
