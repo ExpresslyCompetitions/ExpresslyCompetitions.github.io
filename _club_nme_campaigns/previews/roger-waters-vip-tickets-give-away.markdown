@@ -12,7 +12,7 @@ competition-description: "<p>Calling all Roger Waters fans, get ready: NME AAA h
   \ a pair of Bronze Hot VIP Tickets to attend the Roger Water’s upcoming show in\
   \ Manchester on 3 July 2018!</p>\r\n<p>Wanna be there now? You know what to do…\
   </p>"
-hero-header: "Win a pair of Bronze Hot VIP Tickets to Roger Waters Us + Them Tour\
+hero-header: "Win a pair of Bronze Hot VIP Tickets to Roger Waters 'Us + Them' Tour\
   \ in Manchester!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-68dad5ba-049f-42fb-a4e9-2845390356a9.jpg"
