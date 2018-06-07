@@ -2,7 +2,7 @@
 campaign-uuid: "c-d41e0dca-e7e7-4c95-ab07-b2e58f58ebe8"
 type: "Preview"
 category: "Food"
-date: "2018-06-07T15:17:07.189Z"
+date: "2018-06-07T15:17:07.000Z"
 end-date: "2018-06-28T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -26,7 +26,7 @@ bg-image-third: "https://assets.expresslyapp.com/asset-a2005f73-598e-47c4-ada1-f
 section1-content: "<p>Starting small, Raw Halo founder Meg, began the business of\
   \ making organic raw chocolate in 2014 from her London flat, devising homemade recipes\
   \ for chocolate treats which not only tasted great, but were glowing with goodness.</p>\r\
-  \n\_<p>Searching the shelves of local stockists for a healthier chocolate bar that\
+  \n<p>Searching the shelves of local stockists for a healthier chocolate bar that\
   \ still tasted delicious, she was soon disappointed with those that she found.This\
   \ proved to be her inspiration to dream up a healthier treat which utilised the\
   \ finest organic ingredients and only a little natural sweetener.</p>"
