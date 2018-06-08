@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-7f4edf43-b834-4918-a53d-fc0eb
 logo-left-href: "https://rawhalo.com"
 logo-left-image: "https://assets.expresslyapp.com/6cfd64d1-5159-4f88-aa60-26969fa2b013-thumb.png"
 logo-left-title: "Raw Halo"
-bg-image-hero: "https://assets.expresslyapp.com/asset-eed4d01c-beb5-4271-9e9f-1ee3c0789642.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-9b9b9f8e-8c2a-4eb9-bcb5-050f24122d9a.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-bb2980e5-f4bc-4380-90fb-f4d98526d357.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-f3430479-cbaf-40a0-a2c0-362c7b8e0ceb.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-a2005f73-598e-47c4-ada1-f013d7e5dfaa.jpg"
