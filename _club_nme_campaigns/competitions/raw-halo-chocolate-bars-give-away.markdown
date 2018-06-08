@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-d41e0dca-e7e7-4c95-ab07-b2e58f58ebe8"
-type: "Preview"
+type: "Competition"
 category: "Food"
-date: "2018-06-07T15:17:07.000Z"
+date: "2018-06-08T10:00:00.000Z"
 end-date: "2018-06-28T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 competition-description: "<p>Who doesn’t love chocolate? and who doesn’t love it even\
