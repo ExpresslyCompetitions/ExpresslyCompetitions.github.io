@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-01T16:00:00.000Z"
 end-date: "2018-07-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Macrimo Waterproof Bluetooth Speaker!"
 competition-description: "<p>Want to enjoy crystal clear music while camping, at the\
