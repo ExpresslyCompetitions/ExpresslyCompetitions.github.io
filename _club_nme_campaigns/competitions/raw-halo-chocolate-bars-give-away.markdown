@@ -40,7 +40,7 @@ section3-content: "<p>Pure Dark, Pure Mylk,  Mylk + Salted Caramel bars all winn
   \ which tastes as delicious as it looks!</p>\r\n<p>If you cannot wait to try their\
   \ amazing and tasty chocolates, now thanks to NME AAA and Raw Halo you can! We’\
   re giving away a delicious bundle of healthy chocolates bars for you! Enter the\
-  \ form below and they can be yours!</p>\r\n<p>Good luck</p>"
+  \ form below and they can be yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 entry-content: "<p>Enter the draw to win a delicious bundle of healthy chocolates\
   \ bars courtesy of Raw Halo and get ready to taste their amazing flavours by completing\
