@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-05-23T15:00:00.000Z"
 end-date: "2018-06-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
 competition-description: "<p>The world’s best family board game brings you a brand\
