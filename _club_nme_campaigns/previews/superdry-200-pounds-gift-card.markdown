@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-fb1a2e69-c6a1-4fbd-bc76-164e4
 logo-left-href: "https://www.superdry.com/mens/jackets/bomber-jackets/details/70532/rookie-winter-aviator-bomber-jacket-beige"
 logo-left-image: "superdry-logo.png"
 logo-left-title: "Superdry"
-bg-image-hero: "https://assets.expresslyapp.com/asset-fe22a13b-1bfa-446a-a050-0bba46508d3a.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-50134bdd-5d12-4b90-9e88-2fa799d9fac6.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-6421c259-284b-458d-9cfe-315a11b9679b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-87098d82-023f-4e25-a7f9-0484f06fdaf7.jpg"
 section1-content: "<p>Superdry is an exciting contemporary brand which focuses on\
