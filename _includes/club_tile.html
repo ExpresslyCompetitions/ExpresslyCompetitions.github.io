@@ -1,7 +1,7 @@
 {% include club_base_url.html %}
 {% assign item-path-prefix = (include.item.collection | prepend: "_") %}
 {% assign item-url = (include.item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, club_base) %}
-<div class="competition-card growable grow-1">
+<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} growable grow-1">
     <div class="competition-card--banner">
         {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=false %}
     </div>
