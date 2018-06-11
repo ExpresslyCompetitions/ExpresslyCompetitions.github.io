@@ -13,7 +13,8 @@ competition-description: "In need to spice up your sleepwear wardrobe? Looking f
   \ And today, we are offering one lucky winner the chance to win a £50 gift card!\r\
   \n<br/>Treat yourself to something nice. With Figleaves, you can."
 hero-header: "Win a £50 gift card at Figleaves and experience an Expressly Powerlink"
-terms-confirmation: "figleaves-win-50-gift-card-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/figleaves-win-50-gift-card-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with Figleaves."
 banner-img: "https://assets.expresslyapp.com/asset-0d1cb823-3cf3-43ee-a141-2b0becd6010d.jpg"
 logo-left-href: "https://www.figleaves.com/uk/"
 logo-left-image: "https://assets.expresslyapp.com/4260eb96-7718-4b5a-aebd-c9d246c3453b-thumb.png"

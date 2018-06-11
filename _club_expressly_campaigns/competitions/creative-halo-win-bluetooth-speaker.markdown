@@ -13,7 +13,8 @@ competition-description: "Our friends from Creative have done it again and now y
   \ Halo Bluetooth Speaker is finally here with a sleek design and with brand new\
   \ features.\r\n<br/>Click on the link below to discover more and enter the competition."
 hero-header: "Win a Creative Halo and experience an Expressly Powerlink"
-terms-confirmation: "creative-halo-win-bluetooth-speaker-terms-and-conditions.pdf"
+terms-confirmation: "I agree to the competition <a href=\"../etc/creative-halo-win-bluetooth-speaker-terms-and-conditions.pdf\"\
+  \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with Creative."
 banner-img: "https://assets.expresslyapp.com/asset-ddb4537a-1741-45f2-bff2-44055c394bec.jpg"
 logo-left-href: "https://uk.creative.com"
 logo-left-image: "https://assets.expresslyapp.com/02c67b6a-94df-43a2-b775-26fb02026c33-thumb.png"
