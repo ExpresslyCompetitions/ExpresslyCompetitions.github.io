@@ -9,8 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "Win a £200 Superdry gift card!"
 competition-description: "<p>In need to renew your summer wardrobe with new clothes?\
-  \ YOU won’t want to miss this: Give your hot-weather wardrobe an update because\
-  \ we have a £200 Superdry gift card for one lucky NME AAA member to win</p>\r\n\
+  \ YOU won’t want to miss this: give your hot-weather wardrobe an update because\
+  \ we have a £200 Superdry gift card for one lucky NME AAA member to win!</p>\r\n\
   <p>Liking what you hear? You know what to do…</p>"
 hero-header: "Win a £200 Superdry gift card!"
 terms-confirmation: "N/A"
@@ -29,7 +29,8 @@ section2-content: "<p>Treat yourself: classic cut tees, latest coats and jackets
   \ make for the perfect layer on those cooler summer days or the latest Superdry\
   \ sportswear to keep you motivated for your summer goals! At Superdry they have\
   \ something for everybody!</p>\r\n<p>Click below and get ready for summer by the\
-  \ chance of winning a £200 Superdry gift card thanks to NME AAA</p>\r\n<p>Good luck</p>"
+  \ chance of winning a £200 Superdry gift card thanks to NME AAA.</p>\r\n<p>Good\
+  \ luck!</p>"
 entry-title: "Win a £200 Superdry gift card!"
 entry-content: "<p>Enter the draw to win a £200 Superdry gift card and get ready to\
   \ stand out this summer with Superdry by completing the form below before 23:59\
