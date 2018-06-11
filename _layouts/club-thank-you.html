@@ -20,8 +20,10 @@ title: Thank you for entering
 
     <div class="row competition-tile-container">
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
-        {% assign items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
+        {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
+
+        {% assign items = all_items | where:"is_promoted",true | sort: 'date'  %}
         {% for item in items reversed  %}
             {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
             {% if end_date_seconds > past_epoch_seconds %}
@@ -29,7 +31,19 @@ title: Thank you for entering
                 <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
                 {% include club_tile.html item=item %}
             </div>
-        {% endif %}
+            {% endif %}
         {% endfor %}
+
+        {% assign items = all_items | where:"is_promoted",false | sort: 'date'  %}
+        {% for item in items reversed  %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+            <div class="col-md-4 col-sm-6 mb-4 hide-if-entered hide-if-expired show-if-reenter-now-flex growable" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}" data-expiration="{{ item.end-date | date_to_xmlschema }}">
+                <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
+                {% include club_tile.html item=item %}
+            </div>
+            {% endif %}
+        {% endfor %}
+
     </div>
 </main>
