@@ -2,8 +2,8 @@
 campaign-uuid: "c-98b8e5c7-7516-4788-8f48-1d65a38a1350"
 type: "Preview"
 category: "Entertainment"
-date: "2018-06-01T16:45:00.000Z"
-end-date: "2018-06-01T23:59:00.000Z"
+date: "2018-06-11T10:00:00.000Z"
+end-date: "2018-07-11T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -37,7 +37,7 @@ section2-content: "<p>Leader of the Region in Financial Services, Best Deal of t
 entry-title: "Win £50 to discover many exciting games at G2A!"
 entry-content: "<p>Enter the draw to win a £50 to discover many exciting games at\
   \ G2A and enjoy your favourite games by completing the form below before 23.59pm\
-  \ on 01/07/2018.</p>"
+  \ on 11/07/2018.</p>"
 has-winner: false
 prize-description: "£50 gift card at G2A."
 special-conditions: "Multiple entries are allowed up to one every day."
