@@ -10,8 +10,9 @@ has_entry_page: true
 title: "Win a pair of 4-Day Gold Camping tickets to Creamfields Festival!"
 competition-description: "<p>Get ready: Creamfields 2018 is back! and we want YOU\
   \ to come along with us! We are giving away a pair of 4-Day Gold Camping tickets\
-  \ to one lucky NME AAA member to win!</p> \r\n<p>If you don’t want to miss the mind-blowing\
-  \ line-up live… you know what to do!</p>"
+  \ to one lucky NME AAA member to win to attend the amazing Creamfields Festival\
+  \ 2018 from Thursday 23rd till Sunday 26th of August!</p> \r\n<p>If you don’t want\
+  \ to miss the mind-blowing line-up live… you know what to do!</p>"
 hero-header: "Win a pair of 4-Day Gold Camping tickets to Creamfields Festival!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5fd715c3-e6c4-47f9-b257-f575e293483c.jpg"
