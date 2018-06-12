@@ -39,7 +39,7 @@ section3-content: "<p>Featuring performances from the likes of Above & Beyond, A
   \ Fatboy Slim, Faithless (DJ set), Giggs, Goldie, Groove Armada, Idris Elba, Kö\
   lsch, Leftfield (DJ set), Nicole Moudaber, Roni Size, Rudimental, Sasha & John Digweed,\
   \ Solardo, Sub Focus, Sven Väth, Virtual Self, and Yousef to name just a few.</p>\r\
-  \n<p>We know you won’t want to miss this amazing festival that is why NME AAA has\
+  \n<p>We know you won’t want to miss this amazing festival, that is why NME AAA has\
   \ pair of 4-Day Gold Camping tickets for YOU to come along with us and enjoy all\
   \ of our artists perform live!</p>\r\n<p>If this sound like the best plan of your\
   \ summer, enter the form below for chance to win a pair of 4-Day Gold Camping tickets\
