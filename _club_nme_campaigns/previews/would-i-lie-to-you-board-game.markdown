@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-255b1576-ed7a-4cec-82d7-a9f94
 logo-left-href: "https://aaa.nme.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-4cc454eb-b1cf-4f50-9034-c5d44bb94ce4.jpg"
 logo-left-title: "NME"
-bg-image-hero: "https://assets.expresslyapp.com/asset-3d6d4310-904f-47cc-acfc-92d438825c0b.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-1ea9ce58-291b-4171-847b-f27e6ab3fc45.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-12598e5d-a007-48b3-850e-e8a8f5bd7fcf.jpg"
 section1-content: "<p>Based on the hit BBC comedy panel show, this is a game of quick\
   \ thinking that calls for a cool head and a poker face! Can you fool your opponents\
