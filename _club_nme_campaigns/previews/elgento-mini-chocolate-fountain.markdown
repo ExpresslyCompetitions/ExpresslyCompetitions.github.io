@@ -23,7 +23,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-85ddff41-519b-4957-b22f-a
 section1-content: "<p>This visually appealing three tier cascading fountain melts\
   \ any type of chocolate, making it ideal for dipping fruit or marshmallows.</p>\r\
   \n<p>This chocolate fountain is fun for both children and adults, and its appealing\
-  \ design its perfect for every kind of event!</p>\r\n<p>If you can not wait to indulge\
+  \ design its perfect for every kind of event!</p>\r\n<p>If you cannot wait to indulge\
   \ yourself in chocolate, enter the form below for a chance to win this amazing chocolate\
   \ fountain and get ready to enjoy delicious chocolates anywhere!</p>"
 entry-title: "Win Elgento Mini Chocolate fountain!"
