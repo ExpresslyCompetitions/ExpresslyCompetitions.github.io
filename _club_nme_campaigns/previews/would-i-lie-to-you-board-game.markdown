@@ -27,7 +27,7 @@ section1-content: "<p>Based on the hit BBC comedy panel show, this is a game of 
   \ ones, this game is a MUST! Enter the draw below for a chance to win he hilarious\
   \ ‘Would I lie to you?’ board game and it could be yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the ‘Would I lie to you?’ board game!"
-entry-content: "Enter the draw to win the hilarios and enjoyable Catan Board Game!\
+entry-content: "Enter the draw to win the hilarious and enjoyable Catan Board Game!\
   \ by completing the form below before 23:59 on 12th July 2018."
 has-winner: false
 prize-description: "The ‘Would I lie to you?’ board game!"
