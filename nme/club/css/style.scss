@@ -209,11 +209,15 @@ body {
             display: none;
             background: $colour_dropdown_nav_bg;
             border-radius: 0;
+
+            > .container {
+              display: flex;
+            }
           }
 
           &:hover {
             > .dropdown-menu {
-              display: flex;
+              display: block;
             }
           }
         }
@@ -222,9 +226,12 @@ body {
           border: none;
           left: 0;
           right: 0;
-          flex-direction: row;
-          flex-wrap: wrap;
           padding: 15px;
+
+          > .container {
+            flex-direction: row;
+            flex-wrap: wrap;
+          }
 
           a {
             position: relative;
