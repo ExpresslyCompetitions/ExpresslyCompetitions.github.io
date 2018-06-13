@@ -17,7 +17,7 @@ hero-header: "Win a pair of 4-Day Gold Camping tickets to Creamfields Festival!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5fd715c3-e6c4-47f9-b257-f575e293483c.jpg"
 logo-left-href: "https://www.creamfields.com/steelyardlondon"
-logo-left-image: "https://assets.expresslyapp.com/asset-fcaba134-17a5-4f42-ae3e-6f53f1e5d99d.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-cd1328ef-d0d2-41c1-8567-c85c9fc4cd85.jpg"
 logo-left-title: "Cream"
 bg-image-hero: "https://assets.expresslyapp.com/asset-02135cbc-b935-4eda-9bac-eb07fdfda6a9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-5815e4fc-26ab-4bac-9acd-58da2970a98b.jpg"
@@ -40,11 +40,11 @@ section3-content: "<p>Featuring performances from the likes of Above & Beyond, A
   \ Fatboy Slim, Faithless (DJ set), Giggs, Goldie, Groove Armada, Idris Elba, Kö\
   lsch, Leftfield (DJ set), Nicole Moudaber, Roni Size, Rudimental, Sasha & John Digweed,\
   \ Solardo, Sub Focus, Sven Väth, Virtual Self, and Yousef to name just a few.</p>\r\
-  \n<p>We know you won’t want to miss this amazing festival, that is why NME AAA has\
-  \ pair of 4-Day Gold Camping tickets for YOU to come along with us and enjoy all\
-  \ of our artists perform live!</p>\r\n<p>If this sound like the best plan of your\
-  \ summer, enter the form below for chance to win a pair of 4-Day Gold Camping tickets\
-  \ and you could be going to Cheshire next August Bank Holiday weekend!</p>\r\n<p>Good\
+  \n<p>We know you won’t want to miss this amazing festival, so that's why NME AAA\
+  \ has a pair of 4-Day Gold Camping tickets for YOU and a friend to experience it\
+  \ for yourself!</p>\r\n<p>If this sounds like the best way to complete your summer,\
+  \ enter via the form below for a chance to win a pair of 4-Day Gold Camping tickets\
+  \ and you could be going to Cheshire this August Bank Holiday weekend!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win a pair of 4-Day Gold Camping tickets to Creamfields Festival!"
 entry-content: "Enter the draw to win a pair of 4-Day Gold Camping tickets to Creamfields\
