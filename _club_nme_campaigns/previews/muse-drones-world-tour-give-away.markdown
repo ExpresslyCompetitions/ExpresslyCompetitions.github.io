@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'\_!"
 competition-description: "<p>Calling al MUSE fans! The British band have announced\
   \ plans to release their ambitious 'Drones World Tour' to cinemas worldwide on July\
-  \ 12 and NME AAA wants to take you there! We’ve got our hands on 5 pairs of tickets\
-  \ to 5 lucky NME AAA members to win to attend the screening at a cinema of your\
+  \ 12 and NME AAA want to take you there! We’ve got our hands on 5 pairs of tickets\
+  \ to 5 lucky NME AAA members to win to attend the screening at a cinema of their\
   \ choice!</p>\r\n<p>Want to come along with us?</p>"
 hero-header: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 terms-confirmation: "N/A"
