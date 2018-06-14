@@ -40,8 +40,8 @@ section2-content: "<p>Alongside exclusive insight from the band talking about th
 section3-content: "<p>We know you won't want to miss this amazing opportunity to attend\
   \ this innovative and unforgettable show from MUSE… thanks to NME AAA you could\
   \ be wining one of 5 pairs of tickets to MUSE 'Drones World Tour' to a cinema of\
-  \ your choice! Enter the form below and you could be watching MUSE on the big screen!</p>\r\
-  \n<p>Good luck!</p>"
+  \ your choice!</p> \r\n<p>Enter the form below and you could be watching MUSE on\
+  \ the big screen!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 entry-content: "Enter the draw to win one of 5 pairs of tickets to see MUSE 'Drones\
   \ World Tour' by completing the form below before 23:59 on 4th July 2018."
