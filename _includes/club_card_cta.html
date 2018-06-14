@@ -1,16 +1,23 @@
 {% assign button-cta = "Get Now" %}
 {% if include.item.type == 'Competition' %}{% assign button-cta = "Enter Now" %}{% endif %}
 {% if include.item.has_entry_page %}
-<div class="show-if-entered">
-    <div class="show-if-reenter-now">
-        <a href="{{item-url}}" class="h-100 btn btn-primary px-5">Enter Again</a>
+<div class="hide-if-expired">
+    <div class="show-if-entered">
+        <div class="show-if-reenter-now">
+            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">Enter Again</a>
+        </div>
+        <div class="show-if-reenter-later show-if-reenter-never">
+            <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
+        </div>
     </div>
-    <div class="show-if-reenter-later show-if-reenter-never">
-        <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
+    <div class="hide-if-entered">
+        <a href="{{item-url}}" class="h-100 btn btn-primary px-5">{{button-cta}}</a>
     </div>
 </div>
-<div class="hide-if-entered hide-if-expired">
-    <a href="{{item-url}}" class="h-100 btn btn-primary px-5">{{button-cta}}</a>
+<div class="show-if-expired">
+    <div class="show-if-entered">
+        <a href="{{item-url}}" class="h-100 btn btn-primary px-5">View</a>
+    </div>
 </div>
 {% else %}
 <div class="show-if-entered hide-if-expired">

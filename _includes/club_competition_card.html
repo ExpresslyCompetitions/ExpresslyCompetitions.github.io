@@ -26,10 +26,13 @@
 
                 <div class="col competition-card--status text-center text-sm-right hide-if-expired">
                     {% if include.item.type == 'Competition' %}
-                        <div class="show-if-entered">
+                        <div class="show-if-reenter-never">
                             <span class="h-100"><strong>Entry submitted</strong></span>
                         </div>
                         <div class="hide-if-entered">
+                            <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
+                        </div>
+                        <div class="show-if-reenter-later show-if-reenter-now">
                             <span class="h-100">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span>
                         </div>
                     {% else %}
