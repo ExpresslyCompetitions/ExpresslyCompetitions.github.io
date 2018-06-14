@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-e372edf7-303f-4636-b4c4-a7a585fb2fb5"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-06-14T12:00:00.000Z"
 end-date: "2018-07-04T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 competition-description: "<p>Calling all MUSE fans! The British band have announced\
