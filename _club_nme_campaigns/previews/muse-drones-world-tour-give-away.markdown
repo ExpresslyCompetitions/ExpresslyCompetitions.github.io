@@ -15,13 +15,13 @@ competition-description: "<p>Calling all MUSE fans! The British band have announ
   \ choice!</p>\r\n<p>Want to come along with us?</p>"
 hero-header: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-c735d48c-d08d-4924-9b99-a698e803e380.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-34625879-6742-492e-af60-47d4ee8716e6.jpg"
 logo-left-href: "http://murraychalmers.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-eef2103a-4c33-4950-92ff-481e6b0182c2.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-ded30e11-115f-43c2-b3f5-9b143b5a3733.jpg"
 logo-left-title: "Murray Chalmers PR"
-bg-image-hero: "https://assets.expresslyapp.com/asset-cca0daf1-0938-4cb7-aaad-a73fab72f088.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-b011dd6c-4074-4ded-ba8d-ff10769c51fe.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-e4a69288-127a-4230-a978-ee347bb334e1.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2540db53-5837-44c0-847c-3251fb8cff4b.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-efc3c2b8-2d7d-44fc-9310-7c520f77e947.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-37d3a82e-a144-4fa9-894b-e5b59c679e03.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-dcc09eff-597a-4d27-915c-e19664dde1fa.jpg"
 section1-content: "<p>Filmed and recorded over multiple tour dates in 2016, the\_\
   'Drones World Tour'\_will showcase Muse’s career-spanning hits including ‘Psycho’\
