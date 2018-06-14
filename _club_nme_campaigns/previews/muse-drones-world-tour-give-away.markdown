@@ -22,7 +22,7 @@ logo-left-title: "Murray Chalmers PR"
 bg-image-hero: "https://assets.expresslyapp.com/asset-4f7199a6-ba6d-4679-9e85-82f791b48b00.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d3f9856f-0a0c-4db6-8fff-fe0724cf0797.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-abc53c5d-92be-49d7-bac6-043363342934.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-3bc70245-3048-4fb0-920a-f93a73999efe.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-4bc1b421-d0a2-4147-895b-046bac5db537.jpg"
 section1-content: "<p>Filmed and recorded over multiple tour dates in 2016, the\_\
   'Drones World Tour'\_will showcase Muse’s career-spanning hits including ‘Psycho’\
   , ‘Madness’, ‘Uprising’, ‘Plug in Baby’, ‘Supermassive Black Hole’ and ‘Knights\
@@ -39,7 +39,7 @@ section2-content: "<p>Alongside exclusive insight from the band talking about th
   .</p>"
 section3-content: "<p>We know you won't want to miss this amazing opportunity to attend\
   \ this innovative and unforgettable show from MUSE… thanks to NME AAA you could\
-  \ be wining one of 5 pairs of tickets to MUSE 'Drones World Tour to a cinema of\
+  \ be wining one of 5 pairs of tickets to MUSE 'Drones World Tour' to a cinema of\
   \ your choice! Enter the form below and you could be watching MUSE on the big screen!</p>\r\
   \n<p>Good luck!</p>"
 entry-title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
