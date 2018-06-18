@@ -31,7 +31,7 @@ section1-content: "<p>The Nutri-Fit Blender from Andrew James is ideal for anyon
 entry-title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 entry-content: "Enter the draw to win the Andrew James Fitness Blender & Smoothie\
   \ Maker Machine and get ready to boost your health by completing the form below\
-  \ before 23:59 on 13th July 2018."
+  \ before 23:59 on 19th July 2018."
 has-winner: false
 prize-description: "Andrew James Fitness Blender & Smoothie Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day."
