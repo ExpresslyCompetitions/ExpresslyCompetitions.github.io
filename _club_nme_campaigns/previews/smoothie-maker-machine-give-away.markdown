@@ -25,9 +25,9 @@ section1-content: "<p>The Nutri-Fit Blender from Andrew James is ideal for anyon
   \n<p>This versatile machine can create everything from nutritious protein shakes\
   \ and detox smoothies to super healthy soups and even nut butters.\r\nIt deals with\
   \ the toughest foods and extract all those crucial nutrients that you need to achieve\
-  \ your fitness and healthy goals!</p>\r\n<p>If you’re looking forward to create\
-  \ amazing smoothies and juices, enter the form below and it will take pride of place\
-  \ in your kitchen!</p>"
+  \ your fitness and healthy goals!</p>\r\n<p>If you’re looking forward to creating\
+  \ amazing smoothies and juices, enter the form below and you'll have a chance to\
+  \ win one of this for your kitchen!</p>"
 entry-title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 entry-content: "Enter the draw to win the Andrew James Fitness Blender & Smoothie\
   \ Maker Machine and get ready to boost your health by completing the form below\
