@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-06-07T12:00:00.000Z"
 end-date: "2018-06-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of Bronze Hot VIP Tickets to Roger Waters 'Us + Them' Tour in Manchester!"
 competition-description: "<p>Calling all Roger Waters fans, get ready: NME AAA has\
