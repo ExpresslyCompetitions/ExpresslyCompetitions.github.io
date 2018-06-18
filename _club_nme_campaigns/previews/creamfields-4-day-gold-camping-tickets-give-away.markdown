@@ -2,7 +2,7 @@
 campaign-uuid: "c-2518d8c7-5168-4e86-8b0c-7c89c343e276"
 type: "Preview"
 category: "Tickets"
-date: "2018-06-14T09:00:00.000Z"
+date: "2018-06-18T14:00:00.000Z"
 end-date: "2018-06-29T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -51,5 +51,7 @@ entry-content: "Enter the draw to win a pair of 4-Day Gold Camping tickets to Cr
   \ 2018 by completing the form below before 23:59 on 29th June 2018."
 has-winner: false
 prize-description: "A pair of 4-Day Gold Camping tickets to Creamfields Festival!"
-special-conditions: "Multiple entries are allowed up to one every day."
+prize-restrictions: "Winner is responsible for any transport costs to/from the event."
+special-conditions: "Any travel expenses are not included.\r\nMultiple entries are\
+  \ allowed up to one every day.\r\nEntrants also agree Cream's T&C's: www.creamfields.com/terms/competition-terms"
 ---
