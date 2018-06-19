@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-19T14:00:00.000Z"
 end-date: "2018-07-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the new Arctic Monkeys Tranquility Base Hotel & Casino Vinyl!"
 competition-description: "<p>Calling all Alex Turner lovers, get ready: the Arctic\
