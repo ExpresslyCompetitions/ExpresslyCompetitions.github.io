@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-ec04bf5a-06e6-4522-94ea-676ce83d0c3f"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-06-13T10:07:23.000Z"
 end-date: "2018-07-13T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 competition-description: "<p>Summer is just around the corner and we all want to be\
