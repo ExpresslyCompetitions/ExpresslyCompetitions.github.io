@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-06-04T09:00:00.000Z"
 end-date: "2018-06-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™!"
 competition-description: "<p>Calling all Gerard Butler and ''50 Cent'' fans! To celebrate\
