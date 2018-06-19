@@ -2,7 +2,7 @@
 campaign-uuid: "c-ec04bf5a-06e6-4522-94ea-676ce83d0c3f"
 type: "Competition"
 category: "Gifts"
-date: "2018-06-13T10:07:23.000Z"
+date: "2018-06-19T10:07:23.000Z"
 end-date: "2018-07-19T23:59:00.000Z"
 disable-form: false
 is_promoted: true
