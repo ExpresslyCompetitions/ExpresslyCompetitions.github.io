@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-19T10:07:23.000Z"
 end-date: "2018-07-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 competition-description: "<p>Summer is just around the corner and we all want to be\
