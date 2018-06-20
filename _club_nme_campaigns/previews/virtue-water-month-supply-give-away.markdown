@@ -2,7 +2,7 @@
 campaign-uuid: "c-73125fa6-2c63-4ea6-a747-c219b1b8b929"
 type: "Preview"
 category: "Food"
-date: "2018-06-20T11:19:35.203Z"
+date: "2018-06-20T11:19:35.000Z"
 end-date: "2018-07-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -27,7 +27,7 @@ section1-content: "<p>At Virtue their mission is to\_provide positive energy to 
   \ many people as possible.They believe everyone looking for energy deserves better\
   \ options, that’s why their energy waters naturally contain zero sugar, zero calories,\
   \ with no sweeteners!</p>\r\n<p>Each can contains the same amount of natural caffeine\
-  \ as a cup of coffee. Our energy comes from natural sources including yerba maté\
+  \ as a cup of coffee. Their energy comes from natural sources including yerba maté\
   , guarana and ginseng.</p>"
 section2-content: "<p>They are committed to spreading positivity and for every one\
   \ of their drinks sold, they donate 500L of clean drinking water to those in need.</p>\r\
