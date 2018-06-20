@@ -2,8 +2,8 @@
 campaign-uuid: "c-73125fa6-2c63-4ea6-a747-c219b1b8b929"
 type: "Preview"
 category: "Food"
-date: "2018-06-20T11:19:35.000Z"
-end-date: "2018-07-20T23:59:00.000Z"
+date: "2018-06-21T09:00:00.000Z"
+end-date: "2018-07-21T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -39,7 +39,7 @@ section3-content: "<p>If you would like to try Virtue's amazing flavour, think n
   \ Water! (36 cans of both Lemon & Lime and Berries).</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a month's supply of Virtue Energy Water!"
 entry-content: "Enter the draw to win a month’s supply of Virtue Energy Water and\
-  \ upgrade your energy source by completing the form below before 23:59 on 20th July\
+  \ upgrade your energy source by completing the form below before 23:59 on 21th July\
   \ 2018."
 has-winner: false
 prize-description: "A month's supply of Virtue Energy Water (36 cans of both Lemon\
