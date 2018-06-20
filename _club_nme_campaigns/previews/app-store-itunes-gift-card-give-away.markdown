@@ -35,7 +35,7 @@ section2-content: "<p>This iTunes Gift Card is the perfect gift for any occasion
 section3-content: "<p>If you want to treat your friends and family with an App\_Store\
   \ & iTunes Gift Card, now thanks to NME AAA you can make it happen because we’ve\
   \ managed to get our hands on a £100 App Store & iTunes Gift Card and is waiting\
-  \ for YOU! Enter the form below and it could be coming home with you!</p>"
+  \ for YOU!</p>\r\n<p>Enter the form below and it could be coming home with you!</p>"
 entry-title: "Win a a £100 App Store & iTunes Gift Card!"
 entry-content: "Enter the draw to win a a £100 App Store & iTunes Gift Card and enjoy\
   \ your favourite tunes anywhere by completing the form below before 23:59 on 20th\
