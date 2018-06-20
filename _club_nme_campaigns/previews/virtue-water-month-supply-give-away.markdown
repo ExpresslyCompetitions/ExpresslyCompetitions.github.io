@@ -12,7 +12,7 @@ competition-description: "<p>Summer is just around the corner and we know you've
   \ craving ice cold drinks… get ready, we have great news for YOU! We've got our\
   \ hands on a month's supply of Virtue Energy Water (36 cans of both Lemon & Lime\
   \ and Berries) for one lucky NME AAA member to win!</p> \r\n<p>If you want to keep\
-  \ hydrated with Virtue, enter below to know how!</p>"
+  \ hydrated with Virtue, enter below for a chance to win!</p>"
 hero-header: "Win a month's supply of Virtue Energy Water!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-eb59a1ef-4d6d-47a6-93fe-ae19194c13bd.jpg"
@@ -24,7 +24,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-f1e99c58-b165-4e83-9556-0
 bg-image-second: "https://assets.expresslyapp.com/asset-ba990d7a-1d40-41fe-8acd-117839399c60.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-3642d19c-b9d6-44e9-9c38-4aa55373186f.jpg"
 section1-content: "<p>At Virtue their mission is to\_provide positive energy to as\
-  \ many people as possible.They believe everyone looking for energy deserves better\
+  \ many people as possible. They believe everyone looking for energy deserves better\
   \ options, that’s why their energy waters naturally contain zero sugar, zero calories,\
   \ with no sweeteners!</p>\r\n<p>Each can contains the same amount of natural caffeine\
   \ as a cup of coffee. Their energy comes from natural sources including yerba maté\
