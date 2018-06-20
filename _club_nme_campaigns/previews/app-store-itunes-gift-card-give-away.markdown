@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-d8bff377-49b5-4193-8662-3e3f1
 logo-left-href: "https://www.apple.com/uk/"
 logo-left-image: "https://assets.expresslyapp.com/asset-685dfe1e-0c51-4094-aa5c-fc0bd00d2ca2.jpg"
 logo-left-title: "Apple"
-bg-image-hero: "https://assets.expresslyapp.com/asset-6504ec48-d7a0-4a4e-b98a-ecad4d5ebdc5.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5c9517d8-d597-4969-9927-3b572b8dac95.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f0f706d6-3815-47ce-bfb5-bbcba8e21327.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-8911a9f9-2bbd-4469-83c3-3acaf2d20a0d.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-af7f904c-6e8f-4ae1-ada2-487e8aaa946d.jpg"
