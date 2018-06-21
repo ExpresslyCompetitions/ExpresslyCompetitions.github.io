@@ -38,7 +38,10 @@ section3-content: "<p>Enter your details below for a chance to win this Blu-ray�
 entry-title: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™!"
 entry-content: "<p>DEN OF THIEVES Blu-ray™ release is the perfect plan for your weekend!\
   \ <p><p>Enter the draw to win by completing the form below before 23.59pm on 18/06/2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Angela, Lara, Kelly, Karen, Cyrill who got a copie\
+  \ of DEN OF THIEVES on Blu-ray™!"
+winner-banner: "https://assets.expresslyapp.com/asset-671a44f6-3c58-4340-9e5a-73c2f635799f.jpg"
 prize-description: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™."
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
