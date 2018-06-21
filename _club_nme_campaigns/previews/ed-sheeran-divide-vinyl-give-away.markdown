@@ -2,7 +2,7 @@
 campaign-uuid: "c-fe6b09c4-fcbf-42f4-a787-f955fb24df50"
 type: "Preview"
 category: "Gift"
-date: "2018-06-22T12:26:10.633Z"
+date: "2018-06-22T12:26:11.000Z"
 end-date: "2018-07-22T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -27,8 +27,8 @@ section1-content: "<p>Ed Sheeran and his latest album DIVIDE has sold more than 
   \ Spotify’s record for the most streams in a single week with 375 million globally!</p>\r\
   \n<p>Shape Of You, Perfect, Castle On The Hill are some of the 12 tracks of the\
   \ Vinyl and each is perfectly formed! Thanks to NME AAA the amazing Ed Sheeran DIVIDE\
-  \ Vinyl edition could be yours! Enter the form below and you could be dancing along\
-  \ your favourite Ed Sheeran tunes anywhere!</p>"
+  \ Vinyl edition could be yours!</p> \r\n<p>Enter the form below and you could be\
+  \ dancing along your favourite Ed Sheeran tunes anywhere!</p>"
 entry-title: "Win the amazing Ed Sheeran DIVIDE Vinyl Edition!"
 entry-content: "<p>Enter the draw to win Ed Sheeran DIVIDE Vinyl edition by completing\
   \ the form below before 23:59 on 22st July 2018.</p>"
