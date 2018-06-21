@@ -7,7 +7,7 @@ end-date: "2018-08-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
-title: "Timeless style at Pretty Green."
+title: "Timeless style at Pretty Green"
 competition-description: "This year marks the 50th anniversary of The Beatles’ psychedelic\
   \ epic, ‘Yellow Submarine’. To celebrate their greatest cinematic triumph, Pretty\
   \ Green developed a dedicated capsule collection that echoes the masterpiece in\
