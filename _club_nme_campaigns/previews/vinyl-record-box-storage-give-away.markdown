@@ -34,6 +34,6 @@ entry-title: "Win a Power Dynamics Vinyl Record Box Storage!"
 entry-content: "<p>Enter the draw to win the Power Dynamics Vinyl Record Box Storage\
   \ by completing the form below before 23:59 on 21st July 2018.</p>"
 has-winner: false
-prize-description: "A Power Dynamics Vinyl Record Box Storage"
+prize-description: "A '100 x 12' Power Dynamics Vinyl Record Box Storage."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
