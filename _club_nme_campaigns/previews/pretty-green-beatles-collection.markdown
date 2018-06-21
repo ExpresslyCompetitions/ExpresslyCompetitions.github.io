@@ -11,7 +11,7 @@ title: "Timeless style at Pretty Green."
 competition-description: "This year marks the 50th anniversary of The Beatles’ psychedelic\
   \ epic, ‘Yellow Submarine’. To celebrate their greatest cinematic triumph, Pretty\
   \ Green developed a dedicated capsule collection that echoes the masterpiece in\
-  \ all its kaleidoscopic glory. and now they have half prize at their entire Pretty\
+  \ all its kaleidoscopic glory and now they have half prize at their entire Pretty\
   \ Green x Beatles collection! A variety of vintage style T-shirts, Grandad shirts,\
   \ Kaftans & more."
 banner-img: "https://assets.expresslyapp.com/asset-eb0a8962-a57b-4788-9123-531e4d2c0224.jpg"
