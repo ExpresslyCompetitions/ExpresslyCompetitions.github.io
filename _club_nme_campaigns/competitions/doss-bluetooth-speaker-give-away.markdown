@@ -35,7 +35,10 @@ section2-content: "<p>Compatible with all Bluetooth-enabled devices, Superior so
 entry-title: "Win the ultimate DOSS SoundBox Bluetooth speaker!"
 entry-content: "<p>Enter the draw to win the speakers your ears deserve, DOSS SoundBox\
   \ Bluetooth speaker! by completing the form below before 23:59 on 9th  June 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGATULATIONS TO Eloise who won an amazing DOSS SoundBox Bluetooth\
+  \ Speaker!"
+winner-banner: "https://assets.expresslyapp.com/asset-91017a49-b07d-4b4f-a699-68ac8b829466.jpg"
 prize-description: "A Doss SoundBox Bluetooth speaker"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
