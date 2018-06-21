@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-73125fa6-2c63-4ea6-a747-c219b1b8b929"
-type: "Preview"
+type: "Competition"
 category: "Food"
 date: "2018-06-21T09:00:00.000Z"
 end-date: "2018-07-21T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a month's supply of Virtue Energy Water!"
 competition-description: "<p>Summer is just around the corner and we know you've been\
