@@ -2,7 +2,7 @@
 campaign-uuid: "c-3b6b9957-2658-4797-941c-edb51360d15b"
 type: "Preview"
 category: "Gift"
-date: "2018-06-21T13:11:27.869Z"
+date: "2018-06-21T13:11:28.000Z"
 end-date: "2018-07-22T23:59:00.000Z"
 disable-form: false
 is_promoted: false
