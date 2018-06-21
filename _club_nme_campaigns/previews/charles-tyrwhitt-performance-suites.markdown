@@ -16,7 +16,7 @@ competition-description: "<p>For Charles Tyrwhitt, looking good in clothes just 
   \ trim lapels.</p>\r\n<p>Have a look at their performance suits because they are\
   \ on sale now just for £149! Get them now!</p>"
 banner-img: "https://assets.expresslyapp.com/asset-7849140b-df74-41ff-ac41-7fc823cb7294.jpg"
-logo-left-href: "https://www.ctshirts.com/uk/mens-trousers/stretch-chinos/#cm_sp=DF-HP-LSB-3-A-StretchChinos"
+logo-left-href: "https://www.ctshirts.com/uk/home"
 logo-left-image: "https://assets.expresslyapp.com/asset-dd75b6c3-9930-46a4-b343-a0875b34638e.jpg"
 logo-left-title: "Charles Tyrwhitt"
 has-winner: false
