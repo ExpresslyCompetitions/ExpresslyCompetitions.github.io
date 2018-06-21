@@ -12,7 +12,7 @@ competition-description: "<p>One of the best feelings of being a vinyl record co
   \ is searching through boxes full of them! music stores, thrift shops, old garages…\
   \ at NME AAA we found a smart and stylish way to organise your collection: we have\
   \ in our hands the Power Dynamics Vinyl Record Box Storage for you to keep your\
-  \ collections in check!</p>\r\n<p>Do you want it? Click below to get involved!</p>"
+  \ collections in check!</p>\r\n<p>Do you want it? Click below to know more!</p>"
 hero-header: "Win a Power Dynamics Vinyl Record Box Storage!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9325b3de-bb5d-4b9c-9843-517b42f30484.jpg"
