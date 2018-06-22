@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-0b858263-d9f9-449a-9015-cccbc
 logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-380ce97d-7473-4751-a70f-6bab4a4f0999.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-db975ba7-d8cd-44ef-960a-5f945e9ff399.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-78f3c245-b698-4307-9544-6d78c6bc62cb.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-9ada9da9-f3e7-45e6-a749-d00f4d572435.jpg"
 section1-content: "<p>The London Game has a board showing the centre of the innovative\
   \ map of the London Underground, updated over the years as the game was re-issued\
