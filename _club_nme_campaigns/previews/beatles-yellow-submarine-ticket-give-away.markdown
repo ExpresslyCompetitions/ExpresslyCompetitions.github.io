@@ -12,7 +12,7 @@ title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film 
 competition-description: "<p>To celebrate the 50th Anniversary, screenings of The\
   \ Beatles Yellow Submarine sailing back into cinemas Sunday 8th July! we're giving\
   \ away 10 pairs of tickets to see the film at Picturehouse Cinemas to 10 lucky NME\
-  \ AAA members to win!</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
+  \ AAA members to win.</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
 hero-header: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
 terms-confirmation: "N/A"
@@ -35,7 +35,7 @@ section2-content: "<p>This is the first time that the stunning restoration of th
   \ some of the most-loved songs from the Beatles!</p>"
 section3-content: "<p>If you don’t want to miss this amazing opportunity, NME AAA\
   \ has 10 pairs of tickets for YOU to attend the event at a Picturehouse Cinema of\
-  \ your choice to the 6pm screening on Sunday 8th of July!</p>\r\n<br/>Picturehouse\
+  \ your choice to the 6pm screening on Sunday 8th of July!</p>\r\n<p><br/>Picturehouse\
   \ Central (London)\r\n<br/>Picturehouse Clapham (London)\r\n<br/>Picturehouse Crouch\
   \ End (London)\r\n<br/>Picturehouse East Dulwich (London) \r\n<br/>Picturehouse\
   \ Notting Hill Gate (London)\r\n<br/>Picturehouse Greenwich (London)\r\n<br/>Picturehouse\
@@ -44,7 +44,7 @@ section3-content: "<p>If you don’t want to miss this amazing opportunity, NME 
   \n<br/>Picturehouse Cambridge\r\n<br/>Picturehouse Cameo, Edinburgh\r\n<br/>Picturehouse\
   \ Exeter\r\n<br/>Picturehouse Henley\r\n<br/>Picturehouse Liverpool @ FACT\r\n<br/>Picturehouse\
   \ Norwich\r\n<br/>Picturehouse Oxford\r\n<br/>Picturehouse Southampton\r\n<br/>Picturehouse\
-  \ Stratford East\r\n<br/>Picturehouse Stratford Upon Avon\r\n<br/>Picturehouse York\r\
+  \ Stratford East\r\n<br/>Picturehouse Stratford Upon Avon\r\n<br/>Picturehouse York</p>\r\
   \n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
   \ on the big screen.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
