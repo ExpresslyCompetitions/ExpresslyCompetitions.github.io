@@ -45,7 +45,7 @@ section3-content: "<p>If you don’t want to miss this amazing opportunity, NME 
   \ Exeter\r\n<br/>Picturehouse Henley\r\n<br/>Picturehouse Liverpool @ FACT\r\n<br/>Picturehouse\
   \ Norwich\r\n<br/>Picturehouse Oxford\r\n<br/>Picturehouse Southampton\r\n<br/>Picturehouse\
   \ Stratford East\r\n<br/>Picturehouse Stratford Upon Avon\r\n<br/>Picturehouse York\r\
-  \n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
+  \n\r\n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
   \ on the big screen.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
