@@ -35,17 +35,18 @@ section2-content: "<p>This is the first time that the stunning restoration of th
   \ some of the most-loved songs from the Beatles!</p>"
 section3-content: "<p>If you don’t want to miss this amazing opportunity, NME AAA\
   \ has 10 pairs of tickets for YOU to attend the event at a Picturehouse Cinema of\
-  \ your choice to the 6pm screening on Sunday 8th of July!</p>\r\n<p>Picturehouse\
-  \ Central (London)\r\nPicturehouse Clapham (London)\r\nPicturehouse Crouch End (London)\r\
-  \nPicturehouse East Dulwich (London) \r\nPicturehouse Notting Hill Gate (London)\r\
-  \nPicturehouse Greenwich (London)\r\nPicturehouse Hackney (London) \r\nPicturehouse\
-  \ Brixton, Ritzy (London)\r\nPicturehouse Bath\r\nPicturehouse Bradford\r\nPicturehouse\
-  \ Brighton Duke Of York's\r\nPicturehouse Cambridge\r\nPicturehouse Cameo, Edinburgh\r\
-  \nPicturehouse Exeter\r\nPicturehouse Henley\r\nPicturehouse Liverpool @ FACT\r\n\
-  Picturehouse Norwich\r\nPicturehouse Oxford\r\nPicturehouse Southampton\r\nPicturehouse\
-  \ Stratford East\r\nPicturehouse Stratford Upon Avon\r\nPicturehouse York</p>\r\n\
-  <p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
-  \ on the big screen!</p>\r\n<p>Good luck</p>"
+  \ your choice to the 6pm screening on Sunday 8th of July!</p>\r\n<br/>Picturehouse\
+  \ Central (London)\r\n<br/>Picturehouse Clapham (London)\r\n<br/>Picturehouse Crouch\
+  \ End (London)\r\n<br/>Picturehouse East Dulwich (London) \r\n<br/>Picturehouse\
+  \ Notting Hill Gate (London)\r\n<br/>Picturehouse Greenwich (London)\r\n<br/>Picturehouse\
+  \ Hackney (London) \r\n<br/>Picturehouse Brixton, Ritzy (London)\r\n<br/>Picturehouse\
+  \ Bath\r\n<br/>Picturehouse Bradford\r\n<br/>Picturehouse Brighton Duke Of York's\r\
+  \n<br/>Picturehouse Cambridge\r\n<br/>Picturehouse Cameo, Edinburgh\r\n<br/>Picturehouse\
+  \ Exeter\r\n<br/>Picturehouse Henley\r\n<br/>Picturehouse Liverpool @ FACT\r\n<br/>Picturehouse\
+  \ Norwich\r\n<br/>Picturehouse Oxford\r\n<br/>Picturehouse Southampton\r\n<br/>Picturehouse\
+  \ Stratford East\r\n<br/>Picturehouse Stratford Upon Avon\r\n<br/>Picturehouse York\r\
+  \n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
+  \ on the big screen.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
 entry-content: "Enter the draw to win one of 10 pairs of tickets to see The Beatles\
