@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-3985e8e1-acfb-44e9-bf68-da375
 logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-380ce97d-7473-4751-a70f-6bab4a4f0999.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-d3895309-93fc-4054-a745-49abd8b3baf5.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-f137d196-0142-40a7-aace-4b9907076fcc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ef28d322-38f3-4e8a-a5bc-421f2941863a.jpg"
 section1-content: "<p>“Pray for the Wicked” is an homage to the successes and shortcomings\
   \ of Panic! at the Disco and their frontman, Brendon Urie.</p>\r\n<p>Two years after\
