@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film at\
   \ Picturehouse Cinemas!"
 competition-description: "<p>To celebrate the 50th Anniversary, screenings of The\
-  \ Beatles Yellow Submarine sailing back into cinemas Sunday 8th July! we're giving\
+  \ Beatles Yellow Submarine sailing back into cinemas Sunday 8th July we're giving\
   \ away 10 pairs of tickets to see the film at Picturehouse Cinemas to 10 lucky NME\
   \ AAA members to win.</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
 hero-header: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
