@@ -12,7 +12,7 @@ title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film 
 competition-description: "<p>To celebrate the 50th Anniversary, screenings of The\
   \ Beatles Yellow Submarine sailing back into cinemas Sunday 8th July! we're giving\
   \ away 10 pairs of tickets to see the film at Picturehouse Cinemas to 10 lucky NME\
-  \ AAA members to win.</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
+  \ AAA members to win!</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
 hero-header: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
 terms-confirmation: "N/A"
@@ -45,7 +45,7 @@ section3-content: "<p>If you don’t want to miss this amazing opportunity, NME 
   \ Exeter\r\n<br/>Picturehouse Henley\r\n<br/>Picturehouse Liverpool @ FACT\r\n<br/>Picturehouse\
   \ Norwich\r\n<br/>Picturehouse Oxford\r\n<br/>Picturehouse Southampton\r\n<br/>Picturehouse\
   \ Stratford East\r\n<br/>Picturehouse Stratford Upon Avon\r\n<br/>Picturehouse York\r\
-  \n\r\n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
+  \n<p>Enter the form below and you could be watching the The Beatles Yellow Submarine\
   \ on the big screen.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
