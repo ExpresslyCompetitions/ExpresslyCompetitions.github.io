@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-9dd56d17-22e2-437b-8834-b4b872887ace"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-06-25T14:00:00.000Z"
 end-date: "2018-07-02T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film at\
   \ Picturehouse Cinemas!"
