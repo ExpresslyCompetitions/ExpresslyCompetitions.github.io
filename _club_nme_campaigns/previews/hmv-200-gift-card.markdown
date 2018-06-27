@@ -23,7 +23,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-7904dc90-46ed-4530-8ecf-c
 bg-image-second: "https://assets.expresslyapp.com/asset-65375f33-d662-48ea-9676-e2165b3fb369.jpg"
 section1-content: "<p>hmv is a leading specialist retailer of music, film, games and\
   \ technology products, with over 120 stores around the UK, offering a wide selection\
-  \ of new release and catalogue titles! hmv make music and entertainment available\
+  \ of new release and catalogue titles. hmv make music and entertainment available\
   \ to its customers in every format imaginable: from sheet music and the earliest\
   \ gramophone 78s to today’s digital downloads!</p>\r\n<p> And of course, notably\
   \ also taken in vinyl singles and albums, cassettes and CDs as well as film and\
