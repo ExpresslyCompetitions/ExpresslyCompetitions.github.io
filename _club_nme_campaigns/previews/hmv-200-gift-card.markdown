@@ -28,7 +28,7 @@ section1-content: "<p>hmv is a leading specialist retailer of music, film, games
   \ gramophone 78s to today’s digital downloads!</p>\r\n<p> And of course, notably\
   \ also taken in vinyl singles and albums, cassettes and CDs as well as film and\
   \ TV content on VHS, DVD & Blu-ray and games titles across all platforms!</p>"
-section2-content: "<p>We want YOU to take advantage of all of their music and entertainment\
+section2-content: "<p>We want YOU to take advantage of all their music and entertainment\
   \ that is why we've managed to get our hands on a £200 hmv gift card for you to\
   \ spend and enjoy all of hmv content!</p>\r\n<p>Enter the form below and treat yourself\
   \ with that new album you've always wanted!</p>"
