@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-de615f84-9eac-420f-a8f2-efeeb3b25caf"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
-date: "2018-06-28T13:00:00.000Z"
+date: "2018-06-28T11:00:00.000Z"
 end-date: "2018-07-28T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a £200 hmv gift card!"
 competition-description: "<p>Want Ariana Grande’s new album? or maybe Florence and\
@@ -34,7 +34,7 @@ section2-content: "<p>We want YOU to take advantage of all their music and enter
   \ with that new album you've always wanted!</p>"
 entry-title: "Win a £200 hmv gift card!"
 entry-content: "Enter the draw to win a a £200 hmv gift card by completing the form\
-  \ below before 23:59 on 27th July 2018."
+  \ below before 23:59 on 28th July 2018."
 has-winner: false
 prize-description: "A £200 hmv gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
