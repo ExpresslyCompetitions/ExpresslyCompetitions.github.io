@@ -30,7 +30,7 @@ section1-content: "<p>Through a series of daring escapades deep within a dark an
   <p>Enter the form below and get ready to enjoy this enjoyable adventure movie!</p>"
 entry-title: "Win 'Solo: A Star Wars Story' on Blu-ray!"
 entry-content: "Enter the draw to win ‘Solo: A Star Wars Story’ on Blu-ray by completing\
-  \ the form below before 23:59 on 29th July 2018."
+  \ the form below before 23:59 on 2nd of August 2018."
 has-winner: false
 prize-description: "'Solo: A Star Wars Story' on Blu-ray"
 special-conditions: "Multiple entries are allowed up to one every day."
