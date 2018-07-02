@@ -2,7 +2,7 @@
 campaign-uuid: "c-96e33c65-a946-45c1-b0ea-3b4c9e8b3d42"
 type: "Preview"
 category: "entertainment"
-date: "2018-07-05T11:38:33.773Z"
+date: "2018-07-05T11:38:34.000Z"
 end-date: "2018-08-05T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -28,9 +28,9 @@ section1-content: "<p>Netflix is the world's leading internet entertainment serv
   \ Members can play, pause and resume watching, all without commercials or commitments..</p>"
 section2-content: "<p>Netflix’s library contains a broad range of hit movies and shows\
   \ from major networks. TV series like Arrow, The Flash, Scandal, Grey’s Anatomy,The\
-  \ Walking Dead…. & many more! If you don’t want to miss any of the shows hurry up!\
-  \ Enter the form below and you could be enjoying your favourite shows anywhere with\
-  \ a £50 Netflix Gift card!</p>\r\n<p>Good luck!</p>"
+  \ Walking Dead…. & many more!</p>\r\n<p>If you don’t want to miss any of the shows\
+  \ hurry up! Enter the form below and you could be enjoying your favourite shows\
+  \ anywhere with a £50 Netflix Gift card!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a £50 Netflix Gift card!"
 entry-content: "Enter the draw to win a £50 Netflix Gift card by completing the form\
   \ below before 23:59 on 5th of August 2018."
