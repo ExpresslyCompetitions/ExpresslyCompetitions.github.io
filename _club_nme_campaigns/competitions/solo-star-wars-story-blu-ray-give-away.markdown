@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-d0184b61-45b2-453f-90dc-b418fd013f56"
-type: "Preview"
+type: "Competition"
 category: "Gift"
 date: "2018-07-02T11:00:00.000Z"
 end-date: "2018-08-02T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 'Solo: A Star Wars Story' on Blu-ray!"
 competition-description: "<p>Calling all Star Wars fans… it's your turn to board the\
