@@ -20,7 +20,7 @@ logo-left-image: "https://assets.expresslyapp.com/a077b12e-42c4-48de-a557-05642c
 logo-left-title: "netflix"
 bg-image-hero: "https://assets.expresslyapp.com/asset-b5faf16c-eda8-42c2-b399-0321e85155a2.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8cfdf1d0-3824-4a8c-8bf0-2602877e8b89.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-e6dbce14-01d6-483c-b252-5402f37ad20a.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-42cc567e-3563-4040-92a7-3e2360fd07ae.jpg"
 section1-content: "<p>Netflix is the world's leading internet entertainment service\
   \ with 125 million memberships in over 190 countries enjoying TV series, documentaries\
   \ and feature films across a wide variety of genres and languages.</p>\r\n<p>Members\
