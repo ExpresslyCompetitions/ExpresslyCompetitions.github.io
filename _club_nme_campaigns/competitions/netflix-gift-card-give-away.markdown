@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-96e33c65-a946-45c1-b0ea-3b4c9e8b3d42"
-type: "Preview"
+type: "Competition"
 category: "entertainment"
 date: "2018-07-03T11:38:34.000Z"
 end-date: "2018-08-03T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a £50 Netflix Gift card!"
 competition-description: "<p>Calling all Netflix lovers! Sure you won’t want to miss\
