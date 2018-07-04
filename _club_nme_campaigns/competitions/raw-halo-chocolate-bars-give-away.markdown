@@ -45,7 +45,10 @@ entry-title: "Win a delicious bundle of healthy chocolate bars courtesy of Raw H
 entry-content: "<p>Enter the draw to win a delicious bundle of healthy chocolates\
   \ bars courtesy of Raw Halo and get ready to taste their amazing flavours by completing\
   \ the form below before 23:59 on 28th June 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Irene M. who won a delicious bundle of healthy chocolate\
+  \ bars curtesy of Raw Halo!"
+winner-banner: "https://assets.expresslyapp.com/asset-843443de-63ee-4f0d-8ccf-35105efdbd40.jpg"
 prize-description: "A delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
