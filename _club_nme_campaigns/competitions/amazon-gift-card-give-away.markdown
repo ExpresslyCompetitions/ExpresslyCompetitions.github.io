@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-8bffc708-6ee7-485f-9193-760383b57604"
-type: "Preview"
+type: "Competition"
 category: "gift"
-date: "2018-07-02T11:17:23.000Z"
+date: "2018-07-04T09:00:00.000Z"
 end-date: "2018-08-04T11:00:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a £100 Amazon Gift card!"
 competition-description: "<p>Music cd’s, storage, food, health & beauty… at Amazon\
