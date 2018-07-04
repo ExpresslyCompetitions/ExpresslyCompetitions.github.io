@@ -28,7 +28,7 @@ section1-content: "<p>We have everything you need to discover: the deliciously d
   \ parties with six stainless steel forks that are colour coded for individual use</p>\r\
   \n<p>Whether you’re a fondue fanatic, or you’re keen to discover this classic Swiss\
   \ dish, you’ll have great fun with KitchenCraft’s 3-in-1 Fondue Set so hurry up\
-  \ and enter the form below and indulgent yourself into a savoury or sweet course!</p>"
+  \ and enter the form below and indulge yourself into a savoury or sweet course!</p>"
 entry-title: "Win a KitchenCraft 3-in-1 Fondue Set!"
 entry-content: "Enter the draw to win a KitchenCraft 3-in-1 Fondue Set and enjoy authentic\
   \ cheese fondues by completing the form below before 23:59 on 5th of August 2018."
