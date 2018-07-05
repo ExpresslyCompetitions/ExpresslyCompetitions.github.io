@@ -5,7 +5,7 @@ category: "Food"
 date: "2018-06-08T10:00:00.000Z"
 end-date: "2018-06-28T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 competition-description: "<p>Who doesn’t love chocolate? and who doesn’t love it even\
