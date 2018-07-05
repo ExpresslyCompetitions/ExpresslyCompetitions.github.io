@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-06-14T12:00:00.000Z"
 end-date: "2018-07-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 competition-description: "<p>Calling all MUSE fans! The British band have announced\
