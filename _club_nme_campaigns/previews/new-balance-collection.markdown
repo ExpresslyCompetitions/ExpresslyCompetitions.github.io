@@ -10,9 +10,9 @@ has_entry_page: false
 title: "New Balance, born to move."
 competition-description: "<p>At New Balance their products are the perfect blend of\
   \ function and fashion, giving you the performance technology you need and the style\
-  \ you want.</p>\r\n<p>They offer the best product on the market, and they are also\
-  \ equally committed to giving back. So while they look to succeed, they believe\
-  \ in ensuring others have the same opportunity. Have a look at their amazing collection\
+  \ you want. They offer the best product on the market, and they are also equally\
+  \ committed to giving back. So while they look to succeed, they believe in ensuring\
+  \ others have the same opportunity.</p>\r\n<p>Have a look at their amazing collection\
   \ and don’t miss out on a 20% OFF with the code: NME20OFF (Excluding Sale, Outlet\
   \ & Made in Products).</p>"
 banner-img: "https://assets.expresslyapp.com/asset-75188b63-4eeb-46f1-853b-936a7fb57900.jpg"
