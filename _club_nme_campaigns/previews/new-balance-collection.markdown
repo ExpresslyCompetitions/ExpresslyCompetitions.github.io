@@ -12,9 +12,9 @@ competition-description: "<p>At New Balance their products are the perfect blend
   \ function and fashion, giving you the performance technology you need and the style\
   \ you want.</p>\r\n<p>They offer the best product on the market, and they are also\
   \ equally committed to giving back. So while they look to succeed, they believe\
-  \ in ensuring others have the same opportunity.\r\nHave a look at their amazing\
-  \ collection and don’t miss out on a 20% OFF with the code: NME20OFF (Excluding\
-  \ Sale, Outlet & Made in Products).</p>"
+  \ in ensuring others have the same opportunity. Have a look at their amazing collection\
+  \ and don’t miss out on a 20% OFF with the code: NME20OFF (Excluding Sale, Outlet\
+  \ & Made in Products).</p>"
 banner-img: "https://assets.expresslyapp.com/asset-75188b63-4eeb-46f1-853b-936a7fb57900.jpg"
 logo-left-href: "https://www.newbalance.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/82aa1ba0-aef4-4c02-b3b5-f2aa2892b964-thumb.png"
