@@ -2,8 +2,8 @@
 campaign-uuid: "c-166281c9-7d7c-43e4-ae7b-9501cfc0f460"
 type: "Preview"
 category: "Gift"
-date: "2018-07-06T10:00:00.000Z"
-end-date: "2018-08-06T23:59:00.000Z"
+date: "2018-07-05T10:00:00.000Z"
+end-date: "2018-08-05T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>With the luxury pasta maker from Jamie Oliver you can quic
   \ below and it could be yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Jamie Oliver Pasta Maker Machine!"
 entry-content: "Enter the draw to win Jamie Oliver Pasta Maker Machine and enjoy quick\
-  \ and fresh pasta by completing the form below before 23:59 on 6th of August 2018."
+  \ and fresh pasta by completing the form below before 23:59 on 5th of August 2018."
 has-winner: false
 prize-description: "Jamie Oliver Pasta Maker Machine."
 special-conditions: "Multiple entries are allowed up to one every day."
