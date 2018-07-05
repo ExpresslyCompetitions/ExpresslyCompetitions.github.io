@@ -26,7 +26,7 @@ section1-content: "<p>Get the compact printing power and wireless independence y
   \ all-in-one printer is an Instant Ink ready printer that fits and looks good virtually\
   \ anywhere.</p>\r\n<p>Enter the form below and don’t miss out this great opportunity\
   \ of winning the HP DeskJet 3720 All-in-One Printer!</p>\r\n<p>Fit your space, fit\
-  \ your wireless space!</p>\r\n<p>Good luck!</p>"
+  \ your wireless life!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the HP DeskJet 3720 All-in-One Printer!"
 entry-content: "Enter the draw to win the HP DeskJet 3720 All-in-One Printer by completing\
   \ the form below before 23:59 on 6th of August 2018."
