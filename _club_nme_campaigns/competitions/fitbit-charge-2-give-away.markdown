@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-06T09:00:00.000Z"
 end-date: "2018-07-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the brand new Fitbit Charge 2!"
 competition-description: "<p>Make every beat count with the brand new Fitbit Charge\
