@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-05-25T16:27:53.000Z"
 end-date: "2018-06-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £250 Ticketmaster gift card!"
 competition-description: "<p>What a better way to kick off your summer in style than\
