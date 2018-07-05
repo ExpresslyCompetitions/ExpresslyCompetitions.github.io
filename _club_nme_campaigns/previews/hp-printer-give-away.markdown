@@ -2,7 +2,7 @@
 campaign-uuid: "c-08ef2eb5-d082-4da9-b5a2-06ac89cb429f"
 type: "Preview"
 category: "Gift"
-date: "2018-07-05T15:34:25.233Z"
+date: "2018-07-05T15:34:25.000Z"
 end-date: "2018-08-06T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -11,8 +11,8 @@ title: "Win the HP DeskJet 3720 All-in-One Printer!"
 competition-description: "<p>Affordable power, mobile printing, vibrant colour… YES!\
   \ we are talking about the brand new HP DeskJet 3720 All-in-One Printer and now,\
   \ thanks to NME AAA it could be yours! We’re giving away this amazing printer to\
-  \ one of our lucky NME AAA members!</p>\r\n<p>Does it sounds good to you? Click\
-  \ below for a chance to win!</p>"
+  \ one of our lucky NME AAA members!</p>\r\n<p>Does it sound good to you? Click below\
+  \ for a chance to win!</p>"
 hero-header: "Win the HP DeskJet 3720 All-in-One Printer!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0ae908f3-d41f-4ccc-b7f4-be526712dda7.jpg"
