@@ -18,7 +18,7 @@ competition-description: "<p>Win the chance to go along VIP style to this years 
 hero-header: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official t-shirt and poster of the festival!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-525de32e-6417-4ce1-a451-0df6ae517b31.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-cd2a7d0f-3b98-4597-afc5-be63023ac77b.jpg"
 logo-left-href: "https://www.twothousandtreesfestival.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/asset-733b1c1a-4e11-447f-b262-b7d274773b29.jpg"
 logo-left-title: "2000trees Festival"
