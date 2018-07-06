@@ -21,7 +21,7 @@ logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b705a88a-ef5c-4aa9-9221-4d8effeddf4d.jpg"
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-72260fba-f0fc-4c44-83d0-5b7fcb6c7089.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-f5e26ec4-7dbb-497d-a49f-0792bc90d5da.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-0712a81e-0cc0-41fe-9e6e-256f1013cc63.jpg"
 section1-content: "<p>Make that moment, concert, festival, event special again with\
   \ this amazing printer! Get the compact printing power and wireless independence\
   \ you need to print, scan, and copy from virtually any mobile device. The world’\
