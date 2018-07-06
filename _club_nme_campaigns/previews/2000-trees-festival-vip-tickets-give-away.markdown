@@ -11,10 +11,10 @@ title: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the offi
   \ t-shirt and poster of the festival!"
 competition-description: "<p>Win the chance to go along VIP style to this years amazing\
   \ 2000trees Festival taking place in Cheltenham next Thursday 12th, Friday 13th\
-  \ and Saturday 14th July thanks to NME AAA! We are giving away one pair of VIP weekend\
-  \ tickets for 2000trees Festival (no tent or bedding included) PLUS the official\
-  \ t-shirt and poster of the festival for one lucky NME AAA member to win!</p>\r\n\
-  <p>Wanna be there now? You know what to do…</p>"
+  \ and Saturday 14th July thanks to NME AAA!</p>\r\n<p>We are giving away one pair\
+  \ of VIP weekend tickets for 2000trees Festival (no tent or bedding included) PLUS\
+  \ the official t-shirt and poster of the festival for one lucky NME AAA member to\
+  \ win!</p>\r\n<p>Wanna be there now? You know what to do…</p>"
 hero-header: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official t-shirt and poster of the festival!"
 terms-confirmation: "N/A"
