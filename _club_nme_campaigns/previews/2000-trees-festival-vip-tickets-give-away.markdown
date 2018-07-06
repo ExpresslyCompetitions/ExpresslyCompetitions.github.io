@@ -11,10 +11,10 @@ title: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the offi
   \ t-shirt and poster of the festival!"
 competition-description: "<p>Win the chance to go along VIP style to this years amazing\
   \ 2000trees Festival taking place in Cheltenham next Thursday 12th, Friday 13th\
-  \ and Saturday 14th July thanks to NME AAA!</p>\r\n<p>We are giving away one pair\
-  \ of VIP weekend tickets for 2000trees Festival (no tent or bedding included) PLUS\
-  \ the official t-shirt and poster of the festival for one lucky NME AAA member to\
-  \ win!</p>\r\n<p>Wanna be there now? You know what to do…</p>"
+  \ and Saturday 14th July thanks to NME AAA! We are giving away one pair of VIP weekend\
+  \ tickets for 2000trees Festival (no tent or bedding included) PLUS the official\
+  \ t-shirt and poster of the festival for one lucky NME AAA member to win!</p>\r\n\
+  <p>Wanna be there now? You know what to do…</p>"
 hero-header: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official t-shirt and poster of the festival!"
 terms-confirmation: "N/A"
@@ -47,7 +47,7 @@ entry-content: "Enter the draw to win one pair of VIP weekend tickets for 2000tr
   \ form below before 23:59 on 10th of July 2018."
 has-winner: false
 prize-description: "One pair of VIP weekend tickets for 2000trees Festival.\r\nOne\
-  \ limited 2000trees print poster\_(to be collected on site)\L\r\nOne 2000trees t-shirt\
+  \ limited 2000trees print poster\_(to be collected on site)?\r\nOne 2000trees t-shirt\
   \ (to be collected on site)"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "No tent or bedding included"
