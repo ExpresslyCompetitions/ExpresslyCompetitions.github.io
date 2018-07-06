@@ -18,14 +18,14 @@ competition-description: "<p>Win the chance to go along VIP style to this years 
 hero-header: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official t-shirt and poster of the festival!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-4a79982a-dc57-457f-9ea1-1971de4dd07d.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-525de32e-6417-4ce1-a451-0df6ae517b31.jpg"
 logo-left-href: "https://www.twothousandtreesfestival.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/asset-733b1c1a-4e11-447f-b262-b7d274773b29.jpg"
 logo-left-title: "2000trees Festival"
-bg-image-hero: "https://assets.expresslyapp.com/asset-076fb089-be35-4677-8d48-c0ddbebfa457.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-f442d548-b52b-4ab3-b2a1-893f94bf2807.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-6042ec9a-32bb-45c9-bb85-e13ee79162af.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-abc61751-cdc0-4ace-9a99-80fbe5b33890.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-a55b1b9c-24c4-4a8a-ad78-d71ec3dd03ba.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-d1ea858c-259f-428d-8af8-beaf049c1b6b.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-f39e27f9-819c-4140-a536-ecda43ca2738.jpg"
 section1-content: "<p>The multi-award-winning 2000trees Festival is a 3 day extravaganza\
   \ set in the stunning Cotswold Hills. You’ll get a friendly, intimate atmosphere\
   \ plus amazing food and locally produced ciders, ales & lagers.</p>\r\n<p>Described\
