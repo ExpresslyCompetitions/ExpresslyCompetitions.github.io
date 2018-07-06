@@ -22,14 +22,12 @@ logo-left-image: "https://assets.expresslyapp.com/asset-b705a88a-ef5c-4aa9-9221-
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-72260fba-f0fc-4c44-83d0-5b7fcb6c7089.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0712a81e-0cc0-41fe-9e6e-256f1013cc63.jpg"
-section1-content: "<p>Make that moment, concert, festival, event special again and\
-  \ print right from your Apple, Android, and Windows devices with this amazing printer!\
-  \ Get the compact printing power and wireless independence you need to print, scan,\
-  \ and copy from virtually any mobile device. The world’s smallest all-in-one printer\
-  \ is an Instant Ink ready printer that fits and looks good virtually anywhere.</p>\r\
-  \n<p>Enter the form below and don’t miss out this great opportunity of winning the\
-  \ HP DeskJet 3720 All-in-One Printer!</p>\r\n<p>Fit your space, fit your wireless\
-  \ life!</p>\r\n<p>Good luck!</p>"
+section1-content: "<p>Make that moment, concert, festival and event special again\
+  \ by printing right from your Apple, Android, and Windows devices with this amazing\
+  \ printer! The world’s smallest all-in-one printer is an Instant Ink ready printer\
+  \ that fits and looks good virtually anywhere.</p>\r\n<p>Enter the form below and\
+  \ don’t miss out this great opportunity of winning the HP DeskJet 3720 All-in-One\
+  \ Printer!</p>\r\n<p>Fit your space, fit your wireless life!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the HP DeskJet 3720 All-in-One Printer!"
 entry-content: "Enter the draw to win the HP DeskJet 3720 All-in-One Printer by completing\
   \ the form below before 23:59 on 6th of August 2018."
