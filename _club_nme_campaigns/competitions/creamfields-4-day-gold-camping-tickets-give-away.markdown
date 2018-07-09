@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-06-18T13:00:00.000Z"
 end-date: "2018-06-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of 4-Day Gold Camping tickets to Creamfields Festival!"
 competition-description: "<p>Get ready: Creamfields 2018 is back! and we want YOU\
