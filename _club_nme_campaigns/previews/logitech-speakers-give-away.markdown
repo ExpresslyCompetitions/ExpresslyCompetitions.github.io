@@ -1,0 +1,39 @@
+---
+campaign-uuid: "c-51d2cbdc-36d1-4f66-b7df-b2be803730ec"
+type: "Preview"
+category: "Gift"
+date: "2018-07-10T11:00:00.000Z"
+end-date: "2018-08-10T23:59:00.000Z"
+disable-form: false
+is_promoted: false
+has_entry_page: true
+title: "Win the Logitech Z333 Multimedia Speakers!"
+competition-description: "<p>If you are one of the ones who think that music is a\
+  \ MUST at a party, this is for YOU! Thanks to NME AAA you can make your party stand\
+  \ out because we are giving away the brand new Logitech Z333 Multimedia Speakers\
+  \ to one of our lucky NME AAA members!</p>\r\n<p>Want them? Click below for a chance\
+  \ to win them!</p>"
+hero-header: "Win the Logitech Z333 Multimedia Speakers!"
+terms-confirmation: "N/A"
+banner-img: "https://assets.expresslyapp.com/asset-b4cbddd0-f0d7-45c6-afa5-9d23d5e457ba.jpg"
+logo-left-href: "http://aaa.nme.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-230f036c-ef76-476d-9b0e-23111ab749ce.jpg"
+logo-left-title: "nme aaa"
+bg-image-hero: "https://assets.expresslyapp.com/asset-9c269c1a-04ed-4d32-b3a1-a33b6575697b.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-de32b2c2-384a-426a-abdb-b4f4c80af10b.jpg"
+section1-content: "<p>Logitech Multimedia Speakers Z333 deliver 80 W* of powerful\
+  \ and immersive acoustics that are crisp, clear and balanced. The front-facing subwoofer\
+  \ with a 13 cm driver produces a deep bass response, adding intensity to your music,\
+  \ movies and games.</p>\r\n<p>Adjust bass via the bass control knob and easily command\
+  \ your sound using the wired control pod, which allows access to power and volume.\
+  \ 3.5 mm + RCA inputs allow you to connect almost any device with an audio output,\
+  \ such as a computer, tablet, smartphone or even a TV!</p>\r\n<p>Think no more and\
+  \ enter the form below for a chance to win this amazing speakers with powerful sound\
+  \ & deep bass!</p>\r\n<p>Good luck!</p>"
+entry-title: "Win the Logitech Z333 Multimedia Speakers!"
+entry-content: "Enter the draw to win the Logitech Z333 Multimedia Speakers and create\
+  \ the perfect atmosphere at your party by completing the form below before 23:59\
+  \ on 10th of July 2018."
+has-winner: false
+prize-description: "The Logitech Z333 Multimedia Speakers!"
+---
