@@ -2,8 +2,8 @@
 campaign-uuid: "c-94a4bb2c-6fc1-40a7-9c63-68e7918335d3"
 type: "Preview"
 category: "gift"
-date: "2018-07-03T11:00:00.000Z"
-end-date: "2018-08-03T23:59:00.000Z"
+date: "2018-07-09T11:00:00.000Z"
+end-date: "2018-08-09T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -31,7 +31,7 @@ section1-content: "<p>With its pillowy synth-pads and rich textures, this vinyl 
   \ upside down world!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the exclusive Stranger Things Vinyl!"
 entry-content: "Enter the draw to win the exclusive Stranger Things Vinyl by completing\
-  \ the form below before 23:59 on 3rd of August 2018."
+  \ the form below before 23:59 on 9rd of August 2018."
 has-winner: false
 prize-description: "The exclusive Stranger Things Vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
