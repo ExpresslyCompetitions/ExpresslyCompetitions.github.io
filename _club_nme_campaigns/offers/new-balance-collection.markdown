@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-7448a791-2582-4117-82d6-dff3d4106bb0"
-type: "Preview"
+type: "Offer"
 category: "Fashion"
 date: "2018-07-05T14:00:00.000Z"
 end-date: "2018-09-30T23:59:00.000Z"
