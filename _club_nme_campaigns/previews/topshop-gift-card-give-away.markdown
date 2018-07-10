@@ -18,9 +18,9 @@ banner-img: "https://assets.expresslyapp.com/asset-32f9653b-eac2-4765-93d0-a302c
 logo-left-href: "http://www.topshop.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-404339e6-5985-42d3-b931-aa64b5ffa02f.jpg"
 logo-left-title: "Topshop"
-bg-image-hero: "https://assets.expresslyapp.com/asset-21a701f2-10ae-4880-9bbc-76a0ddeb5ddf.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-1688b8d2-9003-49a5-9ba8-7312633faed8.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-e94b2a48-2581-44c2-b37a-40b14fa17cf9.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-aab1e29a-250a-42a9-8117-0615bb15751f.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-2ea48103-36aa-481c-945a-d606a214f573.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-9c648a8e-e314-4a2a-8044-c92c787d355c.jpg"
 section1-content: "<p>Topshop is a global fashion and beauty destination that connects\
   \ people with the new and the next in style and culture.</p>\r\n<p>As a brand that\
   \ originates from London - a city famed for fashion experimentation and culturally\
