@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b4cbddd0-f0d7-45c6-afa5-9d23d
 logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-230f036c-ef76-476d-9b0e-23111ab749ce.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-9c269c1a-04ed-4d32-b3a1-a33b6575697b.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-8394ac53-7026-4b22-be01-8a9dce6fb501.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-2231cb75-36c2-4edd-9bc1-028a107b449b.jpg"
 section1-content: "<p>Logitech Multimedia Speakers Z333 deliver 80 W* of powerful\
   \ and immersive acoustics that are crisp, clear and balanced. The front-facing subwoofer\
