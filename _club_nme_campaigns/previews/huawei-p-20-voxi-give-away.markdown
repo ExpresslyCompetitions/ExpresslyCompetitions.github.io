@@ -5,7 +5,7 @@ category: "gift"
 date: "2018-07-11T09:00:00.000Z"
 end-date: "2018-08-11T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 competition-description: "<p>Powerful dual camera, Extraordinary vision, From selfie\
