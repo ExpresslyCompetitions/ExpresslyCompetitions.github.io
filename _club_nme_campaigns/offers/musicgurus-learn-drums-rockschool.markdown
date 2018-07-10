@@ -3,7 +3,7 @@ campaign-uuid: "c-5b031575-73a1-4300-932f-609185399534"
 type: "Offer"
 category: "Music"
 date: "2018-05-01T12:00:00.000Z"
-end-date: "2018-06-30T12:00:00.000Z"
+end-date: "2018-08-30T12:00:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
