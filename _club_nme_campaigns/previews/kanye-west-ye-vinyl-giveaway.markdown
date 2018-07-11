@@ -11,7 +11,7 @@ title: "Win Kanye West ‘ye’ Vinyl edition."
 competition-description: "<p>Calling al Kanye West lovers! We have great news to tell\
   \ you! To celebrate the release of Kanye’s new album ‘ye’ we have managed to get\
   \ our hands on his brand new album in vinyl edition for one of our lucky NME AAA\
-  \ members…</p>\r\n<p>Want to hear his amazing new tunes? Click below for a chance\
+  \ members!</p>\r\n<p>Want to hear his amazing new tunes? Click below for a chance\
   \ to win it!</p>"
 hero-header: "Win Kanye West ‘ye’ Vinyl edition."
 terms-confirmation: "N/A"
