@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-60f703be-bfda-486b-b2a6-f052e
 logo-left-href: "https://www.voxi.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/0bd4438a-8ac2-4292-ab8c-1ee2cc65f7f2-thumb.png"
 logo-left-title: "VOXI Test"
-bg-image-hero: "https://assets.expresslyapp.com/asset-df042c28-c8df-4ec8-b9cf-40481af04747.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-49772ca5-5df7-431e-8d23-8b72fbd5f992.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-65888b93-3f4c-4916-943a-b110a18e6349.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-2568a249-4836-4812-bef6-990e3124ec7e.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-9eab7205-ad86-4705-abe8-da0369aa6338.jpg"
