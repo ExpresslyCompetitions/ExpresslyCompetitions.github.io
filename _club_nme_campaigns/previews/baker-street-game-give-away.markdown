@@ -22,7 +22,7 @@ logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-475f8486-c8c2-4314-b6eb-197f6ebc3f32.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-a8ae6605-f359-4daf-bb08-f380654c75d7.jpg"
 section1-content: "<p>Victorian London and somewhere from within the gloom of the\
-  \ swirling mist, a mued cry is heard followed soon after by the sound of running\
+  \ swirling mist, a muted cry is heard followed soon after by the sound of running\
   \ feet. Now is your turn to move around the streets of London in any direction you\
   \ choose, visiting various locations where you will collect clues, some of which\
   \ will be cryptic, some will be factual and others may be misleading!</p>\r\n<p>This\
