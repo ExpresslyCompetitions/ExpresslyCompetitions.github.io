@@ -35,7 +35,7 @@ section2-content: "<p>The brand’s diversity is demonstrated across trend-led c
 entry-title: "Win a £150 Topshop Gift card!"
 entry-content: "Enter the draw to win £150 Topshop Gift card by completing the form\
   \ below and meet the headline acts of your festival wardrobe before 23:59 on 11th\
-  \ of July 2018."
+  \ of August 2018."
 has-winner: false
 prize-description: "A £150 Topshop Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
