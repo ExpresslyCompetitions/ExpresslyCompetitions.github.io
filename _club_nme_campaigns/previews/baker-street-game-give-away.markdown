@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-02a0d7b2-2562-4714-9abe-42a24
 logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-230f036c-ef76-476d-9b0e-23111ab749ce.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-ef850525-ebd6-48b8-9de3-3b329f787548.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-475f8486-c8c2-4314-b6eb-197f6ebc3f32.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-a8ae6605-f359-4daf-bb08-f380654c75d7.jpg"
 section1-content: "<p>Victorian London and somewhere from within the gloom of the\
   \ swirling mist, a mued cry is heard followed soon after by the sound of running\
