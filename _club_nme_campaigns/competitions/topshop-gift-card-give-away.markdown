@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-e258ed2a-fe03-42a9-8fff-5d054fbd9692"
-type: "Preview"
+type: "Competition"
 category: "Fashion"
 date: "2018-07-11T09:00:00.000Z"
 end-date: "2018-08-11T23:59:00.000Z"
