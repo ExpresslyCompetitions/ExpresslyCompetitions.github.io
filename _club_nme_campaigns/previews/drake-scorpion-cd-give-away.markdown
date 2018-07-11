@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-20b58854-91e8-4748-9337-67d6a
 logo-left-href: "http://aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-c7fcf712-47cf-4dd7-abc4-2f86d43d6ef6.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-ab6d9423-d74b-4e3b-964c-61f54c4a9052.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-68a16633-8c0c-4c95-9f4b-c6386734bc9f.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-6dd67079-26cf-410b-8940-8835fd4fc2b7.jpg"
 section1-content: "<p>Drakes new album Scorpion has revealed his shortcomings as a\
   \ writer and pop personality. With both singles ‘Nice For What’ and ‘God’s Plan’\
