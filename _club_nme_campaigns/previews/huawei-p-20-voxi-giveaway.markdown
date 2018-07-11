@@ -34,11 +34,11 @@ section2-content: "<p>VOXI = Endless possibilities! Their network is powered by 
   \ only available to under 30s and built for endless possibilities through endless\
   \ social data! With VOXI everything is endless: Endless sharing, roaming, flexibility,\
   \ chat… worth discovering with their free sim!</p>"
-section3-content: "<p>No contracts! All VOXI plans come with Endless social data and\
-  \ now with a great \"Double Data\" offer on all plans, until August 30th!</p>\r\n\
-  <p>If you don’t want to miss this amazing opportunity of winning the brand new Huawei\
-  \ P20 Lite… hurry up and enter the form below and it could be coming home with you!</p>\r\
-  \n<p>Good luck!</p>"
+section3-content: "<p>No contracts! All VOXI plans come with Endless Social Data (learn\
+  \ more on voxi.co.uk/terms-conditions) and now with a great \"Double Data\" offer\
+  \ on all plans, until August 30th!</p>\r\n<p>If you don’t want to miss this amazing\
+  \ opportunity of winning the brand new Huawei P20 Lite… hurry up and enter the form\
+  \ below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 entry-content: "Enter the draw to win the Huawei P20 Lite and discover VOXI by Vodafone,\
   \ by completing the form below before 23:59 on 21th of July 2018."
