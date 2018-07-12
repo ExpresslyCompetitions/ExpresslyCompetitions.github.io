@@ -11,7 +11,7 @@ title: "Win a £40 New Balance eGift card!"
 competition-description: "<p>Want to renew your wardrobe with summer clothes? Then,\
   \ you won’t want to miss this… we’ve managed to get an amazing £40 New Balance eGift\
   \ card for you to spend at their huge selection of New Balance shoes and apparel!</p>\r\
-  \n<p>Liking what you hear?’ Click below for a chance to win!</p>"
+  \n<p>Liking what you hear? Click below for a chance to win!</p>"
 hero-header: "Win a £40 New Balance eGift card!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a45f2dee-0090-493f-abd0-c911002ef056.jpg"
