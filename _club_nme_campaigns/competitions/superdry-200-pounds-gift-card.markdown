@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-06-11T15:00:00.000Z"
 end-date: "2018-07-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £200 Superdry gift card!"
 competition-description: "<p>In need to renew your summer wardrobe with new clothes?\
