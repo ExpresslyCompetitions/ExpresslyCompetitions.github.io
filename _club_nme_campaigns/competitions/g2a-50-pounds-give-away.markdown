@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-06-11T10:00:00.000Z"
 end-date: "2018-07-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win £50 to discover many exciting games at G2A!"
 competition-description: "<p>Calling all gamers out there! We have great news for\
