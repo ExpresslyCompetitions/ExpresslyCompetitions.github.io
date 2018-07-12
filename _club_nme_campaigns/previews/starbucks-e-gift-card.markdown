@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-0c07948f-6ea2-4983-9d9a-65607
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-01209521-8ae2-4df6-883f-3c70851852ae.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-15399020-e2ed-4639-8c91-6ed6ff446b3b.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-3b6eb576-5fd2-41ab-a575-aefc417e16eb.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-6e9e7f23-97c7-4820-9a6e-d5fc9fb3b626.jpg"
 section1-content: "<p>At Starbucks they are a neighbourhood gathering place, a part\
   \ of the daily routine and they couldn’t be happier about it. If you want to get\
