@@ -19,7 +19,7 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-f5388a3a-57c3-4fc3-aadf-9e13da17c072.jpg"
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-da92cd87-ce45-4f8b-88e1-6955e5107214.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-3d51e00a-c998-4b43-aae9-9b81e3f8b33a.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-849beeeb-6665-47d7-a5c9-32b692f36042.jpg"
 section1-content: "<p>New Balance has worked to move the world around them. They believe\
   \ in one simple truth: they were born to move. Their collection are the perfect\
   \ combination  of sport and fashion, giving you the comfort you need and the style\
