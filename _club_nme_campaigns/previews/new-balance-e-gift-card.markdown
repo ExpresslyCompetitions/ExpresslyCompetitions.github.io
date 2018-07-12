@@ -14,7 +14,7 @@ competition-description: "<p>Want to renew your wardrobe with summer clothes? Th
   \n<p>Liking what you hear?’ Click below for a chance to win!</p>"
 hero-header: "Win a £40 New Balance eGift card!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-6588dd24-70df-4840-988a-d58f5f0c38c2.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-a45f2dee-0090-493f-abd0-c911002ef056.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-f5388a3a-57c3-4fc3-aadf-9e13da17c072.jpg"
 logo-left-title: "nme aaa"
