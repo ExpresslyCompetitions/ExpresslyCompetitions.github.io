@@ -39,8 +39,8 @@ section2-content: "<p>Hot Dub has broken dance floors at sold-out shows all over
   \ vinyl turntables. It’s every song you love presented in a whole new way. It’s\
   \ the Best. Party. Ever!</p>"
 section3-content: "<p>If you want to be there now, what are you waiting for? Enter\
-  \ the form below and you could be going to the best party of you life: Hot Dub Time\
-  \ Machine in London on August 11th! Thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
+  \ the form below and you could be going to the best party of your life: Hot Dub\
+  \ Time Machine in London on August 11th! Thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 4 pairs of tickets to Hot Dub Time Machine in London!"
 entry-content: "Enter the draw to win one of 4 pairs of tickets to Hot Dub Time Machine\
   \ in London by completing the form below before 23:59 on 6th of August 2018."
