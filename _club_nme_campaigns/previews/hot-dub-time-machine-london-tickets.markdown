@@ -13,7 +13,7 @@ competition-description: "<p>NME AAA members get ready: the World’s First Time
   \ we want to take YOU there! Yes, we are talking about Hot Dub Time Machine!</p>\r\
   \n<p>We have in our hands 4 pairs of tickets for 4 lucky NME AAA members to win\
   \ and attend the musical phenomenon that’s taking over club nights worldwide on\
-  \ Saturday 11th of August at the O2 Academy Brixton in London</p>\r\n<p>Want to\
+  \ Saturday 11th of August at the O2 Academy Brixton in London.</p>\r\n<p>Want to\
   \ come along with us? Click below for a chance to win!</p>"
 hero-header: "Win one of 4 pairs of tickets to Hot Dub Time Machine in London!"
 terms-confirmation: "N/A"
@@ -34,7 +34,7 @@ section1-content: "<p>Since first launching his time-travelling, ‘dance-throug
   \ sold worldwide!</p>"
 section2-content: "<p>Hot Dub has broken dance floors at sold-out shows all over the\
   \ globe, along with festival slots at Coachella, Reading and Leeds Festival, T in\
-  \ the Park, Splendour in the Grass and plenty more.</p>\L <p>DJ Tom Loud plays songs\
+  \ the Park, Splendour in the Grass and plenty more.</p>? <p>DJ Tom Loud plays songs\
   \ in “strict” chronological order, mixing and mashing visuals and audio live from\
   \ vinyl turntables. It’s every song you love presented in a whole new way. It’s\
   \ the Best. Party. Ever!</p>"
