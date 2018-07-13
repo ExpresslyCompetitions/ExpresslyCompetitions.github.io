@@ -46,5 +46,6 @@ entry-content: "Enter the draw to win one of 4 pairs of tickets to Hot Dub Time 
   \ in London by completing the form below before 23:59 on 6th of August 2018."
 has-winner: false
 prize-description: "One of 4 pairs of tickets to Hot Dub Time Machine in London."
+prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
