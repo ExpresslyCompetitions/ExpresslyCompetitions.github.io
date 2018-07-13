@@ -22,8 +22,8 @@ logo-left-href: "http://hotdubtimemachine.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ee428cf0-d8cf-4917-8688-061e52ee41ea.jpg"
 logo-left-title: "Hot Dub"
 bg-image-hero: "https://assets.expresslyapp.com/asset-08d3a166-2609-4186-99cd-652a32c36862.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-5289d6a4-dcb3-4ecf-b9e3-05e4ca623a69.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-acbd0529-c34a-4737-9c5a-3dc361515c4b.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-1e667509-7c1d-4207-a4fc-d43b0d5b3625.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-15c1442b-b7aa-4a56-9993-cd7b0cdfe582.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-7bd1ed6f-bff3-4e63-a2d3-a77e979042ad.jpg"
 section1-content: "<p>Since first launching his time-travelling, ‘dance-through-the-decades’\
   \ audio-visual party concept in 2011, Sydney’s Tom Loud, otherwise known as Hot\
