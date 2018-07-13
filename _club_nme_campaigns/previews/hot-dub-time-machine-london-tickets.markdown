@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-07-26T09:00:00.000Z"
 end-date: "2018-08-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win one of 4 pairs of tickets to Hot Dub Time Machine in London!"
 competition-description: "<p>NME AAA members get ready: the World’s First Time Travelling\
