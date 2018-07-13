@@ -34,7 +34,7 @@ section1-content: "<p>Since first launching his time-travelling, ‘dance-throug
   \ sold worldwide!</p>"
 section2-content: "<p>Hot Dub has broken dance floors at sold-out shows all over the\
   \ globe, along with festival slots at Coachella, Reading and Leeds Festival, T in\
-  \ the Park, Splendour in the Grass and plenty more.</p>? <p>DJ Tom Loud plays songs\
+  \ the Park, Splendour in the Grass and plenty more.</p> <p>DJ Tom Loud plays songs\
   \ in “strict” chronological order, mixing and mashing visuals and audio live from\
   \ vinyl turntables. It’s every song you love presented in a whole new way. It’s\
   \ the Best. Party. Ever!</p>"
