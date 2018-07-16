@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-df94a94c-af7f-4027-9a16-135b24b8bca2"
 type: "Preview"
-category: "Gifts"
+category: "Music"
 date: "2018-07-30T09:00:00.000Z"
 end-date: "2018-08-30T23:59:00.000Z"
 disable-form: false
