@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-07-07T09:00:00.000Z"
 end-date: "2018-07-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the official\
   \ t-shirt and poster of the festival!"
