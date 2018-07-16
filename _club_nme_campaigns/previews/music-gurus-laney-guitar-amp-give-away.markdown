@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-07-30T09:00:00.000Z"
 end-date: "2018-08-30T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons and learn\
   \ how to play it with MusicGurus!"
