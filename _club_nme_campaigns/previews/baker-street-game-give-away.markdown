@@ -2,8 +2,8 @@
 campaign-uuid: "c-fcc437f2-2aba-48d5-81da-c6a460cbe164"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-08-20T23:59:00.000Z"
+date: "2018-07-16T13:00:00.000Z"
+end-date: "2018-08-16T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -31,7 +31,7 @@ section1-content: "<p>Victorian London and somewhere from within the gloom of th
 entry-title: "Win the 221B Baker Street Game!"
 entry-content: "Enter the draw to win the 221B Baker Street Game by completing the\
   \ form below and meet the headline acts of your festival wardrobe! before 23:59\
-  \ on 20th of July 2018."
+  \ on 16th of August 2018."
 has-winner: false
 prize-description: "The 221B Baker Street Game!"
 special-conditions: "Multiple entries are allowed up to one every day."
