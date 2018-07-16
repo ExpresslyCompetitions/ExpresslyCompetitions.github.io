@@ -2,8 +2,8 @@
 campaign-uuid: "c-c40bb5d9-3a99-4513-ac6e-3474e8039134"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-16T10:53:35.000Z"
-end-date: "2018-08-16T23:59:00.000Z"
+date: "2018-07-20T09:00:00.000Z"
+end-date: "2018-08-20T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -41,7 +41,7 @@ section3-content: "<p>They don’t do fashion like anyone else does fashion. The
   \ anywhere!</p>"
 entry-title: "Win a £100 Asos Gift card!"
 entry-content: "Enter the draw to win a £100 Asos Gift card! by completing the form\
-  \ below before 23:59 on 16th of August 2018."
+  \ below before 23:59 on 20th of August 2018."
 has-winner: false
 prize-description: "A £100 Asos Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
