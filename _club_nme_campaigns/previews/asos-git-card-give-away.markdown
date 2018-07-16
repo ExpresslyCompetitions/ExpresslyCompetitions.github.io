@@ -22,7 +22,7 @@ logo-left-title: "ASOS"
 bg-image-hero: "https://assets.expresslyapp.com/asset-2dc20225-13a3-4846-99f4-bebe77e62ab1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-599eac1c-6c36-4fd0-a7ae-5f42f9d6a975.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-f14d60a3-e65e-4d86-a4ff-eb9a67e10352.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-23f343ba-ff0a-4fa4-b8d7-d396c81da8b4.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-abf0c351-4bd5-4b92-823b-6073594febb6.jpg"
 section1-content: "<p>At Asos they believe in a world where you have total freedom\
   \ to be you, without judgement. To experiment. To express yourself. To be brave\
   \ and grab life as the extraordinary adventure it is.</p>\r\n<p>They make sure everyone\
