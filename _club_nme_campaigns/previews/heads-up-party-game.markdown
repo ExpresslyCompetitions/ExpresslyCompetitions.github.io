@@ -24,9 +24,9 @@ section1-content: "<p>Slip on a headband and load it with cards. Can you guess t
   \ words you’re wearing based on other players clues? Earn chips with each correct\
   \ answer. Earn the most, and you win! With six headbands and 200 cards across four\
   \ crazy categories, HEAD’S UP! is non-stop family fun for two to six players, ages\
-  \ 8 and up.</p>\r\n<p>If you’re looking to have a great night in with friends, this\
-  \ game is a MUST for YOU! Hurry up, enter the form below and you could have your\
-  \ Friday night sorted!</p>\r\n<p>Good luck!</p>"
+  \ 8 and up.</p>\r\n<p>If you’re looking to having a great night in with friends,\
+  \ this game is a MUST for YOU! Hurry up, enter the form below and you could have\
+  \ your Friday night sorted!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Heads Up! Party Game!"
 entry-content: "Enter the draw to win Heads Up! Party Game! by completing the form\
   \ below before 23:59 on 23th of August 2018."
