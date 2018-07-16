@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-8b0dd633-8f3d-4828-a225-db50b56eb036"
 type: "Preview"
-category: "Gifts"
-date: "2018-07-11T09:00:00.000Z"
-end-date: "2018-08-11T23:59:00.000Z"
+category: "Other"
+date: "2018-07-11T11:00:00.000Z"
+end-date: "2018-08-03T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -41,7 +41,7 @@ section3-content: "<p>No contracts! All VOXI plans come with Endless Social Data
   \ below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 entry-content: "Enter the draw to win the Huawei P20 Lite and discover VOXI by Vodafone,\
-  \ by completing the form below before 23:59 on 21th of July 2018."
+  \ by completing the form below before 23:59 on 3th of August 2018."
 has-winner: false
 prize-description: "One Huawei P20 Lite"
 special-conditions: "Multiple entries are allowed up to one every day."
