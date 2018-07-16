@@ -28,10 +28,10 @@ section1-content: "<p>At Asos they believe in a world where you have total freed
   \ and grab life as the extraordinary adventure it is.</p>\r\n<p>They make sure everyone\
   \ has an equal chance to discover all the amazing things they’re capable of – no\
   \ matter who they are, where they’re from or what looks they like to boss.</p>"
-section2-content: "<p>Their audience is wonderfully unique. And they do everything\
-  \ they can to help you find your fit, offering their ASOS Brands in more than 30\
-  \ sizes and they are committed to providing all sizes at the same price so you can\
-  \ be confident they’ve got the perfect thing for you</p>"
+section2-content: "<p>Their audience is wonderfully unique. They do everything they\
+  \ can to help you find your fit, offering their ASOS Brands in more than 30 sizes\
+  \ and they are committed to providing all sizes at the same price so you can be\
+  \ confident they’ve got the perfect thing for you</p>"
 section3-content: "<p>They don’t do fashion like anyone else does fashion. Their ASOS\
   \ Brands, created by their London design team, look between the lines to bring you\
   \ the freshest clothing, shoes, accessories and gifts. Guaranteed, you'll always\
