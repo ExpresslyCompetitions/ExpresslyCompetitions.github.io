@@ -7,15 +7,15 @@ end-date: "2018-08-30T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons and learn\
-  \ how to play it with MusicGurus!"
+title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar course\
+  \ with MusicGurus!"
 competition-description: "<p>The #1 place to learn music online MusicGurus is giving\
   \ away an incredible prize for a music-lover: a Laney Guitar Amp worth £750 PLUS\
-  \ online guitar lessons!</p> \r\n<p>Whether you’re a beginner or improver, enter\
-  \ now to win this amazing prize and get on your way to becoming a rockstar with\
-  \ MusicGurus!</p>"
-hero-header: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons\
-  \ and learn how to play it with MusicGurus!"
+  \ an amazing Rockschool guitar course which includes many lessons!</p> \r\n<p>Whether\
+  \ you’re a beginner or improver, enter now to win this amazing prize and get on\
+  \ your way to becoming a rockstar with MusicGurus!</p>"
+hero-header: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
+  \ course with MusicGurus!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-057bc55a-e01d-4d38-821d-eb2c03919a80.jpg"
 logo-left-href: "https://www.musicgurus.com/"
@@ -38,15 +38,16 @@ section2-content: "<p>Students can learn anything from piano to electronic music
 section3-content: "<p>If you’re liking what you’re hearing… get ready to become a\
   \ rockstar because NME AAA is partnering with MusicGurus to give one lucky winner\
   \ a Laney GH30R-112 amp worth £750 plus a free Rockschool guitar course at a level\
-  \ that suits you.</p>\r\n<p>Enter the form below and show your inner musician side\
-  \ with MusicGurus and this amazing prize!</p>\r\n<p>Good luck!</p>"
-entry-title: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons\
-  \ and learn how to play it with MusicGurus!"
-entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing online\
-  \ guitar lessons to learn how to play it with MusicGurus by completing the form\
-  \ below before 23:59 on 30th of August 2018."
+  \ that suits you which includes many lessons!</p>\r\n<p>Enter the form below and\
+  \ show your inner musician side with MusicGurus and this amazing prize!</p>\r\n\
+  <p>Good luck!</p>"
+entry-title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
+  \ course with MusicGurus!"
+entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazingRockschool\
+  \ guitar course with MusicGurus by completing the form below before 23:59 on 30th\
+  \ of August 2018."
 has-winner: false
-prize-description: "A Laney Guitar Amp worth £750 PLUS amazing online guitar lessons\
-  \ with MusicGurus."
+prize-description: "A Laney Guitar Amp worth £750 PLUS plus a free Rockschool guitar\
+  \ course which includes many lessons."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
