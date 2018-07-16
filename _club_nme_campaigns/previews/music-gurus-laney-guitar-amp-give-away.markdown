@@ -43,7 +43,7 @@ section3-content: "<p>If you’re liking what you’re hearing… get ready to b
   <p>Good luck!</p>"
 entry-title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
   \ course with MusicGurus!"
-entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazingRockschool\
+entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing Rockschool\
   \ guitar course with MusicGurus by completing the form below before 23:59 on 30th\
   \ of August 2018."
 has-winner: false
