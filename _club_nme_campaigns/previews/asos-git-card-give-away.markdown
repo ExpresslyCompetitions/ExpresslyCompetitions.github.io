@@ -2,13 +2,13 @@
 campaign-uuid: "c-c40bb5d9-3a99-4513-ac6e-3474e8039134"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-16T10:53:34.552Z"
+date: "2018-07-16T10:53:35.000Z"
 end-date: "2018-08-16T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win a £100 Asos Gift card!"
-competition-description: "<p>Holidays, dinners, meetings with friends… yes summer\
+competition-description: "<p>Holidays, dinners, meetings with friends… YES! summer\
   \ is here and we all want to look our best! Get that summer look that you deserve\
   \ now thanks to NME AAA because we're giving away an amazing £100 Asos Gift card\
   \ for you to stand out wherever you go!</p>\r\n<p>Want it? Click below and it could\
@@ -25,7 +25,7 @@ bg-image-second: "https://assets.expresslyapp.com/asset-f14d60a3-e65e-4d86-a4ff-
 bg-image-third: "https://assets.expresslyapp.com/asset-23f343ba-ff0a-4fa4-b8d7-d396c81da8b4.jpg"
 section1-content: "<p>At Asos they believe in a world where you have total freedom\
   \ to be you, without judgement. To experiment. To express yourself. To be brave\
-  \ and grab life as the extraordinary adventure it is.</p<\r\n<p>They make sure everyone\
+  \ and grab life as the extraordinary adventure it is.</p>\r\n<p>They make sure everyone\
   \ has an equal chance to discover all the amazing things they’re capable of – no\
   \ matter who they are, where they’re from or what looks they like to boss.</p>"
 section2-content: "<p>Their audience is wonderfully unique. And they do everything\
