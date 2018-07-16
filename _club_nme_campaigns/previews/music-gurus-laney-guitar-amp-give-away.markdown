@@ -35,11 +35,11 @@ section2-content: "<p>Students can learn anything from piano to electronic music
   \ a new guitar course with Rockschool, who are the global leaders in contemporary\
   \ music education and exams and you can take a course for free as part of this awesome\
   \ prize!</p>"
-section3-content: "<p>If you’re liking what you’re hearing…get ready to become a rockstar\
-  \ because NME AAA is partnering with MusicGurus to give one lucky winner a Laney\
-  \ GH30R-112 amp worth £750 plus a free Rockschool guitar course at a level that\
-  \ suits you.</p>\r\n<p>Enter the form below and show your inner musician side with\
-  \ MusicGurus and this amazing prize!</p>\r\n<p>Good luck!</p>"
+section3-content: "<p>If you’re liking what you’re hearing… get ready to become a\
+  \ rockstar because NME AAA is partnering with MusicGurus to give one lucky winner\
+  \ a Laney GH30R-112 amp worth £750 plus a free Rockschool guitar course at a level\
+  \ that suits you.</p>\r\n<p>Enter the form below and show your inner musician side\
+  \ with MusicGurus and this amazing prize!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons\
   \ and learn how to play it with MusicGurus!"
 entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing online\
