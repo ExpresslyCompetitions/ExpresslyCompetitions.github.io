@@ -9,10 +9,11 @@ is_promoted: false
 has_entry_page: true
 title: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons and learn\
   \ how to play it with MusicGurus!"
-competition-description: "The #1 place to learn music online MusicGurus is giving\
+competition-description: "<p>The #1 place to learn music online MusicGurus is giving\
   \ away an incredible prize for a music-lover: a Laney Guitar Amp worth £750 PLUS\
-  \ online guitar lessons! Whether you’re a beginner or improver, enter now to win\
-  \ this amazing prize and get on your way to becoming a rockstar with MusicGurus!"
+  \ online guitar lessons!</p> \r\n<p>Whether you’re a beginner or improver, enter\
+  \ now to win this amazing prize and get on your way to becoming a rockstar with\
+  \ MusicGurus!</p>"
 hero-header: "Win a Laney Guitar Amp worth £750 PLUS amazing online guitar lessons\
   \ and learn how to play it with MusicGurus!"
 terms-confirmation: "N/A"
@@ -22,7 +23,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-78f189a4-1ce3-4c02-85c0-
 logo-left-title: "MusicGurus"
 bg-image-hero: "https://assets.expresslyapp.com/asset-af9c33d1-e150-489e-806a-e4f9bd209f54.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-782baafa-bd8b-4d81-b160-eb724f1b0377.png"
-bg-image-second: "https://assets.expresslyapp.com/asset-4c8a4aec-d074-4622-bcf5-0e8e0a302147.png"
+bg-image-second: "https://assets.expresslyapp.com/asset-e08839e6-ea44-48d7-a1a7-3601208ad948.png"
 bg-image-third: "https://assets.expresslyapp.com/asset-ab6af562-e01c-4c64-8979-474a09c5b002.png"
 section1-content: "MusicGurus.com is the #1 place to learn music online. Whether you’\
   re just starting out or already an experienced musician, choose from 1000s of video\
