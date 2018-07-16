@@ -3,7 +3,7 @@ campaign-uuid: "c-d4b38bf2-2445-473c-9429-1b39e30ac5a9"
 type: "Preview"
 category: "Gifts"
 date: "2018-07-30T09:00:00.000Z"
-end-date: "2018-08-20T23:59:00.000Z"
+end-date: "2018-08-30T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -34,7 +34,7 @@ section2-content: "<p>The sensational DVD is packed with exclusive features incl
   \ to win one of 3 copies of this amazing DVD!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a copy of Proud Mary on DVD!"
 entry-content: "Enter the draw to win a copy of Proud Mary on DVD!  by completing\
-  \ the form below before 23:59 on 20th of August 2018."
+  \ the form below before 23:59 on 30th of August 2018."
 has-winner: false
 prize-description: "A copy of Proud Mary on DVD!"
 special-conditions: "Multiple entries are allowed up to one every day."
