@@ -36,7 +36,7 @@ section3-content: "<p>They don’t do fashion like anyone else does fashion. The
   \ Brands, created by their London design team, look between the lines to bring you\
   \ the freshest clothing, shoes, accessories and gifts. Guaranteed, you'll always\
   \ get the biggest variety, most covetable exclusives and coolest collabs.</p>\r\n\
-  <p>Renewing your wardrobe has never been easier, enter the form below for a chance\
+  <p>Renewing your wardrobe has never been easier! Enter the form below for a chance\
   \ to win a £100 Asos Gift card thanks to NME AAA and get ready to look stunning\
   \ anywhere!</p>"
 entry-title: "Win a £100 Asos Gift card!"
