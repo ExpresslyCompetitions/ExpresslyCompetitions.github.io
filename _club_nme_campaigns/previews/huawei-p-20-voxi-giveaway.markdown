@@ -30,15 +30,16 @@ section1-content: "<p>Great for your Social pictures and videos.</p>\r\n<p>The P
   \ more focus on the subject of your image.</p>\r\n<p>Amazing colours all-round with\
   \ extraordinary vision on the 5.84-inch Huawei FullView FHD+ display! PLUS P20 lite's\
   \ exterior has been designed with stylish, smooth glass casing and metallic body!</p>"
-section2-content: "<p>VOXI = Endless possibilities! Their network is powered by Vodafone,\
-  \ only available to under 30s and built for endless possibilities through endless\
-  \ social data! With VOXI everything is endless: Endless sharing, roaming, flexibility,\
-  \ chat… worth discovering with their free sim!</p>"
-section3-content: "<p>No contracts! All VOXI plans come with Endless Social Data (learn\
-  \ more on voxi.co.uk/terms-conditions) and now with a great \"Double Data\" offer\
-  \ on all plans, until August 30th!</p>\r\n<p>If you don’t want to miss this amazing\
-  \ opportunity of winning the brand new Huawei P20 Lite… hurry up and enter the form\
-  \ below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
+section2-content: "<p>VOXI is a new mobile network powered by Vodafone. It’s only\
+  \ available to under 30s and is built for endless possibilities through Endless\
+  \ Social Data! With VOXI you will enjoy endless benefits: Endless Social Data (unlimited\
+  \ use of social apps without eating your data), Endless Flexibility (no contract,\
+  \ cancel anytime), Endless calls and texts (unlimited calls, texts and picture messages),\
+  \ Endless Roaming (use your phone in EU, no extra cost)."
+section3-content: "<p>Order your free VOXI SIM now and we will double data on all\
+  \ plans. Be quick, as the offer ends July 29th</p>\r\n<p>If you don’t want to miss\
+  \ this amazing opportunity of winning the brand new Huawei P20 Lite… hurry up and\
+  \ enter the form below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 entry-content: "Enter the draw to win the Huawei P20 Lite and discover VOXI by Vodafone,\
   \ by completing the form below before 23:59 on 3th of August 2018."
