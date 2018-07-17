@@ -2,8 +2,8 @@
 campaign-uuid: "c-747ddeea-8a95-4281-a105-b7f8c6b151c4"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-11T14:56:02.000Z"
-end-date: "2018-08-24T23:59:00.000Z"
+date: "2018-07-20T09:00:00.000Z"
+end-date: "2018-08-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>Drakes new album Scorpion has revealed his shortcomings as
   <p>Good luck!</p>"
 entry-title: "Win Drake brand new album Scorpion!"
 entry-content: "Enter the draw to win Drake brand new album Scorpion by completing\
-  \ the form below before 23:59 on 24th of August 2018."
+  \ the form below before 23:59 on 20th of August 2018."
 has-winner: false
 prize-description: "Drake brand new album Scorpion."
 special-conditions: "Multiple entries are allowed up to one every day."
