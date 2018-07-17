@@ -2,8 +2,8 @@
 campaign-uuid: "c-94b50135-f345-429e-9a96-c1863c2b42f6"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-25T15:30:58.000Z"
-end-date: "2018-08-25T23:59:00.000Z"
+date: "2018-07-23T15:30:58.000Z"
+end-date: "2018-08-23T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -27,7 +27,7 @@ section1-content: "<p>New Balance has worked to move the world around them. They
   \ or the t-shirt you’ve always wanted now!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a £40 New Balance eGift card!"
 entry-content: "Enter the draw to win a £40 New Balance eGift card by completing the\
-  \ form below before 23:59 on 25th of August 2018."
+  \ form below before 23:59 on 23th of August 2018."
 has-winner: false
 prize-description: "A 40 New Balance eGift card."
 special-conditions: "Multiple entries are allowed up to one every day."
