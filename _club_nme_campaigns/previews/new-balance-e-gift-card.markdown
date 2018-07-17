@@ -21,8 +21,8 @@ logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-da92cd87-ce45-4f8b-88e1-6955e5107214.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-849beeeb-6665-47d7-a5c9-32b692f36042.jpg"
 section1-content: "<p>New Balance has worked to move the world around them. They believe\
-  \ in one simple truth: they were born to move. Their collection are the perfect\
-  \ combination  of sport and fashion, giving you the comfort you need and the style\
+  \ in one simple truth: they were born to move. Their collections are the perfect\
+  \ combination of sport and fashion, giving you the comfort you need and the style\
   \ you want.</p> \r\n<p>Enter the form below and get those trainers that you need\
   \ or the t-shirt you’ve always wanted now!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a £40 New Balance eGift card!"
