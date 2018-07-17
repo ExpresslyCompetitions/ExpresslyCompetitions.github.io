@@ -2,8 +2,8 @@
 campaign-uuid: "c-92392886-576f-479f-833e-f33ad58e14c8"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-23T09:00:00.000Z"
-end-date: "2018-08-23T23:59:00.000Z"
+date: "2018-07-24T09:00:00.000Z"
+end-date: "2018-08-24T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>Slip on a headband and load it with cards. Can you guess t
   \ your Friday night sorted!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Heads Up! Party Game!"
 entry-content: "Enter the draw to win Heads Up! Party Game! by completing the form\
-  \ below before 23:59 on 23th of August 2018."
+  \ below before 23:59 on 24th of August 2018."
 has-winner: false
 prize-description: "Heads Up! Party Game!"
 special-conditions: "Multiple entries are allowed up to one every day."
