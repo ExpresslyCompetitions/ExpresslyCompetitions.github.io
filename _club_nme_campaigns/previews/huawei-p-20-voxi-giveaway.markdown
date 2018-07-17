@@ -37,7 +37,7 @@ section2-content: "<p>VOXI is a new mobile network powered by Vodafone. It’s o
   \ cancel anytime), Endless calls and texts (unlimited calls, texts and picture messages),\
   \ Endless Roaming (use your phone in EU, no extra cost)."
 section3-content: "<p>Order your free VOXI SIM now and we will double data on all\
-  \ plans. Be quick, as the offer ends July 29th</p>\r\n<p>If you don’t want to miss\
+  \ plans. Be quick, as the offer ends July 29th.</p>\r\n<p>If you don’t want to miss\
   \ this amazing opportunity of winning the brand new Huawei P20 Lite… hurry up and\
   \ enter the form below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
