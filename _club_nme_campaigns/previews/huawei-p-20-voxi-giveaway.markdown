@@ -33,10 +33,10 @@ section1-content: "<p>Great for your Social pictures and videos.</p>\r\n<p>The P
 section2-content: "<p>VOXI is a new mobile network powered by Vodafone. It’s only\
   \ available to under 30s and is built for endless possibilities through Endless\
   \ Social Data! With VOXI you will enjoy endless benefits:</p>\r\n<p>\r\n<ul>\r\n\
-  <li>Endless Social Data (unlimited use of social apps without eating your data)</li>\r\
-  \n<li>Endless Flexibility (no contract, cancel anytime)</li>\r\n<li>Endless calls\
-  \ and texts (unlimited calls, texts and picture messages)</li>\r\n<li>Endless Roaming\
-  \ (use your phone in EU, no extra cost)</li>\r\n</ul>\r\n</p>"
+  <li>Endless Social Data: unlimited use of social apps without eating your data</li>\r\
+  \n<li>Endless Flexibility: no contract, cancel anytime</li>\r\n<li>Endless calls\
+  \ and texts: unlimited calls, texts and picture messages</li>\r\n<li>Endless Roaming:\
+  \ use your phone in EU, no extra cost</li>\r\n</ul>\r\n</p>"
 section3-content: "<p>Order your free VOXI SIM now and we will double data on all\
   \ plans. Be quick, as the offer ends August 30th.</p>\r\n<p>If you don’t want to\
   \ miss this amazing opportunity of winning the brand new Huawei P20 Lite… hurry\
