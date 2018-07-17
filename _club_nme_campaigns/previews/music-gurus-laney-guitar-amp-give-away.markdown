@@ -38,9 +38,9 @@ section2-content: "<p>Students can learn anything from piano to electronic music
 section3-content: "<p>If you’re liking what you’re hearing… get ready to become a\
   \ rockstar because NME AAA is partnering with MusicGurus to give one lucky winner\
   \ a Laney GH30R-112 amp worth £750 plus a free Rockschool guitar course at a level\
-  \ that suits you which includes many lessons!</p>\r\n<p>Enter the form below and\
-  \ show your inner musician side with MusicGurus and this amazing prize!</p>\r\n\
-  <p>Good luck!</p>"
+  \ that suits you from beginner to advanced!</p>\r\n<p>Enter the form below and show\
+  \ your inner musician side with MusicGurus and this amazing prize!</p>\r\n<p>Good\
+  \ luck!</p>"
 entry-title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
   \ course with MusicGurus!"
 entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing Rockschool\
