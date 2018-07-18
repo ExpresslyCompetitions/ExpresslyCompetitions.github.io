@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-07-27T09:00:00.000Z"
 end-date: "2018-08-27T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a month's supply of Indie Bay Snacks PLUS a tote, a lanyard & a card holder!"
 competition-description: "<p>Indie Bay Snacks are reinventing the classics, starting\
