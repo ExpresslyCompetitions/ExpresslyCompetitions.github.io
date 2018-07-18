@@ -12,8 +12,8 @@ competition-description: "<p>Powerful dual camera, Extraordinary vision, From se
   \ to self-portrait…YES! You are right, we are talking about one of the best phones\
   \ of the moment: the Huawei P20 Lite and thanks to NME AAA it could be yours!\r\n\
   We are giving away the brand new Huawei P20 Lite to one of our lucky members in\
-  \ combination with a great offer from VOXI by Vodafone: double data until end of\
-  \ August!</p>\r\n<p>Click below for a chance to win!</p>"
+  \ combination with a great offer from VOXI by Vodafone: double data until July 29th!</p>\r\
+  \n<p>Click below for a chance to win!</p>"
 hero-header: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-60f703be-bfda-486b-b2a6-f052e2c86a63.jpg"
