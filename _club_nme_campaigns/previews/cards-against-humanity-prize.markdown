@@ -20,10 +20,10 @@ logo-left-image: "https://assets.expresslyapp.com/asset-ac9d9672-ab15-4f0c-bceb-
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-21fe6d2f-14e2-4a95-a4b7-c7ae65cee1c4.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0ec97876-a877-4ae8-9617-399f5da89346.jpg"
-section1-content: "<p>Cards Against Humanity is as despicable and awkward as you and\
-  \ your friends! The game is simple. Each round, one player asks a question from\
-  \ a black card, and the object of the game is that everyone else answers with their\
-  \ funniest white card to create the most disturbing combinations possible!</p>\r\
+section1-content: "<p>Cards Against Humanity is as despicable and awkward game as\
+  \ you and your friends! The game is simple. Each round, one player asks a question\
+  \ from a black card, and the object of the game is that everyone else answers with\
+  \ their funniest white card to create the most disturbing combinations possible!</p>\r\
   \n<p>If you can’t wait to play the world’s naughtiest game, enter the form below\
   \ and get ready to have a great night in with friends with Cards Against Humanity:\
   \ UK edition game.</p>"
