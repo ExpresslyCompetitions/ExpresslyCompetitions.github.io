@@ -5,3 +5,25 @@ $colour_primary: #66bade;
 $colour_secondary: #ffffff;
 
 @import "club";
+
+.nav-container {
+  .navbar {
+    margin: 0 auto !important;
+    width: 100%;
+
+    @media (min-width: $sm) {
+      max-width: 540px;
+    }
+    @media (min-width: $md) {
+      max-width: 720px;
+    }
+    @media (min-width: $lg) {
+      max-width: 960px;
+    }
+    @media (min-width: $xl) {
+      max-width: 1140px;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}

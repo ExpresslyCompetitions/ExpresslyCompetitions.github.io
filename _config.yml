@@ -86,6 +86,7 @@ clubs:
       optin3p-create-hide: true
       optin2p-update-hide: true
       optin3p-update-hide: true
+      nav-container-classes: "bg-main"
   nme_club: &NME_CLUB
       campaigns:      "club_nme_campaigns"
       pages:          "club_nme_pages"
