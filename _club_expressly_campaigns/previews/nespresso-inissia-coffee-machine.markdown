@@ -25,8 +25,8 @@ section1-content: "<p>The Nespresso capsule system delivers exceptional taste an
   \n<p>Treat yourself with a delicious coffee everyday with the Nespresso Inissia\
   \ Coffee Machine.</p>"
 entry-title: "Win the Nespresso Inissia Coffee Machine"
-entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
-  \ the form below before 23:59 on 20th of September 2018."
+entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nby\
+  \ completing the form below before 23:59 on 20th of September 2018."
 has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine"
 special-conditions: "Multiple entries are allowed up to one every day."
