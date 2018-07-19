@@ -26,7 +26,7 @@ section1-content: "<p>No more wondering whether certain dishes go together, Ella
   \ life simple with her menus. With ideas and inspiration for every foodie occasion,\
   \ including cosy nights in for one, easy kitchen suppers, flavoursome feasts, birthday\
   \ parties, picnics and mocktails and cocktails.</p>\r\n<p>Treat your friends with\
-  \ a delicious meal thanks to Ella</p>"
+  \ a delicious meal thanks to Ella.</p>"
 entry-title: "Win Deliciously Ella With Friends book"
 entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
   \ the form below before 23:59 on 20th of September 2018."
