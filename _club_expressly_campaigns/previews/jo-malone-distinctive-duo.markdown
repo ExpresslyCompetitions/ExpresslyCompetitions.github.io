@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-9bb610a0-74a7-43f5-98dc-41c53
 logo-left-href: "http://jomalone.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/b7c4f5cf-6a10-40e3-8e73-d658b9b2d4f0-thumb.png"
 logo-left-title: "Jo Malone"
-bg-image-hero: "https://assets.expresslyapp.com/asset-23a3dc26-7091-43a7-a6c2-79a4f96aaf09.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-816948ed-b184-42aa-8134-8f43222d738a.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-4e5692ea-7724-43c2-bdc4-ce7a07390df9.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-a2fe3136-2172-4124-9e88-c452d322a597.jpg"
 section1-content: "<p>Each fragrance is crafted from the highest quality ingredients\
