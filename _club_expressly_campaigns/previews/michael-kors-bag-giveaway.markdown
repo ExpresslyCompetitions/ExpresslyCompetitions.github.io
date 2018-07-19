@@ -11,7 +11,7 @@ title: "Win a Michael Kors bag."
 competition-description: "<p>In need to renew your bags for summer? Michael Kors is\
   \ the right place for you. And today, we are offering one lucky winner the chance\
   \ to win an amazing bag from  the world-renowned & award-winning designer of luxury\
-  \ accessories, Michael Kors.\r\n<br/>Treat yourself to something nice, with Michael\
+  \ accessories, Michael Kors.\r\n<p>Treat yourself to something nice, with Michael\
   \ Kors you can.</p>"
 hero-header: "Win a Michael Kors bag."
 terms-confirmation: "N/A"
@@ -28,8 +28,8 @@ section1-content: "<p>Behind this burgeoning empire stands a singular designer w
   \ iconic as it is modern, he has created an enduring luxury lifestyle empire with\
   \ a global reach.</p>"
 section2-content: "<p>Treat yourself with something nice, treat yourself with this\
-  \ elegant and luxury bag from Michael Kors. Every woman deserves to stand out and\
-  \ with Michael Kors you can.</p>"
+  \ elegant and luxury bag from Michael Kors.</p>\r\n<p>Every woman deserves to stand\
+  \ out and with Michael Kors you can.</p>"
 entry-title: "Win a Michael Kors bag."
 entry-content: "Enter the draw to win Michael Kors bag by completing the form below\
   \ before 23:59 on 20th of September 2018."
