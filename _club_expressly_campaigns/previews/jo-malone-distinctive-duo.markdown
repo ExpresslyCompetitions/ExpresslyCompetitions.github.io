@@ -25,7 +25,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-4e5692ea-7724-43c2-bdc4-c
 bg-image-second: "https://assets.expresslyapp.com/asset-a2fe3136-2172-4124-9e88-c452d322a597.jpg"
 section1-content: "<p>Each fragrance is crafted from the highest quality ingredients\
   \ by master perfumers. Tailor made, exquisitely simple, refined. And always with\
-  \ a touch of the unexpected, a characteristic of every Jo Malone™ creation</p>\r\
+  \ a touch of the unexpected, a characteristic of every Jo Malone™ creation.</p>\r\
   \n<p>It is inspired by, and immersed in, modern British culture, curating collections\
   \ between world-renowned master perfumers and London's leading creative talent.\
   \ In working with the most forward-thinking style mavens, Jo Malone London is enduringly\
