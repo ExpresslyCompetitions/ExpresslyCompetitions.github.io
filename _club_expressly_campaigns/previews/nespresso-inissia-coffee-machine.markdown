@@ -17,7 +17,7 @@ banner-img: "https://assets.expresslyapp.com/asset-46e61c43-6a19-447b-88ca-acd66
 logo-left-href: "https://www.nespresso.com/uk/"
 logo-left-image: "https://assets.expresslyapp.com/asset-1e6f0f88-631c-49b9-80c3-a4497406f910.jpg"
 logo-left-title: "Nespresso"
-bg-image-hero: "https://assets.expresslyapp.com/asset-d2130650-5501-4a13-9b83-ccaa04b9763f.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-9f8f8625-a4d0-4b04-88db-71cec49b15f1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d750dc32-ec39-498c-8338-0c24014e4e5e.jpg"
 section1-content: "<p>The Nespresso capsule system delivers exceptional taste and\
   \ unique aromas thanks to the preparation of high-quality coffees in hermetically\
