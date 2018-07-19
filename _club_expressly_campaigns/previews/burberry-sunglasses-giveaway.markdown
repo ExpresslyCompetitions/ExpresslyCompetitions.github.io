@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win the BE4254 Burberry sunglasses"
 competition-description: "<p>Since its inception in 1856, Burberry has extended its\
   \ signature trench coat collections to a versatile range of ready-to-wear and accessories,\
-  \ embracing its quintessentially British style in each piece. </p>\r\n<p>The BE4254\
-  \ sunglasses provide a comfortable fit and we want you to feel comfortable and stylish\
-  \ at the same time. Don’t miss out the chance of winning the brand new BE4254 Burberry\
-  \ sunglasses</p>\r\n<p>Feel smart with Burberry.</p>"
+  \ embracing its quintessentially British style in each piece. The BE4254 sunglasses\
+  \ provide a comfortable fit and we want you to feel comfortable and stylish at the\
+  \ same time.</p> \r\n<p>Don’t miss out the chance of winning the brand new BE4254\
+  \ Burberry sunglasses</p>\r\n<p>Feel smart with Burberry.</p>"
 hero-header: "Win the BE4254 Burberry sunglasses"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b9137de6-1dbd-49e2-96b8-1ec1eacdd6b0.jpg"
@@ -30,8 +30,8 @@ section1-content: "<p>Britain's most stratospheric fashion success, Burberry, co
 section2-content: "<p>Cut to a flattering pilot shape, the BE4254 sunglasses provide\
   \ a comfortable fit with their acetate build and refined nose bridge, while the\
   \ arms are decorated with a faded check print, adding understated luxury to casual\
-  \ codes. The perfect gift for the summer. Enter the form below and feel the Burberry\
-  \ experience through your eyes with the BE4254 sunglasses.</p>"
+  \ codes. The perfect gift for the summer.</p>\r\n<p>Enter the form below and feel\
+  \ the Burberry experience through your eyes with the BE4254 sunglasses.</p>"
 entry-title: "Win the BE4254 Burberry sunglasses"
 entry-content: "Enter the draw to win the BE4254 Burberry sunglasses by completing\
   \ the form below before 23:59 on 20th of September 2018."
