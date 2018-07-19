@@ -24,7 +24,7 @@ section1-content: "<p>Founded in Paris in 1948 by Jean Cassegrain, Longchamp's e
   \ of luxury and innovation remain at its heart as it evolves its iconic Le Pliage\
   \ range.</p>\r\n<p>Accented with leather trims, this lightweight coin purse is perfect\
   \ for holding all your loose change in your tote. Think no more and it could be\
-  \ yours</p>"
+  \ yours.</p>"
 entry-title: "Win Longchamp Le Pliage coin purse"
 entry-content: "Enter the draw to win Win Longchamp Le Pliage coin purse\r\nby completing\
   \ the form below before 23:59 on 20th of September 2018."
