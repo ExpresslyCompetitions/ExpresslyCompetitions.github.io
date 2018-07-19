@@ -26,7 +26,7 @@ section1-content: "<p>Founded in Paris in 1948 by Jean Cassegrain, Longchamp's e
   \ for holding all your loose change in your tote. Think no more and it could be\
   \ yours.</p>"
 entry-title: "Win Longchamp Le Pliage coin purse"
-entry-content: "Enter the draw to win Win Longchamp Le Pliage coin purse\r\nby completing\
+entry-content: "Enter the draw to win Longchamp Le Pliage coin purse\r\nby completing\
   \ the form below before 23:59 on 20th of September 2018."
 has-winner: false
 prize-description: "Longchamp Le Pliage coin purse"
