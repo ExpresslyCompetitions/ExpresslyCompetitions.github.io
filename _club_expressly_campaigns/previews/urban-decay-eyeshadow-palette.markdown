@@ -20,7 +20,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-03b7a7f6-0b76-4f22-b743-
 logo-left-title: "Urban Decay"
 bg-image-hero: "https://assets.expresslyapp.com/asset-c0322da1-e932-4430-b008-d05b000dab62.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-73ce7212-c89d-42be-93d9-268687ae9c7c.jpg"
-section1-content: "<p>Urban Decay’s high-impact Distortion Eyeshadow Palette. Features\
+section1-content: "<p>Urban Decay’s high-impact Distortion Eyeshadow Palette features\
   \ a vibrant cocktail of 15 intensely pigmented shadows, in both matte and shimmer\
   \ finishes, this covetable selection of jewel tones will take you seamlessly from\
   \ the day to the evening.</p> <p>Encased in a holographic faceted compact, it’s\
