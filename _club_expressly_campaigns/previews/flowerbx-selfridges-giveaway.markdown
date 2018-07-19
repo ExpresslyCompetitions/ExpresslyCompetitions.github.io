@@ -11,7 +11,7 @@ title: "Win a Flowerbx for Selfridges"
 competition-description: "<p>Flowers are the most special gift anyone could ask for.\
   \ We are giving you the chance to win a Flowebx for Selfridges for you to treat\
   \ your loved ones or that special person.</p>\r\n<p>Make that person unique with\
-  \ a bunch of 20 blooms with Selfridges</p>"
+  \ a bunch of 20 blooms with Selfridges.</p>"
 hero-header: "Win a Flowerbx for Selfridges"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f0a39cec-1396-4a1b-b00f-d8be542d6cb0.jpg"
