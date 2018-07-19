@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-f0a39cec-1396-4a1b-b00f-d8be5
 logo-left-href: "http://selfridges.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-a5a93da9-0a0b-4ff2-b38a-bddf02883392.jpg"
 logo-left-title: "Selfridges"
-bg-image-hero: "https://assets.expresslyapp.com/asset-a6307001-3b96-436c-afe6-e8e9fd89e541.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-888c53c9-b203-4466-bd63-181b7cc67338.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8af9211e-70ff-4e78-8e35-46517fc1fc17.jpg"
 section1-content: "<p>In bloom between March and August, stocks are known for their\
   \ sweet perfume and soft spring-summer hues. Picked at their prime by Flowerbx for\
