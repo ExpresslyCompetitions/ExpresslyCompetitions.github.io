@@ -25,7 +25,7 @@ section1-content: "<p>The Babylis Smooth Vibrancy Straightener features ceramic 
   \ The longer plates can straighten larger sections at one time for quick styling.</p>\r\
   \n<p>Perfect for traveling with its multi-voltage feature it will deliver flawless\
   \ results at home or away. With its curved housing design it means you can mix up\
-  \ your style and create curly and wavy looks.</p> I\r\n<p>Prepare yourself for your\
+  \ your style and create curly and wavy looks.</p> \r\n<p>Prepare yourself for your\
   \ summer holidays with the new Babyliss Smooth Vibrancy Straightener and get ready\
   \ to stand out anywhere!</p>"
 entry-title: "Win the BaByliss Smooth Vibrancy Straightener"
