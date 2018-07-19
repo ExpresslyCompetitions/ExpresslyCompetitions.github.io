@@ -19,7 +19,7 @@ hero-header: "Win a month's supply of Indie Bay Snacks PLUS a tote, a lanyard & 
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e125facb-9bcc-4acf-97de-3674f80c27df.jpg"
 logo-left-href: "http://indiebaysnacks.com"
-logo-left-image: "https://assets.expresslyapp.com/4ca6cefa-3d84-4f07-9858-a57e28f3a791-thumb.png"
+logo-left-image: "https://assets.expresslyapp.com/asset-ca3adae4-3d7f-4420-bc24-53003acedc89.jpg"
 logo-left-title: "Indie Bay Snacks"
 bg-image-hero: "https://assets.expresslyapp.com/asset-de6b1448-1100-4d78-bb95-d74846d0cb68.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-76abbe82-8d2c-4db7-80d4-5760a4c81192.jpg"
@@ -39,10 +39,9 @@ section2-content: "<p>These are a bit like pretzels but better: better shape, be
   \ these crunchy, satisfying bites are a delicious source of fibre and protein. As\
   \ well as containing fewer than 100 calories per portion, they’re also vegan, with\
   \ no artificial colours or flavours!</p>"
-section3-content: "<p>We call them snacks with benefits! If you can’t wait to try\
-  \ their amazing range of tasty snacks! Enter the form below and you could be taking\
-  \ home a month’s supply of Indie Bay Snacks PLUS a tote, a lanyard & a card holder!</p>\r\
-  \n<p>Good luck!</p>"
+section3-content: "<p>If you can’t wait to try this amazing range of tasty snacks,\
+  \ complete the form below and you could be taking home a month’s supply of Indie\
+  \ Bay Snacks PLUS a tote, a lanyard & a card holder!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a month's supply of Indie Bay Snacks PLUS a tote, a lanyard & a\
   \ card holder!"
 entry-content: "Enter the draw to win a month's supply of Indie Bay Snacks PLUS a\
