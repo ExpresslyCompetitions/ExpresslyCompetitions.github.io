@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
-competition-description: "Join Bestival for their 15th birthday, circus themed celebrations\
-  \ this August 2nd to 5th at the Lulworth Estate in Dorset featuring outrageous performers,\
-  \ audacious spectacles and mind-altering music. \r\n\r\nDiscover how to win one\
-  \ of 20 pairs of Adult Weekend tickets by clicking below!"
+competition-description: "<p>Join Bestival for their 15th birthday, circus themed\
+  \ celebrations this August 2nd to 5th at the Lulworth Estate in Dorset featuring\
+  \ outrageous performers, audacious spectacles and mind-altering music. </p>\r\n\
+  <p>Discover how to win one of 20 pairs of Adult Weekend tickets by clicking below!</p>"
 hero-header: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3d33545c-efc1-41c3-91c6-8e8fd65c0879.jpg"
