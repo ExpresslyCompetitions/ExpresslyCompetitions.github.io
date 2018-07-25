@@ -28,7 +28,8 @@ section1-content: "<p>“Our 12\" singles have always been incredibly important 
   \ band” agreed the members of Depeche Mode. “It's great to be able to re-share these\
   \ songs with old and new fans in the way they were originally intended to be experienced.\
   \ We hope you enjoy them as much as we do.”</p>\r\n\r\n<p>These first two box sets\
-  \ will be released by Sony Music Entertainment on August 31, 2018.</p>"
+  \ will be released by Sony Music Entertainment on August 31, 2018.</p>\r\n\r\n<p><i>(credits\
+  \ Anton Corbijn)</i></p>"
 section2-content: "Speak & Spell | The 12” Singles contains a facsimile reproduction\
   \ of the rare Flexi Disc “Sometimes I Wish I Was Dead” b/w “King of the Flies” (the\
   \ Fad Gadget track as on the original release); Dreaming Of Me 12”: “Dreaming of\
