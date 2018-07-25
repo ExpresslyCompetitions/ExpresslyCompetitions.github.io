@@ -41,8 +41,9 @@ section3-content: "<p>A Broken Frame | The 12” Singles contains See You 12”:
   \ of Love 12”: “The Meaning of Love (Fairly Odd Mix)” b/w “Oberkorn (It’s a Small\
   \ Town) (Development Mix)”; Leave In Silence 12”: “Leave In Silence (Longer)” b/w\
   \ “Further Excerpts From: My Secret Garden” and “Leave In Silence (Quieter)”; original\
-  \ single poster reproduction; download card.</p>\r\n\r\n<p>Read NME review here:\
-  \ https://www.nme.com/news/music/depeche-mode-singles-box-sets-2339656</p>"
+  \ single poster reproduction; download card.</p>\r\n\r\n<p>Read NME review <a href=\"\
+  https://www.nme.com/news/music/depeche-mode-singles-box-sets-2339656\" target=\"\
+  _blank\">here</a>.</p>"
 entry-title: "Win the 2 Depeche Mode 12” singles box-sets signed by them PLUS 2 T-shirts"
 entry-content: "For a chance to win, submit the form below. Competition ends at 23:59\
   \ on 31st August 2018."
