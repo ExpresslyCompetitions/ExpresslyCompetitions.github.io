@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-4dd962f0-9446-4ef1-9b78-422f6a28feb3"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-07-26T14:00:00.000Z"
 end-date: "2018-08-26T23:59:00.000Z"
