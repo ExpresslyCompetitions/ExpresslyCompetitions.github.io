@@ -50,5 +50,6 @@ entry-content: "For a chance to win, submit the form below. Competition ends at 
 has-winner: false
 prize-description: "1 prize including 2 Depeche Mode 12” singles box-sets signed by\
   \ them PLUS 2 T-shirts"
-special-conditions: "Winner can choose any size from S-XXL for the T-Shirts"
+special-conditions: "Winner can choose any size from S-XXL for the T-Shirts\r\nMultiple\
+  \ entries are allowed up to one every day."
 ---
