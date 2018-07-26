@@ -3,7 +3,7 @@ campaign-uuid: "c-1aab82fa-94ac-4ea7-948e-5d4b7919fc09"
 type: "Preview"
 category: "Tickets"
 date: "2018-07-26T09:00:00.000Z"
-end-date: "2018-08-06T23:59:00.000Z"
+end-date: "2018-08-04T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -43,7 +43,7 @@ section3-content: "<p>If you want to be there now, what are you waiting for? Ent
   \ Time Machine in London on August 11th! Thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 4 pairs of tickets to Hot Dub Time Machine in London!"
 entry-content: "Enter the draw to win one of 4 pairs of tickets to Hot Dub Time Machine\
-  \ in London by completing the form below before 23:59 on 6th of August 2018."
+  \ in London by completing the form below before 23:59 on 4th of August 2018."
 has-winner: false
 prize-description: "One of 4 pairs of tickets to Hot Dub Time Machine in London."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
