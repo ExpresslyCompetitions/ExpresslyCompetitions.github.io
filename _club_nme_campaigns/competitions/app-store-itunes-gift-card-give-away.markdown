@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-20T17:00:00.000Z"
 end-date: "2018-07-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a a £100 App Store & iTunes Gift Card!"
 competition-description: "<p>We have the perfect gift, a world of entertainment in\
