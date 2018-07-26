@@ -36,7 +36,8 @@ section1-content: "<p>Jeffrey Dahmer murdered seventeen men and boys in the Midw
 section2-content: "<p>'An absorbing, dramatised portrait of casual cruelty and teenage\
   \ desperation, equal parts ‘The Virgin Suicides’ and ‘The Texas Chain Saw Massacre’\
   <br />\r\nTIME OUT </p>\r\n\r\n<p>'A chilling insight into the making of a serial\
-  \ killer’<br />\r\n THE GUARDIAN </p>"
+  \ killer’<br />\r\n THE GUARDIAN </p>\r\n\r\n<p>My Friend Dahmer on digital now\
+  \ and DVD on 30th July </p>"
 entry-title: "Win one of 5 copies of My Friend Dahmer DVD"
 entry-content: "For a chance to win, submit the form before 23:59 August 26th 2018."
 has-winner: false
