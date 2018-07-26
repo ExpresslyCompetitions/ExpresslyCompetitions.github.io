@@ -42,4 +42,5 @@ entry-title: "Win one of 5 copies of My Friend Dahmer DVD"
 entry-content: "For a chance to win, submit the form before 23:59 August 26th 2018."
 has-winner: false
 prize-description: "One of 5 copies of My Friend Dahmer DVD"
+special-conditions: "Multiple entries are allowed up to one every day."
 ---
