@@ -21,7 +21,7 @@ logo-left-href: "http://www.aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-192f9f57-7ae8-4b34-bccf-f05e4f4cf2ea.png"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-eebf28dd-3b63-40dd-b214-4271fd52c7bf.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-9c6780b7-a0b3-418d-9417-969465971b8e.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-ff241f56-205e-4a85-ba63-96ec225599ab.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-e2505b54-d460-4131-95dc-a8a546043274.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-9fa6169d-24bd-4ced-8e2b-866f62000770.png"
 section1-content: "<p>“Our 12\" singles have always been incredibly important to the\
