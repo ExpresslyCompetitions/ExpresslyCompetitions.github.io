@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-3c87a0b5-a2ad-4a07-9538-ce4c8b4ec514"
-type: "Preview"
-category: "Gifts"
+type: "Competition"
+category: "Food"
 date: "2018-07-27T09:00:00.000Z"
 end-date: "2018-08-27T23:59:00.000Z"
 disable-form: false
@@ -48,7 +48,7 @@ entry-content: "Enter the draw to win a month's supply of Indie Bay Snacks PLUS 
   \ tote, a lanyard & a card holder by completing the form below before 23:59 on 27th\
   \ of August 2018."
 has-winner: false
-prize-description: "A month's supply of Indie Bay Snacks PLUS a tote, a lanyard &\
-  \ a card holder."
+prize-description: "A month's supply (i.e., 30 snacks) of Indie Bay Snacks PLUS a\
+  \ tote, a lanyard & a card holder."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
