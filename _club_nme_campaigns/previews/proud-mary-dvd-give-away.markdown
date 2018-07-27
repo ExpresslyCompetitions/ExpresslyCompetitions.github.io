@@ -27,11 +27,12 @@ section1-content: "<p>Lethal, professional hit-woman Mary (Taraji P. Henson) wor
   \ from the Russian Mafia to those closest to her, including her former lover.</p>\r\
   \n<p>Armed with her wits and a closet full of guns Mary must do whatever it takes\
   \ to be the last woman standing in this energetic and explosive action thriller.</p>\_"
-section2-content: "<p>The sensational DVD is packed with exclusive features including\
-  \ Mary’s World, The Beginning of the End, If Looks Could Kill & many more!.</p>\
-  \ \r\n<p>This Proud Mary on DVD release from Sony Pictures Home Entertainment is\
-  \ the best plan for your weekend! Think no more and enter the form below for a chance\
-  \ to win one of 3 copies of this amazing DVD!</p>\r\n<p>Good luck!</p>"
+section2-content: "<p>Proud Mary is out on DVD on 30th July and is packed with exclusive\
+  \ features including Mary’s World, The Beginning of the End, If Looks Could Kill\
+  \ & many more!.</p> \r\n<p>This Proud Mary on DVD release from Sony Pictures Home\
+  \ Entertainment is the best plan for your weekend! Think no more and enter the form\
+  \ below for a chance to win one of 3 copies of this amazing DVD!</p>\r\n<p>Good\
+  \ luck!</p>"
 entry-title: "Win a copy of Proud Mary on DVD!"
 entry-content: "Enter the draw to win a copy of Proud Mary on DVD!  by completing\
   \ the form below before 23:59 on 30th of August 2018."
