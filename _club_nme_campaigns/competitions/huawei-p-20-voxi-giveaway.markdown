@@ -23,7 +23,7 @@ logo-left-title: "VOXI"
 bg-image-hero: "https://assets.expresslyapp.com/asset-49772ca5-5df7-431e-8d23-8b72fbd5f992.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-65888b93-3f4c-4916-943a-b110a18e6349.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-2568a249-4836-4812-bef6-990e3124ec7e.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-9eab7205-ad86-4705-abe8-da0369aa6338.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-82044d7e-c392-47f5-b524-5c9dd31c432a.png"
 section1-content: "<p>Great for your Social pictures and videos.</p>\r\n<p>The P20\
   \ lite's state-of-the-art 16-megapixel dual rear camera delivers natural 'bokeh'\
   \ effects to your shots, creating professional-looking soft backgrounds and adding\
@@ -37,10 +37,11 @@ section2-content: "<p>VOXI is a new mobile network powered by Vodafone. It’s o
   \n<li>Endless Flexibility: no contract, cancel anytime</li>\r\n<li>Endless calls\
   \ and texts: unlimited calls, texts and picture messages</li>\r\n<li>Endless Roaming:\
   \ use your phone in EU, no extra cost</li>\r\n</ul>\r\n</p>"
-section3-content: "<p>Order your free VOXI SIM now and we will double data on all\
-  \ plans. Be quick, as the offer ends July 29th.</p>\r\n<p>If you don’t want to miss\
-  \ this amazing opportunity of winning the brand new Huawei P20 Lite… hurry up and\
-  \ enter the form below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
+section3-content: "<p>Order your free VOXI SIM now and they will TRIPLE your data\
+  \ on all plans for 24 months. Be quick, as the offer ends Sep 16th. Check terms\
+  \ and conditions on VOXI's site.</p>\r\n<p>If you don’t want to miss this amazing\
+  \ opportunity of winning the brand new Huawei P20 Lite… hurry up and enter the form\
+  \ below and it could be coming home with you!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Huawei P20 Lite and discover VOXI by Vodafone!"
 entry-content: "Enter the draw to win the Huawei P20 Lite and discover VOXI by Vodafone,\
   \ by completing the form below before 23:59 on 18th of August 2018."
