@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-d4b38bf2-2445-473c-9429-1b39e30ac5a9"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-07-30T09:00:00.000Z"
 end-date: "2018-08-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a copy of Proud Mary on DVD!"
 competition-description: "<p>Calling all Taraji Penda Henson fans! To celebrate the\
