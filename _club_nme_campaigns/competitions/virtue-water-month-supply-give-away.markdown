@@ -5,7 +5,7 @@ category: "Food"
 date: "2018-06-21T09:00:00.000Z"
 end-date: "2018-07-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a month's supply of Virtue Energy Water!"
 competition-description: "<p>Summer is just around the corner and we know you've been\
