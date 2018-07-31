@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-171c2fe3-699b-4eec-821a-d2f51
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-110e31a1-20a0-4f5c-a4f7-1503dc9842a9.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-31a43a91-cef1-4df8-8422-81069dd1a8c9.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-597c9642-c490-4185-a3aa-42df8800fbe9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f7b20521-21f7-4c0d-b4a0-228c5615465a.jpg"
 section1-content: "<p>Can anything stop Dua Lipa? The London-born singer has sold\
   \ more than a million copies of her self-titled debut album and she has become one\
