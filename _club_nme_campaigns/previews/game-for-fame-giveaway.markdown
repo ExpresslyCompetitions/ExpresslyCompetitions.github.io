@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win Game for Fame board game!"
 competition-description: "<p>We have in our hands the best-selling party board game\
   \ for families and friends which has left many reviewers \"crying with laughter”\
-  \ YES! we are talking about Game for Fame board game!.</p>\r\n<p>Do you want it?\
+  \ YES! we are talking about Game for Fame board game!</p>\r\n<p>Do you want it?\
   \ Click below and it could be yours!</p>"
 hero-header: "Win Game for Fame board game!"
 terms-confirmation: "N/A"
