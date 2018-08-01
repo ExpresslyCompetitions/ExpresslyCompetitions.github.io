@@ -14,11 +14,11 @@ competition-description: "<p>Intense, Detailed Bass, Comfortable Fit, Silver, Ox
   \ they could be yours!</p>"
 hero-header: "Win the Brainwavz M2 IEM Noise Isolating Earphones!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-7857ab6f-5e7d-44b0-ae7d-2012ee19c2b8.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-632ca6ca-14b9-4277-a9b0-de743ae20414.jpg"
 logo-left-href: "http://brainwavzaudio.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-48c854bd-e1bf-4f56-87b1-ae3abcac173c.jpg"
 logo-left-title: "BRAINWAVZ"
-bg-image-hero: "https://assets.expresslyapp.com/asset-2f4b92e0-a1ab-4985-9c09-80614832395e.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-e9ec8511-2325-41ba-9409-7934cfc51546.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8d5417a4-bccd-4fac-8ece-c0bdc327e7ae.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-7985f846-4f67-4ca1-b15a-cada4765e4ed.jpg"
 section1-content: "<p>The Brainwavz M2 IEM noise isolating earphones are perfect for\
