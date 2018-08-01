@@ -27,7 +27,7 @@ section1-content: "<p>This omelette maker is extremely portable so it can be use
   \ to switch off and the ‘ready’ light to come on. Pour on your omelette mix and\
   \ fillings, drop down the li d and wait a few minutes while your omelette cooks.\
   \ It’s that simple, and thanks to the non-stick coating there’s less cleaning up\
-  \ than you’d normally have with a plastic microwave omelette maker</p>\r\n<p>Enter\
+  \ than you’d normally have with a plastic microwave omelette maker.</p>\r\n<p>Enter\
   \ the form below and get ready to make delicious breakfast in the morning with the\
   \ Andrew James Dual Omelette Maker!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Andrew James Dual Omelette Maker!"
