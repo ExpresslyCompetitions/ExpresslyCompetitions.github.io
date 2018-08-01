@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-07beceed-37cb-4c61-8636-32ab1
 logo-left-href: "http://debenhams.com"
 logo-left-image: "https://assets.expresslyapp.com/35db04ce-efe2-45d1-9003-8a9918061824-thumb.png"
 logo-left-title: "Debenhams"
-bg-image-hero: "https://assets.expresslyapp.com/asset-ea09577d-3ddf-4e8b-a07f-7cef32240601.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5ed4bfea-4ab7-438d-b756-04caec5d7677.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-59557c03-ae02-414b-9f11-935c5c87a26b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-2eea0801-c102-4b07-8e8f-f89f367542cf.jpg"
 section1-content: "<p>At Debenhams they have something for everybody: clothes for\
