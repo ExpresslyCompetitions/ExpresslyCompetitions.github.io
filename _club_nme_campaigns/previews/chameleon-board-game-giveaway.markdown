@@ -21,14 +21,15 @@ logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-90fc28ca-4261-4a93-81dc-243d9e836781.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-71b7d8d0-a6a8-4673-8cc3-b85e65f2b332.jpg"
 section1-content: "<p>Everyone knows the secret word for the round except for the\
-  \ Chameleon. But who is the Chameleon? Each round, every player gets to say just\
-  \ one word to each other in order to prove their innocence and single out the imposter.\
-  \ Choose a word that’s too obvious and the Chameleon might catch on. Choose a word\
-  \ that’s too vague and people might start thinking that you’re the guilty one. Players\
-  \ will need to use all their cunning, team work and witch-hunting skills if they\
-  \ want to succeed. If you’re the Chameleon, however, the rules are much more simple.\
-  \ Don’t. Get. Caught!</p>\r\n<p>Enter the form below for a chance to win the multi\
-  \ award-winning board game and have the best time with your loved ones!</p>"
+  \ Chameleon. But who is the Chameleon?</p>\r\n<p>Each round, every player gets to\
+  \ say just one word to each other in order to prove their innocence and single out\
+  \ the imposter. Choose a word that’s too obvious and the Chameleon might catch on.Choose\
+  \ a word that’s too vague and people might start thinking that you’re the guilty\
+  \ one.</p>\r\n<p>Players will need to use all their cunning, team work and witch-hunting\
+  \ skills if they want to succeed. If you’re the Chameleon, however, the rules are\
+  \ much more simple. Don’t. Get. Caught!</p>\r\n<p>Enter the form below for a chance\
+  \ to win the multi award-winning board game and have the best time with your loved\
+  \ ones!</p>"
 entry-title: "Win The Chameleon: Multi Award-Winning Board Game!"
 entry-content: "Enter the draw to win The Chameleon: Multi Award-Winning Board Game\
   \ by completing the form below before 23:59 on 7th of September 2018."
