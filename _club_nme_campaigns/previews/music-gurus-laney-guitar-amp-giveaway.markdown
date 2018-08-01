@@ -2,8 +2,8 @@
 campaign-uuid: "c-de7b746d-3f1c-46db-b12e-ef2216d2df87"
 type: "Preview"
 category: "Music"
-date: "2018-07-30T09:00:00.000Z"
-end-date: "2018-08-30T23:59:00.000Z"
+date: "2018-08-06T09:00:00.000Z"
+end-date: "2018-09-06T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -17,14 +17,14 @@ competition-description: "<p>The #1 place to learn music online MusicGurus is gi
 hero-header: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
   \ course with MusicGurus!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-057bc55a-e01d-4d38-821d-eb2c03919a80.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-a77ecefb-ac57-4f18-ba0f-ce1e05bc0932.jpg"
 logo-left-href: "https://www.musicgurus.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-78f189a4-1ce3-4c02-85c0-e96cd9039121.jpg"
 logo-left-title: "MusicGurus"
 bg-image-hero: "https://assets.expresslyapp.com/asset-af9c33d1-e150-489e-806a-e4f9bd209f54.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-782baafa-bd8b-4d81-b160-eb724f1b0377.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-5a84546f-b987-4982-8fc9-f02cf5255e59.png"
 bg-image-second: "https://assets.expresslyapp.com/asset-e08839e6-ea44-48d7-a1a7-3601208ad948.png"
-bg-image-third: "https://assets.expresslyapp.com/asset-ab6af562-e01c-4c64-8979-474a09c5b002.png"
+bg-image-third: "https://assets.expresslyapp.com/asset-e7ba9ed6-f4fe-43a5-86e0-443433dad640.png"
 section1-content: "MusicGurus.com is the #1 place to learn music online. Whether you’\
   re just starting out or already an experienced musician, choose from 1000s of video\
   \ lessons across a range of instruments and styles taught by top teachers and contemporary\
@@ -39,13 +39,12 @@ section3-content: "<p>If you’re liking what you’re hearing… get ready to b
   \ rockstar because NME AAA is partnering with MusicGurus to give one lucky winner\
   \ a Laney GH30R-112 amp worth £750 plus a free Rockschool guitar course at a level\
   \ that suits you from beginner to advanced!</p>\r\n<p>Enter the form below and show\
-  \ your inner musician side with MusicGurus and this amazing prize!</p>\r\n<p>Good\
-  \ luck!</p>"
+  \ your inner musician with MusicGurus and this amazing prize!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
   \ course with MusicGurus!"
 entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing Rockschool\
-  \ guitar course with MusicGurus by completing the form below before 23:59 on 30th\
-  \ of August 2018."
+  \ guitar course with MusicGurus by completing the form below before 23:59 on 6th\
+  \ of September 2018."
 has-winner: false
 prize-description: "A Laney Guitar Amp worth £750 PLUS plus a free Rockschool guitar\
   \ course which includes many lessons."

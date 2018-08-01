@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-06-28T11:00:00.000Z"
 end-date: "2018-07-28T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £200 hmv gift card!"
 competition-description: "<p>Want Ariana Grande’s new album? or maybe Florence and\
