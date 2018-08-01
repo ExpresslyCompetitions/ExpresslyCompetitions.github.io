@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 title: "Win the Brainwavz M2 IEM Noise Isolating Earphones!"
 competition-description: "<p>Intense, Detailed Bass, Comfortable Fit, Silver, Oxygen\
-  \ Free Cable… YES! we are talking about the brand new Brainwayz M2 IEM earphones!\
+  \ Free Cable… YES! we are talking about the brand new Brainwavz M2 IEM earphones!\
   \ A totally MUST for all music lovers!</p>\r\n<p>Do you want them? Click below and\
   \ they could be yours!</p>"
 hero-header: "Win the Brainwavz M2 IEM Noise Isolating Earphones!"
