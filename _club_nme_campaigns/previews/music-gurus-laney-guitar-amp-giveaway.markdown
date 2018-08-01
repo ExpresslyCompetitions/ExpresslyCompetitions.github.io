@@ -2,8 +2,8 @@
 campaign-uuid: "c-de7b746d-3f1c-46db-b12e-ef2216d2df87"
 type: "Preview"
 category: "Music"
-date: "2018-07-30T09:00:00.000Z"
-end-date: "2018-08-30T23:59:00.000Z"
+date: "2018-08-06T09:00:00.000Z"
+end-date: "2018-09-06T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -43,8 +43,8 @@ section3-content: "<p>If you’re liking what you’re hearing… get ready to b
 entry-title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar\
   \ course with MusicGurus!"
 entry-content: "Enter the draw to win a Laney Guitar Amp worth £750 and amazing Rockschool\
-  \ guitar course with MusicGurus by completing the form below before 23:59 on 30th\
-  \ of August 2018."
+  \ guitar course with MusicGurus by completing the form below before 23:59 on 6th\
+  \ of September 2018."
 has-winner: false
 prize-description: "A Laney Guitar Amp worth £750 PLUS plus a free Rockschool guitar\
   \ course which includes many lessons."
