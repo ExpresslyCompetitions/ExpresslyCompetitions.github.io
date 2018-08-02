@@ -28,8 +28,8 @@ section1-content: "<p>The Brainwavz M2 IEM noise isolating earphones are perfect
   \ sounding great but also keep commuting noise out with noise isolation.</p>"
 section2-content: "<p>Coming with a high quality silver oxygen based cable which is\
   \ durable and lightweight along with lots of ear tips for added comfort and enjoyable\
-  \ listening, what are you waiting for? Get the form below for a chance to win these\
-  \ amazing earphones!</p>"
+  \ listening, what are you waiting for?</p>\r\n<p>Enter the form below for a chance\
+  \ to win these amazing earphones!</p>"
 entry-title: "Win the Brainwavz M2 IEM Noise Isolating Earphones!"
 entry-content: "Enter the draw to win the Brainwavz M2 IEM Noise Isolating Earphones\
   \ by completing the form below before 23:59 on 13th of September 2018."
