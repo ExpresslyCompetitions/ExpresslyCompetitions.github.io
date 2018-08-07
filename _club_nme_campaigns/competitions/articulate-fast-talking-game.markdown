@@ -30,7 +30,10 @@ entry-title: "Win Articulate, The Fast Talking Description Game!"
 entry-content: "<p>Enter the draw to win the game that will make you laugh for hours,\
   \ Articulate, The Fast Talking Description Game! by completing the form below before\
   \ 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Neil M. who won Articulate, The Fast Talking Description\
+  \ Game!"
+winner-banner: "https://assets.expresslyapp.com/asset-61b0ff6a-5e1e-4eb9-aaea-1471d03292ed.jpg"
 prize-description: "Articulate, The Fast Talking Description Game!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
