@@ -28,7 +28,9 @@ entry-title: "Win Blooma Charcoal Kettle Barbecue!"
 entry-content: "<p>Enter the draw to win the Blooma Charcoal Kettle Barbecue!\r\n\
   and treat your friends with the perfect summer grill! by completing the form below\
   \ before 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Linda P. who won the Blooma® Charcoal Kettle Barbecue!"
+winner-banner: "https://assets.expresslyapp.com/asset-87ce794e-6bee-4c60-a2e6-f8e2ad5cee1d.jpg"
 prize-description: "A Blooma® Charcoal Kettle Barbecue!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
