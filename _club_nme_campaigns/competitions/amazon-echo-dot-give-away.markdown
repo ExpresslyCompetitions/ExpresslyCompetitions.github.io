@@ -30,7 +30,9 @@ section1-content: "<p>Amazon Echo Dot is a hands-free, voice-controlled device w
 entry-title: "The innovative Amazon Echo Dot!"
 entry-content: "<p>Enter the draw to win the best gift you could ever have, the innovative\
   \ Amazon Echo Dot! by completing the form below before 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lynne D. who won the innovative Amazon Echo Dot!"
+winner-banner: "https://assets.expresslyapp.com/asset-50c852b5-0ba0-48c8-9768-f2d879c199b8.jpg"
 prize-description: "An Amazon Echo Dot"
 prize-restrictions: "Prize includes only the product. Any related account or subscription\
   \ is not included."
