@@ -35,7 +35,9 @@ section2-content: "<p>We want YOU to take advantage of all their music and enter
 entry-title: "Win a £200 hmv gift card!"
 entry-content: "Enter the draw to win a a £200 hmv gift card by completing the form\
   \ below before 23:59 on 28th July 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Natalie B. who won a £200 hmv gift card!"
+winner-banner: "https://assets.expresslyapp.com/asset-e74892e9-bb7e-4807-8860-f31d7cfe37e0.jpg"
 prize-description: "A £200 hmv gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
