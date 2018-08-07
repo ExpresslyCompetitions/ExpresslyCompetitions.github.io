@@ -29,7 +29,9 @@ section1-content: "<p>Based on the hit BBC comedy panel show, this is a game of 
 entry-title: "Win the ‘Would I lie to you?’ board game!"
 entry-content: "Enter the draw to win the hilarious and enjoyable Catan Board Game!\
   \ by completing the form below before 23:59 on 12th July 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Maggie C. who won ‘Would I lie to you?’ board game!"
+winner-banner: "https://assets.expresslyapp.com/asset-c4b4f9a2-927e-4423-88c3-64ca0dbded21.jpg"
 prize-description: "The ‘Would I lie to you?’ board game!"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
