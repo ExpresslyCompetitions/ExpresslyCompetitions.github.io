@@ -34,7 +34,9 @@ section1-content: "<p>The London Game has a board showing the centre of the inno
 entry-title: "Win Ideal London Board Game!"
 entry-content: "<p>Enter the draw to win Ideal London Board Game! and take a trip\
   \ around London\r\n by completing the form below before 23:59 on 22st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Claire B who won Ideal London Board Game!"
+winner-banner: "https://assets.expresslyapp.com/asset-6d5f3128-0341-4804-b8bf-799df1ec72af.jpg"
 prize-description: "Ideal London Board Game."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
