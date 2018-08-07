@@ -38,7 +38,10 @@ entry-title: "Win £50 to discover many exciting games at G2A!"
 entry-content: "<p>Enter the draw to win a £50 to discover many exciting games at\
   \ G2A and enjoy your favourite games by completing the form below before 23.59pm\
   \ on 11/07/2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Katie P. who won £50 to discover many exciting games\
+  \ at G2A!"
+winner-banner: "https://assets.expresslyapp.com/asset-e03e3e37-0450-4820-84f0-ffb5a889b248.jpg"
 prize-description: "£50 gift card at G2A."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
