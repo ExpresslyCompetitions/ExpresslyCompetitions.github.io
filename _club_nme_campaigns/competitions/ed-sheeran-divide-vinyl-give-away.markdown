@@ -32,7 +32,10 @@ section1-content: "<p>Ed Sheeran and his latest album DIVIDE has sold more than 
 entry-title: "Win the amazing Ed Sheeran DIVIDE Vinyl Edition!"
 entry-content: "<p>Enter the draw to win Ed Sheeran DIVIDE Vinyl edition by completing\
   \ the form below before 23:59 on 22st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Andrew W. who won the amazing Ed Sheeran DIVIDE\
+  \ Vinyl Edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-47e67b95-3532-402b-ad51-545b3e72e63a.jpg"
 prize-description: "Ed Sheeran DIVIDE Vinyl Edition."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
