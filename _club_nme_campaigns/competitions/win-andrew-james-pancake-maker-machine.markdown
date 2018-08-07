@@ -33,7 +33,9 @@ entry-title: "Win Andrew James Pancake Maker Machine!"
 entry-content: "<p>Enter the draw to win the brand new Andrew James Pancake Maker\
   \ Machine! and enjoy delicious pancakes anytime and anywhere! by completing the\
   \ form below before 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michelle O. who won Andrew James Pancake Maker Machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-46893b5a-1dec-4df0-a918-8ae442f30206.jpg"
 prize-description: "Andrew James Pancake Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
