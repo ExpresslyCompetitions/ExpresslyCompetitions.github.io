@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-df2f0f42-ddbf-4aff-bd06-58fe32bd4e50"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
-date: "2018-08-07T09:00:00.000Z"
+date: "2018-08-07T11:00:00.000Z"
 end-date: "2018-09-07T23:59:00.000Z"
 disable-form: false
 is_promoted: false
