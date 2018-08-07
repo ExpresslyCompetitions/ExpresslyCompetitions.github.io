@@ -31,7 +31,10 @@ section1-content: "<p>With the Fire TV Stick there’s something always on, just
 entry-title: "Win the Fire TV Stick with Alexa Voice Remote!"
 entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa Voice\
   \ Remote by completing the form below before 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Debbie W. who won  the Fire TV Stick with Alexa\
+  \ Voice Remote!"
+winner-banner: "https://assets.expresslyapp.com/asset-78f9dbd3-2de3-4171-ac8e-6e7274662328.jpg"
 prize-description: "The Fire TV Stick with Alexa Voice Remote!"
 prize-restrictions: "Prize includes only the product. Any related account or subscription\
   \ is not included."
