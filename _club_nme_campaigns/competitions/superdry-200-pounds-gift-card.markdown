@@ -35,7 +35,9 @@ entry-title: "Win a £200 Superdry gift card!"
 entry-content: "<p>Enter the draw to win a £200 Superdry gift card and get ready to\
   \ stand out this summer with Superdry by completing the form below before 23:59\
   \ on 11th July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lisa R. who won a £200 Superdry gift card!"
+winner-banner: "https://assets.expresslyapp.com/asset-1592de76-02a6-44c3-9367-000070529849.jpg"
 prize-description: "A £200 Superdry gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
