@@ -31,7 +31,9 @@ entry-title: "Win Andrew James Ice Cream Maker Machine!"
 entry-content: "<p>Enter the draw to win the Andrew James Ice Cream Maker Machine!\
   \ and get ready to eat delicious ice creams this summer by completing the form below\
   \ before 23:59 on 5th July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kate L. who won Andrew James Ice Cream Maker Machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-04b0e0b3-185c-4aef-8a2a-cd857330b0cb.jpg"
 prize-description: "An Andrew James Ice Cream Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
