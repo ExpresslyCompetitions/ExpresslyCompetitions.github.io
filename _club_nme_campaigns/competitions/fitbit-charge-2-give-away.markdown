@@ -34,7 +34,9 @@ entry-title: "Win the brand new Fitbit Charge 2!"
 entry-content: "<p>Enter the draw to win the brand new Fitbit Charge 2 and and let\
   \ it be part of your personal fitness journey by completing the form below before\
   \ 23:59 on 5th July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kendall W. who won the brand new Fitbit Charge 2!"
+winner-banner: "https://assets.expresslyapp.com/asset-16bca412-8ee6-4abd-8921-aacf00f92eab.jpg"
 prize-description: "A Fitbit Charge 2!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
