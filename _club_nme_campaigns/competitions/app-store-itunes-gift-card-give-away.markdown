@@ -12,7 +12,7 @@ competition-description: "<p>We have the perfect gift, a world of entertainment 
   \ our hands and we want to give it to YOU: We’re giving away an amazing £100 App\
   \ Store & iTunes Gift Card for one lucky NME AAA member to win and enjoy!</p>\r\n\
   <p>Want it? You know what to do…</p>"
-hero-header: "Win a a £100 App Store & iTunes Gift Card!"
+hero-header: "Win  a £100 App Store & iTunes Gift Card!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d8bff377-49b5-4193-8662-3e3f1d061cbc.jpg"
 logo-left-href: "https://www.apple.com/uk/"
@@ -40,7 +40,9 @@ entry-title: "Win a a £100 App Store & iTunes Gift Card!"
 entry-content: "Enter the draw to win a a £100 App Store & iTunes Gift Card and enjoy\
   \ your favourite tunes anywhere by completing the form below before 23:59 on 20th\
   \ July 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony L. who won a £100 App Store & iTunes Gift Card!"
+winner-banner: "https://assets.expresslyapp.com/asset-37ca06d3-f48b-4260-85f0-1e7d627063fa.jpg"
 prize-description: "A £100 App Store & iTunes Gift Card"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
