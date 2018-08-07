@@ -30,7 +30,10 @@ entry-title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 entry-content: "<p>Enter the draw to win the fastest-selling vinyl record of the last\
   \ 20 years! The exclusive Liam Gallagher 'As You Were' Vinyl Edition! by completing\
   \ the form below before 23:59 on 1st July 2018.</p>"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ian T. who won the exclusive Liam Gallagher ‘As\
+  \ You Were’ Vinyl Edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-c9f0cabe-27cb-4ebf-bb6b-930427d4550f.jpg"
 prize-description: "The exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
