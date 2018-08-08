@@ -7,9 +7,9 @@
                {% if include.maxlength %}maxlength="{{include.maxlength}}"{% endif %}
                {% if include.pattern %}pattern="{{include.pattern}}"{% endif %}
                {% if include.required == 'true' %}required{% endif %} />
-        {% if include.help %}<small class="form-text text-muted">{{include.help}}</small>{% endif %}
         <div class="invalid-feedback">
             <i id="{{form_input_id_prefix}}invalid-feedback--{{include.id}}" class="fa fa-exclamation-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="{{include.error}}"></i>
         </div>
+        {% if include.help %}<small class="form-text text-muted">{{include.help}}</small>{% endif %}
     </div>
 </div>
