@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-07-23T17:00:00.000Z"
 end-date: "2018-07-26T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
 competition-description: "<p>Join Bestival for their 15th birthday, circus themed\
