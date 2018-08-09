@@ -30,7 +30,9 @@ entry-title: "Win Elgento Mini Chocolate fountain!"
 entry-content: "Enter the draw to win the Elgento Mini Chocolate Fountain and treat\
   \ yourself and loved ones with the best dessert by completing the form below before\
   \ 23:59 on 12th July 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ian S. who won the Elgento Mini Chocolate fountain!"
+winner-banner: "https://assets.expresslyapp.com/asset-94ed0a45-5695-4a9b-87e4-70df01ea78e7.jpg"
 prize-description: "A Elgento Mini Chocolate fountain!"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
