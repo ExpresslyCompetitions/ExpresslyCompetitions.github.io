@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-07-31T18:00:00.000Z"
 end-date: "2018-08-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 4x SOLD OUT pairs of standard weekend tickets at Lowlands 2018\
   \ (including camping passes)"
