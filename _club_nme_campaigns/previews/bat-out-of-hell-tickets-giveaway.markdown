@@ -18,11 +18,11 @@ hero-header: "Win a pair of tickets to Bat Out Of Hell The Musical and an origin
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c3e81ad9-afb4-4553-a5ec-14670bb45e3f.jpg"
 logo-left-href: "http://outside-org.co.uk/"
-logo-left-image: "https://assets.expresslyapp.com/ebcb9d0a-e25b-447b-9ded-e15dd8f99fbb-thumb.png"
+logo-left-image: "https://assets.expresslyapp.com/asset-3347d69f-b421-4031-8088-db320e0dfe12.jpg"
 logo-left-title: "Outside organisation"
 bg-image-hero: "https://assets.expresslyapp.com/asset-16dff3be-3902-46d6-8de5-4617a76867c1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-b448aeeb-6b49-40a0-8881-eaab565d876c.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-d6dcbb9a-216a-4a0b-a52e-4118f6cfe66c.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-8338212e-c0b9-460b-a3a8-d930e9af6454.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-b0286f8c-b9c1-44ec-856a-00ac315faa25.jpg"
 section1-content: "<p>The winner of the Evening Standard Radio 2 Audience Award for\
   \ Best Musical 2017, Bat out of Hell – The Musical wowed critics and public alike\
@@ -42,9 +42,9 @@ section2-content: "<p>Jim Steinman’s Bat out of Hell – The Musical is a roma
   \ by David Grindrod CDG, fight direction by Stuart Boother and musical direction\
   \ by Robert Emery.</p>"
 section3-content: "<p>To celebrate the release of Bat Out Of Hell The Musical, we\
-  \ are giving away a pair of tickets to one of our lucky NME AAA readers to win!</p>\r\
+  \ are giving away a pair of tickets to one of our lucky NME AAA readers to win.</p>\r\
   \n<p>Shows take place at The Dominion Theatre London, showtimes Monday-Saturday\
-  \ 19:30 and additional matinees on Wednesdays and Saturdays at 14:30!</p>\r\n<p>What\
+  \ 19:30 and additional matinees on Wednesdays and Saturdays at 14:30.</p>\r\n<p>What\
   \ are you waiting for? Enter the form below and you could be going to Bat Out Of\
   \ Hell The Musical!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to Bat Out Of Hell The Musical and an original\
