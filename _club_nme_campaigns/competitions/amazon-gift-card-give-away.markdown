@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-07-04T09:00:00.000Z"
 end-date: "2018-08-04T11:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £100 Amazon Gift card!"
 competition-description: "<p>Music cd’s, storage, food, health & beauty… at Amazon\
