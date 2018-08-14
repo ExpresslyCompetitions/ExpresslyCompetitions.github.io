@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-07-03T11:38:34.000Z"
 end-date: "2018-08-03T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £50 Netflix Gift card!"
 competition-description: "<p>Calling all Netflix lovers! Sure you won’t want to miss\
