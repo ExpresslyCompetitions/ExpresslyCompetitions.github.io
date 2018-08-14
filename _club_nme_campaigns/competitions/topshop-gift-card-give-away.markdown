@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-07-11T09:00:00.000Z"
 end-date: "2018-08-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £150 Topshop Gift card!"
 competition-description: "<p>Looking for the perfect gift idea? We have the solution\
