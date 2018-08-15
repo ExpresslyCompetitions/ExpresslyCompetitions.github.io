@@ -44,11 +44,11 @@ section2-content: "<p>James Bay, Hozier, Kaleo… are some of their amazing arti
 section3-content: "<p>If you are looking forward to attending one of their amazing\
   \ secret concerts… now it could be the best plan of your weekend. Thanks to NME\
   \ AAA and Sofar Sounds we are offering a pair of tickets and the exclusive offer\
-  \ for NME AAA: GE to a Sofar Sounds concert of your choice anywhere in the UK and\
-  \ </p>\r\n<p>But that is not all, at Sofar Sounds we are all winners, if you don’\
-  t get selected as the winner you have 20% off at their tickets!</p>\r\n<p>Enter\
-  \ the form below for a chance to win and you may even discover your new favourite\
-  \ artist!</p>\r\n<p>Good luck!</p>"
+  \ for NME AAA: GE to a Sofar Sounds concert of your choice anywhere in the UK! </p>\r\
+  \n<p>But that is not all, at Sofar Sounds we are all winners, if you don’t get selected\
+  \ as the winner you have 20% off at their tickets!</p>\r\n<p>Enter the form below\
+  \ for a chance to win and you may even discover your new favourite artist!</p>\r\
+  \n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to a Sofar Sounds secret performances in the UK!"
 entry-content: "Enter the draw to win pair of tickets to a Sofar Sounds secret concert\
   \ of your choice by completing the form below before 23:59 on 11th of September\
