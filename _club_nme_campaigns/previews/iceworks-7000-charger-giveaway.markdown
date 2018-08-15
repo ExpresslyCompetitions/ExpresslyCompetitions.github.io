@@ -21,8 +21,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-5875f009-bd7b-44d3-a8f5-
 logo-left-title: "IceWorks"
 bg-image-hero: "https://assets.expresslyapp.com/asset-d20a12ff-b3c1-4c07-957b-9543f6566e06.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-2da40245-4b3c-4e7b-8a1a-8a738c2be0a4.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-0448adf6-b3e2-4ce0-a11c-a5193539b8a8.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-de61c805-ca6e-4a52-b694-8263fe93323d.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-4b79c396-cea7-4717-a4c3-afb38bf2b826.jpg"
 section1-content: "<p>The Iceworks 7000 power bank is the ideal accessory for all\
   \ USB-C devices. Designed to integrate seamlessly into busy lifestyles, it is the\
   \ thinnest USB-C charger on the market at just 8mm. Lightweight and with an in-built\
@@ -30,9 +29,9 @@ section1-content: "<p>The Iceworks 7000 power bank is the ideal accessory for al
   \ out and about.</p>"
 section2-content: "<p>With a 7,000 mAh battery the Iceworks 7000 will provide a 150-200%\
   \ extra charge for devices so you will no longer be missing texts, calls or stuck\
-  \ without Google maps.</p>"
-section3-content: "<p>What are you waiting for? Enter now to win the Iceworks 7000\
-  \ for yourself and don’t run out of battery never again!</p>\r\n<p>Good luck!</p>"
+  \ without Google maps.</p>\r\n<p>What are you waiting for? Enter now to win the\
+  \ Iceworks 7000 for yourself and don’t run out of battery never again!</p>\r\n<p>Good\
+  \ luck!</p>"
 entry-title: "Win Iceworks 7000 In-Built Cable USB C Power Bank"
 entry-content: "Enter the draw to win Iceworks 7000 In-Built Cable USB C Power Bank\
   \ by completing the form below before 23:59 on 15th of September 2018."
