@@ -2,8 +2,8 @@
 campaign-uuid: "c-476890ec-7387-497c-9835-6165aef9cca0"
 type: "Preview"
 category: "Gifts"
-date: "2018-08-15T09:00:00.000Z"
-end-date: "2018-09-15T23:59:00.000Z"
+date: "2018-08-16T09:00:00.000Z"
+end-date: "2018-09-16T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>On Travis Scott Astroworld  he reunites with previously fe
   \n<p>Good Luck!</p>"
 entry-title: "Win Travis Scott Astroworld vinyl edition!"
 entry-content: "Enter the draw to win Travis Scott Astroworld Vinyl edition\r\nby\
-  \ completing the form below before 23:59 on 15th of September 2018."
+  \ completing the form below before 23:59 on 16th of September 2018."
 has-winner: false
 prize-description: "Travis Scott Astroworld vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day."
