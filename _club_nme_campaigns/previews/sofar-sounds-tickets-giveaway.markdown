@@ -41,7 +41,7 @@ section2-content: "<p>James Bay, Hozier, Kaleo… are some of their amazing arti
   \ get an email with the address of the Sofar and let the party begin! Bring some\
   \ drinks and find a seat (floor seating encouraged!). You won't find out who's playing\
   \ until you get there, so come with an open mind and enjoy the show!</p>"
-section3-content: "<p>If you are looking forward to attending to one of their amazing\
+section3-content: "<p>If you are looking forward to attending one of their amazing\
   \ secret concerts… now it could be the best plan of your weekend. Thanks to NME\
   \ AAA and Sofar sounds we are offering a pair of tickets and the exclusive offer\
   \ for NME AAA: GE to a Sofar Sounds concert of your choice anywhere in the UK and\
