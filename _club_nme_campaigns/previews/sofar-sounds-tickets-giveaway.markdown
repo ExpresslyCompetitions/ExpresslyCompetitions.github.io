@@ -43,7 +43,7 @@ section2-content: "<p>James Bay, Hozier, Kaleo… are some of their amazing arti
   \ until you get there, so come with an open mind and enjoy the show!</p>"
 section3-content: "<p>If you are looking forward to attending one of their amazing\
   \ secret concerts… now it could be the best plan of your weekend. Thanks to NME\
-  \ AAA and Sofar sounds we are offering a pair of tickets and the exclusive offer\
+  \ AAA and Sofar Sounds we are offering a pair of tickets and the exclusive offer\
   \ for NME AAA: GE to a Sofar Sounds concert of your choice anywhere in the UK and\
   \ </p>\r\n<p>But that is not all, at Sofar Sounds we are all winners, if you don’\
   t get selected as the winner you have 20% off at their tickets!</p>\r\n<p>Enter\
