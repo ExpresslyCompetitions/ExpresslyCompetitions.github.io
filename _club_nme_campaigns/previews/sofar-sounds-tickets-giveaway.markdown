@@ -55,6 +55,7 @@ entry-content: "Enter the draw to win pair of tickets to a Sofar Sounds secret c
 has-winner: false
 prize-description: "A pair of tickets to a Sofar Sounds secret performances & the\
   \ exclusive offer for NME AAA: GE (Guaranteed Entry) + Discount (20%)."
+prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "The winner will be contacted the day after the competition closes\
   \ and it will have one week to claim the prize.\r\nMultiple entries are allowed\
   \ up to one every day."
