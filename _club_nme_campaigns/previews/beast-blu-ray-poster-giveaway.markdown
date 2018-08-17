@@ -16,7 +16,7 @@ hero-header: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1af5ad80-4ced-40f9-895d-dbc0514b3499.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-4ca88a94-f398-4581-acad-cf3f02ff84bc.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-6bb693eb-38b7-41b2-bcdd-cd81e272ce76.jpg"
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e40641ac-c046-406c-8c48-ec82cde40516.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-91166955-cee7-4b8e-954d-6e098d814a4e.jpg"
