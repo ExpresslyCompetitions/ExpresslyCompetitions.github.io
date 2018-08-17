@@ -26,7 +26,7 @@ section1-content: "<p>Since making her full-length debut with 2013’s Yours Tru
   \n<p>She’s definitely one of the most exquisite in pop today, that is why we are\
   \ giving away her brand new album Sweetener for YOU to get stuck in! Enter the form\
   \ below and you could be listening God Is A Woman, No Tears Left To Cry and many\
-  \ more!</p>\r\n>Good luck!</p>"
+  \ more!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Ariana Grande new album Sweetener!"
 entry-content: "Enter the draw to win Ariana Grande new album Sweetener by completing\
   \ the form below before 23:59 on 17th of September 2018."
