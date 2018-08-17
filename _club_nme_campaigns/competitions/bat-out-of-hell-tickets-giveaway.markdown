@@ -54,7 +54,7 @@ entry-content: "Enter the draw to win a pair of tickets to Bat Out Of Hell The M
   \ on 4th of September 2018."
 has-winner: false
 prize-description: "A pair of tickets to Bat Out Of Hell The Musical and an original\
-  \ cast album soundtrack CD"
+  \ cast album soundtrack CD.\r\n\r\nTickets are Level 1 tickets."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\n Prize\
   \ must be redeemed by 1st December."
 ---
