@@ -36,8 +36,9 @@ section2-content: "<p>This Blu-ray is the perfect movie for you to get stuck int
   \ Beast - Photo Gallery & Optional English SDH and Spanish subtitles for the main\
   \ feature!</p>\r\n<p>To celebrate the release of the movie, 5 lucky readers have\
   \ the chance to win a Blu-ray copy and poster of Michael Pearce’s critically acclaimed\
-  \ Beast starring Jessie Buckley and Johnny Flynn.</p>\r\n</p>Hurry up and enter\
-  \ the form below for a chance to win!</p>\r\n<p>Weekend=SORTED!</p>"
+  \ Beast starring the musician Johnny Flynn and Jessie Buckley who also is a singer\
+  \ and is going to be playing at Glaswegian Country in Wild Rose.</p>\r\n</p>Hurry\
+  \ up and enter the form below for a chance to win!</p>\r\n<p>Weekend=SORTED!</p>"
 entry-title: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!"
 entry-content: "Enter the draw to win one of 5 copies of Beast on Blu-ray and a poster\
   \ of the movieby completing the form below before 23:59 on 3rd of September 2018."
