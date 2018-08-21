@@ -7,13 +7,13 @@ end-date: "2018-09-21T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win the Instax Mini 8 camera!"
+title: "Win the Instax Mini 8 camera and a 20 shot pack!"
 competition-description: "<p>Calling all photographers out there! You can’t miss this\
-  \ one! We are giving away an amazing Instax Mini 8 camera that supports the use\
-  \ of instax mini film to produce instant credit card-sized prints to one of our\
-  \ lucky NME AAA readers! </p>\r\n<p>Who doesn’t want this cute and compact body\
-  \ design camera? Click below and it could be yours!</p>"
-hero-header: "Win the Instax Mini 8 camera!"
+  \ one! We are giving away an amazing Instax Mini 8 camera and a 20 shot pack that\
+  \ supports the use of instax mini film to produce instant credit card-sized prints\
+  \ to one of our lucky NME AAA readers! </p>\r\n<p>Who doesn’t want this cute and\
+  \ compact body design camera? Click below and it could be yours!</p>"
+hero-header: "Win the Instax Mini 8 camera and a 20 shot pack"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f244871a-73e3-471d-84e3-6360f1741730.jpg"
 logo-left-href: "http://www.fujifilm.com/products/instant_photo/cameras/instax_mini_9/"
@@ -32,10 +32,10 @@ section1-content: "<p>A built-in flash that provides additional illumination for
 section2-content: "<p>Simply twist the dial to the appropriate exposure level, peer\
   \ through the viewfinder and take your shot!</p>\r\n<p>This amazing camera is a\
   \ reminder of the days before digital cameras, so If you want to turn the clock\
-  \ back, enter the form below for a chance to win the Instax Mini 8 camera and get\
-  \ ready to capture your favourite moments now!</p>\r\n<p>Instant photos, instant\
-  \ FUN!</p>"
-entry-title: "Win the Instax Mini 8 camera!"
+  \ back, enter the form below for a chance to win the Instax Mini 8 camera in white\
+  \ colour and a 20 shot pack and get ready to capture your favourite moments now!</p>\r\
+  \n<p>Instant photos, instant FUN!</p>"
+entry-title: "Win the Instax Mini 8 camera and a 20 shot pack"
 entry-content: "Enter the draw to win the Instax Mini 8 camera by completing the form\
   \ below before 23:59 on 21th of September 2018."
 has-winner: false
