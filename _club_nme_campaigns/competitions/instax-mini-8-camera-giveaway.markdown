@@ -35,9 +35,9 @@ section2-content: "<p>Simply twist the dial to the appropriate exposure level, p
   \ back, enter the form below for a chance to win the Instax Mini 8 camera in white\
   \ colour and a 20 shot pack and get ready to capture your favourite moments now!</p>\r\
   \n<p>Instant photos, instant FUN!</p>"
-entry-title: "Win the Instax Mini 8 camera and a 20 shot pack"
-entry-content: "Enter the draw to win the Instax Mini 8 camera by completing the form\
-  \ below before 23:59 on 21th of September 2018."
+entry-title: "Win the Instax Mini 8 camera and a 20 shot pack!"
+entry-content: "Enter the draw to win the Instax Mini 8 camera and a 20 shot pack\
+  \ by completing the form below before 23:59 on 21th of September 2018."
 has-winner: false
 prize-description: "An Instax Mini 8 camera and a 20 shot pack."
 special-conditions: "Multiple entries are allowed up to one every day."
