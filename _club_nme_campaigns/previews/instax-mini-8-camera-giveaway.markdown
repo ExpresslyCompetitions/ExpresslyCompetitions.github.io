@@ -2,14 +2,14 @@
 campaign-uuid: "c-60b4b583-8d7f-4679-9c83-a85fb77cbba1"
 type: "Preview"
 category: "Gifts"
-date: "2018-08-21T09:31:33.649Z"
+date: "2018-08-21T09:31:34.000Z"
 end-date: "2018-09-21T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win the Instax Mini 8 camera!"
 competition-description: "<p>Calling all photographers out there! You can’t miss this\
-  \ one! We are giving away an amazing Instax mini 8 camera that supports the use\
+  \ one! We are giving away an amazing Instax Mini 8 camera that supports the use\
   \ of instax mini film to produce instant credit card-sized prints to one of our\
   \ lucky NME AAA readers! </p>\r\n<p>Who doesn’t want this cute and compact body\
   \ design camera? Click below and it could be yours!</p>"
@@ -25,9 +25,9 @@ bg-image-second: "https://assets.expresslyapp.com/asset-ee9811b1-7ca7-4409-bd92-
 section1-content: "<p>A built-in flash that provides additional illumination for exposures\
   \ when working in low-light conditions and automatic exposure control helps to ensure\
   \ consistently accurate exposures in a variety of lighting conditions…</p>\r\n<p>…\
-  \ An optical viewfinder with integrated target spot is available for image composition\
+  An optical viewfinder with integrated target spot is available for image composition\
   \ and an exposure counter is incorporated into the design to visually display the\
-  \ number of exposures remaining in the film pack.</p>\r\n<p>This instax mini 8 camera\
+  \ number of exposures remaining in the film pack.</p>\r\n<p>This Instax Mini 8 camera\
   \ has it all!</p>"
 section2-content: "<p>Simply twist the dial to the appropriate exposure level, peer\
   \ through the viewfinder and take your shot!</p>\r\n<p>This amazing camera is a\
