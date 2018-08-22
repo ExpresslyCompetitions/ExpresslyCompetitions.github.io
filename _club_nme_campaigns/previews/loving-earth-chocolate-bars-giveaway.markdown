@@ -27,13 +27,13 @@ bg-image-second: "https://assets.expresslyapp.com/asset-92a20f59-9d3a-40c7-88ab-
 bg-image-third: "https://assets.expresslyapp.com/asset-de715bf4-b35f-438b-8dad-e1503c8874b0.jpg"
 section1-content: "<p>Loving Earth is an ethically driven chocolate company that believes\
   \ that Food is Sacred. They make healthy indulgences, in a way that’s good for the\
-  \ planet that is our 100% plant-based chocolate, from cacao grown by the Ashaninka\
-  \ community at the Amazon River in BBPeru, where the cacao bean originates.</p>\r\
-  \n<p>They are “made from plants, wrapped in plants and sourced from the source”\
-  \ – all of their chocolate bars are wrapped in a clear film that is 100% plant-based,\
+  \ planet that is their 100% plant-based chocolate, from cacao grown by the Ashaninka\
+  \ community at the Amazon River in Peru, where the cacao bean originates.</p>\r\n\
+  <p>They are “made from plants, wrapped in plants and sourced from the source” –\
+  \ all of their chocolate bars are wrapped in a clear film that is 100% plant-based,\
   \ 100% compostable and made from renewable sources!</p>"
 section2-content: "<p>Organic, no numbers or preservatives, only real whole food!</p>\
-  \ \r\n<p>At Loving Earth they’re blessed with the best team in the world who ensure\
+  \ \r\n<p>At Loving Earth they're blessed with the best team in the world who ensure\
   \ that their organic fairly traded ingredients become the high-quality products\
   \ which end up in your hands</p>\r\n<p>With over a dozen countries represented,\
   \ they are truly an international ensemble!</p>"
