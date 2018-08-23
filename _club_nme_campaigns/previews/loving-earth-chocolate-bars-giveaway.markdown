@@ -29,8 +29,8 @@ section1-content: "<p>Loving Earth is an ethically driven chocolate company that
   \ that Food is Sacred. They make healthy indulgences, in a way that’s good for the\
   \ planet that is their 100% plant-based chocolate, from cacao grown by the Ashaninka\
   \ community at the Amazon River in Peru, where the cacao bean originates.</p>\r\n\
-  <p>They are “made from plants, wrapped in plants and sourced from the source” –\
-  \ all of their chocolate bars are wrapped in a clear film that is 100% plant-based,\
+  <p>They are made from plants, wrapped in plants and sourced from the source – all\
+  \ of their chocolate bars are wrapped in a clear film that is 100% plant-based,\
   \ 100% compostable and made from renewable sources!</p>"
 section2-content: "<p>Organic, no numbers or preservatives, only real whole food!</p>\
   \ \r\n<p>At Loving Earth they're blessed with the best team in the world who ensure\
