@@ -35,11 +35,11 @@ section1-content: "<p>Loving Earth is an ethically driven chocolate company that
 section2-content: "<p>Organic, no numbers or preservatives, only real whole food!</p>\
   \ \r\n<p>At Loving Earth they're blessed with the best team in the world who ensure\
   \ that their organic fairly traded ingredients become the high-quality products\
-  \ which end up in your hands</p>\r\n<p>With over a dozen countries represented,\
+  \ which end up in your hands.</p>\r\n<p>With over a dozen countries represented,\
   \ they are truly an international ensemble!</p>"
 section3-content: "<p>If you can't wait to try their amazing range of chocolates,\
-  \ now you can! Enter the form below for a chance to win a bundle of Loving Earth\
-  \ Chocolate Bars including: Crunchy Mint Dark Chocolate, Dark Chocolate, Hazelnut\
+  \ now you can!</p>\r\n<p> Enter the form below for a chance to win a bundle of Loving\
+  \ Earth Chocolate Bars including: Crunchy Mint Dark Chocolate, Dark Chocolate, Hazelnut\
   \ Mylk Chocolate, Lemon Cheesecake Caramel Chocolate, Raspberry Cashew Mylk Chocolate,\
   \ Salted Caramel and 85% Dark Chocolate!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a bundle of Loving Earth Chocolate Bars!"
