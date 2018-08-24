@@ -23,13 +23,13 @@ logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f3c59ac8-de67-4bce-bbe8-36d29ffa3eae.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-dd56e31b-c3b6-45ab-b62f-4b8ff16124b3.jpg"
 section1-content: "<p>This set of eight documentaries follows the development of the\
-  \ most popular band ever from the births of the members through to the acrimonious\
-  \ split in 1970. Also featured are interviews with all the influential people in\
-  \ the band's history and rare archive footage.</p>\r\n<p> This box set gives a solid\
-  \ sense of the historical context and the way these four musicians changed the world\
-  \ around them in the 1960s.</p>\r\n<p>If you want to have this amazing set in your\
-  \ hands, think no more and enter the form below for a chance to enjoy and get to\
-  \ know better the life of this magical band: The Beatles.</p>"
+  \ most popular band ever from the births of the members to the acrimonious split\
+  \ in 1970. Also featured are interviews with all the influential people in the band's\
+  \ history and rare archive footage.</p>\r\n<p> This box set gives a solid sense\
+  \ of the historical context and the way these four musicians changed the world around\
+  \ them in the 1960s.</p>\r\n<p>If you want to have this amazing set in your hands,\
+  \ think no more and enter the form below for a chance to enjoy and get to know better\
+  \ the life of this magical band: The Beatles.</p>"
 entry-title: "Win The Beatles Anthology on DVD!"
 entry-content: "Enter the draw to win The Beatles Anthology on DVD by completing the\
   \ form below before 23:59 on 24th of September 2018."
