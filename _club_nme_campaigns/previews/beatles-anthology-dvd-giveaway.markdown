@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-efda2d6d-8808-4ff4-9bad-f38f4
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-7e4b2002-1fcf-4950-8f24-382d654c58f3.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-12e41e40-ac97-4025-a151-5cf636f2778d.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-f3c59ac8-de67-4bce-bbe8-36d29ffa3eae.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-dd56e31b-c3b6-45ab-b62f-4b8ff16124b3.jpg"
 section1-content: "<p>This set of eight documentaries follows the development of the\
   \ most popular band ever from the births of the members through to the acrimonious\
