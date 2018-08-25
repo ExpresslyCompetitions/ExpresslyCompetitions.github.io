@@ -43,9 +43,9 @@ section2-content: "James Bay, Hozier and Lianne La Havas are just a few of the a
   \ some drinks and find a seat (floor seating encouraged!). You won't find out who's\
   \ playing until you get there, so come with an open mind and enjoy the show!"
 section3-content: "<p>Attend one of their amazing secret concerts, and it could be\
-  \ the best plan of your weekend...</p>\r\n<p>Thanks to NME AAA and Sofar Sounds\
-  \ we are offering a pair of tickets to a Sofar Sounds concert of your choice anywhere\
-  \ in the UK!</p> \r\n<p>At Sofar Sounds, everyone's a winner. If you don’t get selected\
+  \ the best plan of your weekend!</p>\r\n<p>Thanks to NME AAA and Sofar Sounds we\
+  \ are offering a pair of tickets to a Sofar Sounds concert of your choice anywhere\
+  \ in the UK.</p> \r\n<p>At Sofar Sounds, everyone's a winner. If you don’t get selected\
   \ to win the tickets, you’ll still receive 20% off tickets! Enter the form below\
   \ for a chance to win.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win a pair of tickets to a Sofar Sounds secret performance in the UK!"
