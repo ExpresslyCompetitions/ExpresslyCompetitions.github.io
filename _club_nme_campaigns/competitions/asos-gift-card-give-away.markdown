@@ -5,7 +5,7 @@ category: "Fashion"
 date: "2018-07-25T09:00:00.000Z"
 end-date: "2018-08-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £100 Asos Gift card!"
 competition-description: "<p>Holidays, dinners, meetings with friends… YES! summer\
