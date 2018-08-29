@@ -31,8 +31,8 @@ section1-content: "<p>Not just Logos, of course, but products, and packaging, an
   \ Enter the form below for a chance to win this amazing board game and get ready\
   \ to have endless laughs with your loved ones!</p>"
 entry-title: "Win The Logo Board Game!"
-entry-content: "Enter the draw to win the The Logo Board Game by completing the form\
-  \ below before 23:59 on 30th of September 2018."
+entry-content: "Enter the draw to win The Logo Board Game by completing the form below\
+  \ before 23:59 on 30th of September 2018."
 has-winner: false
 prize-description: "Winner wins The Logo Board Game."
 special-conditions: "Multiple entries are allowed up to one every day."
