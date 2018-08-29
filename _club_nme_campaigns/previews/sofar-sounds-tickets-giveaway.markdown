@@ -7,16 +7,16 @@ end-date: "2018-09-19T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win one of 5 pairs of tickets to a Sofar Sounds secret performance in the\
+title: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance in the\
   \ UK!"
 competition-description: "<p>Are you the kind of person that loves going to concerts\
   \ and discovering new artists & places? If the answer is YES, we’re sure you won’\
-  t want to miss this: we are giving away 5 pairs of tickets to a Sofar Sounds concert\
+  t want to miss this: we are giving away 20 pairs of tickets to a Sofar Sounds concert\
   \ of your choice anywhere in the UK!</p>\r\n<p>Passionate, dedicated, respectful…\
   \ thousands of artists have performed to Sofar guests! If you want to be part of\
   \ it and be one of them, click on the link below for a chance to win!</p>"
-hero-header: "Win one of 5 pairs of tickets to a Sofar Sounds secret performance in\
-  \ the UK!"
+hero-header: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
+  \ in the UK!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9856e9b0-ae0b-46d8-a48b-853a26d03d7e.jpg"
 logo-left-href: "https://sofar-dev-pr-3802.herokuapp.com/lp/expressly-test"
@@ -46,17 +46,17 @@ section2-content: "James Bay, Hozier and Lianne La Havas are just a few of the a
   \ playing until you get there, so come with an open mind and enjoy the show!"
 section3-content: "<p>Attend one of their amazing secret concerts, and it could be\
   \ the best plan of your weekend!</p>\r\n<p>Thanks to NME AAA and Sofar Sounds we\
-  \ are offering 5 pairs of tickets to a Sofar Sounds concert of your choice anywhere\
+  \ are offering 20 pairs of tickets to a Sofar Sounds concert of your choice anywhere\
   \ in the UK.</p> \r\n<p>At Sofar Sounds, everyone's a winner. If you don’t get selected\
   \ to win the tickets, you’ll still receive 20% off tickets! Enter the form below\
   \ for a chance to win.</p>\r\n<p>Good luck!</p>"
-entry-title: "Win one of 5 pairs of tickets to a Sofar Sounds secret performance in\
-  \ the UK!"
-entry-content: "Enter the draw to win one of 5 pairs of tickets to a Sofar Sounds\
+entry-title: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
+  \ in the UK!"
+entry-content: "Enter the draw to win one of 20 pairs of tickets to a Sofar Sounds\
   \ secret concert of your choice by completing the form below before 23:59 on 19th\
   \ of September 2018."
 has-winner: false
-prize-description: "One of 5 pairs of tickets to a Sofar Sounds secret performance\
+prize-description: "One of 20 pairs of tickets to a Sofar Sounds secret performance\
   \ & the exclusive offer for NME AAA: GE (Guaranteed Entry) + Discount (20%)."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "The winners will be contacted the day after the competition closes\
