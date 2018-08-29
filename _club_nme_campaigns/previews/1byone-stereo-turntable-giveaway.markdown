@@ -26,7 +26,7 @@ section1-content: "<p>1byone Belt-Drive Briefcase Turntable is a perfect combina
   \ room, both on the self and on the go. 3 speeds, soft damping control, integrated\
   \ speakers, RCA/AUX-In, durable PU leather case, and integrated carrying handle…\
   \ Briefcase Turntable is ready for wherever life takes you!</p>"
-section2-content: "<p>This Stereo Turntable is perfect for those with eclectic styles\
+section2-content: "<p>This Stereo Turntable is perfect for those with eclectric styles\
   \ who want a turntable that looks great even when the music isn’t playing! And if\
   \ you are always on the move and need your turntable with you, the hard, durable\
   \ case and convenient handle will take your 1byone Briefcase Turntable to your next\
