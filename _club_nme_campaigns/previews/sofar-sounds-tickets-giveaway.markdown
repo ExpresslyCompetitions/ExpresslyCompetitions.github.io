@@ -2,8 +2,8 @@
 campaign-uuid: "c-c519647c-244f-42fa-b1d0-3ddffe24839d"
 type: "Preview"
 category: "Tickets"
-date: "2018-08-28T09:00:00.000Z"
-end-date: "2018-09-11T23:59:00.000Z"
+date: "2018-09-05T09:00:00.000Z"
+end-date: "2018-09-19T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -53,7 +53,7 @@ section3-content: "<p>Attend one of their amazing secret concerts, and it could 
 entry-title: "Win one of 5 pairs of tickets to a Sofar Sounds secret performance in\
   \ the UK!"
 entry-content: "Enter the draw to win one of 5 pairs of tickets to a Sofar Sounds\
-  \ secret concert of your choice by completing the form below before 23:59 on 11th\
+  \ secret concert of your choice by completing the form below before 23:59 on 19th\
   \ of September 2018."
 has-winner: false
 prize-description: "One of 5 pairs of tickets to a Sofar Sounds secret performance\
