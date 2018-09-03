@@ -46,7 +46,10 @@ entry-content: "Enter the draw to win one of 5 jackets of Pretty Green X Beatles
   \ Album collection by completing the form below before 23:59 on 18th of September\
   \ 2018."
 has-winner: false
-prize-description: "One of 5 jackets of Pretty Green X Beatles White Album collection.\
-  \ Sizes availables: 1S, 2M, 1L & 1XL."
+prize-description: "One jacket of Pretty Green X Beatles White Album collection. Each\
+  \ winner will be randomly assigned 1 of the jackets from the available sizes: 1S,\
+  \ 2M, 1L & 1XL."
+prize-restrictions: "Due to stock availability, no additional sizes are available\
+  \ and winners cannot be ask for a different size than the one assigned."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
