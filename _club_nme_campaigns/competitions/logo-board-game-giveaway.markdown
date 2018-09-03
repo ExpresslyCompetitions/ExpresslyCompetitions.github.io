@@ -34,6 +34,6 @@ entry-title: "Win The Logo Board Game!"
 entry-content: "Enter the draw to win The Logo Board Game by completing the form below\
   \ before 23:59 on 30th of September 2018."
 has-winner: false
-prize-description: "Winner wins The Logo Board Game."
+prize-description: "The Logo Board Game."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
