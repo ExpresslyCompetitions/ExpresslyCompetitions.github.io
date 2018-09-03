@@ -39,7 +39,7 @@ section2-content: "<p>By 1968, psychedelia was in full swing and The Beatles wer
 section3-content: "<p>Thanks to Pretty Green, NME AAA has managed to get their hands\
   \ on 5 amazing White Album collection jackets (1S, 2M, 1L & 1XL) to 5 lucky NME\
   \ AAA members to take home!</p><p>Enter the form below for a chance to win one of\
-  \ 5 jackets of Pretty Green X Beatles White Album collection and ge ready to stand\
+  \ 5 jackets of Pretty Green X Beatles White Album collection and get ready to stand\
   \ out anywhere!</p>"
 entry-title: "Win one of 5 jackets of Pretty Green X Beatles White Album collection!"
 entry-content: "Enter the draw to win one of 5 jackets of Pretty Green X Beatles White\
