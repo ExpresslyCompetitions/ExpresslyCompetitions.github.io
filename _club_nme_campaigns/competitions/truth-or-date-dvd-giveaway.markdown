@@ -30,6 +30,6 @@ entry-title: "Win Truth or Dare on DVD!"
 entry-content: "Enter the draw to win Truth or Dare on DVD by completing the form\
   \ below before 23:59 on 1st of October 2018."
 has-winner: false
-prize-description: "Winner wins Truth or Dare on DVD"
+prize-description: "Truth or Dare on DVD"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
