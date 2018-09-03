@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-07-31T09:00:00.000Z"
 end-date: "2018-08-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the 2 Depeche Mode 12” singles box-sets signed by them PLUS 2 T-shirts"
 competition-description: "NME AAA has an exclusive prize to offer: 2 Depeche Mode\
