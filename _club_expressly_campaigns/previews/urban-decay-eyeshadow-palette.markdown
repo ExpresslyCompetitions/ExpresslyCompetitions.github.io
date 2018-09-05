@@ -2,10 +2,10 @@
 campaign-uuid: "c-f05dcc0a-e802-404b-907a-e42a7ee76662"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Urban Decay Distorsion Eyeshadow Palette"
 competition-description: "<p>At Urban Decay, they have something for everybody. With\
@@ -27,7 +27,7 @@ section1-content: "<p>Urban Decay’s high-impact Distortion Eyeshadow Palette f
   \ great for both use at home and on-the-go.</p>\r\n<p>Feel pretty with Urban Decay!</p>"
 entry-title: "Win Urban Decay Distorsion Eyeshadow Palette"
 entry-content: "Enter the draw to win Urban Decay Distorsion Eyeshadow Palette by\
-  \ completing the form below before 23:59 on 20th of September 2018."
+  \ completing the form below before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Urban Decay Distorsion Eyeshadow Palette"
 special-conditions: "Multiple entries are allowed up to one every day."
