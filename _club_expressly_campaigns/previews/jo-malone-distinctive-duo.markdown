@@ -2,10 +2,10 @@
 campaign-uuid: "c-27c6c319-55d9-499a-958c-76c50d4579bd"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Jo Malone Distinctive Duo"
 competition-description: "<p>Fill your life with scent, fill your life with the best\
@@ -36,7 +36,7 @@ section2-content: "<p>A gift from Jo Malone London is always a welcome luxury. W
   \ Combining with Jo Malone.</p>"
 entry-title: "Win Jo Malone Distinctive Duo"
 entry-content: "Enter the draw to win the magical Distinctive Duo from Jo Malone by\
-  \ completing the form below before 23:59 on 20th of September 2018."
+  \ completing the form below before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Jo Malone Distinctive Duo"
 special-conditions: "Multiple entries are allowed up to one every day."
