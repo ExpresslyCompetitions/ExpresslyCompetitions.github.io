@@ -2,10 +2,10 @@
 campaign-uuid: "c-4d4e0b4f-e5e5-4910-9bc5-552e98f10a1a"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Deliciously Ella With Friends book"
 competition-description: "<p>Ella wants to prepare delicious food for you, your friends\
@@ -29,7 +29,7 @@ section1-content: "<p>No more wondering whether certain dishes go together, Ella
   \ a delicious meal thanks to Ella.</p>"
 entry-title: "Win Deliciously Ella With Friends book"
 entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
-  \ the form below before 23:59 on 20th of September 2018."
+  \ the form below before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Deliciously Ella With Friends book"
 special-conditions: "Multiple entries are allowed up to one every day."
