@@ -2,10 +2,10 @@
 campaign-uuid: "c-94327234-a112-4fc1-9e38-f217bb4f45dd"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Esteé Lauder’s Essential Make-Up Gift Set"
 competition-description: "<p>At the heart of The Estée Lauder they believe everyone\
@@ -29,7 +29,7 @@ section1-content: "<p>There are plenty of perks to getting older but the dreaded
   \ with Esteé Lauder!</p>"
 entry-title: "Win Esteé Lauder’s Essential Make-Up Gift Set"
 entry-content: "Enter the draw to win Esteé Lauder’s Essential Make-Up Gift Set\r\n\
-  by completing the form below before 23:59 on 20th of September 2018."
+  by completing the form below before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Esteé Lauder’s Essential Make-Up Gift Set"
 special-conditions: "Multiple entries are allowed up to one every day."
