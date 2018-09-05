@@ -2,10 +2,10 @@
 campaign-uuid: "c-0355adbf-2e2a-40dc-a6a3-168703973c79"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Longchamp Le Pliage coin purse"
 competition-description: "<p>Inspired by origami, Longchamp created LE PLIAGE, a light\
@@ -27,8 +27,8 @@ section1-content: "<p>Founded in Paris in 1948 by Jean Cassegrain, Longchamp's e
   \ yours.</p>"
 entry-title: "Win Longchamp Le Pliage coin purse"
 entry-content: "Enter the draw to win Longchamp Le Pliage coin purse\r\nby completing\
-  \ the form below before 23:59 on 20th of September 2018."
+  \ the form below before 23:59 on 7th of November 2018."
 has-winner: false
-prize-description: "Longchamp Le Pliage coin purse"
+prize-description: "Longchamp Le Pliage coin purse in Khaki colour"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
