@@ -2,10 +2,10 @@
 campaign-uuid: "c-a949410d-a419-4ee8-90a0-21821577b5f2"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the Nespresso Inissia Coffee Machine"
 competition-description: "<p>Every Nespresso cup has the potential to deliver a moment\
@@ -26,7 +26,7 @@ section1-content: "<p>The Nespresso capsule system delivers exceptional taste an
   \ Coffee Machine.</p>"
 entry-title: "Win the Nespresso Inissia Coffee Machine"
 entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nby\
-  \ completing the form below before 23:59 on 20th of September 2018."
+  \ completing the form below before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine"
 special-conditions: "Multiple entries are allowed up to one every day."
