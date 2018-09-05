@@ -1,0 +1,40 @@
+---
+layout: club-layout
+title: Processing your entry
+---
+{% include club_base_url.html %}
+
+<main role="main" class="container">
+    <div class="row mb-4">
+        <div class="col-12 text-center">
+            <h2 class="my-4">{{page.title}}</h2>
+            <p class="mb-5">
+                This is required to confirm your entry.
+            </p>
+            <p class="mb-2">
+                <img src="https://assets01.buyexpressly.com/club/img/trophy-gray.png" alt="" class="mx-auto mb-4 d-block" />
+
+			<script type="text/javascript">   
+				function Redirect() 
+				{  
+					window.location="{{club_base}}/thank-you-page";
+				} 
+				document.write("It will only take 5 seconds"); 
+				setTimeout('Redirect()', 5000);   
+			</script>
+            </p>
+            <p>
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Processing -->
+                <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-4949036163981273"
+                data-ad-slot="7896670429"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            </p>
+            {% if page.ad_include %}{% include ads/expressly/list-auto-ad.html %}{% endif %}
+        </div>
+    </div>
+</main>
