@@ -15,13 +15,13 @@ competition-description: "<p>In need to renew your bags for summer? Michael Kors
   \ Kors you can.</p>"
 hero-header: "Win a Michael Kors bag"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-bf85459f-e5a1-4943-a022-c5d68b70ebb4.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-6ee6abb6-df19-4c5f-bd6c-772bd20eeae5.jpg"
 logo-left-href: "http://michaelkors.com"
 logo-left-image: "https://assets.expresslyapp.com/253a27e1-f041-459f-b4d0-81bf16afa6c3-thumb.png"
 logo-left-title: "Michael Kors"
-bg-image-hero: "https://assets.expresslyapp.com/asset-4f8d936c-501d-438e-9a3a-6a0368bf71a5.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-3a0bd18e-f295-459b-93d2-0e41df488099.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-4290e9a1-790f-4479-b9a1-ed5517e78028.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ef3d2bfd-e6d7-4f17-a111-69a206c3d5cc.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-e3bca496-5a6e-42b1-ada7-5d48b746e7f0.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-97380cdc-c1d1-40fe-aff1-b39b7b7126eb.jpg"
 section1-content: "<p>Behind this burgeoning empire stands a singular designer with\
   \ an innate sense of glamour and an unfailing eye for timeless chic.</p>\r\n<p>Wholly\
   \ dedicated to a vision of style that is as sophisticated as it is indulgent, as\
