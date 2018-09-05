@@ -2,10 +2,10 @@
 campaign-uuid: "c-ccc3815a-0fca-458a-ba47-ee7b05acfbff"
 type: "Preview"
 category: "Gifts"
-date: "2018-07-20T09:00:00.000Z"
-end-date: "2018-09-20T23:59:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
+end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a Michael Kors bag"
 competition-description: "<p>In need to renew your bags for summer? Michael Kors is\
@@ -32,7 +32,7 @@ section2-content: "<p>Treat yourself with something nice, treat yourself with th
   \ out and with Michael Kors you can.</p>"
 entry-title: "Win a Michael Kors bag"
 entry-content: "Enter the draw to win Michael Kors bag by completing the form below\
-  \ before 23:59 on 20th of September 2018."
+  \ before 23:59 on 7th of November 2018."
 has-winner: false
 prize-description: "Michael Kors bag"
 special-conditions: "Multiple entries are allowed up to one every day."
