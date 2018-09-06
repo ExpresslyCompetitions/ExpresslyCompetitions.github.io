@@ -104,6 +104,10 @@ clubs:
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
       domain-migrations-enabled: false
+      ad-script: "ads/nme/ad-script.html"
+      ad-top: "ads/nme/top-ad-slot.html"
+      ad-content: "ads/nme/content-ad-slot.html"
+      ad-body: "ads/nme/body-ad-slot.html"
       ga-code:        "UA-110278937-1"
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
