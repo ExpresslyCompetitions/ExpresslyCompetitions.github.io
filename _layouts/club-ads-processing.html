@@ -34,7 +34,10 @@ title: Processing your entry
                 data-full-width-responsive="true"></ins>
                 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
             </p>
-            {% if page.ad_include %}{% include ads/expressly/list-auto-ad.html %}{% endif %}
+            {% if page.ad_include %}
+            {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
+            {% include {{ ad_include_path}} %}
+            {% endif %}
         </div>
     </div>
 </main>

@@ -59,8 +59,9 @@ layout: club-layout
             {% endif %}
         {% endfor %}
         {% if page.ad_include %}
-            {% include ads/expressly/list-top-ad.html %}
-            {% include ads/expressly/list-auto-ad.html %}
+            {% include {{page.ad_include}} %}
+            {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
+            {% include {{ ad_include_path}} %}
         {% endif %}
     </div>
 </main>
