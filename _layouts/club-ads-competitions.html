@@ -4,7 +4,12 @@ layout: club-ads-layout
 {% if page.type %}{% assign campaigns = site[page.campaigns] | where:"type",page.type %}
 {% else %}{% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
 {% endif %}
-<main role="main" class="container">
+{% if page.ad-script and page.ad-body %}
+{% assign main_bg = 'style="background-color: #ffffff !important;"' %}
+{% else %}
+{% assign main_bg = '' %}
+{% endif %}
+<main role="main" class="container" {{main_bg}}>
     <div class="row header">
         {% if page.title %}
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6">
