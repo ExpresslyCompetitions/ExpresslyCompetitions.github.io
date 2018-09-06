@@ -7,7 +7,7 @@ end-date: "2018-10-05T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Ana Calvi Hunter vinyl edition!"
+title: "Win Anna Calvi Hunter vinyl edition!"
 competition-description: "<p>The third long player from from the BRIT award and double\
   \ Mercury Music Prize-nominated Anna Calvi is finally here and we have a copy of\
   \ Hunter, her brand new album on vinyl edition to one of our lucky members!</p>\r\
@@ -29,7 +29,7 @@ section1-content: "<p>Produced by Nick Launay at Konk Studios in London with som
   \ than ever!</p>\r\n<p>If you can't wait to listen her brand new hits! Enter the\
   \ form below for a chance to win this amazing album, Hunter on vinyl edition!</p>"
 entry-title: "Win Ana Calvi Hunter vinyl edition!"
-entry-content: "Enter the draw to win Ana Calvi Hunter vinyl edition by completing\
+entry-content: "Enter the draw to win Anna Calvi Hunter vinyl edition by completing\
   \ the form below before 23:59 on 5th of October 2018."
 has-winner: false
 prize-description: "Ana Calvi Hunter vinyl edition"
