@@ -79,6 +79,7 @@ clubs:
       parent-website-url: "https://buyexpressly.com/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
       ad_include:     "ads/expressly/list-top-ad.html"
+      consent-script: "consent/expressly/consent-script.html"
       domain-migrations-enabled: false
       ga-code:        "UA-110278937-4"
       ga-domain:      "club.buyexpressly.com"
@@ -108,7 +109,6 @@ clubs:
       ad-top: "ads/nme/top-ad-slot.html"
       ad-content: "ads/nme/content-ad-slot.html"
       ad-body: "ads/nme/body-ad-slot.html"
-      consent-script: "consent/nme/consent-script.html"
       ga-code:        "UA-110278937-1"
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
