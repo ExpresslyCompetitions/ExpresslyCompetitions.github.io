@@ -107,8 +107,8 @@ clubs:
       domain-migrations-enabled: false
       ad-script: "ads/nme/ad-script.html"
       ad-top: "ads/nme/top-ad-slot.html"
-      ad-content: "ads/nme/content-ad-slot.html"
-      ad-body: "ads/nme/body-ad-slot.html"
+#      ad-content: "ads/nme/content-ad-slot.html"
+#      ad-body: "ads/nme/body-ad-slot.html"
       ga-code:        "UA-110278937-1"
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
