@@ -2,10 +2,10 @@
 campaign-uuid: "c-0261ee9d-5df1-4eea-a610-2e01b8721927"
 type: "Competition"
 category: "Gifts"
-date: "2018-09-05T09:00:00.000Z"
+date: "2018-09-07T09:00:00.000Z"
 end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Ted Baker Polly fragrance"
 competition-description: "<p>At Ted Baker they focus on quality becoming the leader\
