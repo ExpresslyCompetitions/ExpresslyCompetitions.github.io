@@ -20,7 +20,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-d9498674-0ed8-430b-b872-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-10b92ed7-2c87-4fb7-b06c-5b0866eb3ac5.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-44848d77-a0ea-4a6d-969a-763b51957305.jpg"
-section1-content: "<p>This stunning luxury chocolate bouquet contains a wide Variety\
+section1-content: "<p>This stunning luxury chocolate bouquet contains a wide variety\
   \ of Kinder chocolate! A great gift for any occasion and It will be the perfect\
   \ gift for someone with a sweet tooth that loves Kinder Chocolate.</p>\r\n<p>Kinder\
   \ Bueno White Chocolate, Milk chocolate, Surprise eggs, Happy Hippo cocoa creme…\
