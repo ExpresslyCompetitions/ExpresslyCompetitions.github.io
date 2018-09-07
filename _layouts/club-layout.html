@@ -19,7 +19,11 @@
 
     <link rel="stylesheet" href="https://assets01.buyexpressly.com/lib/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://assets01.buyexpressly.com/lib/font-awesome/4.7.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+
+    {% if page.consent-script == nil %}
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    {% endif %}
+
     {% if page.css %}
     <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=14"/>
     {% else %}
@@ -230,25 +234,29 @@
     }
 </script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-    window.addEventListener("load", function(){
-        window.cookieconsent.initialise({
-            "palette": {
-                "popup": {
-                    "background": "#000"
+{% if page.consent-script %}
+    {% include {{page.consent-script}} %}
+{% else %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#000"
+                    },
+                    "button": {
+                        "background": "#f1d600"
+                    }
                 },
-                "button": {
-                    "background": "#f1d600"
+                "theme": "classic",
+                "content": {
+                    "link": "More Info",
+                    "href": "{{club_base}}/privacy"
                 }
-            },
-            "theme": "classic",
-            "content": {
-                "link": "More Info",
-                "href": "{{club_base}}/privacy"
-            }
-        })});
-</script>
+            })});
+    </script>
+{% endif %}
 
 </body>
 </html>
