@@ -5,6 +5,24 @@ title: Thank you for entering
 {% include club_base_url.html %}
 
 <main role="main" class="container">
+<!--TI MEDIA DFP SCRIPT-->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/18711560/nme/aaa', [[728, 90], [970, 250]], 'billboardSlot').addService(googletag.pubads());
+        googletag.defineSlot('/18711560/nme/aaa', [[300, 1050], [300, 250], [300, 600]], 'MPUSlot').addService(googletag.pubads());
+        googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+
     <div class="row mb-4">
         <div class="col-12 text-center">
             <h2 class="my-4">{{page.title}}</h2>
@@ -19,16 +37,12 @@ title: Thank you for entering
     </div>
 
     <div class="row competition-tile-container">
-			<div class="col-md-4 col-sm-6 mb-4 growable">
-			    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			    <ins class="adsbygoogle"
-				    style="display:block"
-				    data-ad-format="fluid"
-				    data-ad-layout-key="-69+bw+11-10+hz"
-				    data-ad-client="ca-pub-4949036163981273"
-				    data-ad-slot="2765894563"></ins>
-			    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-			</div>
+	<!--MPU SLOT-->
+<div id='MPUSlot' class="col-md-4 col-sm-6 mb-4 growable">
+    <script>
+        googletag.cmd.push(function() { googletag.display('MPUSlot'); });
+    </script>
+</div>
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
         {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
@@ -56,9 +70,5 @@ title: Thank you for entering
         {% endfor %}
 
     </div>
-	{% if page.ad_include %}
-    {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
-    {% include {{ ad_include_path}} %}
-    {% endif %}
 	<script type="text/javascript">setTimeout('window.location.href=window.location.href;', 15000);</script>
 </main>
