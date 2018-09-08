@@ -25,6 +25,8 @@ title: Thank you for entering
     });
 </script>
 
+<!--END OF TI MEDIA DFP SCRIPT-->
+
     <div class="row mb-4">
         <div class="col-12 text-center">
             <h2 class="my-4">{{page.title}}</h2>
@@ -45,6 +47,7 @@ title: Thank you for entering
         googletag.cmd.push(function() { googletag.display('MPUSlot'); });
     </script>
 </div>
+	<!--END OF MPU SLOT-->
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
         {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
@@ -59,6 +62,13 @@ title: Thank you for entering
             </div>
             {% endif %}
         {% endfor %}
+			<!--MPU SLOT-->
+<div id='MPUSlot' class="col-md-4 col-sm-6 mb-4 growable">
+    <script>
+        googletag.cmd.push(function() { googletag.display('MPUSlot'); });
+    </script>
+</div>
+	<!--END OF MPU SLOT-->
 
         {% assign items = all_items | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
