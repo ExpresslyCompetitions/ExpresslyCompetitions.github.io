@@ -17,7 +17,8 @@ title: Thank you for entering
     googletag.cmd.push(function() {
         googletag.defineSlot('/18711560/nme/aaa', [[728, 90], [970, 250]], 'billboardSlot').addService(googletag.pubads());
         <!-- googletag.defineSlot('/18711560/nme/aaa', [[300, 1050], [300, 250], [300, 600]], 'MPUSlot').addService(googletag.pubads()); -->
-		googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot').addService(googletag.pubads());
+		googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot1').addService(googletag.pubads());
+		googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot2').addService(googletag.pubads());
         googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
 		googletag.pubads().setRequestNonPersonalizedAds(1);
@@ -44,7 +45,7 @@ title: Thank you for entering
 	<!--MPU SLOT-->
 <div id='MPUSlot' class="col-md-4 col-sm-6 mb-4 growable">
     <script>
-        googletag.cmd.push(function() { googletag.display('MPUSlot'); });
+        googletag.cmd.push(function() { googletag.display('MPUSlot1'); });
     </script>
 </div>
 	<!--END OF MPU SLOT-->
@@ -65,7 +66,7 @@ title: Thank you for entering
 			<!--MPU SLOT-->
 <div id='MPUSlot' class="col-md-4 col-sm-6 mb-4 growable">
     <script>
-        googletag.cmd.push(function() { googletag.display('MPUSlot'); });
+        googletag.cmd.push(function() { googletag.display('MPUSlot2'); });
     </script>
 </div>
 	<!--END OF MPU SLOT-->
