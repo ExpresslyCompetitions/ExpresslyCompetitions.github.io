@@ -2,7 +2,7 @@
 campaign-uuid: "c-d5156c59-1794-445e-93c0-47e885bc570a"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-10T09:50:23.801Z"
+date: "2018-09-10T09:50:24.000Z"
 end-date: "2018-10-10T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -22,7 +22,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-361586f2-c2ef-4fa4-b2d9-
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-d7371499-8b61-4067-8f77-07d55d8e9dc5.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ae48e138-87a7-4063-8cb1-b6f73913d883.jpg"
-section1-content: "<p>’Let’s Go Sunshine it's the sound of an ambitious, confident\
+section1-content: "<p>'Let’s Go Sunshine' it's the sound of an ambitious, confident\
   \ band stepping out and making a statement with their definitive album! It sees\
   \ the band cement their status as true bastions of British guitar pop and take their\
   \ rightful place at the top table next to the celebrated bands that influenced them\
