@@ -26,7 +26,7 @@ section1-content: "<p>'Let’s Go Sunshine' it's the sound of an ambitious, conf
   \ band stepping out and making a statement with their definitive album! It sees\
   \ the band cement their status as true bastions of British guitar pop and take their\
   \ rightful place at the top table next to the celebrated bands that influenced them\
-  \ in their infancy!</p>\r\n<p>If you can’t wait to listen to their brand new hits,\
+  \ in their infancy!</p>\r\n<p>If you can’t wait to listen their brand new hits,\
   \ enter the form below and it could b yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win The Kooks 'Let’s Go Sunshine' vinyl edition!"
 entry-content: "Enter the draw to The Kooks ‘Let’s Go Sunshine’ vinyl edition\r\n\
