@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-08-20T09:00:00.000Z"
 end-date: "2018-09-03T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!"
 competition-description: "<p>Beast is finally coming home to you! The original movie\
