@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-08-06T09:00:00.000Z"
 end-date: "2018-09-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a Laney Guitar Amp worth £750 PLUS an amazing Rockschool guitar course\
   \ with MusicGurus!"
