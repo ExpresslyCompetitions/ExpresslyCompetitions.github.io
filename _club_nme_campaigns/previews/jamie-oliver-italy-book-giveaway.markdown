@@ -12,7 +12,8 @@ competition-description: "<p>Jamie returns to cooking the food he loves the most
   \ getting right to heart of the Italian kitchen in his ultimate go-to Italian cookbook.\
   \ He shows you that truly authentic Italian cooking is simple, beautiful and achievable.\
   \ We are giving you the chance to win this amazing book and learn all the delicious\
-  \ recipes from the master chef!</p>\r\n<p>Click the link below for a chance to win!</p>"
+  \ recipes from the master chef!</p>\r\n<p>Click the link below for a chance to win!\
+  \ </p>"
 hero-header: "Win Jamie cooks Italy book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7bfdba07-6801-4049-999b-321a9f0111d5.jpg"
