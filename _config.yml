@@ -80,7 +80,7 @@ clubs:
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
       ad_include:     "ads/expressly/list-top-ad.html"
       consent-script: "consent/expressly/consent-script.html"
-      domain-migrations-enabled: false
+      domain-migrations-enabled: true
       ga-code:        "UA-110278937-4"
       ga-domain:      "club.expressly.io"
       optin2p-create-hide: true
