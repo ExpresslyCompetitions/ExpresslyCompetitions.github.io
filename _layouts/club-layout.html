@@ -35,6 +35,8 @@
     <script>
         if (document.location.href.indexOf('https://nme.buyexpressly.com') === 0) {
             document.location.href = document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}');
+        } else if (document.location.href.indexOf('https://club.buyexpressly.com') === 0) {
+            document.location.href = document.location.href.replace('https://club.buyexpressly.com', '{{page.club_url}}');
         } else {
             var profile = null;
             var entriesMap = {};
