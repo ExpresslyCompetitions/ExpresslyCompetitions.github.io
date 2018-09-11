@@ -29,7 +29,7 @@ section1-content: "<p>’This wonderful, best-ever collection of recipes, delive
   \ and easy-to-follow style, the book has chapters on Antipasti, Salads, Soups, Pasta,\
   \ Rice & Dumplings, Meat, Fish, Sides, Bread & Pastry, Dessert and all of the Italian\
   \ basics you'll ever need to know.</p>\r\n<p>Looking forward to improving your cooking\
-  \ skills? Enter the form below and you surprise your loved ones with a nice meal!</p>"
+  \ skills? Enter the form below and surprise your loved ones with a nice meal!</p>"
 entry-title: "Win Jamie cooks Italy book!"
 entry-content: "Enter the draw to Win Jamie cooks Italy book by completing the form\
   \ below before 23:59 on 11th of October 2018."
