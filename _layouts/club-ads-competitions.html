@@ -56,13 +56,17 @@ layout: club-ads-layout
                 {% include club_competition_card.html item=item %}
                 {% assign ad_count = ad_count | plus: 1 %}
                 {% if ad_count < 3 and page.ad-card-list %}
-                    {% include {{page.ad-card-list}} %}
+                    <div class="competition-card">
+                        {% include {{page.ad-card-list}} %}
+                    </div>
                 {% endif %}
             {% endif %}
         {% endfor %}
 
         {% if page.ad-card-list %}
-            {% include {{page.ad-card-list}} %}
+            <div class="competition-card">
+                {% include {{page.ad-card-list}} %}
+            </div>
         {% endif %}
 
         {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
