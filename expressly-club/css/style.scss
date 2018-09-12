@@ -27,3 +27,20 @@ $colour_secondary: #ffffff;
     }
   }
 }
+
+#about-modal {
+  .modal-footer {
+    justify-content: space-between;
+
+    .footer-logo {
+      max-width: 120px;
+      display: inline-block;
+      text-align: left;
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+  }
+}

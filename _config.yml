@@ -71,6 +71,7 @@ clubs:
       club_dir:       "/expressly-club"
       club-copyright: "&copy; 2018 Expressly Limited"
       club-logo-nav:  "expressly-white.png"
+      club-logo-modal:  "expressly-black.png"
       company-name:   "Expressly Ltd."
       company-url:    "https://buyexpressly.com"
       company-terms:  "https://buyexpressly.com/terms-and-conditions"
@@ -83,6 +84,7 @@ clubs:
       domain-migrations-enabled: false
       ga-code:        "UA-110278937-4"
       ga-domain:      "club.buyexpressly.com"
+      welcome-modal: "extensions/expressly/welcome-modal.html"
       optin2p-create-hide: true
       optin3p-create-hide: true
       optin2p-update-hide: true
