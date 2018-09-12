@@ -7,7 +7,7 @@ end-date: "2018-10-12T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's Greatest\
+title: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's Greatest'\
   \ book!"
 competition-description: "<p>With more than a hundred recipes from seven decades of\
   \ rock ‘n’ roll, pop, country, RnB, and disco, Mark Bego, along with Mary Wilson\
@@ -15,8 +15,8 @@ competition-description: "<p>With more than a hundred recipes from seven decades
   \ the ultimate music fan to put on an apron and join them at the table! We are giving\
   \ away this incredible book to one of our NME readers! </p>\r\n<p>Click the link\
   \ below for a chance to win! </p>"
-hero-header: "Win Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
-  \ Greatest book!"
+hero-header: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
+  \ Greatest' book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-85b43d16-bd1d-4e79-bd72-14034f893628.jpg"
 logo-left-href: "aaa.nme.com"
@@ -33,8 +33,8 @@ section1-content: "<p>This wonderful, best-ever collection of recipes features e
   \ one book. Whether it’s brunch, lunch, dinner, or desert you can find all kind\
   \ of recipes here!</p>\r\n<p>Looking forward to improving your cooking skills? Enter\
   \ the form below and surprise your loved ones with a nice meal!</p>"
-entry-title: "Win Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
-  \ Greatest book!"
+entry-title: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
+  \ Greatest' book!"
 entry-content: "Enter the draw to win Eat Like a Rock Star: More Than 100 Recipes\
   \ from Rock ‘n' Roll's Greatest book! by completing the form below before 23:59\
   \ on 12th of October 2018."
