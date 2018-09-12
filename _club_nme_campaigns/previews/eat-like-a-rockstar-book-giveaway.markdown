@@ -22,7 +22,7 @@ banner-img: "https://assets.expresslyapp.com/asset-85b43d16-bd1d-4e79-bd72-14034
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-361586f2-c2ef-4fa4-b2d9-34c301505763.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-e52d03a9-9e67-44d5-9bdb-fec2f8963513.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-8430a603-114b-4fcd-abca-c0d195715dde.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-7de7410d-9c16-4559-8673-aafacc2e5ac3.jpg"
 section1-content: "<p>This wonderful, best-ever collection of recipes features each\
   \ rock star’s biography, their favorite recipe, and other fun facts, Eat Like a\
