@@ -49,12 +49,21 @@ layout: club-ads-layout
     <div id="competition-cards">
         {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 5184000  %}
+        {% assign ad_count = 0 %}
         {% for item in items reversed  %}
             {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
             {% if end_date_seconds > past_epoch_seconds %}
                 {% include club_competition_card.html item=item %}
+                {% assign ad_count = ad_count | plus: 1 %}
+                {% if ad_count < 3 and page.ad-card-list %}
+                    {% include {{page.ad-card-list}} %}
+                {% endif %}
             {% endif %}
         {% endfor %}
+
+        {% if page.ad-card-list %}
+            {% include {{page.ad-card-list}} %}
+        {% endif %}
 
         {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}

@@ -19,16 +19,12 @@ title: Thank you for entering
     </div>
 
     <div class="row competition-tile-container">
-			<div class="col-md-4 col-sm-6 mb-4 growable">
-			    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			    <ins class="adsbygoogle"
-				    style="display:block"
-				    data-ad-format="fluid"
-				    data-ad-layout-key="-69+bw+11-10+hz"
-				    data-ad-client="ca-pub-4949036163981273"
-				    data-ad-slot="2765894563"></ins>
-			    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-			</div>
+        {% if page.ad-thank-you %}
+        <div class="col-md-4 col-sm-6 mb-4 growable">
+            {% include {{page.ad-thank-you}} %}
+        </div>
+        {% endif %}
+
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
         {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
@@ -45,7 +41,13 @@ title: Thank you for entering
         {% endfor %}
 		<div class="col-md-4 col-sm-6 mb-4 growable">
 			<script src="//ap.lijit.com/www/delivery/fpi.js?z=583649&width=300&height=250"></script>
-			</div>
+        </div>
+
+        {% if page.ad-thank-you %}
+        <div class="col-md-4 col-sm-6 mb-4 growable">
+            {% include {{page.ad-thank-you}} %}
+        </div>
+        {% endif %}
 
         {% assign items = all_items | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
