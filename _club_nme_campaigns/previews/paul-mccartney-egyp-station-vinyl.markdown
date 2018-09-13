@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win Paul Mccartney Egypt Station vinyl edition!"
 competition-description: "<p>Opening Station, I Don’t Know, Come On To Me… are his\
   \ brand new hits… YES! get ready: Paul Mccartney is back and this time he’s releasing\
-  \ his first solo LP in five years: Egypt Station!</p>\r\n<p>And that is not all\
+  \ his first solo LP in five years: Egypt Station!</p>\r\n<p>And that's not all:\
   \ we have managed to get our hands on his brand new album Egypt Station vinyl edition\
   \ to one of our lucky NME readers!</p>\r\n<p>Want it? You know what to do!</p>"
 hero-header: "Win Paul Mccartney Egypt Station vinyl edition!"
