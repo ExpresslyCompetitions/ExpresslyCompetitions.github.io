@@ -106,6 +106,9 @@
                 {% assign nav-items = site[page.pages] | where:"nav","true" | sort: "nav-order" %}
                 {% assign nav-active = page.active %}
                 {% if nav-active == null %}{% assign nav-active = layout.active %}{% endif %}
+                {% if page.welcome-modal %}
+                <li class="nav-item"><a href="#" data-toggle="modal" data-target="#about-modal">About</a></li>
+                {% endif %}
                 {% for nav-item in nav-items  %}
                     {% assign nav-path-prefix = nav-item.collection | prepend: "_" %}
                     {% assign nav-item-url = nav-item.relative_path | replace: ".html", "" | replace: nav-path-prefix, club_base %}
@@ -156,6 +159,9 @@
 {% include _register_modal.html %}
 {% include _password_reset_modal.html %}
 {% include _password_reset_request_modal.html %}
+{% if page.welcome-modal %}
+    {% include {{page.welcome-modal}} %}
+{% endif %}
 
 <footer>
     <div class="container">

@@ -19,9 +19,9 @@ title: Thank you for entering
     </div>
 
     <div class="row competition-tile-container">
-        {% if page.ad-thank-you %}
+        {% if page.ad-thank-you-1 %}
         <div class="col-md-4 col-sm-6 mb-4 growable">
-            {% include {{page.ad-thank-you}} %}
+            {% include {{page.ad-thank-you-1}} %}
         </div>
         {% endif %}
 
@@ -39,13 +39,16 @@ title: Thank you for entering
             </div>
             {% endif %}
         {% endfor %}
-		<div class="col-md-4 col-sm-6 mb-4 growable">
-			<script src="//ap.lijit.com/www/delivery/fpi.js?z=583649&width=300&height=250"></script>
-        </div>
 
-        {% if page.ad-thank-you %}
+        {% if page.ad-thank-you-1 %}
         <div class="col-md-4 col-sm-6 mb-4 growable">
-            {% include {{page.ad-thank-you}} %}
+            {% include {{page.ad-thank-you-1}} %}
+        </div>
+        {% endif %}
+
+        {% if page.ad-thank-you-2 %}
+        <div class="col-md-4 col-sm-6 mb-4 growable">
+            {% include {{page.ad-thank-you-2}} %}
         </div>
         {% endif %}
 
