@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-09-14T10:00:00.000Z"
 end-date: "2018-10-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £100 Ticketmaster Gift card!"
 competition-description: "<p>In need of plans for the weekend? NME has just organised\
