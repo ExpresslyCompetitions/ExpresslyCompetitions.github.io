@@ -32,7 +32,7 @@ section2-content: "<p>Take the story with YOU! Think no more and don’t miss th
   \ E-reader and enjoy & discover a new world of reads anywhere!</p>"
 entry-title: "Win Amazon’s Kindle E-Reader!"
 entry-content: "Enter the draw to win Amazon’s Kindle E-Reader\r\nby completing the\
-  \ form below before 23:59 on 17th of September 2018."
+  \ form below before 23:59 on 17th of October 2018."
 has-winner: false
 prize-description: "Amazon’s Kindle E-Reader."
 special-conditions: "Multiple entries are allowed up to one every day."
