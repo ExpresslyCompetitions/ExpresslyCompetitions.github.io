@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-08-15T12:00:00.000Z"
 end-date: "2018-09-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Iceworks 7000 In-Built Cable USB C Power Bank!"
 competition-description: "<p>The portable smartphone charger specialist, Iceworks\
