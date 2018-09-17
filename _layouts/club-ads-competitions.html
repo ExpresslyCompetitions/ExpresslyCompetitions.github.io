@@ -56,15 +56,15 @@ layout: club-ads-layout
                 {% include club_competition_card.html item=item %}
                 {% assign ad_count = ad_count | plus: 1 %}
                 {% if ad_count < 3 and page.ad-card-list %}
-                    <div class="competition-card">
+                    <div class="competition-card promoted advertisement">
                         {% include {{page.ad-card-list}} %}
                     </div>
                 {% endif %}
             {% endif %}
         {% endfor %}
 
-        {% if page.ad-card-list %}
-            <div class="competition-card">
+        {% if page.ad-card-list and ad_count < 2 %}
+            <div class="competition-card advertisement">
                 {% include {{page.ad-card-list}} %}
             </div>
         {% endif %}
