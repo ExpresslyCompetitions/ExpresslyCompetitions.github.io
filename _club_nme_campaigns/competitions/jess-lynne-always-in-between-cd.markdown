@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-91d562b4-0264-42cf-9590-55178
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-07eb481c-51d3-4de9-84d9-d7e583c71ff0.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-001f9c2a-2bbb-46ae-9af5-e66c663cf1aa.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5349e986-9364-421d-accd-9497efb2c371.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-b1861b29-a306-47e2-b957-d80a18271032.jpg"
 section1-content: "<p>‘Always In Between’ finds Jess on a breath-taking journey of\
   \ self-acceptance as she comes to terms with her new-found fame, heartbreak and\
