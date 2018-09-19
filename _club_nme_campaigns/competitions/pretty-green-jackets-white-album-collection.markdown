@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-09-04T09:00:00.000Z"
 end-date: "2018-09-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 5 jackets of Pretty Green X Beatles White Album collection!"
 competition-description: "<p>Calling all Beatles fans! Sure you won’t want to miss\
