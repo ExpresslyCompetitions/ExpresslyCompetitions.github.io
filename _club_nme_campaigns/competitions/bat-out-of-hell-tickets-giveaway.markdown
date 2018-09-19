@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-08-14T09:00:00.000Z"
 end-date: "2018-09-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to Bat Out Of Hell The Musical and an original cast\
   \ album soundtrack CD!"
