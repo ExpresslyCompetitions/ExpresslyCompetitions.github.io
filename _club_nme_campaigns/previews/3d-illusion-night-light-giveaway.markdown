@@ -2,16 +2,16 @@
 campaign-uuid: "c-388cca27-f387-481a-bcbc-1917edd03187"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-19T11:54:31.728Z"
+date: "2018-09-19T11:54:32.000Z"
 end-date: "2018-10-19T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win the 3D Illusion Guitar Night Light!"
 competition-description: "<p>We have the best gift for music lovers... the 3D Illusion\
-  \ Guitar Night Light! The Guitar is illuminated using LEDs that never get hot producing\
-  \ a warm glow!</p>\r\n<p>Want to get this innovative 3D Illusion Guitar Night Light?\
-  \ Click below for a chance to win!</p>"
+  \ Guitar Night Light and we want to give it to you! This Guitar is illuminated using\
+  \ LEDs that never get hot producing a warm glow!</p>\r\n<p>Want to get this innovative\
+  \ 3D Illusion Guitar Night Light? Click below for a chance to win!</p>"
 hero-header: "Win the 3D Illusion Guitar Night Light!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c07eff5-b278-46d8-bfde-c4c454befe1a.jpg"
