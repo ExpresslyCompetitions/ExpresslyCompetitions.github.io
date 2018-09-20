@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-9eb29f25-481c-4dd3-9223-ea561
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-c6a0c294-bd8d-41dc-a4df-7f622a974c22.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-5072ae23-fa2b-4133-8780-8d18d69b1618.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-30c6f8cd-f77a-4e62-b837-07b9742a7820.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0403a0bb-7e26-4f2f-ba2e-58b93e7015a8.jpg"
 section1-content: "<p>Lost & Found  is the rich fruit of Jorja’s past two years of\
   \ work and an artistic statement that’s why she has become one of the UK’s most-loved\
