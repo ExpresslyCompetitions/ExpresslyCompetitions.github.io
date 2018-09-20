@@ -35,5 +35,5 @@ entry-content: "Enter the draw to win Jorja Smith Lost & Found vinyl edition by 
 has-winner: false
 prize-description: "Jorja Smith Lost & Found vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
-  \ is also available on: https://aaa.nme.com"
+  \ is also available on: https://aaa.nme.com/competitions/jorja-smith-lost-and-found-vinyl"
 ---
