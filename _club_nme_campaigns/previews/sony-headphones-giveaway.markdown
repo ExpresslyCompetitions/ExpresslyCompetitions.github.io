@@ -2,17 +2,17 @@
 campaign-uuid: "c-1ff4aee6-2843-424f-aad9-d727689a1d02"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-21T11:10:59.787Z"
+date: "2018-09-21T11:11:00.000Z"
 end-date: "2018-10-21T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win the brand new Sony Headphones!"
 competition-description: "<p>We have the pure sound for music lovers, YES! you have\
-  \ heard right: we are giving away the brand new Sony MDR-ZX110 Headphones to one\
-  \ of our lucky readers to win! </p>\r\n<p>If this giveaway sounds as good as the\
-  \ music you will be hearing through this headphones… click below for a chance to\
-  \ win!</p>"
+  \ heard it right: we are giving away the brand new Sony MDR-ZX110 Headphones to\
+  \ one of our lucky readers to win! </p>\r\n<p>If this giveaway sounds as good as\
+  \ the music you will be hearing through this headphones… click below for a chance\
+  \ to win!</p>"
 hero-header: "Win the brand new Sony Headphones!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ed17ab03-7804-48cc-b63e-39abd2994ffd.jpg"
@@ -25,7 +25,7 @@ section1-content: "</p>Neodymium dynamic drivers deliver precise sound, Swivel f
   \ design makes travel easy, Cushioned earpads for total comfort, Wide frequency\
   \ range for clear highs and lows, Enfolding closed-back design seals in sound… and\
   \ those are some of its incredible features!</p>\r\n<p>If you can’t wait to try\
-  \ this amazing headphones, think no more an enter the form below for a chance to\
+  \ this amazing headphones, think no more and enter the form below for a chance to\
   \ win them!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the brand new Sony Headphones."
 entry-content: "Enter the draw to win the brand new Sony Headphones by completing\
@@ -33,5 +33,5 @@ entry-content: "Enter the draw to win the brand new Sony Headphones by completin
 has-winner: false
 prize-description: "The brand new Sony Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
-  \ is also available on:"
+  \ is also available on:\r\nhttps://club.expressly.io/competitions/sony-headphones-giveaway"
 ---
