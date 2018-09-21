@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win the brand new Sony Headphones!"
 competition-description: "<p>We have the pure sound for music lovers, YES! you have\
-  \ heard right: we are giving away the brand new Sony MDR-ZX110 Headphones to one\
-  \ of our lucky readers to win! </p>\r\n<p>If this giveaway sounds as good as the\
-  \ music you will be hearing through this headphones… click below for a chance to\
-  \ win!</p>"
+  \ heard it right: we are giving away the brand new Sony MDR-ZX110 Headphones to\
+  \ one of our lucky readers to win! </p>\r\n<p>If this giveaway sounds as good as\
+  \ the music you will be hearing through this headphones… click below for a chance\
+  \ to win!</p>"
 hero-header: "Win the brand new Sony Headphones!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5b388afc-3592-4ae7-9973-ead3082ef6b7.jpg"
@@ -25,7 +25,7 @@ section1-content: "</p>Neodymium dynamic drivers deliver precise sound, Swivel f
   \ design makes travel easy, Cushioned earpads for total comfort, Wide frequency\
   \ range for clear highs and lows, Enfolding closed-back design seals in sound… and\
   \ those are some of its incredible features!</p>\r\n<p>If you can’t wait to try\
-  \ this amazing headphones, think no more an enter the form below for a chance to\
+  \ this amazing headphones, think no more and enter the form below for a chance to\
   \ win them!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win the brand new Sony Headphones!"
 entry-content: "Enter the draw to win the brand new Sony Headphones by completing\
