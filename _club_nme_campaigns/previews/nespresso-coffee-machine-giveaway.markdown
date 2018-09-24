@@ -14,7 +14,7 @@ competition-description: "<p>Every Nespresso cup has the potential to deliver a 
   \ with Nespresso? Click below for a chance to win.</p>"
 hero-header: "Win the Nespresso Inissia Coffee Machine"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-24ad4654-2bc9-41ad-a8f1-7575b4cd9f77.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-813a479e-f913-4bb2-abb8-caff2985370f.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b23e89e9-c295-41a7-9438-2e9da8629ed3.jpg"
 logo-left-title: "NME AAA"
