@@ -10,7 +10,8 @@ has_entry_page: true
 title: "Win the Nespresso Inissia Coffee Machine"
 competition-description: "<p>Every Nespresso cup has the potential to deliver a moment\
   \ of pleasure. We want you to feel that moment and that is why we want to give you\
-  \ the Nespresso Inissia Coffe Machine.</p>\r\n<p>Enjoy a delicious coffee with Nespreso!</p>"
+  \ the Nespresso Inissia Coffe Machine.</p>\r\n<p>Want to enjoy a delicious coffee\
+  \ with Nespresso? Click below for a chance to win.</p>"
 hero-header: "Win the Nespresso Inissia Coffee Machine"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-46e61c43-6a19-447b-88ca-acd6673ff128.jpg"
