@@ -29,5 +29,6 @@ entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nb
   \ completing the form below before 23:59 on 24th of October 2018."
 has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine"
-special-conditions: "Multiple entries are allowed up to one every day."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
+  \ is also available on:\r\nhttps://aaa.nme.com/competitions/nespresso-coffee-machine-giveaway"
 ---
