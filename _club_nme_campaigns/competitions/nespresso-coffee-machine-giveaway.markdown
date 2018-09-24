@@ -31,5 +31,5 @@ entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nb
 has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
-  \ is also available on:\r\nhttps://club.expressly.io/competitions/nespresso-coffee-machine-giveaway"
+  \ is also available on:\r\nhttps://club.expressly.io/competitions/nespresso-inissia-coffee-machine"
 ---
