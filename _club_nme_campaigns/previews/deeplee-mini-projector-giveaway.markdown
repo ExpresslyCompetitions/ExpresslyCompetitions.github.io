@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-978b5f39-a5b3-4203-9956-fb5ad
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b23e89e9-c295-41a7-9438-2e9da8629ed3.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-c1b970a9-07fc-477d-bb9f-3f5818a2115a.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-b521579c-98db-4603-913e-6a538c17c977.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-2b7b57b3-6760-4e27-aa4a-b30c806f21bd.jpg"
 section1-content: "<p>The Deeplee-DP300 Mini Projector is a good assistant to display\
   \ pictures, movies, TV shows, videos, games… on a large screen! Its small size,\
@@ -32,7 +32,7 @@ entry-title: "Win the Deeplee Mini Projector!"
 entry-content: "Enter the draw to win the Deeplee Mini Projector by completing the\
   \ form below before 23:59 on 25th of October 2018."
 has-winner: false
-prize-description: "The Deeplee Mini Projector!"
+prize-description: "The Deeplee Mini Projector in blue colour."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/deeplee-mini-projector-giveaway"
 ---
