@@ -2,7 +2,7 @@
 campaign-uuid: "c-19678e7b-2507-4294-a67d-d762272fc2d7"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-25T10:41:20.015Z"
+date: "2018-09-25T13:00:00.000Z"
 end-date: "2018-10-25T23:59:00.000Z"
 disable-form: false
 is_promoted: false
@@ -25,7 +25,7 @@ section1-content: "<p>The Deeplee-DP300 Mini Projector is a good assistant to di
   \ pictures, movies, TV shows, videos, games… on a large screen! Its small size,\
   \ like a smartphone, lets you take it anywhere! Usb, computer, mobile phone, television,\
   \ speakers, firestick… they can all be connected to the projector!</p>\r\n<p>Want\
-  \ to know what else can the Deeplee Mini Projector do？It's up to you to explore!\
+  \ to know what else can the Deeplee Mini Projector do?It's up to you to explore!\
   \ Enter the form below for a chance to win and get ready to spend a great night\
   \ of entertainment with your loved ones!</p>"
 entry-title: "Win the Deeplee Mini Projector!"
