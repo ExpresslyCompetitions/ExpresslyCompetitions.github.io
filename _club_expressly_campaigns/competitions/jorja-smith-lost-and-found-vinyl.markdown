@@ -11,8 +11,8 @@ title: "Win Jorja Smith Lost & Found vinyl edition!"
 competition-description: "<p>With a BRIT Award win, millions of streams and 10 magazine\
   \ front covers under her belt, Jorja Smith is the latest British sensation in the\
   \ world and we have amazing news for YOU: we are giving way her brand new album\
-  \ Lost & Found vinyl edition to one of our lucky NME AAA members!</p>\r\n<p>Want\
-  \ it? Click below for a chance to win!</p>"
+  \ Lost & Found vinyl edition to one of our lucky members!</p>\r\n<p>Want it? Click\
+  \ below for a chance to win!</p>"
 hero-header: "Win Jorja Smith Lost & Found vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a8c46dda-85ca-48db-b7e6-280a40d66a97.jpg"
@@ -34,5 +34,6 @@ entry-content: "Enter the draw to win Jorja Smith Lost & Found vinyl edition by 
   \ the form below before 23:59 on 20th of October 2018."
 has-winner: false
 prize-description: "Jorja Smith Lost & Found vinyl edition."
-special-conditions: "Multiple entries are allowed up to one every day."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
+  \ is also available on: https://aaa.nme.com/competitions/jorja-smith-lost-and-found-vinyl"
 ---
