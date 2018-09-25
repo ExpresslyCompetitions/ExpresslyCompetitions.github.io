@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-08-21T16:00:00.000Z"
 end-date: "2018-09-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Instax Mini 8 camera and a 20 shot pack!"
 competition-description: "<p>Calling all photographers out there! You can’t miss this\
