@@ -17,9 +17,9 @@ competition-description: "<p>Ella wants to prepare delicious food for you, your 
 hero-header: "Win Deliciously Ella With Friends book"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-31c551bc-1f60-407d-a1f7-94f84c6e19da.jpg"
-logo-left-href: "https://deliciouslyella.com/"
-logo-left-image: "https://assets.expresslyapp.com/asset-62e004fb-4a35-40c2-88ca-a6ffb4265db5.jpg"
-logo-left-title: "Win Deliciously Ella With Friends book"
+logo-left-href: "https://clubexpressly.io"
+logo-left-image: "https://assets.expresslyapp.com/asset-f9b7edf2-e27d-41df-909f-06c0bfbbd825.jpg"
+logo-left-title: "ClubExpressly"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e0863a9f-3f8b-4a55-bac5-4714ef5b1760.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-89266954-6433-4e9c-8996-bb2c0fc767c0.jpg"
 section1-content: "<p>No more wondering whether certain dishes go together, Ella makes\
