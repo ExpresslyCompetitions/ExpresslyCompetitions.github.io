@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-4d4e0b4f-e5e5-4910-9bc5-552e98f10a1a"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
-date: "2018-09-05T09:00:00.000Z"
-end-date: "2018-11-07T23:59:00.000Z"
+date: "2018-09-27T14:00:00.000Z"
+end-date: "2018-10-27T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,8 +29,9 @@ section1-content: "<p>No more wondering whether certain dishes go together, Ella
   \ a delicious meal thanks to Ella.</p>"
 entry-title: "Win Deliciously Ella With Friends book"
 entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
-  \ the form below before 23:59 on 7th of November 2018."
+  \ the form below before 23:59 on 27th of October 2018."
 has-winner: false
 prize-description: "Deliciously Ella With Friends book"
-special-conditions: "Multiple entries are allowed up to one every day."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nYou can\
+  \ also find this competition in: \r\nhttps://aaa.nme.com/deliciously-ella-with-friends-book"
 ---
