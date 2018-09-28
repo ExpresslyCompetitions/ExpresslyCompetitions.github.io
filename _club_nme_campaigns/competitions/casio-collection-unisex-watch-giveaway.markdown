@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-50f01ad2-7752-4aa5-9ea4-2766f
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ca6fc133-0748-482e-b4f1-caa230852871.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-92116aaa-f4f4-44ae-a7f4-89237f8473a9.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-1d6f92bd-e444-4c42-8ad3-799391f631bc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ef4184c8-bbb1-410a-a8b9-7e3646dd7690.jpg"
 section1-content: "<p>With warm shades of gold, cool stainless steel and black plastic,\
   \ these timeless design icons can be combined perfectly with today's style. It's\
