@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-fb563fb4-de65-4459-a040-db904
 logo-left-href: "clubhttp://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-d2207bc3-a5d1-4ac2-94ff-1a351cdc35cf.jpg"
 logo-left-title: "Club Expressly"
-bg-image-hero: "https://assets.expresslyapp.com/asset-c9181fef-440e-4b9a-ab6c-120ffa4b312c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2d20aeb7-57b9-4eb2-ba73-1c81d3ab67a9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-67998661-a01a-4cbc-828a-34095d8dd5d7.jpg"
 section1-content: "<p>With warm shades of gold, cool stainless steel and black plastic,\
   \ these timeless design icons can be combined perfectly with today's style. It's\
