@@ -1,0 +1,13 @@
+.billboard-ad-container {
+  padding: 10px 0;
+  background: #f7f7f7;
+
+  #billboardSlot {
+    max-width: 970px;
+    margin: 0 auto;
+  }
+
+  & + .nav-container {
+    margin-top: 0;
+  }
+}
