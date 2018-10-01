@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
 competition-description: "<p>Echo Spot brings you everything you love about Alexa,\
   \ in an all-new stylish and compact design that can show you things. We are giving\
-  \ away he brand new Amazon Echo Spot to one of our readers!</p>\r\n<p>Want to discover\
+  \ away the brand new Amazon Echo Spot to one of our readers!</p>\r\n<p>Want to discover\
   \ all those things and features Alexa has to bring you? Click below for a chance\
   \ to win!</p>"
 hero-header: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
