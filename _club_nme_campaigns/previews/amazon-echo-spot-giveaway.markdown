@@ -24,12 +24,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-c64081b5-c5b8-4a1d-9e04-2
 section1-content: "</p>Just ask to see the weather, get the news with a video flash\
   \ briefing, set a music alarm (Amazon Music, Spotify & TuneIn supported), see lyrics\
   \ (available in UK only) with Amazon Music, see your calendar, browse and listen\
-  \ to Audible audiobooks, and more!</p>\r\n<p>Personalise your Spot with a collection\
-  \ of clock faces to suit your style or set a photo background from Prime Photos!</p>\r\
-  \n<p>Alexa is always getting smarter the more you use Echo Spot, the more Alexa\
-  \ adapts to your speech patterns, vocabulary and personal preferences. And because\
-  \ Spot is always connected, updates are delivered automatically!\r\n<p>Enter the\
-  \ form below for a chance to win the amazing Amazon Echo Spot and it could be yours!</p>\r\
+  \ to Audible audiobooks, and more! Personalise your Spot with a collection of clock\
+  \ faces to suit your style or set a photo background from Prime Photos!</p>\r\n\
+  <p>Alexa is always getting smarter the more you use Echo Spot, the more Alexa adapts\
+  \ to your speech patterns, vocabulary and personal preferences. And because Spot\
+  \ is always connected, updates are delivered automatically!\r\n<p>Enter the form\
+  \ below for a chance to win the amazing Amazon Echo Spot and it could be yours!</p>\r\
   \n<p>Good luck!</p>"
 entry-title: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
 entry-content: "Enter the draw to win the Amazon Echo Spot, Smart speaker and screen\
