@@ -24,8 +24,8 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-41ad6b89-cccd-486a-86c2-5c
 bg-image-first: "https://assets.expresslyapp.com/asset-e06f8032-e8f6-4a79-b599-428e2f1a12f6.jpg"
 section1-content: "</p>Along the amazing band, putting their own indelible vocals\
   \ on the songs are, amongst others: Gold Link, Lomepal, Rejjie Snow, Tuka, or London's\
-  \ acclaimed Little Simz! /</p>\r\n<p>Last Year, Pleader, In Cold Blood… are some\
-  \ of its new hits you can find at their new album! Think no more and enter the form\
+  \ acclaimed Little Simz!</p>\r\n<p>Last Year, Pleader, In Cold Blood… are some of\
+  \ its new hits you can find at their new album! Think no more and enter the form\
   \ below for a chance to win alt-J REDUXER album on vinyl edition!</p>"
 entry-title: "Win alt-J REDUXER vinyl edition!"
 entry-content: "Enter the draw to win alt-J REDUXER vinyl edition by completing the\
