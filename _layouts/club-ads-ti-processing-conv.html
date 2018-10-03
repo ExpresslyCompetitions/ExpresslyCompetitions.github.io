@@ -12,31 +12,40 @@ title: Processing your entry
                 This is required to confirm your entry.
             </p>
             <p class="mb-2">
-                <img src="https://assets01.buyexpressly.com/club/img/trophy-gray.png" alt="" class="mx-auto mb-4 d-block" />
-
-			<script type="text/javascript">   
-				function Redirect() 
-				{  
-					window.location="{{club_base}}/thank-you-page";
-				} 
-				document.write("It will only take 5 seconds"); 
-				setTimeout('Redirect()', 5000);   
-			</script>
+                <img src="https://assets01.buyexpressly.com/club/img/trophy-gray.png" alt=""
+                     class="mx-auto mb-4 d-block"/>
+                <br />
+                It will take 5 seconds
             </p>
-	    </div>
-		<!-- Conversant Media 180x150 Rectangle CODE for NMEAAA -->
-		<div class="row mb-4">
-		<br />
-			<script type="text/javascript">var vclk_options = {sid:121276,media_id:7,media_type:9,version:"1.4",secure:"on"};</script><script class="vclk_pub_code" type="text/javascript" src="https://secure.cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=121276&media_id=7&media_type=9&version=1.4&exc=1"></script><noscript><a href="https://secure.fastclick.net/w/click.here?sid=121276&m=7&c=1" target="_blank"><img src="https://secure.fastclick.net/w/get.media?sid=121276&m=7&tp=9&d=s&c=1&vcm_acv=1.4" width="180" height="150" border="1"></a></noscript>
-		</div>
-		<!-- END - Conversant Media 180x150 Rectangle CODE for NMEAAA -->
+        </div>
+
     </div>
-	<script>
-(function(){
-	if(typeof _bsa !== 'undefined' && _bsa) {
-  		// format, zoneKey, segment:value, options
-  		_bsa.init('stickybox', 'CKYD623L', 'placement:demo');
-  	}
-})();
-</script>
+    {% if page.ad-processing-mpu %}
+    <div class="row mb-4">
+        <div class="col-12 text-center">
+            {% include {{page.ad-processing-mpu}} %}
+        </div>
+    </div>
+    {% endif %}
+    {% if page.ad-processing-conv %}
+    <div class="row mb-4">
+        <div class="col-12 text-center">
+            {% include {{page.ad-processing-conv}} %}
+        </div>
+    </div>
+    {% endif %}
+    <script>
+        (function () {
+            if (typeof _bsa !== 'undefined' && _bsa) {
+                // format, zoneKey, segment:value, options
+                _bsa.init('stickybox', 'CKYD623L', 'placement:demo');
+            }
+        })();
+
+        function Redirect() {
+            window.location = "{{club_base}}/thank-you-page";
+        }
+
+        setTimeout('Redirect()', 5000);
+    </script>
 </main>
