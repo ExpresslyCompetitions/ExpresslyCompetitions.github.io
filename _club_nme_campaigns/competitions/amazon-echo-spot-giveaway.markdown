@@ -3,9 +3,9 @@ campaign-uuid: "c-72f0bc62-41b6-43c2-a486-173026bb414b"
 type: "Competition"
 category: "Gifts"
 date: "2018-10-01T09:00:00.000Z"
-end-date: "2018-11-01T23:59:00.000Z"
+end-date: "2018-11-02T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
 competition-description: "<p>Echo Spot brings you everything you love about Alexa,\
