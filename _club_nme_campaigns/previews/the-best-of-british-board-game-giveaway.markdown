@@ -25,10 +25,10 @@ section1-content: "</p>A brilliant new game that light heartedly delves into our
   \ life, reminding us of the diverse, unique and hilarious everyday things, people\
   \ and places that make Britain such an outstanding place to live.There's so much\
   \ about this wonderful country of ours that we take for granted: Blackpool rock,\
-  \ deep fried Mars Bars... Big Ben and Eros, Winston Churchill and Thunderbirds…\
-  </p>\r\n<p>We are giving away the funniest game to enjoy with your loved ones: The\
-  \ Best of British board game. If you are looking forward to have a great fun night,\
-  \ enter the form below and it could be yours!</p>"
+  \ deep fried Mars Bars, Big Ben and Eros, Winston Churchill and Thunderbirds…</p>\r\
+  \n<p>We are giving away the funniest game to enjoy with your loved ones: The Best\
+  \ of British board game. If you are looking forward to have a great fun night, enter\
+  \ the form below and it could be yours!</p>"
 entry-title: "Win the Best of British board game!"
 entry-content: "Enter the draw to win the Best of British board game by completing\
   \ the form below before 23:59 on 5th of November 2018."
