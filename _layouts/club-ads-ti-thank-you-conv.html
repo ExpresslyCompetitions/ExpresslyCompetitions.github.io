@@ -5,30 +5,15 @@ title: Thank you for entering
 {% include club_base_url.html %}
 
 <main role="main" class="container">
-<!--TI MEDIA DFP SCRIPT-->
-
-<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-</script>
-
-<script>
-    googletag.cmd.push(function() {
-        googletag.defineSlot('/18711560/nme/aaa', [[728, 90], [970, 250]], 'billboardSlot').addService(googletag.pubads());
-        <!-- googletag.defineSlot('/18711560/nme/aaa', [[300, 1050], [300, 250], [300, 600]], 'MPUSlot').addService(googletag.pubads()); -->
-		googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot').addService(googletag.pubads());
-		googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-		googletag.pubads().setRequestNonPersonalizedAds(1);
-        googletag.enableServices();
-    });
-</script>
-
-<!--END OF TI MEDIA DFP SCRIPT-->
 
 	<div class="row mb-4">
-        <div class="col-12 text-center">
+        {% if page.ad-thank-you-1 %}
+        <div class="col-12 col-lg-4 cmb-4 growable ad-container ad-slot-1">
+            {% include {{page.ad-thank-you-1}} %}
+        </div>
+        {% endif %}
+
+        <div class="col-12 col-lg-4 mb-4 growable text-center">
             <h2 class="my-4">{{page.title}}</h2>
             <p class="mb-5">
                 We will let you know if you win
@@ -38,19 +23,30 @@ title: Thank you for entering
                 Discover other exciting opportunities below!
             </p>
         </div>
+
+        {% if page.ad-thank-you-1 %}
+        <div class="col-12 col-lg-4 mb-4 growable ad-container ad-slot-2">
+            {% include {{page.ad-thank-you-1}} %}
+        </div>
+        {% endif %}
     </div>
 
     <div class="row competition-tile-container">
-	<!-- Conversant Media 300x250 Medium Rectangle CODE for NMEAAA -->
-		<div id='Conversant' class="col-md-4 col-sm-6 mb-4 growable">
-		<script type="text/javascript">var vclk_options = {sid:121276,media_id:6,media_type:8,version:"1.4",secure:"on"};</script><script class="vclk_pub_code" type="text/javascript" src="https://secure.cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=121276&media_id=6&media_type=8&version=1.4&exc=1"></script><noscript><a href="https://secure.fastclick.net/w/click.here?sid=121276&m=6&c=1" target="_blank"><img src="https://secure.fastclick.net/w/get.media?sid=121276&m=6&tp=8&d=s&c=1&vcm_acv=1.4" width="300" height="250" border="1"></a></noscript>
-		</div>
-	<!-- END - Conversant Media 300x250 Medium Rectangle CODE for NMEAAA -->
+
+        {% if page.ad-thank-you-1 %}
+        <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-3">
+            {% include {{page.ad-thank-you-1}} %}
+        </div>
+        {% endif %}
+
         {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
         {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
 
         {% assign items = all_items | where:"is_promoted",true | sort: 'date'  %}
+
+        {% assign ad_count = 0 %}
+
         {% for item in items reversed  %}
             {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
             {% if end_date_seconds > past_epoch_seconds %}
@@ -58,13 +54,21 @@ title: Thank you for entering
                 <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
                 {% include club_tile.html item=item %}
             </div>
+            {% assign ad_count = ad_count | plus: 1 %}
             {% endif %}
+
+            {%if ad_count == 1 %}
+
+                {% if page.ad-thank-you-1 %}
+                <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4">
+                    {% include {{page.ad-thank-you-1}} %}
+                </div>
+                {% endif %}
+
+            {% endif %}
+
         {% endfor %}
-	<!--MPU SLOT-->
-		<div id='MPUSlot' class="col-md-4 col-sm-6 mb-4 growable">
-		<script> googletag.cmd.push(function() { googletag.display('MPUSlot'); });</script>
-		</div>
-	<!--END OF MPU SLOT-->
+
         {% assign items = all_items | where:"is_promoted",false | sort: 'date'  %}
         {% for item in items reversed  %}
             {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
@@ -73,8 +77,29 @@ title: Thank you for entering
                 <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
                 {% include club_tile.html item=item %}
             </div>
+            {% assign ad_count = ad_count | plus: 1 %}
+            {% endif %}
+
+            {%if ad_count == 1 %}
+
+                {% if page.ad-thank-you-1 %}
+                    <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4">
+                        {% include {{page.ad-thank-you-1}} %}
+                    </div>
+                {% endif %}
+
             {% endif %}
         {% endfor %}
+
+        {%if ad_count < 2 %}
+
+        {% if page.ad-thank-you-1 %}
+        <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4">
+            {% include {{page.ad-thank-you-1}} %}
+        </div>
+        {% endif %}
+
+        {% endif %}
 
     </div>
 </main>
