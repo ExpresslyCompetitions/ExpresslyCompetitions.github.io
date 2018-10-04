@@ -267,5 +267,25 @@
     </script>
 {% endif %}
 
+<!-- Script to handle ad display on thank you page -->
+<script type="text/javascript">
+    $(document).ready(function(){
+        var ad_3 = $('#ad-slot-3');
+        var ad_4 = $('#ad-slot-4');
+        if(ad_3.length > 0) {
+            if(ad_3.next('.hide-if-entered').hasClass('competition-entered')) {
+                var found_the_place = false;
+                ad_4.siblings('.hide-if-entered').each(function(key, comp_card){
+                    if(!$(comp_card).hasClass('competition-entered') && !found_the_place) {
+                        $(comp_card).after(ad_4);
+                        found_the_place = true;
+                    }
+                });
+            }
+        }
+    });
+</script>
+<!-- END Thank you page ads -->
+
 </body>
 </html>

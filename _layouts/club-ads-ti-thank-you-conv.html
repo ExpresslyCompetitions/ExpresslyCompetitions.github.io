@@ -8,7 +8,7 @@ title: Thank you for entering
 
 	<div class="row mb-4">
         {% if page.ad-thank-you-1 %}
-        <div class="col-12 col-lg-4 cmb-4 growable ad-container ad-slot-1">
+        <div class="col-12 col-lg-4 cmb-4 growable ad-container ad-slot-1" id="ad-slot-1">
             {% include {{page.ad-thank-you-1}} %}
         </div>
         {% endif %}
@@ -25,7 +25,7 @@ title: Thank you for entering
         </div>
 
         {% if page.ad-thank-you-1 %}
-        <div class="col-12 col-lg-4 mb-4 growable ad-container ad-slot-2">
+        <div class="col-12 col-lg-4 mb-4 growable ad-container ad-slot-2" id="ad-slot-2">
             {% include {{page.ad-thank-you-1}} %}
         </div>
         {% endif %}
@@ -34,7 +34,7 @@ title: Thank you for entering
     <div class="row competition-tile-container">
 
         {% if page.ad-thank-you-1 %}
-        <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-3">
+        <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-3" id="ad-slot-3">
             {% include {{page.ad-thank-you-1}} %}
         </div>
         {% endif %}
@@ -60,7 +60,7 @@ title: Thank you for entering
             {%if ad_count == 1 %}
 
                 {% if page.ad-thank-you-1 %}
-                <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4">
+                <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4" id="ad-slot-4">
                     {% include {{page.ad-thank-you-1}} %}
                 </div>
                 {% endif %}
@@ -94,6 +94,9 @@ title: Thank you for entering
         {%if ad_count == 0 %}
 
         {% if page.ad-thank-you-1 %}
+        <div class="col-md-4 col-sm-6 mb-4 growable blank-placeholder">
+        </div>
+
         <div class="col-md-4 col-sm-6 mb-4 growable ad-container ad-slot-4">
             {% include {{page.ad-thank-you-1}} %}
         </div>
