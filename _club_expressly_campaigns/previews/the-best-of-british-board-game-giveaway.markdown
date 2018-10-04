@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-2bedae7b-eaf8-4b4c-acdf-a2958
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-2459573b-b4f9-4715-b342-cb78ec75e392.jpg"
 logo-left-title: "ClubExpressly"
-bg-image-hero: "https://assets.expresslyapp.com/asset-99822aa0-8c21-407c-ac9f-5b213790030f.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-3178a9bb-f9cb-463e-b2be-f07f28870065.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-967687f7-4dd8-4fb3-8bd8-c9fe987251b2.jpg"
 section1-content: "</p>A brilliant new game that light heartedly delves into our everyday\
   \ life, reminding us of the diverse, unique and hilarious everyday things, people\
