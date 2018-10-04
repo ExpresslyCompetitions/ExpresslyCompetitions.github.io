@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b91a8c92-e62c-4e86-adc7-402ca
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-f76e187a-6e72-4af7-bce4-64e14fcfeba4.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-057194b6-4e50-4dcc-9fca-d8bb7660122c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-9765f294-ea22-470b-ae63-b6f900307c33.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d53f227c-8916-4246-9989-de0a1f869d61.jpg"
 section1-content: "</p>A brilliant new game that light heartedly delves into our everyday\
   \ life, reminding us of the diverse, unique and hilarious everyday things, people\
