@@ -19,6 +19,13 @@ body {
       padding-bottom: 120px;
     }
   }
+
+  main {
+    &.container {
+      background-color: $colour_bg_white;
+      z-index: 999;
+    }
+  }
 }
 
 footer {
