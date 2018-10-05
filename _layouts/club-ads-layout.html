@@ -258,10 +258,10 @@
         var ad_3 = $('#ad-slot-3');
         var ad_4 = $('#ad-slot-4');
         if(ad_3.length > 0) {
-            if(ad_3.next('.hide-if-entered').hasClass('competition-entered')) {
+            if(ad_3.next('.hide-if-entered').is(':hidden')) {
                 var found_the_place = false;
                 ad_4.siblings('.hide-if-entered').each(function(key, comp_card){
-                    if(!$(comp_card).hasClass('competition-entered') && !found_the_place) {
+                    if(!$(comp_card).is(':visible') && !found_the_place) {
                         $(comp_card).after(ad_4);
                         found_the_place = true;
                     }
