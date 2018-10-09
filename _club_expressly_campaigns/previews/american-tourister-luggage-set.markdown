@@ -3,9 +3,9 @@ campaign-uuid: "c-e5e182dc-03b5-4ceb-970c-f8604afa20cd"
 type: "Preview"
 category: "Gifts"
 date: "2018-10-09T13:00:00.000Z"
-end-date: "2018-11-09T23:59:00.000Z"
+end-date: "2018-12-09T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win an American Tourister Luggage Set!"
 competition-description: "<p>With a presence in more than 90 countries worldwide…\
@@ -20,17 +20,25 @@ logo-left-href: "http://americantourister.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/asset-15a2fe11-58c5-431b-985a-0c0ff7f9cf67.jpg"
 logo-left-title: "American Tourister"
 bg-image-hero: "https://assets.expresslyapp.com/asset-daa26137-dca9-4078-b9c6-83e0e2aaddd3.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-70fbeda4-7763-4c7a-b5f0-8d31ee873006.jpg"
-section1-content: "</p>Inspired by the freedom of travelling, WaveBreaker features\
+bg-image-first: "https://assets.expresslyapp.com/asset-c61bd9fb-87c0-4151-9be1-5071b037ad23.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-3e2ded0a-4622-42de-80f7-46fea74d3d12.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-8849b71b-f4a6-4735-bd90-b8d4a889f39c.jpg"
+section1-content: "At American Tourister they offer a wide selection of qualitative\
+  \ youthful, vibrant and reliable luggage at an affordable price. Embedded with distinctive\
+  \ high quality traits, the American Tourister collections combine style & practicality\
+  \ and cover a wide selection of travel luggage, ideal for your next leisure travel."
+section2-content: "</p>Inspired by the freedom of travelling, WaveBreaker features\
   \ a dynamic and contemporary design inspired by nature, with gradually fading lines\
   \ on the front panel.</p>\r\n<p>The collection, enhanced by its dotted texture,\
   \ helps to protect the surface against scratches. The rich looking double wheels\
-  \ make travelling easy and provide a smooth rolling comfort.</p>\r\n<p>Enter the\
-  \ form below and get ready to enjoy the new American Tourister collection everywhere\
-  \ you go!</p>"
+  \ make travelling easy and provide a smooth rolling comfort.</p>"
+section3-content: "<p>Thanks for joining the club! Now that you are an Expressly insider,\
+  \ think no more and enter the form below for a chance to win the amazing American\
+  \ Tourister Luggage Set and get ready to discover many more opportunities to win\
+  \ at Expressly Club!</p>"
 entry-title: "Win an American Tourister Luggage Set!"
 entry-content: "Enter the draw to win an American Tourister Luggage Set by completing\
-  \ the form below before 23:59 on 9th of November 2018."
+  \ the form below before 23:59 on 9th of December 2018."
 has-winner: false
 prize-description: "An American Tourister Luggage Set.\r\nAvailable colours: Summer\
   \ Sky, Hot Lip Pink & Nautical Blue."
