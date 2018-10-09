@@ -16,9 +16,9 @@ competition-description: "<p>With a presence in more than 90 countries worldwide
 hero-header: "Win an American Tourister Luggage Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e73b334c-8c99-4ebf-b357-9c664e6a4787.jpg"
-logo-left-href: "https://club.expressly.io"
-logo-left-image: "https://assets.expresslyapp.com/asset-41cb398c-7a9f-499f-88d1-8b1cfa392042.jpg"
-logo-left-title: "Expressly Club"
+logo-left-href: "http://americantourister.co.uk"
+logo-left-image: "https://assets.expresslyapp.com/asset-15a2fe11-58c5-431b-985a-0c0ff7f9cf67.jpg"
+logo-left-title: "American Tourister"
 bg-image-hero: "https://assets.expresslyapp.com/asset-daa26137-dca9-4078-b9c6-83e0e2aaddd3.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-70fbeda4-7763-4c7a-b5f0-8d31ee873006.jpg"
 section1-content: "</p>Inspired by the freedom of travelling, WaveBreaker features\
