@@ -10,8 +10,9 @@ has_entry_page: true
 title: "Win an American Tourister Luggage Set!"
 competition-description: "<p>With a presence in more than 90 countries worldwide…\
   \ we are giving away an amazing luggage set from the second biggest luggage brand\
-  \ in the world: American Tourister.</p>\r\n<p>If you are already planning your next\
-  \ trip, click below for a chance to win!</p>"
+  \ in the world: American Tourister. Available in 3 different colours for you to\
+  \ choose your favourite one: Summer Sky, Hot Lip Pink and Nautical Blue.</p>\r\n\
+  <p>If you are already planning your next trip, click below for a chance to win!</p>"
 hero-header: "Win an American Tourister Luggage Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e73b334c-8c99-4ebf-b357-9c664e6a4787.jpg"
