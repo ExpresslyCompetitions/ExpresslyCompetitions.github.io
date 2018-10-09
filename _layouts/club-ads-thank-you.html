@@ -20,12 +20,12 @@ title: Thank you for entering
 			});
 		</script>
 	<!--END OF DFP main script - should be in the head -->
-    <!-- /273427535/xly_club_allpages_leaderboard -->
-	<div id='div-gpt-ad-1539116626678-0' style='height:90px; width:728px;'>
-		<script>
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1539116626678-0'); });
-		</script>
+
+    {% if page.top-banner-thank-you-slot %}
+    <div>
+		{% include {{page.top-banner-thank-you-slot}} %}
 	</div>
+    {% endif %}
 	<div class="row mb-4">
         <div class="col-12 text-center">
             <h2 class="my-4">{{page.title}}</h2>

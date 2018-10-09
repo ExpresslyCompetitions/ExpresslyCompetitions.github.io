@@ -84,6 +84,7 @@ clubs:
       ad-processing:     "ads/expressly/processing-ad-slot.html"
       ad-thank-you-1:     "ads/expressly/card-thank-you-ad-1-slot.html"
       ad-thank-you-2:     "ads/expressly/card-thank-you-ad-2-slot.html"
+      top-banner-thank-you-slot:     "ads/expressly/top-banner-thank-you-slot.html"
       consent-script: "consent/expressly/consent-script.html"
       domain-migrations-enabled: true
       ga-code:        "UA-110278937-4"
