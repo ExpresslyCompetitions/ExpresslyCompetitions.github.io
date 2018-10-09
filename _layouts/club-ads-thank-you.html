@@ -5,7 +5,13 @@ title: Thank you for entering
 {% include club_base_url.html %}
 
 <main role="main" class="container">
-    <div class="row mb-4">
+    <!-- /273427535/xly_club_allpages_leaderboard -->
+	<div id='div-gpt-ad-1539116626678-0' style='height:90px; width:728px;'>
+		<script>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1539116626678-0'); });
+		</script>
+	</div>
+	<div class="row mb-4">
         <div class="col-12 text-center">
             <h2 class="my-4">{{page.title}}</h2>
             <p class="mb-5">
@@ -68,4 +74,18 @@ title: Thank you for entering
     {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
     {% include {{ ad_include_path}} %}
     {% endif %}
+	<!--DFP main script - should be in the head -->
+		<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+		<script>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+		</script>
+		<script>
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/273427535/xly_club_allpages_leaderboard', [728, 90], 'div-gpt-ad-1539116626678-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+		</script>
+	<!--END OF DFP main script - should be in the head -->
 </main>
