@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-ec6a7267-d07b-4499-9c34-f4c08
 logo-left-href: "https://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-41cb398c-7a9f-499f-88d1-8b1cfa392042.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-71011e50-e3e3-43cf-a569-2488f667e4a3.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-1c819a1f-5c26-4b6e-b650-434337a56171.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-06990aed-fc71-4217-83c8-f3293b5a33eb.jpg"
 section1-content: "</p>Since 1963, The Rolling Stones have been recording and touring,\
   \ selling more than 200 million records worldwide. In The Rolling Stones All the\
