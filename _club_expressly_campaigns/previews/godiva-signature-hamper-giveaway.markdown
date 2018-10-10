@@ -2,8 +2,8 @@
 campaign-uuid: "c-77dcc3f4-af38-48db-a4ae-8c9dfd147365"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-07T09:00:00.000Z"
-end-date: "2018-11-07T23:59:00.000Z"
+date: "2018-09-10T13:00:00.000Z"
+end-date: "2018-12-10T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -32,7 +32,7 @@ section2-content: "<p>Keeping the legacy of handcrafted Belgian chocolate alive,
   \ and indulge your heart with chocolate.</p>"
 entry-title: "Win Godiva's Gold wrapped Ballotin"
 entry-content: "Enter the draw to win Godiva's Gold wrapped Ballotin by completing\
-  \ the form below before 23:59 on 7th of November 2018."
+  \ the form below before 23:59 on 10th of December 2018."
 has-winner: false
 prize-description: "Godiva's Gold wrapped Ballotin"
 special-conditions: "Multiple entries are allowed up to one every day."
