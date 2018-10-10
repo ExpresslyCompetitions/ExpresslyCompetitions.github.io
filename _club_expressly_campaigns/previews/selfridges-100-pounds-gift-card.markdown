@@ -15,9 +15,9 @@ competition-description: "<p>We wanted to give you something extraordinary so no
 hero-header: "Win a £100 Gift card at Selfridges!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7fe109ba-053f-45e1-9bae-eb5e17990d98.jpg"
-logo-left-href: "http://americantourister.co.uk"
-logo-left-image: "https://assets.expresslyapp.com/asset-15a2fe11-58c5-431b-985a-0c0ff7f9cf67.jpg"
-logo-left-title: "American Tourister"
+logo-left-href: "http://selfridges.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-c2fc0984-59a1-49de-99c3-eca517fd9db9.jpg"
+logo-left-title: "Selfridges"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7868f91b-f4c5-476a-8660-99c385163e68.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-e88a2d6c-8a37-4c8c-ad7e-980da6af3b00.jpg"
 section1-content: "<p>It’s shopping, but not as you know it. Discover one-of-a-kind\
