@@ -2,8 +2,8 @@
 campaign-uuid: "c-e5e182dc-03b5-4ceb-970c-f8604afa20cd"
 type: "Preview"
 category: "Gifts"
-date: "2018-10-09T13:00:00.000Z"
-end-date: "2018-12-09T23:59:00.000Z"
+date: "2018-10-10T13:00:00.000Z"
+end-date: "2018-12-10T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -38,7 +38,7 @@ section3-content: "<p>Thanks for joining the club! Now that you are an Expressly
   \ at Expressly Club!</p>"
 entry-title: "Win an American Tourister Luggage Set!"
 entry-content: "Enter the draw to win an American Tourister Luggage Set by completing\
-  \ the form below before 23:59 on 9th of December 2018."
+  \ the form below before 23:59 on 10th of December 2018."
 has-winner: false
 prize-description: "An American Tourister Luggage Set.\r\nAvailable colours: Summer\
   \ Sky, Hot Lip Pink & Nautical Blue."
