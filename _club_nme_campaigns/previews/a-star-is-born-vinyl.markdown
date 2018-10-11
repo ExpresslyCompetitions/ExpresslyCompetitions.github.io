@@ -17,7 +17,7 @@ banner-img: "https://assets.expresslyapp.com/asset-9f6b7205-7541-4162-beaf-6537e
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3da84ec1-0d25-4aea-9955-582cf1fa3001.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-2324b6a3-9f2d-410e-9013-5525e36ed85c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-d9c61aa1-2124-4480-b20d-09306f6aeb93.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8a2ebcc3-31e0-4374-b288-45745a72ff03.jpg"
 section1-content: "</p>Alongside Gaga and Cooper there are many co-writing credits\
   \ in the soundtrack: Jason Isbell, Willie Nelson’s son Lukas, Mark Ronson, Andrew\
