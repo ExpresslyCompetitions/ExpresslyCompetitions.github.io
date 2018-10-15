@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-413e92ce-a75c-41be-8646-1cb61
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-2d289035-ce88-4bb9-b5a5-5a66d3e4ffc5.jpg"
 logo-left-title: "Club Expressly"
-bg-image-hero: "https://assets.expresslyapp.com/asset-f03de91f-0b06-47a3-a41b-0fd077a4cb73.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5421db52-7f78-413c-9851-a709e8ecb2ac.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-6b827471-5233-49d7-a5ac-cf30e97a50f0.jpg"
 section1-content: "</p>At ENACFIRE they are committed to provide people with the best\
   \ wireless audio products and build a totally wireless lifestyle! You don’t need\
@@ -39,7 +39,7 @@ prize-description: "ENACFIRE E18 Wireless Headphones.\r\nAvailable for: iPhone X
   \ Galaxy S6,Samsung Galaxy J3 ,Samsung Galaxy Note5,Samsung Galaxy Grand Prime,Samsung\
   \ Galaxy Note 4,Samsung Galaxy S7,Samsung Galaxy J1,Samsung Galaxy Prevail LTE ,Samsung\
   \ Galaxy Core Prime ,Samsung Galaxy S5 ,Samsung Galaxy Avant,Samsung Galaxy Note\
-  \ 3; LG G5，LG V10, LG G4，LG G FLEX 2, LG G Pad,; LG G5，LG V10，LG G4，LG G FLEX 2;;\
+  \ 3; LG G5?LG V10, LG G4?LG G FLEX 2, LG G Pad,; LG G5?LG V10?LG G4?LG G FLEX 2;;\
   \ SONY Xperia X Performance,Xperia X,Xperia XA,Xperia Z5,Xperia Z5 Compact,Xperia\
   \ C4,Xperia M4 Aqua,Xperia Z3, Xperia Z4 Tablet,Xperia Z3 Tablet Compact,Xperia\
   \ Z2 Tablet; kindle fire etc."
