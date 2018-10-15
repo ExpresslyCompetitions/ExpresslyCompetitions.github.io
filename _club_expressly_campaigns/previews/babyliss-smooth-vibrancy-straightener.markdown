@@ -2,8 +2,8 @@
 campaign-uuid: "c-99da9d1f-3028-45d5-a16f-8004593ffc62"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-07T09:00:00.000Z"
-end-date: "2018-11-07T23:59:00.000Z"
+date: "2018-09-17T09:00:00.000Z"
+end-date: "2018-09-24T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -11,7 +11,7 @@ title: "Win the BaByliss Smooth Vibrancy Straightener"
 competition-description: "<p>Nothing better than achieving beautiful salon sleek hair.\
   \ Soft, smooth and shiny hair… We want you to look your best that is why we are\
   \ giving you the chance of winning the BaByliss Smooth Vibrancy Straightener.</p>\r\
-  \n<p>Ready to show your perfect hair this summer?</p>"
+  \n<p>Ready to show your perfect hair anywhere you go?</p>"
 hero-header: "Win the BaByliss Smooth Vibrancy Straightener"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-bd83654e-6138-4149-be3f-3b921a9738d9.jpg"
@@ -30,7 +30,7 @@ section1-content: "<p>The Babylis Smooth Vibrancy Straightener features ceramic 
   \ to stand out anywhere!</p>"
 entry-title: "Win the BaByliss Smooth Vibrancy Straightener"
 entry-content: "Enter the draw to win the Babyliss Smooth Vibrancy Straightener \r\
-  \nby completing the form below before 23:59 on 7th of November 2018."
+  \nby completing the form below before 23:59 on 24th of October 2018."
 has-winner: false
 prize-description: "BaByliss Smooth Vibrancy Straightener"
 special-conditions: "Multiple entries are allowed up to one every day."
