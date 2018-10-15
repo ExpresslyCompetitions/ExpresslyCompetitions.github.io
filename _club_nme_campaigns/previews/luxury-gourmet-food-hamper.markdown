@@ -20,11 +20,11 @@ logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-10b24768-bc85-411b-a0a5-f2cf92665fcd.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ff51e69b-155d-4804-82f4-27fdcc9780cc.jpg"
-section1-content: "</p>Chocolate Chip Cookies, Sweet and Salty Popcorn, Chocolate\
-  \ Pralines… it sounds delicious, right? That’s what you could find at this amazing\
-  \ Clearwater Hamper. Every single hamper is lovingly packed by hand with the visual\
-  \ 'WOW' factor in mind for when the lucky recipient opens their gift.</p>\r\n<p>A\
-  \ fantastic gift idea for a birthday, thank you, anniversary or Christmas date!\
+section1-content: "</p>Chocolate Chip Cookies, Sweet and Salty Popcorn, Salted Caramel\
+  \ Honeycomb Dips… it sounds delicious, right? That’s what you could find at this\
+  \ amazing Clearwater Hamper. Every single hamper is lovingly packed by hand with\
+  \ the visual 'WOW' factor in mind for when the lucky recipient opens their gift.</p>\r\
+  \n<p>A fantastic gift idea for a birthday, thank you, anniversary or Christmas date!\
   \ Enter the form below for a chance to win and surprise your special person now!</p>"
 entry-title: "Win a Luxury Gourmet Food Hamper!"
 entry-content: "Enter the draw to win Luxury Gourmet Food Hamper by completing the\
