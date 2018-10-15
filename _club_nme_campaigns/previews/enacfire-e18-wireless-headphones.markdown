@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-fef89fa8-5e6d-4149-9556-e6a67
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-5d3ba7eb9252.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-afd12509-9812-4aea-aa0e-921f2976be84.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-44da8cc3-7521-4f66-9a1a-bfdb414e25ba.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f2f58fcc-4c74-439c-bc81-9d81f54baa38.jpg"
 section1-content: "</p>At ENACFIRE they are committed to provide people with the best\
   \ wireless audio products and build a totally wireless lifestyle! You don’t need\
