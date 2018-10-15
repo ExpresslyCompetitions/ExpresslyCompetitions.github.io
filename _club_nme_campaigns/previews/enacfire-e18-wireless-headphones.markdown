@@ -21,7 +21,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-44da8cc3-7521-4f66-9a1a-bfdb414e25ba.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f2f58fcc-4c74-439c-bc81-9d81f54baa38.jpg"
-section1-content: "</p>At ENACFIRE they are committed to provide people with the best\
+section1-content: "</p>At EnacFire they are committed to provide people with the best\
   \ wireless audio products and build a totally wireless lifestyle! You don’t need\
   \ any skills to use E18 true wireless earbuds. They are easy to connect as they\
   \ are available for a connection whenever they are on unlike the traditional earbuds\
