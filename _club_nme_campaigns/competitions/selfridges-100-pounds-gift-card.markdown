@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-1ca749d4-1979-4810-bbcd-1c4e6f5da63a"
 type: "Competition"
-category: "Gifts"
+category: "Fashion"
 date: "2018-10-10T09:00:00.000Z"
 end-date: "2018-11-10T23:59:00.000Z"
 disable-form: false
