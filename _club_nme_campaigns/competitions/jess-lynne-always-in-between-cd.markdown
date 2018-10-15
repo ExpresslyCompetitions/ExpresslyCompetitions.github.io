@@ -1,7 +1,7 @@
 ---
 campaign-uuid: "c-0a727e1c-b9a4-48ad-9e78-0d1d2660e340"
 type: "Competition"
-category: "Gifts"
+category: "Music"
 date: "2018-09-18T13:00:00.000Z"
 end-date: "2018-10-18T23:59:00.000Z"
 disable-form: false
