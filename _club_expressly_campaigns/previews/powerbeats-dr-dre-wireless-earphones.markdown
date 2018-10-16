@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-093d8908-8c4a-46ae-baa4-982cf
 logo-left-href: "https://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-118d5480-0b70-4359-90b1-5f4809e0e26c.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-8bd4686f-ea6d-4e78-afe9-89813c887638.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ae3e35e2-319c-4d55-9add-e37c9542ec75.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-2753bcfd-9230-4174-9ba0-61605be1e2c9.jpg"
 section1-content: "</p>Powerbeats3 Wireless earphones are ready for any challenge\
   \ with up to 12 hours of battery life to fuel multiple long workouts and powerful,\
