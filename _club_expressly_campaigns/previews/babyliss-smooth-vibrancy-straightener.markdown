@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-09-17T09:00:00.000Z"
 end-date: "2018-09-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the BaByliss Smooth Vibrancy Straightener"
 competition-description: "<p>Nothing better than achieving beautiful salon sleek hair.\
