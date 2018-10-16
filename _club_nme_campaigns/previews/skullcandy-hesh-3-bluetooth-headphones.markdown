@@ -15,12 +15,19 @@ competition-description: "<p>Skullcandy is changing the way you listen to music,
 hero-header: "Win Skullcandy Hesh 3 Bluetooth Headphones!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d33135d1-1b67-461b-9b2e-dce754d918e5.jpg"
-logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-5d3ba7eb9252.jpg"
-logo-left-title: "NME AAA"
+logo-left-href: "https://www.skullcandy.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-fcf9547d-6daa-4abc-8f9d-afc91916e90b.jpg"
+logo-left-title: "Skullcandy"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f8aa68cc-ff6d-4d4e-a694-7ca61fe5572e.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-48ba8186-cebf-47ec-b217-27aa930fa29f.jpg"
-section1-content: "</p>With up to 22 hours of battery life and Rapid Charge technology,\
+bg-image-second: "https://assets.expresslyapp.com/asset-f7cad536-7ea6-4161-8b70-a4e15c721dd9.jpg"
+section1-content: "<p>Skullcandy is a global brand bringing the noise and pushing\
+  \ boundaries far and wide. They have successfully modernized audio and leveled the\
+  \ playing field by making high fidelity affordable and high style attainable!<p>Their\
+  \ goal is simple: innovate to solve real problems and democratize amazing audio\
+  \ experiences with quality and style. For people like you, like all of us. They\
+  \ inspire life at full volume!</p>"
+section2-content: "<p>With up to 22 hours of battery life and Rapid Charge technology,\
   \ Hesh 3 Wireless is designed to keep you listening all day long. A foldable design,\
   \ high-end audio drivers, and quality materials make them the perfect over-ear headphone\
   \ for any occasion. They are Wireless Perfection.</p>\r\n<p>Go-Anywhere Design,\
