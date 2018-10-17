@@ -6,42 +6,40 @@ title: Processing your entry
 
 <main role="main" class="container">
     <div class="row mb-4">
-        <div class="col-12 text-center">
+        {% if page.ad-processing-mpu-left %}
+        <div class="col-12 col-lg-3 text-center mb-2">
+            {% include {{ page.ad-processing-mpu-left}} %}
+        </div>
+        {% endif %}
+        <div class="col-12 col-lg text-center">
             <h2 class="my-4">{{page.title}}</h2>
             <p class="mb-5">
                 This is required to confirm your entry.
             </p>
             <p class="mb-2">
-                <img src="https://assets01.buyexpressly.com/club/img/trophy-gray.png" alt="" class="mx-auto mb-4 d-block" />
-
-			<script type="text/javascript">   
-				function Redirect() 
-				{  
-					window.location="{{club_base}}/thank-you-page";
-				} 
-				document.write("It will only take 5 seconds"); 
-				setTimeout('Redirect()', 5000);   
-			</script>
+                <img src="https://assets01.buyexpressly.com/club/img/trophy-gray.png" alt=""
+                     class="mx-auto mb-4 d-block"/>
+                It will only take 5 seconds.
             </p>
-
-            {% if page.ad-processing %}
-                <p>
-                    {% include {{ page.ad-processing}} %}
-                </p>
-            {% endif %}
-
-            {% if page.ad_include %}
-            {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
-            {% include {{ ad_include_path}} %}
-            {% endif %}
         </div>
+        {% if page.ad-processing-mpu-right %}
+        <div class="col-12 col-lg-3 text-center mb-2">
+            {% include {{ page.ad-processing-mpu-right}} %}
+        </div>
+        {% endif %}
     </div>
-	<script>
-(function(){
-	if(typeof _bsa !== 'undefined' && _bsa) {
-  		// format, zoneKey, segment:value, options
-  		_bsa.init('stickybox', 'CKYD623L', 'placement:demo');
-  	}
-})();
-</script>
+    <script type="text/javascript">
+        (function () {
+            if (typeof _bsa !== 'undefined' && _bsa) {
+                // format, zoneKey, segment:value, options
+                _bsa.init('stickybox', 'CKYD623L', 'placement:demo');
+            }
+        })();
+
+        function Redirect() {
+            window.location = "{{club_base}}/thank-you-page";
+        }
+
+        //setTimeout('Redirect()', 5000);
+    </script>
 </main>

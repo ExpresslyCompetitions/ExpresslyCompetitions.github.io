@@ -82,6 +82,8 @@ clubs:
       ad-base-gpt-tag: "ads/expressly/base-gpt-tag.html"
       ad-base-top-leaderboard: "ads/expressly/base-topleaderboard.html"
       ad-base-bottom-leaderboard: "ads/expressly/base-bottomleaderboard.html"
+      ad-processing-mpu-left: "ads/expressly/processing-mpu-left.html"
+      ad-processing-mpu-right: "ads/expressly/processing-mpu-right.html"
       ad-card-list:     "ads/expressly/card-list-ad-slot.html"
       ad-processing:     "ads/expressly/processing-ad-slot.html"
       ad-thank-you-1:     "ads/expressly/card-thank-you-ad-1-slot.html"
