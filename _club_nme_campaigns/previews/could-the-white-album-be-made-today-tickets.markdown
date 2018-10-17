@@ -23,7 +23,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e01af605-969b-460f-aa3d-c6381e972f29.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0245b528-3aa9-4aff-a2aa-7d41498508fa.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-48093e76-dccd-4585-9a1b-5626fbaccf72.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-cc8c5e03-c21e-4353-afcd-608984c2f8af.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-17e647f8-53f4-427a-a4a1-431ec3aeff95.jpg"
 section1-content: "In November 1968, millions of double LPs were shipped to record\
   \ stores worldwide ahead of that tumultuous year’s most anticipated music event:\
