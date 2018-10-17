@@ -1,0 +1,24 @@
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    googletag.cmd.push(function() {
+        var top_leaderboard_mapping = googletag.sizeMapping().
+        addSize([1024, 768], [970, 90],[728, 90]).
+        addSize([980, 690], [728, 90]).
+        addSize([0, 0], [320, 50]).
+        build();
+        var bottom_leaderboard_mapping = googletag.sizeMapping().
+        addSize([1024, 768], [970, 90],[728, 90]).
+        addSize([980, 690], [728, 90]).
+        addSize([0, 0], [320, 50]).
+        build();
+        googletag.defineSlot('/273427535/xly_club_allpages_leaderboard', [320, 50], 'base-topleaderboard').defineSizeMapping(top_leaderboard_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/273427535/xly_club_allpages_bottomleaderboard', [320, 50], 'base-bottomleaderboard').defineSizeMapping(bottom_leaderboard_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/273427535/xly_club_thankyou_MPU', [300, 250], 'div-gpt-ad-1539117313716-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>

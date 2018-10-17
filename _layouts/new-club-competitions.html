@@ -1,0 +1,92 @@
+---
+layout: new-club-layout
+---
+{% if page.type %}{% assign campaigns = site[page.campaigns] | where:"type",page.type %}
+{% else %}{% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
+{% endif %}
+{% if page.ad-script and page.ad-body %}
+{% assign main_bg = 'style="background-color: #ffffff !important;"' %}
+{% else %}
+{% assign main_bg = '' %}
+{% endif %}
+<main role="main" class="container" {{main_bg}}>
+    <div class="row header">
+        {% if page.title %}
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6">
+            <h4 class="d-xl-none">{{page.title}}</h4>
+        </div>
+        {% else %}
+        <div class="d-none d-md-flex col-sm-2 col-md-4 col-lg-6">
+            <h4>{{page.title}}</h4>
+        </div>
+        {% endif %}
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 align-self-end card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group mb-4 mb-sm-0">
+                    <select class="form-control card-filter">
+                        <option selected>All</option>
+                        {% assign categories = campaigns | map: "category" | sort | uniq  %}
+                        {% for category in categories  %}
+                        <option data-filter="{{category | slugify}}" data-direction="desc">{{category}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 align-self-end card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group mb-0">
+                    <select class="form-control card-sorter">
+                        <option data-source="posted" data-direction="desc">Posted (latest)</option>
+                        <option data-source="posted" data-direction="asc">Posted (oldest)</option>
+                        <option data-source="closes" data-direction="desc">Deadline (latest)</option>
+                        <option data-source="closes" data-direction="asc">Deadline (oldest)</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="competition-cards">
+        {% assign items = campaigns | where:"is_promoted",true | sort: 'date'  %}
+        {% assign past_epoch_seconds = site.time | date: '%s' | minus: 5184000  %}
+        {% assign ad_count = 0 %}
+        {% for item in items reversed  %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+                {% include club_competition_card.html item=item %}
+                {% assign ad_count = ad_count | plus: 1 %}
+                {% if ad_count < 3 and page.ad-card-list %}
+                    <div class="competition-card promoted advertisement">
+                        {% include {{page.ad-card-list}} %}
+                    </div>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+        {% if page.ad-card-list and ad_count < 2 %}
+            <div class="competition-card advertisement">
+                {% include {{page.ad-card-list}} %}
+            </div>
+        {% endif %}
+
+        {% assign items = campaigns | where:"is_promoted",false | sort: 'date'  %}
+        {% for item in items reversed  %}
+            {% assign end_date_seconds = item.end-date | date: '%s' | minus: 0 %}
+            {% if end_date_seconds > past_epoch_seconds %}
+                {% include club_competition_card.html item=item %}
+            {% endif %}
+        {% endfor %}
+
+        {% if page.ad-script and page.ad-content %}
+            {% include {{page.ad-content}} %}
+        {% endif %}
+
+        {% if page.ad_include %}
+            {% include {{page.ad_include}} %}
+            {% assign ad_include_path = page.ad_include | replace: 'list-top-ad', 'list-auto-ad' %}
+            {% include {{ ad_include_path}} %}
+        {% endif %}
+    </div>
+	<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+</main>
+
