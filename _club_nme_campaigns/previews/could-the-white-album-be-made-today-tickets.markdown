@@ -9,11 +9,11 @@ is_promoted: true
 has_entry_page: true
 title: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’ event!"
 competition-description: "<p>Celebrating the 50th Anniversary of the White Album,\
-  \ on November 7th, Matt Everitt, the famous radio presenter, producer and writer,\
-  \ leads a panel of journalists, broadcasters & artists to discuss how the White\
-  \ Album influenced a generation of musicians. We have managed to get our hands on\
-  \ 25 pairs of tickets to give away!</p>\r\n<p>Would you like to attend the event\
-  \ with us? Enter below for a chance to win.</p>"
+  \ on November 7th at YouTube Space, Kings Cross, London, Matt Everitt, the famous\
+  \ radio presenter, producer and writer, will lead a panel of journalists, broadcasters\
+  \ & artists to discuss how the White Album influenced a generation of musicians.\
+  \ We have managed to get our hands on 25 pairs of tickets to give away!</p>\r\n\
+  <p>Would you like to attend the event with us? Enter below for a chance to win.</p>"
 hero-header: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’\
   \ event!"
 terms-confirmation: "N/A"
@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-0cc6a5a0-169c-42c8-a82b-9984e
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-5d3ba7eb9252.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-42f260d5-f5f9-422a-a0f2-da7526962a27.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-a15d5a81-2044-4636-9513-61aff2f26aa9.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0245b528-3aa9-4aff-a2aa-7d41498508fa.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-48093e76-dccd-4585-9a1b-5626fbaccf72.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-17e647f8-53f4-427a-a4a1-431ec3aeff95.jpg"
