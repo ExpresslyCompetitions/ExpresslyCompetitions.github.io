@@ -6,7 +6,7 @@ title: Processing your entry
 
 <main role="main" class="container">
     <div class="row mb-4">
-        {% if page.ad-processing-mpu-left %}
+        {% if page.ad-base-gpt-tag and page.ad-processing-mpu-left %}
         <div class="col-12 col-lg-3 text-center mb-2">
             {% include {{ page.ad-processing-mpu-left}} %}
         </div>
@@ -22,7 +22,7 @@ title: Processing your entry
                 It will only take 5 seconds.
             </p>
         </div>
-        {% if page.ad-processing-mpu-right %}
+        {% if page.ad-base-gpt-tag and page.ad-processing-mpu-right %}
         <div class="col-12 col-lg-3 text-center mb-2">
             {% include {{ page.ad-processing-mpu-right}} %}
         </div>
