@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-d2af1f9f-74ae-4f72-a433-5d5ad66aa73b"
-type: "Preview"
+type: "Offer"
 category: "Tickets"
-date: "2018-10-12T13:00:00.000Z"
-end-date: "2018-11-12T23:59:00.000Z"
+date: "2018-10-15T13:00:00.000Z"
+end-date: "2018-10-31T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: false
 title: "Feel Sofar Sounds close to you!"
 competition-description: "<p>From living rooms to rooftops, restaurants to retails\
