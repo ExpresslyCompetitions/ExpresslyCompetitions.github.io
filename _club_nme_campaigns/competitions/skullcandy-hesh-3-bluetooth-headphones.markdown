@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-4e62ca07-a645-4aee-98e2-8d8fd11e05a6"
-type: "Preview"
+type: "Competition"
 category: "Technology"
-date: "2018-10-17T13:00:00.000Z"
+date: "2018-10-17T09:00:00.000Z"
 end-date: "2018-11-17T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Skullcandy Hesh 3 Bluetooth Headphones!"
 competition-description: "<p>Skullcandy is changing the way you listen to music, and\
