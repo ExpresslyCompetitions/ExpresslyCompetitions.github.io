@@ -20,7 +20,14 @@ logo-left-image: "https://assets.expresslyapp.com/asset-118d5480-0b70-4359-90b1-
 logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f48fb6cd-32ab-4ce7-83c1-fe736eec1638.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-6901ab5c-3cc2-47a5-9644-c7719813b627.jpg"
-section1-content: "</p>With up to 22 hours of battery life and Rapid Charge technology,\
+bg-image-second: "https://assets.expresslyapp.com/asset-9d0101c3-2dc2-4530-9831-77319739b64b.jpg"
+section1-content: "<p>Skullcandy is a global brand bringing the noise and pushing\
+  \ boundaries far and wide. They have successfully modernized audio and leveled the\
+  \ playing field by making high fidelity affordable and high style attainable!</p>\r\
+  \n<p>Their goal is simple: innovate to solve real problems and democratize amazing\
+  \ audio experiences with quality and style. For people like you, like all of us.\
+  \ They inspire life at full volume!</p>"
+section2-content: "</p>With up to 22 hours of battery life and Rapid Charge technology,\
   \ Hesh 3 Wireless is designed to keep you listening all day long. A foldable design,\
   \ high-end audio drivers, and quality materials make them the perfect over-ear headphone\
   \ for any occasion. They are Wireless Perfection.</p>\r\n<p>Go-Anywhere Design,\
@@ -31,7 +38,7 @@ entry-title: "Win Skullcandy Hesh 3 Bluetooth Headphones!"
 entry-content: "Enter the draw to win Skullcandy Hesh 3 Bluetooth Headphones! by completing\
   \ the form below before 23:59 on 17th of November 2018."
 has-winner: false
-prize-description: "Beats by Dr. Dre Powerbeats3 Wireless Earphones."
+prize-description: "Skullcandy Hesh 3 Bluetooth Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/skullcandy-hesh-3-bluetooth-headphones"
 ---
