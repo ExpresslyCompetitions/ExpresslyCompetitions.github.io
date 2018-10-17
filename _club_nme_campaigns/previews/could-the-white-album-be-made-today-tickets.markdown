@@ -17,11 +17,11 @@ competition-description: "<p>Celebrating the 50th Anniversary of the White Album
 hero-header: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’\
   \ event!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-0cc6a5a0-169c-42c8-a82b-9984e46dc26b.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-b0ebea3f-a240-488f-a15a-d1f4c6efc437.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-ec0076b1-3bee-419e-909c-5d3ba7eb9252.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-a15d5a81-2044-4636-9513-61aff2f26aa9.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-543cb5c7-15e7-40cc-bcad-8475f7304c9c.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0245b528-3aa9-4aff-a2aa-7d41498508fa.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-48093e76-dccd-4585-9a1b-5626fbaccf72.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-17e647f8-53f4-427a-a4a1-431ec3aeff95.jpg"
