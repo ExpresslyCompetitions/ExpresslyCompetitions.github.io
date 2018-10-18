@@ -1,0 +1,43 @@
+<!--TI MEDIA DFP SCRIPT-->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/18711560/nme/aaa', [[728, 90], [970, 250]], 'billboardSlot').addService(googletag.pubads());
+        googletag.defineSlot('/18711560/nme/aaa', [[300, 1050], [300, 250], [300, 600]], 'MPUSlot').addService(googletag.pubads());
+        googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+		googletag.pubads().setRequestNonPersonalizedAds(1);
+        googletag.enableServices();
+    });
+</script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    googletag.cmd.push(function() {
+        var top_leaderboard_mapping = googletag.sizeMapping().
+        addSize([1024, 768], [970, 90],[728, 90]).
+        addSize([980, 690], [728, 90]).
+        addSize([0, 0], [320, 50]).
+        build();
+        var bottom_leaderboard_mapping = googletag.sizeMapping().
+        addSize([1024, 768], [970, 90],[728, 90]).
+        addSize([980, 690], [728, 90]).
+        addSize([0, 0], [320, 50]).
+        build();
+        googletag.defineSlot('/273427535/nmeaaa_allpages_leaderboard', [320, 50], 'base_toplearderboard').defineSizeMapping(top_leaderboard_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/273427535/nmeaaa_allpages_bottomleaderboard', [320, 50], 'base_bottomleaderboard').defineSizeMapping(bottom_leaderboard_mapping).addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+

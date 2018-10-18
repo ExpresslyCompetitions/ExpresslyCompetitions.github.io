@@ -11,6 +11,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="Conversant" content="verification260918">
     <title>
         {% if page.title and page.title != "" %}{{ page.title }} | {% endif %}
         {{page.club-name}}
@@ -20,8 +21,12 @@
     <link rel="stylesheet" href="https://assets01.buyexpressly.com/lib/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://assets01.buyexpressly.com/lib/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
+    {% if page.consent-script == nil %}
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    {% endif %}
+
     {% if page.css %}
-    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=14"/>
+    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=15"/>
     {% else %}
     <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=77"/>
     {% endif %}
@@ -31,6 +36,8 @@
     <script>
         if (document.location.href.indexOf('https://nme.buyexpressly.com') === 0) {
             document.location.href = document.location.href.replace('https://nme.buyexpressly.com', '{{page.club_url}}');
+        } else if (document.location.href.indexOf('https://club.buyexpressly.com') === 0) {
+            document.location.href = document.location.href.replace('https://club.buyexpressly.com', '{{page.club_url}}');
         } else {
             var profile = null;
             var entriesMap = {};
@@ -254,6 +261,26 @@
 
 {% if page.consent-script %}
     {% include {{page.consent-script}} %}
+{% else %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#000"
+                    },
+                    "button": {
+                        "background": "#f1d600"
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "link": "More Info",
+                    "href": "{{club_base}}/privacy"
+                }
+            })});
+    </script>
 {% endif %}
 
 <!-- Script to handle ad display on thank you page -->

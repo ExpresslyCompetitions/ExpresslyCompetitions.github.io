@@ -261,7 +261,9 @@ body {
 }
 
 .billboard-ad-container {
-  background: #f7f7f7;
+  &.top-billboard {
+    background: #f7f7f7;
+  }
 }
 
 #club-nav-container {
