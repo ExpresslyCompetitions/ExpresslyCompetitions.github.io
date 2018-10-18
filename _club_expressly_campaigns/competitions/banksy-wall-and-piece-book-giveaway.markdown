@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-679ef9a8-6245-495e-bd6c-318dcd3880f2"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-10-18T11:00:00.000Z"
 end-date: "2018-11-18T23:59:00.000Z"
