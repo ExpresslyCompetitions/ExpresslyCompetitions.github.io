@@ -27,7 +27,7 @@ section1-content: "<p>This edition contains 600 questions based on all your favo
   \ bamboozled. The game is handy for any Friends fan on the go, requiring no board\
   \ and an easy to carry around in its bitesize wedge case.</p>\r\n<p>Fascinating,\
   \ puzzling and captivating questions that will test your knowledge and memory! Think\
-  \ no more an enter the form below for a chance to win this fun game now!</p>\r\n\
+  \ no more and enter the form below for a chance to win this fun game now!</p>\r\n\
   <p>Good luck!</p>"
 entry-title: "Win Friends Trivial Pursuit Quiz Game!"
 entry-content: "Enter the draw to win Friends Trivial Pursuit Quiz Game by completing\
