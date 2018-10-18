@@ -120,9 +120,9 @@ clubs:
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
       domain-migrations-enabled: false
-      ad-base-gpt-tag: "ads/expressly/base-gpt-tag.html"
-      ad-base-top-leaderboard: "ads/expressly/base-topleaderboard.html"
-      ad-base-bottom-leaderboard: "ads/expressly/base-bottomleaderboard.html"
+      ad-base-gpt-tag: "ads/nme/base-gpt-tag.html"
+      ad-base-top-leaderboard: "ads/nme/base-topleaderboard.html"
+      ad-base-bottom-leaderboard: "ads/nme/base-bottomleaderboard.html"
 #      ad-script: "ads/nme/ad-script.html"
       ad-top: "ads/nme/top-ad-slot.html"
 #      ad-content: "ads/nme/content-ad-slot.html"
