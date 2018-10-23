@@ -46,6 +46,10 @@ entry-content: "Enter the draw to win one of 3 bundles of John Carpenter’s 4K 
   \ by completing the form below before 23:59 on 1st of November 2018."
 has-winner: false
 prize-description: "One of 3 bundles of John Carpenter’s 4K Restorations.\r\nEach\
-  \ winner will be randomly assigned 1 of the 3 bundles."
+  \ winner will be randomly assigned 1 of the 3 bundles.\r\nBundles are: \r\n1x THE\
+  \ FOG T shirt, ESCAPE FROM NEW YORK T shirt, a copy of ANTHOLOGY: MOVIES THEMES\
+  \ 1974-1998 on vinyl, a keyring, 4 newly designed posters for THE FOG, ESCAPE FROM\
+  \ NEW YORK, THEY LIVE and PRINCE OF DARKNESS and a set of 6 postcards.\r\n2x A copy\
+  \ of THE FOG on Blu-Ray and a T-shirt."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
