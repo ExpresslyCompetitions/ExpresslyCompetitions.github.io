@@ -39,8 +39,8 @@ section2-content: "<p>To mark the release, STUDIOCANAL is offering one reader th
   \ THEY LIVE and PRINCE OF DARKNESS and a set of 6 postcards! PLUS that’s not all\
   \ two runners up will win a bundle of THE FOG on Blu-Ray and a T-shirt.</p>"
 section3-content: "<p>Think no more and enter the form below for a chance of win one\
-  \ of the 3 bundles that we are giving way to 3 lucky NME AAA members! Hurry up and\
-  \ it could be yours!</p>\r\n<p>Good luck!</p>"
+  \ of the 3 bundles that we are giving away to 3 lucky NME AAA members! Hurry up\
+  \ and it could be yours!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 3 bundles of John Carpenter’s 4K Restorations!"
 entry-content: "Enter the draw to win one of 3 bundles of John Carpenter’s 4K Restorations\
   \ by completing the form below before 23:59 on 1st of November 2018."
