@@ -2,8 +2,8 @@
 campaign-uuid: "c-46c177ad-1911-44c7-9e0f-4d6ce2c610bc"
 type: "Preview"
 category: "Gifts"
-date: "2018-09-05T09:00:00.000Z"
-end-date: "2018-11-07T23:59:00.000Z"
+date: "2018-10-24T09:00:00.000Z"
+end-date: "2018-11-24T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>Bring a touch of luxury to your kitchen with the Breville 
   \ breakfast with Breville everyday.</p>"
 entry-title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 entry-content: "Enter the draw to Win Breville Strata Luminere Platinum 2 Slice Toasterby\
-  \ completing the form below before 23:59 on 7th of November 2018."
+  \ completing the form below before 23:59 on 24th of November 2018."
 has-winner: false
 prize-description: "Breville Strata Luminere Platinum 2 Slice Toaster"
 special-conditions: "Multiple entries are allowed up to one every day."
