@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-d0dab9e2-1b90-4d02-bc79-ab726
 logo-left-href: "https://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-8949bd2c-f6fc-423c-bc4d-70510fa14dbc.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-7a715773-2a6d-4cc2-90ab-74b1c8923445.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-068c2dba-03f5-4fd0-8b18-5f219917df6d.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8202744e-434d-4f28-8f62-6b0369e366c2.jpg"
 section1-content: "<p>Don’t stop listening your favourite tunes with this bluetooth\
   \ speaker, up to 10 hours of music play! Bluetooth Speaker + Touch Lamp + Alarm\
