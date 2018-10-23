@@ -21,14 +21,12 @@ logo-left-image: "https://assets.expresslyapp.com/asset-8949bd2c-f6fc-423c-bc4d-
 logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-907bd58d-92f9-46fe-8f59-e72bbe32f486.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8202744e-434d-4f28-8f62-6b0369e366c2.jpg"
-section1-content: "<p>This amazing lamp can turn into different colours after your\
-  \ like, they can also be dimmed for extra romance feeling. They can make you sleep\
-  \ better and release your stress from a hectic day.</p>\r\n<p>Don’t stop listening\
-  \ your favourite tunes with this bluetooth speaker, up to 10 hours music play! Bluetooth\
-  \ Speaker + Touch Lamp + Alarm Clock + MP3 Player - All in 1! Listening to audio\
-  \ books in the bedroom at night, or playing music while cooking, this product will\
-  \ go everywhere with you, and literally, brighten your everyday!</p>\r\n<p>Enter\
-  \ the form below for a chance to win and it could be coming home to you! Good luck!</p>"
+section1-content: "<p>Don’t stop listening your favourite tunes with this bluetooth\
+  \ speaker, up to 10 hours of music play! Bluetooth Speaker + Touch Lamp + Alarm\
+  \ Clock + MP3 Player - All in 1! Listening to audio books in the bedroom at night,\
+  \ or playing music while cooking, this product will go everywhere with you, and\
+  \ literally, brighten your everyday!</p>\r\n<p>Enter the form below for a chance\
+  \ to win and it could be coming home to you! Good luck!</p>"
 entry-title: "Win Elecstars Bluetooth Speaker with Night Light!"
 entry-content: "Enter the draw to win Elecstars Bluetooth Speaker with Night Light\
   \ by completing the form below before 23:59 on 23th of November 2018."
