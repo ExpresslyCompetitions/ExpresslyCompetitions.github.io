@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-00fa43b2-4586-493e-87e9-0ef4c
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-8f236b9c-775c-444a-826e-c96d0168fa00.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-61a9121d-0281-4876-98eb-8e6091d9b008.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-23320b9d-5012-4ed4-842c-c568e4e16caa.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d1ab4e28-2682-4455-b612-b5d49d397563.jpg"
 section1-content: "<p>Don’t stop listening your favourite tunes with this bluetooth\
   \ speaker, up to 10 hours of music play! Bluetooth Speaker + Touch Lamp + Alarm\
