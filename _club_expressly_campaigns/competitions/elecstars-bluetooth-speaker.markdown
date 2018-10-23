@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-409de47b-0348-4412-8233-6319dd8a0ec0"
-type: "Preview"
+type: "Competition"
 category: "Technology"
 date: "2018-10-23T12:00:00.000Z"
 end-date: "2018-11-23T23:59:00.000Z"
@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-d0dab9e2-1b90-4d02-bc79-ab726
 logo-left-href: "https://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-8949bd2c-f6fc-423c-bc4d-70510fa14dbc.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-068c2dba-03f5-4fd0-8b18-5f219917df6d.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ba37c2ed-8d2b-433c-828a-92a8d4225ba8.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8202744e-434d-4f28-8f62-6b0369e366c2.jpg"
 section1-content: "<p>Don’t stop listening your favourite tunes with this bluetooth\
   \ speaker, up to 10 hours of music play! Bluetooth Speaker + Touch Lamp + Alarm\
