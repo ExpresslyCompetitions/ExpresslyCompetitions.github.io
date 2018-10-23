@@ -9,11 +9,12 @@ is_promoted: true
 has_entry_page: true
 title: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’ event!"
 competition-description: "<p>Celebrating the 50th Anniversary of the White Album,\
-  \ on November 7th at YouTube Space, Kings Cross, London, Matt Everitt, the famous\
-  \ radio presenter, producer and writer, will lead a panel of journalists, broadcasters\
-  \ & artists to discuss how the White Album influenced a generation of musicians.\
-  \ We have managed to get our hands on 25 pairs of tickets to give away!</p>\r\n\
-  <p>Would you like to attend the event with us? Enter below for a chance to win.</p>"
+  \ Matt Everitt leads a panel of journalists, broadcasters & artists to discuss how\
+  \ the White Album has influenced musicians since and asks whether in a world of\
+  \ snackable content, playlists and short attention spans, an artist would ever dare\
+  \ release such a diverse body of work now. We have managed to get our hands on 25\
+  \ pairs of tickets to give away!</p>\r\n<p>Would you like to attend the event with\
+  \ us? Enter below for a chance to win.</p>"
 hero-header: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’\
   \ event!"
 terms-confirmation: "N/A"
@@ -37,12 +38,12 @@ section2-content: "On November 9, The Beatles will release a suite of lavishly p
   \ of which are previously unreleased in any form. This is the first time The BEATLES\
   \  White Album has been remixed and presented with additional demos and session\
   \ recordings."
-section3-content: "<p>In order to celebrate the 50th Anniversary of the White Album,\
-  \ on November 7th at YouTube Space, Kings Cross, London, Matt Everitt, will lead\
-  \ a panel of journalists, broadcasters & artists to discuss how the White Album\
-  \ influenced a generation of musicians and ask whether in a world of snackable content,\
-  \ playlists and short attention spans an artist would ever dare release such a diverse\
-  \ body of work.</p>\r\n<p>If you don’t want to miss this event, enter the form below\
+section3-content: "<p>Celebrating the 50th Anniversary of the White Album, on November\
+  \ 7th at the YouTube Space, Kings Cross, London, Matt Everitt, will lead a panel\
+  \ of journalists, broadcasters & artists to discuss how the White Album has influenced\
+  \ musicians since and asks whether in a world of snackable content, playlists and\
+  \ short attention spans, an artist would ever dare release such a diverse body of\
+  \ work now.</p>\r\n<p>If you don’t want to miss this event, enter the form below\
   \ for a chance to win one of 25 pairs of tickets and you could be coming to ‘Could\
   \ the White Album be made today?’ event with us!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’\
