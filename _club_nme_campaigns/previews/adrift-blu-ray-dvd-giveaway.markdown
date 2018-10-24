@@ -23,7 +23,7 @@ logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-ebabeb1e-a2e1-46bb-8d8b-cb56d5180ec1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-4a7df765-1d2d-4e08-b189-c6a3f5c56ee2.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-5a963ae3-8581-45ac-9c25-68e87534cad3.jpg"
-section1-content: "<p>ADRIFT is based on the inspiring true story of two free spirits\
+section1-content: "<p>Adrift is based on the inspiring true story of two free spirits\
   \ whose chance encounter leads them first to love, and then to the adventure of\
   \ a lifetime.</p>\r\n<p>As the two avid sailors set out on a journey across the\
   \ ocean, Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn’t anticipate they\
