@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-46c177ad-1911-44c7-9e0f-4d6ce2c610bc"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2018-10-24T09:00:00.000Z"
 end-date: "2018-11-24T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 competition-description: "<p>The Breville Strata Luminere Platinum 2 Slice Toaster\
