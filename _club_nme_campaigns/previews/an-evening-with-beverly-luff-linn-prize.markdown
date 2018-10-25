@@ -21,7 +21,7 @@ hero-header: "Win one of 3 bundles of An Evening With Beverly Luff-Linn!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d7acf22a-81a3-4ec3-b31b-986ee4965586.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-b4600886-b2dc-44e4-8ae4-6d2b4da86390.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-e75736ab-3d99-4630-bb78-ddbe5e82398c.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-34289e43-2de6-432b-9921-3003246f2572.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-67486fdf-e0ae-432f-b0ba-29518af71f2d.jpg"
@@ -44,6 +44,7 @@ entry-title: "Win one of 3 bundles of An Evening With Beverly Luff-Linn!"
 entry-content: "Enter the draw to win one of 3 bundles of An Evening With Beverly\
   \ Luff-Linn by completing the form below before 23:59 on 2nd of November 2018."
 has-winner: false
-prize-description: "One of 3 bundles of An Evening With Beverly Luff-Linn."
+prize-description: "One of 3 bundles of An Evening With Beverly Luff-Linn. including:\
+  \ the official Blu-Ray, a poster & a soundtrack download of the movie."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
