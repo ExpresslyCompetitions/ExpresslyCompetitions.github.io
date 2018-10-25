@@ -11,12 +11,13 @@ title: "Win one of 3 bundles of An Evening With Beverly Luff-Linn!"
 competition-description: "<p>An Evening With Beverly Luff-Linn, the ‘screwball Odyssey\
   \ into the absurd’ from director Jim Hosking (the warped mind that brought you The\
   \ Greasy Strangler) starring Aubrey Plaza, Jemaine Clement and Matt Berry is out\
-  \ in UK cinemas now and on DVD and Blu-Ray on October 29.</p>\r\n<p>We are giving\
-  \ away 3 bundles full of goodies from the movie to 3 lucky NME AAA members to win,\
-  \ including: the official Blu-Ray, a poster & the soundtrack download of the movie!</p>\
-  \ <p>If you can’t wait to watch it, enter below for a chance to win and if you want\
-  \ to see the trailer, find out where the film is playing and pre order, click <a\
-  \ href=\"https://whoisbeverlylufflinn.com\">here!</a>"
+  \ in UK cinemas now and on DVD and Blu-Ray on October 29. The soundtrack will be\
+  \ released digitally on October 19th and on vinyl from December 7th</p>\r\n<p>We\
+  \ are giving away 3 bundles full of goodies from the movie to 3 lucky NME AAA members\
+  \ to win, including: the official Blu-Ray, a poster & the soundtrack download of\
+  \ the movie!</p> <p>If you can’t wait to watch it, enter below for a chance to win\
+  \ and if you want to see the trailer, find out where the film is playing and pre\
+  \ order, click <a href=\"https://whoisbeverlylufflinn.com\">here!</a>"
 hero-header: "Win one of 3 bundles of An Evening With Beverly Luff-Linn!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d7acf22a-81a3-4ec3-b31b-986ee4965586.jpg"
