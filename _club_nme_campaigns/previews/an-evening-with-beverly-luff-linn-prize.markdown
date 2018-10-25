@@ -35,7 +35,7 @@ section1-content: "After getting fired from the cappuccino shop run by her schem
   \ to retrieve the stolen funds. But Lulu seizes the opportunity to run off in search\
   \ of her mystery man - and events only get crazier from there…"
 section2-content: "<p>To celebrate the release of the hilarious movie: An Evening\
-  \ With Beverly Luff-Linn we have 3 bundles with the film on Blu-Ray, posters and\
+  \ With Beverly Luff-Linn, we have 3 bundles with the film on Blu-Ray, posters and\
   \ downloads of the amazing soundtrack by Andy Hung (The F**ck Buttons) to give away\
   \ to 3 lucky NME readers!</p>\r\n<p>Want it to be yours? Think no more and enter\
   \ the form below for a chance to win and enjoy this funny comedy!</p>\r\n<p>Good\
