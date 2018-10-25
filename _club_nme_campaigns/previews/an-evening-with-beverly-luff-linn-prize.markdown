@@ -37,7 +37,7 @@ section1-content: "After getting fired from the cappuccino shop run by her schem
 section2-content: "<p>To celebrate the release of the hilarious movie: An Evening\
   \ With Beverly Luff-Linn, we have 3 bundles with the film on Blu-Ray, posters and\
   \ downloads of the amazing soundtrack by Andy Hung (The F**ck Buttons) to give away\
-  \ to 3 lucky NME readers!</p>\r\n<p>Want it to be yours? Think no more and enter\
+  \ to 3 lucky NME AAA readers!</p>\r\n<p>Want it to be yours? Think no more and enter\
   \ the form below for a chance to win and enjoy this funny comedy!</p>\r\n<p>Good\
   \ luck!</p>"
 entry-title: "Win one of 3 bundles of An Evening With Beverly Luff-Linn!"
