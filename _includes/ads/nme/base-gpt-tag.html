@@ -28,8 +28,14 @@
 </script>
 <script>
     googletag.cmd.push(function() {
-        var top_leaderboard_mapping = googletag.sizeMapping().addSize([980, 690], [728, 90]).addSize([0, 0], [320, 50]).build();
-        var bottom_leaderboard_mapping = googletag.sizeMapping().addSize([980, 690], [728, 90]).addSize([0, 0], [320, 50]).build();
+        var top_leaderboard_mapping = googletag.sizeMapping().
+            addSize([730, 200], [728, 90]).
+            addSize([0, 0], [320, 50]).
+            build();
+        var bottom_leaderboard_mapping = googletag.sizeMapping().
+            addSize([730, 200], [728, 90]).
+            addSize([0, 0], [320, 50]).
+            build();
         googletag.defineSlot('/273427535/nmeaaa_allpages_leaderboard', [320, 50], 'base_toplearderboard').defineSizeMapping(top_leaderboard_mapping).addService(googletag.pubads());
         googletag.defineSlot('/273427535/nmeaaa_allpages_bottomleaderboard', [320, 50], 'base_bottomleaderboard').defineSizeMapping(bottom_leaderboard_mapping).addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
@@ -37,6 +43,6 @@
     });
 </script>
 
-<!-- temporarily removed from above: 
+<!-- temporarily removed from above:
         addSize([1024, 768], [970, 250],[970, 90],[728, 90]).
 -->
