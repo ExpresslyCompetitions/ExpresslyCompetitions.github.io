@@ -7,13 +7,13 @@ end-date: "2018-11-26T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Rod Stewart Blood Red Roses!"
+title: "Win Rod Stewart Blood Red Roses CD!"
 competition-description: "<p>We have in our hands the deeply personal collection of\
-  \ recently-written Stewart originals, with the added bonus of three superb new covers.\
-  \ Blood Red Roses is a great bunch of songs presented, with a winning flourish,\
+  \ recently-written Stewart originals, with the added bonus of three superb new covers:\
+  \ Blood Red Roses CD, a great bunch of songs presented, with a winning flourish,\
   \ in Stewart’s unmistakable style.</a> \r\n<p>Are you Rod’s biggest fan? Click below\
   \ for a chance to win!</p>"
-hero-header: "Win Rod Stewart Blood Red Roses!"
+hero-header: "Win Rod Stewart Blood Red Roses CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-2141f28d-037f-4e39-8fe8-c2ce17876a13.jpg"
 logo-left-href: "aaa.nme.com"
@@ -28,13 +28,13 @@ section1-content: "<p>We are more than familiar with Rod Stewart’s singing voi
   \ inspiration has returned in full and the creative juices, and songs, have been\
   \ flowing. The new songs fearlessly address life’s thornier issues from first infatuation\
   \ to our final words to a friend, and all the agonies and ecstasies along the way.</p>\r\
-  \n<p>Looking forward to hearing Rod’s songs? Enter the form below for a chance ton\
-  \ win and enjoy his lovely warm rasp voice anywhere!</p>"
-entry-title: "Win Rod Stewart Blood Red Roses!"
+  \n<p>Looking forward to hearing Rod’s songs? Enter the form below for a chance to\
+  \ win Rod Stewart Blood Red Roses CD and enjoy his lovely warm rasp voice anywhere!</p>"
+entry-title: "Win Rod Stewart Blood Red Roses CD!"
 entry-content: "Enter the draw to win Rod Stewart Blood Red Roses by completing the\
   \ form below before 23:59 on 26th of November 2018."
 has-winner: false
-prize-description: "Rod Stewart Blood Red Roses."
+prize-description: "Rod Stewart Blood Red Roses CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/rod-stewart-blood-red-roses-giveaway"
 ---
