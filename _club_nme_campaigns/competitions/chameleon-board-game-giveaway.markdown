@@ -33,7 +33,9 @@ section1-content: "<p>Everyone knows the secret word for the round except for th
 entry-title: "Win The Chameleon: Multi Award-Winning Board Game!"
 entry-content: "Enter the draw to win The Chameleon: Multi Award-Winning Board Game\
   \ by completing the form below before 23:59 on 7th of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "Congratulations to Alasdair M. who won The Chameleon Board Game!"
+winner-banner: "https://assets.expresslyapp.com/asset-2be2bd1b-c4ae-4fca-8a6e-83df11fea2aa.jpg"
 prize-description: "The Chameleon: Multi Award-Winning Board Game!"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
