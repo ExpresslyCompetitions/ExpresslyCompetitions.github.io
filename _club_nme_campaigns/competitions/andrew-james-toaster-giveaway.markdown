@@ -31,7 +31,9 @@ section1-content: "<p>The stylish Lumiglo Toaster from Andrew James not only loo
 entry-title: "Win the Andrew James Lumiglo Toaster 2 Slice!"
 entry-content: "Enter the draw to win Andrew James Lumiglo Toaster 2 Slice by completing\
   \ the form below before 23:59 on 2nd of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "Congratulations to Alison J. who won the Andrew James Toaster!"
+winner-banner: "https://assets.expresslyapp.com/asset-732d2352-8b08-4cf7-ac17-eace45e25593.jpg"
 prize-description: "Andrew James Lumiglo Toaster 2 Slice"
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
