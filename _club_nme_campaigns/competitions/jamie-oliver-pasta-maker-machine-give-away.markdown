@@ -30,7 +30,10 @@ section1-content: "<p>With the luxury pasta maker from Jamie Oliver you can quic
 entry-title: "Win Jamie Oliver Pasta Maker Machine!"
 entry-content: "Enter the draw to win Jamie Oliver Pasta Maker Machine and enjoy quick\
   \ and fresh pasta by completing the form below before 23:59 on 5th of August 2018."
-has-winner: false
+has-winner: true
+winner-title: "Congratulations to Elzbieta Z. who won the amazing Jamie Oliver Pasta\
+  \ Maker Machine."
+winner-banner: "https://assets.expresslyapp.com/asset-2bbb4efd-f4e9-4ff7-9917-9281ebd04416.jpg"
 prize-description: "Jamie Oliver Pasta Maker Machine."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
