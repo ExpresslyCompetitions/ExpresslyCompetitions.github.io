@@ -123,6 +123,8 @@ clubs:
       ad-base-gpt-tag: "ads/nme/base-gpt-tag.html"
       ad-base-top-leaderboard: "ads/nme/base-topleaderboard.html"
       ad-base-bottom-leaderboard: "ads/nme/base-bottomleaderboard.html"
+      ad-processing-mpu-left: "ads/nme/processing-mpu-left.html"
+      ad-processing-mpu-right: "ads/nme/processing-mpu-right.html"
 #      ad-script: "ads/nme/ad-script.html"
       ad-top: "ads/nme/top-ad-slot.html"
 #      ad-content: "ads/nme/content-ad-slot.html"
