@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-a701be83-cf54-4a99-af5a-44d61
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-5e2d1ad4-99ba-4c45-8deb-5f265abdc839.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-7b46f9c4-c1f1-43a5-b768-20be9be4ec08.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-a7bd6407-a006-4590-a93b-9deaa86b1a0e.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-990bfa60-db4e-4f3a-943a-74b491d67a31.jpg"
 section1-content: "<p>This fragrance is dedicated to a mysterious woman, a vamp. Soft\
   \ and powdery violet, green lime and green banana notes open this romantic composition.\
