@@ -30,9 +30,9 @@ section1-content: "<p>Hugh Jackman leads an all-star cast in this bold and origi
   \ Greatest Showman touches on another idea of these times: that of chosen families\
   \ built around allowing people to express who they are without reservation. “A big\
   \ idea in the film is that your real wealth is the people that you surround yourself\
-  \ with and the people who love you,”…</p>\r\n<p>We love YOU as much as this musical\
-  \ that’s why we want it give a copy on Blu-ray for you! Enter the form below for\
-  \ a chance to win! Good luck!</p>"
+  \ with and the people who love you,”…</p>\r\n<p>... We love YOU as much as this\
+  \ musical that’s why we want it give a copy on Blu-ray for you! Enter the form below\
+  \ for a chance to win! Good luck!</p>"
 entry-title: "Win The Greatest Showman on Blu-ray!"
 entry-content: "Enter the draw to win The Greatest Showman on Blu-ray by completing\
   \ the form below before 23:59 on 1st of December 2018."
