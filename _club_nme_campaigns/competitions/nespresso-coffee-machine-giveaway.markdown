@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-09-24T11:00:23.000Z"
 end-date: "2018-10-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Nespresso Inissia Coffee Machine"
 competition-description: "<p>Every Nespresso cup has the potential to deliver a moment\
