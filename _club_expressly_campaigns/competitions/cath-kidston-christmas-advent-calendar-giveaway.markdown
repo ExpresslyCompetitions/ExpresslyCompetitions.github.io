@@ -24,7 +24,7 @@ section1-content: "<p>Countdown to Christmas with a gorgeous gift every day from
   \ brand new Cath Kidston advent calendar. Behind each window you'll find a deliciously-scented,\
   \ luxurious beauty treat, from hand cream to lip balm, soap to body scrub, in a\
   \ selection of pretty prints and fragrances.</p>\r\n<p>Click below for a chance\
-  \ to win Cath Kidston Christmas Advent Calendar an get ready to explore the world\
+  \ to win Cath Kidston Christmas Advent Calendar and get ready to explore the world\
   \ of Cath Kidston bath and body product now!</p>"
 entry-title: "Win Cath Kidston Christmas Advent Calendar 2018!"
 entry-content: "Enter the draw to win Cath Kidston Christmas Advent Calendar 2018\
