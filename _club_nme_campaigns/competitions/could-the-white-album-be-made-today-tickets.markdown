@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-10-18T09:00:00.000Z"
 end-date: "2018-10-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 25 pairs of tickets to ‘Could the White Album be made today?’ event!"
 competition-description: "<p>Celebrating the 50th Anniversary of the White Album,\
