@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-10-24T09:00:00.000Z"
 end-date: "2018-11-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win one of 3 bundles of John Carpenter’s 4K Restorations!"
 competition-description: "<p>Just in time for Halloween, a brand new 4K restoration\
