@@ -21,12 +21,13 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-6db42909-8824-4640-8ea2-e93ccc245e9b.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-decd17ff-6a6e-496e-b0a0-929dbd7f911a.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-b3e14bd9-d9f4-4d30-8b3f-81a610f948aa.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-7ec51634-1eaf-4feb-abe1-c89cf2eac89b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-c593a079-6a6e-4726-9cff-73b8852a0666.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-63c4d88d-3cec-49dd-bf61-c4876813f616.jpg"
 section1-content: "<p>Ahead of the release of their forthcoming DJ-Kicks mix, electronic\
   \ pioneers Mount Kimbie are curating a super special night on November 17th alongside\
-  \ Trip label boss Nina Kraviz and the eclectic Ben UFO.</p>\r\n <p>And the Ginporium?</p>"
+  \ Trip label boss Nina Kraviz and the eclectic Ben UFO at Printworks London.</p>\r\
+  \n <p>And the Ginporium?</p>"
 section2-content: "Serving up game-changing gin flavours such as the BULLDOG G, T\
   \ & Turbo Tea (with Matcha green tea) alongside the classic BULLDOG Gin & Tonic\
   \ (garnished with blackberries), this bespoke bar will deliver a ginspired experience\
