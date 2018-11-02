@@ -7,15 +7,15 @@ end-date: "2018-12-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance in the\
-  \ UK!"
+title: "[DEMO] Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
+  \ in the UK!"
 competition-description: "<p>Are you the kind of person that loves going to concerts\
   \ and discovering new artists & places? If the answer is YES, we’re sure you won’\
   t want to miss this: we are giving away 20 pairs of tickets to a Sofar Sounds concert\
   \ of your choice anywhere in the UK!</p>\r\n<p>Passionate, dedicated, respectful…\
   \ thousands of artists have performed to Sofar guests! If you want to be part of\
   \ it and be one of them, click on the link below for a chance to win!</p>"
-hero-header: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
+hero-header: "[DEMO] Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
   \ in the UK!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-97887173-0f73-4434-89a2-b0ad3851a10c.jpg"
@@ -48,7 +48,7 @@ section3-content: "<p>Attend one of their amazing secret concerts, and it could 
   \ the best plan of your weekend!</p>\r\n<p>Thanks to NME AAA and Sofar Sounds we\
   \ are offering 20 pairs of tickets to a Sofar Sounds concert of your choice anywhere\
   \ in the UK.</p> \r\n<p>Good luck!</p>"
-entry-title: "Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
+entry-title: "[DEMO] Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
   \ in the UK!"
 entry-content: "Enter the draw to win one of 20 pairs of tickets to a Sofar Sounds\
   \ secret concert of your choice by completing the form below before 23:59 on 25th\
