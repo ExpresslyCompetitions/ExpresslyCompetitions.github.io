@@ -20,7 +20,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-797f0204-cfe3-4461-8881-
 logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-5ea5a8a0-b51e-4ae5-8a5a-14123edc6b9d.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-7ee7a6ef-d9ce-414c-87b1-2c38fe6cbf22.jpg"
-section1-content: "<p>Countdown to Christmas with a gorgeous gift every day from our\
+section1-content: "<p>Countdown to Christmas with a gorgeous gift every day from the\
   \ brand new Cath Kidston advent calendar. Behind each window you'll find a deliciously-scented,\
   \ luxurious beauty treat, from hand cream to lip balm, soap to body scrub, in a\
   \ selection of pretty prints and fragrances.</p>\r\n<p>Click below for a chance\
