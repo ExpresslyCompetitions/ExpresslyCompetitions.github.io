@@ -39,4 +39,10 @@ entry-content: "Enter the draw to win a pair of gig tickets with BULLDOG Gin! by
   \ the form below before 23:59 on 13th of November 2018."
 has-winner: false
 prize-description: "A pair of gig tickets with BULLDOG Gin."
+prize-restrictions: "The winner(s) are responsible for expenses and arrangements not\
+  \ specifically included in the prize, including any necessary travel documents,\
+  \ passports and visas."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nWinners\
+  \ will be notified by email on or before 15 November. Prizes will be dispatched\
+  \ on or before 15 November by email."
 ---
