@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-06f5c9e2-1cb7-48e0-8c29-4e734
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-02790af8-f8c1-41a3-8882-acdc454682a9.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-d5de726f-d7b1-4e6e-848d-9e8bb5ea7b9c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-d1cdc9cd-a238-4f25-94c5-cb6d58a82cfb.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-cf354445-9874-493e-9c42-01a210ba60ac.jpg"
 section1-content: "<p>Sí is an album about heart and soul, positivity and family,\
   \ melody and magic. And for that reason, Bocelli chose the strong, simple title.\
