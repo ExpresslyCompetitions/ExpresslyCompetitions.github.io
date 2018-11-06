@@ -28,7 +28,7 @@ section1-content: "<p>The Crosstour Wifi Action Camera takes you to explore a di
   \ new camera has it all! Be prepare to start your new adventure now and get ready\
   \ to explore and discover all the features this amazing action camera has for you.</p>\r\
   \n<p>Enter the form below for a chance to win it now and you will never miss any\
-  \ precious moments.!</p>"
+  \ precious moments!</p>"
 entry-title: "Win The Crosstour Wifi Action Camera Full HD!"
 entry-content: "Enter the draw to win The Crosstour Wifi Action Camera Full HD by\
   \ completing the form below before 23:59 on 6th of December 2018."
