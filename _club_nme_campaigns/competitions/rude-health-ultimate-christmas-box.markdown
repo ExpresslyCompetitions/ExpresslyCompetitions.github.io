@@ -3,7 +3,7 @@ campaign-uuid: "c-d62e4895-33bc-4f19-a0bf-4631e1a33201"
 type: "Competition"
 category: "Food"
 date: "2018-11-07T12:00:00.000Z"
-end-date: "2019-12-16T23:59:00.000Z"
+end-date: "2018-12-16T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
