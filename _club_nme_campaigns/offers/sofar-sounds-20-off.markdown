@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-10-15T13:00:00.000Z"
 end-date: "2018-10-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: false
 title: "Feel Sofar Sounds close to you!"
 competition-description: "<p>From living rooms to rooftops, restaurants to retails\
