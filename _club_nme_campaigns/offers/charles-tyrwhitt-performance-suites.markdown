@@ -3,7 +3,7 @@ campaign-uuid: "c-f25bf89c-6e1f-4047-926f-5e19530103b3"
 type: "Offer"
 category: "Fashion"
 date: "2018-02-15T17:28:17.000Z"
-end-date: "2018-10-20T23:59:00.000Z"
+end-date: "2019-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
