@@ -12,7 +12,7 @@
         googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot').addService(googletag.pubads());
         googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
-		googletag.pubads().setRequestNonPersonalizedAds(1);
+        googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.enableServices();
     });
 </script>
@@ -41,6 +41,7 @@
         googletag.defineSlot('/273427535/nmeaaa_processing_mpu_left', [300, 250], 'processing_mpu_left').addService(googletag.pubads());
         googletag.defineSlot('/273427535/nmeaaa_processing_mpu_right', [300, 250], 'processing_mpu_right').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
+        googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.enableServices();
     });
 </script>

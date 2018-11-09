@@ -25,6 +25,7 @@
         googletag.defineSlot('/273427535/xly_club_thankyou_mpu_bottomleft', [300, 250], 'thankyou_mpu_bottomleft').addService(googletag.pubads());
         googletag.defineSlot('/273427535/xly_club_thankyou_mpu_bottomright', [300, 250], 'thankyou_mpu_bottomright').addService(googletag.pubads());
 
+        googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
     });

@@ -20,7 +20,7 @@ title: Thank you for entering
 		googletag.defineSlot('/18711560/nme/aaa', [[300, 250]], 'MPUSlot').addService(googletag.pubads());
 		googletag.defineOutOfPageSlot('/18711560/nme/aaa', 'oopSlot').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
-		googletag.pubads().setRequestNonPersonalizedAds(1);
+        googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.enableServices();
     });
 </script>
