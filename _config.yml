@@ -134,6 +134,10 @@ clubs:
       ad-thank-you-top-banner: "ads/nme/conversant-top-banner.html"
       ad-processing-conv: "ads/nme/processing-page-conversant.html"
       ad-processing-mpu: "ads/nme/processing-page-mpu.html"
+      ad-thankyou-mpu-topleft: "ads/nme/thankyou-mpu-topleft.html"
+      ad-thankyou-mpu-topright: "ads/nme/thankyou-mpu-topright.html"
+      ad-thankyou-mpu-bottomleft: "ads/nme/thankyou-mpu-bottomleft.html"
+      ad-thankyou-mpu-bottomright: "ads/nme/thankyou-mpu-bottomright.html"
       ga-code:        "UA-110278937-1"
       ga-domain:      "aaa.nme.com"
       ga-extra-include: extensions/nme/ga.html
