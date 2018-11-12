@@ -119,6 +119,7 @@ clubs:
       parent-website-url: "http://www.nme.com/"
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
+      consent-script: "consent/nme/consent-script.html"
       domain-migrations-enabled: false
       ad-base-gpt-tag: "ads/nme/base-gpt-tag.html"
       ad-base-top-leaderboard: "ads/nme/base-topleaderboard.html"
