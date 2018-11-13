@@ -3,7 +3,7 @@ campaign-uuid: "c-5ebf1079-4400-4639-82cc-c59efd1ec218"
 type: "Competition"
 category: "Gifts"
 date: "2018-11-02T14:00:00.000Z"
-end-date: "2019-01-02T23:59:00.000Z"
+end-date: "2018-12-02T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -28,7 +28,7 @@ section1-content: "<p>Countdown to Christmas with a gorgeous gift every day from
   \ of Cath Kidston bath and body product now!</p>"
 entry-title: "Win Cath Kidston Christmas Advent Calendar 2018!"
 entry-content: "Enter the draw to win Cath Kidston Christmas Advent Calendar 2018\
-  \ by completing the form below before 23:59 on 2nd of January 2018."
+  \ by completing the form below before 23:59 on 2nd of December 2018."
 has-winner: false
 prize-description: "Cath Kidston Christmas Advent Calendar 2018."
 special-conditions: "Multiple entries are allowed up to one every day."
