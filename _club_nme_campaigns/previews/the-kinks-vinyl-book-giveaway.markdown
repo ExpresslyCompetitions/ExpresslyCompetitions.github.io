@@ -41,8 +41,8 @@ section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’
 entry-title: "Win the official vinyl and book from 'The Kinks Are The Village Green\
   \ Preservation Society' exhibition!"
 entry-content: "Enter the draw to win the official vinyl and book from ‘The Kinks\
-  \ Are The Village Green Preservation Society’ by completing the form below before\
-  \ 23:59 on 14th of December 2018."
+  \ Are The Village Green Preservation Society’ exhibition by completing the form\
+  \ below before 23:59 on 14th of December 2018."
 has-winner: false
 prize-description: "The official vinyl and book from 'The Kinks Are The Village Green\
   \ Preservation Society' exhibition."
