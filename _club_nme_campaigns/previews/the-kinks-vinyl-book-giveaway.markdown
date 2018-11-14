@@ -40,9 +40,9 @@ section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’
   \ Barrie Wentzell)</i></p>"
 entry-title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book!"
-entry-content: "Enter the draw to win the official vinyl and book from ‘The Kinks\
-  \ Are The Village Green Preservation Society’ exhibition by completing the form\
-  \ below before 23:59 on 14th of December 2018."
+entry-content: "Enter the draw to ‘Win The Kinks classic album 'The Kinks Are The\
+  \ Village Green Preservation Society’ on vinyl and accompanying book by completing\
+  \ the form below before 23:59 on 14th of December 2018."
 has-winner: false
 prize-description: "The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book."
