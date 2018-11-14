@@ -22,14 +22,14 @@ logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-45a3c378-145e-409c-bf56-70ae3a229330.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-dfd9e44f-50d4-4491-8363-5cbda10ed065.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-0feb48d7-e610-4584-a8d9-c80f3a561ebf.jpg"
-section1-content: "Join your favourite monster family as they embark on a holiday\
+section1-content: "<p>Join your favourite monster family as they embark on a holiday\
   \ adventure on a luxury monster cruise ship so Drac can finally take a break from\
-  \ handling everyone else's vacations at the hotel. It’s smooth sailing for Drac’\
-  s pack as the monsters indulge in all of the onboard fun the cruise has to offer,\
-  \ from monster volleyball to exotic excursions, and topping up their moon tans.\
-  \ But they hit rocky waters when Mavis realizes that Drac has fallen for the mysterious\
-  \ captain of the ship, Ericka, who hides a dangerous secret that could sink their\
-  \ plans for a dream holiday."
+  \ handling everyone else's vacations at the hotel.</p>\r\n<p>It’s smooth sailing\
+  \ for Drac’s pack as the monsters indulge in all of the onboard fun the cruise has\
+  \ to offer, from monster volleyball to exotic excursions, and topping up their moon\
+  \ tans. But they hit rocky waters when Mavis realizes that Drac has fallen for the\
+  \ mysterious captain of the ship, Ericka, who hides a dangerous secret that could\
+  \ sink their plans for a dream holiday.</p>"
 section2-content: "<p>This Hotel Transylvania 3 on Blu-ray and DVD has it all, including:\
   \ 2 Mini-Movies - Puppy! and Goodnight Mr. Foot, Scary-Oke Sing Along Videos, Music\
   \ Videos... and many more for you to discover!</p>\r\n<p>If you can't wait to see\
