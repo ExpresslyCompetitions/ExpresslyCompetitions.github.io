@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-11-02T12:00:00.000Z"
 end-date: "2018-11-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of gig tickets with BULLDOG Gin!"
 competition-description: "<p>Bringing premium taste to an incredible space, BULLDOG\
