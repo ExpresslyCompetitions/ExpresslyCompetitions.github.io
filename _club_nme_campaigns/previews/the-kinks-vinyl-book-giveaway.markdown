@@ -8,16 +8,16 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win the official vinyl and book from 'The Kinks Are The Village Green Preservation\
-  \ Society'!"
+  \ Society' exhibition!"
 competition-description: "<p>The Kinks have released a 50th Anniversary Edition of\
-  \ one of the greatest British rock albums of all time ‘The Kinks Are The Village\
-  \ Green Preservation Society’. To celebrate the release and from the exhibition\
-  \ at London’s Proud Central Gallery… we are giving away the official vinyl and book\
-  \ from ‘The Kinks Are The Village Green Preservation Society’ exhibition to one\
-  \ lucky NME AAA member to win!</p>\r\n<p>Are you The Kinks biggest fan? Enter below\
-  \ for a chance to win!</p>"
+  \ one of the greatest British rock albums of all time 'The Kinks Are The Village\
+  \ Green Preservation Society'. To celebrate the 50th Anniversary and their brand\
+  \ new exhibition at London's Proud Central Gallery… we are giving away the official\
+  \ vinyl and book from ‘The Kinks Are The Village Green Preservation Society’ exhibition\
+  \ to one lucky NME AAA member to win!</p>\r\n<p>Are you The Kinks biggest fan? Enter\
+  \ below for a chance to win!</p>"
 hero-header: "Win the official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society'!"
+  \ Preservation Society' exhibition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7b129c6d-35b2-4175-a07d-63e6062769ef.jpg"
 logo-left-href: "aaa.nme.com"
@@ -39,7 +39,7 @@ section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’
   \ book and they could be coming home with you!</p>\r\n<p>Good luck!</p>\r\n<p><i>(Credit:©\
   \ Barrie Wentzell)</i></p>"
 entry-title: "Win the official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society'!"
+  \ Preservation Society' exhibition!"
 entry-content: "Enter the draw to win the official vinyl and book from ‘The Kinks\
   \ Are The Village Green Preservation Society’ by completing the form below before\
   \ 23:59 on 14th of December 2018."
