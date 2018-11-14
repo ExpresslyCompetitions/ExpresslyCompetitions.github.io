@@ -7,8 +7,8 @@ end-date: "2018-12-15T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win the official vinyl and book from 'The Kinks Are The Village Green Preservation\
-  \ Society' exhibition!"
+title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
+  \ Society’ on vinyl and accompanying book!"
 competition-description: "<p>The Kinks have released a 50th Anniversary Edition of\
   \ one of the greatest British rock albums of all time 'The Kinks Are The Village\
   \ Green Preservation Society'. To celebrate the 50th Anniversary and their brand\
@@ -16,8 +16,8 @@ competition-description: "<p>The Kinks have released a 50th Anniversary Edition 
   \ vinyl and book from ‘The Kinks Are The Village Green Preservation Society’ exhibition\
   \ to one lucky NME AAA member to win!</p>\r\n<p>Are you The Kinks biggest fan? Enter\
   \ below for a chance to win!</p>"
-hero-header: "Win the official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society' exhibition!"
+hero-header: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
+  \ Society’ on vinyl and accompanying book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7b129c6d-35b2-4175-a07d-63e6062769ef.jpg"
 logo-left-href: "aaa.nme.com"
@@ -38,13 +38,13 @@ section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’
   \ UP and think no more, enter the form below for a chance to win their vinyl and\
   \ book and they could be coming home with you!</p>\r\n<p>Good luck!</p>\r\n<p><i>(Credit:©\
   \ Barrie Wentzell)</i></p>"
-entry-title: "Win the official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society' exhibition!"
+entry-title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
+  \ Society’ on vinyl and accompanying book!"
 entry-content: "Enter the draw to win the official vinyl and book from ‘The Kinks\
   \ Are The Village Green Preservation Society’ exhibition by completing the form\
   \ below before 23:59 on 14th of December 2018."
 has-winner: false
-prize-description: "The official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society' exhibition."
+prize-description: "The Kinks classic album 'The Kinks Are The Village Green Preservation\
+  \ Society’ on vinyl and accompanying book."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
