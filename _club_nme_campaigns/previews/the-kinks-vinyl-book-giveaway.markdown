@@ -33,7 +33,7 @@ section1-content: "<p>‘The Kinks Are The Village Green Preservation Society’
   \ the band’s history. Each work is hand-signed by surviving band members Ray Davies,\
   \ Dave Davies and Mick Avory!</p>\r\n<p><i>(Credit:© Barrie Wentzell)</i></p>"
 section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’ is regarded\
-  \ as one of the best British bands ever and we want YOU to enjoy their official\
+  \ as one of the best British albums ever and we want YOU to enjoy their official\
   \ vinyl and book as much as we do!</p>\r\n<p>If you are The Kinks biggest fan, HURRY\
   \ UP and think no more, enter the form below for a chance to win their vinyl and\
   \ book and they could be coming home with you!</p>\r\n<p>Good luck!</p>\r\n<p><i>(Credit:©\
@@ -45,6 +45,6 @@ entry-content: "Enter the draw to win the official vinyl and book from ‘The Ki
   \ 23:59 on 14th of December 2018."
 has-winner: false
 prize-description: "The official vinyl and book from 'The Kinks Are The Village Green\
-  \ Preservation Society'."
+  \ Preservation Society' exhibition."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
