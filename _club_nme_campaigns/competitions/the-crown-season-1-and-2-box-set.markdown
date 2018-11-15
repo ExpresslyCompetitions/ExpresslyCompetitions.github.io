@@ -13,7 +13,7 @@ competition-description: "<p>We have in our hands the Emmy Award winning\_series
   \ 2 on Blu-ray to one of our NME AAA members to win! As a new era begins, Queen\
   \ Elizabeth struggles to navigate a world that's changing around her while preserving\
   \ both the monarchy and her marriage.</p>\r\n<p>If you want to get stuck to your\
-  \ favourite show to be, click below for a chance to win!</p>"
+  \ favourite show to be during the holidays, click below for a chance to win!</p>"
 hero-header: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-97a7f1d4-5c32-4447-b4ed-86bf036edb74.jpg"
