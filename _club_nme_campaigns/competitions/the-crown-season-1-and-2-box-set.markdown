@@ -7,14 +7,14 @@ end-date: "2018-12-13T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win The Crown Season 1 and 2 Box Set!"
+title: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 competition-description: "<p>We have in our hands the Emmy Award winning\_series,\
   \ the number one essential for viewing over the holiday: The Crown Season 1 and\
   \ 2 on Blu-ray to one of our NME AAA members to win! As a new era begins, Queen\
   \ Elizabeth struggles to navigate a world that's changing around her while preserving\
   \ both the monarchy and her marriage.</p>\r\n<p>If you want to get stuck to your\
   \ favourite show to be, click below for a chance to win!</p>"
-hero-header: "Win The Crown Season 1 and 2 Box Set!"
+hero-header: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-97a7f1d4-5c32-4447-b4ed-86bf036edb74.jpg"
 logo-left-href: "aaa.nme.com"
@@ -37,10 +37,10 @@ section3-content: "<p>The Golden Globe winner for Best TV Drama Series, “The C
   \ created by Peter Morgan is the best plan to do during the holidays. If you can’\
   t wait to watch it, enter the form below and get ready to get stuck with The Crown\
   \ Season 1 and 2 Box Set!</p>"
-entry-title: "Win The Crown Season 1 and 2 Box Set!"
+entry-title: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 entry-content: "Enter the draw to win The Crown Season 1 and 2 Box Set\r\nby completing\
   \ the form below before 23:59 on 13th of December 2018."
 has-winner: false
-prize-description: "The Crown Season 1 and 2 Box Set."
+prize-description: "The Crown Season 1 and 2 Boxset."
 special-conditions: "Multiple entries are allowed up to one every day."
 ---
