@@ -13,7 +13,7 @@ competition-description: "<p>We are giving away 2 pairs of tickets for\_A Peacef
   \ will be held at Bush Hall on 24th November featuring a spectacular line up in\
   \ aid of The Nick Alexander Memorial Trust and Josh Homme’s Sweet Stuff Foundation.</p>\r\
   \n<p>If you want to come with us, click below for a chance to win.</p>"
-hero-header: "Win a pair of tickets to A Peaceful Noise 2018."
+hero-header: "Win a pair of tickets to A Peaceful Noise 2018"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3fb4bd7b-3cdc-4fd3-9e13-173dcef5dc30.jpg"
 logo-left-href: "aaa.nme.com"
