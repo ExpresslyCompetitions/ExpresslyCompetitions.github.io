@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-11-19T09:00:00.000Z"
 end-date: "2018-11-22T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of tickets to A Peaceful Noise 2018."
 competition-description: "<p>We are giving away 2 pairs of tickets for\_A Peaceful\
