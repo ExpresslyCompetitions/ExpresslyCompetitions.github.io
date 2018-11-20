@@ -1,0 +1,43 @@
+---
+layout: club-layout
+---
+{% assign winners = site[page.campaigns] | where:"has-winner","true" %}
+<main role="main" class="container">
+    <div class="row header">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6">
+            <h4 class="d-xl-none">{{page.title}}</h4>
+        </div>
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 align-self-end card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group mb-4 mb-sm-0">
+                    <select class="form-control card-filter">
+                        <option selected>All</option>
+                        {% assign categories = winners | map: "category" | sort | uniq  %}
+                        {% for category in categories  %}
+                        <option data-filter="{{category | slugify}}" data-direction="desc">{{category}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3 align-self-end card-filter-container">
+            <form class="form-horizontal">
+                <div class="form-group mb-0">
+                    <select class="form-control card-sorter">
+                        <option data-source="posted" data-direction="desc">Posted (latest)</option>
+                        <option data-source="posted" data-direction="asc">Posted (oldest)</option>
+                        <option data-source="closes" data-direction="desc">Deadline (latest)</option>
+                        <option data-source="closes" data-direction="asc">Deadline (oldest)</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="competition-cards">
+        {% assign items = winners | sort: 'date'  %}
+        {% for item in items reversed  %}
+        {% include club_competition_card.html item=item is-winner-card=true %}
+        {% endfor %}
+    </div>
+</main>
+
