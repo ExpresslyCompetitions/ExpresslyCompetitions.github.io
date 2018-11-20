@@ -32,7 +32,7 @@ section1-content: "<p>Since the company was founded in 1984, the identity and st
   \ In addition to the iconic Sterling Silver Collection, with the Glam & Soul women’\
   s line and the Rebel at heart men’s line, the product world of Thomas Sabo now also\
   \ includes the Charm Club, as well as its own watches and beauty line.</p>\r\n<p>This\
-  \ bracelet is the present present for Christmas, if you can't wait to have it now,\
+  \ bracelet is the best present for Christmas, if you can't wait to have it now,\
   \ enter the form below for a chance to win!</p>"
 entry-title: "Win Thomas Sabo Silver Bracelet for Charms Classic"
 entry-content: "Enter the draw to win Thomas Sabo Silver Bracelet for Charms Classic\r\
