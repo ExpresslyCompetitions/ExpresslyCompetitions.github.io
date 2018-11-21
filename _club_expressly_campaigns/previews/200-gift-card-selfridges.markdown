@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-09-07T09:00:00.000Z"
 end-date: "2018-11-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a £200 Gift card at Selfridges!"
 competition-description: "<p>We wanted to give you something extraordinary so now\
