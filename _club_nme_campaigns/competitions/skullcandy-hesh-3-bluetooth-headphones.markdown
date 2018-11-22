@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-10-17T09:00:00.000Z"
 end-date: "2018-11-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Skullcandy Hesh 3 Bluetooth Headphones!"
 competition-description: "<p>Skullcandy is changing the way you listen to music, and\
