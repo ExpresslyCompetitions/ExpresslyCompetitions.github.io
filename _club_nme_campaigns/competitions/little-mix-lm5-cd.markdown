@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b215f75f-cb32-4bbb-a701-6cfc1
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-f1dbb5df-38b6-4510-97ff-7741e7241d49.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-9090f013-e3ae-470b-9b4e-613b67770450.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-3490ef2e-7103-4487-94b9-a1e222502f52.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-29878a20-6228-47af-8096-b780f6ba93e3.jpg"
 section1-content: "<p>The X Factor winning girl band have done it again and they’\
   ve just released their fifth album LM5! You can see the growth of these ladies through\
