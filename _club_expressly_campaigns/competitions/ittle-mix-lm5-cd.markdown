@@ -19,14 +19,14 @@ banner-img: "https://assets.expresslyapp.com/asset-b434a4e5-6310-42f8-b901-4c27c
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-989f844d-4503-4192-9419-b8fb919dd520.jpg"
 logo-left-title: "expressly club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-73a1e08e-2d27-4765-b998-5007034a748e.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-bd000e57-00e0-485a-b7e3-142878507259.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-4145663f-9f04-4951-b682-17e6fc100b01.jpg"
 section1-content: "<p>The X Factor winning girl band have done it again and they’\
   ve just released their fifth album LM5! You can see the growth of these ladies through\
   \ every song since their last LP Glory Days. The Cure, Woman Like Me, Strip, American\
   \ boy… are some of their new tunes, an empowering album we are pretty sure you won’\
   t want to miss… </>\r\n<p>Enter the form below for a chance to win the best album\
-  \ this Christmas: LM5!get ready and enjoy great music with your loved ones this\
+  \ this Christmas: LM5! Get ready and enjoy great music with your loved ones this\
   \ holidays!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Little Mix LM5 CD!"
 entry-content: "Enter the draw to win Little Mix LM5 CD by completing the form below\
