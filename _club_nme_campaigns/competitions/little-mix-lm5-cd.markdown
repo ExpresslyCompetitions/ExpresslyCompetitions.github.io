@@ -26,7 +26,7 @@ section1-content: "<p>The X Factor winning girl band have done it again and they
   \ every song since their last LP Glory Days. The Cure, Woman Like Me, Strip, American\
   \ boy… are some of their new tunes, an empowering album we are pretty sure you won’\
   t want to miss… </>\r\n<p>Enter the form below for a chance to win the best album\
-  \ this Christmas: LM5!get ready and enjoy great music with your loved ones this\
+  \ this Christmas: LM5! Get ready and enjoy great music with your loved ones this\
   \ holidays!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Little Mix LM5 CD!"
 entry-content: "Enter the draw to win Little Mix LM5 CD by completing the form below\
