@@ -7,7 +7,7 @@ end-date: "2018-12-15T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
+title: "Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book!"
 competition-description: "<p>The Kinks have released a 50th Anniversary Edition of\
   \ one of the greatest British rock albums of all time 'The Kinks Are The Village\
