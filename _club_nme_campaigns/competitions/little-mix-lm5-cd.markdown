@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win Little Mix LM5 CD!"
 competition-description: "<p>Get ready: we have the best present for you this Christmas.\
-  \ Yes, you guessed it.… we have in our hands the brand new album of  the girlband\
+  \ Yes, you guessed it.… we have in our hands the brand new album of  the girl band\
   \ of the moment: LITTLE MIX! This new album LM5 is the best they’ve done until date\
   \ and we wanted to give it to you this Christmas!</p>\r\n<p>MIXERS! Want to dance\
   \ Little Mix new tunes this holidays? Click below for a chance to win!</p>"
