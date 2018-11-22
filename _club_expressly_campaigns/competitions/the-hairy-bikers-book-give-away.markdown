@@ -7,15 +7,13 @@ end-date: "2018-12-18T10:00:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win The Hairy Bikers' British Classics: Over 100 recipes celebrating timeless\
-  \ cooking and the nation’s favourite dishes!"
+title: "Win The Hairy Bikers' British Classics book!"
 competition-description: "<p>Christmas is here, and we all want to cook new recipes\
   \ to surprise our guests. We are giving away the brand new book from the nation's\
   \ favourite cooking duo, and beloved food enthusiasts, the Hairy Bikers!</p>\r\n\
   <p>If you want to discover all of their amazing recipes, click below for a chance\
   \ to win!</p>"
-hero-header: "Win The Hairy Bikers' British Classics: Over 100 recipes celebrating\
-  \ timeless cooking and the nation’s favourite dishes!"
+hero-header: "Win The Hairy Bikers' British Classics book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-40b72cc1-af67-43ff-a276-5651e850fa40.jpg"
 logo-left-href: "http://club.expressly.io"
@@ -34,8 +32,7 @@ section1-content: "<p>The nation's favourite cooking duo, and beloved food enthu
   \ and launched a publishing phenomenon. They have also published an acclaimed autobiography,\
   \ Blood, Sweat & Tyres.</p>\r\n<p>We have in our hands their brand new cookbook\
   \ for YOU! Enter the form below and it could be yours!</p>"
-entry-title: "Win The Hairy Bikers' British Classics: Over 100 recipes celebrating\
-  \ timeless cooking and the nation’s favourite dishes!"
+entry-title: "Win The Hairy Bikers' British Classics book!"
 entry-content: "Enter the draw to win The Hairy Bikers' British Classics: Over 100\
   \ recipes celebrating timeless cooking and the nation’s favourite dishes by completing\
   \ the form below before 23:59 on 18th of December 2018."
