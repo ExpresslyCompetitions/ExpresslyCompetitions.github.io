@@ -36,8 +36,8 @@ section2-content: "<p>This Blu-Ray from Sony Pictures Home Entertainment has it 
   \ conversation, 11 Deleted and Extended Scenes PLUS the Trivia Track: Pop-up trivia\
   \ guaranteed to surprise even the biggest fans of The Equalizer!</p>"
 section3-content: "<p>What are you waiting for? Think no more and enter the form below\
-  \ for a chance to win the best Blu-Ray: The Equalizer 2!</p>\r\n<p>Get ready to\
-  \ get enjoy The Equalizer 2 this holidays thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
+  \ for a chance to win the best Blu-Ray: The Equalizer 2!</p>\r\n<p>Get ready and\
+  \ enjoy The Equalizer 2 this holidays thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 entry-content: "Enter the draw to winThe Equalizer 2 on Blu-ray and the official cap\
   \ of the movie!\r\nbefore 23:59 on 18th of December 2018."
