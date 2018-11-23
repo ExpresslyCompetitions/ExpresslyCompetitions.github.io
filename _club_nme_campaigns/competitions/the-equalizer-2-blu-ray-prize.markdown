@@ -9,12 +9,13 @@ is_promoted: true
 has_entry_page: true
 title: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 competition-description: "<p>Give Dad a taste of the action this Christmas! We are\
-  \ giving away 3 copies of the movie on Blu-ray PLUS 3 official caps for you to win!\
-  \ In his first ever sequel, the ever-watchable Denzel Washington returns to his\
-  \ signature role as retired intelligence agent Robert McCall. He's back being a\
-  \ force for justice but this time he finds himself fighting a more personal battle\
-  \ than ever before. Directed by Antoine Fuqua, it's the perfect, action-packed present\
-  \ for Dad.</p>"
+  \ giving away 3 copies of The Equalizer 2 on Blu-ray PLUS 3 official caps of the\
+  \ movie for you to win!</p>\r\n<p>In his first ever sequel, the ever-watchable Denzel\
+  \ Washington returns to his signature role as retired intelligence agent Robert\
+  \ McCall. He's back being a force for justice but this time he finds himself fighting\
+  \ a more personal battle than ever before. Directed by Antoine Fuqua, it's the perfect,\
+  \ action-packed present for Dad.</p>\r\n<p>Want it? Click below for a chance to\
+  \ win!</p>"
 hero-header: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0512c0a6-c931-44e9-a571-cd16cf520185.jpg"
