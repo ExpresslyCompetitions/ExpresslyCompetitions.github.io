@@ -22,7 +22,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-0a62ff1e-0717-44be-be0f-
 logo-left-title: "nme aaa"
 bg-image-hero: "https://assets.expresslyapp.com/asset-32a9c663-a373-4f33-acea-4ab47061236a.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-10542034-0b33-41d2-9ffc-bb60cfa8bd49.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-b6ea3a44-728b-44cc-9f44-0608bb246dc4.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-b16dbbc2-b34b-4a57-9062-712fe958b9c0.jpg"
 section1-content: "<p>Welcome to Tiana’s world! Join Tiana and the Wilson family behind\
   \ the scenes of her super successful YouTube channels and get ready to follow her\
   \ epic journey to YouTube super-stardom. </p>\r\n<p>With mum and dad by her side\
