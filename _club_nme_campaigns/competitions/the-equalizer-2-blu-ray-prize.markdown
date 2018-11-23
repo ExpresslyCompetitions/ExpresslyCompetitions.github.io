@@ -14,8 +14,9 @@ competition-description: "<p>Give Dad a taste of the action this Christmas! We a
   \ Washington returns to his signature role as retired intelligence agent Robert\
   \ McCall. He's back being a force for justice but this time he finds himself fighting\
   \ a more personal battle than ever before. Directed by Antoine Fuqua, it's the perfect,\
-  \ action-packed present for Dad.</p>\r\n<p>Want it? Click below for a chance to\
-  \ win!</p>"
+  \ action-packed present for Dad. The Equalizer 2 is available to Download & Keep\
+  \ and to buy on 4K Ultra HD™, Blu-ray™ & DVD on December 10th.</p>\r\n<p>Want it?\
+  \ Click below for a chance to win!</p>"
 hero-header: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0512c0a6-c931-44e9-a571-cd16cf520185.jpg"
