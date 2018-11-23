@@ -22,8 +22,8 @@ banner-img: "https://assets.expresslyapp.com/asset-0512c0a6-c931-44e9-a571-cd16c
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-85de485e-cb7c-4640-8e3b-b52438f3826e.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-56c58c37-54ff-4f5f-8576-6f5411ed693a.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-0de652ec-a441-4563-82be-0f77d90f51bc.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-f6b31dcc-5597-471c-919d-be386a3ecd90.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-45096a1f-b18b-4da9-8db0-62bb6d743122.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-695bc3bd-72ed-448a-9d15-ee6fb1e91828.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-d863b459-d003-46a1-8081-33a3577c8b75.jpg"
 section1-content: "<p>Denzel Washington returns to one of his signature roles in the\
@@ -36,8 +36,8 @@ section2-content: "<p>This Blu-Ray from Sony Pictures Home Entertainment has it 
   \ conversation, 11 Deleted and Extended Scenes PLUS the Trivia Track: Pop-up trivia\
   \ guaranteed to surprise even the biggest fans of The Equalizer!</p>"
 section3-content: "<p>What are you waiting for? Think no more and enter the form below\
-  \ for a chance to win the best Blu-Ray this Christmas: The Equalizer 2!</p>\r\n\
-  <p>Good luck!</p>"
+  \ for a chance to win the best Blu-Ray: The Equalizer 2!</p>\r\n<p>Get ready to\
+  \ get enjoy The Equalizer 2 this holidays thanks to NME AAA!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 entry-content: "Enter the draw to winThe Equalizer 2 on Blu-ray and the official cap\
   \ of the movie!\r\nbefore 23:59 on 18th of December 2018."
