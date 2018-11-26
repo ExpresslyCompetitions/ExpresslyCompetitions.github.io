@@ -28,16 +28,12 @@ section1-content: "<p>This amazing album is co-produced by Bublé himsef. He bri
   \ take on another Rogers & Hart standard, “My Funny Valentine.” Other standouts\
   \ are an ebullient “When You’re Smiling,” a swinging “Such A Night” as well as Bublé\
   ’s hand-picked favourites including “Unforgettable,” “Help Me Make It Through The\
-  \ Night,” and “I Only Have Eyes For You.’’.</p>\r\n<p>Two standout tracks are Charlie\
-  \ Puth’s swinging “Love You Anymore” and an achingly poignant “La Vie En Rose” –\
-  a Bublé duet featuring singer Cecile McLorin Salvant. A touching Bublépenned original\
-  \ ‘Forever Now” demonstrates his songwriting skills. The album closes with a show-stopping\
-  \ version of “Where or When.”.</p>\r\n<p>Michael Bublé has sold over 60 million\
-  \ records worldwide, performed hundreds of sold-out shows around the globe, and\
-  \ won four Grammys and multiple Juno Awards during the course of his extraordinary\
-  \ career. The Deluxe CD includes 2 bonus tracks and a 16 page booklet.”</p>\r\n\
-  <p>Enter the form below for a chance to win this incredible album and get ready\
-  \ to feel delighted by Michael Bublé lovely voice. Good luck!</p>"
+  \ Night,” and “I Only Have Eyes For You.’’.</p>\r\n<p>Michael Bublé has sold over\
+  \ 60 million records worldwide, performed hundreds of sold-out shows around the\
+  \ globe, and won four Grammys and multiple Juno Awards during the course of his\
+  \ extraordinary career. The Deluxe CD includes 2 bonus tracks and a 16 page booklet.”\
+  </p>\r\n<p>Enter the form below for a chance to win this incredible album and get\
+  \ ready to feel delighted by Michael Bublé lovely voice. Good luck!</p>"
 entry-title: "Win Michael Bublé new album: LOVE!"
 entry-content: "Enter the draw to win Michael Bublé new album: LOVE before 23:59 on\
   \ 26th of December 2018."
