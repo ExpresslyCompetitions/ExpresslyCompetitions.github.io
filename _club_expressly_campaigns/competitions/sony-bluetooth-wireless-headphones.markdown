@@ -38,7 +38,7 @@ section2-content: "<p>Listen longer with 30 hours’ wireless playback! Keep you
 section3-content: "<p>PLUS many more features for you to discover: NFC One-touch for\
   \ instant connectivity, Hear it all with 30 mm drivers…. If this sound like the\
   \ perfect gift, think no more and enter the form below for a chance to win them!</p>\r\
-  \n<p>Get ready to stand out anywhere you go, with the brand new Sony Wireless Headphones!\
+  \n<p>Get ready to stand out anywhere you go with the brand new Sony Wireless Headphones!\
   \ Good luck!</p>"
 entry-title: "Win the Sony Bluetooth Wireless Headphones!"
 entry-content: "Enter the draw to win the Sony Bluetooth Wireless Headphones before\
