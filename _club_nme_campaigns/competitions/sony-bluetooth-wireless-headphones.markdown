@@ -8,8 +8,8 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win the Sony Bluetooth Wireless Headphones!"
-competition-description: "<p>Dance like nobody’s watching with the wireless Bluetooth\
-  \ headphones. We are giving away the amazing Sony Bluetooth Wireless Headphones\
+competition-description: "<p>Dance like nobody’s watching with the Wireless Bluetooth\
+  \ Headphones. We are giving away the amazing Sony Bluetooth Wireless Headphones\
   \ to one of our lucky members to win and enjoy their fav tunes anywhere! Connect\
   \ to a selected smartphone with One-touch listening via NFC, then move freely and\
   \ easily wherever you are without tangles or discomfort. Soft, cushioned earpads\
@@ -38,7 +38,7 @@ section2-content: "<p>Listen longer with 30 hours’ wireless playback! Keep you
 section3-content: "<p>PLUS many more features for you to discover: NFC One-touch for\
   \ instant connectivity, Hear it all with 30 mm drivers…. If this sound like the\
   \ perfect gift, think no more and enter the form below for a chance to win them!</p>\r\
-  \n<p>Get ready to stand out anywhere you go, with the brand new Sony Wireless Headphones!\
+  \n<p>Get ready to stand out anywhere you go with the brand new Sony Wireless Headphones!\
   \ Good luck!</p>"
 entry-title: "Win the Sony Bluetooth Wireless Headphones!"
 entry-content: "Enter the draw to win the Sony Bluetooth Wireless Headphones before\
