@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win The Beatles White Album Deluxe Edition!"
 competition-description: "<p>This is the first time The Beatles ‘White Album’ has\
-  \ been remixed and presented with an additional disc demo recordings. This is an\
+  \ been remixed and presented with an additional disc demo recordings. This is a\
   \ special edition and we want it to be yours! We are giving away the amazing Beatles\
   \ White Album Deluxe Edition box set to one of our lucky members!</p>\r\n<p>If that\
   \ sound like the perfect gift to you, click below for a chance to win!</p>"
@@ -17,7 +17,7 @@ hero-header: "Win The Beatles White Album Deluxe Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f3540999-17fb-4652-8b5d-42f9cb8d5515.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-9dc611f7-9990-4ce6-9d21-e8a58b0be9a4.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-ede6969a-6b63-4193-b489-043a41f0db08.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-97ba559a-6869-417d-a3d8-4b4db0a93a0a.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-9367ad29-e757-4f1c-98c8-33eaa5c1df35.jpg"
