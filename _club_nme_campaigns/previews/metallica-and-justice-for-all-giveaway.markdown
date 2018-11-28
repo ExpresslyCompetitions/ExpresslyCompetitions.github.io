@@ -20,7 +20,7 @@ hero-header: "Win Metallica ‘…And Justice For All’ Deluxe 3CD Expanded Edi
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-36397d38-6625-4c56-af4d-013072662e86.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-ccfee6f7-f3d3-4341-9d0e-e0d05c36e5f9.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-9dc611f7-9990-4ce6-9d21-e8a58b0be9a4.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7c52a51a-4313-4fe8-9c10-fff10a5473b1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-a6722ae9-b805-4d42-b6c7-b7d8517bc167.jpg"
