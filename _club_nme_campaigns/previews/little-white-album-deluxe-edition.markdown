@@ -26,10 +26,11 @@ section1-content: "<p>To create the new stereo audio mixes for ‘The White Albu
   \ Giles Martin and Sam Okell worked with an expert team of engineers and audio restoration\
   \ specialists at Abbey Road Studios in London. This 3CD ‘White Album’ release includes\
   \ Martin’s new stereo album mix. Martin’s new mix is guided by the album’s original\
-  \ stereo mix produced by his father, George Martin. During the last week of May\
-  \ 1968, The Beatles gathered at George’s house in Esher, Surrey, where they recorded\
-  \ acoustic demos for 27 songs. Known as the Esher Demos, all 27 recordings are also\
-  \ included in the 3CD Deluxe package, sourced from the original four-track tapes.</p>"
+  \ stereo mix produced by his father, George Martin.</p> \r\n<p>During the last week\
+  \ of May 1968, The Beatles gathered at George’s house in Esher, Surrey, where they\
+  \ recorded acoustic demos for 27 songs. Known as the Esher Demos, all 27 recordings\
+  \ are also included in the 3CD Deluxe package, sourced from the original four-track\
+  \ tapes.</p>"
 section2-content: "<p>This Beatles Deluxe 3CD set is presented in an embossed digipack\
   \ with the fold-out poster and portrait photos, plus a 24-page booklet. Enter the\
   \ form below for a chance to win and get ready to enjoy the White Album once again!</p>"
