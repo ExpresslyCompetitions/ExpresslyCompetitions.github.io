@@ -19,9 +19,9 @@ competition-description: "<p>Calling all Harry Potter and J.K Rowling fans! We h
 hero-header: "Win J.K. Rowling's Fantastic Beasts adventure series books!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b71c99f4-0d23-4afa-8606-c52381adcaef.jpg"
-logo-left-href: "http://sony.co.uk"
-logo-left-image: "https://assets.expresslyapp.com/asset-e2c4c5f0-4157-4058-a9b9-2e5e13083352.jpg"
-logo-left-title: "Sony"
+logo-left-href: "http://club.expressly.io"
+logo-left-image: "https://assets.expresslyapp.com/asset-5083b5ba-246b-4f3d-ac12-ccb8be9f331f.jpg"
+logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-5b934bc3-9a3b-4c13-851e-fa671283592c.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-b7e377ea-301d-477e-a059-9305779f3afe.jpg"
 section1-content: "<p> J.K. Rowling invites you to explore a new era of the Wizarding\
