@@ -32,7 +32,7 @@ section1-content: "<p>Recorded at Miami’s Criteria Studios in 2018, the album 
   \n<p>Cliff Richard is back and we want YOU to enjoy his new album as much as we\
   \ do! Enter the form below and it could be coming home with you! Good luck!</p>"
 entry-title: "Win Cliff Richard 'Rise Up' CD!"
-entry-content: "Enter the draw to win  Cliff Richard Rise Up vinyl before 23:59 on\
+entry-content: "Enter the draw to win  Cliff Richard 'Rise Up' CD before 23:59 on\
   \ 3rd of January 2018."
 has-winner: false
 prize-description: "Cliff Richard 'Rise Up' CD!"
