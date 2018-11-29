@@ -28,7 +28,7 @@ section1-content: "<p>Surrounded by a luminous fragrant aura, the woman who wear
   \ Sensual and bright, the scent lights up a room, just as Beyoncé captivates with\
   \ her presence, making the set the perfect all-occasion gift for her.</p>\r\n<p>If\
   \ you want to feel like a star, now with the famous 'Heat' Gift Set trio from Beyoncé\
-  , you can. Enter the form below for a chance to win and it could be yours.</p>m"
+  , you can. Enter the form below for a chance to win and it could be yours.</p>"
 entry-title: "Win Beyoncé 'Heat' Gift Set!"
 entry-content: "Enter the draw to win Beyoncé 'Heat' Gift Set before 23:59 on 29th\
   \ of January 2019."
