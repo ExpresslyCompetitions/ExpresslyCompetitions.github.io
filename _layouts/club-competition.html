@@ -11,7 +11,7 @@ active: selected-competitions
         {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
     {% endfor %}
 {% else %}
-    {% assign restriction-classes = 'restriction-UK' %}
+    {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
 <section class="hero" style="background-image: url({{image-url}})">
 
@@ -94,12 +94,11 @@ active: selected-competitions
                 {% if page.disable-form == false %}
                     <div class="hide-if-expired ">
                         <div class=" {{restriction-classes}}">
-                            <form id="form--competition" method="post" novalidate>
+                            <form id="form--competition" method="post" novalidate data-countries='{{page.country-restrictions|jsonify}}'>
                                 <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
                                 <input type="hidden" name="emailEntrant" value="true" />
                                 <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
                                 <input type="hidden" name="version" value="1"/>
-
                                 {% assign form_input_id_prefix = 'form--competition--' %}
                                 {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
                                 {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
@@ -107,7 +106,7 @@ active: selected-competitions
                                 {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
                                 {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
                                 {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9}" error="Please enter a valid UK telephone number" %}
-                                {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
+                                {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" countries=page.countries restrictions="" %}
                                 {% if page.entry-extension %}
                                     {% include extensions/{{ page.entry-extension }} %}
                                 {% endif %}

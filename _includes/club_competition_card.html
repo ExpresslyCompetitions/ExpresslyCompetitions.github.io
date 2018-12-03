@@ -7,7 +7,7 @@
         {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
     {% endfor %}
 {% else %}
-    {% assign restriction-classes = 'restriction-UK' %}
+    {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
 <div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} {{restriction-classes}}" id="eid-{{include.item.campaign-uuid}}"
      data-competition-toggle="{{include.item.campaign-uuid}}"

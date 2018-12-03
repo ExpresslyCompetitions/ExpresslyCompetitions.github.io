@@ -28,7 +28,7 @@
     {% if page.css %}
     <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=15"/>
     {% else %}
-    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=78"/>
+    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=79"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{club_base}}/css/{{page.extra-css}}?cb=1"/>
@@ -75,7 +75,7 @@
         <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
     {% endif %}
 </head>
-<body class="{{page.body-class}} {{layout.body-class}} {% if page.is-demo == true %} pb-big {% endif %}" data-muid="{{page.merchant-uuid}}" data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
+<body class="{{page.body-class}} {{layout.body-class}} {% if page.is-demo == true %} pb-big {% endif %}" data-muid="{{page.merchant-uuid}}" data-countries='{{page.countries|jsonify}}' data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
 <script>if (signedIn) { document.body.className += ' logged-in'; }</script>
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 <script>if (signedIn) { document.body.className += ' country-' + profile.country; }</script>
@@ -223,6 +223,7 @@
         integrity="sha256-YHd/E8OX5o5GcqyHHas3xH3i7aP8z8KmMrL3WLMJfIY="
         crossorigin="anonymous"></script>
 <script src="https://assets01.buyexpressly.com/club/js/club.min.js?cb=44"></script>
+<!--<script src="{{club_base}}/club.js?cb=44"></script>-->
 <script src="https://assets01.buyexpressly.com/club/js/club-ads.min.js?cb=03"></script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxHbkYzBWtZAQwA0DKAPyRPHgk-j_la2c&libraries=places&callback=club.initAutocomplete" async defer></script>

@@ -7,7 +7,7 @@
         {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
     {% endfor %}
 {% else %}
-    {% assign restriction-classes = 'restriction-UK' %}
+    {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
 <div class="col-md-4 col-sm-6 mb-4 hide-if-entered hide-if-expired show-if-reenter-now-flex growable {{restriction-classes}}" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}" data-count="{{ ad_count }}" data-expiration="{{ item.end-date | date_to_xmlschema }}">
     <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>

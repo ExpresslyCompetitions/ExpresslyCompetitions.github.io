@@ -203,7 +203,7 @@ body {
     display: none;
   }
 
-  $countries: UK, US;
+  $countries: GB, UK, US;
   @each $country in $countries {
     &.country-#{$country} div[class*=" restriction-"]:not(.restriction-#{$country}){
       display: none !important;
