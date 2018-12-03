@@ -1,17 +1,28 @@
 {% include club_base_url.html %}
 {% assign item-path-prefix = (include.item.collection | prepend: "_") %}
 {% assign item-url = (include.item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, club_base) %}
-<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} growable grow-1">
-    <div class="competition-card--banner">
-        {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=false %}
-    </div>
-    <div class="competition-tile--content p-2 text-center grow-1">
-        <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}</p>
-        <p><strong>{{ include.item.title }}</strong></p>
-    </div>
-    <div class="competition-tile--footer p-2 pb-3 text-center">
-        <div class="competition-tile--status mb-4">
-            {% include club_card_cta.html item=include.item item-url=include.item-url %}
+{% assign restriction-classes = '' %}
+{% if include.item.country-restrictions %}
+    {% for restriction in include.item.country-restrictions  %}
+        {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
+    {% endfor %}
+{% else %}
+    {% assign restriction-classes = 'restriction-UK' %}
+{% endif %}
+<div class="col-md-4 col-sm-6 mb-4 hide-if-entered hide-if-expired show-if-reenter-now-flex growable {{restriction-classes}}" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}" data-count="{{ ad_count }}" data-expiration="{{ item.end-date | date_to_xmlschema }}">
+    <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
+    <div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} growable grow-1">
+        <div class="competition-card--banner">
+            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=false %}
+        </div>
+        <div class="competition-tile--content p-2 text-center grow-1">
+            <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}</p>
+            <p><strong>{{ include.item.title }}</strong></p>
+        </div>
+        <div class="competition-tile--footer p-2 pb-3 text-center">
+            <div class="competition-tile--status mb-4">
+                {% include club_card_cta.html item=include.item item-url=include.item-url %}
+            </div>
         </div>
     </div>
 </div>

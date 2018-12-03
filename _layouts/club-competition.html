@@ -6,6 +6,13 @@ active: selected-competitions
 {% include club_base_url.html %}
 {% include image_url_builder.html image=page.bg-image-hero %}
 {% capture terms_modal_id %}modal-{{page.campaign-uuid}}{% endcapture %}
+{% if page.country-restrictions %}
+    {% for restriction in page.country-restrictions  %}
+        {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
+    {% endfor %}
+{% else %}
+    {% assign restriction-classes = 'restriction-UK' %}
+{% endif %}
 <section class="hero" style="background-image: url({{image-url}})">
 
     <div class="container">
@@ -85,61 +92,68 @@ active: selected-competitions
 
             <div class="hide-if-entered">
                 {% if page.disable-form == false %}
-                    <div class="hide-if-expired">
-                        <form id="form--competition" method="post" novalidate>
+                    <div class="hide-if-expired ">
+                        <div class=" {{restriction-classes}}">
+                            <form id="form--competition" method="post" novalidate>
+                                <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
+                                <input type="hidden" name="emailEntrant" value="true" />
+                                <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
+                                <input type="hidden" name="version" value="1"/>
+
+                                {% assign form_input_id_prefix = 'form--competition--' %}
+                                {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
+                                {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
+                                {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
+                                {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
+                                {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
+                                {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9}" error="Please enter a valid UK telephone number" %}
+                                {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
+                                {% if page.entry-extension %}
+                                    {% include extensions/{{ page.entry-extension }} %}
+                                {% endif %}
+
+                                 <div class="small">
+                                    {% capture terms_checkbox_label %}
+                                        <span class="logged-in-only">
+                                            I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+                                        </span>
+                                        <span class="logged-out-only">
+                                            By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+                                            and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
+                                            you'll receive weekly email updates about offers and competitions available to members.
+                                            You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
+                                            <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
+                                                <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout" />
+                                                <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
+                                            </label>
+                                        </span>
+                                    {% endcapture %}
+                                    {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
+
+                                    <div class="logged-out-only">
+                                        {% include optin-fragment.html
+                                            optin2p-hide=page.optin2p-create-hide
+                                            optin3p-hide=page.optin3p-create-hide%}
+                                    </div>
+                                </div>
+                                {% assign form_input_id_prefix = '' %}
+                            </form>
+
                             <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
                             <input type="hidden" name="emailEntrant" value="true" />
                             <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
-                            <input type="hidden" name="version" value="1"/>
 
-                            {% assign form_input_id_prefix = 'form--competition--' %}
-                            {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
-                            {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
-                            {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
-                            {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
-                            {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
-                            {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9}" error="Please enter a valid UK telephone number" %}
-                            {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
-                            {% if page.entry-extension %}
-                                {% include extensions/{{ page.entry-extension }} %}
-                            {% endif %}
-
-                             <div class="small">
-                                {% capture terms_checkbox_label %}
-                                    <span class="logged-in-only">
-                                        I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
-                                    </span>
-                                    <span class="logged-out-only">
-                                        By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
-                                        and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
-                                        you'll receive weekly email updates about offers and competitions available to members.
-                                        You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
-                                        <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
-                                            <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout" />
-                                            <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
-                                        </label>
-                                    </span>
-                                {% endcapture %}
-                                {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
-
-                                <div class="logged-out-only">
-                                    {% include optin-fragment.html
-                                        optin2p-hide=page.optin2p-create-hide
-                                        optin3p-hide=page.optin3p-create-hide%}
-                                </div>
+                            <div class="text-center pt-3">
+                                <button class="btn btn-primary disable-if-busy" id="action--enter" data>
+                                    <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
+                                    <span class="show-when-busy">Submitting Entry <img
+                                            src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+                                </button>
                             </div>
-                            {% assign form_input_id_prefix = '' %}
-                        </form>
-                <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-                <input type="hidden" name="emailEntrant" value="true" />
-                <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
+                        </div>
 
-                <div class="text-center pt-3">
-                            <button class="btn btn-primary disable-if-busy" id="action--enter" data>
-                                <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
-                                <span class="show-when-busy">Submitting Entry <img
-                                        src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
-                            </button>
+                        <div class=" {{restriction-classes}} display-restriction">
+                            <h2 class="text-center">Competition not available in your country</h2>
                         </div>
                     </div>
                 {% endif %}

@@ -1,7 +1,15 @@
 {% include club_base_url.html %}
 {% assign item-path-prefix = (item.collection | prepend: "_") %}
 {% assign item-url = (item.relative_path | replace: ".markdown", "" | replace: item-path-prefix, club_base) %}
-<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %}" id="eid-{{include.item.campaign-uuid}}"
+{% assign restriction-classes = '' %}
+{% if include.item.country-restrictions %}
+    {% for restriction in include.item.country-restrictions  %}
+        {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
+    {% endfor %}
+{% else %}
+    {% assign restriction-classes = 'restriction-UK' %}
+{% endif %}
+<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} {{restriction-classes}}" id="eid-{{include.item.campaign-uuid}}"
      data-competition-toggle="{{include.item.campaign-uuid}}"
      data-posted="{{ include.item.date | date: '%Y%m%d' }}"
      data-closes="{{ include.item.end-date | date: '%Y%m%d' }}"

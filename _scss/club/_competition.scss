@@ -197,3 +197,20 @@ body.competition {
     }
   }
 }
+
+body {
+  .display-restriction {
+    display: none;
+  }
+
+  $countries: UK, US;
+  @each $country in $countries {
+    &.country-#{$country} div[class*=" restriction-"]:not(.restriction-#{$country}){
+      display: none !important;
+    }
+
+    &.country-#{$country} div[class*=" restriction-"]:not(.restriction-#{$country}).display-restriction {
+      display: block !important;
+    }
+  }
+}
