@@ -63,6 +63,8 @@ clubs:
       optin2p-label-override: "Please email me with special offers and news from Cycling Weekly and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
       optin2p-update-hide: true
       optin3p-update-hide: true
+      countries:
+        - "GB"
   expressly_club: &EXPRESSLY_CLUB
       campaigns:      "club_expressly_campaigns"
       pages:          "club_expressly_pages"
@@ -103,6 +105,9 @@ clubs:
       optin2p-update-hide: true
       optin3p-update-hide: true
       nav-container-classes: "bg-main"
+      countries:
+        - "GB"
+        - "US"
   nme_club: &NME_CLUB
       campaigns:      "club_nme_campaigns"
       pages:          "club_nme_pages"
@@ -147,6 +152,9 @@ clubs:
       optin2p-label-override: "Please email me with special offers and news from NME and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
       optin2p-update-hide: true
       optin3p-update-hide: true
+      countries:
+        - "GB"
+        - "US"
   trustedreviews_club: &TRUSTEDREVIEWS_CLUB
       campaigns:      "club_trustedreviews_campaigns"
       pages:          "club_trustedreviews_pages"
@@ -171,6 +179,8 @@ clubs:
       optin2p-label-override: "Please email me with special offers and news from Trusted Reviews and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
       optin2p-update-hide: true
       optin3p-update-hide: true
+      countries:
+        - "GB"
 #      brand-nav-include: nme-nav-bar.html
 
 defaults:
