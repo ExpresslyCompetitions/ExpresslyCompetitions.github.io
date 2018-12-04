@@ -21,7 +21,7 @@
     <div class="form-group row {{include.rowClass}}">
         <label for="{{form_input_id_prefix}}country" class="col-sm-3 col-form-label">Country</label>
         <div class="col-sm-9">
-            <select class="form-control" name="{{include.id}}" id="{{form_input_id_prefix}}country">
+            <select class="form-control" name="country" id="{{form_input_id_prefix}}country">
                 {% for country in include.countries  %}
                     <option value="{{country}}">{% include country-lookup.html iso=country %}{{country-long}}</option>
                 {% endfor %}
