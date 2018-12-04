@@ -53,6 +53,10 @@
                         entriesMap[entries[i]['campaignUuid']] = entries[i];
                     }
                 }
+
+                if (profile && profile.country === 'UK') {
+                    profile.country = 'GB';
+                }
             }
 
             var personalAds = localStorage.getItem("personalAds.{{page.merchant-uuid}}") === 'true';
