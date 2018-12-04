@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-10-24T09:00:00.000Z"
 end-date: "2018-11-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 competition-description: "<p>The Breville Strata Luminere Platinum 2 Slice Toaster\
@@ -33,4 +33,6 @@ entry-content: "Enter the draw to Win Breville Strata Luminere Platinum 2 Slice 
 has-winner: false
 prize-description: "Breville Strata Luminere Platinum 2 Slice Toaster"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---
