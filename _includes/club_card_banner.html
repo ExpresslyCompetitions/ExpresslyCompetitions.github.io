@@ -13,7 +13,7 @@
     </div>
 
     {% if include.item.has_entry_page %}
-        <a href="{{item-url}}" class="hide-if-expired"></a>
+        <a href="{{item-url}}" class="hide-if-expired {{include.restriction-classes}}"></a>
     {% else %}
         <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
         <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>

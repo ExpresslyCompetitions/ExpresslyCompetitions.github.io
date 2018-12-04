@@ -9,7 +9,7 @@
 {% else %}
     {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
-<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} {{restriction-classes}}" id="eid-{{include.item.campaign-uuid}}"
+<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %}" id="eid-{{include.item.campaign-uuid}}"
      data-competition-toggle="{{include.item.campaign-uuid}}"
      data-posted="{{ include.item.date | date: '%Y%m%d' }}"
      data-closes="{{ include.item.end-date | date: '%Y%m%d' }}"
@@ -18,7 +18,7 @@
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
-            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=include.is-winner-card countries=include.item.country-restrictions %}
+            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=include.is-winner-card countries=include.item.country-restrictions restriction-classes=restriction-classes%}
         </div>
 
         <div class="col-md-7 col-lg-8 competition-card--content">
@@ -29,7 +29,12 @@
             <div class="competition-card--description small"><p>{{ include.item.competition-description }}</p></div>
             <div class="row justify-content-start align-items-center competition-card--footer">
                 <div class="col-12 col-sm-5 col-lg-4 col-xl-3 competition-card--buttons text-center text-sm-left mr-sm-1">
-                    {% include club_card_cta.html item=item item-url=item-url %}
+                    <div class=" {{restriction-classes}}">
+                        {% include club_card_cta.html item=item item-url=item-url %}
+                    </div>
+                    <div class=" {{restriction-classes}} display-restriction competition-card--status">
+                        <span>Ineligible</span>
+                    </div>
                 </div>
 
                 <div class="col competition-card--status text-center text-sm-right hide-if-expired">

@@ -205,11 +205,11 @@ body {
 
   $countries: GB, UK, US;
   @each $country in $countries {
-    &.country-#{$country} div[class*=" restriction-"]:not(.restriction-#{$country}){
+    &.country-#{$country} [class*=" restriction-"]:not(.restriction-#{$country}){
       display: none !important;
     }
 
-    &.country-#{$country} div[class*=" restriction-"]:not(.restriction-#{$country}).display-restriction {
+    &.country-#{$country} [class*=" restriction-"]:not(.restriction-#{$country}).display-restriction {
       display: block !important;
     }
   }
