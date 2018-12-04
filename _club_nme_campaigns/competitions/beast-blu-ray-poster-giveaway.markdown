@@ -45,4 +45,6 @@ entry-content: "Enter the draw to win one of 5 copies of Beast on Blu-ray and a 
 has-winner: false
 prize-description: "One of 5 copies of Beast on Blu-ray and a poster of the movie."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

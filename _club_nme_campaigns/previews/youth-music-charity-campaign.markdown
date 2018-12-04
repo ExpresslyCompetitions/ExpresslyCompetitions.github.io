@@ -22,4 +22,6 @@ logo-left-href: "https://www.youthmusic.org.uk/"
 logo-left-image: "https://assets.expresslyapp.com/asset-86972922-c68f-4d93-8844-a7c0c86dead1.jpg"
 logo-left-title: "Youth Music"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

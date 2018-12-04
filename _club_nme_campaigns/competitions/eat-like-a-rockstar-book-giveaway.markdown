@@ -42,4 +42,6 @@ has-winner: false
 prize-description: "Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
   \ Greatest book."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Andrew James Dual Omelette Maker by comple
 has-winner: false
 prize-description: "Andrew James Dual Omelette Maker!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win The Logo Board Game by completing the form
 has-winner: false
 prize-description: "The Logo Board Game."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

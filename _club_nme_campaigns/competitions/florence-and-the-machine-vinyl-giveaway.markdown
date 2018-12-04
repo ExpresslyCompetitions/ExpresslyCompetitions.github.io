@@ -31,4 +31,6 @@ entry-content: "Enter the draw to win Florence and the Machine ‘High as Hope�
 has-winner: false
 prize-description: "Florence and the Machine ‘High as Hope’ vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

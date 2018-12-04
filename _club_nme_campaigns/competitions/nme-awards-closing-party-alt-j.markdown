@@ -43,4 +43,6 @@ prize-restrictions: "<p>18+ (ID on entry)</p>\r\n\r\n<p>Winners will be notified
   \ any other prize or monetary value.</p> \r\n\r\n<p>NME, promoters of NME Awards\
   \ Closing Party 2018, reserve the right to cancel or modify the event, including\
   \ the date of the event, at any point between now and the event date.</p>"
+country-restrictions:
+- "GB"
 ---

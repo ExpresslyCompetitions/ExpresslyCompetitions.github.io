@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win Sony SRS-XB10 Compact Portable Wireless Sp
 has-winner: false
 prize-description: "Sony SRS-XB10 Compact Portable Wireless Speaker"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

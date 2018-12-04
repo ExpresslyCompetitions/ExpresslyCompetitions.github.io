@@ -39,4 +39,6 @@ entry-content: "Enter the draw to win £150 Topshop Gift card by completing the 
 has-winner: false
 prize-description: "A £150 Topshop Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

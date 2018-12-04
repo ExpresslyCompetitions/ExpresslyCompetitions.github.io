@@ -51,4 +51,6 @@ has-winner: false
 prize-description: "A month's supply (i.e., 30 snacks) of Indie Bay Snacks PLUS a\
   \ tote, a lanyard & a card holder."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -53,4 +53,6 @@ winner-title: "CONGRATULATIONS to Michelle who won the new amazing Instant photo
   \ video printer, the Lifeprint 2x3 Hyperphoto Printer!"
 winner-banner: "https://assets.expresslyapp.com/asset-ec968ae6-1f36-41ae-b5f3-2e9f694a398b.jpg"
 prize-description: "One 2x3 Lifeprint Hyperphoto printer worth £134.95"
+country-restrictions:
+- "GB"
 ---

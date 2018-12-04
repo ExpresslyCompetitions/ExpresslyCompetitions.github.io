@@ -41,4 +41,6 @@ entry-content: "Enter the draw to win the Instax Mini 8 camera and a 20 shot pac
 has-winner: false
 prize-description: "An Instax Mini 8 camera and a 20 shot pack."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

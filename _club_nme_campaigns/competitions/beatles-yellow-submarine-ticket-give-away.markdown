@@ -53,4 +53,6 @@ prize-description: "One of 10 pairs of tickets to see The Beatles Yellow Submari
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nEntrants\
   \ also agree Picturehouse's T&C's: https://www.picturehouses.com/Terms/Terms_And_Conditions#competitions"
+country-restrictions:
+- "GB"
 ---

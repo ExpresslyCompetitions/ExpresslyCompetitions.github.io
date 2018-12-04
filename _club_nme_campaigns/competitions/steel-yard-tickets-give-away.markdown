@@ -50,4 +50,6 @@ winner-title: "CONGRATULATIONS to Romilly, Irene, Martyn, Kevin & Anill who won 
 winner-banner: "https://assets.expresslyapp.com/asset-d3ee762b-34a3-4d5d-ba08-8cfeec9685d3.jpg"
 prize-description: "A pair of weekend tickets to Steel Yard London Weekender."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
+country-restrictions:
+- "GB"
 ---

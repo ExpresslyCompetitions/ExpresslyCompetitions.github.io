@@ -41,4 +41,6 @@ entry-content: "Enter the draw to win Hotel Transylvania 3 on Blu-ray by complet
 has-winner: false
 prize-description: "Hotel Transylvania 3 on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

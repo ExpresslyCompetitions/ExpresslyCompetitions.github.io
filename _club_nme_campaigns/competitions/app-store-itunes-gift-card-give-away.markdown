@@ -45,4 +45,6 @@ winner-title: "CONGRATULATIONS to Tony L. who won a £100 App Store & iTunes Gif
 winner-banner: "https://assets.expresslyapp.com/asset-37ca06d3-f48b-4260-85f0-1e7d627063fa.jpg"
 prize-description: "A £100 App Store & iTunes Gift Card"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

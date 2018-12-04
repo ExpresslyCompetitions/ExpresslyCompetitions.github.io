@@ -40,4 +40,6 @@ entry-extension: "nme/emerging-pledge-music-extension.html"
 has-winner: false
 prize-description: "One lucky fan will give his/her favourite band the chance to go\
   \ and play in NME offices & £2,000 support from Pledge Music."
+country-restrictions:
+- "GB"
 ---

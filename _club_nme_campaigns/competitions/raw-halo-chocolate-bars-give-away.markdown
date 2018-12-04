@@ -51,4 +51,6 @@ winner-title: "CONGRATULATIONS to Irene M. who won a delicious bundle of healthy
 winner-banner: "https://assets.expresslyapp.com/asset-843443de-63ee-4f0d-8ccf-35105efdbd40.jpg"
 prize-description: "A delicious bundle of healthy chocolate bars courtesy of Raw Halo!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

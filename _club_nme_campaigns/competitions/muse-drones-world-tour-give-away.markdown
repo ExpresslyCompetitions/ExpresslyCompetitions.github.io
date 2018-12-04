@@ -48,4 +48,6 @@ entry-content: "Enter the draw to win one of 5 pairs of tickets to see MUSE 'Dro
 has-winner: false
 prize-description: "One of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

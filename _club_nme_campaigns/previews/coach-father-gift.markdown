@@ -18,4 +18,6 @@ logo-left-href: "http://uk.coach.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-af3388d3-f7df-4a87-ac0c-88cf144ddfec.jpg"
 logo-left-title: "Coach"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

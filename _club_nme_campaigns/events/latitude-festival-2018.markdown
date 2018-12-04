@@ -18,4 +18,6 @@ logo-left-href: "https://www.tickx.co.uk/event/999306/"
 logo-left-image: "https://assets.expresslyapp.com/asset-51a82d6b-d501-4dcb-babb-15d3445c11d8.jpg"
 logo-left-title: "Tickx"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

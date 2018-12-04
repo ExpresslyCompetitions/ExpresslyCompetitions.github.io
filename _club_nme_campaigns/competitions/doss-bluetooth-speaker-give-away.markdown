@@ -42,4 +42,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-91017a49-b07d-4b4f-a699-68
 prize-description: "A Doss SoundBox Bluetooth speaker"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

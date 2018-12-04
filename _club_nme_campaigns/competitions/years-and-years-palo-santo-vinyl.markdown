@@ -37,4 +37,6 @@ entry-content: "Enter the draw to win Years & Years brand new album Palo Santo v
 has-winner: false
 prize-description: "Years & Years brand new album Palo Santo vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

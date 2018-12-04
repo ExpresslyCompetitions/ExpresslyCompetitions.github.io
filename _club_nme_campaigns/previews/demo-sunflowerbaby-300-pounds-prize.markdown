@@ -39,4 +39,6 @@ entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby to somethin
 has-winner: false
 prize-description: "(demo) £300 to spend at Sunflowerbaby"
 special-conditions: "Multiple entries are allowed: one per minute."
+country-restrictions:
+- "GB"
 ---

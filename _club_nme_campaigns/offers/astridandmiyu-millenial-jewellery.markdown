@@ -18,4 +18,6 @@ logo-left-href: "https://www.astridandmiyu.com/new-in"
 logo-left-image: "astrid-logo.png"
 logo-left-title: "Astrid and Miyu"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

@@ -16,4 +16,6 @@ logo-left-href: "http://www.nme.com/competitions/win-tickets-cinejam-manchester"
 logo-left-image: "nme-logo.jpg"
 logo-left-title: "NME Competitions"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

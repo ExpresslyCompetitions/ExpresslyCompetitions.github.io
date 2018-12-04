@@ -39,4 +39,6 @@ entry-content: "Enter the draw to win a copy of Proud Mary on DVD!  by completin
 has-winner: false
 prize-description: "A copy of Proud Mary on DVD!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

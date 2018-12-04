@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win the brand new Fifa 19 by completing the fo
 has-winner: false
 prize-description: "The brand new Fifa 19"
 special-conditions: "This competition is also available on: https://https://club.expressly.io/competitions/fifa-19-giveaway"
+country-restrictions:
+- "GB"
 ---

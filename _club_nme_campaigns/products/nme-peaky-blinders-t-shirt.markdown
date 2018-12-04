@@ -19,4 +19,6 @@ logo-left-href: "https://nmemerch.com/"
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

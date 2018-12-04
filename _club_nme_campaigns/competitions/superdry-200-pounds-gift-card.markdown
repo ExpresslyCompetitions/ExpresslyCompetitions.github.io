@@ -40,4 +40,6 @@ winner-title: "CONGRATULATIONS to Lisa R. who won a £200 Superdry gift card!"
 winner-banner: "https://assets.expresslyapp.com/asset-1592de76-02a6-44c3-9367-000070529849.jpg"
 prize-description: "A £200 Superdry gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

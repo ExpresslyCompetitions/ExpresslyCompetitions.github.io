@@ -52,4 +52,6 @@ prize-description: "One of 3 bundles of John Carpenter’s 4K Restorations.\r\nE
   \ NEW YORK, THEY LIVE and PRINCE OF DARKNESS and a set of 6 postcards.\r\n2x A copy\
   \ of THE FOG on Blu-Ray and a T-shirt."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

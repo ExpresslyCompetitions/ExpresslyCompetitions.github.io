@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win the exclusive Stranger Things Vinyl by com
 has-winner: false
 prize-description: "The exclusive Stranger Things Vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

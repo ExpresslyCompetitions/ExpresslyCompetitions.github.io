@@ -38,4 +38,6 @@ entry-content: "Enter the draw to win Iceworks 7000 In-Built Cable USB C Power B
 has-winner: false
 prize-description: "Iceworks 7000 In-Built Cable USB C Power Bank"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

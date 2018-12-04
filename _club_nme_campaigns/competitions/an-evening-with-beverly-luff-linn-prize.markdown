@@ -48,4 +48,6 @@ has-winner: false
 prize-description: "One of 3 bundles of An Evening With Beverly Luff-Linn. including:\
   \ the official Blu-Ray, a poster & a soundtrack download of the movie."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

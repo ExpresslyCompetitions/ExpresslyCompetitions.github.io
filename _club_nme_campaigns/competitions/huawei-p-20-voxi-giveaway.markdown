@@ -48,4 +48,6 @@ entry-content: "Enter the draw to win the Huawei P20 Lite and discover VOXI by V
 has-winner: false
 prize-description: "One Huawei P20 Lite 64GB"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -43,4 +43,6 @@ winner-title: "CONGRATULATIONS to Waris, Andrea, Lizzie, Alex & Perrie who won a
   \ of the new TV show Britannia on Blu-ray™!"
 winner-banner: "https://assets.expresslyapp.com/asset-1470dabc-f089-46bc-8fa5-44b0e296d7c7.jpg"
 prize-description: "Win a copy of the new TV show Britannia on Blu-ray™"
+country-restrictions:
+- "GB"
 ---

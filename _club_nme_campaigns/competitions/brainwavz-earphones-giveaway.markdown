@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win the Brainwavz M2 IEM Noise Isolating Earph
 has-winner: false
 prize-description: "Brainwavz M2 IEM Noise Isolating Earphones"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

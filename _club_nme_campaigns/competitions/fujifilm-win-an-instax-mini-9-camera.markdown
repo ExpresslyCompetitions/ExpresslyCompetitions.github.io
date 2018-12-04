@@ -17,4 +17,6 @@ logo-left-href: "http://www.fujifilm.com/products/instant_photo/cameras/instax_m
 logo-left-image: "fujifilm-logo.png"
 logo-left-title: "Fujifilm"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

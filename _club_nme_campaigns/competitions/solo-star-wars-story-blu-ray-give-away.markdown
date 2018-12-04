@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win ‘Solo: A Star Wars Story’ on Blu-ray b
 has-winner: false
 prize-description: "'Solo: A Star Wars Story' on Blu-ray"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

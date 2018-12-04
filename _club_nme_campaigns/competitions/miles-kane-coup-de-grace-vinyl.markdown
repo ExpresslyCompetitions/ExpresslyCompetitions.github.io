@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win Miles Kane Coup De Grace vinyl edition by 
 has-winner: false
 prize-description: "Win Miles Kane Coup De Grace vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

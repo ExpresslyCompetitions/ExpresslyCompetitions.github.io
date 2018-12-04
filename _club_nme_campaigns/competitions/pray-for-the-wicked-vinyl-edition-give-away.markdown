@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win the brand new Panic! at the Disco Pray for
 has-winner: false
 prize-description: "The brand new Panic! at the Disco Pray for the Wicked Vinyl Edition"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

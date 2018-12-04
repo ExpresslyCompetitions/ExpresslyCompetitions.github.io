@@ -45,4 +45,6 @@ has-winner: false
 prize-description: "A month's supply of Virtue Energy Water (36 cans of both Lemon\
   \ & Lime and Berries)."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

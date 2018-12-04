@@ -59,4 +59,6 @@ prize-restrictions: "Winner is responsible for any transport costs to/from the e
 special-conditions: "The winners will be contacted the day after the competition closes\
   \ and it will have one week to claim the prize.\r\nMultiple entries are allowed\
   \ up to one every day."
+country-restrictions:
+- "GB"
 ---

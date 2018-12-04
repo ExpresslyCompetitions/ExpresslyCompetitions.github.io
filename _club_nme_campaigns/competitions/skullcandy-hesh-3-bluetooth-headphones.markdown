@@ -41,4 +41,6 @@ has-winner: false
 prize-description: "Skullcandy Hesh 3 Bluetooth Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/skullcandy-hesh-3-bluetooth-headphones"
+country-restrictions:
+- "GB"
 ---

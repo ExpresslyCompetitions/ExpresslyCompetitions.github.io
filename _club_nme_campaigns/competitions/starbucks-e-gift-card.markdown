@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win a £30 Starbucks eGift card by completing 
 has-winner: false
 prize-description: "A £30 Starbucks eGift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

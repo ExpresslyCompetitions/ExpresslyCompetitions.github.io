@@ -19,4 +19,6 @@ logo-left-href: "https://metersmusic.com/"
 logo-left-image: "https://assets.expresslyapp.com/403d5d33-d37e-4a3e-94df-dec579ca0267-thumb.png"
 logo-left-title: "Meters Music"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

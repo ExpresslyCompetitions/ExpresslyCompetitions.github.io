@@ -52,4 +52,6 @@ winner-title: "Bethan, Daisy, Francesca, Chloe, Monika, Antoana, Montserrat, Elo
 winner-banner: "https://assets.expresslyapp.com/asset-86f3d074-b180-4de1-a740-9affa50e6f9d.jpg"
 prize-description: "2 tickets to Bastille's DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
+country-restrictions:
+- "GB"
 ---

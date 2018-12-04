@@ -17,4 +17,6 @@ logo-left-href: "https://nmemerch.com/products/alice-cooper-vintage-poster-mens-
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

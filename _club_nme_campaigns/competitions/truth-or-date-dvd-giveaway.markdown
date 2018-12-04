@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win Truth or Dare on DVD by completing the for
 has-winner: false
 prize-description: "Truth or Dare on DVD"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

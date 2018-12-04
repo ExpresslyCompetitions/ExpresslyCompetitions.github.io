@@ -36,4 +36,6 @@ has-winner: false
 prize-description: "A Macrimo Waterproof Bluetooth Speaker!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

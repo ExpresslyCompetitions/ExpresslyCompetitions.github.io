@@ -34,4 +34,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-87ce794e-6bee-4c60-a2e6-f8
 prize-description: "A Blooma® Charcoal Kettle Barbecue!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

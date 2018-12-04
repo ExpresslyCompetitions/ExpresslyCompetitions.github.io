@@ -35,4 +35,6 @@ has-winner: false
 prize-description: "Little Mix LM5 CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/little-mix-lm5-cd"
+country-restrictions:
+- "GB"
 ---

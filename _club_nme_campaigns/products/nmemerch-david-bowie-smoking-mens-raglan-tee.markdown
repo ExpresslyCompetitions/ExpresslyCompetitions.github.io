@@ -16,4 +16,6 @@ logo-left-href: "https://nmemerch.com/collections/david-bowie/products/david-bow
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "The AmazonBasics Large Portable Bluetooth Speaker!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://club.expressly.io/competitions/amazon-bluetooth-speaker"
+country-restrictions:
+- "GB"
 ---

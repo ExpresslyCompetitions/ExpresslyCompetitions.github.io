@@ -34,4 +34,6 @@ winner-title: "CONGRATULATIONS to Maggie C. who won ‘Would I lie to you?’ bo
 winner-banner: "https://assets.expresslyapp.com/asset-c4b4f9a2-927e-4423-88c3-64ca0dbded21.jpg"
 prize-description: "The ‘Would I lie to you?’ board game!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

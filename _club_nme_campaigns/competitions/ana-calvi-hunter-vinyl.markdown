@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win Anna Calvi Hunter vinyl edition by complet
 has-winner: false
 prize-description: "Anna Calvi Hunter vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

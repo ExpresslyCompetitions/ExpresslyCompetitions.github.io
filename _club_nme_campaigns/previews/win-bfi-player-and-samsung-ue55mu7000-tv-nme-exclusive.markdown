@@ -40,4 +40,6 @@ entry-content: "Complete the form below to win a year BFI Player subscription fo
 has-winner: false
 prize-description: "1 year of BFI player subscription worth £4.99 per month and 1\
   \ UE55MU7000 worth £799 (based on RRP)"
+country-restrictions:
+- "GB"
 ---

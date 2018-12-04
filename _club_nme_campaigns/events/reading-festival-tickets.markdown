@@ -19,4 +19,6 @@ logo-left-href: "https://www.tickx.co.uk/reading-festival-tickets/"
 logo-left-image: "https://assets.expresslyapp.com/asset-a79b33ea-bebc-4cc2-8e55-c50b46231f24.jpg"
 logo-left-title: "Tickx"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

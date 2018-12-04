@@ -18,4 +18,6 @@ logo-left-href: "https://www.phixclothing.com/collections/mens-retro-jackets-coa
 logo-left-image: "https://assets.expresslyapp.com/0e9a1752-b267-43cd-8030-d47bfb75e09b-thumb.png"
 logo-left-title: "Phix"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

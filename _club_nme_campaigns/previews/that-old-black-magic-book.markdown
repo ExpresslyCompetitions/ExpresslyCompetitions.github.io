@@ -20,4 +20,6 @@ logo-left-href: "https://www.amazon.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/9d6dc944-a1a1-4b9a-8932-54981a79676f-thumb.png"
 logo-left-title: "Amazon"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

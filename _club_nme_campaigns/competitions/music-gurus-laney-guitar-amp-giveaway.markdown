@@ -49,4 +49,6 @@ has-winner: false
 prize-description: "A Laney Guitar Amp worth £750 PLUS plus a free Rockschool guitar\
   \ course which includes many lessons."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

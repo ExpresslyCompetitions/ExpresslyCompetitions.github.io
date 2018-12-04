@@ -48,4 +48,6 @@ has-winner: false
 prize-description: "One of 4 pairs of tickets to Hot Dub Time Machine in London."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

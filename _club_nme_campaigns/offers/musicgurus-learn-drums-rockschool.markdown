@@ -19,4 +19,6 @@ logo-left-href: "https://www.musicgurus.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-78f189a4-1ce3-4c02-85c0-e96cd9039121.jpg"
 logo-left-title: "MusicGurus"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

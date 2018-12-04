@@ -61,4 +61,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-2c7af056-5e98-4ffe-a0b5-37
 prize-description: "One of 2 pairs of VIP Brown Sugar tickets to The Rolling Stones\
   \ ‘No Filter’ Tour in London."
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
+country-restrictions:
+- "GB"
 ---

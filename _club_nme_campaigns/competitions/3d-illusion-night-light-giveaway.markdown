@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win the 3D Illusion Guitar Night Light by comp
 has-winner: false
 prize-description: "A 3D Illusion Guitar Night Light."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

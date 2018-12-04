@@ -33,4 +33,6 @@ entry-content: "<p>Complete the form below before October 14th at 23:59 and enjo
 has-winner: false
 prize-description: "A £100 Ticketmaster Gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

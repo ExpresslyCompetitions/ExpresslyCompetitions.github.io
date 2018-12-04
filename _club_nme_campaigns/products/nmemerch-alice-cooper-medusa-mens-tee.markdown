@@ -19,4 +19,6 @@ logo-left-href: "https://nmemerch.com/products/copy-of-alice-cooper-elected-mens
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

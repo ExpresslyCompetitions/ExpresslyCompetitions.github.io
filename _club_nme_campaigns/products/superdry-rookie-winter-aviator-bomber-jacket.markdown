@@ -18,4 +18,6 @@ logo-left-href: "https://www.superdry.com/mens/jackets/bomber-jackets/details/70
 logo-left-image: "superdry-logo.png"
 logo-left-title: "Superdry"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

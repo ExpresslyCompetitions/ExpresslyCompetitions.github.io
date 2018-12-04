@@ -33,4 +33,6 @@ has-winner: false
 prize-description: "A Casio Collection Unisex Watch."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/casio-collection-unisex-watch-giveaway"
+country-restrictions:
+- "GB"
 ---

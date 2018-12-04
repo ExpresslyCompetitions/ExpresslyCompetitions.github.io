@@ -34,4 +34,6 @@ entry-content: "Enter the draw to The Kooks ‘Let’s Go Sunshine’ vinyl edit
 has-winner: false
 prize-description: "The Kooks 'Let’s Go Sunshine' vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

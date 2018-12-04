@@ -18,4 +18,6 @@ logo-left-href: "https://www.figleaves.com/uk/"
 logo-left-image: "figleaves-logo.svg"
 logo-left-title: "Figleaves"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

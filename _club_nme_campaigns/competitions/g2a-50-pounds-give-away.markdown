@@ -44,4 +44,6 @@ winner-title: "CONGRATULATIONS to Katie P. who won £50 to discover many excitin
 winner-banner: "https://assets.expresslyapp.com/asset-e03e3e37-0450-4820-84f0-ffb5a889b248.jpg"
 prize-description: "£50 gift card at G2A."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

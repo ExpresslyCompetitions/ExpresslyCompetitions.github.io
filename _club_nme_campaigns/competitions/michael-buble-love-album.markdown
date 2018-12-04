@@ -41,4 +41,6 @@ has-winner: false
 prize-description: "Michael Bublé new album: LOVE"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/michael-buble-love-album"
+country-restrictions:
+- "GB"
 ---

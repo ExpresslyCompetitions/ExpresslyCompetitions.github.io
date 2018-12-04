@@ -39,4 +39,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-46893b5a-1dec-4df0-a918-8a
 prize-description: "Andrew James Pancake Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

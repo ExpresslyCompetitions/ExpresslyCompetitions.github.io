@@ -43,4 +43,6 @@ entry-content: "<p>Enter the draw to win the toy your coffee was waiting for! Th
   \  June 2018.</p>"
 has-winner: false
 prize-description: "An Oomph Advanced Coffee Maker!"
+country-restrictions:
+- "GB"
 ---

@@ -60,4 +60,6 @@ winner-title: "Congratulations to Saffron L. (Luton) & Ashley A. (London) who wo
 winner-banner: "nme-vo5-amazons-ticket-banner2.jpg"
 prize-description: "2x tickets to The Amazons' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
+country-restrictions:
+- "GB"
 ---

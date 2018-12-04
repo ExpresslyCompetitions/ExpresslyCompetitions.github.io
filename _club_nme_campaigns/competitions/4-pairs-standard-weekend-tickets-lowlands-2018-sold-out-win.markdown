@@ -47,4 +47,6 @@ prize-description: "One of 4x SOLD OUT pairs of standard weekend tickets at Lowl
 prize-restrictions: "Any travel expenses are not included.\r\nEntrants also agree\
   \ Lowlands's T&C's: http://lowlands.nl/english/"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

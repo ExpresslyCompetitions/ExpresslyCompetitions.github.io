@@ -38,4 +38,6 @@ entry-content: "Enter the draw to win Tom Odell 'Jubilee Road' vinyl by completi
 has-winner: false
 prize-description: "Tom Odell 'Jubilee Road' vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

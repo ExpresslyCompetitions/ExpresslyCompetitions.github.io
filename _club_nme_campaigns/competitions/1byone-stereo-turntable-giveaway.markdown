@@ -39,4 +39,6 @@ entry-content: "Enter the draw to win the 1byone 3-Speed Stereo Turntable by com
 has-winner: false
 prize-description: "Winner wins a 1byone 3-Speed Stereo Turntable"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

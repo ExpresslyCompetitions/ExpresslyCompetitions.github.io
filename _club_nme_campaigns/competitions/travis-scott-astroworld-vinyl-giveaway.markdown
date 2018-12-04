@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Travis Scott Astroworld Vinyl edition\r\nb
 has-winner: false
 prize-description: "Travis Scott Astroworld vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

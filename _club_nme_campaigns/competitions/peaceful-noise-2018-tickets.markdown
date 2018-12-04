@@ -59,4 +59,6 @@ entry-content: "Enter the draw to win a pair of tickets to A Peaceful Noise 201 
 has-winner: false
 prize-description: "A pair of tickets to A Peaceful Noise 2018."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

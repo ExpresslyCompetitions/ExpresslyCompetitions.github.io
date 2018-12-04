@@ -42,4 +42,6 @@ has-winner: false
 prize-description: "Win the brand new Game of Thrones Special Edition MONOPOLY!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

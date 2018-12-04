@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win Dua Lipa debut album vinyl edition by comp
 has-winner: false
 prize-description: "Dua Lipa debut album vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

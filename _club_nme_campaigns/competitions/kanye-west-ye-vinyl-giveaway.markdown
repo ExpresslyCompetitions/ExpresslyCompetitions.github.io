@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win Kanye West ‘ye’ Vinyl edition by compl
 has-winner: false
 prize-description: "Kanye West ‘ye’ Vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

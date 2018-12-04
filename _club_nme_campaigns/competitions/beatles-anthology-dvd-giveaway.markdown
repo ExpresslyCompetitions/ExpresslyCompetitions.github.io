@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win The Beatles Anthology on DVD by completing
 has-winner: false
 prize-description: "The Beatles Anthology on DVD"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -16,4 +16,6 @@ logo-left-href: "https://www.glossier.com/products/generation-g-lip-gloss-duo"
 logo-left-image: "glossier-logo.jpg"
 logo-left-title: "Glossier"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

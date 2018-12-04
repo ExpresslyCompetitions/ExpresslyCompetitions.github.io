@@ -17,4 +17,6 @@ logo-left-href: "https://nmemerch.com/collections/best-selling/products/family-g
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

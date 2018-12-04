@@ -43,4 +43,6 @@ entry-content: "Enter the draw to win The Crown Season 1 and 2 Box Set\r\nby com
 has-winner: false
 prize-description: "The Crown Season 1 and 2 Boxset."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

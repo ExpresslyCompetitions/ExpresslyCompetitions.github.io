@@ -59,4 +59,6 @@ winner-title: "CONGRATULATIONS to Joanna, Jackie & Laura who won The Dark Crysta
 winner-banner: "https://assets.expresslyapp.com/asset-2c4e4bc5-98bb-4934-b399-6db79ca86bcc.jpg"
 prize-description: "One of 3 copies of The Dark Crystal on Blu-ray™ and one of  3\
   \ copies of the Ultimate Visual History book of the movie."
+country-restrictions:
+- "GB"
 ---

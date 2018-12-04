@@ -39,4 +39,6 @@ entry-content: "<p>Enter the draw to win the game that raised more than $8.7 mil
   \ 23:59 on 16th May 2018.</p>"
 has-winner: false
 prize-description: "One Exploding Kittens card game."
+country-restrictions:
+- "GB"
 ---

@@ -31,4 +31,6 @@ entry-content: "Enter the draw to win a £40 New Balance eGift card by completin
 has-winner: false
 prize-description: "A 40 New Balance eGift card."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

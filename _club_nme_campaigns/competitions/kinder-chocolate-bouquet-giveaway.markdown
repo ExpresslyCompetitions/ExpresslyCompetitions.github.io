@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win a Kinder Large Chocolate Bouquet by comple
 has-winner: false
 prize-description: "A Kinder Large Chocolate Bouquet."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

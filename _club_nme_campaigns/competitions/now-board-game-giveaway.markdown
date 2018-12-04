@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win 'NOW That’s What I Call Music' by comple
 has-winner: false
 prize-description: "'NOW That’s What I Call Music' board game."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

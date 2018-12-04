@@ -19,4 +19,6 @@ logo-left-href: "https://www.urbanoutfitters.com/?ref=logo"
 logo-left-image: "https://assets.expresslyapp.com/asset-728a5c4d-ce53-4f85-a171-2c397512e583.jpg"
 logo-left-title: "Urban Outfitters"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

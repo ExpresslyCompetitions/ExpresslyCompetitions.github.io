@@ -54,4 +54,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-3262ddb8-ab92-4052-9639-81
 prize-description: "One of 3 \"Rockschool video course of choice including 3 personal\
   \ online lessons from an expert teacher\", indicatively worth £100 (depending on\
   \ the actual winner's choice of course and tutor)"
+country-restrictions:
+- "GB"
 ---

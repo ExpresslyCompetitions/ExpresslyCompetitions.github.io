@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win Game for Fame board game by completing the
 has-winner: false
 prize-description: "Game for Fame board game."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

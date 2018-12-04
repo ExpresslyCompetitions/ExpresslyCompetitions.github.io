@@ -50,4 +50,6 @@ special-conditions: "This competition is promoted in conjunction with Time Inc U
   \ and these special Terms and Conditions apply:\r\n<a href=\"https://aaa.nme.com/etc/INMusic_TsCs.pdf\"\
   > Time Inc UK INmusic Festival Terms & Conditions </a>.\r\nNotable extract: all\
   \ expenses (including but not limited to travel expenses) are not covered."
+country-restrictions:
+- "GB"
 ---
