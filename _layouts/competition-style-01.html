@@ -98,7 +98,7 @@
                 {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
                 {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
                 {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
-                {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="(0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9}" error="Please enter a valid UK telephone number" %}
+                {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="((0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9})|((\+1|001)[-. ]?)?\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})" error="Please enter a valid telephone number" %}
                 {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" %}
                 {% include form_input_checkbox.html id="term-confirmation" label=page.terms-confirmation required="true" %}
                 {% assign form_input_id_prefix = '' %}
