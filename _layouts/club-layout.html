@@ -26,7 +26,7 @@
     {% endif %}
 
     {% if page.css %}
-    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=14"/>
+    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=15"/>
     {% else %}
     <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=80"/>
     {% endif %}
@@ -71,8 +71,10 @@
         }
     </script>
 
+    {% if page.ad-base-gpt-tag %}{% include {{page.ad-base-gpt-tag}} %}{% endif %}
+
     {% if page.icon-url %}
-    <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
+        <link rel="icon" href="{{page.icon-url}}" sizes="32x32" />
     {% endif %}
 </head>
 <body class="{{page.body-class}} {{layout.body-class}} {% if page.is-demo == true %} pb-big {% endif %}" data-muid="{{page.merchant-uuid}}" data-countries='{{page.countries|jsonify}}' data-domain-migrations-enabled="{{page.domain-migrations-enabled}}">
@@ -80,14 +82,10 @@
 <script>if (signedIn && entriesCount > 0) { document.body.className += ' entered-at-least-one'; }</script>
 <script>if (signedIn) { document.body.className += ' country-' + profile.country; }</script>
 
-{% if page.ad-thank-you-top-banner %}
-{% include {{ page.ad-thank-you-top-banner }} %}
-{% endif %}
+{% if page.ad-base-gpt-tag and page.ad-base-top-leaderboard %}{% include {{page.ad-base-top-leaderboard}} %}{% endif %}
 
 <div class="nav-container fixed-top {{ page.nav-container-classes }}">
-    {% if page.brand-nav-include %}
-    {% include {{ page.brand-nav-include }} %}
-    {% endif %}
+    {% if page.brand-nav-include %}{% include {{ page.brand-nav-include }} %}{% endif %}
     {% if page.club-nav-expand %}{% assign club-nav-expand = page.club-nav-expand %}{% else %}{% assign club-nav-expand = "xl" %}{% endif %}
 
     <nav class="navbar navbar-expand-{{club-nav-expand}} navbar-dark bg-main" id="club-navbar">
@@ -170,9 +168,10 @@
 {% include _register_modal.html %}
 {% include _password_reset_modal.html %}
 {% include _password_reset_request_modal.html %}
-{% if page.welcome-modal %}
-{% include {{page.welcome-modal}} %}
-{% endif %}
+
+{% if page.welcome-modal %}{% include {{page.welcome-modal}} %}{% endif %}
+
+{% if page.ad-base-gpt-tag and page.ad-base-bottom-leaderboard %}{% include {{page.ad-base-bottom-leaderboard}} %}{% endif %}
 
 <footer>
     <div class="container">
@@ -192,9 +191,9 @@
             <div class="col-12 col-md-3 pl-0">
                 <div class="copyright-text text-center text-md-right small py-0 {% if page.is-demo != true %} text-nowrap {% endif %}">
                     {% if page.is-demo == true %}
-                    This is a demo -  Powered by Expressly Competitions
+                        This is a demo -  Powered by Expressly Competitions
                     {% else %}
-                    {{page.club-copyright}}
+                        {{page.club-copyright}}
                     {% endif %}
                 </div>
             </div>
@@ -242,9 +241,7 @@
     ga('set', 'anonymizeIp', true);
     ga('send', 'pageview');
 
-    {% if page.ga-extra-include %}
-    {% include {{ page.ga-extra-include }} %}
-    {% endif %}
+    {% if page.ga-extra-include %}{% include {{ page.ga-extra-include }} %}{% endif %}
 
 
 </script>
@@ -256,9 +253,9 @@
     }
 </script>
 
-{% if page.consent-script %}
-{% include {{page.consent-script}} %}
-{% else %}
+{% if page.ad-script and page.ad-body %}{% include {{page.ad-body}} %}{% endif %}
+
+{% if page.consent-script %}{% include {{page.consent-script}} %}{% else %}
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <script>
     window.addEventListener("load", function(){
