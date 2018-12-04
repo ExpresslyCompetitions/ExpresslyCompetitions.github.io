@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-192613cc-c4a3-456c-9ab4-2d5a6
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-2f8c208d-bb8d-43ed-9e4e-35281412c709.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-b0117436-1fde-4cd8-8fe0-fd466c729392.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-26aa6b99-f02d-4744-bf70-2d57c7a552e6.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-372a582c-16ea-4917-bdbe-3bac43398fb0.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-61ea7b33-f7f4-46c2-9a9f-58c70e594d7e.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-7992a4be-18ec-44c5-bc40-61bad0ab750d.jpg"
@@ -41,8 +41,7 @@ section2-content: "<p>Now, the founding member and guitarist from The Killers ha
   \ The album examines our basic relationships and interactions, with family, friends\
   \ and co-workers, how one can feel trapped by their surroundings, as well as those\
   \ that rely on them, emotionally and/or professionally. The album is inspired by\
-  \ the very thing that brought him here in the first place – the music.</p>\r\n<p><i>(Credit:Dana\
-  \ Trippe)</i></p>"
+  \ the very thing that brought him here in the first place – the music.</p>"
 section3-content: "<p>Keuning plays his debut solo UK shows next month showcasing\
   \ his brand new material, with a date at Manchester’s Night & Day on 9th December\
   \ and London’s Dingwalls on 10th December.</p>\r\n<p>We’ve got a pair of tickets\
