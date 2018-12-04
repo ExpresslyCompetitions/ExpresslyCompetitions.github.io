@@ -46,4 +46,6 @@ prize-restrictions: "The winner(s) are responsible for expenses and arrangements
 special-conditions: "Multiple entries are allowed up to one every day.\r\nWinners\
   \ will be notified by email on or before 15 November. Prizes will be dispatched\
   \ on or before 15 November by email."
+country-restrictions:
+- "GB"
 ---

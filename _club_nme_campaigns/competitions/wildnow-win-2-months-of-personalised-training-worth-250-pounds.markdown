@@ -46,4 +46,6 @@ entry-content: "<p>\r\n Get fit today, and discover your Wild side. Brought to y
 has-winner: false
 prize-description: "2 months of personalised and adaptive training, with a dedicated\
   \ professional coach, worth £250"
+country-restrictions:
+- "GB"
 ---

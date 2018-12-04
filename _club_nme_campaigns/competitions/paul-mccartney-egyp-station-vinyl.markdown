@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win Paul Mccartney Egypt Station vinyl edition
 has-winner: false
 prize-description: "Paul Mccartney Egypt Station vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

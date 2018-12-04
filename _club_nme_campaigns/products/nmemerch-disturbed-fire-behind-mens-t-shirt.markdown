@@ -17,4 +17,6 @@ logo-left-href: "https://nmemerch.com/products/disturbed-fire-behind-mens-t-shir
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

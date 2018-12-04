@@ -20,4 +20,6 @@ logo-left-href: "https://www.newbalance.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/82aa1ba0-aef4-4c02-b3b5-f2aa2892b964-thumb.png"
 logo-left-title: "New Balance"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

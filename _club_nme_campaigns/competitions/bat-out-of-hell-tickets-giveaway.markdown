@@ -57,4 +57,6 @@ prize-description: "A pair of tickets to Bat Out Of Hell The Musical and an orig
   \ cast album soundtrack CD.\r\n\r\nTickets are Level 1 tickets."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\n Prize\
   \ must be redeemed by 1st December."
+country-restrictions:
+- "GB"
 ---

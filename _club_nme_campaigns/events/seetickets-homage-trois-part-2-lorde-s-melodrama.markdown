@@ -15,4 +15,6 @@ logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-me
 logo-left-image: "seetickets-logo.png"
 logo-left-title: "See Tickets"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

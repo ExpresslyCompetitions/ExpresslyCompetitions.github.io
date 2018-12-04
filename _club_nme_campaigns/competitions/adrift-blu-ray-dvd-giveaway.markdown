@@ -43,4 +43,6 @@ entry-content: "Enter the draw to win Adrift on Blu-ray™ & DVD by completing t
 has-winner: false
 prize-description: "Adrift on Blu-ray™ & DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

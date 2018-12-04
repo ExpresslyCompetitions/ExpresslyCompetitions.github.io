@@ -56,4 +56,6 @@ special-conditions: "Any travel expenses are not included.\r\nLimited to the fol
   \ venues: VUE Bolton, Bristol Cribbs, Cheshire Oaks, Edinburgh Omni, Gateshead,\
   \ Hamilton, Islington, Leeds Light, Manchester Printworks, Plymouth, Portsmouth\
   \ and West End"
+country-restrictions:
+- "GB"
 ---

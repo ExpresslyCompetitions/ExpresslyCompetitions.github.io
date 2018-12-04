@@ -35,4 +35,6 @@ has-winner: false
 prize-description: "Mamma Mia! Here We Go Again on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/mamma-mia-blu-ray"
+country-restrictions:
+- "GB"
 ---

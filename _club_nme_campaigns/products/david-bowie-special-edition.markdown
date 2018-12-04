@@ -18,4 +18,6 @@ logo-left-href: "https://nmemerch.com/collections/best-selling/products/ttrtw-da
 logo-left-image: "nmemerch-logo.jpg"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

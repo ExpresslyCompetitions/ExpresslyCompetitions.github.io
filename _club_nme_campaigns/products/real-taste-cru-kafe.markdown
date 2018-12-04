@@ -19,4 +19,6 @@ logo-left-href: "https://www.crukafe.com"
 logo-left-image: "https://assets.expresslyapp.com/ecd9fb70-6d07-4438-9cbc-09cc9b7255b6-thumb.png"
 logo-left-title: "CRU Kafé"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

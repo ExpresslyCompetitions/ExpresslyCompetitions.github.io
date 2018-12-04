@@ -20,4 +20,6 @@ logo-left-href: "https://www.ctshirts.com/uk/home"
 logo-left-image: "https://assets.expresslyapp.com/asset-dd75b6c3-9930-46a4-b343-a0875b34638e.jpg"
 logo-left-title: "Charles Tyrwhitt"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

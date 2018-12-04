@@ -16,4 +16,6 @@ logo-left-href: "https://www.seetickets.com/tour/five-guys-named-moe"
 logo-left-image: "seetickets-logo.png"
 logo-left-title: "See Tickets"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

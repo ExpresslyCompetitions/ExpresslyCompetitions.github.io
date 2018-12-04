@@ -52,4 +52,6 @@ entry-content: "<p>Brigsby Bear DVD release is full with additional exclusive bo
 has-winner: false
 prize-description: "One of 3 combinations of DVD's and official T-Shirt's of the Brigsby\
   \ Bear movie."
+country-restrictions:
+- "GB"
 ---

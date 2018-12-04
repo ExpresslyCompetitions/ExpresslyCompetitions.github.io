@@ -51,4 +51,6 @@ prize-description: "One pair of VIP weekend tickets for 2000trees Festival.\r\nO
   \ (to be collected on site)"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "No tent or bedding included"
+country-restrictions:
+- "GB"
 ---

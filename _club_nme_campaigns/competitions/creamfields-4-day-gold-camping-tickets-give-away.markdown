@@ -54,4 +54,6 @@ prize-description: "A pair of 4-Day Gold Camping tickets to Creamfields Festival
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Any travel expenses are not included.\r\nMultiple entries are\
   \ allowed up to one every day.\r\nEntrants also agree Cream's T&C's: www.creamfields.com/terms/competition-terms"
+country-restrictions:
+- "GB"
 ---

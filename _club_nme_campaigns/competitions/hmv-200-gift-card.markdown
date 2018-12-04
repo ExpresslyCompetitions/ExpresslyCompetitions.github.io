@@ -40,4 +40,6 @@ winner-title: "CONGRATULATIONS to Natalie B. who won a £200 hmv gift card!"
 winner-banner: "https://assets.expresslyapp.com/asset-e74892e9-bb7e-4807-8860-f31d7cfe37e0.jpg"
 prize-description: "A £200 hmv gift card."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

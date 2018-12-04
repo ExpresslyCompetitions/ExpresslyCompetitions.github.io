@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "alt-J REDUXER vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://https://club.expressly.io/competitions/alt-j-reduxer-vinyl-giveaway"
+country-restrictions:
+- "GB"
 ---

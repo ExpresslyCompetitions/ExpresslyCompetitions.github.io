@@ -42,4 +42,6 @@ has-winner: false
 prize-description: "A pair of tickets (with camping) to Open'er Festival 2018"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Travel expenses are not included."
+country-restrictions:
+- "GB"
 ---

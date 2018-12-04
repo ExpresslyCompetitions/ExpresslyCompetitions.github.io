@@ -38,4 +38,6 @@ winner-title: "CONGRATULATIONS to Andrew W. who won the amazing Ed Sheeran DIVID
 winner-banner: "https://assets.expresslyapp.com/asset-47e67b95-3532-402b-ad51-545b3e72e63a.jpg"
 prize-description: "Ed Sheeran DIVIDE Vinyl Edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

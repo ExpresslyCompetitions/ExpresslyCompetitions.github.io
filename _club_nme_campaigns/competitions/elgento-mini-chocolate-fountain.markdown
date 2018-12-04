@@ -35,4 +35,6 @@ winner-title: "CONGRATULATIONS to Ian S. who won the Elgento Mini Chocolate foun
 winner-banner: "https://assets.expresslyapp.com/asset-94ed0a45-5695-4a9b-87e4-70df01ea78e7.jpg"
 prize-description: "A Elgento Mini Chocolate fountain!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

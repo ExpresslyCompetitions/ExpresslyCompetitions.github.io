@@ -36,4 +36,6 @@ winner-title: "Congratulations to Alison J. who won the Andrew James Toaster!"
 winner-banner: "https://assets.expresslyapp.com/asset-732d2352-8b08-4cf7-ac17-eace45e25593.jpg"
 prize-description: "Andrew James Lumiglo Toaster 2 Slice"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

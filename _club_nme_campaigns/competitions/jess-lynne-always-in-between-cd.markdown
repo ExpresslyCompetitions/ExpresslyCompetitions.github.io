@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win Jess Glynne Always in Between CD album by 
 has-winner: false
 prize-description: "Jess Glynne Always in Between CD album"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

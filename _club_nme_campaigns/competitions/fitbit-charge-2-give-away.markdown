@@ -40,4 +40,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-16bca412-8ee6-4abd-8921-aa
 prize-description: "A Fitbit Charge 2!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

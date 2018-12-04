@@ -47,4 +47,6 @@ has-winner: false
 prize-description: "Sony Bluetooth Wireless Headphones"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/sony-bluetooth-wireless-headphones"
+country-restrictions:
+- "GB"
 ---

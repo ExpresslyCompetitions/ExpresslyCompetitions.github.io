@@ -50,4 +50,6 @@ has-winner: false
 prize-description: "A pair of Bronze Hot VIP Tickets to Roger Waters 'Us + Them' Tour\
   \ in Manchester!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

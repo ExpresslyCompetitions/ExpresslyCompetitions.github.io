@@ -54,4 +54,6 @@ entry-content: "<p>Enter the draw to win a Matcha preparing kit, a tin of Matcha
 has-winner: false
 prize-description: "A Matcha preparing kit, a tin of Matcha tea & 3 green teas from\
   \ Yumchaa!"
+country-restrictions:
+- "GB"
 ---

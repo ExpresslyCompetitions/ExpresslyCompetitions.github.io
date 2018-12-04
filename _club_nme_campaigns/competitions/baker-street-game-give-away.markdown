@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win the 221B Baker Street Game by completing t
 has-winner: false
 prize-description: "The 221B Baker Street Game!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

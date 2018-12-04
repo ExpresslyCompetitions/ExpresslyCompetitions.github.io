@@ -20,4 +20,6 @@ logo-left-href: "https://www.tickx.co.uk/"
 logo-left-image: "https://assets.expresslyapp.com/asset-68e883d3-8435-4bde-a4db-e58cc6dd5458.jpg"
 logo-left-title: "Tickx"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

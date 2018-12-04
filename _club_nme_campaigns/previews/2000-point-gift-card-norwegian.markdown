@@ -37,4 +37,6 @@ entry-content: "<p>Enter the draw to win a 2,000 point gift card on Norwegian an
   \ form below before 23.59pm on 01/07/2018.</p>"
 has-winner: false
 prize-description: "A 2,000 point gift card on Norwegian."
+country-restrictions:
+- "GB"
 ---

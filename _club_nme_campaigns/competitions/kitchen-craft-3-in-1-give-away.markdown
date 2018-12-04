@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win a KitchenCraft 3-in-1 Fondue Set and enjoy
 has-winner: false
 prize-description: "A KitchenCraft 3-in-1 Fondue Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

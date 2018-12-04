@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Cards Against Humanity: UK edition game by
 has-winner: false
 prize-description: "Cards Against Humanity: UK edition game"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

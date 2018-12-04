@@ -41,4 +41,6 @@ has-winner: false
 prize-description: "The Beatles White Album Deluxe Edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/white-album-deluxe-edition"
+country-restrictions:
+- "GB"
 ---

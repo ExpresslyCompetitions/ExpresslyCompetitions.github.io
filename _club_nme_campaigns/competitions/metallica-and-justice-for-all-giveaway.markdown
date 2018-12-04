@@ -55,4 +55,6 @@ prize-description: "Metallica ''…And Justice For All'' Deluxe 3CD Expanded Edi
   \ and official T-shirt. Each winner will be randomly assigned 1 of the 2 t-shirts\
   \ from the available colours and sizes: White - size large & Black - size medium."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -55,4 +55,6 @@ prize-restrictions: "Winner is responsible for any transport costs to/from the e
 special-conditions: "* Please note these items are at an additional Cost:\r\nStreet\
   \ Food Stalls*\r\nVIP Bar*\r\nGlitter Make-up Station *\r\nInformation hub and Cloakroom*\r\
   \n\r\nAny travel expenses are not included."
+country-restrictions:
+- "GB"
 ---

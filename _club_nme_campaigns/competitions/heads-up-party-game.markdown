@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Heads Up! Party Game! by completing the fo
 has-winner: false
 prize-description: "Heads Up! Party Game!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

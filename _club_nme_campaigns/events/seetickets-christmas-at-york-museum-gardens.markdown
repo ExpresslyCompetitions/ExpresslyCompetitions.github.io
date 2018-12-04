@@ -18,4 +18,6 @@ logo-left-href: "https://www.seetickets.com/tour/christmas-at-york-museum-garden
 logo-left-image: "seetickets-logo.png"
 logo-left-title: "See Tickets"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

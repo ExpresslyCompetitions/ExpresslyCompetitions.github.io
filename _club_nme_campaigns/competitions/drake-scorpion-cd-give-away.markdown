@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Drake brand new album Scorpion by completi
 has-winner: false
 prize-description: "Drake brand new album Scorpion."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

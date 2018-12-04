@@ -36,4 +36,6 @@ entry-content: "<p>Enter the draw to win the Power Dynamics Vinyl Record Box Sto
 has-winner: false
 prize-description: "A '100 x 12' Power Dynamics Vinyl Record Box Storage."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -48,4 +48,6 @@ winner-title: "CONGRATULATIONS! to Andrew, Kavita, Rachel, Jackie, Antoana, and 
 winner-banner: "https://assets.expresslyapp.com/asset-6f79f79a-b3a9-4c75-9a9e-d9acaaa4ece5.jpg"
 prize-description: "2 tickets to the Marmozets DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
+country-restrictions:
+- "GB"
 ---

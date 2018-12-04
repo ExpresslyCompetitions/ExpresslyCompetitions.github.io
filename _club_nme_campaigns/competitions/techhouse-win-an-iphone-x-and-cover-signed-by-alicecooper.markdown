@@ -63,4 +63,6 @@ winner-title: "Congratulations to Gabriel S. of London who won the iPhone X with
   \ exclusively signed by Alice Cooper"
 winner-banner: "techhouse-winner-img.jpg"
 prize-description: "An iPhone X with cover exclusively signed by Alice Cooper"
+country-restrictions:
+- "GB"
 ---

@@ -49,4 +49,6 @@ entry-content: "Enter the draw to win the Rude Health Ultimate Christmas Box\r\n
 has-winner: false
 prize-description: "Rude Health Ultimate Christmas Box."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

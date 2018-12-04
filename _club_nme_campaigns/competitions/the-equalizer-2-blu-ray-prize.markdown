@@ -46,4 +46,6 @@ has-winner: false
 prize-description: "One of the 3 copies of The Equalizer 2 on Blu-ray and one of the\
   \ 3 caps of The Equalizer 2."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

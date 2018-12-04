@@ -38,4 +38,6 @@ has-winner: false
 prize-description: "Banksy 'Wall and Piece' book."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/banksy-wall-and-piece-book-giveaway"
+country-restrictions:
+- "GB"
 ---

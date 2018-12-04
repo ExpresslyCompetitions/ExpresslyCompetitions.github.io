@@ -19,4 +19,6 @@ logo-left-href: "https://www.virginholidays.co.uk/"
 logo-left-image: "https://assets.expresslyapp.com/asset-2ab1751d-ebfb-4d3f-8eaf-04c56bbc2ab6.jpg"
 logo-left-title: "Virgin Holidays"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

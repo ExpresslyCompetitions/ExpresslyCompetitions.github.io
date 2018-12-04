@@ -50,4 +50,6 @@ prize-description: "A bundle of Loving Earth Chocolate Bars (8 bars):\r\nCrunchy
   \ Dark Chocolate, Dark Chocolate, Hazelnut Mylk Chocolate, Lemon Cheesecake Caramel\
   \ Chocolate, Raspberry Cashew Mylk Chocolate, Salted Caramel and 85% Dark Chocolate"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

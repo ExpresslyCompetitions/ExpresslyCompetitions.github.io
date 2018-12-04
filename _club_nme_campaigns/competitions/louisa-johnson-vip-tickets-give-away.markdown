@@ -55,4 +55,6 @@ prize-description: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th
 prize-restrictions: "No-one below the age of 16 may enter the competition. Clarification:\
   \ winners are responsible for any transport costs to/from the event."
 special-conditions: "Any travel expenses are not included."
+country-restrictions:
+- "GB"
 ---

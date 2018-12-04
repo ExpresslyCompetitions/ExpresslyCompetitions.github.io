@@ -38,4 +38,6 @@ entry-content: "Enter the draw to win Leave No Trace on DVD by completing the fo
 has-winner: false
 prize-description: "Leave No Trace on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

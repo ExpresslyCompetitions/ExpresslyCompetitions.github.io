@@ -21,4 +21,6 @@ logo-left-href: "https://www.europe-nikon.com/en_GB/?"
 logo-left-image: "https://assets.expresslyapp.com/ecbf7844-9b7f-4391-8a9e-9741e8405914-thumb.png"
 logo-left-title: "Nikon"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

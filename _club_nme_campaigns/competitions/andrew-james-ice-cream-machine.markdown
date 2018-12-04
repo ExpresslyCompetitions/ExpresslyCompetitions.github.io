@@ -37,4 +37,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-04b0e0b3-185c-4aef-8a2a-cd
 prize-description: "An Andrew James Ice Cream Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

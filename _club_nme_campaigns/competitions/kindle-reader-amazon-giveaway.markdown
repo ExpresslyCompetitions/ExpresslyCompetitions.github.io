@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Amazon’s Kindle E-Reader\r\nby completin
 has-winner: false
 prize-description: "Amazon’s Kindle E-Reader."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -15,4 +15,6 @@ logo-left-href: "https://www.seetickets.com/tour/the-alexandra-palace-ice-rink"
 logo-left-image: "seetickets-logo.png"
 logo-left-title: "See Tickets"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

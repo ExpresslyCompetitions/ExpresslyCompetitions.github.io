@@ -20,4 +20,6 @@ logo-left-href: "https://www.prettygreen.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-e7a49928-dee2-457f-b60c-01e3ea9c7e04.jpg"
 logo-left-title: "Pretty Green"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

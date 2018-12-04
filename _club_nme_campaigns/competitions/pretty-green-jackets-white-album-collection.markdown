@@ -52,4 +52,6 @@ prize-description: "One jacket of Pretty Green X Beatles White Album collection.
 prize-restrictions: "Due to stock availability, no additional sizes are available\
   \ and winners cannot be ask for a different size than the one assigned."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

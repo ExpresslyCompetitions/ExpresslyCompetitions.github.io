@@ -55,4 +55,6 @@ prize-description: "3 lucky winners win £250* each for shopping at Rocket"
 special-conditions: "RocketDesign.it items are priced in Euros. Winners will receive\
   \ a coupon for a €285, i.e., the euro equivalent of £250 as per 28 February 2018\
   \ spot exchange rate as posted by the Bank of England at http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp."
+country-restrictions:
+- "GB"
 ---

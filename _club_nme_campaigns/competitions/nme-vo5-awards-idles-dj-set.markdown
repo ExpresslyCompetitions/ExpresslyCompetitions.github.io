@@ -56,4 +56,6 @@ entry-content: "<p> Dance along to some banging tunes this Saturday, courtesy of
 has-winner: false
 prize-description: "2 tickets to the Idles' DJ Set at the VO5 NME Awards Road Trip\
   \ with Propaganda"
+country-restrictions:
+- "GB"
 ---

@@ -52,4 +52,6 @@ winner-title: "CONGRATULATIONS to Michael-john Hannigan who won a fantastic copy
 winner-banner: "https://assets.expresslyapp.com/asset-37197fcc-1352-4f0b-839e-69a89dc8b85b.jpg"
 prize-description: "Win a copy of Blade Runner 2049 on Blu-ray™ and a Vinyl soundtrack\
   \ of the movie"
+country-restrictions:
+- "GB"
 ---

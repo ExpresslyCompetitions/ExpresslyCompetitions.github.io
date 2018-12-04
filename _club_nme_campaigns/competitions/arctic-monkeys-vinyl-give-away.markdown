@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win the new Arctic Monkeys Tranquility Base Ho
 has-winner: false
 prize-description: "The new Arctic Monkeys Tranquility Base Hotel & Casino Vinyl!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

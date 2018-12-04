@@ -44,4 +44,6 @@ prize-description: "One of 20 pairs of Adult Weekend tickets at Bestival"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."
 special-conditions: "Any travel expenses are not included.\r\nMultiple entries are\
   \ allowed up to one every day.\r\nEntrants also agree Bestival's T&C's: http://www.bestival.net/tickets"
+country-restrictions:
+- "GB"
 ---

@@ -38,4 +38,6 @@ has-winner: false
 prize-description: "Cliff Richard 'Rise Up' CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/cliff-cliff-richard-rise-up-cd"
+country-restrictions:
+- "GB"
 ---

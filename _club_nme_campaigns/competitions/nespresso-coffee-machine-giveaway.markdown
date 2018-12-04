@@ -32,4 +32,6 @@ has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/nespresso-inissia-coffee-machine"
+country-restrictions:
+- "GB"
 ---

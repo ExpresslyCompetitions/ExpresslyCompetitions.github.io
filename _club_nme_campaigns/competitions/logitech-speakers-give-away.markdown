@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win the Logitech Z333 Multimedia Speakers and 
   \ on 10th of July 2018."
 has-winner: false
 prize-description: "The Logitech Z333 Multimedia Speakers!"
+country-restrictions:
+- "GB"
 ---

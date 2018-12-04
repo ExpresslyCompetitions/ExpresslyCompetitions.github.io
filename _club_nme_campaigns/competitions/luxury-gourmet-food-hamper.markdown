@@ -33,4 +33,6 @@ has-winner: false
 prize-description: "A Luxury Food Delights Hamper."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://club.expressly.io/competitions/luxury-gourmet-food-hamper"
+country-restrictions:
+- "GB"
 ---

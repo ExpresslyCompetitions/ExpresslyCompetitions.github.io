@@ -38,4 +38,6 @@ has-winner: false
 prize-description: "The Amazon Echo Spot, Smart speaker and screen with Alexa."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://https://club.expressly.io/competitions/amazon-echo-spot-giveaway"
+country-restrictions:
+- "GB"
 ---

@@ -17,4 +17,6 @@ logo-left-href: "https://www.sonos.com/en-gb/shop/play1.html"
 logo-left-image: "sonos-logo.png"
 logo-left-title: "Sonos"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

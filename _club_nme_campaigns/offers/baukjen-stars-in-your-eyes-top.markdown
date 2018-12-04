@@ -17,4 +17,6 @@ logo-left-href: "https://www.baukjen.com/uk/shop/edits/bestsellers/alara-top-nav
 logo-left-image: "baukjen-logo.png"
 logo-left-title: "Baukjen"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

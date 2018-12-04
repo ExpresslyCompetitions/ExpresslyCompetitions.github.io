@@ -37,4 +37,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-c9f0cabe-27cb-4ebf-bb6b-93
 prize-description: "The exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

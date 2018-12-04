@@ -59,4 +59,6 @@ entry-content: "Enter the draw to win Elvis Presley The Searcher on DVD\r\nby co
 has-winner: false
 prize-description: "Elvis Presley The Searcher on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

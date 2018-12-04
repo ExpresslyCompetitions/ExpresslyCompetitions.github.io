@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win the Andrew James Fitness Blender & Smoothi
 has-winner: false
 prize-description: "Andrew James Fitness Blender & Smoothie Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

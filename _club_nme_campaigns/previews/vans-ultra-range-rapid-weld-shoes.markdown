@@ -18,4 +18,6 @@ logo-left-href: "https://www.vans.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/2099d462-23ca-4154-87b6-a3c37dc48b95-thumb.png"
 logo-left-title: "Vans"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

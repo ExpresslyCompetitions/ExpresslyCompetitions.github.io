@@ -17,4 +17,6 @@ logo-left-href: "https://www.laithwaites.co.uk/wines/_/N-n?icamp=nav-latest"
 logo-left-image: "laithwaites-logo.png"
 logo-left-title: "Laithwaites"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

@@ -43,4 +43,6 @@ winner-title: "CONGRATULATIONS to Jacob B. who won 2 tickets to the NME Awards C
   \ with Liam Gallagher."
 winner-banner: "https://assets.expresslyapp.com/asset-d3934cf3-590d-4870-b985-4f317da5089d.jpg"
 prize-description: "2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
+country-restrictions:
+- "GB"
 ---

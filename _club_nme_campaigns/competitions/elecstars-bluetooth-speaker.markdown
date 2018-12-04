@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "Elecstars Bluetooth Speaker with Night Light."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/elecstars-bluetooth-spaker"
+country-restrictions:
+- "GB"
 ---

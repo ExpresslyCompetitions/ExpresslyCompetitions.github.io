@@ -36,4 +36,6 @@ winner-title: "Congratulations to Elzbieta Z. who won the amazing Jamie Oliver P
 winner-banner: "https://assets.expresslyapp.com/asset-2bbb4efd-f4e9-4ff7-9917-9281ebd04416.jpg"
 prize-description: "Jamie Oliver Pasta Maker Machine."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

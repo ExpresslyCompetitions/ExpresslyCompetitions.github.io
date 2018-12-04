@@ -45,4 +45,6 @@ winner-banner: "https://assets.expresslyapp.com/asset-671a44f6-3c58-4340-9e5a-73
 prize-description: "Win one of 5 copies of DEN OF THIEVES on Blu-ray™."
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\
   \ 6, 2018, the 24h interval between multiple entries resets at midnight every day."
+country-restrictions:
+- "GB"
 ---

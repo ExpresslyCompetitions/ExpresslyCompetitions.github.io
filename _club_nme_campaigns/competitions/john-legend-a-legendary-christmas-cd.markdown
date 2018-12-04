@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "John Legend new album: A Legendary Christmas."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/john-legend-a-legendary-christmas-cd"
+country-restrictions:
+- "GB"
 ---

@@ -39,4 +39,6 @@ winner-title: "CONGRATULATIONS to Claire B who won Ideal London Board Game!"
 winner-banner: "https://assets.expresslyapp.com/asset-6d5f3128-0341-4804-b8bf-799df1ec72af.jpg"
 prize-description: "Ideal London Board Game."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -19,4 +19,6 @@ logo-left-href: "https://www.rocketdesign.it/"
 logo-left-image: "https://assets.expresslyapp.com/asset-c4e6856d-edd2-4a41-ad43-1df4f8974a34.jpg"
 logo-left-title: "RocketDesign"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

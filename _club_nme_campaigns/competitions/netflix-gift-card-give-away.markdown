@@ -37,4 +37,6 @@ entry-content: "Enter the draw to win a £50 Netflix Gift card by completing the
 has-winner: false
 prize-description: "A £50 Netflix Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

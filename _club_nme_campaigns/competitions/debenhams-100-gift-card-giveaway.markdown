@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Win a £100 Gift card at Debenhams by comp
 has-winner: false
 prize-description: "A £100 Gift card at Debenhams"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

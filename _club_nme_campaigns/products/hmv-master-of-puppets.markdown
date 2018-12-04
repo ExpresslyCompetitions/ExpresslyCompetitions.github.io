@@ -15,4 +15,6 @@ logo-left-href: "https://store.hmv.com/music/vinyl/master-of-puppets-(3)"
 logo-left-image: "hmv-logo.png"
 logo-left-title: "HMV"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

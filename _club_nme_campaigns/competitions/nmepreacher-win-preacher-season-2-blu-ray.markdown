@@ -17,4 +17,6 @@ logo-left-href: "http://www.nme.com/competitions/win-preacher-season-2-blu-ray"
 logo-left-image: "nme-logo.jpg"
 logo-left-title: "NME Competitions"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

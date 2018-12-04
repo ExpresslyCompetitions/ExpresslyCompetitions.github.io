@@ -57,4 +57,6 @@ prize-description: "One of 25 pairs of tickets to ‘Could the White Album be ma
 prize-restrictions: "Any travel expenses are not included. Winner is responsible for\
   \ any transport costs to/from the event."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

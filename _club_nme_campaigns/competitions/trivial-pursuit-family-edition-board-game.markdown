@@ -37,4 +37,6 @@ has-winner: false
 prize-description: "The Trivial Pursuit Family Edition Board Game."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/trivial-pursuit-family-edition-board-game"
+country-restrictions:
+- "GB"
 ---

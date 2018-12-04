@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Ariana Grande new album Sweetener by compl
 has-winner: false
 prize-description: "Ariana Grande new album Sweetener."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -47,4 +47,6 @@ has-winner: false
 prize-description: "The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

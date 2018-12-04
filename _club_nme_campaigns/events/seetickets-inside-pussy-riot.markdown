@@ -24,4 +24,6 @@ logo-left-href: "https://www.seetickets.com/tour/inside-pussy-riot"
 logo-left-image: "seetickets-logo.png"
 logo-left-title: "See Tickets"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

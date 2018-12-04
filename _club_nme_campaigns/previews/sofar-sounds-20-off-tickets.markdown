@@ -19,4 +19,6 @@ logo-left-href: "https://www.sofarsounds.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-80498a83-dba0-4643-bd4a-3368061b54ba.jpg"
 logo-left-title: "Sofar Sounds"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

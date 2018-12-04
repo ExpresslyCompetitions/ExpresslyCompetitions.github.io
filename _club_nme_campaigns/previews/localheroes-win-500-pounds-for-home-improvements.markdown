@@ -43,4 +43,6 @@ entry-content: "<p>Planning on renovation projects? Now you have the solution! W
 entry-extension: "nme/local-heroes-extension.html"
 has-winner: false
 prize-description: "Win £500 for home improvements with Local Heroes"
+country-restrictions:
+- "GB"
 ---
