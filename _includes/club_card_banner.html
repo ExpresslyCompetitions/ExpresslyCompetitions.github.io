@@ -2,11 +2,21 @@
 {% if include.is-winner-card and include.item.winner-banner %}{% assign banner-img = include.item.winner-banner %}{% endif %}
 {% include image_url_builder.html image=banner-img %}
 <div class="advertiser-banner rounded" style="background-image: url({{image-url}})">
+    <div class="country-flags">
+        {% if include.countries %}
+            {% for country in include.countries  %}
+                <img src="https://assets01.buyexpressly.com/img/flags-iso/flat/32/{{country}}.png" />
+            {% endfor %}
+        {% else %}
+            <img src="https://assets01.buyexpressly.com/img/flags-iso/flat/32/GB.png" />
+        {% endif %}
+    </div>
+
     {% if include.item.has_entry_page %}
-    <a href="{{item-url}}" class="hide-if-expired"></a>
+        <a href="{{item-url}}" class="hide-if-expired"></a>
     {% else %}
-    <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
-    <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>
+        <a data-powerlink="{{include.item.campaign-uuid}}" href="{{item-url}}" class="hide-if-expired show-if-entered"></a>
+        <a data-powerlink="{{include.item.campaign-uuid}}" data-powerlink-auto="true" data-campaign-title="{{include.item.title | uri_escape}}" href="#" class="hide-if-expired hide-if-entered"></a>
     {% endif %}
     {% include image_url_builder.html image=include.item.logo-left-image %}
     <div class="advertiser-logo"><img  src="{{image-url}}" /></div>

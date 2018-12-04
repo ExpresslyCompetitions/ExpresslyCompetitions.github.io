@@ -18,7 +18,7 @@
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">
         <div class="col-md-5 col-lg-4 competition-card--banner">
-            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=include.is-winner-card %}
+            {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=include.is-winner-card countries=include.item.country-restrictions %}
         </div>
 
         <div class="col-md-7 col-lg-8 competition-card--content">
