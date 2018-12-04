@@ -94,7 +94,9 @@ active: selected-competitions
                 {% if page.disable-form == false %}
                     <div class="hide-if-expired ">
                         <div class=" {{restriction-classes}}">
-                            <form id="form--competition" method="post" novalidate data-countries='{{page.country-restrictions|jsonify}}'>
+                            {% if page.country-restrictions %}{% capture allowed-countries %}{{page.country-restrictions|jsonify}}{% endcapture %}
+                            {% else %}{% capture allowed-countries %}["GB"]{% endcapture %}{% endif %}
+                            <form id="form--competition" method="post" x="sd" novalidate data-countries='{{allowed-countries}}'>
                                 <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
                                 <input type="hidden" name="emailEntrant" value="true" />
                                 <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
