@@ -1,0 +1,4 @@
+{% if include.iso == "GB" %}{% assign country-long = "United Kingdom" %}
+{% elsif include.iso == "US" %}{% assign country-long = "United States" %}
+{% else %}{% assign country-long = country %}
+{% endif %}
