@@ -32,7 +32,7 @@ body {
 .nav-container {
   background: white;
   padding: 1px 0 0 0;
-  margin: 1.5rem 0;
+  margin: 0 0 1.5rem 0;
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   position: relative;
@@ -270,7 +270,7 @@ body {
   z-index: 1000 !important;
   display: block !important;
   @media (min-width: $xl) {
-    margin: 0 0 1.5rem;
+    margin: 0 0 1.5rem 0;
     border-top-width: 0;
     background-color: #eeeeee;
   }
@@ -279,13 +279,13 @@ body {
 body.competition {
   .hero {
     position: relative;
-    margin-top: -110px;
+    margin-top: -85px;
     padding-top: 60px;
     border-top: 50px solid white;
     z-index: 0;
 
     @media (min-width: $xl) {
-      margin-top: -160px;
+      margin-top: -110px;
       padding-top: 90px;
     }
   }
