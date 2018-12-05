@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "A £100 Gift card at Selfridges."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://aaa.nme.com/competitions/selfridges-100-pounds-gift-card"
+country-restrictions:
+- "GB"
 ---

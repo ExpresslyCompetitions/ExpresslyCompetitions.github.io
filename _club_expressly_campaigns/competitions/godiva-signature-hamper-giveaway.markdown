@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Godiva's Gold wrapped Ballotin by completi
 has-winner: false
 prize-description: "Godiva's Gold wrapped Ballotin"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

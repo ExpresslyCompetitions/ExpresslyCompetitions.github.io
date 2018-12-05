@@ -37,4 +37,6 @@ entry-content: "Enter the draw to win Niomi Smart 'Eat Smart' book by completing
 has-winner: false
 prize-description: "Niomi Smart 'Eat Smart' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

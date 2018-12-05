@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win Jesus del Pozo Halloween perfume by comple
 has-winner: false
 prize-description: "Jesus del Pozo Halloween perfume."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

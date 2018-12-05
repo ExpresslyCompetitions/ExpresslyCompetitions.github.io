@@ -39,4 +39,6 @@ has-winner: false
 prize-description: "Rosalía ‘El Mal Querer’ vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/rosalia-el-mal-querer-vinyl-editiom"
+country-restrictions:
+- "GB"
 ---

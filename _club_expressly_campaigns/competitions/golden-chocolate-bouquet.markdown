@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win the Golden Chocolate Bouquet by completing
 has-winner: false
 prize-description: "Golden Chocolate Bouquet."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

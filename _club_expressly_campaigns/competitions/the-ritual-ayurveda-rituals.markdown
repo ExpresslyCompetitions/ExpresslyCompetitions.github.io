@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win  The Ritual of Ayurveda from Rituals befor
 has-winner: false
 prize-description: "The Ritual of Ayurveda from Rituals."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

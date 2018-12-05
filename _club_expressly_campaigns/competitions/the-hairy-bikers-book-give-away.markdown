@@ -39,4 +39,6 @@ entry-content: "Enter the draw to win The Hairy Bikers' British Classics: Over 1
 has-winner: false
 prize-description: "The Hairy Bikers' British Classics: Over 100 recipes celebrating\
   \ timeless cooking and the nation’s favourite dishes!"
+country-restrictions:
+- "GB"
 ---

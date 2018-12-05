@@ -41,4 +41,6 @@ has-winner: false
 prize-description: "Michael Bublé new album: LOVE!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://aaa.nme.com/competitions/little-michael-buble-love-album"
+country-restrictions:
+- "GB"
 ---

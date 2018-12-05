@@ -36,4 +36,6 @@ has-winner: false
 prize-description: "The Rolling Stones All The Songs: The Story Behind Every Track."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/rolling-stones-all-the-songs-book"
+country-restrictions:
+- "GB"
 ---

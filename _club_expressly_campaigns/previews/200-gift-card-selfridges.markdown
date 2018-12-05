@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win a £200 Gift card at Selfridges by complet
 has-winner: false
 prize-description: "A £200 Gift card at Selfridges."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

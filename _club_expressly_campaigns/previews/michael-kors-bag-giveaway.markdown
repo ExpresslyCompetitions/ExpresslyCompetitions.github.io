@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Michael Kors bag by completing the form be
 has-winner: false
 prize-description: "Michael Kors bag"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

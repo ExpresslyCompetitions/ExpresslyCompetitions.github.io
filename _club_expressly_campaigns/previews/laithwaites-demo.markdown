@@ -14,4 +14,6 @@ logo-left-href: "https://www.laithwaites.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/e430322d-3307-402f-9fe2-59d4f5f0bfc6-thumb.png"
 logo-left-title: "Laithwaites"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

@@ -37,4 +37,6 @@ entry-content: "Enter the draw to win the Beautify Acrylic Jewellery Storage Box
 has-winner: false
 prize-description: "The Beautify Acrylic Jewellery Storage Box."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

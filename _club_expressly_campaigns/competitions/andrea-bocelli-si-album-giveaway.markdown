@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Andrea Bocelli ‘Sí’ album by completi
 has-winner: false
 prize-description: "Andrea Bocelli ‘Sí’ album."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

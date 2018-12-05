@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win MONOPOLY, The Christmas Edition.by complet
 has-winner: false
 prize-description: "MONOPOLY, The Christmas Edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

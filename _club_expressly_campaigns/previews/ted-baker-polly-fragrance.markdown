@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win Ted Baker Polly fragrance\r\nby completing
 has-winner: false
 prize-description: "Ted Baker Polly fragrance"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -31,4 +31,6 @@ entry-content: "Enter the draw to win Longchamp Le Pliage coin purse\r\nby compl
 has-winner: false
 prize-description: "Longchamp Le Pliage coin purse in Khaki colour"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

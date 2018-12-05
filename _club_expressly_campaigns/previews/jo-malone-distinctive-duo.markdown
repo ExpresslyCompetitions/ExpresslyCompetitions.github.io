@@ -40,4 +40,6 @@ entry-content: "Enter the draw to win the magical Distinctive Duo from Jo Malone
 has-winner: false
 prize-description: "Jo Malone Distinctive Duo"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -33,4 +33,6 @@ has-winner: false
 prize-description: "A Luxury Gourmet Food Hamper."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:  https://aaa.nme.com/competitions/luxury-food-delights-hamper"
+country-restrictions:
+- "GB"
 ---

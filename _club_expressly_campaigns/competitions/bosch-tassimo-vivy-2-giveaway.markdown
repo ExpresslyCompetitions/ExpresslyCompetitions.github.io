@@ -35,4 +35,6 @@ has-winner: false
 prize-description: "Bosch Tassimo Vivy 2 coffee machine"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/bosch-tassimo-vivy-2-giveaway"
+country-restrictions:
+- "GB"
 ---

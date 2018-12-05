@@ -45,4 +45,6 @@ prize-description: "EnacFire E18 Wireless Headphones.\r\n\r\nAvailable for: iPho
   \ Compact,Xperia Z2 Tablet; kindle fire etc."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/enacfire-e18-wireless-headphones"
+country-restrictions:
+- "GB"
 ---

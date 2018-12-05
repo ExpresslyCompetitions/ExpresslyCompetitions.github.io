@@ -40,4 +40,6 @@ entry-content: "Enter the draw to win Thomas Sabo Silver Bracelet for Charms Cla
 has-winner: false
 prize-description: "Thomas Sabo Silver Bracelet for Charms Classic"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -38,4 +38,6 @@ entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby to somethin
   \ the draw to win by completing the form below before 23.59pm on 30/04/2018.</p>"
 has-winner: false
 prize-description: "£300 to spend at Sunflowerbaby."
+country-restrictions:
+- "GB"
 ---

@@ -39,4 +39,6 @@ has-winner: false
 prize-description: "Michael Jackson: All the Songs: The Story Behind Every Track."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/michael-jackson-all-the-songs-book-giveaway"
+country-restrictions:
+- "GB"
 ---

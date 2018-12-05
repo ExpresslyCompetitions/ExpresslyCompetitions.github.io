@@ -42,4 +42,6 @@ prize-description: "J.K. Rowling's Fantastic Beasts adventure series books:The F
   \ Beasts and Where To Find Them & The Crimes of Grindelwal."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/little-fantastic-beasts-adventure-series-books"
+country-restrictions:
+- "GB"
 ---

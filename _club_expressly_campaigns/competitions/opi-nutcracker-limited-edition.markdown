@@ -38,4 +38,6 @@ entry-content: "Enter the draw to win OPI Limited Edition Nutcracker Collection 
 has-winner: false
 prize-description: "OPI Limited Edition Nutcracker Collection Infinite Shine."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

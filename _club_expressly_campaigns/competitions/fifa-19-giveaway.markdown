@@ -36,4 +36,6 @@ has-winner: false
 prize-description: "The brand new Fifa 19!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/fifa-19-giveaway"
+country-restrictions:
+- "GB"
 ---

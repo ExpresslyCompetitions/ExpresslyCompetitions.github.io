@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-fa49e99c-9748-4348-af9d-df15d45376ef"
-type: "Preview"
+type: "Competition"
 category: "Food"
 date: "2018-12-05T09:00:00.000Z"
 end-date: "2019-02-05T23:59:00.000Z"

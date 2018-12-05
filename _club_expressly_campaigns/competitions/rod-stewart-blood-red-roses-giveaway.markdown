@@ -37,4 +37,6 @@ has-winner: false
 prize-description: "Rod Stewart Blood Red Roses CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/rod-stewart-blood-red-roses-giveaway"
+country-restrictions:
+- "GB"
 ---

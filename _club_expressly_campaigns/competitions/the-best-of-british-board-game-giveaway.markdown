@@ -36,4 +36,6 @@ has-winner: false
 prize-description: "The Best of British board game."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/the-best-of-british-board-game-giveaway"
+country-restrictions:
+- "GB"
 ---

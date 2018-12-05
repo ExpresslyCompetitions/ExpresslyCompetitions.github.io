@@ -40,4 +40,6 @@ has-winner: false
 prize-description: "The Greatest Showman on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/the-greatest-showman-blu-ray-giveaway"
+country-restrictions:
+- "GB"
 ---

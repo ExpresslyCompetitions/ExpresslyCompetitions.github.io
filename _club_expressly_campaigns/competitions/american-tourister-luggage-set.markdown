@@ -43,4 +43,6 @@ has-winner: false
 prize-description: "An American Tourister Luggage Set.\r\nAvailable colours: Summer\
   \ Sky, Hot Lip Pink & Nautical Blue."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

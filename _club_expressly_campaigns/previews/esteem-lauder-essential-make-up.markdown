@@ -33,4 +33,6 @@ entry-content: "Enter the draw to win Esteé Lauder’s Essential Make-Up Gift S
 has-winner: false
 prize-description: "Esteé Lauder’s Essential Make-Up Gift Set"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

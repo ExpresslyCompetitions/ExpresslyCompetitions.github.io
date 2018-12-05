@@ -38,4 +38,6 @@ entry-content: "Enter the draw to win the BE4254 Burberry sunglasses by completi
 has-winner: false
 prize-description: "BE4254 Burberry sunglasses"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -38,4 +38,6 @@ has-winner: false
 prize-description: "Banksy ‘Wall and Piece’ book."
 special-conditions: "Enter the draw to win Banksy ‘Wall and Piece’ book by completing\
   \ the form below before 23:59 on 18th of November 2018."
+country-restrictions:
+- "GB"
 ---

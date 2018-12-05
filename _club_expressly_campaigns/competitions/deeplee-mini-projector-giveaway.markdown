@@ -35,4 +35,6 @@ has-winner: false
 prize-description: "The Deeplee Mini Projector in blue colour."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://aaa.nme.com/competitions/deeplee-mini-projector-giveaway"
+country-restrictions:
+- "GB"
 ---

@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win Beyoncé 'Heat' Gift Set before 23:59 on 2
 has-winner: false
 prize-description: "Beyoncé 'Heat' Gift Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

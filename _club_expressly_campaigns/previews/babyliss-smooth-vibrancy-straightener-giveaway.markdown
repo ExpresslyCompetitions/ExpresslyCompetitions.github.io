@@ -34,4 +34,6 @@ entry-content: "Enter the draw to win the Babyliss Smooth Vibrancy Straightener 
 has-winner: false
 prize-description: "BaByliss Smooth Vibrancy Straightener"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

@@ -38,4 +38,6 @@ has-winner: false
 prize-description: "The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://aaa.nme.com/competitions/guardians-of-galaxy-vols-1-2"
+country-restrictions:
+- "GB"
 ---

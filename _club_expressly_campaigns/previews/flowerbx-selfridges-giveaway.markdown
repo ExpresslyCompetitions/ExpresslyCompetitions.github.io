@@ -32,4 +32,6 @@ entry-content: "Enter the draw to win a Flowerbx for Selfridges\r\nby completing
 has-winner: false
 prize-description: "Flowerbx for Selfridges"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

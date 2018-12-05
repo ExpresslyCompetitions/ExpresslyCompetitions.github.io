@@ -19,4 +19,6 @@ logo-left-href: "https://nmemerch.com/"
 logo-left-image: "https://assets.expresslyapp.com/cc304174-1662-481e-bfad-03d2285cad54-thumb.png"
 logo-left-title: "NME Merch"
 has-winner: false
+country-restrictions:
+- "GB"
 ---

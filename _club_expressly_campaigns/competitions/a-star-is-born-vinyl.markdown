@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "A Star is Born vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/a-star-is-born-vinyl"
+country-restrictions:
+- "GB"
 ---

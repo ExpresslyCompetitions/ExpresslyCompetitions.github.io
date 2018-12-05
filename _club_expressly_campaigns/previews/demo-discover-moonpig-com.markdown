@@ -33,4 +33,6 @@ entry-title: "Discover Moonpig.com with a special discount"
 entry-content: "Enter to win £100 pounds pre-paid credit"
 has-winner: false
 prize-description: "£100 pounds pre-paid credit"
+country-restrictions:
+- "GB"
 ---

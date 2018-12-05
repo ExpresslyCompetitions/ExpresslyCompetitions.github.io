@@ -35,4 +35,6 @@ entry-content: "Enter the draw to win ‘Joy as an Act of Resistance’ The Idle
 has-winner: false
 prize-description: "‘Joy as an Act of Resistance’ The Idles new album."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/idles-joy-as-an-act-of-resistance-album"
+country-restrictions:
+- "GB"
 ---

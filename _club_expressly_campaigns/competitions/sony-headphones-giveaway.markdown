@@ -34,4 +34,6 @@ has-winner: false
 prize-description: "The brand new Sony Headphones!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/sony-headphones-giveaway"
+country-restrictions:
+- "GB"
 ---

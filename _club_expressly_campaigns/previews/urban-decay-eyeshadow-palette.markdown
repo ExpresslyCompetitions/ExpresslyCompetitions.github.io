@@ -31,4 +31,6 @@ entry-content: "Enter the draw to win Urban Decay Distorsion Eyeshadow Palette b
 has-winner: false
 prize-description: "Urban Decay Distorsion Eyeshadow Palette"
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

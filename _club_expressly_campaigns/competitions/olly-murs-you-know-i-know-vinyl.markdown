@@ -36,4 +36,6 @@ entry-content: "Enter the draw to win Olly Murs 'You Know, I Know' album vinyl e
 has-winner: false
 prize-description: "Olly Murs 'You Know, I Know' album vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
+country-restrictions:
+- "GB"
 ---

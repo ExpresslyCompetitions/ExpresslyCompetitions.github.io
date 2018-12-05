@@ -32,4 +32,6 @@ has-winner: false
 prize-description: "Nespresso Inissia Coffee Machine"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://aaa.nme.com/competitions/nespresso-coffee-machine-giveaway"
+country-restrictions:
+- "GB"
 ---
