@@ -9,6 +9,7 @@
   }
 
   & + .nav-container {
+    z-index: 999;
     margin-top: 0;
   }
 }

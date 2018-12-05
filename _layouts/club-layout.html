@@ -26,9 +26,9 @@
     {% endif %}
 
     {% if page.css %}
-    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=17"/>
+    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=18"/>
     {% else %}
-    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=83"/>
+    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=84"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{club_base}}/css/{{page.extra-css}}?cb=1"/>
@@ -84,7 +84,7 @@
 
 {% if page.ad-base-gpt-tag and page.ad-base-top-leaderboard %}{% include {{page.ad-base-top-leaderboard}} %}{% endif %}
 
-<div class="nav-container fixed-top {{ page.nav-container-classes }}">
+<div class="nav-container {{ page.nav-container-classes }}">
     {% if page.brand-nav-include %}{% include {{ page.brand-nav-include }} %}{% endif %}
     {% if page.club-nav-expand %}{% assign club-nav-expand = page.club-nav-expand %}{% else %}{% assign club-nav-expand = "xl" %}{% endif %}
 
