@@ -2,7 +2,7 @@
 campaign-uuid: "c-9e642643-ad46-4f07-8217-7a98cc728947"
 type: "Preview"
 category: "Tickets"
-date: "2018-12-07T12:04:23.433Z"
+date: "2018-12-07T12:04:23.000Z"
 end-date: "2019-01-07T23:59:00.000Z"
 disable-form: false
 is_promoted: true
@@ -21,7 +21,7 @@ hero-header: "Win a pair of tickets to Bring Me The Horizon ‘First Love’ Tou
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-521c6de0-b26a-484e-878a-7a84e2d166c4.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-ae5ef5d8-ae04-4fad-b4c8-729e27bff146.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-7f33606e-8be5-4127-8da5-b3704e03589f.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-80a450bf-45b5-4e75-bf4c-c547463178cc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-65a2ad42-4122-4eee-947c-b45ade96137d.jpg"
@@ -59,17 +59,17 @@ has-winner: false
 prize-description: "One of 5 pairs of tickets to attend Bring Me The Horizon ‘First\
   \ Love’ Tour  concert at a city of their choice except the 1/29 NY show.\r\n\r\n\
   Limited to the following venues:\r\n-January 23             Nashville, TN      \
-  \           Nashville Municipal Auditorium\L\r\n-January 25\t\tOrlando, FL\t\t\t\
-  CFE Arena\L\r\n-January 26\t\tAtlanta, GA\t\t\tCoca-Cola Roxy\L-\r\n-January 28\t\
-  \tFairfax, VA\t\t\tEagleBank Arena\L\r\n-January 30\t\tManhattan, NY\t\tHammerstein\
-  \ Ballroom\r\n-February 1\t\tBoston, MA\t\tTsongas Center at UMass Lowell\L\r\n\
-  -February 2\t\tMontreal, QC\t\t\tPlace Bell\L\r\n-February 4\t\tDetroit, MI\t\t\t\
-  Fillmore Detroit\L-\r\n-February 5\t\tChicago, IL\t\t\tAragon Ballroom\r\n-\LFebruary\
-  \ 6\t\tMinneapolis, MN\t\tArmory\L\r\n-February 8\t\tDallas, TX\t\t\tSouth Side\
-  \ Ballroom\r\n-\LFebruary 9\t\tHouston, TX\t\t\tRevention Music Center\L \r\n-February\
-  \ 11\t\tDenver, CO\t\t\tThe Fillmore Auditorium\L\r\n-February 13\t\tLos Angeles,\
-  \ CA\t\tThe Forum\L\r\n-February 15\t\tPhoenix, AZ\t\t\tComerica Theatre\L\r\n-February\
-  \ 16\t\tLas Vegas, NV\t The Joint at Hard Rock Hotel & \r\nCasino"
+  \           Nashville Municipal Auditorium?\r\n-January 25\t\tOrlando, FL\t\t\t\
+  CFE Arena?\r\n-January 26\t\tAtlanta, GA\t\t\tCoca-Cola Roxy?-\r\n-January 28\t\t\
+  Fairfax, VA\t\t\tEagleBank Arena?\r\n-January 30\t\tManhattan, NY\t\tHammerstein\
+  \ Ballroom\r\n-February 1\t\tBoston, MA\t\tTsongas Center at UMass Lowell?\r\n-February\
+  \ 2\t\tMontreal, QC\t\t\tPlace Bell?\r\n-February 4\t\tDetroit, MI\t\t\tFillmore\
+  \ Detroit?-\r\n-February 5\t\tChicago, IL\t\t\tAragon Ballroom\r\n-?February 6\t\
+  \tMinneapolis, MN\t\tArmory?\r\n-February 8\t\tDallas, TX\t\t\tSouth Side Ballroom\r\
+  \n-?February 9\t\tHouston, TX\t\t\tRevention Music Center? \r\n-February 11\t\t\
+  Denver, CO\t\t\tThe Fillmore Auditorium?\r\n-February 13\t\tLos Angeles, CA\t\t\
+  The Forum?\r\n-February 15\t\tPhoenix, AZ\t\t\tComerica Theatre?\r\n-February 16\t\
+  \tLas Vegas, NV\t The Joint at Hard Rock Hotel & \r\nCasino"
 prize-restrictions: "Any travel expenses are not included.\r\nWinner is responsible\
   \ for any transport costs to/from the event."
 special-conditions: "Multiple entries are allowed up to one every day."
