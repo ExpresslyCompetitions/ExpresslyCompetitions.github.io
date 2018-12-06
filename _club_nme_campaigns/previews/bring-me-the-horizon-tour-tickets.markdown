@@ -26,7 +26,7 @@ logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-80a450bf-45b5-4e75-bf4c-c547463178cc.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-65a2ad42-4122-4eee-947c-b45ade96137d.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-68ca3ac3-05cf-4dfb-a073-cdc89a930d00.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-96939cb4-267f-402d-817b-4f16f10b9d28.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-f75de2f3-6d39-4c9b-973f-ecac36f90d32.jpg"
 section1-content: "<p>Bring Me The Horizon is one of the most exciting and successful\
   \ rock bands to emerge from the U.K., selling over 2 Million albums globally to\
   \ date, playing sell out shows in over 40 countries, including two sold out nights\
