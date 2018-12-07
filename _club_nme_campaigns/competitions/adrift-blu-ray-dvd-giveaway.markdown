@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-05T09:00:00.000Z"
 end-date: "2018-12-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Adrift on Blu-ray™ & DVD!"
 competition-description: "<p>Calling all Shailene Woodley and Sam Claflin fans! We\
