@@ -13,3 +13,33 @@
     margin-top: 0;
   }
 }
+
+.advertisement {
+  &.desktop-only {
+    display: none;
+    position: absolute;
+    right: -300px;
+    max-width: 300px;
+    width: 300px;
+    height: 600px;
+    top: 0;
+  }
+}
+
+@media all and (min-width: 1740px) {
+  main {
+    &.container {
+      position: relative;
+    }
+  }
+
+  .advertisement {
+    &.mobile-only {
+      display: none;
+    }
+
+    &.desktop-only {
+      display: block;
+    }
+  }
+}
