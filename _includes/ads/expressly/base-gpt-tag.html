@@ -15,6 +15,11 @@
         addSize([730, 200], [728, 90]).
         addSize([0, 0], [320, 50]).
         build();
+		var listpage_mobile_mapping = googletag.sizeMapping().
+        addSize([980, 400], [970, 250],[970, 90],[728, 90]).
+        addSize([730, 200], [728, 90]).
+        addSize([0, 0], [300, 250]).
+        build();
         googletag.defineSlot('/273427535/xly_club_allpages_leaderboard', [320, 50], 'base_topleaderboard').defineSizeMapping(top_leaderboard_mapping).addService(googletag.pubads());
         googletag.defineSlot('/273427535/xly_club_allpages_bottomleaderboard', [320, 50], 'base_bottomleaderboard').defineSizeMapping(bottom_leaderboard_mapping).addService(googletag.pubads());
         googletag.defineSlot('/273427535/xly_club_thankyou_MPU', [300, 250], 'div-gpt-ad-1539117313716-0').addService(googletag.pubads());
@@ -25,7 +30,7 @@
         googletag.defineSlot('/273427535/xly_club_thankyou_mpu_bottomleft', [300, 250], 'thankyou_mpu_bottomleft').addService(googletag.pubads());
         googletag.defineSlot('/273427535/xly_club_thankyou_mpu_bottomright', [300, 250], 'thankyou_mpu_bottomright').addService(googletag.pubads());
         googletag.defineSlot('/273427535/xly_club_listpage_side', [300, 600], 'listpage_side').addService(googletag.pubads());
-        googletag.defineSlot('/273427535/xly_club_listpage_mobile_mpu', [300, 250], 'listpage_mobile_mpu').addService(googletag.pubads());
+        googletag.defineSlot('/273427535/xly_club_listpage_mobile_mpu', [300, 250], 'listpage_mobile_mpu').defineSizeMapping(listpage_mobile_mapping).addService(googletag.pubads());
         googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
