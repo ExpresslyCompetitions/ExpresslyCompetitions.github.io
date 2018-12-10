@@ -59,7 +59,7 @@ layout: club-layout
                 {% include club_competition_card.html item=item %}
                 {% assign ad_count = ad_count | plus: 1 %}
                 {% if displayed_mobile_ad == 0 and page.ad-list-mobile %}
-                    <div class="competition-card promoted advertisement mobile-only">
+                    <div class="competition-card promoted advertisement mobile-only" style='text-align:center;'>
                         {% include {{page.ad-list-mobile}} %}
                     </div>
                     {% assign displayed_mobile_ad = displayed_mobile_ad | plus: 1 %}
