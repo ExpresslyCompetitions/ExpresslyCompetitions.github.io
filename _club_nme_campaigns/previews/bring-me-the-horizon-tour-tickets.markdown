@@ -7,7 +7,8 @@ end-date: "2019-01-07T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win a pair of tickets to Bring Me The Horizon North America ‘First Love’ Tour!"
+title: "Win a pair of tickets to Bring Me The Horizon North American ‘First Love’\
+  \ Tour!"
 competition-description: "<p>Bring Me The Horizon announced southern California rock\
   \ band Thrice will join them as support on all dates of their North American 16-city\
   \ ‘First Love’ Tour. Produced by Live Nation, the tour will kick off January 23\
@@ -18,8 +19,8 @@ competition-description: "<p>Bring Me The Horizon announced southern California 
   \ giving away 5 pairs of tickets to 5 lucky NME AAA members to win and join Bring\
   \ Me  The Horizon on their North American tour to a concert at a city of their choice!</p>\r\
   \n<p>Does it sound like the best plan? Click below for a chance to win!</p>"
-hero-header: "Win a pair of tickets to Bring Me The Horizon North America ‘First Love’\
-  \ Tour!"
+hero-header: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
+  \ Love’ Tour!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-521c6de0-b26a-484e-878a-7a84e2d166c4.jpg"
 logo-left-href: "aaa.nme.com"
@@ -59,9 +60,11 @@ section3-content: "<p>We have 5 pairs of tickets to attend Bring Me The Horizon 
   \ their choice!</p>\r\n<p>If you are BMTH biggest fan… What are you waiting for?\
   \ Enter the form below for a chance to win and get ready to have a BLAST at Bring\
   \ Me The Horizon ‘First Love’ Tour!</p>"
-entry-title: "Win a pair of tickets to Bring Me The Horizon ‘First Love’ Tour!"
-entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon ‘\
-  First Love’ Tour by completing the form below before 23:59 on 7h of January 2018."
+entry-title: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
+  \ Love’ Tour!"
+entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon North\
+  \ American ‘First Love’ Tour by completing the form below before 23:59 on 7h of\
+  \ January 2018."
 has-winner: false
 prize-description: "One of 5 pairs of tickets to attend Bring Me The Horizon ‘First\
   \ Love’ Tour  concert at a city of their choice except the 1/29 NY show.\r\n\r\n\
