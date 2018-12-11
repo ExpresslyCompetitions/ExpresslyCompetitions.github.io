@@ -8,8 +8,8 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win Marshall Major III Headphones!"
-competition-description: "<p>Want to win some headphones from audio titan, Marshall?\
-  \ Beat those post-Christmas blues with the new Major III headphones from iconic\
+competition-description: "<p>Want to win some headphones from audio titan, Marshall?</p>\r\
+  \n<p>Beat those post-Christmas blues with the new Major III headphones from iconic\
   \ music brand, Marshall. Best known for their classic amps, the\_Major III Bluetooth\_\
   headphones herald the next chapter in the revolutionary history of Marshall. This\
   \ go-to classic has been re-engineered for a cleaner, more refined design, while\
