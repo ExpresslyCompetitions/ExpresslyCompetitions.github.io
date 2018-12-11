@@ -14,11 +14,11 @@ competition-description: "<p>Bring Me The Horizon announced southern California 
   \ ‘First Love’ Tour. Produced by Live Nation, the tour will kick off January 23\
   \ and will include stops at The Forum in Los Angeles and Hammerstein Ballroom in\
   \ New York, where a second show was added due to overwhelming demand. Tickets are\
-  \ available now at <a href=\"https://www.livenation.com/artists/81256/bring-me-the-horizon”\
-  >LiveNation.com</a></p>\r\n<p>We want YOU to come along with us, that’s why we are\
-  \ giving away 5 pairs of tickets to 5 lucky NME AAA members to win and join Bring\
-  \ Me  The Horizon on their North American tour to a concert at a city of their choice!</p>\r\
-  \n<p>Does it sound like the best plan? Click below for a chance to win!</p>"
+  \ available now at LiveNation.com</p>\r\n<p>We want YOU to come along with us, that’\
+  s why we are giving away 5 pairs of tickets to 5 lucky NME AAA members to win and\
+  \ join Bring Me  The Horizon on their North American tour to a concert at a city\
+  \ of their choice!</p>\r\n<p>Does it sound like the best plan? Click below for a\
+  \ chance to win!</p>"
 hero-header: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
   \ Love’ Tour!"
 terms-confirmation: "N/A"
@@ -52,9 +52,8 @@ section2-content: "<p>The band announced southern California rock band Thrice wi
   s newest album\_Palms was released this year on Epitaph Records.</p>\r\n<p>It was\
   \ also previously announced that Los Angeles trio FEVER 333 will join the tour as\
   \ support on all dates. Known for their hard-hitting hybrid of hip-hop, punk, and\
-  \ activism, the band recently released a video for the remix of their track <a href=\"\
-  https://www.youtube.com/watch?v=uH3kmd0-fEQ”>Made An America</a>,” featuring Travis\
-  \ Barker and Vic Mensa.</p>"
+  \ activism, the band recently released a video for the remix of their track 'Made\
+  \ An America' featuring Travis Barker and Vic Mensa."
 section3-content: "<p>We have 5 pairs of tickets to attend Bring Me The Horizon North\
   \ American ‘First Love’ Tour to 5 lucky winners and join the band to a concert of\
   \ their choice!</p>\r\n<p>If you are BMTH biggest fan… What are you waiting for?\
