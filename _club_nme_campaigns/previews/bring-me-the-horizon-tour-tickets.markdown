@@ -55,10 +55,10 @@ section2-content: "<p>The band announced southern California rock band Thrice wi
   \ activism, the band recently released a video for the remix of their track 'Made\
   \ An America' featuring Travis Barker and Vic Mensa."
 section3-content: "<p>We have 5 pairs of tickets to attend Bring Me The Horizon North\
-  \ American ‘First Love’ Tour to 5 lucky winners and join the band to a concert of\
-  \ their choice!</p>\r\n<p>If you are BMTH biggest fan… What are you waiting for?\
-  \ Enter the form below for a chance to win and get ready to have a BLAST at Bring\
-  \ Me The Horizon ‘First Love’ Tour!</p>"
+  \ American ‘First Love’ Tour to 5 lucky winners and join the band to a concert at\
+  \ a city of their choice except the 1/29 NY show.</p>\r\n<p>If you are BMTH biggest\
+  \ fan… What are you waiting for? Enter the form below for a chance to win and get\
+  \ ready to have a BLAST at Bring Me The Horizon ‘First Love’ Tour!</p>"
 entry-title: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
   \ Love’ Tour!"
 entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon North\
