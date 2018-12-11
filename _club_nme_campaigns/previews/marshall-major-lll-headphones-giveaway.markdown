@@ -48,10 +48,10 @@ section2-content: "<p>Since launching in 2010, the Major has been Marshall’s b
   \ for a cleaner, refined design, while the silhouette has stayed true to its original\
   \ form.\r\n</p>"
 section3-content: "<p>Iconic Sound, 30+ hours of wireless playtime, A Modern classic\
-  \ reengineered… and many more features for YOU to discover! We are going away 3\
-  \ Marshall Major III Headphones to 3 lucky NME AAA members… if you can’t wait to\
-  \ have the headphones everybody’s talking about, enter the form below and they could\
-  \ be coming home with you.</p>\r\n<p>Good luck!</p>"
+  \ reengineered… and many more features for YOU to discover!</p>\r\n<p>We are giving\
+  \ away 3 Marshall Major III Headphones to 3 lucky NME AAA members… if you can’t\
+  \ wait to have the headphones everybody’s talking about, enter the form below and\
+  \ they could be coming home with you.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Marshall Major III Headphones!"
 entry-content: "Enter the draw to win Marshall Major III Headphones by completing\
   \ the form below before 23:59 on 11th of January 2019."
