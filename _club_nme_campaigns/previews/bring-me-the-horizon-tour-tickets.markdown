@@ -7,17 +7,19 @@ end-date: "2019-01-07T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win a pair of tickets to Bring Me The Horizon ‘First Love’ Tour!"
+title: "Win a pair of tickets to Bring Me The Horizon North America ‘First Love’ Tour!"
 competition-description: "<p>Bring Me The Horizon announced southern California rock\
   \ band Thrice will join them as support on all dates of their North American 16-city\
   \ ‘First Love’ Tour. Produced by Live Nation, the tour will kick off January 23\
   \ and will include stops at The Forum in Los Angeles and Hammerstein Ballroom in\
-  \ New York, where a second show was added due to overwhelming demand.</p>\r\n<p>We\
-  \ want YOU to come along with us, that’s why we are giving away 5 pairs of tickets\
-  \ to 5 lucky NME AAA members to win and join Bring Me  The Horizon to a concert\
-  \ at a city of their choice!</p>\r\n<p>Does it sound like the best plan? Click below\
-  \ for a chance to win!</p>"
-hero-header: "Win a pair of tickets to Bring Me The Horizon ‘First Love’ Tour!"
+  \ New York, where a second show was added due to overwhelming demand. Tickets are\
+  \ available now at <a href=\"https://www.livenation.com/artists/81256/bring-me-the-horizon”\
+  >LiveNation.com</a></p>\r\n<p>We want YOU to come along with us, that’s why we are\
+  \ giving away 5 pairs of tickets to 5 lucky NME AAA members to win and join Bring\
+  \ Me  The Horizon on their North American tour to a concert at a city of their choice!</p>\r\
+  \n<p>Does it sound like the best plan? Click below for a chance to win!</p>"
+hero-header: "Win a pair of tickets to Bring Me The Horizon North America ‘First Love’\
+  \ Tour!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-521c6de0-b26a-484e-878a-7a84e2d166c4.jpg"
 logo-left-href: "aaa.nme.com"
@@ -46,12 +48,17 @@ section2-content: "<p>The band announced southern California rock band Thrice wi
   s\_The Alchemy Index: Fire and Water and Earth and Air), Thrice took a several-year\
   \ hiatus starting in 2012. Arriving in May 2016,\_To Be Everywhere Is to Be Nowhere\_\
   proved to be Thrice’s most politically-minded yet vulnerable work to date. The band’\
-  s newest album\_Palms was released this year on Epitaph Records.</p>"
-section3-content: "<p>We have 5 pairs of tickets to attend Bring Me The Horizon ‘\
-  First Love’ Tour to 5 lucky winners and join the band to a concert of their choice!</p>\r\
-  \n<p>If you are BMTH biggest fan… What are you waiting for? Enter the form below\
-  \ for a chance to win and get ready to have a BLAST at Bring Me The Horizon ‘First\
-  \ Love’ Tour!</p>"
+  s newest album\_Palms was released this year on Epitaph Records.</p>\r\n<p>It was\
+  \ also previously announced that Los Angeles trio FEVER 333 will join the tour as\
+  \ support on all dates. Known for their hard-hitting hybrid of hip-hop, punk, and\
+  \ activism, the band recently released a video for the remix of their track <a href=\"\
+  https://www.youtube.com/watch?v=uH3kmd0-fEQ”>Made An America</a>,” featuring Travis\
+  \ Barker and Vic Mensa.</p>"
+section3-content: "<p>We have 5 pairs of tickets to attend Bring Me The Horizon North\
+  \ American ‘First Love’ Tour to 5 lucky winners and join the band to a concert of\
+  \ their choice!</p>\r\n<p>If you are BMTH biggest fan… What are you waiting for?\
+  \ Enter the form below for a chance to win and get ready to have a BLAST at Bring\
+  \ Me The Horizon ‘First Love’ Tour!</p>"
 entry-title: "Win a pair of tickets to Bring Me The Horizon ‘First Love’ Tour!"
 entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon ‘\
   First Love’ Tour by completing the form below before 23:59 on 7h of January 2018."
