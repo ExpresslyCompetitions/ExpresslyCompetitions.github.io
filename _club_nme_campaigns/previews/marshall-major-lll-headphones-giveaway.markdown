@@ -56,7 +56,7 @@ entry-title: "Win Marshall Major III Headphones!"
 entry-content: "Enter the draw to win Marshall Major III Headphones by completing\
   \ the form below before 23:59 on 11th of January 2019."
 has-winner: false
-prize-description: "Marshall Major III Headphones."
+prize-description: "One of 3 Marshall Major III Headphones."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
