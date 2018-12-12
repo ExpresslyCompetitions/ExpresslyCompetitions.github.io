@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-12-05T09:00:00.000Z"
 end-date: "2018-12-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to see Keuning live in London!"
 competition-description: "<p>Following years of touring the UK with one of the world’\
