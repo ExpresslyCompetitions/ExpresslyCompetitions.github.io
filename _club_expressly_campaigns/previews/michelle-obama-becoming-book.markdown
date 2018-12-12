@@ -11,8 +11,8 @@ title: "Win ‘Becoming’ by Michelle Obama"
 competition-description: "<p>Michelle Obama invites readers into her world, chronicling\
   \ the experiences that have shaped her—from her childhood on the South Side of Chicago\
   \ to her years as an executive balancing the demands of motherhood and work, to\
-  \ her time spent at the world’s most famous address.We are giving away a copy of\
-  \ ‘Becoming’ , Michelle Obama’s new book. </p>\r\n<p>If you want to know more about\
+  \ her time spent at the world’s most famous address. We are giving away a copy of\
+  \ ‘Becoming’, Michelle Obama’s new book. </p>\r\n<p>If you want to know more about\
   \ The First Lady of the United States of America, click below for a chance to win.</p>"
 hero-header: "Win ‘Becoming’ by Michelle Obama"
 terms-confirmation: "N/A"
