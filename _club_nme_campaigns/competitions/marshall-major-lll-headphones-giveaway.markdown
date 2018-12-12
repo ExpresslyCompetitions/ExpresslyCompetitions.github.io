@@ -54,7 +54,7 @@ section3-content: "<p>Iconic Sound, 30+ hours of wireless playtime, A Modern cla
   \ they could be coming home with you.</p>\r\n<p>Good luck!</p>"
 entry-title: "Win Marshall Major III Headphones!"
 entry-content: "Enter the draw to win Marshall Major III Headphones by completing\
-  \ the form below before 23:59 on 11th of January 2019."
+  \ the form below before 23:59 on 12th of January 2019."
 has-winner: false
 prize-description: "One of 3 Marshall Major III Headphones."
 special-conditions: "Multiple entries are allowed up to one every day."
