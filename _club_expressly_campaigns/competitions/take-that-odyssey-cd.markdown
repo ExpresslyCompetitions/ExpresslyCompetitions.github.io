@@ -12,7 +12,7 @@ competition-description: "<p>‘Odyssey’ a re-imagined greatest hits album tha
   \ the listener on a journey through the incredible musical history of Take That,\
   \ one of the UK’s most successful bands of all time. The ‘Odyssey’ album - produced\
   \ by Stuart Price - features 27 tracks spanning three decades of the band’s history.</p>\r\
-  \n<p>Would you like to add ‘Odyssey’ to you collection? Click below for a chance\
+  \n<p>Would you like to add ‘Odyssey’ to your collection? Click below for a chance\
   \ to win!</p>"
 hero-header: "Win Take That ‘Odyssey’ CD!"
 terms-confirmation: "N/A"
