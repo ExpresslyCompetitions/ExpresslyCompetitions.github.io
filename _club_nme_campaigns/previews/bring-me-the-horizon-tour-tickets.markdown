@@ -63,7 +63,7 @@ entry-title: "Win a pair of tickets to Bring Me The Horizon North American ‘Fi
   \ Love’ Tour!"
 entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon North\
   \ American ‘First Love’ Tour by completing the form below before 23:59 EST on 13th\
-  \ of January 2018."
+  \ of January 2019."
 has-winner: false
 prize-description: "One of 3 pairs of tickets to attend Bring Me The Horizon ‘First\
   \ Love’ Tour  concert at a city of their choice except the 1/29 NY show.\r\n\r\n\
