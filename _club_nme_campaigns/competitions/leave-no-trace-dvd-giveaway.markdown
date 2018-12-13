@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-12T09:00:00.000Z"
 end-date: "2018-12-12T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Leave No Trace on DVD!"
 competition-description: "<p>Debra Granik new movie Leave No Trace is out on DVD now\
