@@ -14,7 +14,7 @@ competition-description: "<p>In support of A Simple Favor arriving to 4K, Blu-ra
   \ of twists, betrayals, secrets, murder, and revenge. The Rotten Tomatoes Certified\
   \ Fresh™ film also stars Henry Golding (Crazy Rich Asians), Andrew Rannells (TV’\
   s “Girls,” TV’s “The Knick”), Linda Cardellini (TV’s “Freaks and Geeks,” Hunter\
-  \ Killer), and Rupert Friend (TV’s “Homeland”).</p> \r\n<p>DO you want to experience\
+  \ Killer), and Rupert Friend (TV’s “Homeland”).</p> \r\n<p>Do you want to experience\
   \ a stylish thriller that’s “wildly entertaining’’? Click below for a chance to\
   \ win!</p>"
 hero-header: "Win A Simple Favor on Blu-Ray and the official vinyl soundtrack!"
@@ -23,7 +23,7 @@ banner-img: "https://assets.expresslyapp.com/asset-50783f60-9712-4929-b6cd-03657
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-1f977441-71f6-4c68-8a7a-53b04cbc2c0e.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-2bad828c-8220-4bbe-a867-299d5700e76f.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-b5c03492-1575-47c8-8404-4cc4c222f16d.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-371dbdd3-f81e-4ab4-87c2-d9f64c8d5df6.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-9a18a9fe-e3a3-4007-a08f-deebbb6588a2.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-d6ef22b7-686d-46e7-b8f7-a8b87365e68d.jpg"
