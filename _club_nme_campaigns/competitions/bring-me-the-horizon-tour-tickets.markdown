@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-9e642643-ad46-4f07-8217-7a98cc728947"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
 date: "2018-12-13T10:00:00.000Z"
 end-date: "2019-01-14T04:59:00.000Z"
