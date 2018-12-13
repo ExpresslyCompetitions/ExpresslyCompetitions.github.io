@@ -16,7 +16,7 @@ competition-description: "<p>We have in our hands the most comprehensive collect
   \n<p>If you are a Queen fan, this collection is a MUST for you. Click below for\
   \ a chance to win.</p>"
 hero-header: "Win Queen The Platinum Collection: Greatest Hits I, II & III"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/QueenThePlatinumcollectionterms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-0074da88-a115-47e5-8e27-00d150532024.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b5ada685-ac1b-48dd-b254-65ec3aa98808.jpg"
