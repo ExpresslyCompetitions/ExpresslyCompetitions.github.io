@@ -15,7 +15,7 @@ competition-description: "<p>A deep-sea submersible filled with an international
   \ Chinese oceanographer (Winston Chao) to save the crew—and the ocean itself—from\
   \ this unstoppable threat: a pre-historic 75-foot-long shark known as the Megalodon.</p>"
 hero-header: "Win The Meg on Blu-Ray!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/TheMegNMEAAAterms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-e20b4d0c-4b08-48ed-ac23-f75223e32fa6.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b5ada685-ac1b-48dd-b254-65ec3aa98808.jpg"
