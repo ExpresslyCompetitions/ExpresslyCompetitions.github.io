@@ -21,7 +21,7 @@ competition-description: "<p>Bring Me The Horizon announced southern California 
   \ chance to win!</p>"
 hero-header: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
   \ Love’ Tour!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/BringMeTheHorizonNMEAAA-terms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-521c6de0-b26a-484e-878a-7a84e2d166c4.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-7f33606e-8be5-4127-8da5-b3704e03589f.jpg"
