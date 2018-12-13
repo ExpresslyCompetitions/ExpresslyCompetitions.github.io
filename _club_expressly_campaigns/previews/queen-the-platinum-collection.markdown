@@ -3,7 +3,7 @@ campaign-uuid: "c-a6c95beb-9bac-4724-b800-043217b416aa"
 type: "Preview"
 category: "Music"
 date: "2018-12-13T09:00:00.000Z"
-end-date: "2019-01-13T23:59:00.000Z"
+end-date: "2019-01-14T04:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -39,7 +39,8 @@ section1-content: "<p>What once seemed Queen's greatest liabilities a preening f
   \ from the amazing band: QUEEN!</>"
 entry-title: "Win Queen The Platinum Collection: Greatest Hits I, II & III"
 entry-content: "Enter the draw to win Queen The Platinum Collection: Greatest Hits\
-  \ I, II & III\r\n by completing the form below before 23:59 on 13th of January 2019."
+  \ I, II & III\r\n by completing the form below before 23:59 EST on 13th of January\
+  \ 2019."
 has-winner: false
 prize-description: "Queen The Platinum Collection: Greatest Hits I, II & III"
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/queen-the-platinum-collection\r\
