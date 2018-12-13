@@ -18,7 +18,7 @@ competition-description: "<p>In support of A Simple Favor arriving to 4K, Blu-ra
   \ a stylish thriller that’s “wildly entertaining’’? Click below for a chance to\
   \ win!</p>"
 hero-header: "Win A Simple Favor on Blu-Ray and the official vinyl soundtrack!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/asimplefavor-terms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-50783f60-9712-4929-b6cd-0365775bb0db.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-1f977441-71f6-4c68-8a7a-53b04cbc2c0e.jpg"
