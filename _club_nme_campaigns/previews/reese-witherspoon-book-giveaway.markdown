@@ -14,7 +14,7 @@ competition-description: "<p>Reese Witherspoon, award-winning\_actress and\_prod
   \ style, parties, and traditions she loves with contemporary flair and charm.</p>\r\
   \n<p>Want to know more about Reese’s life? Click below for a chance to win!</p>"
 hero-header: "Win Reese Witherspoon ‘Whiskey in a Teacup’ book!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/ReeseWitherspoonNMEAAAterms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-69e5ca9f-7682-4b3e-aa68-ebfca9ef3df1.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-7e129346-e473-4672-b2f0-c2d14a824674.jpg"
