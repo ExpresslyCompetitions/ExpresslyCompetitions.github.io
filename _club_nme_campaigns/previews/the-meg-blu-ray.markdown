@@ -3,7 +3,7 @@ campaign-uuid: "c-d7a57cc8-a378-4ff8-9db1-e2b9d136183b"
 type: "Preview"
 category: "Entertainment"
 date: "2018-12-13T09:00:00.000Z"
-end-date: "2019-01-13T23:59:00.000Z"
+end-date: "2019-01-14T04:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -32,7 +32,7 @@ section1-content: "<p>Rounding out the international main cast of \"The Meg\" ar
   \ now! </p>"
 entry-title: "Win The Meg on Blu-Ray!"
 entry-content: "Enter the draw to win The Meg on Blu-Ray by completing the form below\
-  \ before 23:59 on 13th of January 2019."
+  \ before 23:59 EST on 13th of January 2019."
 has-winner: false
 prize-description: "The Meg on Blu-Ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
