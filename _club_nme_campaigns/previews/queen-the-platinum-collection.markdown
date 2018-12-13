@@ -3,7 +3,7 @@ campaign-uuid: "c-a01885d0-bf1f-41eb-9f9b-5b0cf1a28819"
 type: "Preview"
 category: "Music"
 date: "2018-12-13T09:00:00.000Z"
-end-date: "2019-01-13T23:59:00.000Z"
+end-date: "2019-01-14T04:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -36,7 +36,8 @@ section1-content: "<p>While it eschews the glammy, pre-punk hard rock of live fa
   \ the form below to win this amazing collection from the amazing band: QUEEN!</>"
 entry-title: "Win Queen The Platinum Collection: Greatest Hits I, II & III"
 entry-content: "Enter the draw to win Queen The Platinum Collection: Greatest Hits\
-  \ I, II & III\r\n by completing the form below before 23:59 on 13th of January 2019."
+  \ I, II & III\r\n by completing the form below before 23:59 EST on 13th of January\
+  \ 2019."
 has-winner: false
 prize-description: "Queen The Platinum Collection: Greatest Hits I, II & III"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
