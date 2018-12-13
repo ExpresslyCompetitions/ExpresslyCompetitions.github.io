@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win Paul Heaton 'The Last King of Pop' CD!"
 competition-description: "<p>We have in our hands the 2018 collection from the British\
-  \ singer & songwriter, Paul Heaton,‘The Last King of Pop’. This compilation feature\
+  \ singer & songwriter, Paul Heaton,  ‘The Last King of Pop’. This compilation feature\
   \ 23 of the finest songs from throughout Paul's extraordinary music career, including\
   \ hits from his days in the Housemartins, through his time in the multi-platinum\
   \ pop co-operative The Beautiful South, his solo years, and up to the present day\
