@@ -7,17 +7,18 @@ end-date: "2019-01-18T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win A Simple Favor on Blu-Ray and the official vinyl soundtrack!"
+title: "Win A Simple Favor on Blu-ray and the official vinyl soundtrack!"
 competition-description: "<p>In support of A Simple Favor arriving to 4K, Blu-ray\
   \ and DVD on December 18th, we are giving away A Simple Favor on Blu-Ray and the\
   \ official vinyl soundtrack to one of our lucky USA members! A Simple Favor is full\
   \ of twists, betrayals, secrets, murder, and revenge. The Rotten Tomatoes Certified\
   \ Fresh™ film also stars Henry Golding (Crazy Rich Asians), Andrew Rannells (TV’\
   s “Girls,” TV’s “The Knick”), Linda Cardellini (TV’s “Freaks and Geeks,” Hunter\
-  \ Killer), and Rupert Friend (TV’s “Homeland”).</p> \r\n<p>Do you want to experience\
-  \ a stylish thriller that’s “wildly entertaining’’? Click below for a chance to\
-  \ win!</p>"
-hero-header: "Win A Simple Favor on Blu-Ray and the official vinyl soundtrack!"
+  \ Killer), and Rupert Friend (TV’s “Homeland”).</p> \r\n<p>A Simple Favor is available\
+  \ in the US digitally and on 4K, Blu-ray and DVD today from Lionsgate! Do you want\
+  \ to experience a stylish thriller that’s “wildly entertaining’’? Click below for\
+  \ a chance to win!</p>"
+hero-header: "Win A Simple Favor on Blu-ray and the official vinyl soundtrack!"
 terms-confirmation: "asimplefavor-terms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-50783f60-9712-4929-b6cd-0365775bb0db.jpg"
 logo-left-href: "aaa.nme.com"
@@ -37,16 +38,16 @@ section2-content: "This Blu-Ray has it all, so get ready to take home A Simple F
   \ 3 audio commentaries with the cast and crew, 8 making-of featurettes, a gag reel,\
   \ deleted scenes, and an alternate ending and many more for YOU to discover!"
 section3-content: "<p>We have managed to get our hands on the crazy comedy A Simple\
-  \ Favor on Blu-Ray and the official vinyl soundtrack to give away to one of our\
+  \ Favor on Blu-ray and the official vinyl soundtrack to give away to one of our\
   \ lucky USA NME AAA members to win!</p> \r\n<p>If you like what you’re hearing,\
   \ enter the form below for a chance to win and get ready to enjoy this stylish post-modern\
   \ comedy film NOW!</p>"
-entry-title: "Win A Simple Favor on Blu-Ray and the official vinyl soundtrack!"
-entry-content: "Enter the draw to win  A Simple Favor on Blu-Ray and the official\
+entry-title: "Win A Simple Favor on Blu-ray and the official vinyl soundtrack!"
+entry-content: "Enter the draw to win  A Simple Favor on Blu-ray and the official\
   \ vinyl soundtrack by completing the form below before 23:59 on 18th of January\
   \ 2019."
 has-winner: false
-prize-description: "A Simple Favor on Blu-Ray and the official vinyl soundtrack."
+prize-description: "A Simple Favor on Blu-ray and the official vinyl soundtrack."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "US"
