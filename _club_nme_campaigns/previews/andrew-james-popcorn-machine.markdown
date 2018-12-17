@@ -13,13 +13,13 @@ competition-description: "<p>A night out at the cinema is fun, but it isn’t th
   \ Andrew James Classic Popcorn Maker creates buckets of hot, delicious popcorn while\
   \ you can experiment with your own flavour combinations.</p>\r\n<p>We are giving\
   \ away the best gift you could ever ask for: Andrew James Classic Popcorn Maker\
-  \ Machine for you to spend a great night in with your loved ones. Want it? Click\
-  \ below for a chance to win!</p>"
+  \ Machine for you to spend a great night in with your loved ones.</p>\r\n<p>Want\
+  \ it? Click below for a chance to win!</p>"
 hero-header: "Win Andrew James Classic Popcorn Maker Machine!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-29d2d078-7485-48bd-9a3c-bc4dd9cf40d9.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-1f977441-71f6-4c68-8a7a-53b04cbc2c0e.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-23bc0862-709f-4382-bc92-ff3e7673fbad.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-4d9332cf-6cca-4c12-af14-73b942553689.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-e5571301-e197-4cf1-be98-bb53d3fa717e.jpg"
