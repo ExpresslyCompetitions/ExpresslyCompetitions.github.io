@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-2e4ebb2d-1d51-44bb-ac6c-f5030475cacb"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
-date: "2018-12-18T09:00:00.000Z"
-end-date: "2019-01-18T23:59:00.000Z"
+date: "2018-12-18T10:00:00.000Z"
+end-date: "2019-01-18T04:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -44,7 +44,7 @@ section3-content: "<p>We have managed to get our hands on the crazy comedy A Sim
   \ comedy film NOW!</p>"
 entry-title: "Win A Simple Favor on Blu-ray and the official vinyl soundtrack!"
 entry-content: "Enter the draw to win  A Simple Favor on Blu-ray and the official\
-  \ vinyl soundtrack by completing the form below before 23:59 on 18th of January\
+  \ vinyl soundtrack by completing the form below before 23:59 EST on 18th of January\
   \ 2019."
 has-winner: false
 prize-description: "A Simple Favor on Blu-ray and the official vinyl soundtrack."
