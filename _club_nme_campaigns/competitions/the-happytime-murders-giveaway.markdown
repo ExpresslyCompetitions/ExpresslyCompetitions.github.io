@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-3c013610-f0c7-4232-99c7-4755c8e25ab6"
-type: "Preview"
+type: "Competition"
 category: "Entertainment"
 date: "2018-12-19T09:00:00.000Z"
 end-date: "2019-01-19T23:59:00.000Z"
@@ -34,14 +34,14 @@ section1-content: "<p>No Sesame. All Street. THE HAPPYTIME MURDERS is a filthy c
   Melissa McCarthy, and\_Ben Falcone. The film also features an all-star comedy cast\
   \ including\_Melissa McCarthy\_(The Boss, Spy, Bridesmaids),\_Maya Rudolph\_(Bridesmaids),\_\
   Joel McHale\_(TV’s Community), and\_Elizabeth Banks\_(The Hunger Games franchise,\
-  \ Pitch Perfect franchise).\L\L</p>"
+  \ Pitch Perfect franchise).??</p>"
 section2-content: "Detective Phil Philips is a down-on-his-luck puppet who used to\
   \ work in the Los Angeles Police Department. When two puppets from an old TV show\
   \ wind up dead, Phil suspects something is afoot and returns to the LAPD as a consultant.\
   \ Reunited with his former human police partner, Connie Edwards, the squabbling\
   \ twosome soon find themselves in a race against time to save former cast members\
   \ before the killer strikes again. The Happytime Murders is packed with clever improv\
-  \ and shocking humour. \L\_ \L"
+  \ and shocking humour. ?\_ ?"
 section3-content: "<p>This amazing DVD includes exclusive bonus features for you to\
   \ get stuck into! We are giving away 6 copies of this filthy comedy The Happytime\
   \ Murders to 6 lucky NME AAA members PLUS 1 amazing DVD player to 1 of them!</p>\r\
@@ -52,7 +52,7 @@ entry-content: "Enter the draw to win The Happytime Murders on DVD & a DVD playe
   \ to watch it by completing the form below before 23:59 on 19th of January 2019."
 has-winner: false
 prize-description: "6 winners win The Happytime Murders on DVD & one of the 6 winners\
-  \ win a  DVD player to watch it."
+  \ win a  DVD player to watch it.\r\nDVD player (TBA)."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
