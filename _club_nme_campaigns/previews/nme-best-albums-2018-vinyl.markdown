@@ -36,9 +36,9 @@ section2-content: "<p>And to celebrate, now you can win a collection of NME's to
   \ Shame, Parquet Courts, Brockhampton and Sunflower Bean.</p>\r\n<p>Our second prizewinner\
   \ will get five of NME’s best albums of 2018, including our winning album by The\
   \ 1975.</p>"
-section3-content: "<p>Does it sound like the best present of your 2018? If so, think\
-  \ no more and enter the form below for a chance to win one of the two amazing prizes\
-  \ we are giving away now!</p>\r\n<p>Good luck!</p>"
+section3-content: "<p>Does it sound like the best present of your 2018?</p>\r\n<p>If\
+  \ so, think no more and enter the form below for a chance to win one of the two\
+  \ amazing prizes we are giving away now!</p>\r\n<p>Good luck!</p>"
 entry-title: "Win NME’s best albums of the 2018 on vinyl!"
 entry-content: "Enter the draw to win TNME’s best albums of the 2018 on vinyl\r\n\
   by completing the form below before 23:59 on 31st of December 2018."
