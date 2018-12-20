@@ -28,13 +28,12 @@ bg-image-third: "https://assets.expresslyapp.com/asset-ca120cb7-e467-4440-a3d9-a
 section1-content: "<p>Hasn't it been a huge year for music. From brilliant debuts\
   \ by the likes of Shame and Kali Uchis, to huge returns from Arctic Monkeys and\
   \ The 1975, we've been truly spoilt. And after intense discussion and a few temper\
-  \ tantrums NME have managed to whittle down our favourite records to our <a>href=\"\
-  https://www.nme.com/blogs/nme-blogs/best-greatest-albums-of-the-year-2018-2419656”\
-  >top 100 albums of the year!</a>"
+  \ tantrums NME have managed to whittle down our favourite records to our top 100\
+  \ albums of the year!"
 section2-content: "<p>And to celebrate, now you can win a collection of NME's top\
   \ albums on vinyl.</p>\r\n<p>Our first prizewinner will get a collection of NME’\
   s best albums of the year, including records by The 1975, Arctic Monkeys, Idles,\
-  \ Shame, Parquet Courts, Brockhampton and Sunflower Bean.\r\nOur second prizewinner\
+  \ Shame, Parquet Courts, Brockhampton and Sunflower Bean.</p>\r\n<p>Our second prizewinner\
   \ will get five of NME’s best albums of 2018, including our winning album by The\
   \ 1975.</p>"
 section3-content: "<p>Does it sound like the best present of your 2018? If so, think\
