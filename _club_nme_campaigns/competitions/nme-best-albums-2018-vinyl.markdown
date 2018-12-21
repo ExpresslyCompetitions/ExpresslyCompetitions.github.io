@@ -7,7 +7,7 @@ end-date: "2018-12-31T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win NME’s best albums of the 2018 on vinyl!"
+title: "Win NME’s best albums of 2018 on vinyl!"
 competition-description: "<p>Calling all the NME fans, we have great news for you:\
   \ we are giving away two amazing prizes for two lucky NME AAA members to win: a\
   \ collection of NME’s best albums of the year, including records by The 1975, Arctic\
@@ -15,7 +15,7 @@ competition-description: "<p>Calling all the NME fans, we have great news for yo
   \ second prize, five of NME’s best albums of 2018, including our winning album by\
   \ The 1975.</p>\r\n<p>Does it sound like the best present of your 2018? Enter the\
   \ form below for a chance to win!</p>"
-hero-header: "Win NME’s best albums of the 2018 on vinyl!"
+hero-header: "Win NME’s best albums of 2018 on vinyl!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-62ea053d-ddcd-4d72-bf42-658dccbd666f.jpg"
 logo-left-href: "aaa.nme.com"
@@ -38,15 +38,15 @@ section2-content: "<p>And to celebrate, now you can win a collection of NME's to
   \ 1975.</p>"
 section3-content: "<p>Sound good? Well to win all you have to do is enter the form\
   \ below for a chance to win.</p>\r\n<p>Good luck!</p>"
-entry-title: "Win NME’s best albums of the 2018 on vinyl!"
-entry-content: "Enter the draw to win NME’s best albums of the 2018 on vinyl\r\nby\
-  \ completing the form below before 23:59 on 31st of December 2018."
+entry-title: "Win NME’s best albums of 2018 on vinyl!"
+entry-content: "Enter the draw to win NME’s best albums of 2018 on vinyl\r\nby completing\
+  \ the form below before 23:59 on 31st of December 2018."
 has-winner: false
-prize-description: "NME’s best albums of the 2018 on vinyl.\r\nEach winner will be\
-  \ randomly assigned 1 of the two prizes: \r\n- A collection of NME’s best albums\
-  \ of the year, including records by The 1975, Arctic Monkeys, Idles, Shame, Parquet\
-  \ Courts, Brockhampton and Sunflower Bean.\r\n- Five of NME’s best albums of 2018,\
-  \ including our winning album by The 1975"
+prize-description: "NME’s best albums of 2018 on vinyl.\r\nEach winner will be randomly\
+  \ assigned 1 of the two prizes: \r\n- A collection of NME’s best albums of the year,\
+  \ including records by The 1975, Arctic Monkeys, Idles, Shame, Parquet Courts, Brockhampton\
+  \ and Sunflower Bean.\r\n- Five of NME’s best albums of 2018, including our winning\
+  \ album by The 1975"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
