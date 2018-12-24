@@ -5,7 +5,7 @@ category: "Food"
 date: "2018-11-07T12:00:00.000Z"
 end-date: "2018-12-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Rude Health Ultimate Christmas Box!"
 competition-description: "<p>At Rude Health, they make their food out of great things\
