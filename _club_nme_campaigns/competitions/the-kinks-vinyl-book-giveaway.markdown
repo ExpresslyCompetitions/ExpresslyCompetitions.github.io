@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-11-15T09:00:00.000Z"
 end-date: "2018-12-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book!"
