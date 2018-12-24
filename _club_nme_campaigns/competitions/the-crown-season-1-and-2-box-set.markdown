@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-13T09:00:00.000Z"
 end-date: "2018-12-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 competition-description: "<p>We have in our hands the Emmy Award winning\_series,\
