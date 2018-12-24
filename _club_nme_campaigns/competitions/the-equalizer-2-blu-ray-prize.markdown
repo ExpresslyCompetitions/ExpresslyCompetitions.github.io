@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-23T10:00:00.000Z"
 end-date: "2018-12-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Equalizer 2 on Blu-ray and the official cap of the movie!"
 competition-description: "<p>Give Dad a taste of the action this Christmas! We are\
