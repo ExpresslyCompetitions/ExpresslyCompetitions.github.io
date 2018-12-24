@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-20T09:00:00.000Z"
 end-date: "2018-12-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Elvis Presley The Searcher on DVD!"
 competition-description: "<p>The King of Rock ‘n’ Roll and the best-selling solo music\
