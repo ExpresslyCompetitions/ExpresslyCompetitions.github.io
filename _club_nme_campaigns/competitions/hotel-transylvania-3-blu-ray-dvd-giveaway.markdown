@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-11-14T10:00:00.000Z"
 end-date: "2018-12-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Hotel Transylvania 3 on Blu-ray!"
 competition-description: "<p>The Drac pack is back this Christmas! There's loads of\
