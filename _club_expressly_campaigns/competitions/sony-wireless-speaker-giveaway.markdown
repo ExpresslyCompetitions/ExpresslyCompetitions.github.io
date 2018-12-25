@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the Sony Portable Wireless Speaker!"
 competition-description: "<p>You loved it and here is it again! We are giving away\
   \ the amazing Sony SRS-XB10 Compact Portable Wireless Speaker to one of our lucky\
-  \ NME AAA members!</p>\r\n<p>Wherever you go, bring some big beats with you. Click\
-  \ below for a chance to win!</p>"
+  \ members!</p>\r\n<p>Wherever you go, bring some big beats with you. Click below\
+  \ for a chance to win!</p>"
 hero-header: "Win the Sony Portable Wireless Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c5d7417-8669-4155-ae52-ce6801ba39ab.jpg"
