@@ -9,14 +9,14 @@ is_promoted: false
 has_entry_page: true
 title: "Win Pink Floyd All The Songs book!"
 competition-description: "<p>We have in our hands one of the world's most commercially\
-  \ successful and influential rock bands books: Pink Floyd.</p>\r\n<p>In Pink Floyd\
+  \ successful and influential rock bands book: Pink Floyd.</p>\r\n<p>In Pink Floyd\
   \ All the Songs, authors Margotin and Guesdon describe the origin of their nearly\
   \ 200 released songs, details from the recording studio, what instruments were used,\
   \ and behind-the-scenes stories of the tensions that helped drive the band.</p>\r\
   \n<p>Want it? Click below for a chance to win!</p>"
 hero-header: "Win Pink Floyd All The Songs book!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-39970934-6196-47e6-b173-c19424e5dacf.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-9727f162-1c92-4eba-af23-7a570f46f4b7.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-bb1046b3-0713-4921-a422-2047a354d789.jpg"
 logo-left-title: "NME AAA"
