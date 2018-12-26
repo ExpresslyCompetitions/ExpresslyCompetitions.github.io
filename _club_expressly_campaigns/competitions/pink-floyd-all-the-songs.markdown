@@ -35,8 +35,8 @@ section1-content: "<p>Organized chronologically by album, this massive, 544-page
   \ Bob's Ezrin's contribution in refining Water's original sprawling vision for The\
   \ Wall.</p>"
 entry-title: "Win Pink Floyd All The Songs book!"
-entry-content: "Enter the draw to win Pink Floyd All The Songs boThis competition\
-  \ is also available on: https://aaa.nme.com/competitions/pink-floyd-all-the-songs"
+entry-content: "Enter the draw to win Pink Floyd All The Songs book by completing\
+  \ the form below before 23:59 on 26th of January 2019."
 has-winner: false
 prize-description: "Pink Floyd All The Songs book."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/pink-floyd-all-the-songs\r\
