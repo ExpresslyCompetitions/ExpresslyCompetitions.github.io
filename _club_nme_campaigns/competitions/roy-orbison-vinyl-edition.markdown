@@ -38,7 +38,7 @@ section1-content: "<p>Working once again at the world-famous Abbey Road Studios,
   \ as eight Orbisons, counting Roy himself.</p>\r\n<p>Enter the form below for a\
   \ chance to win Roy Orbison new album Unchained Melodies on vinyl edition NOW!</p>"
 entry-title: "Win Roy Orbison Unchained Melodies vinyl edition!"
-entry-content: "Enter the draw to win Roy Orbinson Unchained Melodies vinyl edition\
+entry-content: "Enter the draw to win Roy Orbison Unchained Melodies vinyl edition\
   \ by completing the form below before 23:59 on 28th of January 2019."
 has-winner: false
 prize-description: "Roy Orbison Unchained Melodies vinyl edition."
