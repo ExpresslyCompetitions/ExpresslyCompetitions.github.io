@@ -23,7 +23,7 @@ banner-img: "https://assets.expresslyapp.com/asset-e091efc3-e069-4171-82f1-941da
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-20ee01ed-691b-4ef6-8299-a8b652e5c055.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-98f34828-a7ed-45f2-b58d-3573c4254957.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-14e9f605-d1d5-492c-8376-522277e230ba.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-4c92090b-26f7-46a2-a2f0-f2c887a16d78.jpg"
 section1-content: "<p>Enter mankind’s greatest conflict with Battlefield™ V as the\
   \ series goes back to its roots in a never-before-seen portrayal of World War 2.\
