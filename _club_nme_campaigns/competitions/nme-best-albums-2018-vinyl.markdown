@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-12-21T09:00:00.000Z"
 end-date: "2018-12-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win NME’s best albums of 2018 on vinyl!"
 competition-description: "<p>Calling all the NME fans, we have great news for you:\
