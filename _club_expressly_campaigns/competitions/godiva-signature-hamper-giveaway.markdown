@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-09-10T13:00:00.000Z"
 end-date: "2018-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Godiva’s Gold wrapped Ballotin"
 competition-description: "<p>Godiva has put together a special selection of chocolate\
