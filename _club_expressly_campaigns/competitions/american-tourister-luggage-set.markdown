@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2018-10-10T13:00:00.000Z"
 end-date: "2018-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win an American Tourister Luggage Set!"
 competition-description: "<p>With a presence in more than 90 countries worldwide…\
