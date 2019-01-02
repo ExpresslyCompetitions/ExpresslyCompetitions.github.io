@@ -5,7 +5,7 @@ category: "Technology"
 date: "2018-11-27T09:00:00.000Z"
 end-date: "2018-12-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Sony Bluetooth Wireless Headphones!"
 competition-description: "<p>Dance like nobody’s watching with the Wireless Bluetooth\
