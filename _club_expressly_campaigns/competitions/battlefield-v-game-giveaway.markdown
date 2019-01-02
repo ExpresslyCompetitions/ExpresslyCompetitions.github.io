@@ -23,7 +23,7 @@ banner-img: "https://assets.expresslyapp.com/asset-4dd6ff75-e5f9-401d-89d7-01785
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-b93f66cb-73d0-40c6-9b2c-3abb5feedc00.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-547029a7-9fcf-4395-8912-b14992e7db20.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-fbb8e0f0-f138-4b5e-b059-879ed410c388.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-932539f2-7ba2-4527-8090-7a6a8e0d126c.jpg"
 section1-content: "<p>Enter mankind’s greatest conflict with Battlefield™ V as the\
   \ series goes back to its roots in a never-before-seen portrayal of World War 2.\
