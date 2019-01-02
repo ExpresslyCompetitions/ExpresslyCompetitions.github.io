@@ -5,7 +5,7 @@ category: "Music"
 date: "2018-11-29T09:00:00.000Z"
 end-date: "2018-12-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Metallica ''…And Justice For All'' Deluxe 3CD Expanded Edition and official\
   \ T-shirt!"
