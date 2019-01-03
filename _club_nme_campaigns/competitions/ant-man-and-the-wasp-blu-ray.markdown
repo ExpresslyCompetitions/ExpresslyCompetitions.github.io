@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-f026e7b4-2419-4a9a-93d7-31a51
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-20ee01ed-691b-4ef6-8299-a8b652e5c055.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-396d434c-0c94-4971-b0ab-5379d3655ae5.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-5c373da0-d21c-433d-8afd-a5f50eddd14c.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-db8d2940-2fa2-45c4-95db-98776397e31b.jpg"
 section1-content: "<p>Despite a history of crime, Scott turned his life around after\
   \ leaving prison and became the hero known as Ant-Man even if he had to steal to\
