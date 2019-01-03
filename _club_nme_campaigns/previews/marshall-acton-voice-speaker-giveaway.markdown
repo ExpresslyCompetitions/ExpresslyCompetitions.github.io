@@ -25,7 +25,7 @@ banner-img: "https://assets.expresslyapp.com/asset-1b9b4232-37bd-4501-83fb-59d19
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-2c5f13a7-5cd2-46be-a267-2a2eae09b213.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-151aeffd-e85b-4610-af8e-d901a4df59bc.png"
+bg-image-hero: "https://assets.expresslyapp.com/asset-7173b421-665b-48c6-ba36-41345478c297.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-2bf531d9-c7a8-49e0-838b-6d6ee4886854.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-c9befb9e-05e1-40d4-a418-99730b9c971c.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-f2b29370-ebe3-4365-a54f-f7a4efef58a6.jpg"
