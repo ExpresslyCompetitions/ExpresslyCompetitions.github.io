@@ -13,7 +13,7 @@ competition-description: "<p>Want to have the fast, fun trivia game anyone can w
   \ everyone could be yours!</p>\r\n<p>Quiz Quoz is the new and original quiz game\
   \ for both beginners and brainiacs! Packed into a retro portable cube, this unique\
   \ game contains over 1000 trivia questions from a host of topics, from film to football\
-  \ to fashion.</p>\r\n<p>Want to have a fun and great night in with friends? Click\
+  \ to fashion.</p>\r\n<p>Want to have a fun and a great night in with friends? Click\
   \ below for a chance tow win!</p>"
 hero-header: "Win Quiz Quoz: The Trivia Board Game for Everyone!"
 terms-confirmation: "N/A"
