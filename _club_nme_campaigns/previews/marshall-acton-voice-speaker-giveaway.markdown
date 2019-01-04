@@ -29,7 +29,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-7173b421-665b-48c6-ba36-41
 bg-image-first: "https://assets.expresslyapp.com/asset-2bf531d9-c7a8-49e0-838b-6d6ee4886854.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-c9befb9e-05e1-40d4-a418-99730b9c971c.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-f2b29370-ebe3-4365-a54f-f7a4efef58a6.jpg"
-section1-content: "Launching this autumn is Marshall Voice with Amazon Alexa, followed\
+section1-content: "Launched this autumn is Marshall Voice with Amazon Alexa, followed\
   \ by the Google Assistant later this year. This is just the beginning, with Marshall\
   \ planning to roll out even more Marshall Voice speakers with other services in\
   \ the future."
