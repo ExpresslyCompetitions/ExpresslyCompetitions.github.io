@@ -3,7 +3,7 @@ campaign-uuid: "c-d2af1f9f-74ae-4f72-a433-5d5ad66aa73b"
 type: "Offer"
 category: "Tickets"
 date: "2018-10-15T13:00:00.000Z"
-end-date: "2018-10-31T23:59:00.000Z"
+end-date: "2019-03-31T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: false
