@@ -7,7 +7,7 @@ end-date: "2019-02-08T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win Marshall Acton II Voice Speaker!"
+title: "Win The Marshall Acton II Voice Speaker!"
 competition-description: "<p>Want to win the new Acton II Voice smart speaker from\
   \ Marshall? Beat those post-Christmas blues with the new Acton II Voice speaker\
   \ from iconic music brand, Marshall.</p>\r\n<p>Best known for their classic amps,\
@@ -19,7 +19,7 @@ competition-description: "<p>Want to win the new Acton II Voice smart speaker fr
   \ reflex cabinet system and custom-tuned drivers engineered to provide a balanced\
   \ and dynamic sound.</p>\r\n<p>To be in with a chance of winning an Acton II Voice\
   \ Speaker, click below!</p>"
-hero-header: "Win Marshall Acton II Voice Speaker!"
+hero-header: "Win The Marshall Acton II Voice Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1b9b4232-37bd-4501-83fb-59d193925518.jpg"
 logo-left-href: "aaa.nme.com"
@@ -43,11 +43,11 @@ section2-content: "Just like a roadie, Alexa is there to help while you’re bus
 section3-content: "<p>We are giving away an amazing Acton II Voice Speaker from the\
   \ iconic music brand, Marshall! Think no more and enter the form below for a chance\
   \ to win this amazing prize NOW!</p>\r\n<p>Good luck!</p>"
-entry-title: "Win Marshall Acton II Voice Speaker!"
+entry-title: "Win The Marshall Acton II Voice Speaker!"
 entry-content: "Enter the draw to win the Marshall Acton II Voice Speaker\r\nby completing\
   \ the form below before 23:59 on 8th of February 2019."
 has-winner: false
-prize-description: "Marshall Acton II Voice Speaker."
+prize-description: "The Marshall Acton II Voice Speaker."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
