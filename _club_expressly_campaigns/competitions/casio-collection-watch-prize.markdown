@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win an amazing Unisex Casio Collection watch!"
 competition-description: "<p>After it’s amazing success, we have what you deserve\
-  \ and here it is again: we caregiving away an incredible Unisex Casio watch to one\
+  \ and here it is again: we are giving away an incredible Unisex Casio watch to one\
   \ of our lucky members!</p>\r\n<p>With over one million watches purchased every\
   \ year, Casio is one of the UK’s top five watch brands and we have managed to get\
   \ our hands on one of them for YOU!</p>\r\n<p>Ready to stand out with your new watch?\
