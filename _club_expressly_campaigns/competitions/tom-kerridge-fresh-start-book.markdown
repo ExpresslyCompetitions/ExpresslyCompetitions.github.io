@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win Tom Kerridge's Fresh Start book!"
 competition-description: "<p>New year, new you! We have the book that will help you\
-  \ to reach one of yours 2019 goals, eat healthier: Tom Kerridge’s Fresh start book!\
+  \ to reach one of your 2019 goals, eat healthier: Tom Kerridge’s Fresh start book!\
   \ Fresh Start is not a diet book, but it is about taking control. If you cook from\
   \ scratch, you know exactly what is going into your food and can take responsibility\
   \ for everything that you and your family eat. And with Tom's guidance, you know\
