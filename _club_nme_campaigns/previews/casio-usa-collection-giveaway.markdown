@@ -3,7 +3,7 @@ campaign-uuid: "c-9ee93edb-8c76-4618-bd10-e2120b3322fb"
 type: "Preview"
 category: "Gifts"
 date: "2019-01-09T09:00:00.000Z"
-end-date: "2019-01-09T04:59:00.000Z"
+end-date: "2019-02-09T04:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
