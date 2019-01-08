@@ -13,7 +13,7 @@ competition-description: "<p>With over one million watches purchased every year,
   \ you go: The Casio A158WEA-9CF Unisex collection watch!</p>\r\n<p>Sure you won't\
   \ want to miss it... click below for a chance to win!</p>"
 hero-header: "Win a Casio Collection Unisex Watch!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/casio-usa-collection-giveaway"
 banner-img: "https://assets.expresslyapp.com/asset-19c2a2ba-5866-4e5c-a978-9455e197af6b.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-51471286-5510-4d1a-b208-21b8ce34d4f0.jpg"
