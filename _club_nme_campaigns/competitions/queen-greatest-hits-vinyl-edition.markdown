@@ -12,7 +12,7 @@ competition-description: "<p>We have in our hands one of the best compilations f
   \ one of the greatest bands of all time: ‘Greatest Hits’ by Queen. ‘Greatest Hits’\
   \ is a compilation album by Queen, originally released in the UK on 26 October 1981.\_\
   The album consisted of Queen's best-selling singles since their first chart appearance\
-  \ in 1974 with \"Seven Seas of Rhye\", up to their 1980 hit “Flash\"</p>\r\n<p>Want\
+  \ in 1974 with \"Seven Seas of Rhye\", up to their 1980 hit “Flash\".</p>\r\n<p>Want\
   \ it? Click below for a chance to win.</p>"
 hero-header: "Win Queen Greatest Hits vinyl edition!"
 terms-confirmation: "N/A"
