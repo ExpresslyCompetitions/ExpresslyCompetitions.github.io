@@ -13,8 +13,8 @@ competition-description: "<p>Calling all Mark Wahlberg and John Malkovich fans! 
   \ & DVD on January 28,\_MILE 22 stars Mark Wahlberg as James Silva,\_an elite CIA\
   \ operative who is aided by a top-secret tactical command unit as they are tasked\
   \ with smuggling a mysterious police officer carrying highly classified information\
-  \ out of South East Asia…</p>\r\n<p>Want to know what’s next? Click below for a\
-  \ chance to win!</p>"
+  \ out of South East Asia…</p>\r\n<p>...want to know what’s next? Click below for\
+  \ a chance to win!</p>"
 hero-header: "Win MILE 22 on Blu-ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7879935f-b34d-4d9c-8ea7-93d8f24d0b5b.jpg"
