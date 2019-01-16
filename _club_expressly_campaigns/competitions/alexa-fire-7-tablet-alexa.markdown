@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-f7e130f0-933b-454e-b8cf-85a27b25055c"
-type: "Preview"
+type: "Competition"
 category: "Technology"
 date: "2019-01-16T09:00:00.000Z"
 end-date: "2019-02-16T23:59:00.000Z"
