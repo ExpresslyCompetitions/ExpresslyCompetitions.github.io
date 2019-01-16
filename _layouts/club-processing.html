@@ -43,3 +43,6 @@ title: Processing your entry
         setTimeout('Redirect()', 5000);
     </script>
 </main>
+{% if page.ad-processing-oop %}
+    {% include {{page.ad-processing-oop}} %}
+{% endif %}
