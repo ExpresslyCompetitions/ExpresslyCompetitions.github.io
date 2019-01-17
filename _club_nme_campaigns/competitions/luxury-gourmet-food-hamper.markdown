@@ -29,7 +29,10 @@ section1-content: "</p>Chocolate Chip Cookies, Sweet and Salty Popcorn, Salted C
 entry-title: "Win a Luxury Gourmet Food Hamper!"
 entry-content: "Enter the draw to win Luxury Gourmet Food Hamper by completing the\
   \ form below before 23:59 on 15th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kelly G. who won a delicious Luxury Gourmet Food\
+  \ Hamper!"
+winner-banner: "https://assets.expresslyapp.com/asset-04001827-0ece-45c3-9a7e-6e8384607e48.jpg"
 prize-description: "A Luxury Food Delights Hamper."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://club.expressly.io/competitions/luxury-gourmet-food-hamper"
