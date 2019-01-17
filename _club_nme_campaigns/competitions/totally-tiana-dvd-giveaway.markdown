@@ -36,7 +36,9 @@ section2-content: "<p>So, #TTSquad, sit back and get ready for Totally Tiana: My
 entry-title: "Win Totally Tiana on DVD!"
 entry-content: "Enter the draw to win Totally Tiana on DVD by completing the form\
   \ below before 23:59 on 18th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Martin H. who won Totally Tiana on DVD!"
+winner-banner: "https://assets.expresslyapp.com/asset-44b69a83-e37c-4fdd-a452-63e3f6bfca0c.jpg"
 prize-description: "Totally Tiana on DVD"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
