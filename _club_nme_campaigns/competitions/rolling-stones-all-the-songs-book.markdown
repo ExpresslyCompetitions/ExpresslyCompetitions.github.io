@@ -31,7 +31,10 @@ entry-title: "Win The Rolling Stones All The Songs: The Story Behind Every Track
 entry-content: "Enter the draw to win The Rolling Stones All The Songs: The Story\
   \ Behind Every Track by completing the form below before 23:59 on 9th of November\
   \ 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Linda P. who won an amazing book: The Rolling Stones\
+  \ All The Songs: The Story Behind Every Track!"
+winner-banner: "https://assets.expresslyapp.com/asset-f45b1de7-a001-4f2f-afb6-ad6127cf8327.jpg"
 prize-description: "The Rolling Stones All The Songs: The Story Behind Every Track."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://club.expressly.io/competitions/rolling-stones-all-the-songs-book"
