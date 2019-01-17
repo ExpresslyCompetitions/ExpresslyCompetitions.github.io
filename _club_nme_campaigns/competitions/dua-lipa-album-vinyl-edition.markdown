@@ -29,7 +29,10 @@ section1-content: "<p>Can anything stop Dua Lipa? The London-born singer has sol
 entry-title: "Win Dua Lipa debut album vinyl edition!"
 entry-content: "Enter the draw to win Dua Lipa debut album vinyl edition by completing\
   \ the form below before 23:59 on 3rd of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Holly K. who won the amazing Dua Lipa debut album\
+  \ on vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-a3c21a8d-ab72-4c85-97b0-091a1078d24f.jpg"
 prize-description: "Dua Lipa debut album vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
