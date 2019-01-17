@@ -36,7 +36,9 @@ section1-content: "<p>Hugh Jackman leads an all-star cast in this bold and origi
 entry-title: "Win The Greatest Showman on Blu-ray!"
 entry-content: "Enter the draw to win The Greatest Showman on Blu-ray by completing\
   \ the form below before 23:59 on 1st of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to  Andrea A. who won The Greatest Showman on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-0584235d-e50c-4f88-9fdc-35d8642a68bf.jpg"
 prize-description: "The Greatest Showman on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/the-greatest-showman-blu-ray-giveaway"
