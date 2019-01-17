@@ -31,7 +31,9 @@ section1-content: "<p>“This record for me is the most important record I’ve 
 entry-title: "Win Miles Kane Coup De Grace vinyl edition!"
 entry-content: "Enter the draw to win Miles Kane Coup De Grace vinyl edition by completing\
   \ the form below before 23:59 on 22th of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Emma S. who won Miles Kane Coup De Grace vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-e986bead-6d7f-4362-9bb5-f3b87f4aabdd.jpg"
 prize-description: "Win Miles Kane Coup De Grace vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
