@@ -31,7 +31,10 @@ section1-content: "<p>Whether you’re looking for a coffee maker that’ll snug
 entry-title: "Win Bosch Tassimo Vivy 2 coffee machine!"
 entry-content: "Enter the draw to win the Bosch Tassimo Vivy 2 coffee machine by completing\
   \ the form below before 23:59 on 29th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Janet T. who won the amazing Bosch Tassimo coffee\
+  \ machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-0acbcebe-cbf9-482b-b958-8a53a4d83831.jpg"
 prize-description: "Bosch Tassimo Vivy 2 coffee machine"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/bosch-tassimo-vivy-2-giveaway"
