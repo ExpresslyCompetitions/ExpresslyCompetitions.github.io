@@ -28,7 +28,10 @@ section1-content: "<p>The Nespresso capsule system delivers exceptional taste an
 entry-title: "Win the Nespresso Inissia Coffee Machine."
 entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nby\
   \ completing the form below before 23:59 on 24th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sacha S. who won the incredible Nespresso Inissia\
+  \ Coffee Machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-8bb73e2c-1e32-4f53-b632-e728597815d4.jpg"
 prize-description: "Nespresso Inissia Coffee Machine."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/nespresso-inissia-coffee-machine"
