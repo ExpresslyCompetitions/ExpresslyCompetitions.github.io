@@ -40,7 +40,9 @@ section2-content: "<p>The Blu-ray™ and DVD come with extensive bonus features 
 entry-title: "Win Adrift on Blu-ray™ & DVD!"
 entry-content: "Enter the draw to win Adrift on Blu-ray™ & DVD by completing the form\
   \ below before 23:59 on 5th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Harvey, Ben and Julie who won Adrift on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-76dd9957-89bb-45f5-8b23-3918b04e2247.jpg"
 prize-description: "Adrift on Blu-ray™ & DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
