@@ -31,7 +31,10 @@ section1-content: "</p>Sophie (Amanda Seyfried) is now pregnant, and like her mo
 entry-title: "Win Mamma Mia! Here We Go Again on Blu-ray!"
 entry-content: "Enter the draw to win Mamma Mia! Here We Go Again on Blu-ray by completing\
   \ the form below before 23:59 on 16th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Richard B. who won Mamma Mia! Here We Go Again on\
+  \ Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-1d880454-1fec-475a-95e9-18b900c0ee14.jpg"
 prize-description: "Mamma Mia! Here We Go Again on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/mamma-mia-blu-ray"
