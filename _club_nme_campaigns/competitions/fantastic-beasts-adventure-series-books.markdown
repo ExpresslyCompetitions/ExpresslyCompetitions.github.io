@@ -37,7 +37,10 @@ section1-content: "<p> J.K. Rowling invites you to explore a new era of the Wiza
 entry-title: "Win J.K. Rowling's Fantastic Beasts adventure series books!"
 entry-content: "Enter the draw to win  J.K. Rowling's Fantastic Beasts adventure series\
   \ books before 23:59 on 28th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lynne D. who won J.K. Rowling's Fantastic Beasts\
+  \ adventure series books!"
+winner-banner: "https://assets.expresslyapp.com/asset-09a1b654-b702-48f0-8de4-0ff9dc683cd4.jpg"
 prize-description: "J.K. Rowling's Fantastic Beasts adventure series books: The Fantastic\
   \ Beasts and Where To Find Them & The Crimes of Grindelwal."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
