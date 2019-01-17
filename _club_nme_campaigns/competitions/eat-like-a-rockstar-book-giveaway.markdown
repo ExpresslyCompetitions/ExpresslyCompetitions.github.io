@@ -38,7 +38,9 @@ entry-title: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' R
 entry-content: "Enter the draw to win Eat Like a Rock Star: More Than 100 Recipes\
   \ from Rock ‘n' Roll's Greatest book! by completing the form below before 23:59\
   \ on 12th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Linda M. who won Eat Like a Rock Star book."
+winner-banner: "https://assets.expresslyapp.com/asset-29332719-a80a-4a78-8c80-883111f9c728.jpg"
 prize-description: "Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
   \ Greatest book."
 special-conditions: "Multiple entries are allowed up to one every day."
