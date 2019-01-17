@@ -32,7 +32,9 @@ section1-content: "</p>Active Touch Headline, Dynamic Tactics, Timed Finishing, 
 entry-title: "Win the brand new Fifa 19!"
 entry-content: "Enter the draw to win the brand new Fifa 19 by completing the form\
   \ below before 23:59 on 1st of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to John R. who won the Fifa 19!"
+winner-banner: "https://assets.expresslyapp.com/asset-78a97bb8-b961-4ba9-af7d-a57ad65e4057.jpg"
 prize-description: "The brand new Fifa 19"
 special-conditions: "This competition is also available on: https://https://club.expressly.io/competitions/fifa-19-giveaway"
 country-restrictions:
