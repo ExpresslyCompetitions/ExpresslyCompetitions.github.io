@@ -32,7 +32,9 @@ section1-content: "<p>Kanye West has just released his most emotionally revealin
 entry-title: "Win Kanye West ‘ye’ Vinyl edition."
 entry-content: "Enter the draw to win Kanye West ‘ye’ Vinyl edition by completing\
   \ the form below before 23:59 on 12th of August 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Laura J. who won Kanye West ‘ye’ Vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-83da012a-5dfd-4d7a-967b-1417d0cd2ef2.jpg"
 prize-description: "Kanye West ‘ye’ Vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
