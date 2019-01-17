@@ -40,7 +40,10 @@ section3-content: "<p>The Golden Globe winner for Best TV Drama Series, “The C
 entry-title: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 entry-content: "Enter the draw to win The Crown Season 1 and 2 Box Set\r\nby completing\
   \ the form below before 23:59 on 13th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Francesca J. who won The Crown Season 1 and 2 Boxset\
+  \ in time for Christmas!"
+winner-banner: "https://assets.expresslyapp.com/asset-dc06cf44-e109-48f3-a8d9-37cd65759c6c.jpg"
 prize-description: "The Crown Season 1 and 2 Boxset."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
