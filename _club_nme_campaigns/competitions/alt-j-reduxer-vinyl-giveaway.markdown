@@ -30,7 +30,9 @@ section1-content: "</p>Along the amazing band, putting their own indelible vocal
 entry-title: "Win alt-J REDUXER vinyl edition!"
 entry-content: "Enter the draw to win alt-J REDUXER vinyl edition by completing the\
   \ form below before 23:59 on 8th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gaelle M. who won alt-J REDUXER vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-1743ae06-2bc6-4b1c-953b-ed120859afba.jpg"
 prize-description: "alt-J REDUXER vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://https://club.expressly.io/competitions/alt-j-reduxer-vinyl-giveaway"
