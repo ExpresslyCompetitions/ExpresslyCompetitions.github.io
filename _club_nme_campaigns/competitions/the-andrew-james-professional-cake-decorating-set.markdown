@@ -33,9 +33,9 @@ entry-title: "Win Andrew James Cake Decorating Set!"
 entry-content: "Enter the draw to win the Andrew James Professional Cake Decorating\
   \ Set by completing the form below before 23:59 on 4th of November 2018."
 has-winner: true
-winner-title: "CONGRATULATIONS to Sacha S. who won the incredible Nespresso Inissia\
-  \ Coffee Machine!"
-winner-banner: "https://assets.expresslyapp.com/asset-b8bb4af0-0383-4091-88a7-73f6c23a31fb.jpg"
+winner-title: "CONGRATULATIONS to Catherine B. who won the  Andrew James Cake Decorating\
+  \ Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-f0078885-df58-435e-ad24-1414f22da1dc.jpg"
 prize-description: "Andrew James Cake Decorating Set."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://club.expressly.io/competitions/the-andrew-james-professional-cake-decorating-set"
