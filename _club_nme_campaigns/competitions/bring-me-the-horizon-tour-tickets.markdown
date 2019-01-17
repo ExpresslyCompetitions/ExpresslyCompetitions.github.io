@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2018-12-13T10:00:00.000Z"
 end-date: "2019-01-14T04:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to Bring Me The Horizon North American ‘First Love’\
   \ Tour!"
