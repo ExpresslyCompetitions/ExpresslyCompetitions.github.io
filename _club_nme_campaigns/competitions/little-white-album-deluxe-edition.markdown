@@ -37,7 +37,10 @@ section2-content: "<p>This Beatles Deluxe 3CD set is presented in an embossed di
 entry-title: "Win The Beatles White Album Deluxe Edition!"
 entry-content: "Enter the draw to win  The Beatles White Album Deluxe Edition before\
   \ 23:59 on 30th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Judith M. who won The Beatles White Album Deluxe\
+  \ Edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-77ce4475-5a7b-4725-9376-3574edc074b0.jpg"
 prize-description: "The Beatles White Album Deluxe Edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/white-album-deluxe-edition"
