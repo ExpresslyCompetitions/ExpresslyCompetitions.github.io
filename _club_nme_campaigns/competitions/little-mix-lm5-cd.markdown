@@ -31,7 +31,9 @@ section1-content: "<p>The X Factor winning girl band have done it again and they
 entry-title: "Win Little Mix LM5 CD!"
 entry-content: "Enter the draw to win Little Mix LM5 CD by completing the form below\
   \ before 23:59 on 18th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chloe B. who won Little Mix album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e1f3bbf5-9f3c-4791-a3ab-7be798953813.jpg"
 prize-description: "Little Mix LM5 CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/little-mix-lm5-cd"
