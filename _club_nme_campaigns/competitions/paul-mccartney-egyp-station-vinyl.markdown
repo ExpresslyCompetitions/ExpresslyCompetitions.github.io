@@ -31,7 +31,10 @@ section1-content: "<p>Egypt Station is a record that’s going to delight Maccas
 entry-title: "Win Paul Mccartney Egypt Station vinyl edition!"
 entry-content: "Enter the draw to win Paul Mccartney Egypt Station vinyl edition by\
   \ completing the form below before 23:59 on 13th of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kate L. who won Paul Mccartney Egypt Station vinyl\
+  \ edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-603fb62f-216f-4875-9bb0-069eae9f6d95.jpg"
 prize-description: "Paul Mccartney Egypt Station vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
