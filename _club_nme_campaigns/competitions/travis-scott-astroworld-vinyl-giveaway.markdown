@@ -30,7 +30,9 @@ section1-content: "<p>On Travis Scott Astroworld  he reunites with previously fe
 entry-title: "Win Travis Scott Astroworld vinyl edition!"
 entry-content: "Enter the draw to win Travis Scott Astroworld Vinyl edition\r\nby\
   \ completing the form below before 23:59 on 16th of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dawn A. who won Travis Scott Astroworld vinyl edition"
+winner-banner: "https://assets.expresslyapp.com/asset-8a5f8918-615d-4467-8af0-c901f7d20f2e.jpg"
 prize-description: "Travis Scott Astroworld vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
