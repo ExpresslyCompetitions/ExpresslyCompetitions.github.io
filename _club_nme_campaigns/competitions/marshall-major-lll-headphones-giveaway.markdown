@@ -55,7 +55,10 @@ section3-content: "<p>Iconic Sound, 30+ hours of wireless playtime, A Modern cla
 entry-title: "Win Marshall Major III Headphones!"
 entry-content: "Enter the draw to win Marshall Major III Headphones by completing\
   \ the form below before 23:59 on 12th of January 2019."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen B, Peter W & Gill C who won an amazing Marshall\
+  \ Major III Headphones!"
+winner-banner: "https://assets.expresslyapp.com/asset-faea0cfe-719b-4eca-b659-a291dae889b5.jpg"
 prize-description: "One of 3 Marshall Major III Headphones."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
