@@ -32,7 +32,10 @@ section1-content: "<p>This edition contains 600 questions based on all your favo
 entry-title: "Win Friends Trivial Pursuit Quiz Game!"
 entry-content: "Enter the draw to win Friends Trivial Pursuit Quiz Game by completing\
   \ the form below before 23:59 on 19th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kay H.who won the funniest game now: Friends Trivial\
+  \ Pursuit!"
+winner-banner: "https://assets.expresslyapp.com/asset-ba8fae71-0152-4d0e-be2c-5dfa9deb67a2.jpg"
 prize-description: "Friends Trivial Pursuit Quiz Game."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/friends-trivial-pursuit-quiz-game"
