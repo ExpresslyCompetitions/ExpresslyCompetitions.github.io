@@ -43,7 +43,10 @@ entry-title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Pr
 entry-content: "Enter the draw to ‘Win The Kinks classic album 'The Kinks Are The\
   \ Village Green Preservation Society’ on vinyl and accompanying book by completing\
   \ the form below before 23:59 on 14th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Veryan W. who won  The Kinks classic album 'The\
+  \ Kinks Are The Village Green Preservation Society’ on vinyl!"
+winner-banner: "https://assets.expresslyapp.com/asset-411b4cde-1629-4405-88e0-0329d47f3401.jpg"
 prize-description: "The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book."
 special-conditions: "Multiple entries are allowed up to one every day."
