@@ -35,7 +35,10 @@ section1-content: "<p>If You Wanna To Love Somebody, China Dolls, Wedding Day...
 entry-title: "Win Tom Odell 'Jubilee Road' vinyl!"
 entry-content: "Enter the draw to win Tom Odell 'Jubilee Road' vinyl by completing\
   \ the form below before 23:59 on 1st of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Laura R. who won Tom Odell's new album 'Jubilee\
+  \ Road' vinyl edition."
+winner-banner: "https://assets.expresslyapp.com/asset-5b10a44f-7900-476f-8b07-212c6afcd113.jpg"
 prize-description: "Tom Odell 'Jubilee Road' vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
