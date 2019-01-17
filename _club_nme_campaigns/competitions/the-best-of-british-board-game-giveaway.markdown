@@ -32,7 +32,9 @@ section1-content: "</p>A brilliant new game that light heartedly delves into our
 entry-title: "Win the Best of British board game!"
 entry-content: "Enter the draw to win the Best of British board game by completing\
   \ the form below before 23:59 on 5th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Melanie B. who won the Best of British board game!"
+winner-banner: "https://assets.expresslyapp.com/asset-ca208f6c-d249-44bf-a7f0-c4c502623976.jpg"
 prize-description: "The Best of British board game!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://https://club.expressly.io/competitions/the-best-of-british-board-game-giveaway"
