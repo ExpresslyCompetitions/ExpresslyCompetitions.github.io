@@ -30,7 +30,10 @@ section1-content: "<p>No more wondering whether certain dishes go together, Ella
 entry-title: "Win Deliciously Ella With Friends book"
 entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
   \ the form below before 23:59 on 27th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Richard B. who won one of the best books in the\
+  \ market:  Deliciously Ella With Friends book!"
+winner-banner: "https://assets.expresslyapp.com/asset-67a46e7f-a25d-4448-9fa3-284e910e984d.jpg"
 prize-description: "Deliciously Ella With Friends book"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/deliciously-ella-with-friends-book"
