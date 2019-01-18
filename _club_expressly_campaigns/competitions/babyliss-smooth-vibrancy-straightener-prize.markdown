@@ -31,7 +31,9 @@ section1-content: "<p>The Babylis Smooth Vibrancy Straightener features ceramic 
 entry-title: "Win the BaByliss Smooth Vibrancy Straightener"
 entry-content: "Enter the draw to win the Babyliss Smooth Vibrancy Straightener \r\
   \nby completing the form below before 23:59 on 24th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Andrea A. who won the BaByliss Smooth Vibrancy Straightener!"
+winner-banner: "https://assets.expresslyapp.com/asset-a3f1042b-41df-4f14-997c-2ca4842d934e.jpg"
 prize-description: "BaByliss Smooth Vibrancy Straightener"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
