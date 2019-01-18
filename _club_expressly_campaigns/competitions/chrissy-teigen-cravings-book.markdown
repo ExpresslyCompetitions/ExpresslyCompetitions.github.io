@@ -34,7 +34,9 @@ section1-content: "<p>Salty, spicy, saucy and fun as hell (not just the food, bu
 entry-title: "Win Chrissy Teigen 'Cravings' book!"
 entry-content: "Enter the draw to win Chrissy Teigen 'Cravings' book by completing\
   \ the form below before 23:59 on 12th of January 2019."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Darren S. who won Chrissy Teigen 'Cravings' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-98e029f4-839a-4b01-8196-e62f02a22953.jpg"
 prize-description: "Chrissy Teigen 'Cravings' book."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

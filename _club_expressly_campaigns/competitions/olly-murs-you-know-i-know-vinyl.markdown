@@ -33,7 +33,10 @@ section1-content: "<p>Following the release of his swaggering new single ‘Move
 entry-title: "Win Olly Murs 'You Know, I Know' album vinyl edition!"
 entry-content: "Enter the draw to win Olly Murs 'You Know, I Know' album vinyl edition\r\
   \nby completing the form below before 23:59 on 13th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Simara B. who won Olly Murs brand new album: 'You\
+  \ Know, I Know' on vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-ddcd7350-554b-49a1-80dd-d8d66c352fba.jpg"
 prize-description: "Olly Murs 'You Know, I Know' album vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

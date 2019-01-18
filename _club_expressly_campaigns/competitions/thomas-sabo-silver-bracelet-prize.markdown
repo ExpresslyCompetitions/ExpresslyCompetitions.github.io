@@ -37,7 +37,10 @@ section1-content: "<p>Since the company was founded in 1984, the identity and st
 entry-title: "Win Thomas Sabo Silver Bracelet for Charms Classic"
 entry-content: "Enter the draw to win Thomas Sabo Silver Bracelet for Charms Classic\r\
   \nby completing the form below before 23:59 on 17th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carole E. who won the beautiful Thomas Sabo Silver\
+  \ Bracelet for Charms Classic!"
+winner-banner: "https://assets.expresslyapp.com/asset-f95bad5e-27c2-4533-9b3f-6cb5f875cc86.jpg"
 prize-description: "Thomas Sabo Silver Bracelet for Charms Classic"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

@@ -33,7 +33,7 @@ section1-content: "</p>As the singer Joe Talbot summarizes: \"This album is an a
 entry-title: "Win 'Joy as an Act of Resistance', The Idles new album!"
 entry-content: "Enter the draw to win ‘Joy as an Act of Resistance’ The Idles new\
   \ album by completing the form below before 23:59 on 3rd of November 2018."
-has-winner: true
+has-winner: false
 winner-title: "CONGRATULATIONS to Carol G. who won The Idles new album: 'Joy as an\
   \ Act of Resistance'"
 winner-banner: "https://assets.expresslyapp.com/asset-1141794b-b047-4b90-9d38-e2057cb63a19.jpg"

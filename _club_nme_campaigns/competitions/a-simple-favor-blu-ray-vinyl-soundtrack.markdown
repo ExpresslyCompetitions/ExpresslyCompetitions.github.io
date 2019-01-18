@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-12-18T10:00:00.000Z"
 end-date: "2019-01-18T04:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win A Simple Favor on Blu-ray and the official vinyl soundtrack!"
 competition-description: "<p>In support of A Simple Favor arriving to 4K, Blu-ray\
