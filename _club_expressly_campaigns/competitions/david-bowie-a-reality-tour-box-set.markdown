@@ -20,7 +20,7 @@ banner-img: "https://assets.expresslyapp.com/asset-dfd42bb4-c523-4c49-b5c1-be125
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-785d4d0f-79c8-4c22-b4ff-821ae7f909e2.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-3630a48f-cb0a-438e-8f0f-294eb6f7ec9c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-37cb5604-5efc-432e-b82f-f0658d99ae37.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-540c6c43-f8a9-4fc6-9936-ee117c1697aa.jpg"
 section1-content: "<p>This amazing Box set features almost three hours of music on\
   \ six sides of audiophile vinyl, with songs from Bowie's classic and modern rock\
