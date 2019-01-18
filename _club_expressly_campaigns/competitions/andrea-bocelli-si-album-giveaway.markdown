@@ -33,7 +33,9 @@ section1-content: "<p>Sí is an album about heart and soul, positivity and famil
 entry-title: "Win Andrea Bocelli ‘Sí’ album!"
 entry-content: "Enter the draw to win Andrea Bocelli ‘Sí’ album by completing the\
   \ form below before 23:59 on 5th of January 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Adele S. who won Andrea Bocelli ‘Sí’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-b2862d62-2fbf-4839-9bbe-eade1c92a0ca.jpg"
 prize-description: "Andrea Bocelli ‘Sí’ album."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
