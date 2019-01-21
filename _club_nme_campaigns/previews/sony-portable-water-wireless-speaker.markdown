@@ -11,7 +11,7 @@ title: "Win the Sony Water Resistant & Wireless Bluetooth Speaker with Extra Bas
 competition-description: "<p>Giving you powerful sound from a small package and letting\
   \ you take the party everywhere with you is the amazing Sony Compact Portable Water\
   \ Resistant Wireless Bluetooth Speaker with Extra Bass! The best gift for you that\
-  \ enhance every beat and give your party that extra boost thanks to its EXTRA BASS</p>\r\
+  \ enhance every beat and give your party that extra boost thanks to its EXTRA BASS.</p>\r\
   \n<p>Extra bass, ultra-portable and fun! Want it to be yours? Click below for a\
   \ chance to win!</p>"
 hero-header: "Win the Sony Water Resistant & Wireless Bluetooth Speaker with Extra\
