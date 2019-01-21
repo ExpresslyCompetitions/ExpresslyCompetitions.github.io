@@ -3,7 +3,7 @@ campaign-uuid: "c-7f64f506-b2a3-4910-bfb8-c3d3887eb51f"
 type: "Preview"
 category: "Gifts"
 date: "2019-01-23T09:00:00.000Z"
-end-date: "2019-02-23T23:59:00.000Z"
+end-date: "2019-03-23T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -26,14 +26,14 @@ section1-content: "<p>This amazing perfume scent seizes the attention with a fla
   \ opening born of the natural rush that is mandarin--imbued with a modish transparency--shimmering\
   \ alongside an audacious fist of pink pepper. The middle notes are an alluring concoction\
   \ of heady lilac and geranium, laced with the succulent tactility of peach--all\
-  \ velvet femininity with a beguiling hint of provocation. The patchouli that is\
-  \ the hallmark of Gucci fragrances here conveys a message of strength, while the\
-  \ voluptuousness of amber suggests deep femininity. The effect is at once arresting\
+  \ velvet femininity with a beguiling hint of provocation.</p>\r\n<p>The patchouli\
+  \ that is the hallmark of Gucci fragrances here conveys a message of strength, while\
+  \ the voluptuousness of amber suggests deep femininity. The effect is at once arresting\
   \ and compellingly seductive. Frida Gianinni observes: ‘What we have created in\
   \ Gucci Guilty is something hypnotic’.</p>"
 entry-title: "Win Gucci Guilty Eau de Toilette for Women!"
 entry-content: "Enter the draw to win Gucci Guilty Eau de Toilette for Women by completing\
-  \ the form below before 23:59 on 23rd of February 2019."
+  \ the form below before 23:59 on 23rd of March 2019."
 has-winner: false
 prize-description: "Gucci Guilty Eau de Toilette for Women!"
 special-conditions: "Multiple entries are allowed up to one every day."
