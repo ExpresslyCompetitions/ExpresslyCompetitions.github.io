@@ -2,8 +2,8 @@
 campaign-uuid: "c-f741b52f-869d-4269-89c8-dac878747707"
 type: "Preview"
 category: "Entertainment"
-date: "2019-01-21T09:00:00.000Z"
-end-date: "2019-02-21T23:59:00.000Z"
+date: "2019-01-28T09:00:00.000Z"
+end-date: "2019-02-28T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -42,7 +42,7 @@ section3-content: "<p>Thanks to NME AAA 4 lucky winners will enjoy one of 4 copi
   \ by Reinaldo Marcus Green. Good luck!</p>"
 entry-title: "Win Monsters and Men on Blu-ray!"
 entry-content: "Enter the draw to win Monsters and Men on Blu-ray by completing the\
-  \ form below before 23:59 on 21st of February 2019."
+  \ form below before 23:59 on 28th of February 2019."
 has-winner: false
 prize-description: "Monsters and Men on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day."
