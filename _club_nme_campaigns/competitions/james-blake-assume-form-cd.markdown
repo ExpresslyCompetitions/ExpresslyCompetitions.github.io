@@ -14,7 +14,7 @@ competition-description: "<p>Mercury award winner James Blake releases his 4th s
   \ poll 2019). In the past 2-3 years James has been very busy collaborating with\
   \ Beyonce, Kendrick Lamar, Travis Scott, Jay Z, Frank Ocean, Oneohtrix Point Never,\
   \ Mount Kimbie and contributing to the Black Panther soundtrack.</p>\r\n<p>Want\
-  \ to be one of the first ones of hearing Blake’s new album? Click below for a chance\
+  \ to be one of the first ones hearing Blake’s new album? Click below for a chance\
   \ to win!</p>"
 hero-header: "Win James Blake ‘Assume Form’ CD!"
 terms-confirmation: "N/A"
