@@ -3,7 +3,7 @@ campaign-uuid: "c-f7e130f0-933b-454e-b8cf-85a27b25055c"
 type: "Competition"
 category: "Technology"
 date: "2019-01-16T09:00:00.000Z"
-end-date: "2019-02-16T23:59:00.000Z"
+end-date: "2019-03-16T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -40,7 +40,7 @@ section3-content: "<p>Think no more and enter the form below for a chance to win
   \ of entertainment.</p>\r\n<p>Smart value, serious entertainment!</p>"
 entry-title: "Win Fire 7 Tablet with Alexa!"
 entry-content: "Enter the draw to win Fire 7 Tablet with Alexa  by completing the\
-  \ form below before 23:59 on 16th of February 2019."
+  \ form below before 23:59 on 16th of March 2019."
 has-winner: false
 prize-description: "Fire 7 Tablet with Alexa."
 special-conditions: "Multiple entries are allowed up to one every day."
