@@ -9,8 +9,9 @@ is_promoted: true
 has_entry_page: true
 title: "Win Monsters and Men on Blu-ray!"
 competition-description: "<p>We have managed to get in our hands 4 Blu-ray’s of Reinaldo\
-  \ Marcus Green movie Monsters and Men to 4 lucky NME AAA members to win! Shot in\
-  \ Brooklyn, NY, Monsters And Men features John David Washington (BlacKkKlansman,\
+  \ Marcus Green movie Monsters and Men to 4 lucky NME AAA members to win! Altitude\
+  \ Film Distribution announced DVD and Blu-ray will be out Feb 4th!</p>\r\n<p>Shot\
+  \ in Brooklyn, NY, Monsters And Men features John David Washington (BlacKkKlansman,\
   \ Ballers), up-and-coming actor Kelvin Harrison Jr. (Mudbound, It Comes At Night,\
   \ The Wolf Hour) and star of Broadway’s Hamilton Anthony Ramos! An incredible cast,\
   \ for an incredible movie!</p>\r\n<p>Get your weekend sorted now. Click below for\
