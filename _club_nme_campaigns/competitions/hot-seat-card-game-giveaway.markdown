@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win Hot Seat Card Game!"
-competition-description: "<p>If you ever wondered what your friends think about you?\
-  \ Looking for a chance to learn your friends' secrets? Play a round of Hot Seat\
-  \ and hear the stories they were hoping would never be told, Hot Seat gives you\
-  \ the answer. We are giving away the funniest game in the market: Hot Seat Card\
+competition-description: "<p>Have you ever wondered what your friends think about\
+  \ you? Looking for a chance to learn your friends' secrets? Play a round of Hot\
+  \ Seat and hear the stories they were hoping would never be told, Hot Seat gives\
+  \ you the answer. We are giving away the funniest game in the market: Hot Seat Card\
   \ Game The Adult Party Game About Your Friends!</p>\r\n<p>If you want to find out\
   \ who your friends are… click below for a chance to win!</p>"
 hero-header: "Win Hot Seat Card Game!"
