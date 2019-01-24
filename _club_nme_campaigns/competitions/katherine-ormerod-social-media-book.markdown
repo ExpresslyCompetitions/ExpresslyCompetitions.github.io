@@ -21,9 +21,9 @@ banner-img: "https://assets.expresslyapp.com/asset-858dae5f-528a-4a8b-a7b7-c7413
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3b2fb4a4-d3bb-4b80-a7bd-b1799f5d46a3.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-cf7a3afc-8f18-42a6-9a16-5cf8b0622f84.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-e68d089f-95bc-473b-9832-318d258ee1bc.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-75f9cb5a-4b7d-4475-b1cd-6de36058855c.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-31199521-dcde-47aa-b914-40233b6ab79a.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-afaa4d90-42fd-43f1-95a3-5d7764d5aec8.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-499d32c6-ad40-42a2-9bcb-278344f22883.jpg"
 section1-content: "<p>Katherine Ormerod has worked as a journalist for over a decade,\
   \ starting her career as a fashion assistant at Sunday Times Style, moving to Grazia\
   \ to become Senior Fashion News & Features Editor then on to Glamour where she was\
