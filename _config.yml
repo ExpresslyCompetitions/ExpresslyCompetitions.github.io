@@ -146,7 +146,7 @@ clubs:
 #      ad-body: "ads/nme/body-ad-slot.html"
       ad-thank-you-1: "ads/nme/conversant-medium-rectangle.html"
       ad-thank-you-top-banner: "ads/nme/conversant-top-banner.html"
-#      ad-thank-you-oop: "ads/nme/thankyou-oop.html"
+      ad-thank-you-oop: "ads/nme/thankyou-oop.html"
 #      ad-processing-conv: "ads/nme/processing-page-conversant.html"
 #      ad-processing-mpu: "ads/nme/processing-page-mpu.html"
       ad-thankyou-mpu-topleft: "ads/nme/thankyou-mpu-topleft.html"
