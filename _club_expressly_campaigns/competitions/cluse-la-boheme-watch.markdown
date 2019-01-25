@@ -30,7 +30,7 @@ entry-title: "Win Cluse La Boheme watch!"
 entry-content: "Enter the draw to win Cluse La Boheme watch\r\nby completing the form\
   \ below before 23:59 on 25th of February 2019."
 has-winner: false
-prize-description: "Cluse La Boheme watch"
+prize-description: "Cluse La Boheme watch in black."
 country-restrictions:
 - "GB"
 ---
