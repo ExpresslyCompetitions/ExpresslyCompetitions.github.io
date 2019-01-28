@@ -29,7 +29,7 @@ section1-content: "<p>A variety of page layouts just waiting to be filled with y
   s discover how far you can go!</p>"
 entry-title: "Win the Limited Edition Petit Prince Moleskine Planner Diary 2019!"
 entry-content: "Enter the draw to win the Limited Edition Petit Prince Moleskine Planner\
-  \ Diary 2019\r\nby completing the form below before 23:59 on 25th of February 2019."
+  \ Diary 2019\r\nby completing the form below before 23:59 on 28th of February 2019."
 has-winner: false
 prize-description: "The Limited Edition Petit Prince Moleskine Planner Diary 2019."
 special-conditions: "Multiple entries are allowed up to one every day."
