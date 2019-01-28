@@ -16,7 +16,7 @@ competition-description: "<p>Their sixth album, amo is finally here! the long aw
   \ new album to one of our US members!</p>\r\n<p>Are you BTH biggest fan? Click below\
   \ for a chance to win!</p>"
 hero-header: "Win Bring Me The Horizon amo CD!"
-terms-confirmation: "N/A"
+terms-confirmation: "https://aaa.nme.com/etc/bring-me-the-horizon-amo.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a3143816-5eb6-436a-9cf8-09f052b5798d.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3b2fb4a4-d3bb-4b80-a7bd-b1799f5d46a3.jpg"
