@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-0b474084-4418-4d83-ba4a-31af4
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3b2fb4a4-d3bb-4b80-a7bd-b1799f5d46a3.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-cac5de50-b549-4110-85f3-ab0895f26c04.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-2707f2c9-fcfa-429b-85fa-df82a5552576.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-923f0f75-6bd0-4026-91bf-b320f60c4d31.jpg"
 section1-content: "<p>Tom Walker turns in a stunning vocal on catchy, wholesome ballad,\
   \ ‘Walk Alone’, emerging vocalists like Maleek Berry and RAYE come together on the\
