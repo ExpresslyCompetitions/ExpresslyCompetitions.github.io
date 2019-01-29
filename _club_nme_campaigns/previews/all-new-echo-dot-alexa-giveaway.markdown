@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win the All-new Echo Dot Smart speaker with Alexa!"
-competition-description: "<p>The most popular Echo is now even better With a new speaker\
+competition-description: "<p>The most popular Echo is now even better with a new speaker\
   \ and design, Echo Dot is a voice-controlled smart speaker with Alexa that's perfect\
   \ for any room. Just ask for music, news, information and more. You can also call\
   \ anyone with an Echo device, the Alexa App or Skype, and control compatible smart\
