@@ -3,7 +3,7 @@ campaign-uuid: "c-819904c0-0df6-4e52-96ef-1b7f1b9380df"
 type: "Preview"
 category: "Gifts"
 date: "2019-01-30T09:00:00.000Z"
-end-date: "2019-04-01T23:59:00.000Z"
+end-date: "2019-03-29T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -35,7 +35,7 @@ section1-content: "<p>Inspired by the House's signature fragrance, the legendary
   \ Chanel.</p>"
 entry-title: "Win Chanel: Collections and Creations book!"
 entry-content: "Enter the draw to win Chanel: Collections and Creations book\r\nby\
-  \ completing the form below before 23:59 on 1st of March 2019."
+  \ completing the form below before 23:59 on 29th of March 2019."
 has-winner: false
 prize-description: "Chanel: Collections and Creations book."
 special-conditions: "Multiple entries are allowed up to one every day."
