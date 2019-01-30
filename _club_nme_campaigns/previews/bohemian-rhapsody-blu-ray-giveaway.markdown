@@ -25,7 +25,8 @@ section1-content: "<p>An enthralling celebration of Queen, their music, and thei
   \ extraordinary lead singer Freddie Mercury, who defied stereotypes and convention\
   \ to become one of history’s most beloved entertainers. Following Queen’s meteoric\
   \ rise, their revolutionary sound and Freddie’s solo career, the film also chronicles\
-  \ the band’s reunion, and one of the greatest performances in rock history.</p>"
+  \ the band’s reunion, and one of the greatest performances in rock history.</p>\r\
+  \n<p>Enter below to enjoy one of a kind: Bohemian Rhapsody.</p>"
 entry-title: "Win Bohemian Rhapsody on Blu-ray!"
 entry-content: "Enter the draw to win Bohemian Rhapsody on Blu-ray by completing the\
   \ form below before 23:59 on 8th of March 2019."
