@@ -30,7 +30,7 @@ section1-content: "<p>One of the best-selling and most critically acclaimed albu
   \ think no more and enter the form below for a chance to win. Good luck!</p>"
 entry-title: "Win Pink Floyd The Dark Side Of The Moon Box Set!"
 entry-content: "Enter the draw to win Pink Floyd The Dark Side Of The Moon Box Set\
-  \ by completing the form below before 23:59 on 3rd of March 2019."
+  \ by completing the form below before 23:59 on 7th of March 2019."
 has-winner: false
 prize-description: "Pink Floyd The Dark Side Of The Moon Box Set."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
