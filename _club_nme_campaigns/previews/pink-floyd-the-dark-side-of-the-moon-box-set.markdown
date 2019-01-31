@@ -2,8 +2,8 @@
 campaign-uuid: "c-b3809add-5825-41f5-82b5-884eca716cde"
 type: "Preview"
 category: "Music"
-date: "2019-02-07T09:00:00.000Z"
-end-date: "2019-03-07T23:59:00.000Z"
+date: "2019-02-11T09:00:00.000Z"
+end-date: "2019-03-11T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -30,7 +30,7 @@ section1-content: "<p>One of the best-selling and most critically acclaimed albu
   \ think no more and enter the form below for a chance to win. Good luck!</p>"
 entry-title: "Win Pink Floyd The Dark Side Of The Moon Box Set!"
 entry-content: "Enter the draw to win Pink Floyd The Dark Side Of The Moon Box Set\
-  \ by completing the form below before 23:59 on 3rd of March 2019."
+  \ by completing the form below before 23:59 on 11th of March 2019."
 has-winner: false
 prize-description: "Pink Floyd The Dark Side Of The Moon Box Set."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
