@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-296ec031-1d82-4ac4-9a6c-46160
 logo-left-href: "MBCPR"
 logo-left-image: "https://assets.expresslyapp.com/asset-c93fdfde-fc24-4a44-b2c8-a532e5f0ba27.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-a45ad0ca-c774-4f9b-9f83-1f9c60d014cc.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-bfaff7b0-231f-411f-9da4-ed76d4878d82.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-bcf8e973-343e-414e-a186-3080f28ce2bd.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-a2f0fa88-8c63-493e-b990-5b0428737688.jpg"
 section1-content: "<p>‘I Trawl The Megahertz’ was conceived and recorded after Paddy\
