@@ -14,7 +14,7 @@ competition-description: "<p>One of the world's leading lifestyle brands, Calvin
   \ floral fragrance is Calvin Klein's tribute to enduring romance. A timeless and\
   \ luxurious composition of flowers, citrus and soft woods. The signature scent of\
   \ an all-out romantic, Eternity Set transitions beautifully from day to evening.</p>\r\
-  \n<p>Feel beautiful with Calvin Klein, you can.</p>"
+  \n<p>Feel beautiful, with Calvin Klein, you can.</p>"
 hero-header: "Win Calvin Klein Eternity Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-55054516-3c2a-406e-a932-a9be44f8deca.jpg"
