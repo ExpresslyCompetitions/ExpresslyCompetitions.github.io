@@ -9,11 +9,12 @@ is_promoted: false
 has_entry_page: true
 title: "Win Venom on Blu-ray!"
 competition-description: "<p>We have in our hands the evolution story of Marvel's\
-  \ most enigmatic, complex and badass character - Venom! Eddie Brock (Tom Hardy)\
-  \ is a broken man after he loses everything including his job and fiancée. Just\
-  \ when his life is at its lowest, he becomes host to an alien symbiote which results\
-  \ in extraordinary superpowers - transforming him into Venom.</p>\r\n<p>Want to\
-  \ know what’s next? Enter below for a chance to win!</p>"
+  \ most enigmatic, complex and badass character - Venom on Blu-ray and we want it\
+  \ to give it to you! Eddie Brock (Tom Hardy) is a broken man after he loses everything\
+  \ including his job and fiancée. Just when his life is at its lowest, he becomes\
+  \ host to an alien symbiote which results in extraordinary superpowers - transforming\
+  \ him into Venom.</p>\r\n<p>Want to know what’s next? Enter below for a chance to\
+  \ win!</p>"
 hero-header: "Win Venom on Blu-ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e8984817-53c9-4bea-b5a7-879776e65aa6.jpg"
