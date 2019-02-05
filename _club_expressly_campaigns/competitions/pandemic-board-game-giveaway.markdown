@@ -22,7 +22,7 @@ banner-img: "https://assets.expresslyapp.com/asset-9e071043-e909-4f0b-9338-e2020
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-bf61fbf2-c9e5-4ad6-9a2e-7285fd584778.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-fe92015e-170f-48ab-9308-7293be1fd6f1.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-69c7e8f2-7320-4917-9ae5-cc12e90d1480.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-f1d89120-39d6-4c96-a574-510444094e1a.jpg"
 section1-content: "<p>The game board depicts several major population centres on a\
   \ stylised map of the Earth. On each turn, a player can use up to four actions to\
