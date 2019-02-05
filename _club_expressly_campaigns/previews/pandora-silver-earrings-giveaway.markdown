@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Pandora Silver Earrings!"
 competition-description: "<p>We are giving away a beautiful pair of earrings from\
   \ Pandora, a distinctive brand with distinctive products that in just a few years\
-  \ has made the exceptional journey from a local Danish jeweler to a world-leading\
-  \ international jewelry company, with sales in more than 100 countries.</p>\r\n\
+  \ has made the exceptional journey from a local Danish jeweller to a world-leading\
+  \ international jewellery company, with sales in more than 100 countries.</p>\r\n\
   <p>Embrace yourself with Pandora. Click below for a chance to win.</p>"
 hero-header: "Win Pandora Silver Earrings!"
 terms-confirmation: "N/A"
