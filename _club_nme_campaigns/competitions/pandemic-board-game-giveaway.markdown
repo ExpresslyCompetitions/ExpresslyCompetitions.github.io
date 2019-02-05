@@ -22,8 +22,8 @@ banner-img: "https://assets.expresslyapp.com/asset-849bbd97-b28c-4c7b-99dd-a3569
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-6f7ed6a2-94f2-4bb8-8cfd-ce7ef73fb3df.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-de78e107-44dc-4f81-9252-1d5a70150f8d.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-8fef214c-ec08-4938-add2-6e09113783be.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-9292aa3f-c8c5-411e-8a24-9353c6e144a9.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-c34656e3-0bc8-4d62-ae53-d67b293e1460.jpg"
 section1-content: "<p>The game board depicts several major population centres on a\
   \ stylised map of the Earth. On each turn, a player can use up to four actions to\
   \ travel between cities, treat infected populaces, discover a cure, or build a research\
