@@ -19,9 +19,9 @@ competition-description: "<p>We have in our hands the best seller boarding game 
 hero-header: "Win Pandemic Board Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-849bbd97-b28c-4c7b-99dd-a3569c6e5e02.jpg"
-logo-left-href: "http://rudehealth.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-df998f4e-aeeb-4a33-b95e-bb2adf77cf8b.jpg"
-logo-left-title: "Rude Health"
+logo-left-href: "aaa.nme.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-6f7ed6a2-94f2-4bb8-8cfd-ce7ef73fb3df.jpg"
+logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-b427ba17-dad9-4836-90de-55566a26b153.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-8fef214c-ec08-4938-add2-6e09113783be.jpg"
 section1-content: "<p>The game board depicts several major population centres on a\
