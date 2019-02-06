@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-70213076-365a-47ca-8ef3-31d59f81eb2e"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2019-02-06T09:00:00.000Z"
 end-date: "2019-04-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Pandora Silver Earrings!"
 competition-description: "<p>We are giving away a beautiful pair of earrings from\
