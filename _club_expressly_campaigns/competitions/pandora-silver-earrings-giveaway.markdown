@@ -30,8 +30,8 @@ section1-content: "<p>Pandora operates and manages a vertically integrated busin
   \ Earrings for you. Enter the form below for a chance to win and get ready to stand\
   \ out anywhere you go.</p>"
 entry-title: "Win a pair of Pandora Silver Earrings!"
-entry-content: "Enter the draw to win Pandora Silver Earrings by completing the form\
-  \ below before 23:59 on 6th April 2019."
+entry-content: "Enter the draw to win a pair of Pandora Silver Earrings by completing\
+  \ the form below before 23:59 on 6th April 2019."
 has-winner: false
 prize-description: "A pair of Pandora Silver Earrings."
 special-conditions: "Multiple entries are allowed up to one every day"
