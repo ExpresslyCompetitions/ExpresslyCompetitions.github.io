@@ -33,6 +33,11 @@
         googletag.defineSlot('/273427535/xly_club_listpage_mobile_mpu', [300, 250], 'listpage_mobile_mpu').defineSizeMapping(listpage_mobile_mapping).addService(googletag.pubads());
         googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
         googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableLazyLoad({
+			fetchMarginPercent: 1000,
+			renderMarginPercent: 100,
+			mobileScaling: 2.0
+		});
         googletag.enableServices();
     });
 </script>
