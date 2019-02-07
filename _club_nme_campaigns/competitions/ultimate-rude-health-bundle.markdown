@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-6863872c-a259-4162-811f-bc8274d1175e"
-type: "Preview"
+type: "Competition"
 category: "Food"
 date: "2019-02-06T09:00:00.000Z"
 end-date: "2019-03-06T23:59:00.000Z"
@@ -10,12 +10,12 @@ has_entry_page: true
 title: "Win the Ultimate Rude Health bundle!"
 competition-description: "<p>At Rude Health, they make their food out of great things\
   \ without anything fake or artificial. They believe in living fast and dying old.\
-  \ If you live like that,  you’re in Rude Health club. After the greatest success,\
-  \ NME AAA and Rude Health have teamed up for the second time to give you the chance\
-  \ to win the ultimate selection of Rude Health crowd pleasers. A massive bundle\
-  \ including their delicious muesli, granola, drinks, bars… and many more delicious\
-  \ goodies for you to try!</p>\r\n<p>Sure you won’t want to miss this… click below\
-  \ for a chance to win!</p>"
+  \ If you live like that,  you’re in Rude Health club. Last year you loved it, now\
+  \ it's back, NME AAA and Rude Health have teamed up for the second time to give\
+  \ you the chance to win the ultimate selection of Rude Health crowd pleasers. A\
+  \ massive bundle including their delicious muesli, granola, drinks, bars… and many\
+  \ more delicious goodies for you to try!</p>\r\n<p>Sure you won’t want to miss this…\
+  \ click below for a chance to win!</p>"
 hero-header: "Win the Ultimate Rude Health bundle!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f89d1dc5-a1f4-45dc-bccf-713d49cbf77a.jpg"

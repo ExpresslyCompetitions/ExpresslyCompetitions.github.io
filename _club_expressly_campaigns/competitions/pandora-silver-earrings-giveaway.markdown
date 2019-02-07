@@ -1,19 +1,19 @@
 ---
 campaign-uuid: "c-70213076-365a-47ca-8ef3-31d59f81eb2e"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2019-02-06T09:00:00.000Z"
 end-date: "2019-04-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
-title: "Win Pandora Silver Earrings!"
+title: "Win a pair of Pandora Silver Earrings!"
 competition-description: "<p>We are giving away a beautiful pair of earrings from\
   \ Pandora, a distinctive brand with distinctive products that in just a few years\
   \ has made the exceptional journey from a local Danish jeweller to a world-leading\
   \ international jewellery company, with sales in more than 100 countries.</p>\r\n\
   <p>Embrace yourself with Pandora. Click below for a chance to win.</p>"
-hero-header: "Win Pandora Silver Earrings!"
+hero-header: "Win a pair of Pandora Silver Earrings!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-6cda8bff-6232-4d29-9d7b-d6c3134ffa9f.jpg"
 logo-left-href: "http://club.expressly.io"
@@ -29,11 +29,11 @@ section1-content: "<p>Pandora operates and manages a vertically integrated busin
   \ in their entire collection. We are giving away a pair of beautiful Pandora Silver\
   \ Earrings for you. Enter the form below for a chance to win and get ready to stand\
   \ out anywhere you go.</p>"
-entry-title: "Win Pandora Silver Earrings!"
-entry-content: "Enter the draw to win Pandora Silver Earrings by completing the form\
-  \ below before 23:59 on 6th April 2019."
+entry-title: "Win a pair of Pandora Silver Earrings!"
+entry-content: "Enter the draw to win a pair of Pandora Silver Earrings by completing\
+  \ the form below before 23:59 on 6th April 2019."
 has-winner: false
-prize-description: "Pandora Silver Earrings."
+prize-description: "A pair of Pandora Silver Earrings."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
