@@ -13,7 +13,7 @@ active: selected-competitions
 {% else %}
     {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
-<section class="hero" style="background-image: url({{image-url}})">
+<section class="hero" style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
 
     <div class="container">
 
@@ -45,18 +45,18 @@ active: selected-competitions
     </div>
 </section>
 
-<div class="container-fluid">
+<div class="container-fluid {% if page.type == 'Extra' %} show-if-signed-in d-none {% endif %}">
     <section class="our-work row row-he align-items-center">
         <div class="col-md-6 content p-4 text-justify">{{page.section1-content}}</div>
         {% include image_url_builder.html image=page.bg-image-first %}
-        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{image-url}})"></div>
+        <div class="col-md-6 px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="first-img"style="background-image: url({{image-url}})"></div>
     </section>
 
     {% if page.section2-content and page.bg-image-second %}
         <section class="quality row row-he align-items-center">
             <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
             {% include image_url_builder.html image=page.bg-image-second %}
-            <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{image-url}})"></div>
+            <div class="col-md-6 order-md-first px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="second-img" style="background-image: url({{image-url}})"></div>
         </section>
     {% endif %}
 
@@ -64,11 +64,27 @@ active: selected-competitions
         <section class="our-work row row-he align-items-center">
             <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
             {% include image_url_builder.html image=page.bg-image-third %}
-            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{image-url}})"></div>
+            <div class="col-md-6 px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="third-img" style="background-image: url({{image-url}})"></div>
+        </section>
+    {% endif %}
+
+    {% if page.bottom-content %}
+        <section class="our-work row row-he align-items-center">
+            <div class="col-12 content p-4 text-justify">{{page.bottom-content}}</div>
         </section>
     {% endif %}
 </div>
-
+{% if page.type == 'Extra' %}
+<div class="container-fluid hide-if-signed-in d-none">
+    <section class="row row-he align-items-center">
+        <div class="col-12 text-center" style="background: #eeeeee; padding-top: 3em; padding-bottom: 3em;">
+            <p>
+                To see this content, you have to be a registered user. Join now for FREE by completing the form below.
+            </p>
+        </div>
+    </section>
+</div>
+{% endif %}
 <hr class="my-5" />
 
 <div id="contact-anchor" class="anchor"></div>
@@ -207,3 +223,19 @@ active: selected-competitions
     prize-description=page.prize-description
     prize-restrictions=page.prize-restrictions
     special-conditions=page.special-conditions %}
+
+{% if page.type == 'Extra' %}
+<script type="text/javascript">
+    if(!signedIn || (signedIn === undefined)) {
+        if (typeof(Storage) !== "undefined" && localStorage.getItem("profile.{{page.merchant-uuid}}")) {
+            signedIn = !!localStorage.getItem("signedIn.{{page.merchant-uuid}}");
+        }
+    }
+    if(signedIn) {
+        document.getElementsByClassName('show-if-signed-in')[0].classList.remove('d-none');
+    } else {
+        document.getElementsByClassName('hide-if-signed-in')[0].classList.remove('d-none');
+    }
+</script>
+{% endif %}
+
