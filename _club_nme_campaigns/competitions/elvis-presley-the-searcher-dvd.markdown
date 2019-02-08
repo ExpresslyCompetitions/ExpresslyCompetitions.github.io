@@ -56,7 +56,10 @@ section3-content: "<p>Directed and produced by Thom Zimny, ELVIS PRESLEY: THE SE
 entry-title: "Win Elvis Presley The Searcher on DVD!"
 entry-content: "Enter the draw to win Elvis Presley The Searcher on DVD\r\nby completing\
   \ the form below before 23:59 on 17th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Mark, Patricia & Antony who won The Searcher on\
+  \ DVD!"
+winner-banner: "https://assets.expresslyapp.com/asset-97b8ce49-4392-4ce6-a08b-bb52113338ac.jpg"
 prize-description: "Elvis Presley The Searcher on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

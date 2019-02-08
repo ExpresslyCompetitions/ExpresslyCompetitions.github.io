@@ -30,7 +30,9 @@ section1-content: "</p>Neodymium dynamic drivers deliver precise sound, Swivel f
 entry-title: "Win the brand new Sony Headphones."
 entry-content: "Enter the draw to win the brand new Sony Headphones by completing\
   \ the form below before 23:59 on 21st of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gerri T. who won the brand new Sony Headphones!"
+winner-banner: "https://assets.expresslyapp.com/asset-d2e30798-ff7f-461d-b874-dab6045573c1.jpg"
 prize-description: "The brand new Sony Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/sony-headphones-giveaway"

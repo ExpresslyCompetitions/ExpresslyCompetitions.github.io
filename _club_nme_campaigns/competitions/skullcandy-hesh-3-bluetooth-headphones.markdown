@@ -37,7 +37,10 @@ section2-content: "<p>With up to 22 hours of battery life and Rapid Charge techn
 entry-title: "Win Skullcandy Hesh 3 Bluetooth Headphones!"
 entry-content: "Enter the draw to win Skullcandy Hesh 3 Bluetooth Headphones! by completing\
   \ the form below before 23:59 on 17th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Elliot L. who won the Skullcandy Hesh 3 Bluetooth\
+  \ Headphones!"
+winner-banner: "https://assets.expresslyapp.com/asset-35f29eb3-ed2f-4702-9023-b606ccf6ccd4.jpg"
 prize-description: "Skullcandy Hesh 3 Bluetooth Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/skullcandy-hesh-3-bluetooth-headphones"

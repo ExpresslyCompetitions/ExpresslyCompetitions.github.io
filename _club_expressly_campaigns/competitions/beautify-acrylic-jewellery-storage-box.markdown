@@ -34,7 +34,10 @@ section1-content: "<p>Made from clear acrylic plastic, this stylish multi-purpos
 entry-title: "Win the Beautify Acrylic Jewellery Storage Box!"
 entry-content: "Enter the draw to win the Beautify Acrylic Jewellery Storage Box by\
   \ completing the form below before 23:59 on 14th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lisa E. who won the Beautify Acrylic Jewellery Storage\
+  \ Box!"
+winner-banner: "https://assets.expresslyapp.com/asset-02ee9be6-a8bf-4e60-9d34-07a94999e66d.jpg"
 prize-description: "The Beautify Acrylic Jewellery Storage Box."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

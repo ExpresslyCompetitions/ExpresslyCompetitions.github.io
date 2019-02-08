@@ -34,7 +34,10 @@ section1-content: "<p>The Marvel Cinematic Universe expands into the cosmos when
 entry-title: "Win The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray!"
 entry-content: "Enter the draw to win The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray\
   \ by completing the form below before 23:59 on 26th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jacqueline B who won The Guardians Of The Galaxy\
+  \ Vols 1 & 2 on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-54c5b3b2-a559-4f09-ab54-bd4a1f90fb7a.jpg"
 prize-description: "The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/guardians-of-galaxy-vols-1-2"

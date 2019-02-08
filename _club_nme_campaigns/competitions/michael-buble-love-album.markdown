@@ -37,7 +37,10 @@ section1-content: "<p>This amazing album is co-produced by Bublé himsef. He bri
 entry-title: "Win Michael Bublé new album: LOVE!"
 entry-content: "Enter the draw to win Michael Bublé new album: LOVE before 23:59 on\
   \ 26th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tonja B. who won the brand new album from Michael\
+  \ Bublé!"
+winner-banner: "https://assets.expresslyapp.com/asset-9fd2c5cd-f430-4dc5-b175-9cdc700e63fd.jpg"
 prize-description: "Michael Bublé new album: LOVE"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/michael-buble-love-album"

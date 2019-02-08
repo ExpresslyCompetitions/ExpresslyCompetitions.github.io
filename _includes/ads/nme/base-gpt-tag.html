@@ -55,10 +55,12 @@
         googletag.defineSlot('/273427535/nmeaaa_listpage_mobile_mpu', [300, 250], 'listpage_mobile_mpu').defineSizeMapping(listpage_mobile_mapping).addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().setRequestNonPersonalizedAds(personalAds ? 0 : 1);
+		googletag.pubads().enableLazyLoad({
+			fetchMarginPercent: 1000,
+			renderMarginPercent: 100,
+			mobileScaling: 2.0
+		});
         googletag.enableServices();
     });
 </script>
 
-
-<!-- Admiral test -->
-<script type="text/javascript">!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://damdoor.com/v2/0/kuaeSEEpMKCYRmpm1NOtoZohDJSG8KxC1yeEykAhf7E3W_gFEQ09Q1AzJKDu-6S-cobEJa4EBmj",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,e,n,a){function o(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(e){}return!1}function r(){var a=o();if(a){var r=t[e].pubads();typeof r.setTargeting===n&&r.setTargeting("admiral-engaged","true")}}a=t[e]=t[e]||{},a.cmd=a.cmd||[],typeof a.pubads===n?r():typeof a.cmd.unshift===n?a.cmd.unshift(r):a.cmd.push(r)}(window,"googletag","function");;;;;</script>

@@ -33,7 +33,9 @@ section2-content: "<p>Take the story with YOU! Think no more and don’t miss th
 entry-title: "Win Amazon’s Kindle E-Reader!"
 entry-content: "Enter the draw to win Amazon’s Kindle E-Reader\r\nby completing the\
   \ form below before 23:59 on 17th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brian W. who won the Kindle E-Reader from Amazon!"
+winner-banner: "https://assets.expresslyapp.com/asset-05bc03c8-7e93-4129-8da1-343c890e5ada.jpg"
 prize-description: "Amazon’s Kindle E-Reader."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

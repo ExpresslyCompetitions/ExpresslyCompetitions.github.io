@@ -33,7 +33,10 @@ section1-content: "<p>There’s Music Trivia and a whole lot more! From New Roma
 entry-title: "Win 'NOW That’s What I Call Music' board game!"
 entry-content: "Enter the draw to win 'NOW That’s What I Call Music' by completing\
   \ the form below before 23:59 on 3rd of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sarah D. who won 'NOW That’s What I Call Music'\
+  \ board game!"
+winner-banner: "https://assets.expresslyapp.com/asset-88c422ad-cf3e-41ec-903f-e41959e4e3bf.jpg"
 prize-description: "'NOW That’s What I Call Music' board game."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

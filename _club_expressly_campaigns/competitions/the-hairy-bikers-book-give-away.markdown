@@ -36,7 +36,10 @@ entry-title: "Win The Hairy Bikers' British Classics book!"
 entry-content: "Enter the draw to win The Hairy Bikers' British Classics: Over 100\
   \ recipes celebrating timeless cooking and the nation’s favourite dishes by completing\
   \ the form below before 23:59 on 18th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Emma R. who won The Hairy Bikers' British Classics\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-0900567f-e95f-48fa-9be2-41d4830f7f68.jpg"
 prize-description: "The Hairy Bikers' British Classics: Over 100 recipes celebrating\
   \ timeless cooking and the nation’s favourite dishes!"
 country-restrictions:

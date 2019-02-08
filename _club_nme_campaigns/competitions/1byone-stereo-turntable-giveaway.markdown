@@ -36,7 +36,10 @@ section2-content: "<p>This Stereo Turntable is perfect for those with eclectric 
 entry-title: "Win the 1byone 3-Speed Stereo Turntable!"
 entry-content: "Enter the draw to win the 1byone 3-Speed Stereo Turntable by completing\
   \ the form below before 23:59 on 29th of September 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Emma M. who won the amazing 1byone 3-Speed Stereo\
+  \ Turntable!"
+winner-banner: "https://assets.expresslyapp.com/asset-bb21cecf-af1d-4015-af44-4d1ec9264202.jpg"
 prize-description: "Winner wins a 1byone 3-Speed Stereo Turntable"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

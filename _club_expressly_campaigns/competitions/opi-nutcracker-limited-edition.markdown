@@ -35,7 +35,10 @@ section1-content: "<p>This holiday, OPI is travelling through the four realms! I
 entry-title: "Win OPI Limited Edition Nutcracker Collection Infinite Shine"
 entry-content: "Enter the draw to win OPI Limited Edition Nutcracker Collection Infinite\
   \ Shine by completing the form below before 23:59 on 7th of January 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Renee K. who won the OPI Limited Edition Nutcracker\
+  \ Collection Infinite Shine!"
+winner-banner: "https://assets.expresslyapp.com/asset-ad8f0cb3-a88b-4c48-b98e-75bcde691412.jpg"
 prize-description: "OPI Limited Edition Nutcracker Collection Infinite Shine."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

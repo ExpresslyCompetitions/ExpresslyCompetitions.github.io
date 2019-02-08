@@ -34,7 +34,9 @@ section1-content: "<p>The work of Banksy is unmistakable, except may be when it'
 entry-title: "Win Banksy 'Wall and Piece' book!"
 entry-content: "Enter the draw to win Banksy ‘Wall and Piece’ book by completing the\
   \ form below before 23:59 on 18th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Judith M. who won Banksy 'Wall and Piece' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-c50e4400-3fc0-44ca-bd7b-b2f21ade4aeb.jpg"
 prize-description: "Banksy 'Wall and Piece' book."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/banksy-wall-and-piece-book-giveaway"

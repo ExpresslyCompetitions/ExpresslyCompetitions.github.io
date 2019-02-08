@@ -43,7 +43,10 @@ section3-content: "<p>PLUS many more features for you to discover: NFC One-touch
 entry-title: "Win the Sony Bluetooth Wireless Headphones!"
 entry-content: "Enter the draw to win the Sony Bluetooth Wireless Headphones before\
   \ 23:59 on 27th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Christopher D who won the Sony Bluetooth Wireless\
+  \ Headphones!"
+winner-banner: "https://assets.expresslyapp.com/asset-54787059-6d86-4ca5-b858-7c6afe2e0808.jpg"
 prize-description: "Sony Bluetooth Wireless Headphones"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/sony-bluetooth-wireless-headphones"

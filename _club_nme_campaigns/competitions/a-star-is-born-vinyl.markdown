@@ -30,7 +30,9 @@ section1-content: "</p>Alongside Gaga and Cooper there are many co-writing credi
 entry-title: "Win a Star is Born vinyl edition!"
 entry-content: "Enter the draw to win a Star is Born vinyl edition by completing the\
   \ form below before 23:59 on 12th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Martin H. who won A star is born on vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-1948b575-8210-4527-b92f-eb798734a0cf.jpg"
 prize-description: "A Star is Born vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://club.expressly.io/competitions/a-star-is-born-vinyl"

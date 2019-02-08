@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2018-12-19T09:00:00.000Z"
 end-date: "2019-01-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Happytime Murders on DVD & a DVD player to watch it!"
 competition-description: "<p>Discover what happens on the other side of the street\

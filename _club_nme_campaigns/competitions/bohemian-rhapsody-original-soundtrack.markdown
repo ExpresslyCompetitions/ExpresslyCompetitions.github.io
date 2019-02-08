@@ -30,7 +30,10 @@ section1-content: "<p>Bohemian Rhapsody is a foot-stomping celebration of Queen,
 entry-title: "Win Bohemian Rhapsody original soundtrack!"
 entry-content: "Enter the draw to win Bohemian Rhapsody original soundtrack by completing\
   \ the form below before 23:59 on 22th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jacqueline C. who won the soundtrack of the moment\
+  \ Bohemian Rhapsody!"
+winner-banner: "https://assets.expresslyapp.com/asset-ab654de3-ad71-407b-9136-2ec081230ff8.jpg"
 prize-description: "Bohemian Rhapsody original soundtrack."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/bohemian-rhapsody-original-soundtrack"

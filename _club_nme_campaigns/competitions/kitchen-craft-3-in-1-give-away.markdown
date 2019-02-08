@@ -33,7 +33,10 @@ entry-title: "Win a KitchenCraft 3-in-1 Fondue Set!"
 entry-content: "Enter the draw to win a KitchenCraft 3-in-1 Fondue Set and enjoy authentic\
   \ cheese fondues by completing the form below before 23:59 on 28th of September\
   \ 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rhiannon H. who won a fantastic KitchenCraft 3-in-1\
+  \ Fondue Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-6b79ea06-2d51-4a12-a4bc-17c10b140590.jpg"
 prize-description: "A KitchenCraft 3-in-1 Fondue Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

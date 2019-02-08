@@ -30,7 +30,10 @@ section1-content: "<p>Bring a touch of luxury to your kitchen with the Breville 
 entry-title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 entry-content: "Enter the draw to Win Breville Strata Luminere Platinum 2 Slice Toasterby\
   \ completing the form below before 23:59 on 24th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jafrin S. who gets to enjoy an incredible reville\
+  \ Strata Luminere Platinum 2 Slice Toaster!"
+winner-banner: "https://assets.expresslyapp.com/asset-1d92e2de-18a8-4ba1-8a00-8f00184aff9b.jpg"
 prize-description: "Breville Strata Luminere Platinum 2 Slice Toaster"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

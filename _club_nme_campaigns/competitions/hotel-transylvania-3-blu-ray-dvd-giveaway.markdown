@@ -38,7 +38,9 @@ section2-content: "<p>This Hotel Transylvania 3 on Blu-ray and DVD has it all, i
 entry-title: "Win Hotel Transylvania 3 on Blu-ray!"
 entry-content: "Enter the draw to win Hotel Transylvania 3 on Blu-ray by completing\
   \ the form below before 23:59 on 14th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Steven F. who won Hotel Transylvania 3 on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-462c61fe-2ce8-484f-8716-e6aadfbd6384.jpg"
 prize-description: "Hotel Transylvania 3 on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

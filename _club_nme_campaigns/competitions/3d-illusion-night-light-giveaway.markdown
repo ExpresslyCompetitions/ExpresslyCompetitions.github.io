@@ -12,7 +12,7 @@ competition-description: "<p>We have the best gift for music lovers... the 3D Il
   \ Guitar Night Light and we want to give it to you! This Guitar is illuminated using\
   \ LEDs that never get hot producing a warm glow!</p>\r\n<p>Want to get this innovative\
   \ 3D Illusion Guitar Night Light? Click below for a chance to win!</p>"
-hero-header: "Win the 3D Illusion Guitar Night Light!"
+hero-header: "Win the 3D Illusion Guitar Night Light!!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c07eff5-b278-46d8-bfde-c4c454befe1a.jpg"
 logo-left-href: "aaa.nme.com"
@@ -30,7 +30,10 @@ section1-content: "<p>This 3D visual creative lamp is an innovative artistic atm
 entry-title: "Win the 3D Illusion Guitar Night Light!"
 entry-content: "Enter the draw to win the 3D Illusion Guitar Night Light by completing\
   \ the form below before 23:59 on 19th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to  Gillian M. who won the 3D Illusion Guitar Night\
+  \ Light!!"
+winner-banner: "https://assets.expresslyapp.com/asset-42cdf289-1d08-4fb9-90b9-5ba38ef7fb54.jpg"
 prize-description: "A 3D Illusion Guitar Night Light."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

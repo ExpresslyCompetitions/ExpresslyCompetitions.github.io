@@ -32,7 +32,9 @@ section1-content: "<p>We all have a goldie in our lives, a best friend, a great 
 entry-title: "Win the Golden Chocolate Bouquet!"
 entry-content: "Enter the draw to win the Golden Chocolate Bouquet by completing the\
   \ form below before 23:59 on 15th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Maria G. who won a delicious Golden Chocolate Bouquet!"
+winner-banner: "https://assets.expresslyapp.com/asset-65f562cf-00b3-4c56-8e0e-a7293ff00f94.jpg"
 prize-description: "Golden Chocolate Bouquet."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

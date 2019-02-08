@@ -31,7 +31,9 @@ section1-content: "<p>The Deeplee-DP300 Mini Projector is a good assistant to di
 entry-title: "Win the Deeplee Mini Projector!"
 entry-content: "Enter the draw to win the Deeplee Mini Projector by completing the\
   \ form below before 23:59 on 25th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Richard R. who won a cool Deeplee Mini Projector!"
+winner-banner: "https://assets.expresslyapp.com/asset-edafcdbb-93a4-4527-adeb-fbb5f2daa6b2.jpg"
 prize-description: "The Deeplee Mini Projector in blue colour."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on:\r\nhttps://club.expressly.io/competitions/deeplee-mini-projector-giveaway"

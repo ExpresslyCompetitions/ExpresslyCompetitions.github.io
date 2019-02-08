@@ -46,7 +46,10 @@ section3-content: "<p>The perfect parcel for Crimbo-holics and grumpy grinches a
 entry-title: "Win the Rude Health Ultimate Christmas Box!"
 entry-content: "Enter the draw to win the Rude Health Ultimate Christmas Box\r\nby\
   \ completing the form below before 23:59 on 16th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sally P. who won an amazing bundle of Rude Health\
+  \ products!"
+winner-banner: "https://assets.expresslyapp.com/asset-aae289cc-1ac8-429f-a7ec-ce516ad845fd.jpg"
 prize-description: "Rude Health Ultimate Christmas Box."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

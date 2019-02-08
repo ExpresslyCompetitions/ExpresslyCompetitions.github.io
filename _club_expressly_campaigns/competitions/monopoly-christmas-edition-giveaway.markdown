@@ -32,7 +32,9 @@ section1-content: "<p>The festive season starts here with this very special Chri
 entry-title: "Win MONOPOLY, The Christmas Edition!"
 entry-content: "Enter the draw to win MONOPOLY, The Christmas Edition.by completing\
   \ the form below before 23:59 on 15th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chloe B. who won the MONOPOLY, The Christmas Edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-3d622b2d-17d2-482b-ae73-0eea256e37c4.jpg"
 prize-description: "MONOPOLY, The Christmas Edition."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

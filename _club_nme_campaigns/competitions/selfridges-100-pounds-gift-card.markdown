@@ -30,7 +30,10 @@ section1-content: "<p>It’s shopping, but not as you know it. Discover one-of-a
 entry-title: "Win a £100 Gift card at Selfridges!"
 entry-content: "Enter the draw to win a £100 Gift card at Selfridges by completing\
   \ the form below before 23:59 on 10th of November 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Linda J. who won an amazing £100 Selfridges Gift\
+  \ Card!"
+winner-banner: "https://assets.expresslyapp.com/asset-d6730ced-05b6-49aa-83c6-f07b7f886856.jpg"
 prize-description: "A £100 Gift card at Selfridges."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://http://club.expressly.io/competitions/selfridges-100-pounds-gift-card"

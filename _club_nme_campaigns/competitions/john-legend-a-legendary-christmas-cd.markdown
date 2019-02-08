@@ -30,7 +30,9 @@ section1-content: "<p>What Christmas Means To Me, Silver Bells, Have Yourself A 
 entry-title: "Win John Legend new album: A Legendary Christmas!"
 entry-content: "Enter the draw to win John Legend new album: A Legendary Christmas\
   \ by completing the form below before 23:59 on 16th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to John R. who won John Legends Christmas album!"
+winner-banner: "https://assets.expresslyapp.com/asset-21d3147f-df84-40bb-a5ee-3fa057041070.jpg"
 prize-description: "John Legend new album: A Legendary Christmas."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/john-legend-a-legendary-christmas-cd"

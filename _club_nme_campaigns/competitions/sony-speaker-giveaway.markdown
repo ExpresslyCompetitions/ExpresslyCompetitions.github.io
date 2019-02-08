@@ -29,7 +29,10 @@ section1-content: "<p>Compact and wireless so it’s easy to move… long batter
 entry-title: "Win the Sony SRS-XB10 Compact Portable Wireless Speaker!"
 entry-content: "Enter the draw to win Sony SRS-XB10 Compact Portable Wireless Speaker\
   \ by completing the form below before 23:59 on 7th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ben M. who won the Sony SRS-XB10 Compact Portable\
+  \ Wireless Speaker!"
+winner-banner: "https://assets.expresslyapp.com/asset-f0bc7d58-7185-491d-a9df-acb96b194bff.jpg"
 prize-description: "Sony SRS-XB10 Compact Portable Wireless Speaker"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

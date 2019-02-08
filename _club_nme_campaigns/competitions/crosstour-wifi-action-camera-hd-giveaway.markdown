@@ -32,7 +32,10 @@ section1-content: "<p>The Crosstour Wifi Action Camera takes you to explore a di
 entry-title: "Win The Crosstour Wifi Action Camera Full HD!"
 entry-content: "Enter the draw to win The Crosstour Wifi Action Camera Full HD by\
   \ completing the form below before 23:59 on 6th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chloe B. who won this amazing Wifi Action Camera\
+  \ Full HD."
+winner-banner: "https://assets.expresslyapp.com/asset-4d6d7e31-8382-49c7-9d88-9b67bb9d66b3.jpg"
 prize-description: "The Crosstour Wifi Action Camera Full HD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/crosstour-wifi-action-camera-hd-giveaway"

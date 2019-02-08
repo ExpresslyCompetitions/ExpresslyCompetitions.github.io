@@ -32,7 +32,10 @@ section1-content: "<p>Lost & Found  is the rich fruit of Jorja’s past two year
 entry-title: "Win Jorja Smith Lost & Found vinyl edition!"
 entry-content: "Enter the draw to win Jorja Smith Lost & Found vinyl edition by completing\
   \ the form below before 23:59 on 20th of October 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sue M. who won Jorja Smith brand new album on vinyl\
+  \ edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-f4500fd6-3ca2-4885-bd41-aa5a91cfe4ce.jpg"
 prize-description: "Jorja Smith Lost & Found vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day. \r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/jorja-smith-lost-and-found-vinyl"

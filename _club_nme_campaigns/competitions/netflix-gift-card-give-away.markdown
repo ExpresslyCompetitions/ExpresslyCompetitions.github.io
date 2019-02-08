@@ -34,7 +34,9 @@ section2-content: "<p>Netflix’s library contains a broad range of hit movies a
 entry-title: "Win a £50 Netflix Gift card!"
 entry-content: "Enter the draw to win a £50 Netflix Gift card by completing the form\
   \ below before 23:59 on 3th of August 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Robert P. who won a £50 Netflix Gift card!"
+winner-banner: "https://assets.expresslyapp.com/asset-f83d1a76-3318-4216-a08f-b0bfd32aa37a.jpg"
 prize-description: "A £50 Netflix Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:

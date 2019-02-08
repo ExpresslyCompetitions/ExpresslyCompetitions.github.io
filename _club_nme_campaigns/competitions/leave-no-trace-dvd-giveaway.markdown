@@ -35,7 +35,10 @@ section2-content: "<p>This Sony Pictures Home Entertainment movie is such an int
 entry-title: "Win Leave No Trace on DVD!"
 entry-content: "Enter the draw to win Leave No Trace on DVD by completing the form\
   \ below before 23:59 on 12th of December 2018."
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Cora, Roger and Joanne who won Leave No Trace on\
+  \ DVD!"
+winner-banner: "https://assets.expresslyapp.com/asset-8b7de4f9-7b22-455a-b5ed-a9bc87ac9108.jpg"
 prize-description: "Leave No Trace on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
