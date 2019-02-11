@@ -37,7 +37,7 @@ title: Thank you for entering
             </div>
         {% endif %}
 
-        {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
+        {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" | where_exp:"c","c.type != 'Extra'" %}
         {% assign all_items = campaigns | where:"has_entry_page",true | sort: 'date'  %}
         {% assign past_epoch_seconds = site.time | date: '%s' | minus: 0  %}
 
