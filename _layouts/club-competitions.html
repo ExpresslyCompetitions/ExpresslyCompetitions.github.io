@@ -2,7 +2,7 @@
 layout: club-layout
 ---
 {% if page.type %}{% assign campaigns = site[page.campaigns] | where:"type",page.type %}
-{% else %}{% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" %}
+{% else %}{% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" | where_exp:"c","c.type != 'Extra'" %}
 {% endif %}
 
 {% if page.ad-script and page.ad-body %}{% assign main_bg = 'style="background-color: #ffffff !important;"' %}{% endif %}
