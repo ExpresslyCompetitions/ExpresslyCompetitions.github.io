@@ -1,6 +1,6 @@
 ---
 campaign-uuid: "c-b3809add-5825-41f5-82b5-884eca716cde"
-type: "Preview"
+type: "Competition"
 category: "Music"
 date: "2019-02-11T09:00:00.000Z"
 end-date: "2019-03-11T23:59:00.000Z"
