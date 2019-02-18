@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-01-31T09:00:00.000Z"
 end-date: "2019-02-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Ward Thomas ‘Restless Minds’ on vinyl and CD!"
 competition-description: "<p>Rising UK stars Ward Thomas will release their eagerly\
