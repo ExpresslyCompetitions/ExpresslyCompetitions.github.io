@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-01-16T09:00:00.000Z"
 end-date: "2019-02-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a bundle of Loving Earth Chocolate Bars!"
 competition-description: "<p>After the success of our previous competition with ethical\
