@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-02-07T09:00:00.000Z"
 end-date: "2019-02-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Prefab Sprout ‘I Trawl The Megahertz’ album on vinyl edition and cd!"
 competition-description: "<p>Calling all Prefab Sprout fans, we have great news for\
