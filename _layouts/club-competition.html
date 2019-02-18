@@ -114,7 +114,7 @@ active: selected-competitions
                             {% else %}{% capture allowed-countries %}["GB"]{% endcapture %}{% endif %}
                             <form id="form--competition" method="post" x="sd" novalidate data-countries='{{allowed-countries}}'>
                                 <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-                                <input type="hidden" name="emailEntrant" value="true" />
+                                <input type="hidden" name="emailEntrant" value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}" />
                                 <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
                                 <input type="hidden" name="version" value="1"/>
                                 {% assign form_input_id_prefix = 'form--competition--' %}
@@ -157,7 +157,7 @@ active: selected-competitions
                             </form>
 
                             <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-                            <input type="hidden" name="emailEntrant" value="true" />
+                            <input type="hidden" name="emailEntrant" value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}" />
                             <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
 
                             <div class="text-center pt-3">

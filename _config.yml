@@ -54,6 +54,7 @@ clubs:
       parent-website-url: "http://www.cyclingweekly.com/"
       icon-url:       "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2016/02/cropped-favicon-copy-32x32.jpg"
       merchant-uuid:  "m-17001ac9-9405-4b4f-ada9-fa90426806cc"
+      disable-entry-emails: false
       domain-migrations-enabled: false
       ga-code:        "UA-110278937-3"
       ga-domain:      "cyclingweekly.buyexpressly.com"
@@ -81,6 +82,7 @@ clubs:
       parent-website-name: "Expressly"
       parent-website-url: "https://expressly.io/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
+      disable-entry-emails: false
       ad-base-gpt-tag: "ads/expressly/base-gpt-tag.html"
       ad-base-top-leaderboard: "ads/expressly/base-topleaderboard.html"
       ad-base-bottom-leaderboard: "ads/expressly/base-bottomleaderboard.html"
@@ -129,6 +131,7 @@ clubs:
       parent-website-url: "http://www.nme.com/"
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
+      disable-entry-emails: false
       consent-script: "consent/nme/consent-script.html"
       domain-migrations-enabled: false
       ad-base-gpt-tag: "ads/nme/base-gpt-tag.html"
@@ -181,6 +184,7 @@ clubs:
       parent-website-url: "http://www.trustedreviews.com/"
       icon-url:       "http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/07/cropped-trusted-reviews-icon-3-192x192.png"
       merchant-uuid:  "m-1a7b03af-82ba-482f-952c-5e7228bf10d5"
+      disable-entry-emails: false
       domain-migrations-enabled: true
       ga-code:        "UA-110278937-2"
       ga-domain:      "trustedreviews.buyexpressly.com"
