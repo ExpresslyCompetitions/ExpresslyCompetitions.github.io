@@ -1,25 +1,18 @@
 {% include club_base_url.html %}
-<div class="history-card" data-expiration="{{ include.item.end-date | date_to_xmlschema }}">
-    <div class="history-card--banner">
-        {% include image_url_builder.html image=include.item.banner-img %}
-        <div class="advertiser-banner rounded" style="background-image: url({{image-url}})"></div>
+<div class="competition-card {% if include.item.is_promoted %}promoted{% endif %} growable grow-1" data-expiration="{{ include.item.end-date | date_to_xmlschema }}">
+    <div class="competition-card--banner">
+        {% include club_card_banner.html item=include.item item-url=include.item-url is-winner-card=false %}
     </div>
-    <div class="history-card--content p-2 text-center">
-        <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}</p>
+    <div class="competition-tile--content p-2 text-center grow-1">
+        <p class="text-muted small">Posted {{ include.item.date | date: '%b %d, %Y' }}
+            <span class="show-if-has-entry-count">You have entered <script>var count = entryCount('{{item.campaign-uuid}}'); document.write(count + ' time' + (count === 1 ? '': 's'));</script></span>
+        </p>
+
         <p><strong>{{ include.item.title }}</strong></p>
     </div>
-    <div class="history-card--footer p-2 pb-3 text-center">
-        <div class="history-card--status mb-4">
-            <div class="hide-if-expired"><span class="h-100 small">Open until <strong class="avoid-wrap">{{ include.item.end-date | date: '%b %d, %Y' }}</strong></span></div>
-            <div class="show-if-expired"><span class="competition-over small">
-                Visit  <strong class="avoid-wrap"><a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}">{{include.item.logo-left-title}}</a></strong>
-            </span></div>
-        </div>
-        <div class="advertiser-logo">
-            <div>
-                {% include image_url_builder.html image=include.item.logo-left-image %}
-                <a data-powerlink="{{include.item.campaign-uuid}}" href="{{include.item.logo-left-href}}" style="background-image: url({{image-url}})">&nbsp;</a>
-            </div>
+    <div class="competition-tile--footer p-2 pb-3 text-center">
+        <div class="competition-tile--status mb-4">
+            {% include club_card_cta.html item=include.item item-url=include.item-url %}
         </div>
     </div>
 </div>

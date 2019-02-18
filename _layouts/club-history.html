@@ -26,7 +26,7 @@ title: My History
     <div class="row history-card-container">
         {% assign items = site[page.campaigns] | sort: 'date' %}
         {% for item in items reversed  %}
-        <div class="col-md-4 col-sm-6 mb-4 show-if-entered-flex" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}">
+        <div class="col-md-4 col-sm-6 mb-4 show-if-entered-flex growable grow-1" id="eid-{{item.campaign-uuid}}" data-competition-toggle="{{item.campaign-uuid}}">
             <script>entrySet('eid-{{item.campaign-uuid}}', '{{item.campaign-uuid}}');</script>
             {% include club_history_card.html item=item %}
         </div>

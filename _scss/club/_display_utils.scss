@@ -33,6 +33,7 @@
   }
 }
 
+.show-if-entered-block,
 .show-if-entered-flex,
 .show-if-entered {
   display: none !important;
@@ -47,6 +48,11 @@
   &.show-if-entered-flex,
   .show-if-entered-flex {
     display: flex !important;
+  }
+
+  &.show-if-entered-block,
+  .show-if-entered-block {
+    display: block !important;
   }
 
   &.hide-if-entered,
@@ -112,6 +118,16 @@
 
 .reenter-never {
   .show-if-reenter-never {
+    display: block;
+  }
+}
+
+.show-if-has-entry-count {
+  display: none;
+}
+
+[data-entry-count] {
+  .show-if-has-entry-count {
     display: block;
   }
 }
