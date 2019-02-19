@@ -18,7 +18,7 @@ banner-img: "https://assets.expresslyapp.com/asset-bd623ca6-43c4-4735-a2e8-a5749
 logo-left-href: "http://club.expressly.io"
 logo-left-image: "https://assets.expresslyapp.com/asset-bf61fbf2-c9e5-4ad6-9a2e-7285fd584778.jpg"
 logo-left-title: "Expressly Club"
-bg-image-hero: "https://assets.expresslyapp.com/asset-38bf9e12-4588-4c0b-945a-086aa891f404.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-3276b2b9-8e32-4297-ba32-ab394f2172d3.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-4b1f6542-b075-48b6-9696-01fc82e2ef12.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-e2cee6dd-b20c-4e2d-a7ca-9a124a54896f.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-35f18408-4623-4999-8dca-54f95810403c.jpg"
