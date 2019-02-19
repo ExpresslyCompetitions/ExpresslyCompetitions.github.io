@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 title: "Win a Victrola Turntable!"
 competition-description: "<p>If you are someone who appreciates quality music and\
-  \ sound this is a MUST for you. We are giving away an absolute classic loaded with\
+  \ sound, this is a MUST for you. We are giving away an absolute classic loaded with\
   \ features: an amazing Victrola Suitcase Bluetooth 3-speed Turntable!</p>\r\n<p>Break\
   \ out your vinyl records and play your favourite music with the incredible Victrola\
   \ Suitcase Bluetooth 3-speed Turntable today! Click below for a chance to win!</p>"
