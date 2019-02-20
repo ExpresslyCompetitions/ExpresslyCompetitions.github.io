@@ -12,7 +12,7 @@ competition-description: "<p>The Argentum Toaster is housed in a modern, stylish
   \ steel silver casing which will sit perfectly in in any kitchen decor. If breakfast\
   \ is your favourite meal of the day, get ready to use the amazing Andrew James Argentum\
   \ Toaster 2 slice to enjoy toast buns, bagels and pastries for that ‘fresh from\
-  \ the bakery’ taste.</p>\r\n<p>Want it? Enter below for a chance to win!</p>"
+  \ the bakery’ taste.</p>\n<p>Want it? Enter below for a chance to win!</p>\n"
 hero-header: "Win Andrew James Argentum Toaster 2 Slice!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ca21e927-9949-440e-a307-a026717d72ed.jpg"
@@ -23,16 +23,16 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-0fd98aea-eca3-41b5-aa7d-6c
 bg-image-first: "https://assets.expresslyapp.com/asset-8daf6811-ca67-4af4-918f-4e046dd126c9.jpg"
 section1-content: "<p>Have perfect toasts every time as the Argentum Toaster features\
   \ 6 heat settings, which can be controlled via the adjustable dial on the side on\
-  \ the unit.</p> \r\n<p>Argentum Toaster features a lever which when pushed up raises\
+  \ the unit.</p> \n<p>Argentum Toaster features a lever which when pushed up raises\
   \ the height of the slot, this allows the bread or crumpet to be removed easily.\
   \ This Toaster also includes a detachable warming rack which sits neatly on the\
   \ Toaster and has cool touch handles. With the warming rack you can warm and lightly\
   \ toast bread buns, pastries and bagels. At each end of the warming rack there are\
-  \ cool touch handles..!</p>\r\n<p>Enter the form below for a chance to win the Andrew\
-  \ James Argentum Toaster 2 Slices and it could be coming home with you!</p>"
+  \ cool touch handles..!</p>\n<p>Enter the form below for a chance to win the Andrew\
+  \ James Argentum Toaster 2 Slices and it could be coming home with you!</p>\n"
 entry-title: "Win Andrew James Argentum Toaster 2 Slice!"
-entry-content: "Enter the draw to win Andrew James Argentum Toaster 2 Slice by completing\
-  \ the form below before 23:59 on 10th of January 2019."
+entry-content: "<p>Enter the draw to win Andrew James Argentum Toaster 2 Slice by\
+  \ completing the form below before 23:59 on 10th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Andrew James Argentum Toaster 2 Slice."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\

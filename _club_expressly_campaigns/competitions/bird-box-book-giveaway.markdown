@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win Bird Box book!"
 competition-description: "<p>Following the movie success…we have managed to get our\
   \ hands on the book everybody’s talking about: Bird Box and we are giving away a\
-  \ copy to one of our lucky members.</p>\r\n<p>A book that demands to be read in\
-  \ a single sitting, and through the cracks between one's fingers… uniquely disturbing,\
+  \ copy to one of our lucky members.</p>\n<p>A book that demands to be read in a\
+  \ single sitting, and through the cracks between one's fingers… uniquely disturbing,\
   \ exceptionally compelling and beautifully written. Want it? Click below for a chance\
-  \ to win!</p>"
+  \ to win!</p>\n"
 hero-header: "Win Bird Box book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-12cde22d-df88-4c51-9467-37c1d6e52b2a.jpg"
@@ -23,18 +23,18 @@ logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-a574476f-ceca-429e-836a-edba42cb1f8b.png"
 bg-image-first: "https://assets.expresslyapp.com/asset-8b54113e-2f78-478f-816e-79f448a588ca.jpg"
 section1-content: "<p>Josh Malerman’s New York Times bestselling Bird Box is a terrifying\
-  \ psychological thriller that will haunt you long after reading.</p>\r\n<p>Malorie\
+  \ psychological thriller that will haunt you long after reading.</p>\n<p>Malorie\
   \ raises the children the only way she can: indoors, with the doors locked, the\
   \ curtains closed, and mattresses nailed over the windows. The children sleep in\
   \ the bedroom across the hall, but soon she will have to wake them and blindfold\
-  \ them. Today they will risk everything. Today they will leave the house.</p>\r\n\
+  \ them. Today they will risk everything. Today they will leave the house.</p>\n\
   <p>We are giving away a best seller book: Bird Box. An unsettling thriller that\
   \ earns comparisons to Hitchcock's The Birds, as well as the finer efforts of Stephen\
   \ King and cult sci-fi fantasist Jonathan Carroll. Enter the form below for a chance\
-  \ to win!</p>"
+  \ to win!</p>\n"
 entry-title: "Win Bird Box book!"
-entry-content: "Enter the draw to win Bird Box book by completing the form below before\
-  \ 23:59 on 15th of February 2019."
+entry-content: "<p>Enter the draw to win Bird Box book by completing the form below\
+  \ before 23:59 on 15th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Bird Box book"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

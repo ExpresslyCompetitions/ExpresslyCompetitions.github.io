@@ -10,8 +10,7 @@ has_entry_page: true
 title: "Win Godiva’s Gold wrapped Ballotin"
 competition-description: "<p>Godiva has put together a special selection of chocolate\
   \ delights for you. White, milk, dark… Godiva sets out to tempt you with its iconic\
-  \ gold wrapped Ballotin. A chocolate lover’s dream come true.</p>\r\n<p>Will you\
-  \ share?</p>"
+  \ gold wrapped Ballotin. A chocolate lover’s dream come true.</p>\n<p>Will you share?</p>\n"
 hero-header: "Win Godiva's Gold wrapped Ballotin"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7705d2fd-849d-4cd7-9d12-b0399a0270e7.jpg"
@@ -21,18 +20,18 @@ logo-left-title: "Godiva"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7a2930eb-d529-4ac0-b43b-5a0b72c5d0c2.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-55dbb340-b40e-4dda-a821-928d39d88644.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-cdcbd508-68ba-4aa2-b100-31c18f2bcf98.jpg"
-section1-content: "<p>The Godiva story begins with praline.</p>\r\n<p>The sweet mixture\
+section1-content: "<p>The Godiva story begins with praline.</p>\n<p>The sweet mixture\
   \ of finely ground almonds or hazelnuts and caramelised sugar was first married\
   \ with chocolate in Belgium, to create what’s now known worldwide as the classic\
-  \ Belgian Chocolate. </p>"
+  \ Belgian Chocolate. </p>\n"
 section2-content: "<p>Keeping the legacy of handcrafted Belgian chocolate alive, this\
   \ selection is packed with every flavour. Orangettes, mint twigs and the coveted\
   \ carrés are all contained in the soft leather box, along with truffles and Coeur\
-  \ Iconique assortments.</p>\r\n<p>Don’t miss out on Godiva’s Gold wrapped Ballotin\
-  \ and indulge your heart with chocolate.</p>"
+  \ Iconique assortments.</p>\n<p>Don’t miss out on Godiva’s Gold wrapped Ballotin\
+  \ and indulge your heart with chocolate.</p>\n"
 entry-title: "Win Godiva's Gold wrapped Ballotin"
-entry-content: "Enter the draw to win Godiva's Gold wrapped Ballotin by completing\
-  \ the form below before 23:59 on 10th of December 2018."
+entry-content: "<p>Enter the draw to win Godiva's Gold wrapped Ballotin by completing\
+  \ the form below before 23:59 on 10th of December 2018.</p>\n"
 has-winner: false
 prize-description: "Godiva's Gold wrapped Ballotin"
 special-conditions: "Multiple entries are allowed up to one every day."

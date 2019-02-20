@@ -12,8 +12,8 @@ competition-description: "<p>Fashion designers have been involved in movies sinc
   \ the early days of cinema. The result is some of the most eye-catching and influential\
   \ costumes ever committed to film, from Ralph Lauren’s trend-setting masculine style\
   \ for Diane Keaton in Annie Hall to Audrey Hepburn’s little black Givenchy dress\
-  \ in Breakfast at Tiffany’s.</p>\r\n<p>A must for you. Click below for a chance\
-  \ to win!</p>"
+  \ in Breakfast at Tiffany’s.</p>\n<p>A must for you. Click below for a chance to\
+  \ win!</p>\n"
 hero-header: "Win Fashion in Film book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-65ded23d-1c5b-4cdf-ad2a-434f9da4504f.jpg"
@@ -24,16 +24,16 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-42f53cac-3133-42c5-ac02-e5
 bg-image-first: "https://assets.expresslyapp.com/asset-241f8d3b-a2bc-4f0e-aab4-6fc051856890.jpg"
 section1-content: "<p>Christopher Laverty is a costume and fashion writer and consultant.\
   \ As the creator and editor of the award-winning website Clothes on Film, he has\
-  \ appeared on HBO and the BBC, and in countless publications.</p>\r\n<p>Fashion\
-  \ in Film celebrates the contributions of fashion designers to cinema, exploring\
-  \ key garments, what they mean in context of the narrative, and why they are so\
-  \ memorable. Illustrated with beautiful film stills, fashion images and working\
-  \ sketches, this book will appeal to lovers of both fashion history and cinema.</p>\r\
-  \n<p>We have in our hands this fantastic book to giveaway to one of our readers.\
-  \ Enter the form below and it could be yours!</p>"
+  \ appeared on HBO and the BBC, and in countless publications.</p>\n<p>Fashion in\
+  \ Film celebrates the contributions of fashion designers to cinema, exploring key\
+  \ garments, what they mean in context of the narrative, and why they are so memorable.\
+  \ Illustrated with beautiful film stills, fashion images and working sketches, this\
+  \ book will appeal to lovers of both fashion history and cinema.</p>\n<p>We have\
+  \ in our hands this fantastic book to giveaway to one of our readers. Enter the\
+  \ form below and it could be yours!</p>\n"
 entry-title: "Win Fashion in Film book!"
-entry-content: "Enter the draw to win Fashion in Film book by completing the form\
-  \ below before 23:59 on 12th of February 2019."
+entry-content: "<p>Enter the draw to win Fashion in Film book by completing the form\
+  \ below before 23:59 on 12th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Fashion in Film book."
 special-conditions: "Multiple entries are allowed up to one every day."

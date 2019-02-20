@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Laithwaites demo"
-competition-description: "Test"
+competition-description: "<p>Test</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-6f5b10d1-b7e4-45bf-9793-d8999b97a743.jpg"
 logo-left-href: "https://www.laithwaites.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/e430322d-3307-402f-9fe2-59d4f5f0bfc6-thumb.png"

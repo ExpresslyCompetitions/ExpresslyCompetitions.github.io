@@ -12,8 +12,8 @@ competition-description: "<p>Sir Cliff Richard returns with his first album of n
   \ material in 14 years, produced by Rupert Christie. We have a copy of the brand\
   \ new Cliff Richard’s new album to one of our lucky members to win and get stuck\
   \ into Sir Richard’s new tunes! The album draws on new songwriting talent as well\
-  \ as teaming up with some of his biggest hit writers.</p>\r\n<p>Want it? Click below\
-  \ for a chance to win!</p>"
+  \ as teaming up with some of his biggest hit writers.</p>\n<p>Want it? Click below\
+  \ for a chance to win!</p>\n"
 hero-header: "Win Cliff Richard 'Rise Up' CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c1ce137c-18bb-4c04-bd22-aaeb686913f8.jpg"
@@ -25,15 +25,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-08f3e544-7139-47a2-8612-d
 section1-content: "<p>Recorded at Miami’s Criteria Studios in 2018, the album not\
   \ only features title track 'Rise Up' written by Devil Woman hitmaker Terry Britten\
   \ and his co-writer Graham Lyle but other new up-tempo contemporary songs including\
-  \ 'Reborn' written by Chris Eaton (Saviour’s Day).</p>\r\n<p>Sir Cliff reunites\
-  \ with Olivia Newton-John for the first time in 23 years on 'Everybody’s Someone'\
-  \ the album also features four newly recorded tracks with The Royal Philharmonic\
-  \ Orchestra: Devil Woman, The Minute You’re Gone, Miss You Nights and Some People.</p>\r\
-  \n<p>Cliff Richard is back and we want YOU to enjoy his new album as much as we\
-  \ do! Enter the form below and it could be coming home with you! Good luck!</p>"
+  \ 'Reborn' written by Chris Eaton (Saviour’s Day).</p>\n<p>Sir Cliff reunites with\
+  \ Olivia Newton-John for the first time in 23 years on 'Everybody’s Someone' the\
+  \ album also features four newly recorded tracks with The Royal Philharmonic Orchestra:\
+  \ Devil Woman, The Minute You’re Gone, Miss You Nights and Some People.</p>\n<p>Cliff\
+  \ Richard is back and we want YOU to enjoy his new album as much as we do! Enter\
+  \ the form below and it could be coming home with you! Good luck!</p>\n"
 entry-title: "Win Cliff Richard 'Rise Up' CD!"
-entry-content: "Enter the draw to win  Cliff Richard 'Rise Up' CD before 23:59 on\
-  \ 3rd of January 2018."
+entry-content: "<p>Enter the draw to win  Cliff Richard 'Rise Up' CD before 23:59\
+  \ on 3rd of January 2018.</p>\n"
 has-winner: false
 prize-description: "Cliff Richard 'Rise Up' CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

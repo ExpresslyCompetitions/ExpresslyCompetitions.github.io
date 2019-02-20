@@ -11,9 +11,9 @@ title: "Win Chrissy Teigen 'Cravings' book!"
 competition-description: "<p>Chrissy Teigen is known as many things: supermodel, star\
   \ of Instagram and Twitter, and US TV personality, but her real passion is food.\
   \ We are giving away her amazing book 'Cravings' for you to discover all of Chrissy's\
-  \ delicious recipes.</p>\r\n<p>Want to get the  New York Times bestseller and one\
+  \ delicious recipes.</p>\n<p>Want to get the  New York Times bestseller and one\
   \ of the fast-selling cookery debuts in US history? Click below for a chance to\
-  \ win.</p>"
+  \ win.</p>\n"
 hero-header: "Win Chrissy Teigen 'Cravings' book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ad1a4a45-66ef-4b14-9221-d9cb0ecca9d7.jpg"
@@ -27,13 +27,13 @@ section1-content: "<p>Salty, spicy, saucy and fun as hell (not just the food, bu
   \ time and for a few of those life-sucks moments. You'll learn the importance of\
   \ chillies, the secret to cheesy cheeseless eggs and life tips like how to use bacon\
   \ as a home fragrance, the single best way to wake up in the morning and how not\
-  \ to overthink men or Brussels sprouts.</p>\r\n<p>Enter the form below for a chance\
+  \ to overthink men or Brussels sprouts.</p>\n<p>Enter the form below for a chance\
   \ to win 'Cravings' by Chrissy Teigen and get ready to explore Chrissy's kitchen\
   \ as well as her world, because for Chrissy Teigen cooking, eating, life and love\
-  \ are one and the same.</p>"
+  \ are one and the same.</p>\n"
 entry-title: "Win Chrissy Teigen 'Cravings' book!"
-entry-content: "Enter the draw to win Chrissy Teigen 'Cravings' book by completing\
-  \ the form below before 23:59 on 12th of January 2019."
+entry-content: "<p>Enter the draw to win Chrissy Teigen 'Cravings' book by completing\
+  \ the form below before 23:59 on 12th of January 2019.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Darren S. who won Chrissy Teigen 'Cravings' book!"
 winner-banner: "https://assets.expresslyapp.com/asset-98e029f4-839a-4b01-8196-e62f02a22953.jpg"

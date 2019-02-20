@@ -13,9 +13,9 @@ competition-description: "<p>Mercury award winner James Blake releases his 4th s
   \ with Travis Scott, André 3000, Metro Boomin, Moses Sumney and Rosalía (BBC sound\
   \ poll 2019). In the past 2-3 years James has been very busy collaborating with\
   \ Beyonce, Kendrick Lamar, Travis Scott, Jay Z, Frank Ocean, Oneohtrix Point Never,\
-  \ Mount Kimbie and contributing to the Black Panther soundtrack.</p>\r\n<p>Want\
-  \ to be one of the first ones hearing Blake’s new album? Click below for a chance\
-  \ to win!</p>"
+  \ Mount Kimbie and contributing to the Black Panther soundtrack.</p>\n<p>Want to\
+  \ be one of the first ones hearing Blake’s new album? Click below for a chance to\
+  \ win!</p>\n"
 hero-header: "Win James Blake ‘Assume Form’ CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-8c0befb4-8dc5-43b2-a7c2-7a7f5e379a51.jpg"
@@ -31,14 +31,14 @@ section1-content: "<p>As unrestricted by genre as it is always underpinned by cl
   \ his experiences of mental health, modern-day masculinity, and finding peace. Even\
   \ the album artwork would appear to represent a fundamental shift for Blake, no\
   \ longer distorted by illustration, landscape or design, but staring right at you\
-  \ – and into the future.</p>\r\n<p>Think no more and enter the form below for a\
-  \ chance to win James Blake new album, an influence that can be felt throughout\
-  \ the modern musical landscape, often hiding in plain sight; allowing the man himself\
-  \ – as his fourth album suggests – to always evolve. To never settle. To Assume\
-  \ Form.</p>\r\n<p>Good luck!</p>"
+  \ – and into the future.</p>\n<p>Think no more and enter the form below for a chance\
+  \ to win James Blake new album, an influence that can be felt throughout the modern\
+  \ musical landscape, often hiding in plain sight; allowing the man himself – as\
+  \ his fourth album suggests – to always evolve. To never settle. To Assume Form.</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win James Blake ‘Assume Form’ CD!"
-entry-content: "Enter the draw to win James Blake ‘Assume Form’ CD by completing the\
-  \ form below before 23:59 on 21st of February 2019."
+entry-content: "<p>Enter the draw to win James Blake ‘Assume Form’ CD by completing\
+  \ the form below before 23:59 on 21st of February 2019.</p>\n"
 has-winner: false
 prize-description: "James Blake ‘Assume Form’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

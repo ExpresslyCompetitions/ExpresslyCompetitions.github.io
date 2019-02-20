@@ -11,7 +11,7 @@ title: "Win Cath Kidston Christmas Advent Calendar 2018!"
 competition-description: "<p>Enjoy the countdown to Christmas with Cath Kidston beauty\
   \ picks. Twenty four beauty selects of hand creams, soaps, body scrubs, cuticle\
   \ creams, Lip Balms & body Lotions. All wrapped up in signature scents or christmassy\
-  \ fragrances filled with pine needles, red berries, candied sugar and woods.</p>"
+  \ fragrances filled with pine needles, red berries, candied sugar and woods.</p>\n"
 hero-header: "Win Cath Kidston Christmas Advent Calendar 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-58754818-dcde-409a-9e96-a2aaa026bc96.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-7ee7a6ef-d9ce-414c-87b1-2
 section1-content: "<p>Countdown to Christmas with a gorgeous gift every day from the\
   \ brand new Cath Kidston advent calendar. Behind each window you'll find a deliciously-scented,\
   \ luxurious beauty treat, from hand cream to lip balm, soap to body scrub, in a\
-  \ selection of pretty prints and fragrances.</p>\r\n<p>Click below for a chance\
-  \ to win Cath Kidston Christmas Advent Calendar and get ready to explore the world\
-  \ of Cath Kidston bath and body product now!</p>"
+  \ selection of pretty prints and fragrances.</p>\n<p>Click below for a chance to\
+  \ win Cath Kidston Christmas Advent Calendar and get ready to explore the world\
+  \ of Cath Kidston bath and body product now!</p>\n"
 entry-title: "Win Cath Kidston Christmas Advent Calendar 2018!"
-entry-content: "Enter the draw to win Cath Kidston Christmas Advent Calendar 2018\
-  \ by completing the form below before 23:59 on 2nd of December 2018."
+entry-content: "<p>Enter the draw to win Cath Kidston Christmas Advent Calendar 2018\
+  \ by completing the form below before 23:59 on 2nd of December 2018.</p>\n"
 has-winner: false
 prize-description: "Cath Kidston Christmas Advent Calendar 2018."
 special-conditions: "Multiple entries are allowed up to one every day."

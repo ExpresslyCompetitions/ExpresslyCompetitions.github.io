@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 competition-description: "<p>The Breville Strata Luminere Platinum 2 Slice Toaster\
   \ VTT847 has an ultra-matte metallic rose gold finish with stainless steel accents.\
-  \ With variable width slots you can toast the thinnest to thickest slices of bread</p>\r\
-  \n<p>We want you to enjoy breakfast as much as we do: toasts, crumpets, croissants,\
-  \ bagels…</p>\r\n <p>Is breakfast your favourite part of the day?</p>"
+  \ With variable width slots you can toast the thinnest to thickest slices of bread</p>\n\
+  <p>We want you to enjoy breakfast as much as we do: toasts, crumpets, croissants,\
+  \ bagels…</p>\n <p>Is breakfast your favourite part of the day?</p>\n"
 hero-header: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-2f26d815-b878-47d2-865d-0c659d9e28d7.jpg"
@@ -25,11 +25,11 @@ section1-content: "<p>Bring a touch of luxury to your kitchen with the Breville 
   \ Luminere Toaster. Along with its eye-catching and luxurious rose gold finish,\
   \ its six heat settings allow you to adjust browning to your taste and variable\
   \ width bread slots make it perfect for your favourite bread, no matter what you\
-  \ choose!</p>\r\n<p>Don’t miss out this opportunity and have a healthy and delicious\
-  \ breakfast with Breville everyday.</p>"
+  \ choose!</p>\n<p>Don’t miss out this opportunity and have a healthy and delicious\
+  \ breakfast with Breville everyday.</p>\n"
 entry-title: "Win Breville Strata Luminere Platinum 2 Slice Toaster"
-entry-content: "Enter the draw to Win Breville Strata Luminere Platinum 2 Slice Toasterby\
-  \ completing the form below before 23:59 on 24th of November 2018."
+entry-content: "<p>Enter the draw to Win Breville Strata Luminere Platinum 2 Slice\
+  \ Toasterby completing the form below before 23:59 on 24th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Jafrin S. who gets to enjoy an incredible reville\
   \ Strata Luminere Platinum 2 Slice Toaster!"

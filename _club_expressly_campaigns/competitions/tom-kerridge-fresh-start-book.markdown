@@ -15,7 +15,7 @@ competition-description: "<p>New year, new you! We have the book that will help 
   \ for everything that you and your family eat. And with Tom's guidance, you know\
   \ it will taste amazing too! Including more than 100 delicious recipes for breakfast,\
   \ quick and easy meals, lighter dishes, veggie suppers, batch cooking, weekend feasts\
-  \ and sweet treats.</p>\r\n<p> Want it? Click below for a chance to win it!</p>"
+  \ and sweet treats.</p>\n<p> Want it? Click below for a chance to win it!</p>\n"
 hero-header: "Win Tom Kerridge's Fresh Start book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a6ee8f32-d4ea-4381-bc46-68f24f9b89bf.jpg"
@@ -31,16 +31,16 @@ section1-content: "<p>Tom Kerridge is a professional English chef who has worked
   \ his first Michelin star. In the 2012 list, he won a second Michelin star, the\
   \ first time a pub had done so. As a chef he has appeared on the Great British Menu,\
   \ MasterChef and Saturday Kitchen. Since 2015, he has presented Food and Drink on\
-  \ BBC Two.</p> \r\n<p>In his brand new book Fresh Start, Tom Kerridge shows you\
-  \ how to be the boss in the kitchen and eat well every day, thanks to more than\
-  \ 100 brilliant recipes to give you and your family a fresh start. Recycle that\
-  \ takeaway menu, step away from the microwave and make the most of the amazing British\
-  \ produce with some real home-cooked food from Tom's BBC TV series!</p>\r\n<p>Enter\
-  \ the form below for a chance to win this incredible book now. Tom is the perfect\
-  \ person to kick us into a fresh start this new year!</p>"
+  \ BBC Two.</p> \n<p>In his brand new book Fresh Start, Tom Kerridge shows you how\
+  \ to be the boss in the kitchen and eat well every day, thanks to more than 100\
+  \ brilliant recipes to give you and your family a fresh start. Recycle that takeaway\
+  \ menu, step away from the microwave and make the most of the amazing British produce\
+  \ with some real home-cooked food from Tom's BBC TV series!</p>\n<p>Enter the form\
+  \ below for a chance to win this incredible book now. Tom is the perfect person\
+  \ to kick us into a fresh start this new year!</p>\n"
 entry-title: "Win Tom Kerridge's Fresh Start book!"
-entry-content: "Enter the draw to win Tom Kerridge's Fresh Start book by completing\
-  \ the form below before 23:59 on 9th of February 2019."
+entry-content: "<p>Enter the draw to win Tom Kerridge's Fresh Start book by completing\
+  \ the form below before 23:59 on 9th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Tom Kerridge's Fresh Start book."
 special-conditions: "Multiple entries are allowed up to one every day."

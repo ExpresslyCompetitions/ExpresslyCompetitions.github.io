@@ -13,9 +13,9 @@ competition-description: "<p>The best intentions often come back to haunt you. M
   \ Simon Pegg, Ving Rhames) along with some familiar allies (Rebecca Ferguson, Michelle\
   \ Monaghan) in a race against time after a mission gone wrong. Henry Cavill, Angela\
   \ Bassett, and Vanessa Kirby also join the dynamic cast with filmmaker Christopher\
-  \ McQuarrie returning to the helm.</p>\r\n<p>We have a copy of one of the most heart-pumping\
+  \ McQuarrie returning to the helm.</p>\n<p>We have a copy of one of the most heart-pumping\
   \ movies: Mission:Impossible - Fallout for you to get stuck in during the weekend!\
-  \ Want it? Click below for a chance to win!</p>"
+  \ Want it? Click below for a chance to win!</p>\n"
 hero-header: "Win Mission: Impossible - Fallout on Blu-Ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-df231e25-8ada-4f3d-8493-e9a177b0995b.jpg"
@@ -29,14 +29,14 @@ section1-content: "<p>Mission: Impossible - Fallout follow the story of Ethan Hu
   \ story. It’s an epic personal tale, and there are enormous emotional stakes for\
   \ all the characters. “Fallout” refers not only to nuclear fallout but also to the\
   \ fallout of all of Ethan’s good intentions. He has walked into a situation beyond\
-  \ his control, and he has to go through it even though he knows he’s being manipulated.</p>\r\
-  \n<p>This Blu-Ray has it all including a bonus disc packed with unseen special features!\
+  \ his control, and he has to go through it even though he knows he’s being manipulated.</p>\n\
+  <p>This Blu-Ray has it all including a bonus disc packed with unseen special features!\
   \ Does it sound like the best plan for your weekend? If so, think no more and enter\
   \ the form below for a chance to win and get ready to enjoy the adventure of Ethan\
-  \ Hunt and his team now!</p>"
+  \ Hunt and his team now!</p>\n"
 entry-title: "Win Mission: Impossible - Fallout on Blu-Ray!"
-entry-content: "Enter the draw to win Mission: Impossible - Fallout on Blu-Ray by\
-  \ completing the form below before 23:59 on 11th of January 2019."
+entry-content: "<p>Enter the draw to win Mission: Impossible - Fallout on Blu-Ray\
+  \ by completing the form below before 23:59 on 11th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Mission: Impossible - Fallout on Blu-Ray."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/mission-impossible-fall-out\r\

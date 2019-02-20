@@ -13,7 +13,7 @@ competition-description: "<p>Andrea Bocelli has teamed up with some of the hotte
   \ friend Ed Sheeran after their chart-topping ‘Perfect Symphony’ on a brand new\
   \ song called ‘Amo Soltanto Te’ and joining with pop sensation Dua Lipa on the single\
   \ ‘If Only’ and we want YOU to enjoy it! That’s why we are giving away a copy of\
-  \ his amazing new record to one of our members.</p>"
+  \ his amazing new record to one of our members.</p>\n"
 hero-header: "Win Andrea Bocelli ‘Sí’ album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-06f5c9e2-1cb7-48e0-8c29-4e73469cde1a.jpg"
@@ -28,11 +28,11 @@ section1-content: "<p>Sí is an album about heart and soul, positivity and famil
   \ But yes is the word you say when you have your first kiss, when you agree with\
   \ somebody, when you want to make someone feel good. Sí is the word you say every\
   \ time things will end well. For a thousand and one reasons, sí is the expression\
-  \ of a positive, powerful, human word and feeling and emotion!</p>\r\n<p>Enter below\
-  \ for a chance to win Andrea Bocelli ‘Sí’ album and enjoy his beautiful voice.</p>"
+  \ of a positive, powerful, human word and feeling and emotion!</p>\n<p>Enter below\
+  \ for a chance to win Andrea Bocelli ‘Sí’ album and enjoy his beautiful voice.</p>\n"
 entry-title: "Win Andrea Bocelli ‘Sí’ album!"
-entry-content: "Enter the draw to win Andrea Bocelli ‘Sí’ album by completing the\
-  \ form below before 23:59 on 5th of January 2018."
+entry-content: "<p>Enter the draw to win Andrea Bocelli ‘Sí’ album by completing the\
+  \ form below before 23:59 on 5th of January 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Adele S. who won Andrea Bocelli ‘Sí’ album!"
 winner-banner: "https://assets.expresslyapp.com/asset-b2862d62-2fbf-4839-9bbe-eade1c92a0ca.jpg"

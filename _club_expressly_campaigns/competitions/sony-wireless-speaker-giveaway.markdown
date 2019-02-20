@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the Sony Portable Wireless Speaker!"
 competition-description: "<p>You loved it and here is it again! We are giving away\
   \ the amazing Sony SRS-XB10 Compact Portable Wireless Speaker to one of our lucky\
-  \ members!</p>\r\n<p>Wherever you go, bring some big beats with you. Click below\
-  \ for a chance to win!</p>"
+  \ members!</p>\n<p>Wherever you go, bring some big beats with you. Click below for\
+  \ a chance to win!</p>\n"
 hero-header: "Win the Sony Portable Wireless Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c5d7417-8669-4155-ae52-ce6801ba39ab.jpg"
@@ -22,12 +22,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-713324ad-7a7e-4a57-a99e-b5
 bg-image-first: "https://assets.expresslyapp.com/asset-60b03dd9-474b-4b2c-8ce4-a98090b156b7.jpg"
 section1-content: "<p>Compact and wireless so it’s easy to move… long battery life\
   \ and a water-resistant surface… EXTRA BASS so you can add extra music to your life!\
-  \ This Sony Speaker has it all!</p>\r\n<p>Don’t miss out this amazing opportunity\
+  \ This Sony Speaker has it all!</p>\n<p>Don’t miss out this amazing opportunity\
   \ of winning the Sony SRS-XB10 Compact Portable Wireless Speaker and get ready to\
-  \ enjoy your favourite tunes anywhere!</p>\r\n<p>Good luck!</p>"
+  \ enjoy your favourite tunes anywhere!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the Sony Portable Wireless Speaker!"
-entry-content: "Enter the draw to win Sony Portable Wireless Speaker by completing\
-  \ the form below before 23:59 on 25th of January 2019."
+entry-content: "<p>Enter the draw to win Sony Portable Wireless Speaker by completing\
+  \ the form below before 23:59 on 25th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Sony Portable Wireless Speaker."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/sony-wireless-speaker-giveaway\r\

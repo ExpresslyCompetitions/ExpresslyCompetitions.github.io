@@ -11,10 +11,10 @@ title: "Win Beyoncé 'Heat' Gift Set!"
 competition-description: "<p>Beyoncé Knowles is famous for being a singer, songwriter\
   \ actress, fashion designer and has a range of fragrances. She started off with\
   \ Destiny's Child in the 1990's before going onto solo success, now she is bringing\
-  \ her class and style to a fragrance.</p>\r\n<p>We are giving away her 'Heat' Gift\
+  \ her class and style to a fragrance.</p>\n<p>We are giving away her 'Heat' Gift\
   \ Set including her floral perfume for women with notes of magnolia, neroli, red\
   \ vanilla orchard, peach, musk and amber PLUS Shower Gel and Body Lotion. Enter\
-  \ below for a chance to be yours!</p>"
+  \ below for a chance to be yours!</p>\n"
 hero-header: "Win Beyoncé 'Heat' Gift Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d3e273ec-34e6-4137-bba3-b50912f27b01.jpg"
@@ -26,12 +26,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-e5532b91-6fd6-4898-a61d-1
 section1-content: "<p>Surrounded by a luminous fragrant aura, the woman who wears\
   \ it, whether at night or during the day, feels instantly effervescent and alive.\
   \ Sensual and bright, the scent lights up a room, just as Beyoncé captivates with\
-  \ her presence, making the set the perfect all-occasion gift for her.</p>\r\n<p>If\
+  \ her presence, making the set the perfect all-occasion gift for her.</p>\n<p>If\
   \ you want to feel like a star, now with the famous 'Heat' Gift Set trio from Beyoncé\
-  , you can. Enter the form below for a chance to win and it could be yours.</p>"
+  , you can. Enter the form below for a chance to win and it could be yours.</p>\n"
 entry-title: "Win Beyoncé 'Heat' Gift Set!"
-entry-content: "Enter the draw to win Beyoncé 'Heat' Gift Set before 23:59 on 29th\
-  \ of January 2019."
+entry-content: "<p>Enter the draw to win Beyoncé 'Heat' Gift Set before 23:59 on 29th\
+  \ of January 2019.</p>\n"
 has-winner: false
 prize-description: "Beyoncé 'Heat' Gift Set!"
 special-conditions: "Multiple entries are allowed up to one every day."

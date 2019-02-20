@@ -12,8 +12,8 @@ competition-description: "<p>Keep your dressing table tidy and your necklaces, r
   \ earrings, watches and accessories within easy reach with the Beautify Makeup &\
   \ Jewellery Organiser. Why spend precious time rummaging around in shoe boxes to\
   \ find the right jewellery to wear with your outfit or untangling necklaces that\
-  \ have been lost at the back of drawers, when you can keep every item in one place?</p>\r\
-  \n<p>Want it? Click below for a chance to win.</p>"
+  \ have been lost at the back of drawers, when you can keep every item in one place?</p>\n\
+  <p>Want it? Click below for a chance to win.</p>\n"
 hero-header: "Win the Beautify Acrylic Jewellery Storage Box!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-8bc2d976-6905-4544-9841-32b394eb3cd7.jpg"
@@ -27,13 +27,13 @@ section1-content: "<p>Made from clear acrylic plastic, this stylish multi-purpos
   \ your favourite pieces. Each drawer is lined with removable non-slip padding to\
   \ protect your jewellery from scratches, damage and dust. In addition, the organiser’\
   s clear construction offers an elegant way to display your jewellery, hair clips\
-  \ and bobbles, mini perfumes, mini brushes and other small items.</p> \r\n<p>The\
-  \ Beautify Organiser would make a fantastic gift idea for a loved one and is the\
-  \ ideal birthday or Christmas present. Enter the form below for a chance to win\
-  \ and it could be yours!</p>"
+  \ and bobbles, mini perfumes, mini brushes and other small items.</p> \n<p>The Beautify\
+  \ Organiser would make a fantastic gift idea for a loved one and is the ideal birthday\
+  \ or Christmas present. Enter the form below for a chance to win and it could be\
+  \ yours!</p>\n"
 entry-title: "Win the Beautify Acrylic Jewellery Storage Box!"
-entry-content: "Enter the draw to win the Beautify Acrylic Jewellery Storage Box by\
-  \ completing the form below before 23:59 on 14th of December 2018."
+entry-content: "<p>Enter the draw to win the Beautify Acrylic Jewellery Storage Box\
+  \ by completing the form below before 23:59 on 14th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Lisa E. who won the Beautify Acrylic Jewellery Storage\
   \ Box!"

@@ -11,8 +11,8 @@ title: "Win the Trivial Pursuit Family Edition Board Game!"
 competition-description: "<p>Christmas is finally here and you know what does it mean?\
   \ YES, family time! There’s nothing better than spending quality time with your\
   \ loved ones and we have the best option for you, we are giving away the fun and\
-  \ enjoyable Trivial Pursuit Family Edition board game for you to win!</p>\r\n<p>Want\
-  \ it? Click below for a chance to win.</p>"
+  \ enjoyable Trivial Pursuit Family Edition board game for you to win!</p>\n<p>Want\
+  \ it? Click below for a chance to win.</p>\n"
 hero-header: "Win the Trivial Pursuit Family Edition Board Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-52c43fac-5d5b-4ff1-bcec-15161b7cbf62.jpg"
@@ -27,12 +27,12 @@ section1-content: "<p>Kids, parents, grandparents, neighbours: everyone plays to
   \ History, Arts & Literature, Science & Nature, or Sports & Leisure and show off\
   \ what you know. Which of these buildings weighs the most — Great Pyramid, Eiffel\
   \ Tower, or Empire State Building? Which Leonardo da Vinci painting is famous for\
-  \ its smile? Trivial Pursuit Family Edition questions are just right.</p>\r\n<p>Enter\
+  \ its smile? Trivial Pursuit Family Edition questions are just right.</p>\n<p>Enter\
   \ the form below for a chance to win and get ready to challenge your kids and family\
-  \ to a game and find out who is the trivia champ!</p>\r\n<p>Good luck!</p>"
+  \ to a game and find out who is the trivia champ!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the Trivial Pursuit Family Edition Board Game!"
-entry-content: "Enter the draw to win the Trivial Pursuit Family Edition Board Game\
-  \ by completing the form below before 23:59 on 9th of December 2018."
+entry-content: "<p>Enter the draw to win the Trivial Pursuit Family Edition Board\
+  \ Game by completing the form below before 23:59 on 9th of December 2018.</p>\n"
 has-winner: false
 prize-description: "The Trivial Pursuit Family Edition Board Game."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

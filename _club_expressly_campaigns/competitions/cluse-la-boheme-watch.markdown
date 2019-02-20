@@ -11,7 +11,7 @@ title: "Win Cluse La Boheme watch!"
 competition-description: "<p>A schmuckes treasure for your treasure chest. The rose\
   \ gold La Boheme by Cluse impress with their timeless and elegant design. This is\
   \ the finishing touch to any outfit and radiates with its simple, elegant look and\
-  \ feel your very own unique charm.</p>\r\n<p>Feeling pretty has never been so easy.</p>"
+  \ feel your very own unique charm.</p>\n<p>Feeling pretty has never been so easy.</p>\n"
 hero-header: "Win Cluse La Boheme watch!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4b779e8a-cc4f-4096-8913-7ff49ec190bb.jpg"
@@ -24,11 +24,11 @@ section1-content: "<p>To ensure the fine detail of La Boheme and the 2\_hand qua
   \ movement, which is covered by an almost very thin stainless steel case in rose\
   \ gold includes. In addition, this timer is an shape converter, because the replaceable\
   \ bracelet you can store your daily companion its entirely according to your taste\
-  \ and style.</p>\r\n<p>Enter the form below for a chance to win. Cluse, Extremely\
-  \ brilliant!</p>"
+  \ and style.</p>\n<p>Enter the form below for a chance to win. Cluse, Extremely\
+  \ brilliant!</p>\n"
 entry-title: "Win Cluse La Boheme watch!"
-entry-content: "Enter the draw to win Cluse La Boheme watch\r\nby completing the form\
-  \ below before 23:59 on 25th of February 2019."
+entry-content: "<p>Enter the draw to win Cluse La Boheme watch\nby completing the\
+  \ form below before 23:59 on 25th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Cluse La Boheme watch in black."
 country-restrictions:

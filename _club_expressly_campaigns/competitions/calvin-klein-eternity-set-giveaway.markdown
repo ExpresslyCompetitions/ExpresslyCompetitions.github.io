@@ -13,8 +13,8 @@ competition-description: "<p>One of the world's leading lifestyle brands, Calvin
   \ a timeless classic like its amazing Eternity Set we are giving to you. This modern\
   \ floral fragrance is Calvin Klein's tribute to enduring romance. A timeless and\
   \ luxurious composition of flowers, citrus and soft woods. The signature scent of\
-  \ an all-out romantic, Eternity Set transitions beautifully from day to evening.</p>\r\
-  \n<p>Feel beautiful, with Calvin Klein, you can.</p>"
+  \ an all-out romantic, Eternity Set transitions beautifully from day to evening.</p>\n\
+  <p>Feel beautiful, with Calvin Klein, you can.</p>\n"
 hero-header: "Win Calvin Klein Eternity Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-55054516-3c2a-406e-a932-a9be44f8deca.jpg"
@@ -29,11 +29,11 @@ section1-content: "<p>A hymn to love, Eternity opens with notes of mandarin and 
   \ detail, the bottle's silver accents symbolize enduring affection, while the white\
   \ and silver box evokes purity of heart. Deeply cleansing, Eternity for women Body\
   \ Wash and Shower Gel can be used on their own or to complement the Eau de Parfum”\
-  </p>\r\n<p>Enter the draw below for a chance to win and enjoy this amazing gift\
-  \ set from Calvin Klein.</p>"
+  </p>\n<p>Enter the draw below for a chance to win and enjoy this amazing gift set\
+  \ from Calvin Klein.</p>\n"
 entry-title: "Win Calvin Klein Eternity Set!"
-entry-content: "Enter the draw to win Calvin Klein Eternity Set by completing the\
-  \ form below before 23:59 on 13th April 2019."
+entry-content: "<p>Enter the draw to win Calvin Klein Eternity Set by completing the\
+  \ form below before 23:59 on 13th April 2019.</p>\n"
 has-winner: false
 prize-description: "Calvin Klein Eternity Set."
 special-conditions: "Multiple entries are allowed up to one every day."

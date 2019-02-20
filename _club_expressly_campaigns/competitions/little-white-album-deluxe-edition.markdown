@@ -11,8 +11,8 @@ title: "Win The Beatles White Album Deluxe Edition!"
 competition-description: "<p>This is the first time The Beatles ‘White Album’ has\
   \ been remixed and presented with an additional disc demo recordings. This is a\
   \ special edition and we want it to be yours! We are giving away the amazing Beatles\
-  \ White Album Deluxe Edition box set to one of our lucky members!</p>\r\n<p>If that\
-  \ sound like the perfect gift to you, click below for a chance to win!</p>"
+  \ White Album Deluxe Edition box set to one of our lucky members!</p>\n<p>If that\
+  \ sound like the perfect gift to you, click below for a chance to win!</p>\n"
 hero-header: "Win The Beatles White Album Deluxe Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5df3cd99-8186-40e1-b229-eb7c6e0b6389.jpg"
@@ -30,13 +30,13 @@ section1-content: "<p>To create the new stereo audio mixes for ‘The White Albu
   \ of May 1968, The Beatles gathered at George’s house in Esher, Surrey, where they\
   \ recorded acoustic demos for 27 songs. Known as the Esher Demos, all 27 recordings\
   \ are also included in the 3CD Deluxe package, sourced from the original four-track\
-  \ tapes.</p>"
+  \ tapes.</p>\n"
 section2-content: "<p>This Beatles Deluxe 3CD set is presented in an embossed digipack\
   \ with the fold-out poster and portrait photos, plus a 24-page booklet. Enter the\
-  \ form below for a chance to win and get ready to enjoy the White Album once again!</p>"
+  \ form below for a chance to win and get ready to enjoy the White Album once again!</p>\n"
 entry-title: "Win The Beatles White Album Deluxe Edition!"
-entry-content: "Enter the draw to win  The Beatles White Album Deluxe Edition before\
-  \ 23:59 on 30th of December 2018."
+entry-content: "<p>Enter the draw to win  The Beatles White Album Deluxe Edition before\
+  \ 23:59 on 30th of December 2018.</p>\n"
 has-winner: false
 prize-description: "The Beatles White Album Deluxe Edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

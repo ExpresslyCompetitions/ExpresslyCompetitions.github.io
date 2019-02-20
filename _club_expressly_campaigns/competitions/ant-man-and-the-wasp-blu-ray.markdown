@@ -13,8 +13,8 @@ competition-description: "<p>From the Marvel Cinematic Universe comes Ant-Man an
   \ Still reeling from the aftermath of Captain America: Civil War, Scott Lang is\
   \ enlisted by Dr. Hank Pym for an urgent new mission. He must once again put on\
   \ the suit and learn to fight alongside the Wasp as they join forces to uncover\
-  \ secrets from the past.</p>\r\n<p>Want to feel part of this amazing adventure?\
-  \ Click below for a chance to win!</p>"
+  \ secrets from the past.</p>\n<p>Want to feel part of this amazing adventure? Click\
+  \ below for a chance to win!</p>\n"
 hero-header: "Win Ant-Man and the Wasp on Blu-ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c6e8ee55-c085-4d49-bafc-344403247848.jpg"
@@ -27,14 +27,14 @@ section1-content: "<p>Despite a history of crime, Scott turned his life around a
   \ leaving prison and became the hero known as Ant-Man even if he had to steal to\
   \ do it. This\_lifestyle led to him being put on house arrest after the events of\_\
   Civil War, where he sided with Team Cap. Scott's shrinking and growing abilities\
-  \ are sure to help save the day.</p>\r\n<p>This Ant-Man and the Wasp Blu-ray comes\
+  \ are sure to help save the day.</p>\n<p>This Ant-Man and the Wasp Blu-ray comes\
   \ with a lot of bonus features:  Play Movie With Intro By Director Peyton Reed,\
-  \ Audio Commentaries, Deleted Scenes… and many more for you to discover!</p>\r\n\
-  <p>Enter the form below for a chance to win Ant-Man and the Wasp on Blu-ray and\
-  \ get your weekend sorted! Good luck!</p>"
+  \ Audio Commentaries, Deleted Scenes… and many more for you to discover!</p>\n<p>Enter\
+  \ the form below for a chance to win Ant-Man and the Wasp on Blu-ray and get your\
+  \ weekend sorted! Good luck!</p>\n"
 entry-title: "Win Ant-Man and the Wasp on Blu-ray!"
-entry-content: "Enter the draw to win Ant-Man and The Wasp on Blu-ray\r\nby completing\
-  \ the form below before 23:59 on 3rd  of February 2019."
+entry-content: "<p>Enter the draw to win Ant-Man and The Wasp on Blu-ray\nby completing\
+  \ the form below before 23:59 on 3rd  of February 2019.</p>\n"
 has-winner: false
 prize-description: "Ant-Man and the Wasp on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win Ted Baker Polly fragrance"
 competition-description: "<p>At Ted Baker they focus on quality becoming the leader\
-  \ of the high streets leading brands for mean and woman.\r\nPutting its quintessentially\
+  \ of the high streets leading brands for mean and woman.\nPutting its quintessentially\
   \ British spin on the art of perfumery now you could savour the flavour of Ted’\
-  s fragrances. We want to give to you the Polly fragance, Ted Baker’s sweet treat.</p>\r\
-  \n<p>Whenever the mood takes you for an instant hit of glamour.</p>"
+  s fragrances. We want to give to you the Polly fragance, Ted Baker’s sweet treat.</p>\n\
+  <p>Whenever the mood takes you for an instant hit of glamour.</p>\n"
 hero-header: "Win Ted Baker Polly fragrance"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ed535e03-a4f3-48fe-9246-c9599e9323de.jpg"
@@ -24,11 +24,11 @@ bg-image-first: "https://assets.expresslyapp.com/asset-c9c4adff-81bd-4c07-80fd-b
 section1-content: "<p>Ted Baker presents its Sweet Treats collection. The Polly fragrance\
   \ comes in a sleek, rectangular-shaped bottle complete with a rose-gold-toned stopper.\
   \ With top notes of bergamot and rich cassis, this aroma is sensual, while light\
-  \ orange blossom and floral rose</p>\r\n<p> Freshen up the scent of your day-to-day\
-  \ wear with the Polly fragrance from Ted Baker.</p>"
+  \ orange blossom and floral rose</p>\n<p> Freshen up the scent of your day-to-day\
+  \ wear with the Polly fragrance from Ted Baker.</p>\n"
 entry-title: "Win Ted Baker Polly fragrance"
-entry-content: "Enter the draw to win Ted Baker Polly fragrance\r\nby completing the\
-  \ form below before 23:59 on 7th of November 2018."
+entry-content: "<p>Enter the draw to win Ted Baker Polly fragrance\nby completing\
+  \ the form below before 23:59 on 7th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Ted Baker Polly fragrance"
 special-conditions: "Multiple entries are allowed up to one every day."

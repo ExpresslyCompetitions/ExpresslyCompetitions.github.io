@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a Flowerbx for Selfridges"
 competition-description: "<p>Flowers are the most special gift anyone could ask for.\
   \ We are giving you the chance to win a Flowebx for Selfridges for you to treat\
-  \ your loved ones or that special person.</p>\r\n<p>Make that person unique with\
-  \ a bunch of 20 blooms with Selfridges.</p>"
+  \ your loved ones or that special person.</p>\n<p>Make that person unique with a\
+  \ bunch of 20 blooms with Selfridges.</p>\n"
 hero-header: "Win a Flowerbx for Selfridges"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f0a39cec-1396-4a1b-b00f-d8be542d6cb0.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-8af9211e-70ff-4e78-8e35-4
 section1-content: "<p>In bloom between March and August, stocks are known for their\
   \ sweet perfume and soft spring-summer hues. Picked at their prime by Flowerbx for\
   \ Selfridges, small clusters of double flowers meet at the top of their medium-length\
-  \ stems. </p>\r\n<p>It’s no wonder this bunch of 20 blooms is symbolic of happiness\
+  \ stems. </p>\n<p>It’s no wonder this bunch of 20 blooms is symbolic of happiness\
   \ and lasting beauty; we can’t think of a better way to gift someone, don’t miss\
-  \ out this opportunity and they could be yours.</p>"
+  \ out this opportunity and they could be yours.</p>\n"
 entry-title: "Win a Flowerbx for Selfridges"
-entry-content: "Enter the draw to win a Flowerbx for Selfridges\r\nby completing the\
-  \ form below before 23:59 on 7th of November 2018."
+entry-content: "<p>Enter the draw to win a Flowerbx for Selfridges\nby completing\
+  \ the form below before 23:59 on 7th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Flowerbx for Selfridges"
 special-conditions: "Multiple entries are allowed up to one every day."

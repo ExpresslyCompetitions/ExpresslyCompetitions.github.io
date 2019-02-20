@@ -10,9 +10,9 @@ has_entry_page: true
 title: "DEMO LANGUAGE: win £300 at Sunflowerbaby"
 competition-description: "<p>In need to spice up your baby’s wardrobe? If that’s a\
   \ YES you’ve come to the right place! We’re giving away a voucher worth £300 to\
-  \ spend at Sunflowerbaby! Babygrows, bodies, blankets, baby gifts and many more!\r\
-  \n</p>\r\n<p>Don’t miss out on this amazing opportunity and get the perfect outfit\
-  \ for cosying up with your baby at Sunflowerbaby!</p>"
+  \ spend at Sunflowerbaby! Babygrows, bodies, blankets, baby gifts and many more!\n\
+  </p>\n<p>Don’t miss out on this amazing opportunity and get the perfect outfit for\
+  \ cosying up with your baby at Sunflowerbaby!</p>\n"
 hero-header: "DEMO LANGUAGE: win £300 at Sunflowerbaby"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-14bda4c0-341e-40fb-9f2e-c453075b29cd.jpg"
@@ -24,18 +24,18 @@ bg-image-first: "https://assets.expresslyapp.com/asset-3eb0eec1-6d44-49b8-913a-6
 bg-image-second: "https://assets.expresslyapp.com/asset-63eda0af-c4c3-45e2-8e60-049dcccf152d.jpg"
 section1-content: "<p>At Sunflowerbaby, they believe that simplicity, quality, and\
   \ integrity are the key to comfort, that’s why they love making clothes that let’\
-  s kids be kid!</p>\r\n<p>Featuring stunning and high quality fabrics there is quite\
+  s kids be kid!</p>\n<p>Featuring stunning and high quality fabrics there is quite\
   \ a selection to choose from! Knitwear, accesories, swimmwear, t-shirts… all to\
-  \ make your baby stand out!</p>"
+  \ make your baby stand out!</p>\n"
 section2-content: "<p>Their new collection includes clothes for both special occasions\
   \ and for cosy nights! Get your baby that playful toy or those shoes that she deserves!\
   \ They’re offering one lucky winner the chance to win £300 to spend at their entire\
-  \ collection!</p> \r\n<p>Treat your baby to something nice. With Sunflowerbaby,\
-  \ you can.</p>"
+  \ collection!</p> \n<p>Treat your baby to something nice. With Sunflowerbaby, you\
+  \ can.</p>\n"
 entry-title: "DEMO LANGUAGE: win £300 at Sunflowerbaby"
 entry-content: "<p>Sleepwear, swimwear, accesories...treat your baby to something\
   \ nice with the chance to win a voucher worth £300 at Sunflowerbaby!</p> <p> Enter\
-  \ the draw to win by completing the form below before 23.59pm on 30/04/2018.</p>"
+  \ the draw to win by completing the form below before 23.59pm on 30/04/2018.</p>\n"
 has-winner: false
 prize-description: "£300 to spend at Sunflowerbaby."
 country-restrictions:

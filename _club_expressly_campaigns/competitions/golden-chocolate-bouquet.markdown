@@ -12,7 +12,7 @@ competition-description: "<p>It doesn’t have to be a special occasion for this
   \ But now that Christmas is coming…we have another reason to give it away to one\
   \ of our lucky members. This exquisite posy has been crafted for that special\_\
   person in your life so If you don’t want to miss this opportunity, enter below for\
-  \ a chance to treat your loved ones now.</p>"
+  \ a chance to treat your loved ones now.</p>\n"
 hero-header: "Win the Golden Chocolate Bouquet!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f9dfc355-dc72-44e0-b2ad-25baf62978ab.jpg"
@@ -25,13 +25,13 @@ section1-content: "<p>We all have a goldie in our lives, a best friend, a great 
   \ a wonderful partner… somebody who we cherish with and think they’re totally worth\
   \ their weight in gold.This amazing bouquet features 10 Ferrero Rocher Chocolates\
   \ and\_14 solid Belgian milk chocolates stars from Chocolatier and is sure to give\
-  \ you that WOW feeling.</p>\r\n<p>This stunning golden bouquet says you’re simply\
+  \ you that WOW feeling.</p>\n<p>This stunning golden bouquet says you’re simply\
   \ amazing. If you can’t wait to taste their amazing Ferreros, enter the form below\
-  \ for a chance to win and give this special bouquet to your special one.</p>\r\n\
-  <p>Good luck!</p>"
+  \ for a chance to win and give this special bouquet to your special one.</p>\n<p>Good\
+  \ luck!</p>\n"
 entry-title: "Win the Golden Chocolate Bouquet!"
-entry-content: "Enter the draw to win the Golden Chocolate Bouquet by completing the\
-  \ form below before 23:59 on 15th of December 2018."
+entry-content: "<p>Enter the draw to win the Golden Chocolate Bouquet by completing\
+  \ the form below before 23:59 on 15th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Maria G. who won a delicious Golden Chocolate Bouquet!"
 winner-banner: "https://assets.expresslyapp.com/asset-65f562cf-00b3-4c56-8e0e-a7293ff00f94.jpg"

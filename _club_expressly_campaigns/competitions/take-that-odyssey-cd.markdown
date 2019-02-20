@@ -11,9 +11,9 @@ title: "Win Take That ‘Odyssey’ CD!"
 competition-description: "<p>‘Odyssey’ a re-imagined greatest hits album that takes\
   \ the listener on a journey through the incredible musical history of Take That,\
   \ one of the UK’s most successful bands of all time. The ‘Odyssey’ album - produced\
-  \ by Stuart Price - features 27 tracks spanning three decades of the band’s history.</p>\r\
-  \n<p>Would you like to add ‘Odyssey’ to your collection? Click below for a chance\
-  \ to win!</p>"
+  \ by Stuart Price - features 27 tracks spanning three decades of the band’s history.</p>\n\
+  <p>Would you like to add ‘Odyssey’ to your collection? Click below for a chance\
+  \ to win!</p>\n"
 hero-header: "Win Take That ‘Odyssey’ CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-866827c2-5ef9-42c2-b21f-9d6865a8579e.jpg"
@@ -27,13 +27,13 @@ section1-content: "<p>‘Odyssey’ is both a celebration of Take That’s past 
   \ soundbites from their life, building a historical narrative around the songs -\
   \ the story of five Northern teenage lads, who went on to become one of the biggest\
   \ boy bands of all time, before splitting up and reforming again nine years later\
-  \ with one of the most sensational music comebacks ever seen.</p>\r\n<p>Let’s do\
-  \ it again, Patience, The Flood, Giants… and many more songs are included in this\
-  \ amazing Deluxe Edition for you! Enter the form below for a chance to win and get\
-  \ ready to enjoy Take That’s songs anywhere!</p>"
+  \ with one of the most sensational music comebacks ever seen.</p>\n<p>Let’s do it\
+  \ again, Patience, The Flood, Giants… and many more songs are included in this amazing\
+  \ Deluxe Edition for you! Enter the form below for a chance to win and get ready\
+  \ to enjoy Take That’s songs anywhere!</p>\n"
 entry-title: "Win Take That ‘Odyssey’ CD!"
-entry-content: "Enter the draw to win Take That ‘Odyssey’ CD  by completing the form\
-  \ below before 23:59 on 13th of January 2019."
+entry-content: "<p>Enter the draw to win Take That ‘Odyssey’ CD  by completing the\
+  \ form below before 23:59 on 13th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Take That ‘Odyssey’ CD."
 special-conditions: "Multiple entries are allowed up to one every day."

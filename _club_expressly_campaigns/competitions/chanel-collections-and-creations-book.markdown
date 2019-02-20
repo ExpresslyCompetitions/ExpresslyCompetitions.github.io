@@ -13,7 +13,7 @@ competition-description: "<p>Chanel's combination of tradition, originality and 
   \ book from the House of Chanel where they opens their private archives, revealing\
   \ a galaxy of brilliant designs created by Coco Chanel from the 1920s onwards, and\
   \ now reinterpreted to become the motifs for brand new garments, accessories and\
-  \ beauty products. Enter below for a chance to win.</p>"
+  \ beauty products. Enter below for a chance to win.</p>\n"
 hero-header: "Win Chanel: Collections and Creations book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-90ca7bc6-eab4-4e35-a1c4-6a79a9d32071.jpg"
@@ -29,13 +29,13 @@ section1-content: "<p>Inspired by the House's signature fragrance, the legendary
   \ by fashion designers working in the footsteps of their illustrious predecessors.\
   \ This visual journey is enhanced by previously unpublished archive photographs\
   \ and original drawings by Karl Lagerfeld, as well as glorious images from some\
-  \ of the greatest names in fashion photography.</p> \r\n<p>Dazzling clothes, intricate\
+  \ of the greatest names in fashion photography.</p> \n<p>Dazzling clothes, intricate\
   \ accessories, beautiful models and timeless design leave no doubt as to the lasting\
   \ fame of the brand and embody everything that has come to symbolize the magic of\
-  \ Chanel.</p>"
+  \ Chanel.</p>\n"
 entry-title: "Win Chanel: Collections and Creations book!"
-entry-content: "Enter the draw to win Chanel: Collections and Creations book\r\nby\
-  \ completing the form below before 23:59 on 29th of March 2019."
+entry-content: "<p>Enter the draw to win Chanel: Collections and Creations book\n\
+  by completing the form below before 23:59 on 29th of March 2019.</p>\n"
 has-winner: false
 prize-description: "Chanel: Collections and Creations book."
 special-conditions: "Multiple entries are allowed up to one every day."

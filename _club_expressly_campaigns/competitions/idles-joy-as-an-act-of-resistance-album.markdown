@@ -12,8 +12,7 @@ competition-description: "<p>Produced by Space and mixed by Adam Greenspan & Nic
   \ Launay, ’Joy as an Act of Resistance.' takes aim at everything from toxic masculinity,\
   \ nationalism, immigration, and class inequality while maintaining a visceral, infectious\
   \ positivity. We have a copy of The Idles new album on vinyl edition to one of our\
-  \ readers!</p>\r\n<p>Are you The Idles biggest fan? Click below for a chance to\
-  \ win!</p>"
+  \ readers!</p>\n<p>Are you The Idles biggest fan? Click below for a chance to win!</p>\n"
 hero-header: "Win ‘Joy as an Act of Resistance’ The Idles new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-95b72567-88c7-46f0-a00f-7e6c657adfc7.jpg"
@@ -27,11 +26,11 @@ section1-content: "</p>As the singer Joe Talbot summarizes: \"This album is an a
   \ smile in this shitty new world. We have stripped back the songs and lyrics to\
   \ our bare flesh to allow each other to breathe, to celebrate our differences, and\
   \ act as an ode to communities and the individuals that forge them. Because without\
-  \ our community, we'd be nothing.”</p>\r\n<p>If you can’t wait to listen to The\
-  \ Idles brand new hits, enter the form below and it could be yours!\r\n<p>Good luck!</p>"
+  \ our community, we'd be nothing.”</p>\n<p>If you can’t wait to listen to The Idles\
+  \ brand new hits, enter the form below and it could be yours!\n<p>Good luck!</p>\n"
 entry-title: "Win ‘Joy as an Act of Resistance’ The Idles new album!"
-entry-content: "Enter the draw to win ‘Joy as an Act of Resistance’ The Idles new\
-  \ album by completing the form below before 23:59 on 3rd of November 2018."
+entry-content: "<p>Enter the draw to win ‘Joy as an Act of Resistance’ The Idles new\
+  \ album by completing the form below before 23:59 on 3rd of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Carol G. who won The Idles new album: 'Joy as an\
   \ Act of Resistance’"

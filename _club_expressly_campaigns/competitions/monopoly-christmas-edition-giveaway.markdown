@@ -11,8 +11,8 @@ title: "Win MONOPOLY, The Christmas Edition!"
 competition-description: "<p>The world's favourite family board game brings you another\
   \ exciting edition of MONOPOLY,  the Christmas Edition! Choose your favourite festive\
   \ token, tour your favourite Christmassy things and accumulate fortunes, but watch\
-  \ out for taxes, jail and bankruptcy</p>\r\n<p>This game is a MUST for the holidays.\
-  \ Want it? Click below for a chance to win!</p>"
+  \ out for taxes, jail and bankruptcy</p>\n<p>This game is a MUST for the holidays.\
+  \ Want it? Click below for a chance to win!</p>\n"
 hero-header: "Win MONOPOLY, The Christmas Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-cf1b429e-1f81-4fcc-998e-09a4f8d06825.jpg"
@@ -26,12 +26,12 @@ section1-content: "<p>The festive season starts here with this very special Chri
   \ and Santa himself! Travel around the board collecting your favourite things from\
   \ the season of goodwill: from Santa and his reindeer, to a full festive feast,\
   \ via decorating the tree and doing your Christmas shopping, no stocking would be\
-  \ complete with this family favourite.\r\n</p>\r\n<p>If you’re looking forward to\
-  \ spending the best time with your loved ones, enter the form below for a chance\
-  \ to win this enjoyable game: MONOPOLY, The Christmas Edition!</p>"
+  \ complete with this family favourite.\n</p>\n<p>If you’re looking forward to spending\
+  \ the best time with your loved ones, enter the form below for a chance to win this\
+  \ enjoyable game: MONOPOLY, The Christmas Edition!</p>\n"
 entry-title: "Win MONOPOLY, The Christmas Edition!"
-entry-content: "Enter the draw to win MONOPOLY, The Christmas Edition.by completing\
-  \ the form below before 23:59 on 15th of December 2018."
+entry-content: "<p>Enter the draw to win MONOPOLY, The Christmas Edition.by completing\
+  \ the form below before 23:59 on 15th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Chloe B. who won the MONOPOLY, The Christmas Edition!"
 winner-banner: "https://assets.expresslyapp.com/asset-3d622b2d-17d2-482b-ae73-0eea256e37c4.jpg"

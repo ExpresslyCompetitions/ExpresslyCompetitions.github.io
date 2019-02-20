@@ -12,8 +12,8 @@ competition-description: "<p>We have in our hands one of the best compilations f
   \ one of the greatest bands of all time: ‘Greatest Hits’ by Queen. ‘Greatest Hits’\
   \ is a compilation album by Queen, originally released in the UK on 26 October 1981.\_\
   The album consisted of Queen's best-selling singles since their first chart appearance\
-  \ in 1974 with \"Seven Seas of Rhye\", up to their 1980 hit “Flash\"</p>\r\n<p>Want\
-  \ it? Click below for a chance to win.</p>"
+  \ in 1974 with \"Seven Seas of Rhye\", up to their 1980 hit “Flash\"</p>\n<p>Want\
+  \ it? Click below for a chance to win.</p>\n"
 hero-header: "Win Queen Greatest Hits vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-fab853a9-baad-4040-b1b8-960bce9ca7dc.jpg"
@@ -27,12 +27,12 @@ section1-content: "<p>Queen's Greatest Hits was an instant success, peaking at n
   \ UK Charts, and is the best-selling album of all time in the UK, selling over 6\
   \ million copies there.\_ It is certified 8x Platinum in the United States, and\
   \ is Queen's most commercially successful album worldwide with over 25 million copies\
-  \ sold, making it one of the best-selling albums of all time.\_ </p>\r\n<p>Enter\
-  \ the form below for a chance to win ‘Greatest Hits’ by Queens on vinyl edition\
-  \ and get ready to enjoy their tunes anywhere you go! Good luck!</p>"
+  \ sold, making it one of the best-selling albums of all time.\_ </p>\n<p>Enter the\
+  \ form below for a chance to win ‘Greatest Hits’ by Queens on vinyl edition and\
+  \ get ready to enjoy their tunes anywhere you go! Good luck!</p>\n"
 entry-title: "Win Queen Greatest Hits vinyl edition!"
-entry-content: "Enter the draw to win Queen Greatest Hits vinyl edition by completing\
-  \ the form below before 23:59 on 9th of February 2019."
+entry-content: "<p>Enter the draw to win Queen Greatest Hits vinyl edition by completing\
+  \ the form below before 23:59 on 9th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Queen Greatest Hits vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

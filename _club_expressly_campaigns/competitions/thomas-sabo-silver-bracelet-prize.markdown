@@ -11,9 +11,9 @@ title: "Win Thomas Sabo Silver Bracelet for Charms Classic"
 competition-description: "<p>We have the perfect gift this Christmas, the Thomas Sabo\
   \ Silver Bracelet for Charms Classic. With a flair for trends, love of detail and\
   \ a passion for jewellery, company founder Thomas Sabo not only gave Sterling silver\
-  \ a new appearance in the eighties but a new significance, too.</p>\r\n<p>The Thomas\
+  \ a new appearance in the eighties but a new significance, too.</p>\n<p>The Thomas\
   \ Sabo Silver Bracelet for Charms Classic will look amazing on you, want it? Click\
-  \ below for a chance to win.</p>"
+  \ below for a chance to win.</p>\n"
 hero-header: "Win Thomas Sabo Silver Bracelet for Charms Classic"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7d5096d7-7e60-4414-ac9b-16dc7df26c50.jpg"
@@ -25,18 +25,18 @@ bg-image-first: "https://assets.expresslyapp.com/asset-c74a8bec-e778-4d2b-8f03-6
 section1-content: "<p>Since the company was founded in 1984, the identity and style\
   \ of Thomas Sabo have been characterised by a sparkling precious metal: 925 Sterling\
   \ silver is nickel-free and the purest silver used in the jewellery sector with\
-  \ the best physical properties.</p>\r\n<p>With a flair for trends, love of detail\
+  \ the best physical properties.</p>\n<p>With a flair for trends, love of detail\
   \ and a passion for jewellery, company founder Thomas Sabo not only gave Sterling\
   \ silver a new appearance in the eighties but a new significance, too. Today, Thomas\
   \ Sabo is one of the globally leading companies in the jewellery and watches sector.\
   \ In addition to the iconic Sterling Silver Collection, with the Glam & Soul women’\
   s line and the Rebel at heart men’s line, the product world of Thomas Sabo now also\
-  \ includes the Charm Club, as well as its own watches and beauty line.</p>\r\n<p>This\
+  \ includes the Charm Club, as well as its own watches and beauty line.</p>\n<p>This\
   \ bracelet is the best present for Christmas, if you can't wait to have it now,\
-  \ enter the form below for a chance to win!</p>"
+  \ enter the form below for a chance to win!</p>\n"
 entry-title: "Win Thomas Sabo Silver Bracelet for Charms Classic"
-entry-content: "Enter the draw to win Thomas Sabo Silver Bracelet for Charms Classic\r\
-  \nby completing the form below before 23:59 on 17th of December 2018."
+entry-content: "<p>Enter the draw to win Thomas Sabo Silver Bracelet for Charms Classic\n\
+  by completing the form below before 23:59 on 17th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Carole E. who won the beautiful Thomas Sabo Silver\
   \ Bracelet for Charms Classic!"

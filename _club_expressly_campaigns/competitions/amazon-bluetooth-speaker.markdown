@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the AmazonBasics Large Portable Bluetooth Speaker!"
 competition-description: "<p>Get ready to turn up the volume of your music, films,\
   \ or voice calls with this large Bluetooth speaker from AmazonBasics. The loudest\
-  \ speaker to date that lets you share music and calls with your friends, hands-free.</p>\r\
-  \n<p>Want to treat yourself? Enter below for a chance to win!</p>"
+  \ speaker to date that lets you share music and calls with your friends, hands-free.</p>\n\
+  <p>Want to treat yourself? Enter below for a chance to win!</p>\n"
 hero-header: "Win the AmazonBasics Large Portable Bluetooth Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e305d88f-3b85-43cb-9039-7af13040e318.jpg"
@@ -24,12 +24,12 @@ section1-content: "</p>Listen to your favourite tunes and films from your phone,
   \ or laptop. This amazing AmazonBasics speaker connects to nearly all Bluetooth\
   \ devices using Bluetooth 4.0 technology.</p><p>The speaker is amazingly portable\
   \ and so loud and powerful enough that you can go to the beach and still hear your\
-  \ music! Take the speaker on your next big trip, to the park, or just the next room!</p>\r\
-  \n<p>Enter the form below and get ready to enjoy the AmazonBasics Large Portable\
-  \ Bluetooth Speaker everywhere you go!</p>"
+  \ music! Take the speaker on your next big trip, to the park, or just the next room!</p>\n\
+  <p>Enter the form below and get ready to enjoy the AmazonBasics Large Portable Bluetooth\
+  \ Speaker everywhere you go!</p>\n"
 entry-title: "Win the AmazonBasics Large Portable Bluetooth Speaker!"
-entry-content: "Enter the draw to win the AmazonBasics Large Portable Bluetooth Speaker\
-  \ by completing the form below before 23:59 on 11th of November 2018."
+entry-content: "<p>Enter the draw to win the AmazonBasics Large Portable Bluetooth\
+  \ Speaker by completing the form below before 23:59 on 11th of November 2018.</p>\n"
 has-winner: false
 prize-description: "The AmazonBasics Large Portable Bluetooth Speaker!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

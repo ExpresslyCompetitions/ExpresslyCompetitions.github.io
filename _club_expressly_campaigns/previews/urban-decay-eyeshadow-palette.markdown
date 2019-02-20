@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Urban Decay Distorsion Eyeshadow Palette"
 competition-description: "<p>At Urban Decay, they have something for everybody. With\
   \ such an amazing range of products, here we are giving you the chance of winning\
-  \ their bestseller Distortion Eyeshadow Pallete.</p>\r\n<p>Want to create mesmerising\
-  \ make-up looks? with Urban Decay you can.</p>"
+  \ their bestseller Distortion Eyeshadow Pallete.</p>\n<p>Want to create mesmerising\
+  \ make-up looks? with Urban Decay you can.</p>\n"
 hero-header: "Win Urban Decay Distorsion Eyeshadow Palette"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-47220642-00c2-4cf6-81c6-8407c415e733.jpg"
@@ -24,10 +24,10 @@ section1-content: "<p>Urban Decay’s high-impact Distortion Eyeshadow Palette f
   \ a vibrant cocktail of 15 intensely pigmented shadows, in both matte and shimmer\
   \ finishes, this covetable selection of jewel tones will take you seamlessly from\
   \ the day to the evening.</p> <p>Encased in a holographic faceted compact, it’s\
-  \ great for both use at home and on-the-go.</p>\r\n<p>Feel pretty with Urban Decay!</p>"
+  \ great for both use at home and on-the-go.</p>\n<p>Feel pretty with Urban Decay!</p>\n"
 entry-title: "Win Urban Decay Distorsion Eyeshadow Palette"
-entry-content: "Enter the draw to win Urban Decay Distorsion Eyeshadow Palette by\
-  \ completing the form below before 23:59 on 7th of November 2018."
+entry-content: "<p>Enter the draw to win Urban Decay Distorsion Eyeshadow Palette\
+  \ by completing the form below before 23:59 on 7th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Urban Decay Distorsion Eyeshadow Palette"
 special-conditions: "Multiple entries are allowed up to one every day."

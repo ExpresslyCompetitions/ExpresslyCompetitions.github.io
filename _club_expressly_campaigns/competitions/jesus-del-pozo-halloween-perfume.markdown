@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Jesus del Pozo Halloween perfume!"
 competition-description: "<p>Following its success of Duende, Jesus del Pozo has done\
   \ it again and has created the amazing aqua-floral romantic perfume to enhance the\
-  \ mystery of a woman and her feelings: Halloween.</p>\r\n<p>Want to stand out anywhere\
-  \ you go? Enter below for a chance to win!</p>"
+  \ mystery of a woman and her feelings: Halloween.</p>\n<p>Want to stand out anywhere\
+  \ you go? Enter below for a chance to win!</p>\n"
 hero-header: "Win Jesus del Pozo Halloween perfume!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a701be83-cf54-4a99-af5a-44d61c68ed98.jpg"
@@ -24,11 +24,11 @@ section1-content: "<p>This fragrance is dedicated to a mysterious woman, a vamp.
   \ and powdery violet, green lime and green banana notes open this romantic composition.\
   \ The heart ticks in the rhythm of Casablanca magnolia, violet notes, seductive\
   \ tuberose spiced with pepper notes.Halloween brings both mystery and romance together\
-  \ for you in a bottle.</p>\r\n<p>Enter the form below for a chance to win the incredible\
-  \ new perfume of Jesus del Pozo: Halloween and get ready to stand out anywhere now!</p>"
+  \ for you in a bottle.</p>\n<p>Enter the form below for a chance to win the incredible\
+  \ new perfume of Jesus del Pozo: Halloween and get ready to stand out anywhere now!</p>\n"
 entry-title: "Win Jesus del Pozo Halloween perfume!"
-entry-content: "Enter the draw to win Jesus del Pozo Halloween perfume by completing\
-  \ the form below before 23:59 on 1st of December 2018."
+entry-content: "<p>Enter the draw to win Jesus del Pozo Halloween perfume by completing\
+  \ the form below before 23:59 on 1st of December 2018.</p>\n"
 has-winner: false
 prize-description: "Jesus del Pozo Halloween perfume."
 special-conditions: "Multiple entries are allowed up to one every day."

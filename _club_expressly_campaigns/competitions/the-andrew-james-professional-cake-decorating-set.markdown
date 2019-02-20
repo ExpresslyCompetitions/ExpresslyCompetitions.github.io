@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Andrew James Cake Decorating Set!"
 competition-description: "<p>Who doesn’t love cakes? They are perfect for any occasion\
   \ or celebration! Get ready to create beautifully decorated cakes and bakes with\
-  \ the Andrew James Professional Cake Decorating Set.</p>\r\n<p>Get your inner chef\
-  \ side and click below for a chance to win!</p>"
+  \ the Andrew James Professional Cake Decorating Set.</p>\n<p>Get your inner chef\
+  \ side and click below for a chance to win!</p>\n"
 hero-header: "Win Andrew James Cake Decorating Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5cd5bd1d-3517-4fe3-b798-64c075542819.jpg"
@@ -25,13 +25,13 @@ section1-content: "</p>The Andrew James Cake Decorating Set contains everything 
   \ biscuits and pastries. 8 fondant icing tools, a full range of piping nozzles with\
   \ 2 reusable bags, a decorating turntable and embossed rolling pin ideal for creating\
   \ beautiful buttercream and frosting flowers on the top of your cupcakes, or for\
-  \ making stylish swirls, swags and spirals on larger cakes!</p>\r\n<p>We are giving\
+  \ making stylish swirls, swags and spirals on larger cakes!</p>\n<p>We are giving\
   \ away the Andrew James Professional Cake Decorating Set to one of our readers!\
   \ If you are looking forward to sharing your delicious and greatest creations, enter\
-  \ the form below and it could be yours!</p>"
+  \ the form below and it could be yours!</p>\n"
 entry-title: "Win Andrew James Cake Decorating Set!"
-entry-content: "Enter the draw to win the Andrew James Professional Cake Decorating\
-  \ Set by completing the form below before 23:59 on 4th of November 2018."
+entry-content: "<p>Enter the draw to win the Andrew James Professional Cake Decorating\
+  \ Set by completing the form below before 23:59 on 4th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Andrew James Cake Decorating Set!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

@@ -11,9 +11,9 @@ title: "Win Deliciously Ella With Friends book"
 competition-description: "<p>Ella wants to prepare delicious food for you, your friends\
   \ and family, whatever the occasion. Whether you are planning a laid-back brunch,\
   \ a last-minute lunch or a fancy supper, she has it covered with hearty and filling\
-  \ recipes that celebrate her natural eating philosophy</p>\r\n<p>We take of you\
-  \ so don’t miss the chance of winning this amazing go-to book and start cooking\
-  \ healthier food choices with Ella.</p>"
+  \ recipes that celebrate her natural eating philosophy</p>\n<p>We take of you so\
+  \ don’t miss the chance of winning this amazing go-to book and start cooking healthier\
+  \ food choices with Ella.</p>\n"
 hero-header: "Win Deliciously Ella With Friends book"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-31c551bc-1f60-407d-a1f7-94f84c6e19da.jpg"
@@ -25,11 +25,11 @@ bg-image-first: "https://assets.expresslyapp.com/asset-89266954-6433-4e9c-8996-b
 section1-content: "<p>No more wondering whether certain dishes go together, Ella makes\
   \ life simple with her menus. With ideas and inspiration for every foodie occasion,\
   \ including cosy nights in for one, easy kitchen suppers, flavoursome feasts, birthday\
-  \ parties, picnics and mocktails and cocktails.</p>\r\n<p>Treat your friends with\
-  \ a delicious meal thanks to Ella.</p>"
+  \ parties, picnics and mocktails and cocktails.</p>\n<p>Treat your friends with\
+  \ a delicious meal thanks to Ella.</p>\n"
 entry-title: "Win Deliciously Ella With Friends book"
-entry-content: "Enter the draw to Win Deliciously Ella With Friends book\r\nby completing\
-  \ the form below before 23:59 on 27th of October 2018."
+entry-content: "<p>Enter the draw to Win Deliciously Ella With Friends book\nby completing\
+  \ the form below before 23:59 on 27th of October 2018.</p>\n"
 has-winner: false
 prize-description: "Deliciously Ella With Friends book"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nYou can\

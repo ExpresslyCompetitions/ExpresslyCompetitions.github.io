@@ -11,8 +11,8 @@ title: "Win Springsteen On Broadway CD!"
 competition-description: "<p>Springsteen On Broadway is the new album of music and\
   \ stories by Bruce Springsteen, and the soundtrack to the Netflix film of the same\
   \ name. The album is the complete live performance of the show, and available physically\
-  \ as a 2 CD set, or on vinyl as a 4 LP set, as well as digitally.</p>\r\n<p>Want\
-  \ it to be yours? Click below for a chance to win!</p>"
+  \ as a 2 CD set, or on vinyl as a 4 LP set, as well as digitally.</p>\n<p>Want it\
+  \ to be yours? Click below for a chance to win!</p>\n"
 hero-header: "Win Springsteen On Broadway CD!Win Springsteen On Broadway CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-69b5682c-e6fb-497f-ab46-99d1a91e304b.jpg"
@@ -26,16 +26,16 @@ section1-content: "<p>Springsteen On Broadway is the solo acoustic performance w
   \ Springsteen. Based on his worldwide best-selling autobiography 'Born to Run,'\
   \ SPRINGSTEEN ON BROADWAY is a unique evening with Bruce, his guitar, a piano, and\
   \ his very personal stories. In addition, the show features a special appearance\
-  \ by Patti Scialfa.</p> \r\n<p>Bruce Springsteen's historic sold-out series of performances\
+  \ by Patti Scialfa.</p> \n<p>Bruce Springsteen's historic sold-out series of performances\
   \ of his one man show began previews on October 3, 2017 and officially opened October\
   \ 12, 2017. The show was extended three times after its initial eight-week run,\
   \ and ran on Broadway at The Walter Kerr Theatre through December 15, 2018, bringing\
-  \ the total number of performances to 236.</p>\r\n<p>If you can’t wait to have it,\
+  \ the total number of performances to 236.</p>\n<p>If you can’t wait to have it,\
   \ enter the form below for a chance to win and get ready to listen to Springsteen\
-  \ On Broadway CD anywhere now!"
+  \ On Broadway CD anywhere now!\n"
 entry-title: "Win Springsteen On Broadway CD!"
-entry-content: "Enter the draw to win Springsteen On Broadway CD by completing the\
-  \ form below before 24th of January 2019."
+entry-content: "<p>Enter the draw to win Springsteen On Broadway CD by completing\
+  \ the form below before 24th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Springsteen On Broadway CD."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/bruce-springsteen-on-broadway-cd\r\

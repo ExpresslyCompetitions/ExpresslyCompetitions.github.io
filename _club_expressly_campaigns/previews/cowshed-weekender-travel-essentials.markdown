@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win The Weekender spa-inspired travel essentials from Cowshed"
 competition-description: "<p>We want you to enjoy your holidays in the best possible\
   \ way… in order to make your retreat more special we want to give you The Weekender\
-  \  spa-inspired travel essentials from Cowshed.</p>\r\n<p>Stay healthy, stay beautiful\
-  \ with Cowshed.</p>"
+  \  spa-inspired travel essentials from Cowshed.</p>\n<p>Stay healthy, stay beautiful\
+  \ with Cowshed.</p>\n"
 hero-header: "Win The Weekender spa-inspired travel essentials from Cowshed"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-8e655771-6c27-4861-9ea9-a2e178150f49.jpg"
@@ -22,14 +22,14 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-e2537016-e99f-42dd-9205-f7
 bg-image-first: "https://assets.expresslyapp.com/asset-93179e2a-a547-4afc-9e22-4619b86113e7.jpg"
 section1-content: "</p>The Weekender from British label Cowshed is designed to make\
   \ your retreat all the more special, this handy kit of minis includes all the products\
-  \ you need to get a spa-inspired experience in your own home.</p>\r\n<p>With everything\
+  \ you need to get a spa-inspired experience in your own home.</p>\n<p>With everything\
   \ from earplugs to deodorant, your body is in good, cruelty-free hands. Arriving\
-  \ in a handy pouch, it’s ready to pack up and go.</p> \r\n<p>Think no more and don’\
+  \ in a handy pouch, it’s ready to pack up and go.</p> \n<p>Think no more and don’\
   t miss out on this fantastic opportunity to win The Weekender kit from Cowshed.’\
-  You time’ is definitely due.</p>"
+  You time’ is definitely due.</p>\n"
 entry-title: "Win The Weekender spa-inspired travel essentials from Cowshed"
-entry-content: "Enter the draw to win the Weekender spa-inspired travel essentials\
-  \ from Cowshed by completing the form below before 23:59 on 7th of November 2018."
+entry-content: "<p>Enter the draw to win the Weekender spa-inspired travel essentials\
+  \ from Cowshed by completing the form below before 23:59 on 7th of November 2018.</p>\n"
 has-winner: false
 prize-description: "The Weekender spa-inspired travel essentials from Cowshed"
 special-conditions: "Multiple entries are allowed up to one every day."

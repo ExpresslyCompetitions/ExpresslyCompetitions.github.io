@@ -11,8 +11,8 @@ title: "Win Rod Stewart Blood Red Roses CD!"
 competition-description: "<p>We have in our hands the deeply personal collection of\
   \ recently-written Stewart originals, with the added bonus of three superb new covers:\
   \ Blood Red Roses CD, a great bunch of songs presented, with a winning flourish,\
-  \ in Stewart’s unmistakable style.</a> \r\n<p>Are you Rod’s biggest fan? Click below\
-  \ for a chance to win!</p>"
+  \ in Stewart’s unmistakable style.</a> \n<p>Are you Rod’s biggest fan? Click below\
+  \ for a chance to win!</p>\n"
 hero-header: "Win Rod Stewart Blood Red Roses CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-69261ce4-0539-4d75-bf92-8dbed147ba77.jpg"
@@ -24,15 +24,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-e86c9d97-6712-425f-8772-4
 section1-content: "<p>We are more than familiar with Rod Stewart’s singing voice,\
   \ the wonderfully warm rasp that has sound-tracked our lives. He has, of course,\
   \ put his name to more than his share of stone-cold classics: Maggie May, The Killing\
-  \ Of Georgie, You Wear It Well, I Was Only Joking…</p>\r\n<p>On Blood Red Roses,\
-  \ inspiration has returned in full and the creative juices, and songs, have been\
-  \ flowing. The new songs fearlessly address life’s thornier issues from first infatuation\
-  \ to our final words to a friend, and all the agonies and ecstasies along the way.</p>\r\
-  \n<p>Looking forward to hearing Rod’s songs? Enter the form below for a chance to\
-  \ win Rod Stewart Blood Red Roses CD and enjoy his lovely warm rasp voice anywhere!</p>"
+  \ Of Georgie, You Wear It Well, I Was Only Joking…</p>\n<p>On Blood Red Roses, inspiration\
+  \ has returned in full and the creative juices, and songs, have been flowing. The\
+  \ new songs fearlessly address life’s thornier issues from first infatuation to\
+  \ our final words to a friend, and all the agonies and ecstasies along the way.</p>\n\
+  <p>Looking forward to hearing Rod’s songs? Enter the form below for a chance to\
+  \ win Rod Stewart Blood Red Roses CD and enjoy his lovely warm rasp voice anywhere!</p>\n"
 entry-title: "Win Rod Stewart Blood Red Roses CD!"
-entry-content: "Enter the draw to win Rod Stewart Blood Red Roses by completing the\
-  \ form below before 23:59 on 26th of November 2018."
+entry-content: "<p>Enter the draw to win Rod Stewart Blood Red Roses by completing\
+  \ the form below before 23:59 on 26th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Rod Stewart Blood Red Roses CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

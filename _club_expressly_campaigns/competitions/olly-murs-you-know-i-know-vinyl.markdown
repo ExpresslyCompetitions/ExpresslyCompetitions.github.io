@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Olly Murs 'You Know, I Know' album vinyl edition!"
 competition-description: "<p>Calling all Olly Murs fans! Olly has just released his\
   \ brand new album 'You Know, I Know' and we have a copy to one of his ultimate fans\
-  \ to win! Best present for Christmas, isn't it?</p>\r\n<p>Want to listen Olly's\
-  \ new hits? Click below for a chance to win!</p>"
+  \ to win! Best present for Christmas, isn't it?</p>\n<p>Want to listen Olly's new\
+  \ hits? Click below for a chance to win!</p>\n"
 hero-header: "Win Olly Murs 'You Know, I Know' album vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-321127bc-0cb7-4f2e-b846-f0e9aebf5238.jpg"
@@ -22,17 +22,17 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-c6924196-1a8d-433a-8bfc-b8
 bg-image-first: "https://assets.expresslyapp.com/asset-17d05b2e-33ac-429a-9ab8-6604d91f1a0e.jpg"
 section1-content: "<p>Following the release of his swaggering new single ‘Moves’ featuring\
   \ Snoop Dogg, Olly Murs returns with his dazzling new album ‘You Know I Know’, out\
-  \ now on RCA Records.</p> \r\n<p>‘You Know I Know’ is a landmark release for Olly\
+  \ now on RCA Records.</p> \n<p>‘You Know I Know’ is a landmark release for Olly\
   \ Murs who celebrates a decade at the top with this, his sixth album, two discs\
   \ that feature a brand new album and a sparkling hits collection of songs everyone\
-  \ knows. “And the other album is songs only I know,” Olly says. “For now.”</p> \r\
-  \n<p>Highlights include the glorious ‘Love Me Again’, ‘Feel The Same’ featuring\
-  \ Nile Rodgers on guitar, and the title track featuring Shaggy.</p>\r\n<p>If you\
-  \ want to listen Olly's brand new album, enter the form below for a chance to win\
-  \ it! Good luck!</p>"
+  \ knows. “And the other album is songs only I know,” Olly says. “For now.”</p> \n\
+  <p>Highlights include the glorious ‘Love Me Again’, ‘Feel The Same’ featuring Nile\
+  \ Rodgers on guitar, and the title track featuring Shaggy.</p>\n<p>If you want to\
+  \ listen Olly's brand new album, enter the form below for a chance to win it! Good\
+  \ luck!</p>\n"
 entry-title: "Win Olly Murs 'You Know, I Know' album vinyl edition!"
-entry-content: "Enter the draw to win Olly Murs 'You Know, I Know' album vinyl edition\r\
-  \nby completing the form below before 23:59 on 13th of December 2018."
+entry-content: "<p>Enter the draw to win Olly Murs 'You Know, I Know' album vinyl\
+  \ edition\nby completing the form below before 23:59 on 13th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Simara B. who won Olly Murs brand new album: 'You\
   \ Know, I Know' on vinyl edition!"

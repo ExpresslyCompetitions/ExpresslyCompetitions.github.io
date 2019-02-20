@@ -12,9 +12,8 @@ competition-description: "<p>OPI has revolutionised the nail industry with their
   \ bottles, superior product quality, and unforgettable and fun shade names. They\
   \ have done it again and to celebrate the holidays they have created a limited edition\
   \ colors inspired by Disney's \"The Nutcracker & the Four Realms\" in OPI's '18\
-  \ Holiday Collection Infinite Shine Mini 12- Pack!</p>\r\n<p>If you believe that\
-  \ there’s no moment in life that colour can’t tackle.. enter below for a chance\
-  \ to win.</p>"
+  \ Holiday Collection Infinite Shine Mini 12- Pack!</p>\n<p>If you believe that there’\
+  s no moment in life that colour can’t tackle.. enter below for a chance to win.</p>\n"
 hero-header: "Win OPI Limited Edition Nutcracker Collection Infinite Shine"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-62758dc3-b98f-479f-aa81-c4c7bed9dd39.jpg"
@@ -26,15 +25,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-7e5ab127-6b5c-483e-a3bd-c
 section1-content: "<p>This holiday, OPI is travelling through the four realms! In\
   \ collaboration with Disney’s The Nutcracker and the Four Realms, we present to\
   \ you 12 new festive nail polish colours and 3 perfectly coordinating glitter shades\
-  \ that are sure to be on everyone’s wish list.</p>\r\n<p>Inspired by the drama and\
+  \ that are sure to be on everyone’s wish list.</p>\n<p>Inspired by the drama and\
   \ visuals of the film, this collection has something for everyone from light, wintry\
   \ shades to rich, moody colours- all of which are available in our Nail Lacquer,\
-  \ Infinite Shine, and GelColour formulations!</p>\r\n<p>They’re limited edition,\
-  \ so enter the form below for a chance to win and get ready to stand out anywhere\
-  \ you go!</p>"
+  \ Infinite Shine, and GelColour formulations!</p>\n<p>They’re limited edition, so\
+  \ enter the form below for a chance to win and get ready to stand out anywhere you\
+  \ go!</p>\n"
 entry-title: "Win OPI Limited Edition Nutcracker Collection Infinite Shine"
-entry-content: "Enter the draw to win OPI Limited Edition Nutcracker Collection Infinite\
-  \ Shine by completing the form below before 23:59 on 7th of January 2018."
+entry-content: "<p>Enter the draw to win OPI Limited Edition Nutcracker Collection\
+  \ Infinite Shine by completing the form below before 23:59 on 7th of January 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Renee K. who won the OPI Limited Edition Nutcracker\
   \ Collection Infinite Shine!"

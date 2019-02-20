@@ -13,7 +13,7 @@ competition-description: "<p>A deep-sea submersible filled with an international
   \ a massive shark previously thought to be extinct. With time running out, expert\
   \ deep sea rescue diver Jonas Taylor (Jason Statham) is recruited by a visionary\
   \ Chinese oceanographer (Winston Chao) to save the crew—and the ocean itself—from\
-  \ this unstoppable threat: a pre-historic 75-foot-long shark known as the Megalodon.</p>"
+  \ this unstoppable threat: a pre-historic 75-foot-long shark known as the Megalodon.</p>\n"
 hero-header: "Win The Meg on Blu-Ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d6564564-c9f4-48f4-94ac-9e77ec211fdb.jpg"
@@ -25,14 +25,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-93aa3623-6efc-4fe3-afcf-f
 section1-content: "<p>Rounding out the international main cast of \"The Meg\" are\
   \ Rainn Wilson (TV's \"The Office,\" \"Super\"), Ruby Rose (\"xXx: Return of Xander\
   \ Cage,\" TV's \"Orange is the New Black\"), Winston Chao (\"Skiptrace,\" “Kabali”\
-  ),… and many more amazing character you won’t want to miss in this incredible movie.</p>\r\
-  \n<p>Could the Carcharodon Megalodon - the largest marine predator that ever existed\
+  ),… and many more amazing character you won’t want to miss in this incredible movie.</p>\n\
+  <p>Could the Carcharodon Megalodon - the largest marine predator that ever existed\
   \ - still be alive ... and on the hunt? If you want to guess it yourself, think\
   \ no more and enter the form below for a chance to win it and get your weekend sorted\
-  \ now! </p>"
+  \ now! </p>\n"
 entry-title: "Win The Meg on Blu-Ray!"
-entry-content: "Enter the draw to win The Meg on Blu-Ray by completing the form below\
-  \ before 23:59 EST on 13th of January 2019."
+entry-content: "<p>Enter the draw to win The Meg on Blu-Ray by completing the form\
+  \ below before 23:59 EST on 13th of January 2019.</p>\n"
 has-winner: false
 prize-description: "The Meg on Blu-Ray."
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/the-meg-blu-ray\r\

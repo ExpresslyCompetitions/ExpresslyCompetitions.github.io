@@ -11,8 +11,8 @@ title: "Win Andrew James Fondue Set for Cheese or Chocolate!"
 competition-description: "<p>If you had to choose between cheese or chocolate…? I\
   \ guess it’s a hard decision, but we have the answer, we are giving away an amazing\
   \ Fondue Set from Andrew James to one of our members, perfect for traditional cheese\
-  \ or any kind of chocolates!</p>\r\n<p>Ready to indulge yourself in chocolate or\
-  \ cheese? Click below for a chance to win!</p>"
+  \ or any kind of chocolates!</p>\n<p>Ready to indulge yourself in chocolate or cheese?\
+  \ Click below for a chance to win!</p>\n"
 hero-header: "Win Andrew James Fondue Set for Cheese or Chocolate!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1858e3b0-4328-4775-a251-9be92ab1c5d2.jpg"
@@ -24,14 +24,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-17ea81d1-996d-44bc-b44f-f
 section1-content: "<p>The Andrew James Fondue Set is perfect for traditional cheese\
   \ or sweet chocolate fondues. The cast iron fondue pot sits on a tripod stand which\
   \ has a 22cm plate to catch any drips and prevent heat damage and scorch marks on\
-  \ your table.</p>\r\n<p>With 8 fondue forks you can share the fun with friends and\
+  \ your table.</p>\n<p>With 8 fondue forks you can share the fun with friends and\
   \ family and cook a variety of fondue dishes with either traditional cheese or chocolate,\
-  \ or use it to dip various meat, vegetarian or even vegan dishes.</p>\r\n<p>Get\
-  \ ready to spend quality time with your loved ones around this incredible fondue!\
-  \ Enter the form below for a chance to win and enjoy delicious cheeses and chocolates!</p>"
+  \ or use it to dip various meat, vegetarian or even vegan dishes.</p>\n<p>Get ready\
+  \ to spend quality time with your loved ones around this incredible fondue! Enter\
+  \ the form below for a chance to win and enjoy delicious cheeses and chocolates!</p>\n"
 entry-title: "Win Andrew James Fondue Set for Cheese or Chocolate!"
-entry-content: "Enter the draw to win Andrew James Fondue Set for Cheese or Chocolate\
-  \ by completing the form below before 23:59 on 17th of February 2019."
+entry-content: "<p>Enter the draw to win Andrew James Fondue Set for Cheese or Chocolate\
+  \ by completing the form below before 23:59 on 17th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Andrew James Fondue Set for Cheese or Chocolate."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

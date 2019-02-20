@@ -12,7 +12,7 @@ competition-description: "<p>Have you ever had the headset cord drop off because
   \ moving the phone? Are you annoyed with the signal of wireless bluetooth earbuds\
   \ on and off? Search no further, EnacFire E18 wireless earbuds, is the right product\
   \ for you!</p><p>We have our hands on the coolest wireless headphones of the moment\
-  \ for YOU!</p>\r\n<p>Want them? Click below for a chance to win!</p>"
+  \ for YOU!</p>\n<p>Want them? Click below for a chance to win!</p>\n"
 hero-header: "Win EnacFire E18 Wireless Headphones!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-413e92ce-a75c-41be-8646-1cb61d784a9d.jpg"
@@ -25,13 +25,13 @@ section1-content: "</p>At EnacFire they are committed to provide people with the
   \ wireless audio products and build a totally wireless lifestyle! You don’t need\
   \ any skills to use E18 true wireless earbuds. They are easy to connect as they\
   \ are available for a connection whenever they are on unlike the traditional earbuds\
-  \ which you have to click the power button to have them ready for connection.</p>\r\
-  \n<p>A true and revolutionary wireless experience! If you can’t wait to listen your\
+  \ which you have to click the power button to have them ready for connection.</p>\n\
+  <p>A true and revolutionary wireless experience! If you can’t wait to listen your\
   \ favourite tunes anywhere, enter the form below for a chance to win and they could\
-  \ be yours!</p>"
+  \ be yours!</p>\n"
 entry-title: "Win EnacFire E18 Wireless Headphones!"
-entry-content: "Enter the draw to win EnacFire E18 Wireless Headphones by completing\
-  \ the form below before 23:59 on 17th of November 2018."
+entry-content: "<p>Enter the draw to win EnacFire E18 Wireless Headphones by completing\
+  \ the form below before 23:59 on 17th of November 2018.</p>\n"
 has-winner: false
 prize-description: "EnacFire E18 Wireless Headphones.\r\n\r\nAvailable for: iPhone\
   \ X 8 7 7plus 6 6 plus 6s 6s plus 5s 5c 5 SE ipod ipad iPhone; iPad Pro,iPad Air\

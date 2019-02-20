@@ -10,9 +10,8 @@ has_entry_page: true
 title: "Win Friends Trivial Pursuit Quiz Game!"
 competition-description: "<p>If you are a true Friends fan, you need to test your\
   \ knowledge with the Friends Trivial Pursuit game! We are giving away one of the\
-  \ most fun and hilarious boarding games: The Friends Trivial Pursuit Quiz Game!</p>\r\
-  \n<p>Do you know everything about this epic tv show? Click below for a chance to\
-  \ win!</p>"
+  \ most fun and hilarious boarding games: The Friends Trivial Pursuit Quiz Game!</p>\n\
+  <p>Do you know everything about this epic tv show? Click below for a chance to win!</p>\n"
 hero-header: "Win Friends Trivial Pursuit Quiz Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f7bd04bc-c8b2-40f2-97a8-bb96e80bc186.jpg"
@@ -25,13 +24,12 @@ section1-content: "<p>This edition contains 600 questions based on all your favo
   \ moments from Ross and Rachel’s Vegas wedding, to the classic Holiday Armadillo.\
   \ Test your trivia from Season 1 right through to Season 10 and prepare to be totally\
   \ bamboozled. The game is handy for any Friends fan on the go, requiring no board\
-  \ and an easy to carry around in its bitesize wedge case.</p>\r\n<p>Fascinating,\
-  \ puzzling and captivating questions that will test your knowledge and memory! Think\
-  \ no more and enter the form below for a chance to win this fun game now!</p>\r\n\
-  <p>Good luck!</p>"
+  \ and an easy to carry around in its bitesize wedge case.</p>\n<p>Fascinating, puzzling\
+  \ and captivating questions that will test your knowledge and memory! Think no more\
+  \ and enter the form below for a chance to win this fun game now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Friends Trivial Pursuit Quiz Game!"
-entry-content: "Enter the draw to win Friends Trivial Pursuit Quiz Game by completing\
-  \ the form below before 23:59 on 19th of November 2018."
+entry-content: "<p>Enter the draw to win Friends Trivial Pursuit Quiz Game by completing\
+  \ the form below before 23:59 on 19th of November 2018.</p>\n"
 has-winner: false
 prize-description: "Friends Trivial Pursuit Quiz Game"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
