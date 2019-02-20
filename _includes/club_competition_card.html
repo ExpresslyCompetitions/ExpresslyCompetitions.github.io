@@ -15,6 +15,7 @@
      data-closes="{{ include.item.end-date | date: '%Y%m%d' }}"
      data-opens="{{ include.item.date | date_to_xmlschema }}"
      data-expiration="{{ include.item.end-date | date_to_xmlschema }}"
+     data-type="{{include.item.type | slugify}}"
      data-category="{{include.item.category | slugify}}">
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>
     <div class="row">

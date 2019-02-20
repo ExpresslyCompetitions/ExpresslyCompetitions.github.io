@@ -72,7 +72,7 @@
                     }
                 }
 
-                if(e && e.dataset.opens) {
+                if(e && e.dataset.opens && e.dataset.type !== 'preview') {
                     var posted = new Date(e.dataset.opens);
                     var diff = posted - new Date();
                     if (diff > 0) {
