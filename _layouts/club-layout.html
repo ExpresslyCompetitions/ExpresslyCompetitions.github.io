@@ -26,9 +26,9 @@
     {% endif %}
 
     {% if page.css %}
-    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=19"/>
+    <link rel="stylesheet" href="{{club_base}}/css/{{page.css}}?cb=90"/>
     {% else %}
-    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=87"/>
+    <link rel="stylesheet" href="{{club_base}}/css/style.css?cb=90"/>
     {% endif %}
     {% if page.extra-css and page.extra-css != "" %}
     <link rel="stylesheet" href="{{club_base}}/css/{{page.extra-css}}?cb=1"/>
@@ -69,6 +69,17 @@
                     var entryCount = entriesMap[cuid].entryCount;
                     if (entryCount) {
                         e.setAttribute('data-entry-count', entryCount);
+                    }
+                }
+
+                if(e && e.dataset.opens) {
+                    var posted = new Date(e.dataset.opens);
+                    var diff = posted - new Date();
+                    if (diff > 0) {
+                        e.className += ' not-open ';
+                        setTimeout(function() {
+                            e.className = e.className.replace(' not-open ', ' ')
+                        }, diff);
                     }
                 }
             }

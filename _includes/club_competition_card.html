@@ -13,6 +13,7 @@
      data-competition-toggle="{{include.item.campaign-uuid}}"
      data-posted="{{ include.item.date | date: '%Y%m%d' }}"
      data-closes="{{ include.item.end-date | date: '%Y%m%d' }}"
+     data-opens="{{ include.item.date | date_to_xmlschema }}"
      data-expiration="{{ include.item.end-date | date_to_xmlschema }}"
      data-category="{{include.item.category | slugify}}">
     <script>entrySet('eid-{{include.item.campaign-uuid}}', '{{include.item.campaign-uuid}}');</script>

@@ -4,6 +4,7 @@ email: marc@buyexpressly.com
 description: Expressly Competitions
 baseurl: ""
 url: "https://win.buyexpressly.com"
+future: true
 
 # Build settings
 markdown: kramdown
@@ -12,30 +13,30 @@ sass:
     sass_dir: /_scss
 
 collections:
-  club_cyclingweekly_campaigns:
-    output: true
-    permalink: /cyclingweekly/club/:path
-  club_cyclingweekly_pages:
-    output: true
-    permalink: /cyclingweekly/club/:name
+#  club_cyclingweekly_campaigns:
+#    output: true
+#    permalink: /cyclingweekly/club/:path
+#  club_cyclingweekly_pages:
+#    output: true
+#    permalink: /cyclingweekly/club/:name
   club_expressly_campaigns:
     output: true
     permalink: /expressly-club/:path
   club_expressly_pages:
     output: true
     permalink: /expressly-club/:name
-  club_nme_campaigns:
-    output: true
-    permalink: /nme/club/:path
-  club_nme_pages:
-    output: true
-    permalink: /nme/club/:name
-  club_trustedreviews_campaigns:
-    output: true
-    permalink: /trustedreviews/club/:path
-  club_trustedreviews_pages:
-    output: true
-    permalink: /trustedreviews/club/:name
+#  club_nme_campaigns:
+#    output: true
+#    permalink: /nme/club/:path
+#  club_nme_pages:
+#    output: true
+#    permalink: /nme/club/:name
+#  club_trustedreviews_campaigns:
+#    output: true
+#    permalink: /trustedreviews/club/:path
+#  club_trustedreviews_pages:
+#    output: true
+#    permalink: /trustedreviews/club/:name
 
 clubs:
   cyclingweekly_club: &CYCLINGWEEKLY_CLUB
