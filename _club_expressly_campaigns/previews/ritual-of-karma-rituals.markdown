@@ -37,7 +37,7 @@ section3-content: "<p>If you want to immerse yourself in the positive vibes of s
   \n<p>Good luck!</p>"
 entry-title: "Win The Ritual of Karma from Rituals!"
 entry-content: "Enter the draw to win The Ritual of Karma from Rituals by completing\
-  \ the form below before **23:59 on 20th April 2019**."
+  \ the form below before **23:59 on 20th April 2019**"
 has-winner: false
 prize-description: "The Ritual of Karma from Rituals."
 special-conditions: "Multiple entries are allowed up to one every day."
