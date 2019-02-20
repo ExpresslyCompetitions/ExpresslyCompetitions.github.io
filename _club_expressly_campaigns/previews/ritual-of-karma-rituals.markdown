@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win The Ritual of Karma from Rituals!"
-competition-description: "According to ancient Hindu belief, living with good intent\
+competition-description: "<p>According to ancient Hindu belief, living with good intent\
   \ attracts good karma. Say good words, think good thoughts, do good deeds and keep\
   \ the circle positive because ultimately, you reap what you sow. The Ritual of Karma\
-  \ collect... is what you're looking for. Click below for a chance to win."
+  \ collect... is what you're looking for. Click below for a chance to win.</p>\n"
 hero-header: "Win The Ritual of Karma from Rituals!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-bd623ca6-43c4-4735-a2e8-a574991ffe0d.jpg"
@@ -22,22 +22,22 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-3276b2b9-8e32-4297-ba32-ab
 bg-image-first: "https://assets.expresslyapp.com/asset-4b1f6542-b075-48b6-9696-01fc82e2ef12.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-e2cee6dd-b20c-4e2d-a7ca-9a124a54896f.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-35f18408-4623-4999-8dca-54f95810403c.jpg"
-section1-content: "The Ritual of Karma collection helps you immerse yourself in the\
-  \ positive vibes of summer all year round, with luxury fragrant products designed\
+section1-content: "<p>The Ritual of Karma collection helps you immerse yourself in\
+  \ the positive vibes of summer all year round, with luxury fragrant products designed\
   \ to instantly enhance your mood. Take good care of yourself, practice soulfulness\
   \ and pay attention to the little things. In the end it will find its way back to\
-  \ you, by means of happiness. Be it for body, mind or soul."
-section2-content: "This wonderful gift pack is the perfect present for a friend or\
-  \ family member or for treating yourself! Contains a shower foam, shower scrub,\
+  \ you, by means of happiness. Be it for body, mind or soul.</p>\n"
+section2-content: "<p>This wonderful gift pack is the perfect present for a friend\
+  \ or family member or for treating yourself! Contains a shower foam, shower scrub,\
   \ body cream and bed and body spray. Experience the ultimate summer sensation with\
   \ these soothing products based on the floral aroma of Holy Lotus and Organic White\
-  \ Tea."
+  \ Tea.</p>\n"
 section3-content: "<p>If you want to immerse yourself in the positive vibes of summer\
-  \ all year round... enter the form below for a chance to win this amazing gift now.</p>\r\
-  \n<p>Good luck!</p>"
+  \ all year round... enter the form below for a chance to win this amazing gift now.</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win The Ritual of Karma from Rituals!"
-entry-content: "Enter the draw to win The Ritual of Karma from Rituals by completing\
-  \ the form below before **23:59 on 20th April 2019**"
+entry-content: "<p>Enter the draw to win The Ritual of Karma from Rituals by completing\
+  \ the form below before <strong>23:59 on 20th April 2019</strong>.</p>\n"
 has-winner: false
 prize-description: "The Ritual of Karma from Rituals."
 special-conditions: "Multiple entries are allowed up to one every day."
