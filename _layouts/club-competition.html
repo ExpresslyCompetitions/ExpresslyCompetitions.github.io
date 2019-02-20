@@ -97,6 +97,8 @@ active: selected-competitions
 
 <div class="container" id="eid"
      data-competition-toggle="{{page.campaign-uuid}}"
+     data-type="{{page.type | slugify}}"
+     data-opens="{{ page.date | date_to_xmlschema }}"
      data-expiration="{{page.end-date | date_to_xmlschema}}">
     <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
     <section class="contact row">
