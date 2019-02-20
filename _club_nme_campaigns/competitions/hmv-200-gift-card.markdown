@@ -11,7 +11,7 @@ title: "Win a £200 hmv gift card!"
 competition-description: "<p>Want Ariana Grande’s new album? or maybe Florence and\
   \ the Machine’s limited edition Vinyl? If so… we have great news for YOU! We’re\
   \ giving away a fantastic £200 hmv gift card for you to spend and enjoy the best\
-  \ music, movies & more!</p>\r\n<p>Do you want it? Click below for a chance to win!</p>"
+  \ music, movies & more!</p>\n<p>Do you want it? Click below for a chance to win!</p>\n"
 hero-header: "Win a £200 hmv gift card!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9729e78d-6d11-4011-a542-96bebc2a2a51.jpg"
@@ -25,16 +25,16 @@ section1-content: "<p>hmv is a leading specialist retailer of music, film, games
   \ technology products, with over 120 stores around the UK, offering a wide selection\
   \ of new release and catalogue titles. hmv make music and entertainment available\
   \ to its customers in every format imaginable: from sheet music and the earliest\
-  \ gramophone 78s to today’s digital downloads!</p>\r\n<p> And of course, notably\
-  \ also taken in vinyl singles and albums, cassettes and CDs as well as film and\
-  \ TV content on VHS, DVD & Blu-ray and games titles across all platforms!</p>"
+  \ gramophone 78s to today’s digital downloads!</p>\n<p> And of course, notably also\
+  \ taken in vinyl singles and albums, cassettes and CDs as well as film and TV content\
+  \ on VHS, DVD & Blu-ray and games titles across all platforms!</p>\n"
 section2-content: "<p>We want YOU to take advantage of all their music and entertainment\
   \ that is why we've managed to get our hands on a £200 hmv gift card for you to\
-  \ spend and enjoy all of hmv content!</p>\r\n<p>Enter the form below and treat yourself\
-  \ with that new album you've always wanted!</p>"
+  \ spend and enjoy all of hmv content!</p>\n<p>Enter the form below and treat yourself\
+  \ with that new album you've always wanted!</p>\n"
 entry-title: "Win a £200 hmv gift card!"
-entry-content: "Enter the draw to win a a £200 hmv gift card by completing the form\
-  \ below before 23:59 on 28th July 2018."
+entry-content: "<p>Enter the draw to win a a £200 hmv gift card by completing the\
+  \ form below before 23:59 on 28th July 2018.</p>\n"
 has-winner: false
 winner-title: "CONGRATULATIONS to Natalie B. who won a £200 hmv gift card!"
 winner-banner: "https://assets.expresslyapp.com/asset-e74892e9-bb7e-4807-8860-f31d7cfe37e0.jpg"

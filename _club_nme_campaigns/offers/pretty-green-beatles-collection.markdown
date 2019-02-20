@@ -11,10 +11,10 @@ title: "Timeless style at Pretty Green"
 competition-description: "<p>Since the birth of rock 'n' roll in the late 1950s, British\
   \ street culture has been influencing fashion and music worldwide. Pretty Green\
   \ has an authenticity borne of a deep understanding of that culture and the things\
-  \ that make it relevant today.</p>\r\n<p>The brand unites people through a love\
-  \ of music and fashion. Named after a track by The Jam, Pretty Green provides simple,\
-  \ classic clothing with a modern twist.</p>\r\n<p>Check it out and don't miss out\
-  \ their 20% extra off when you spend over £150!</p>"
+  \ that make it relevant today.</p>\n<p>The brand unites people through a love of\
+  \ music and fashion. Named after a track by The Jam, Pretty Green provides simple,\
+  \ classic clothing with a modern twist.</p>\n<p>Check it out and don't miss out\
+  \ their 20% extra off when you spend over £150!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-eb0a8962-a57b-4788-9123-531e4d2c0224.jpg"
 logo-left-href: "https://www.prettygreen.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-e7a49928-dee2-457f-b60c-01e3ea9c7e04.jpg"

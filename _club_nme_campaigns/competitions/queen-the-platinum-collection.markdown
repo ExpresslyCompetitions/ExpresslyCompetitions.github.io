@@ -12,9 +12,9 @@ competition-description: "<p>We have in our hands the most comprehensive collect
   \ of Queen hits ever: The Platinum Collection: Greatest Hits I, II & III. Includes\
   \ Bohemian Rhapsody; Killer Queen; We Are the Champions; We Will Rock You; Crazy\
   \ Little Thing Called Love; Another One Bites the Dust; Under Pressure (original\
-  \ and Rah mix); You're My Best Friend; Fat Bottomed Girls , and more. 51 songs!</p>\r\
-  \n<p>If you are a Queen fan, this collection is a MUST for you. Click below for\
-  \ a chance to win.</p>"
+  \ and Rah mix); You're My Best Friend; Fat Bottomed Girls , and more. 51 songs!</p>\n\
+  <p>If you are a Queen fan, this collection is a MUST for you. Click below for a\
+  \ chance to win.</p>\n"
 hero-header: "Win Queen The Platinum Collection: Greatest Hits I, II & III"
 terms-confirmation: "QueenThePlatinumcollectionterms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-0074da88-a115-47e5-8e27-00d150532024.jpg"
@@ -29,15 +29,15 @@ section1-content: "<p>While it eschews the glammy, pre-punk hard rock of live fa
   \ long way toward documenting the true dimensions of the band's music and fame.\
   \ Some songs may not be instantly familiar to American fans because of yet another\
   \ irony: just as their U.S. fortunes waned during the punk and new wave era, the\
-  \ band was exploding into true international superstars.</p>\r\n<p>Thus, there may\
+  \ band was exploding into true international superstars.</p>\n<p>Thus, there may\
   \ be a sense of discovery here, whether of latter-day Queen material or solo work\
   \ by Brian May and Freddie Mercury, whose duet on \"Barcelona\" with diva Montserrat\
   \ Caballé transcends boundaries of both time and genre. Think no more and enter\
-  \ the form below to win this amazing collection from the amazing band: QUEEN!</>"
+  \ the form below to win this amazing collection from the amazing band: QUEEN!</>\n"
 entry-title: "Win Queen The Platinum Collection: Greatest Hits I, II & III"
-entry-content: "Enter the draw to win Queen The Platinum Collection: Greatest Hits\
-  \ I, II & III\r\n by completing the form below before 23:59 EST on 13th of January\
-  \ 2019."
+entry-content: "<p>Enter the draw to win Queen The Platinum Collection: Greatest Hits\
+  \ I, II &amp; III\nby completing the form below before 23:59 EST on 13th of January\
+  \ 2019.</p>\n"
 has-winner: false
 prize-description: "Queen The Platinum Collection: Greatest Hits I, II & III"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the Nespresso Inissia Coffee Machine"
 competition-description: "<p>Every Nespresso cup has the potential to deliver a moment\
   \ of pleasure. We want you to feel that moment and that is why we want to give you\
-  \ the Nespresso Inissia Coffe Machine.</p>\r\n<p>Want to enjoy a delicious coffee\
-  \ with Nespresso? Click below for a chance to win.</p>"
+  \ the Nespresso Inissia Coffe Machine.</p>\n<p>Want to enjoy a delicious coffee\
+  \ with Nespresso? Click below for a chance to win.</p>\n"
 hero-header: "Win the Nespresso Inissia Coffee Machine"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-813a479e-f913-4bb2-abb8-caff2985370f.jpg"
@@ -22,12 +22,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-143a2500-a4eb-409a-998c-2f
 bg-image-first: "https://assets.expresslyapp.com/asset-bd82246e-bae4-4c89-b67e-4babd4412383.jpg"
 section1-content: "<p>The Nespresso capsule system delivers exceptional taste and\
   \ unique aromas thanks to the preparation of high-quality coffees in hermetically\
-  \ sealed and recyclable aluminium capsules for coffee enjoyment at the highest level.</p>\r\
-  \n<p>Treat yourself with a delicious coffee everyday with the Nespresso Inissia\
-  \ Coffee Machine.</p>"
+  \ sealed and recyclable aluminium capsules for coffee enjoyment at the highest level.</p>\n\
+  <p>Treat yourself with a delicious coffee everyday with the Nespresso Inissia Coffee\
+  \ Machine.</p>\n"
 entry-title: "Win the Nespresso Inissia Coffee Machine."
-entry-content: "Enter the draw to win  the Nespresso Inissia Coffee Machine\r\nby\
-  \ completing the form below before 23:59 on 24th of October 2018."
+entry-content: "<p>Enter the draw to win  the Nespresso Inissia Coffee Machine\nby\
+  \ completing the form below before 23:59 on 24th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Sacha S. who won the incredible Nespresso Inissia\
   \ Coffee Machine!"

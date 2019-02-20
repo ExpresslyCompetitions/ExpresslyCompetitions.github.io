@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Heads Up! Party Game!"
 competition-description: "<p>Now you can play the outrageous party game version of\
   \ the popular app seen on The Ellen Degeneres Show: Heads Up! Party Game! thanks\
-  \ to NME AAA because we are giving away a copy to one lucky NME AAA member!</p>\r\
-  \n<p>Liking what you hear?’ Click below for a chance to win!</p>"
+  \ to NME AAA because we are giving away a copy to one lucky NME AAA member!</p>\n\
+  <p>Liking what you hear?’ Click below for a chance to win!</p>\n"
 hero-header: "Win Heads Up! Party Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1e3bc259-afe5-4951-aa0a-82205b7b89ee.jpg"
@@ -24,12 +24,12 @@ section1-content: "<p>Slip on a headband and load it with cards. Can you guess t
   \ words you’re wearing based on other players clues? Earn chips with each correct\
   \ answer. Earn the most, and you win! With six headbands and 200 cards across four\
   \ crazy categories, HEAD’S UP! is non-stop family fun for two to six players, ages\
-  \ 8 and up.</p>\r\n<p>If you’re looking to having a great night in with friends,\
-  \ this game is a MUST for YOU! Hurry up, enter the form below and you could have\
-  \ your Friday night sorted!</p>\r\n<p>Good luck!</p>"
+  \ 8 and up.</p>\n<p>If you’re looking to having a great night in with friends, this\
+  \ game is a MUST for YOU! Hurry up, enter the form below and you could have your\
+  \ Friday night sorted!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Heads Up! Party Game!"
-entry-content: "Enter the draw to win Heads Up! Party Game! by completing the form\
-  \ below before 23:59 on 24th of August 2018."
+entry-content: "<p>Enter the draw to win Heads Up! Party Game! by completing the form\
+  \ below before 23:59 on 24th of August 2018.</p>\n"
 has-winner: false
 prize-description: "Heads Up! Party Game!"
 special-conditions: "Multiple entries are allowed up to one every day."

@@ -12,8 +12,8 @@ competition-description: "<p>After it’s previous success, here we are again gi
   \ you the prizes you like the most: The Crosstour Action Camera 4K for you to make\
   \ your pictures alive! Capture all the good moments. Ideal for sports and travel\
   \ enthusiasts. You can take it to dive, climb, ride a bike, surf, etc… a totally\
-  \ MUST for you!</p>\r\n<p>Be the envy of your friends with this amazing camera.\
-  \ Click below for a chance to win.</p>"
+  \ MUST for you!</p>\n<p>Be the envy of your friends with this amazing camera. Click\
+  \ below for a chance to win.</p>\n"
 hero-header: "Win The Crosstour Wifi Action Camera!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-a17f6d76-0a28-4ddb-bead-54c47882974d.jpg"
@@ -25,11 +25,11 @@ bg-image-first: "https://assets.expresslyapp.com/asset-39b05f80-cb23-4649-85a7-2
 section1-content: "<p>The Crosstour Wifi Action Camera takes you to explore a different\
   \ world: Built-in Wi-Fi Connection, Ultra HD 4K 16MP Resolution, Wrist Remote Control,\
   \ Waterproof, Self Timer Mode, Burst Photo… and many more features for you to discover!\
-  \ \r\n</p>Enter the form below for a chance to win and you will never miss any precious\
-  \ moment with The Crosstour Wifi Action Camera.</p>"
+  \ \n</p>Enter the form below for a chance to win and you will never miss any precious\
+  \ moment with The Crosstour Wifi Action Camera.</p>\n"
 entry-title: "Win The Crosstour Wifi Action Camera!"
-entry-content: "Enter the draw to win The Crosstour Wifi Action Camera by completing\
-  \ the form below before 23:59 on 13 April 2019."
+entry-content: "<p>Enter the draw to win The Crosstour Wifi Action Camera by completing\
+  \ the form below before 23:59 on 13 April 2019.</p>\n"
 has-winner: false
 prize-description: "The Crosstour Wifi Action Camera."
 special-conditions: "Multiple entries are allowed up to one every day"

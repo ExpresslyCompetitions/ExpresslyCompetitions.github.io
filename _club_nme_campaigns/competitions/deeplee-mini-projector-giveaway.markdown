@@ -11,8 +11,8 @@ title: "Win the Deeplee Mini Projector!"
 competition-description: "<p>Small, but perfect for your family entertainment. You\
   \ guessed it: we are talking about the amazing Deeplee Mini Projector and we have\
   \ managed to get our hands on one of them to give away to one of our lucky members,\
-  \ how does it sound?</p>\r\n<p>Want to have your weekend sorted? Click below for\
-  \ a chance to win!</p>"
+  \ how does it sound?</p>\n<p>Want to have your weekend sorted? Click below for a\
+  \ chance to win!</p>\n"
 hero-header: "Win the Deeplee Mini Projector!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-978b5f39-a5b3-4203-9956-fb5ad4869986.jpg"
@@ -24,13 +24,13 @@ bg-image-first: "https://assets.expresslyapp.com/asset-2b7b57b3-6760-4e27-aa4a-b
 section1-content: "<p>The Deeplee-DP300 Mini Projector is a good assistant to display\
   \ pictures, movies, TV shows, videos, games… on a large screen! Its small size,\
   \ like a smartphone, lets you take it anywhere! Usb, computer, mobile phone, television,\
-  \ speakers, firestick… they can all be connected to the projector!</p>\r\n<p>Want\
+  \ speakers, firestick… they can all be connected to the projector!</p>\n<p>Want\
   \ to know what else can the Deeplee Mini Projector do? It's up to you to explore!\
   \ Enter the form below for a chance to win and get ready to spend a great night\
-  \ of entertainment with your loved ones!</p>"
+  \ of entertainment with your loved ones!</p>\n"
 entry-title: "Win the Deeplee Mini Projector!"
-entry-content: "Enter the draw to win the Deeplee Mini Projector by completing the\
-  \ form below before 23:59 on 25th of October 2018."
+entry-content: "<p>Enter the draw to win the Deeplee Mini Projector by completing\
+  \ the form below before 23:59 on 25th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Richard R. who won a cool Deeplee Mini Projector!"
 winner-banner: "https://assets.expresslyapp.com/asset-edafcdbb-93a4-4527-adeb-fbb5f2daa6b2.jpg"

@@ -12,7 +12,7 @@ title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film 
 competition-description: "<p>To celebrate the 50th Anniversary, screenings of The\
   \ Beatles Yellow Submarine sailing back into cinemas Sunday 8th July we're giving\
   \ away 10 pairs of tickets to see the film at Picturehouse Cinemas to 10 lucky NME\
-  \ AAA members to win.</p>\r\n<p>Wanna be there now? Click below to know how!</p>"
+  \ AAA members to win.</p>\n<p>Wanna be there now? Click below to know how!</p>\n"
 hero-header: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
 terms-confirmation: "N/A"
@@ -27,26 +27,26 @@ bg-image-third: "https://assets.expresslyapp.com/asset-f28d100b-63b5-4c15-9989-f
 section1-content: "<p>An icon of psychedelic pop culture, Yellow Submarine is a colourful\
   \ musical spectacle and an exhilaratingly joyful cinematic experience for all ages\
   \ – filled with visual invention, optical illusions, word play, and packed with\
-  \ classic songs from The Beatles.</p>"
+  \ classic songs from The Beatles.</p>\n"
 section2-content: "<p>This is the first time that the stunning restoration of this\
   \ groundbreaking animation arrives on the big screen looking and sounding better\
-  \ than ever in glorious surround sound!</p>\r\n<p>From Lucy In The Sky With Diamonds\
+  \ than ever in glorious surround sound!</p>\n<p>From Lucy In The Sky With Diamonds\
   \ to Nowhere Man, and Eleanor Rigby to All You Need Is Love, Yellow Submarine features\
-  \ some of the most-loved songs from the Beatles!</p>"
+  \ some of the most-loved songs from the Beatles!</p>\n"
 section3-content: "<p>If you don’t want to miss this amazing opportunity, NME AAA\
   \ has 10 pairs of tickets for YOU to attend the event at a Picturehouse Cinema of\
-  \ your choice to the 6pm screening on Sunday 8th of July!</p>\r\n<p>Picturehouse\
-  \ Central (London), Clapham (London), Crouch End (London), East Dulwich (London),\
-  \ Notting Hill Gate (London), Greenwich (London), Hackney (London), Brixton, Ritzy\
-  \ (London), Bath, Bradford, Duke Of York's, Cambridge, Cameo Edinburgh, Exeter,\
-  \ Henley, Liverpool @ FACT, Norwich, Oxford, Southampton, Stratford East, Stratford\
-  \ Upon Avon, York.</p>\r\n<p>Enter the form below and you could be watching The\
-  \ Beatles Yellow Submarine on the big screen.</p>\r\n<p>Good luck!</p>"
+  \ your choice to the 6pm screening on Sunday 8th of July!</p>\n<p>Picturehouse Central\
+  \ (London), Clapham (London), Crouch End (London), East Dulwich (London), Notting\
+  \ Hill Gate (London), Greenwich (London), Hackney (London), Brixton, Ritzy (London),\
+  \ Bath, Bradford, Duke Of York's, Cambridge, Cameo Edinburgh, Exeter, Henley, Liverpool\
+  \ @ FACT, Norwich, Oxford, Southampton, Stratford East, Stratford Upon Avon, York.</p>\n\
+  <p>Enter the form below and you could be watching The Beatles Yellow Submarine on\
+  \ the big screen.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win one of 10 pairs of tickets to see The Beatles Yellow Submarine film\
   \ at Picturehouse Cinemas!"
-entry-content: "Enter the draw to win one of 10 pairs of tickets to see The Beatles\
+entry-content: "<p>Enter the draw to win one of 10 pairs of tickets to see The Beatles\
   \ Yellow Submarine film at Picturehouse Cinemas by completing the form below before\
-  \ 23:59 on 2nd of July 2018."
+  \ 23:59 on 2nd of July 2018.</p>\n"
 has-winner: false
 prize-description: "One of 10 pairs of tickets to see The Beatles Yellow Submarine\
   \ film at Picturehouse Cinemas!"

@@ -8,10 +8,11 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win 2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
-competition-description: "Want to join the marvelous VO5\_NME Awards Ceremony on <strong>February\
-  \ 14th in London (O2 Academy, Brixton)</strong>? The event is sold-out, but a lucky\
-  \ winner will get 2 standing stall tickets thanks to NME AAA, the All Area Access\
-  \ for NME readers. <br />Visit NME AAA for a chance to win by 23.59 on Wed 7th February"
+competition-description: "<p>Want to join the marvelous VO5\_NME Awards Ceremony on\
+  \ <strong>February 14th in London (O2 Academy, Brixton)</strong>? The event is sold-out,\
+  \ but a lucky winner will get 2 standing stall tickets thanks to NME AAA, the All\
+  \ Area Access for NME readers. <br />Visit NME AAA for a chance to win by 23.59\
+  \ on Wed 7th February</p>\n"
 hero-header: "Win 2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
 terms-confirmation: "I agree to the competition <a href=\"../etc/nme-vo5-awards-ceremony-terms-and-conditions.pdf\"\
   \ target=\"_blank\">Terms &amp; Conditions</a> and to create an account with NME\
@@ -26,18 +27,18 @@ bg-image-second: "nme-awards-page2.jpg"
 section1-content: "<p> Held at London’s iconic O2 Academy in Brixton on February 14,\
   \ the VO5 NME Awards 2018 will celebrate the best music of the past year. </p> <p>\
   \ Among the many winners and performances on the night, Liam Gallagher will be closing\
-  \ the ceremony as this year’s recipient of the coveted Godlike Genius Award.</p>"
+  \ the ceremony as this year’s recipient of the coveted Godlike Genius Award.</p>\n"
 section2-content: "<p> Liam will be joining previous winners of the Godlike Genius\
   \ Award, including The Cure, Manic Street Preachers, Coldplay, Paul Weller, Dave\
   \ Grohl, Johnny Marr and many more.</p> <p> And remember, you can still vote here:\
   \ https://awards.nme.com/ (and get another chance to come to the ceremony on us!)\
-  \ </p>"
+  \ </p>\n"
 entry-title: "Win 2 tickets to the VO5 NME Awards Ceremony with Liam Gallagher"
 entry-content: "<p> Join the VO5 NME Awards Ceremony Awards with NME AAA. One lucky\
   \ winner will receive 2 standing stall tickets at the sold-out event. Please that\
   \ the winner will be responsible to get themselves to the event - transport is not\
   \ included.</p> <p> Enter the draw to win 2 tickets by completing the form below\
-  \ before 11.59pm on 24/01/2018. </p>"
+  \ before 11.59pm on 24/01/2018. </p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Jacob B. who won 2 tickets to the NME Awards Ceremony\
   \ with Liam Gallagher."

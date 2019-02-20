@@ -12,8 +12,8 @@ competition-description: "<p>Calling all Prefab Sprout fans, we have great news 
   \ you. Originally released as a Paddy McAloon solo album in 2003, the totally original,\
   \ spellbinding ‘I Trawl The Megahertz’ is now remastered and released February 1st\
   \ on Sony Music and we have two copies of his greatest album on vinyl edition and\
-  \ cd to two NME AAA members to win.</p>\r\n<p>Want it? Click below for a chance\
-  \ to win.</p>"
+  \ cd to two NME AAA members to win.</p>\n<p>Want it? Click below for a chance to\
+  \ win.</p>\n"
 hero-header: "Win Prefab Sprout ‘I Trawl The Megahertz’ album on vinyl edition and\
   \ cd!"
 terms-confirmation: "N/A"
@@ -26,25 +26,25 @@ bg-image-first: "https://assets.expresslyapp.com/asset-bcf8e973-343e-414e-a186-3
 bg-image-second: "https://assets.expresslyapp.com/asset-a2f0fa88-8c63-493e-b990-5b0428737688.jpg"
 section1-content: "<p>‘I Trawl The Megahertz’ was conceived and recorded after Paddy\
   \ was diagnosed with a medical condition that seriously affected his vision. Not\
-  \ surprisingly the album is a testament to the healing power of music.</p>\r\n<p>The\
+  \ surprisingly the album is a testament to the healing power of music.</p>\n<p>The\
   \ album is comprised of nine compositions; the lengthy 22 minute title track, a\
   \ series of shorter instrumental pieces and a couple of songs originally intended\
-  \ to accompany a short film.</p>\r\n<p>The track ‘I’m 49’ is one of Paddy’s favourites\
+  \ to accompany a short film.</p>\n<p>The track ‘I’m 49’ is one of Paddy’s favourites\
   \ featuring sampled voices. “Musically I like to think of it as Van McCoy on a downer,”\
-  \ Paddy says.</p>\r\n<p><i>(Credit:Tom Sheehan)</i></p>"
+  \ Paddy says.</p>\n<p><i>(Credit:Tom Sheehan)</i></p>\n"
 section2-content: "<p>Though the record originally appeared as a solo album, it seems\
   \ fitting to now classify it as a Prefab Sprout project. “I thought we could do\
   \ anything”, Paddy says of those heady Prefab days. “And Megahertz is true to that\
   \ spirit. The music here is of a piece with everything I’ve ever written. It’s from\
-  \ the heart.”</p>\r\n<p>Esprit De Corps, Fall From Grace, Orchid 7… are some of\
-  \ the songs you could find at his amazing album. Enter the form below for a chance\
-  \ to win and get ready to enjoy Prefab Sprout ‘I Trawl The Megahertz’ album now.</p>\r\
-  \n<p><i>(Credit:Tom Sheehan)</i></p>"
+  \ the heart.”</p>\n<p>Esprit De Corps, Fall From Grace, Orchid 7… are some of the\
+  \ songs you could find at his amazing album. Enter the form below for a chance to\
+  \ win and get ready to enjoy Prefab Sprout ‘I Trawl The Megahertz’ album now.</p>\n\
+  <p><i>(Credit:Tom Sheehan)</i></p>\n"
 entry-title: "Win Prefab Sprout ‘I Trawl The Megahertz’ album on vinyl edition and\
   \ cd!"
-entry-content: "Enter the draw to win Prefab Sprout ‘I Trawl The Megahertz’ album\
+entry-content: "<p>Enter the draw to win Prefab Sprout ‘I Trawl The Megahertz’ album\
   \ on vinyl edition and cd by completing the form below before 23:59 on 14th of February\
-  \ 2019."
+  \ 2019.</p>\n"
 has-winner: false
 prize-description: "Prefab Sprout ‘I Trawl The Megahertz’ album on vinyl edition and\
   \ cd."

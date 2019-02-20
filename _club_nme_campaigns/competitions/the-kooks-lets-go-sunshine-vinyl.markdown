@@ -11,9 +11,9 @@ title: "Win The Kooks 'Let’s Go Sunshine' vinyl edition!"
 competition-description: "<p>With the roar of their recent sold-out UK arena tour\
   \ still echoing in their ears and more than one billion streams under their belts,\
   \ The Kooks reach to claim their place in the Great British Songbook with 'Let's\
-  \ Go Sunshine’!</p>\r\n<p>We have great news for you! we are giving away their brand\
-  \ new album on vinyl edition to one of our lucky NME readers!</p>\r\n<p>Want it?\
-  \ Click below for a chance to win!</p>"
+  \ Go Sunshine’!</p>\n<p>We have great news for you! we are giving away their brand\
+  \ new album on vinyl edition to one of our lucky NME readers!</p>\n<p>Want it? Click\
+  \ below for a chance to win!</p>\n"
 hero-header: "Win The Kooks 'Let’s Go Sunshine' vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c9ef3b90-2230-4aea-88bb-68d7e93b0017.jpg"
@@ -26,11 +26,11 @@ section1-content: "<p>'Let’s Go Sunshine' it's the sound of an ambitious, conf
   \ band stepping out and making a statement with their definitive album! It sees\
   \ the band cement their status as true bastions of British guitar pop and take their\
   \ rightful place at the top table next to the celebrated bands that influenced them\
-  \ in their infancy!</p>\r\n<p>If you can’t wait to listen their brand new hits,\
-  \ enter the form below and it could be yours!</p>\r\n<p>Good luck!</p>"
+  \ in their infancy!</p>\n<p>If you can’t wait to listen their brand new hits, enter\
+  \ the form below and it could be yours!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win The Kooks 'Let’s Go Sunshine' vinyl edition!"
-entry-content: "Enter the draw to The Kooks ‘Let’s Go Sunshine’ vinyl edition\r\n\
-  by completing the form below before 23:59 on 10th of October 2018."
+entry-content: "<p>Enter the draw to The Kooks ‘Let’s Go Sunshine’ vinyl edition\n\
+  by completing the form below before 23:59 on 10th of October 2018.</p>\n"
 has-winner: false
 prize-description: "The Kooks 'Let’s Go Sunshine' vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day."

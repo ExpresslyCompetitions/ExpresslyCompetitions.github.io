@@ -12,9 +12,9 @@ competition-description: "<p>Roy Orbison new album infuses Orbison’s original 
   \ performances with the emotion and world-class musicianship of London’s most beloved\
   \ orchestra, as heard on the international hit albums If I Can Dream: Elvis Presley\
   \ with The Royal Philharmonic Orchestra and The Wonder of You: Elvis Presley with\
-  \ The Royal Philharmonic Orchestra.</p>\r\n<p>We have a copy of Roy Orbison new\
-  \ album Unchained Melodies on vinyl to one of our members to win. Sure you won’\
-  t want to miss it… click below for a chance to win!</p>"
+  \ The Royal Philharmonic Orchestra.</p>\n<p>We have a copy of Roy Orbison new album\
+  \ Unchained Melodies on vinyl to one of our members to win. Sure you won’t want\
+  \ to miss it… click below for a chance to win!</p>\n"
 hero-header: "Win Roy Orbison Unchained Melodies vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c517eabc-272d-4332-b833-6f9c86b6e02d.jpg"
@@ -28,18 +28,18 @@ section1-content: "<p>Working once again at the world-famous Abbey Road Studios,
   \ accompany some of the most beloved gems from Orbison’s career—not only singles\
   \ like “Blue Bayou,” “The Crowd” and “Crawling Back,” but fan favorites like “Heartbreak\
   \ Radio” plus “California Blue,” “Danny Boy” and “Walk On,” three tracks that were\
-  \ included after Roy’s estate reached out to fans for their feedback.</p> \r\n<p>Additionally,\
+  \ included after Roy’s estate reached out to fans for their feedback.</p> \n<p>Additionally,\
   \ the album will feature instrumental backing from “Roy’s boys”: his three sons\
   \ Wesley, Roy Jr. (on guitars) and Alex (playing drums). The album also features\
   \ backing vocals on eight tracks from the “Orbison girls”: Emily Orbison (Wesley’\
   s daughter), Jen Hicks (Wesley’s fiancé), Åsa Orbison (Roy Jr.’s wife) and Erika\
   \ Wolf Orbison (Alex’s wife – their forthcoming daughter kicks along to the beat\
   \ as well). Tracks like “Unchained Melody” and “Heartbreak Radio” feature as many\
-  \ as eight Orbisons, counting Roy himself.</p>\r\n<p>Enter the form below for a\
-  \ chance to win Roy Orbison new album Unchained Melodies on vinyl edition NOW!</p>"
+  \ as eight Orbisons, counting Roy himself.</p>\n<p>Enter the form below for a chance\
+  \ to win Roy Orbison new album Unchained Melodies on vinyl edition NOW!</p>\n"
 entry-title: "Win Roy Orbison Unchained Melodies vinyl edition!"
-entry-content: "Enter the draw to win Roy Orbison Unchained Melodies vinyl edition\
-  \ by completing the form below before 23:59 on 28th of January 2019."
+entry-content: "<p>Enter the draw to win Roy Orbison Unchained Melodies vinyl edition\
+  \ by completing the form below before 23:59 on 28th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Roy Orbison Unchained Melodies vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

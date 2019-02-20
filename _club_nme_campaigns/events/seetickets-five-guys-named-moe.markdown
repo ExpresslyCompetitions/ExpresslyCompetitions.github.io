@@ -8,9 +8,9 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Five Guys Named Moe theatre show"
-competition-description: "A major new production of the Olivier Award-winning, smash-hit\
-  \ West End and Broadway musical Five Guys Named Moe swings into the new Marble Arch\
-  \ Theatre."
+competition-description: "<p>A major new production of the Olivier Award-winning,\
+  \ smash-hit West End and Broadway musical Five Guys Named Moe swings into the new\
+  \ Marble Arch Theatre.</p>\n"
 banner-img: "seeticketsfiveguysnamedmoe-main_image.jpg"
 logo-left-href: "https://www.seetickets.com/tour/five-guys-named-moe"
 logo-left-image: "seetickets-logo.png"

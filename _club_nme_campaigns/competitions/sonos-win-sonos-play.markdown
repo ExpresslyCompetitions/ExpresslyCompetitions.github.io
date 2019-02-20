@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Win a SONOS PLAY:1 Smart Wireless Speaker"
-competition-description: "Sonos is the wireless Home Sound System that fills as many\
-  \ rooms as you want with great-sounding music, movies and TV. Stream via WiFi. Play\
-  \ whatever you're craving. And amp up every moment with intense, pulse-pounding\
-  \ sound."
+competition-description: "<p>Sonos is the wireless Home Sound System that fills as\
+  \ many rooms as you want with great-sounding music, movies and TV. Stream via WiFi.\
+  \ Play whatever you're craving. And amp up every moment with intense, pulse-pounding\
+  \ sound.</p>\n"
 banner-img: "sonos-main_image.jpeg"
 logo-left-href: "https://www.sonos.com/en-gb/shop/play1.html"
 logo-left-image: "sonos-logo.png"

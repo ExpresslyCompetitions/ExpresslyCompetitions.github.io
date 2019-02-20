@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
 competition-description: "<p>Join Bestival for their 15th birthday, circus themed\
   \ celebrations this August 2nd to 5th at the Lulworth Estate in Dorset featuring\
-  \ outrageous performers, audacious spectacles and mind-altering music. </p>\r\n\
-  <p>Discover how to win one of 20 pairs of Adult Weekend tickets by clicking below!</p>"
+  \ outrageous performers, audacious spectacles and mind-altering music. </p>\n<p>Discover\
+  \ how to win one of 20 pairs of Adult Weekend tickets by clicking below!</p>\n"
 hero-header: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3d33545c-efc1-41c3-91c6-8e8fd65c0879.jpg"
@@ -22,23 +22,23 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-a607fd77-c490-4c9f-b10c-98
 bg-image-first: "https://assets.expresslyapp.com/asset-a2c13f56-64c1-47a4-9e9b-b26db13c4fbd.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-815ecf0a-e033-4f30-851f-7ac91276c9a1.png"
 bg-image-third: "https://assets.expresslyapp.com/asset-3a3edc94-4615-4747-9dd9-fb822b1e0048.jpg"
-section1-content: "Join Bestival for their 15th birthday, circus themed celebrations\
+section1-content: "<p>Join Bestival for their 15th birthday, circus themed celebrations\
   \ this August 2nd to 5th at the Lulworth Estate in Dorset featuring outrageous performers,\
-  \ audacious spectacles and mind-altering music. \r\n\r\n(Credits: Georgina Harrison)"
+  \ audacious spectacles and mind-altering music.</p>\n<p>(Credits: Georgina Harrison)</p>\n"
 section2-content: "<p>From megastar heroes to your new favourite bands, be amazed\
   \ by Diplo and Mark Ronson’s Silk City, London Grammar, MIA, Jorja Smith, Plan B,\
   \ Grace Jones, Chaka Khan, First Aid Kit, Sundura Karma, IAMDDB and many more.</p>\
   \ <p>And with shocking circus extravaganzas and astonishing stunts, including Lords\
   \ of Lightning, the Human Cannonball, and the Gorilla Circus & Flying Trapeze School,\
-  \ you’ll find extraordinary attractions to satisfy the soul at every turn.</p>"
-section3-content: "With an array of eye-popping venues including Temple, Bollywood,\
+  \ you’ll find extraordinary attractions to satisfy the soul at every turn.</p>\n"
+section3-content: "<p>With an array of eye-popping venues including Temple, Bollywood,\
   \ HMS Bestival (AKA The Port), Stacey’s, Ambientland, Caravanserai, Club Dada and\
   \ a magnificent charm of stages and immersive micro-venues scattered across our\
   \ boutique campsite wonderland, prepare for the most colourful show on Earth at\
-  \ our brand new show time in the heart of the summer."
+  \ our brand new show time in the heart of the summer.</p>\n"
 entry-title: "Win one of 20 pairs of Adult Weekend tickets at Bestival"
-entry-content: "Please submit the form for a chance to win. You have until 23.59 on\
-  \ Thursday 26 July 2018."
+entry-content: "<p>Please submit the form for a chance to win. You have until 23.59\
+  \ on Thursday 26 July 2018.</p>\n"
 has-winner: false
 prize-description: "One of 20 pairs of Adult Weekend tickets at Bestival"
 prize-restrictions: "Winner is responsible for any transport costs to/from the event."

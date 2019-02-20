@@ -13,8 +13,8 @@ competition-description: "<p>Tom Odell's new album is finally here and we have m
   \ Jubilee Road! This new album tells the story of Tom Odell’s time living in East\
   \ London in Jubilee Road, a fictional street made up for the sake of his old neighbours\
   \ against the fans who would make the pilgrimage to the singer’s old home if they\
-  \ knew its location!</p>\r\n<p>Want to have it in your hands? Click below for a\
-  \ chance to win!</p>"
+  \ knew its location!</p>\n<p>Want to have it in your hands? Click below for a chance\
+  \ to win!</p>\n"
 hero-header: "Win Tom Odell 'Jubilee Road' vinyl!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-dc9bae2d-b678-4ac6-bdfe-aeb7158d69c3.jpg"
@@ -26,15 +26,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-1a814a27-4858-431b-a162-3
 section1-content: "<p>If You Wanna To Love Somebody, China Dolls, Wedding Day... are\
   \ some of Tom Odell's new tunes you can discover at his brand new album 'Jubilee\
   \ Road'. This recent release is very intimate and it's written about his experiences\
-  \ and his surroundings while he was living in East London.</p>\r\n<p>The very talented\
+  \ and his surroundings while he was living in East London.</p>\n<p>The very talented\
   \ songwriter in today’s music industry has done it again and has taken inspiration\
   \ from various genres to create this special and enjoyable album. Alongside his\
   \ sweet voice we find different back up voices such as Alice Merton in 'Half As\
-  \ Good As You'. </p>\r\n<p>Enter the form below for a chance to win Tom Odell brand\
-  \ new album 'Jubilee Road' and get ready to listen his new tunes anywhere!</p>"
+  \ Good As You'. </p>\n<p>Enter the form below for a chance to win Tom Odell brand\
+  \ new album 'Jubilee Road' and get ready to listen his new tunes anywhere!</p>\n"
 entry-title: "Win Tom Odell 'Jubilee Road' vinyl!"
-entry-content: "Enter the draw to win Tom Odell 'Jubilee Road' vinyl by completing\
-  \ the form below before 23:59 on 1st of December 2018."
+entry-content: "<p>Enter the draw to win Tom Odell 'Jubilee Road' vinyl by completing\
+  \ the form below before 23:59 on 1st of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Laura R. who won Tom Odell's new album 'Jubilee\
   \ Road' vinyl edition."

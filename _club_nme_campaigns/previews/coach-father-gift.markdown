@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: false
 title: "Treat your Father everyday with Coach!"
 competition-description: "<p>Whether is Father’s day or not, at Coach they want to\
-  \ treat them everyday with their numerous gifts with character!</p>\r\n<p>Suitcases,\
+  \ treat them everyday with their numerous gifts with character!</p>\n<p>Suitcases,\
   \ Sunglasses, Watches, Fragances… they have a different range of gifts to choose\
   \ from! Get him set for summer with one of his gifts he’ll love at every price at\
-  \ the top of his list!</p>"
+  \ the top of his list!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-ceb35ec4-8806-4ec2-a862-1c156c4d7f53.jpg"
 logo-left-href: "http://uk.coach.com/"
 logo-left-image: "https://assets.expresslyapp.com/asset-af3388d3-f7df-4a87-ac0c-88cf144ddfec.jpg"

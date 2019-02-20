@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win The Rolling Stones All The Songs: The Story Behind Every Track!"
 competition-description: "<p>Calling all Rolling Stones fans! We have amazing news\
   \ for YOU! we are giving away a MUST HAVE book for any Rolling supporter: The Rolling\
-  \ Stones All The Songs: The Story Behind Every Track!</p>\r\n<p>Want to discover\
-  \ what’s behind every song? Click below for a chance to win!</p>"
+  \ Stones All The Songs: The Story Behind Every Track!</p>\n<p>Want to discover what’\
+  s behind every song? Click below for a chance to win!</p>\n"
 hero-header: "Win The Rolling Stones All The Songs: The Story Behind Every Track!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ac50933e-4de7-43f3-9289-82c3b45fd3e2.jpg"
@@ -24,13 +24,13 @@ section1-content: "</p>Since 1963, The Rolling Stones have been recording and to
   \ selling more than 200 million records worldwide. In The Rolling Stones All the\
   \ Songs, authors Margotin and Guesdon describe the origin of their 378 released\
   \ songs, details from the recording studio, what instruments were used, and behind-the-scenes\
-  \ stories of the great artists who contributed to their tracks.</p>\r\n<p>If you\
-  \ want to have this massive, 704-page hardcover book, enter the form below for a\
-  \ chance to win and it could be coming home with you!</p>"
+  \ stories of the great artists who contributed to their tracks.</p>\n<p>If you want\
+  \ to have this massive, 704-page hardcover book, enter the form below for a chance\
+  \ to win and it could be coming home with you!</p>\n"
 entry-title: "Win The Rolling Stones All The Songs: The Story Behind Every Track!"
-entry-content: "Enter the draw to win The Rolling Stones All The Songs: The Story\
+entry-content: "<p>Enter the draw to win The Rolling Stones All The Songs: The Story\
   \ Behind Every Track by completing the form below before 23:59 on 9th of November\
-  \ 2018."
+  \ 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Linda P. who won an amazing book: The Rolling Stones\
   \ All The Songs: The Story Behind Every Track!"

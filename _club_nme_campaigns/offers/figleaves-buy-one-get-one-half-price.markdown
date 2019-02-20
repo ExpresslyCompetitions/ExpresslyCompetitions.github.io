@@ -8,11 +8,11 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Perfect Christmas present at Figleaves"
-competition-description: "Discover the latest promotion of Figleaves, the home of\
-  \ Luxury Lingerie, Swimwear and many more. At Figleaves, they aim to deliver the\
-  \ best possible lingerie, swimwear and other accessories, depending on your tastes\
-  \ and on your way to dress. Check it out now, and you could find the perfect present\
-  \ for your loved ones this Christmas."
+competition-description: "<p>Discover the latest promotion of Figleaves, the home\
+  \ of Luxury Lingerie, Swimwear and many more. At Figleaves, they aim to deliver\
+  \ the best possible lingerie, swimwear and other accessories, depending on your\
+  \ tastes and on your way to dress. Check it out now, and you could find the perfect\
+  \ present for your loved ones this Christmas.</p>\n"
 banner-img: "figleaves-xmas_image.png"
 logo-left-href: "https://www.figleaves.com/uk/"
 logo-left-image: "figleaves-logo.svg"

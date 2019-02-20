@@ -11,7 +11,7 @@ title: "Win Andrew James Ice Cream Maker Machine!"
 competition-description: "<p>Summer is about to come and what a better way to start\
   \ it than with an ice cream, sorbet or frozen yoghurt? Get the whole family involved\
   \ and enjoy some delicious homemade ice cream with the brand new Andrew James Ice\
-  \ Cream Maker Machine!</p>\r\n<p>Want an Ice cream now? You know what to do…</p>"
+  \ Cream Maker Machine!</p>\n<p>Want an Ice cream now? You know what to do…</p>\n"
 hero-header: "Win Andrew James Ice Cream Maker Machine!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-824e2b53-78c0-4ad7-8c98-9cfd57d4f3bd.jpg"
@@ -21,16 +21,16 @@ logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-a6357e93-4973-49bb-b784-f06615d5198b.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-878c8132-f27f-42e1-abad-7f43de182ec7.jpg"
 section1-content: "<p>At Andrew James they provide the best quality products, that\
-  \ is why the Andrew James Ice Cream Maker has been voted the Which 'Best Buy’.</p>\r\
-  \n<p>Chocolate, Strawberry… make delicious homemade ice cream in just 15 - 20 minutes!\
+  \ is why the Andrew James Ice Cream Maker has been voted the Which 'Best Buy’.</p>\n\
+  <p>Chocolate, Strawberry… make delicious homemade ice cream in just 15 - 20 minutes!\
   \ As you are in control, you can avoid artificial ingredients found in mass-produced\
-  \ ice creams, make healthy treats, and adapt your recipes to cater for allergies.</p>\r\
-  \n<p>If you or your loved ones have a sweet tooth, this ice cream maker should be\
-  \ yours! Enter below and grab a few spoons for a real treat!</p>"
+  \ ice creams, make healthy treats, and adapt your recipes to cater for allergies.</p>\n\
+  <p>If you or your loved ones have a sweet tooth, this ice cream maker should be\
+  \ yours! Enter below and grab a few spoons for a real treat!</p>\n"
 entry-title: "Win Andrew James Ice Cream Maker Machine!"
 entry-content: "<p>Enter the draw to win the Andrew James Ice Cream Maker Machine!\
   \ and get ready to eat delicious ice creams this summer by completing the form below\
-  \ before 23:59 on 5th July 2018.</p>"
+  \ before 23:59 on 5th July 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Kate L. who won Andrew James Ice Cream Maker Machine!"
 winner-banner: "https://assets.expresslyapp.com/asset-04b0e0b3-185c-4aef-8a2a-cd857330b0cb.jpg"

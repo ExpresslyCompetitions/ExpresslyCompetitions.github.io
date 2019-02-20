@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Get your favourite indie band a real chance with NME Emerging and Pledge Music!"
-competition-description: "You have a band? Do you want to be noticed in today’s music\
-  \ industry? You have come to the right place. Create an NME Artist Profile and get\
-  \ your music heard by the NME Team!\r\n<p>Wait no more: go to https://artists.nme.com/\
-  \ and sign up to NME Emerging.</p>"
+competition-description: "<p>You have a band? Do you want to be noticed in today’\
+  s music industry? You have come to the right place. Create an NME Artist Profile\
+  \ and get your music heard by the NME Team!</p>\n<p>Wait no more: go to https://artists.nme.com/\
+  \ and sign up to NME Emerging.</p>\n"
 hero-header: "Get your favourite indie band a real chance with NME Emerging and Pledge\
   \ Music!"
 terms-confirmation: "N/A"
@@ -23,19 +23,20 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-3e27a2a1-4702-486a-9fba-1a
 bg-image-first: "https://assets.expresslyapp.com/asset-a3ebdfad-da50-406b-b921-a7c76b238352.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-6f27431b-afd9-46b9-8dd2-6546212f052b.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-38a0f371-d519-4368-91b4-94f0390b4819.jpg"
-section1-content: "The NME Team are listening… and if they like what they hear, they\
-  \ could promote you across NME or invite you to perform at one of their London venues!\
-  \ Does it sound good to you?\r\n<p>Setting up your profile on <a href=\"https://artists.nme.com/\"\
-  >artists.nme.com</a> is so easy and it’s also completely free!</p>"
-section2-content: "Sell merch, share music, videos… NME wants to support emerging\
-  \ artists! and thanks to them you could keep your brand consistent everywhere!"
+section1-content: "<p>The NME Team are listening… and if they like what they hear,\
+  \ they could promote you across NME or invite you to perform at one of their London\
+  \ venues! Does it sound good to you?</p>\n<p>Setting up your profile on <a href=\"\
+  https://artists.nme.com/\">artists.nme.com</a> is so easy and it’s also completely\
+  \ free!</p>\n"
+section2-content: "<p>Sell merch, share music, videos… NME wants to support emerging\
+  \ artists! and thanks to them you could keep your brand consistent everywhere!</p>\n"
 section3-content: "<p>Smart bands also join Pledge Music, the simple way to get your\
-  \ fans to support you: sign up here: https://www.pledgemusic.com/</p>\r\n<p>Don't\
-  \ miss out on this amazing opportunity and let the world hear your voice!</p>"
+  \ fans to support you: sign up here: https://www.pledgemusic.com/</p>\n<p>Don't\
+  \ miss out on this amazing opportunity and let the world hear your voice!</p>\n"
 entry-title: "Get your favourite indie band a real chance with NME Emerging and Pledge\
   \ Music!"
 entry-content: "<p>Do you want to be noticed in today’s music industry? Create an\
-  \ NME Artist Profile and get your music heard by the NME Team!</p>"
+  \ NME Artist Profile and get your music heard by the NME Team!</p>\n"
 entry-extension: "nme/emerging-pledge-music-extension.html"
 has-winner: false
 prize-description: "One lucky fan will give his/her favourite band the chance to go\

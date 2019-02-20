@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win the FancyTech True Wireless Earbuds!"
 competition-description: "<p>Looking for a great pair of Wireless Earbuds? Get ready\
-  \ and set your ears free with the brand new FancyTech True Wireless Earbuds!\r\n\
-  We want to give your ears the quality that they deserve, that's why we’re giving\
-  \ you the chance to win the FancyTech True Wireless Earbuds!</p>\r\n<p>Want them?\
-  \ You know what to do…</p>"
+  \ and set your ears free with the brand new FancyTech True Wireless Earbuds!\nWe\
+  \ want to give your ears the quality that they deserve, that's why we’re giving\
+  \ you the chance to win the FancyTech True Wireless Earbuds!</p>\n<p>Want them?\
+  \ You know what to do…</p>\n"
 hero-header: "Win the FancyTech True Wireless Earbuds!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4b40afdb-c416-4f4b-a409-3b7f763d5980.jpg"
@@ -23,12 +23,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-75c3446b-090d-45cc-a44e-9f
 bg-image-first: "https://assets.expresslyapp.com/asset-e16d2033-2f3d-4c6f-9b6b-049adae37e3a.jpg"
 section1-content: "<p>Longer playing time, great sound performance, smallest and super\
   \ sound quality, equipped with mini and portable battery charging that ALSO can\
-  \ charge your phone are some of its numerous features!</p> \r\n<p>This Earbuds are\
+  \ charge your phone are some of its numerous features!</p> \n<p>This Earbuds are\
   \ totally a MUST! Enter below and they could be coming home with you thanks to NME\
-  \ AAA!</p>"
+  \ AAA!</p>\n"
 entry-title: "Win the FancyTech True Wireless Earbuds!"
 entry-content: "<p>Enter the draw to win the innovative FancyTech True Wireless Earbuds!\
-  \ by completing the form below before 23:59 on 1st July 2018.</p>"
+  \ by completing the form below before 23:59 on 1st July 2018.</p>\n"
 has-winner: false
 prize-description: "The FancyTech True Wireless Earbuds."
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\

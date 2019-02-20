@@ -11,7 +11,7 @@ title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 competition-description: "<p>Summer is just around the corner and we all want to be\
   \ in shape! If you are a smoothie-maker kind of person this is a MUST for you! We’\
   ve managed to get in our hands the ultimate Andrew James Fitness Blender & Smoothie\
-  \ Maker and we want to give it to you!</p>\r\n<p>Want it? Enter below to get involved.</p>"
+  \ Maker and we want to give it to you!</p>\n<p>Want it? Enter below to get involved.</p>\n"
 hero-header: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0b1de952-3711-419f-b7dc-895bcf833126.jpg"
@@ -21,17 +21,17 @@ logo-left-title: "NME"
 bg-image-hero: "https://assets.expresslyapp.com/asset-4ce6308d-399c-4c3f-b210-9737b7568c50.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-9e1d399c-ea33-4525-92a8-47a2ba43286e.jpg"
 section1-content: "<p>The Nutri-Fit Blender from Andrew James is ideal for anyone\
-  \ looking for a fitness blender that can do more than just create smoothies!</p>\r\
-  \n<p>This versatile machine can create everything from nutritious protein shakes\
-  \ and detox smoothies to super healthy soups and even nut butters.\r\nIt deals with\
-  \ the toughest foods and extract all those crucial nutrients that you need to achieve\
-  \ your fitness and healthy goals!</p>\r\n<p>If you’re looking forward to creating\
+  \ looking for a fitness blender that can do more than just create smoothies!</p>\n\
+  <p>This versatile machine can create everything from nutritious protein shakes and\
+  \ detox smoothies to super healthy soups and even nut butters.\nIt deals with the\
+  \ toughest foods and extract all those crucial nutrients that you need to achieve\
+  \ your fitness and healthy goals!</p>\n<p>If you’re looking forward to creating\
   \ amazing smoothies and juices, enter the form below and you'll have a chance to\
-  \ win one of this for your kitchen!</p>"
+  \ win one of this for your kitchen!</p>\n"
 entry-title: "Win Andrew James Fitness Blender & Smoothie Maker Machine!"
-entry-content: "Enter the draw to win the Andrew James Fitness Blender & Smoothie\
+entry-content: "<p>Enter the draw to win the Andrew James Fitness Blender &amp; Smoothie\
   \ Maker Machine and get ready to boost your health by completing the form below\
-  \ before 23:59 on 19th July 2018."
+  \ before 23:59 on 19th July 2018.</p>\n"
 has-winner: false
 prize-description: "Andrew James Fitness Blender & Smoothie Maker Machine!"
 special-conditions: "Multiple entries are allowed up to one every day."

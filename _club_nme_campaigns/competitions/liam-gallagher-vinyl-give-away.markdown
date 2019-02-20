@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 competition-description: "<p>Calling all Liam Gallagher fans! we have the best gift\
   \ for YOU! We’re giving away the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition\
-  \ for one lucky NME AAA member to win!</p>\r\n<p>Liking what you hear? Click below\
-  \ to get a chance to win</p>"
+  \ for one lucky NME AAA member to win!</p>\n<p>Liking what you hear? Click below\
+  \ to get a chance to win</p>\n"
 hero-header: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7f0fab28-1328-43e1-863d-c01fe221c1ae.jpg"
@@ -22,14 +22,14 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-41e439d0-cac4-4dda-b66b-4b
 bg-image-first: "https://assets.expresslyapp.com/asset-e1a74108-6057-4a57-9eb4-ec0d5e98a696.jpg"
 section1-content: "<p>Liam Gallagher’s ‘As You Were’ is the fastest-selling vinyl\
   \ record of the last 20 years! It sold 16,000 copies on vinyl in just one week!\
-  \ And we have one for YOU!</p> \r\n<p>Enter the form below for a chance to win the\
+  \ And we have one for YOU!</p> \n<p>Enter the form below for a chance to win the\
   \ exclusive ‘As You Were’ Vinyl Edition and you could be dancing along Wall of Glass,\_\
-  Chinatown,\_For What It's Worth, Greedy Soul and more of his hits!</p>\r\n<p>Good\
-  \ luck!</p>"
+  Chinatown,\_For What It's Worth, Greedy Soul and more of his hits!</p>\n<p>Good\
+  \ luck!</p>\n"
 entry-title: "Win the exclusive Liam Gallagher ‘As You Were’ Vinyl Edition!"
 entry-content: "<p>Enter the draw to win the fastest-selling vinyl record of the last\
   \ 20 years! The exclusive Liam Gallagher 'As You Were' Vinyl Edition! by completing\
-  \ the form below before 23:59 on 1st July 2018.</p>"
+  \ the form below before 23:59 on 1st July 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Ian T. who won the exclusive Liam Gallagher ‘As\
   \ You Were’ Vinyl Edition!"

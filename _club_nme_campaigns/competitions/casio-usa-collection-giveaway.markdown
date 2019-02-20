@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a Casio Collection Unisex Watch!"
 competition-description: "<p>With over one million watches purchased every year, we\
   \ have managed to get on our hands an amazing Casio watch for you to stand out anywhere\
-  \ you go: The Casio A158WEA-9CF Unisex collection watch!</p>\r\n<p>Sure you won't\
-  \ want to miss it... click below for a chance to win!</p>"
+  \ you go: The Casio A158WEA-9CF Unisex collection watch!</p>\n<p>Sure you won't\
+  \ want to miss it... click below for a chance to win!</p>\n"
 hero-header: "Win a Casio Collection Unisex Watch!"
 terms-confirmation: "https://aaa.nme.com/etc/casio-usa-collection-giveaway"
 banner-img: "https://assets.expresslyapp.com/asset-19c2a2ba-5866-4e5c-a978-9455e197af6b.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-c130d45b-bc00-4160-a985-1
 section1-content: "<p>With warm shades of gold, cool stainless steel and black plastic,\
   \ these timeless design icons can be combined perfectly with today's style. It's\
   \ good to know that some things never change and Casio continually pushes the boundaries\
-  \ of innovative timepiece design and functionality.</p>\r\n<p>Enter the form below\
+  \ of innovative timepiece design and functionality.</p>\n<p>Enter the form below\
   \ for a chance to win one of the best watches in the world: The Casio A158WEA-9CF\
-  \ Unisex collection watch!</p>"
+  \ Unisex collection watch!</p>\n"
 entry-title: "Win a Casio Collection Unisex Watch!"
-entry-content: "Enter the draw to win a Casio Collection Unisex Watch by completing\
-  \ the form below before 23:59 on 9th of February 2019."
+entry-content: "<p>Enter the draw to win a Casio Collection Unisex Watch by completing\
+  \ the form below before 23:59 on 9th of February 2019.</p>\n"
 has-winner: false
 prize-description: "The Casio A158WEA-9CF Unisex collection watch."
 special-conditions: "Multiple entries are allowed up to one every day."

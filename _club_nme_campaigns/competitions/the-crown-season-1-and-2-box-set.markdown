@@ -12,8 +12,8 @@ competition-description: "<p>We have in our hands the Emmy Award winning\_series
   \ the number one essential for viewing over the holiday: The Crown Season 1 and\
   \ 2 on Blu-ray to one of our NME AAA members to win! As a new era begins, Queen\
   \ Elizabeth struggles to navigate a world that's changing around her while preserving\
-  \ both the monarchy and her marriage.</p>\r\n<p>If you want to get stuck to your\
-  \ favourite show to be during the holidays, click below for a chance to win!</p>"
+  \ both the monarchy and her marriage.</p>\n<p>If you want to get stuck to your favourite\
+  \ show to be during the holidays, click below for a chance to win!</p>\n"
 hero-header: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-97a7f1d4-5c32-4447-b4ed-86bf036edb74.jpg"
@@ -27,19 +27,19 @@ bg-image-third: "https://assets.expresslyapp.com/asset-4426c8b5-fa4a-491b-bf36-2
 section1-content: "<p>The Crown Season 1 and 2 Box Set has it all. The first season\
   \ follows the decline of the The British Empire. Queen Elizabeth II is a 25-year-old\
   \ newlywed faced with the daunting prospect of leading the world’s most famous monarchy\
-  \ while forging a relationship with legendary Prime Minister Sir Winston Churchill.</p>"
+  \ while forging a relationship with legendary Prime Minister Sir Winston Churchill.</p>\n"
 section2-content: "<p>The Crown Season 2 follows Queen Elizabeth through the late\
   \ 1950s and early ‘60s as she struggles to navigate a world that’s changing around\
   \ her. She must face the challenges of a new era, from the Suez Canal crisis to\
   \ the assassination of John F. Kennedy, while preserving both the monarchy and her\
-  \ marriage.</p>"
+  \ marriage.</p>\n"
 section3-content: "<p>The Golden Globe winner for Best TV Drama Series, “The Crown,”\
   \ created by Peter Morgan is the best plan to do during the holidays. If you can’\
   t wait to watch it, enter the form below and get ready to get stuck with The Crown\
-  \ Season 1 and 2 Box Set!</p>"
+  \ Season 1 and 2 Box Set!</p>\n"
 entry-title: "Win The Crown Season 1 and 2 Boxset in time for Christmas!"
-entry-content: "Enter the draw to win The Crown Season 1 and 2 Box Set\r\nby completing\
-  \ the form below before 23:59 on 13th of December 2018."
+entry-content: "<p>Enter the draw to win The Crown Season 1 and 2 Box Set\nby completing\
+  \ the form below before 23:59 on 13th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Francesca J. who won The Crown Season 1 and 2 Boxset\
   \ in time for Christmas!"

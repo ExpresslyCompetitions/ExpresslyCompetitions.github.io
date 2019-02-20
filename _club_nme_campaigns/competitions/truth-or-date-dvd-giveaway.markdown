@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Truth or Dare on DVD!"
 competition-description: "<p>Calling all Lucy Hale fans! In order to celebrate the\
   \ release of her brand new movie 'Truth or Dare' on DVD we are giving away a copy\
-  \ of this horror movie to one of our members to win!</p>\r\n<p>Does it sound like\
-  \ the best plan for your weekend? Click below and get the game started...</p>"
+  \ of this horror movie to one of our members to win!</p>\n<p>Does it sound like\
+  \ the best plan for your weekend? Click below and get the game started...</p>\n"
 hero-header: "Win Truth or Dare on DVD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-89caf400-07e1-48d8-9df4-93cb7572f5ad.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-a1b3357d-fe00-4929-918d-8
 section1-content: "<p>Lucy Hale (Pretty Little Liars) and Tyler Posey (Teen Wolf)\
   \ lead the cast of Truth or Dare, a supernatural thriller from Blumhouse Productions.\
   \ A harmless game of “Truth or Dare” among friends turns deadly when someone or\
-  \ something begins to punish those who tell a lie or refuse the dare.</p>\r\n<p>If\
+  \ something begins to punish those who tell a lie or refuse the dare.</p>\n<p>If\
   \ you can't wait to watch it, enter the form below and you could be having a horror\
-  \ movie night with friends!</p>\r\n<p>Good luck!</p>"
+  \ movie night with friends!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Truth or Dare on DVD!"
-entry-content: "Enter the draw to win Truth or Dare on DVD by completing the form\
-  \ below before 23:59 on 1st of October 2018."
+entry-content: "<p>Enter the draw to win Truth or Dare on DVD by completing the form\
+  \ below before 23:59 on 1st of October 2018.</p>\n"
 has-winner: false
 prize-description: "Truth or Dare on DVD"
 special-conditions: "Multiple entries are allowed up to one every day."

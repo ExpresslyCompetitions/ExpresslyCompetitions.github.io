@@ -13,7 +13,7 @@ competition-description: "<p>Charlton Athletic Community Trust has been bringing
   \ and social change to communities for more than two decades! To celebrate their\
   \ 25th Anniversary the X Factor winner Louisa Johnson will headline an exclusive\
   \ concert sponsored by Andrews Air Conditioning and we want YOU to be there!</p>\
-  \ \r\n<p>Click on the link to get involved!</p>"
+  \ \n<p>Click on the link to get involved!</p>\n"
 hero-header: "Win a pair of VIP tickets to see Louisa Johnson live at Indigo at The\
   \ O2!"
 terms-confirmation: "N/A"
@@ -25,27 +25,27 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-7f0f6a5c-978a-4922-aa07-88
 bg-image-first: "https://assets.expresslyapp.com/asset-e736785f-1f06-47d2-ada7-ecf394294b22.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-6a29aa5f-38c4-48a6-916a-be23d41baee6.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-abb6e58a-e574-4b71-a14e-c364e6b8a037.jpg"
-section1-content: "The 25th Anniversary Committee of the Charlton Athletic Community\
+section1-content: "<p>The 25th Anniversary Committee of the Charlton Athletic Community\
   \ Trust is excited to announce an exclusive concert in order to support projects\
   \ at the heart of the community and where the X Factor winner Louisa Johnson will\
-  \ perform live!"
+  \ perform live!</p>\n"
 section2-content: "<p>The country’s leading supplier of specialist cooling services\
   \ and operate temporary solutions to clients across a full scale of industries,\
   \ <a href=\"https://www.andrews-sykes.com/air-conditioning/\"> Andrews Air conditioning\
-  \ </a> is the sponsor of this amazing concert!</p>\r\n<p>Thanks to them and NME,\
-  \ you could win a pair of VIP tickets to attend the event!</p>"
+  \ </a> is the sponsor of this amazing concert!</p>\n<p>Thanks to them and NME, you\
+  \ could win a pair of VIP tickets to attend the event!</p>\n"
 section3-content: "<p>The X Factor winner Louisa Johnson will headline The 25th Anniversary\
   \ concert at Indigo at The O2 on Friday 18th of May where Radio and TV personality\
   \ Dave Berry will host the concert in which all funds raised will go to support\
-  \ the organisation’s activities! \r\nWe have a pair of VIP tickets to see her perform\
-  \ live and to meet and greet Louisa herself!</p> \r\n<p>If you are over 16 and a\
-  \ big fan of Louisa Johnson, complete the form below to be in with a chance to see\
-  \ her perform live!</p>\r\n<p>Good luck!</p>"
+  \ the organisation’s activities! \nWe have a pair of VIP tickets to see her perform\
+  \ live and to meet and greet Louisa herself!</p> \n<p>If you are over 16 and a big\
+  \ fan of Louisa Johnson, complete the form below to be in with a chance to see her\
+  \ perform live!</p>\n<p>Good luck!</p>\n"
 entry-title: "A pair of VIP tickets to see Louisa Johnson at the CACT 25th Anniversary\
   \ Concert"
 entry-content: "<p>Enter the draw to win a pair of VIP tickets to see Louisa Johnson\
   \ at the CACT 25th Anniversary Concert by completing the form below before 23:59\
-  \ on 10/04/2018.</p>"
+  \ on 10/04/2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Edwards E. who won a pair of VIP tickets to see\
   \ Louisa Johnson and had a blast at the event!"

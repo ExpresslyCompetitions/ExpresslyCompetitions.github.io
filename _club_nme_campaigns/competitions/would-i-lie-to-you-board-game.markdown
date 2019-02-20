@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the ‘Would I lie to you?’ board game!"
 competition-description: "<p>We have in our hands the game of unbelievable truths\
   \ and believable lies: ‘Would I lie to you?’ board game! for one lucky NME AAA member\
-  \ to win!</p>\r\n<p>If you want to spend a great fun with friends click on the link\
-  \ below and it could be coming home with you!</p>"
+  \ to win!</p>\n<p>If you want to spend a great fun with friends click on the link\
+  \ below and it could be coming home with you!</p>\n"
 hero-header: "Win the ‘Would I lie to you?’ board game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-255b1576-ed7a-4cec-82d7-a9f94b2612e8.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-12598e5d-a007-48b3-850e-e
 section1-content: "<p>Based on the hit BBC comedy panel show, this is a game of quick\
   \ thinking that calls for a cool head and a poker face! Can you fool your opponents\
   \ with an on-the spot lie? or… can your team invent a bizarre lie that sounds more\
-  \ convincing than the truth?</p>\r\n<p>If you want to have a laugh with your loved\
+  \ convincing than the truth?</p>\n<p>If you want to have a laugh with your loved\
   \ ones, this game is a MUST! Enter the draw below for a chance to win he hilarious\
-  \ ‘Would I lie to you?’ board game and it could be yours!</p>\r\n<p>Good luck!</p>"
+  \ ‘Would I lie to you?’ board game and it could be yours!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the ‘Would I lie to you?’ board game!"
-entry-content: "Enter the draw to win the hilarious and enjoyable Catan Board Game!\
-  \ by completing the form below before 23:59 on 12th July 2018."
+entry-content: "<p>Enter the draw to win the hilarious and enjoyable Catan Board Game!\
+  \ by completing the form below before 23:59 on 12th July 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Maggie C. who won ‘Would I lie to you?’ board game!"
 winner-banner: "https://assets.expresslyapp.com/asset-c4b4f9a2-927e-4423-88c3-64ca0dbded21.jpg"

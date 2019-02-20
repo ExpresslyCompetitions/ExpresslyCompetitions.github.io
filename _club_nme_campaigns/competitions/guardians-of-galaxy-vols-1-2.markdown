@@ -12,7 +12,7 @@ competition-description: "<p>From Marvel, the studio that launched the epic fran
   \ of Marvel’s Iron Man, Marvel’s Thor, Marvel’s Captain America and Marvel’s Avengers\
   \ Assemble, comes an unlikely new team: the Guardians of the Galaxy. We have managed\
   \ to get our hands on the The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray to one\
-  \ of our lucky readers!</p>\r\n<p>Want it? Click below for a chance to win!</p>"
+  \ of our lucky readers!</p>\n<p>Want it? Click below for a chance to win!</p>\n"
 hero-header: "Win The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-53334947-632d-4608-8d61-113400a1ec5b.jpg"
@@ -27,13 +27,13 @@ section1-content: "<p>The Marvel Cinematic Universe expands into the cosmos when
   \ Rocket, a gun-toting raccoon; Groot, a tree-like humanoid; the deadly assassin\
   \ Gamora; and the revenge-driven Drax. But when Quill discovers the true power of\
   \ the orb, he must rally his ragtag band for a desperate battle that will decide\
-  \ the fate of the galaxy.</p> \r\n<p>This Blu-ray has it all! featuring amazing\
-  \ new characters and exclusive bonus extras, this must-own blockbuster will have\
-  \ you hooked on a feeling… of pure adrenaline!</p>\r\n<p>Enter the form below and\
-  \ it could be yours!</p>"
+  \ the fate of the galaxy.</p> \n<p>This Blu-ray has it all! featuring amazing new\
+  \ characters and exclusive bonus extras, this must-own blockbuster will have you\
+  \ hooked on a feeling… of pure adrenaline!</p>\n<p>Enter the form below and it could\
+  \ be yours!</p>\n"
 entry-title: "Win The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray!"
-entry-content: "Enter the draw to win The Guardians Of The Galaxy Vols 1 & 2 on Blu-ray\
-  \ by completing the form below before 23:59 on 26th of October 2018."
+entry-content: "<p>Enter the draw to win The Guardians Of The Galaxy Vols 1 &amp;\
+  \ 2 on Blu-ray by completing the form below before 23:59 on 26th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Jacqueline B who won The Guardians Of The Galaxy\
   \ Vols 1 & 2 on Blu-ray!"

@@ -12,7 +12,7 @@ competition-description: "<p>Discover the joy of omelettes with the Andrew James
   \ Omelette Maker that lets you quickly and easily cook a whole range of different\
   \ omelette recipes. You can also use it to cook scrambled eggs, or to fry them for\
   \ your hot breakfast.</p>We are giving away one Andrew James Omelette Maker to one\
-  \ of our lucky NME AAA members!</p>\r\n<p>Want it? Click below and it could be yours!</p>"
+  \ of our lucky NME AAA members!</p>\n<p>Want it? Click below and it could be yours!</p>\n"
 hero-header: "Win Andrew James Dual Omelette Maker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-49dadd7d-6fcf-47fa-8059-261d298700e4.jpg"
@@ -27,12 +27,12 @@ section1-content: "<p>This omelette maker is extremely portable so it can be use
   \ to switch off and the ‘ready’ light to come on. Pour on your omelette mix and\
   \ fillings, drop down the li d and wait a few minutes while your omelette cooks.\
   \ It’s that simple, and thanks to the non-stick coating there’s less cleaning up\
-  \ than you’d normally have with a plastic microwave omelette maker.</p>\r\n<p>Enter\
+  \ than you’d normally have with a plastic microwave omelette maker.</p>\n<p>Enter\
   \ the form below and get ready to make delicious breakfast in the morning with the\
-  \ Andrew James Dual Omelette Maker!</p>\r\n<p>Good luck!</p>"
+  \ Andrew James Dual Omelette Maker!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Andrew James Dual Omelette Maker!"
-entry-content: "Enter the draw to win Andrew James Dual Omelette Maker by completing\
-  \ the form below before 23:59 on 10th of September 2018."
+entry-content: "<p>Enter the draw to win Andrew James Dual Omelette Maker by completing\
+  \ the form below before 23:59 on 10th of September 2018.</p>\n"
 has-winner: false
 prize-description: "Andrew James Dual Omelette Maker!"
 special-conditions: "Multiple entries are allowed up to one every day."

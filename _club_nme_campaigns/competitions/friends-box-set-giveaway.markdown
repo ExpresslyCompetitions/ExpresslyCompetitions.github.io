@@ -11,8 +11,8 @@ title: "Win Friends - The Complete Series 1-10 Box Set!"
 competition-description: "<p>In order to celebrate the 15 year anniversary of one\
   \ of TV's most successful show ever we are giving away this amazing Friends Season\
   \ 1 -10 box set to one of our lucky members to win, featuring more extras than you\
-  \ can shake a smelly cat at.</p>\r\n<p>Are you Friends biggest fan? Click below\
-  \ for a chance to win.</p>"
+  \ can shake a smelly cat at.</p>\n<p>Are you Friends biggest fan? Click below for\
+  \ a chance to win.</p>\n"
 hero-header: "Win Friends - The Complete Series 1-10 Box Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-fcec0b54-2d30-4d56-81ab-fd3476963bb8.jpg"
@@ -25,15 +25,15 @@ section1-content: "<p>Popular American sitcom Friends first appeared on our scre
   \ back in 1994, to little fanfare. The show followed the lives of six twenty-something\
   \ singles: Monica (Courtney Cox), Rachel (Jennifer Aniston), Phoebe (Lisa Kudrow),\
   \ Joey (Matt LeBlanc), Ross (David Schwimmer), and Chandler (Matthew Perry) who\
-  \ occupied a trendy New York loft apartment.</p>\r\n<p>From early on it was clear\
+  \ occupied a trendy New York loft apartment.</p>\n<p>From early on it was clear\
   \ that Friends had successfully tapped into the zeitgeist of its time, and now,\
   \ 10 series down the line, the show's broad appeal continues to live on in popular\
-  \ culture. This box set contains every episode from season 1 to 10.</p>\r\n<p>Want\
+  \ culture. This box set contains every episode from season 1 to 10.</p>\n<p>Want\
   \ to enjoy every episode over and over again? Enter the form below and it could\
-  \ be coming home with you!</p>"
+  \ be coming home with you!</p>\n"
 entry-title: "Win Friends - The Complete Series 1-10 Box Set!"
-entry-content: "Enter the draw to win Friends - The Complete Series 1-10 Box Set by\
-  \ completing the form below before 23:59 on 12th of March 2019."
+entry-content: "<p>Enter the draw to win Friends - The Complete Series 1-10 Box Set\
+  \ by completing the form below before 23:59 on 12th of March 2019.</p>\n"
 has-winner: false
 prize-description: "Friends - The Complete Series 1-10 Box Set."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

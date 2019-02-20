@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Win Preacher Season 2 on Blu-ray!"
-competition-description: "Fans of the Preacher series, rejoice. To celebrate the Blu-ray&trade;\
-  \ release of Preacher 2 - the critically-acclaimed supernatural show starring Dominic\
-  \ Cooper, Ruth Negga and Joseph Gilgun - we've managed to get our hands on 5 copies\
-  \ of the complete second series and yes, we want you guys to have them!"
+competition-description: "<p>Fans of the Preacher series, rejoice. To celebrate the\
+  \ Blu-ray™ release of Preacher 2 - the critically-acclaimed supernatural show starring\
+  \ Dominic Cooper, Ruth Negga and Joseph Gilgun - we've managed to get our hands\
+  \ on 5 copies of the complete second series and yes, we want you guys to have them!</p>\n"
 banner-img: "preacher-main_image.jpg"
 logo-left-href: "http://www.nme.com/competitions/win-preacher-season-2-blu-ray"
 logo-left-image: "nme-logo.jpg"

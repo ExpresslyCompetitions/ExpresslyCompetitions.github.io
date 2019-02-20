@@ -11,8 +11,8 @@ title: "Win Elecstars Bluetooth Speaker with Night Light!"
 competition-description: "<p>We have the perfect gift, birthday present, housewarming\
   \ item, ideal for reading, writing, studying, working, partying, entertainment decoration\
   \ for yourself, your family or friends! Yes, we are talking about Elecstars Bluetooth\
-  \ Speaker with Night Light!</p>\r\n<p>Want to treat yourself? Enter below for a\
-  \ chance to win!</p>"
+  \ Speaker with Night Light!</p>\n<p>Want to treat yourself? Enter below for a chance\
+  \ to win!</p>\n"
 hero-header: "Win Elecstars Bluetooth Speaker with Night Light!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-00fa43b2-4586-493e-87e9-0ef4cf08bdf6.jpg"
@@ -25,11 +25,11 @@ section1-content: "<p>Don’t stop listening your favourite tunes with this blue
   \ speaker, up to 10 hours of music play! Bluetooth Speaker + Touch Lamp + Alarm\
   \ Clock + MP3 Player - All in 1! Listening to audio books in the bedroom at night,\
   \ or playing music while cooking, this product will go everywhere with you, and\
-  \ literally, brighten your everyday!</p>\r\n<p>Enter the form below for a chance\
-  \ to win and it could be coming home to you! Good luck!</p>"
+  \ literally, brighten your everyday!</p>\n<p>Enter the form below for a chance to\
+  \ win and it could be coming home to you! Good luck!</p>\n"
 entry-title: "Win Elecstars Bluetooth Speaker with Night Light!"
-entry-content: "Enter the draw to win Elecstars Bluetooth Speaker with Night Light\
-  \ by completing the form below before 23:59 on 23th of November 2018."
+entry-content: "<p>Enter the draw to win Elecstars Bluetooth Speaker with Night Light\
+  \ by completing the form below before 23:59 on 23th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Julie H. who won the Elecstars Bluetooth Speaker\
   \ with Night Light!"

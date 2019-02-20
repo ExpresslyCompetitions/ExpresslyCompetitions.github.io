@@ -12,8 +12,8 @@ competition-description: "<p>After the success of our previous competition with 
   \ organic chocolate company, Loving Earth, we’re back with more of their chocolatey\
   \ goodness! We’re giving away 8 of their bars to one NME AAA member including: \
   \ Crunchy Mint Dark Chocolate, Dark Chocolate, Hazelnut Mylk Chocolate, Lemon Cheesecake\
-  \ Caramel Chocolate, Creamy Chocolate, Salted Caramel and 3 of their 30g hearts!</p>\r\
-  \n<p>Want to try their amazing chocolates? Click below for a chance to win!</p>"
+  \ Caramel Chocolate, Creamy Chocolate, Salted Caramel and 3 of their 30g hearts!</p>\n\
+  <p>Want to try their amazing chocolates? Click below for a chance to win!</p>\n"
 hero-header: "Win a bundle of Loving Earth Chocolate Bars!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-126c0e83-c252-4c4d-a995-0ac7d26eea01.jpg"
@@ -27,23 +27,23 @@ bg-image-third: "https://assets.expresslyapp.com/asset-23c7a98a-5302-45dc-be3d-c
 section1-content: "<p>Loving Earth is an ethically driven chocolate company that believes\
   \ that Food is Sacred. They make healthy indulgences, in a way that’s good for our\
   \ planet that is our 100% plant-based chocolate, from cacao grown by the Ashaninka\
-  \ community at the Amazon River in Peru, where the cacao bean originates.</p>\r\n\
+  \ community at the Amazon River in Peru, where the cacao bean originates.</p>\n\
   <p>They’re “made from plants, wrapped in plants and sourced from the source” – all\
   \ of their chocolate bars are wrapped in a clear film that is 100% plant-based,\
-  \ 100% compostable and made from renewable sources! </p>"
-section2-content: "<p>Organic, no numbers or preservatives, only real whole food!</p>\r\
-  \n<p>At Loving Earth they're blessed with the best team in the world who ensure\
-  \ that their organic fairly traded ingredients become the high-quality products\
-  \ which end up in your hands.</p>\r\n<p>With over a dozen countries represented,\
-  \ they are truly an international ensemble!</p>"
+  \ 100% compostable and made from renewable sources! </p>\n"
+section2-content: "<p>Organic, no numbers or preservatives, only real whole food!</p>\n\
+  <p>At Loving Earth they're blessed with the best team in the world who ensure that\
+  \ their organic fairly traded ingredients become the high-quality products which\
+  \ end up in your hands.</p>\n<p>With over a dozen countries represented, they are\
+  \ truly an international ensemble!</p>\n"
 section3-content: "<p>If you can't wait to try their amazing range of chocolates,\
-  \ now you can!</p>\r\n<p>Enter the form below for a chance to win a bundle of Loving\
+  \ now you can!</p>\n<p>Enter the form below for a chance to win a bundle of Loving\
   \ Earth Chocolate Bars including: Crunchy Mint Dark Chocolate, Dark Chocolate, Hazelnut\
   \ Mylk Chocolate, Lemon Cheesecake Caramel Chocolate, Creamy Chocolate, Salted Caramel\
-  \ and 3 of their 30g hearts!</p>"
+  \ and 3 of their 30g hearts!</p>\n"
 entry-title: "Win a bundle of Loving Earth Chocolate Bars!"
-entry-content: "Enter the draw to win a bundle of Loving Earth Chocolate Bars by completing\
-  \ the form below before 23:59 on 16th of February 2019."
+entry-content: "<p>Enter the draw to win a bundle of Loving Earth Chocolate Bars by\
+  \ completing the form below before 23:59 on 16th of February 2019.</p>\n"
 has-winner: false
 prize-description: "A bundle of Loving Earth Chocolate Bars including: Crunchy Mint\
   \ Dark Chocolate, Dark Chocolate, Hazelnut Mylk Chocolate, Lemon Cheesecake Caramel\

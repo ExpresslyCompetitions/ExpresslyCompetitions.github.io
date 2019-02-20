@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
 competition-description: "<p>Echo Spot brings you everything you love about Alexa,\
   \ in an all-new stylish and compact design that can show you things. We are giving\
-  \ away the brand new Amazon Echo Spot to one of our readers!</p>\r\n<p>Want to discover\
+  \ away the brand new Amazon Echo Spot to one of our readers!</p>\n<p>Want to discover\
   \ all those things and features Alexa has to bring you? Click below for a chance\
-  \ to win!</p>"
+  \ to win!</p>\n"
 hero-header: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c6802563-ae4a-485a-9e2d-6bdb8c31318a.jpg"
@@ -25,15 +25,15 @@ section1-content: "</p>Just ask to see the weather, get the news with a video fl
   \ briefing, set a music alarm (Amazon Music, Spotify & TuneIn supported), see lyrics\
   \ (available in UK only) with Amazon Music, see your calendar, browse and listen\
   \ to Audible audiobooks, and more! Personalise your Spot with a collection of clock\
-  \ faces to suit your style or set a photo background from Prime Photos!</p>\r\n\
-  <p>Alexa is always getting smarter the more you use Echo Spot, the more Alexa adapts\
-  \ to your speech patterns, vocabulary and personal preferences. And because Spot\
-  \ is always connected, updates are delivered automatically!\r\n<p>Enter the form\
-  \ below for a chance to win the amazing Amazon Echo Spot and it could be yours!</p>\r\
-  \n<p>Good luck!</p>"
+  \ faces to suit your style or set a photo background from Prime Photos!</p>\n<p>Alexa\
+  \ is always getting smarter the more you use Echo Spot, the more Alexa adapts to\
+  \ your speech patterns, vocabulary and personal preferences. And because Spot is\
+  \ always connected, updates are delivered automatically!\n<p>Enter the form below\
+  \ for a chance to win the amazing Amazon Echo Spot and it could be yours!</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win the Amazon Echo Spot, Smart speaker and screen with Alexa!"
-entry-content: "Enter the draw to win the Amazon Echo Spot, Smart speaker and screen\
-  \ with Alexa by completing the form below before 23:59 on 2nd of November 2018."
+entry-content: "<p>Enter the draw to win the Amazon Echo Spot, Smart speaker and screen\
+  \ with Alexa by completing the form below before 23:59 on 2nd of November 2018.</p>\n"
 has-winner: false
 prize-description: "The Amazon Echo Spot, Smart speaker and screen with Alexa."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

@@ -11,8 +11,8 @@ title: "Win Mary Poppins Returns original soundtrack!"
 competition-description: "<p>We have in our hands the soundtrack of the greatest movie\
   \ of all times: Mary Poppins Returns on CD to one of our lucky members to win! ‘\
   Banks in the Bank’, ‘Mary Poppins arrives’, ‘Magic Papers’… are some of the amazing\
-  \ hits you could find in the album.</p> \r\n<p>Are you Mary’s biggest fan? Click\
-  \ below for a chance to win!</p>"
+  \ hits you could find in the album.</p> \n<p>Are you Mary’s biggest fan? Click below\
+  \ for a chance to win!</p>\n"
 hero-header: "Win Mary Poppins Returns original soundtrack!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e7e436e1-a654-4ace-8bb6-16c17f15cb0e.jpg"
@@ -26,12 +26,12 @@ section1-content: "<p>Mary Poppins is back to help the next generation of the Ba
   \ practically-perfect nanny with unique magical skills who can turn any task into\
   \ an unforgettable, fantastic adventure and Lin-Manuel Miranda plays her friend\
   \ Jack, an optimistic street lamplighter who helps bring light and life to the streets\
-  \ of London</p>\r\n<p>If you want Mary Poppins magically re-enter into your life…\
+  \ of London</p>\n<p>If you want Mary Poppins magically re-enter into your life…\
   \ enter the form below for a chance to win the soundtrack of the movie now! Good\
-  \ luck!</p>"
+  \ luck!</p>\n"
 entry-title: "Win Mary Poppins Returns original soundtrack!"
-entry-content: "Enter the draw to win Mary Poppins Returns CD by completing the form\
-  \ below before 23:59 on 31st of January 2019."
+entry-content: "<p>Enter the draw to win Mary Poppins Returns CD by completing the\
+  \ form below before 23:59 on 31st of January 2019.</p>\n"
 has-winner: false
 prize-description: "Mary Poppins Returns original soundtrack."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

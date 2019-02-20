@@ -14,11 +14,11 @@ competition-description: "<p>Bring Me The Horizon announced southern California 
   \ ‘First Love’ Tour. Produced by Live Nation, the tour will kick off January 23\
   \ and will include stops at The Forum in Los Angeles and Hammerstein Ballroom in\
   \ New York, where a second show was added due to overwhelming demand. Tickets are\
-  \ available now at LiveNation.com</p>\r\n<p>We want YOU to come along with us, that’\
+  \ available now at LiveNation.com</p>\n<p>We want YOU to come along with us, that’\
   s why we are giving away 3 pairs of tickets to 3 lucky NME AAA members to win and\
   \ join Bring Me  The Horizon on their North American tour to a concert at a city\
-  \ of their choice!</p>\r\n<p>Does it sound like the best plan? Click below for a\
-  \ chance to win!</p>"
+  \ of their choice!</p>\n<p>Does it sound like the best plan? Click below for a chance\
+  \ to win!</p>\n"
 hero-header: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
   \ Love’ Tour!"
 terms-confirmation: "BringMeTheHorizonNMEAAA-terms.pdf"
@@ -34,36 +34,36 @@ section1-content: "<p>Bring Me The Horizon is one of the most exciting and succe
   \ rock bands to emerge from the U.K., selling over 2 Million albums globally to\
   \ date, playing sell out shows in over 40 countries, including two sold out nights\
   \ at London’s O2, plus wowing a traditionally non rock crowd at Glastonbury Festival\
-  \ in 2016.</p>\r\n<p>Poised now to release their sixth studio album, the band have\
+  \ in 2016.</p>\n<p>Poised now to release their sixth studio album, the band have\
   \ spent the summer writing and recording in Los Angeles, with Oli Sykes and Jordan\
   \ Fish handling production. What has transpired is one of their most exhilarating,\
   \ genre crossing albums to date. The Album will be released on January 25 via Columbia\
-  \ Records!</p>"
+  \ Records!</p>\n"
 section2-content: "<p>The band announced southern California rock band Thrice will\
   \ join them as support on all dates of their North American 16-city ‘First Love’\
   \ Tour. In 2016 Thrice released\_To Be Everywhere Is to Be Nowhere\_(via Vagrant\
-  \ Records).</p>\r\n<p>Featuring frontman Dustin Kensrue, guitarist Teppei Teranishi,\
+  \ Records).</p>\n<p>Featuring frontman Dustin Kensrue, guitarist Teppei Teranishi,\
   \ bassist Eddie Breckenridge, and drummer Riley Breckenridge, the band made their\
   \ debut with the 2000 album\_Identity Crisis. With later releases including their\
   \ 2003 breakout\_The Artist in the Ambulance\_and a duo of concept LPs (2007/8’\
   s\_The Alchemy Index: Fire and Water and Earth and Air), Thrice took a several-year\
   \ hiatus starting in 2012. Arriving in May 2016,\_To Be Everywhere Is to Be Nowhere\_\
   proved to be Thrice’s most politically-minded yet vulnerable work to date. The band’\
-  s newest album\_Palms was released this year on Epitaph Records.</p>\r\n<p>It was\
+  s newest album\_Palms was released this year on Epitaph Records.</p>\n<p>It was\
   \ also previously announced that Los Angeles trio FEVER 333 will join the tour as\
   \ support on all dates. Known for their hard-hitting hybrid of hip-hop, punk, and\
   \ activism, the band recently released a video for the remix of their track 'Made\
-  \ An America' featuring Travis Barker and Vic Mensa."
+  \ An America' featuring Travis Barker and Vic Mensa.\n"
 section3-content: "<p>We have 3 pairs of tickets to attend Bring Me The Horizon North\
   \ American ‘First Love’ Tour to 3 lucky winners and join the band to a concert at\
-  \ a city of their choice except the 1/29 NY show.</p>\r\n<p>If you are BMTH biggest\
+  \ a city of their choice except the 1/29 NY show.</p>\n<p>If you are BMTH biggest\
   \ fan… What are you waiting for? Enter the form below for a chance to win and get\
-  \ ready to have a BLAST at Bring Me The Horizon ‘First Love’ Tour!</p>"
+  \ ready to have a BLAST at Bring Me The Horizon ‘First Love’ Tour!</p>\n"
 entry-title: "Win a pair of tickets to Bring Me The Horizon North American ‘First\
   \ Love’ Tour!"
-entry-content: "Enter the draw to win a pair of tickets to Bring Me The Horizon North\
-  \ American ‘First Love’ Tour by completing the form below before 23:59 EST on 13th\
-  \ of January 2019."
+entry-content: "<p>Enter the draw to win a pair of tickets to Bring Me The Horizon\
+  \ North American ‘First Love’ Tour by completing the form below before 23:59 EST\
+  \ on 13th of January 2019.</p>\n"
 has-winner: false
 prize-description: "One of 3 pairs of tickets to attend Bring Me The Horizon ‘First\
   \ Love’ Tour  concert at a city of their choice except the 1/29 NY show.\r\n\r\n\

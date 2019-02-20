@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Dua Lipa debut album vinyl edition!"
 competition-description: "<p>Calling all Dua Lipa lovers! We have managed to get our\
   \ hands on the fantastic and terrific debut album vinyl edition from the number\
-  \ one singer right now! DUA LIPA!</p>\r\n<p>If you are her biggest fan… click below\
-  \ and it could be yours!</p>"
+  \ one singer right now! DUA LIPA!</p>\n<p>If you are her biggest fan… click below\
+  \ and it could be yours!</p>\n"
 hero-header: "Win Dua Lipa debut album vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-171c2fe3-699b-4eec-821a-d2f511ffe680.jpg"
@@ -22,13 +22,13 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-597c9642-c490-4185-a3aa-42
 bg-image-first: "https://assets.expresslyapp.com/asset-f7b20521-21f7-4c0d-b4a0-228c5615465a.jpg"
 section1-content: "<p>Can anything stop Dua Lipa? The London-born singer has sold\
   \ more than a million copies of her self-titled debut album and she has become one\
-  \ of the most streamed female artist in the UK!</p>\r\n<p>Blow Your Mind, New Rules,\
+  \ of the most streamed female artist in the UK!</p>\n<p>Blow Your Mind, New Rules,\
   \ Be The One… are some of her amazing hits you can find on her album! If you want\
   \ to listen her tunes anywhere you go, enter the form below and you could be listening\
-  \ Dua’s debut album vinyl edition now!</p>"
+  \ Dua’s debut album vinyl edition now!</p>\n"
 entry-title: "Win Dua Lipa debut album vinyl edition!"
-entry-content: "Enter the draw to win Dua Lipa debut album vinyl edition by completing\
-  \ the form below before 23:59 on 3rd of September 2018."
+entry-content: "<p>Enter the draw to win Dua Lipa debut album vinyl edition by completing\
+  \ the form below before 23:59 on 3rd of September 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Holly K. who won the amazing Dua Lipa debut album\
   \ on vinyl edition!"

@@ -11,8 +11,8 @@ title: "Win Mamma Mia! Here We Go Again on Blu-ray!"
 competition-description: "<p>Get ready to sing and dance, laugh and love all over\
   \ again. Ten years after Mamma Mia! The Movie grossed more than $600 million, you’\
   re invited to return to the magical Greek island of Kalokairi in an all-new original\
-  \ musical based on the songs of ABBA</p>\r\n<p>Are you Mamma Mia’s biggest fan?\
-  \ Click below for a chance to win!</p>"
+  \ musical based on the songs of ABBA</p>\n<p>Are you Mamma Mia’s biggest fan? Click\
+  \ below for a chance to win!</p>\n"
 hero-header: "Win Mamma Mia! Here We Go Again on Blu-ray!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0a4bb197-6625-4f5a-a063-38ab9e392dc1.jpg"
@@ -24,13 +24,13 @@ bg-image-first: "https://assets.expresslyapp.com/asset-67c6fd9d-90c5-42c0-955b-7
 section1-content: "</p>Sophie (Amanda Seyfried) is now pregnant, and like her mother\
   \ Donna (Meryl Streep), she will need to take risks. The film’s original cast returns\
   \ with new additions including Lily James as a young Donna, And García and Oscar\
-  \ winner Cher!</p>\r\n<p>The Blu-ray includes the original version, plus Sing-Along\
+  \ winner Cher!</p>\n<p>The Blu-ray includes the original version, plus Sing-Along\
   \ Edition and over 2 hours bonus features including: Deleted son performances and\
-  \ scenes, Mamma Mia! reunited, Meeting Cher… and many more for you to discover!</p>\r\
-  \n<p>Enter the form below and get ready to enjoy this amazing movie! Good luck!</p>"
+  \ scenes, Mamma Mia! reunited, Meeting Cher… and many more for you to discover!</p>\n\
+  <p>Enter the form below and get ready to enjoy this amazing movie! Good luck!</p>\n"
 entry-title: "Win Mamma Mia! Here We Go Again on Blu-ray!"
-entry-content: "Enter the draw to win Mamma Mia! Here We Go Again on Blu-ray by completing\
-  \ the form below before 23:59 on 16th of November 2018."
+entry-content: "<p>Enter the draw to win Mamma Mia! Here We Go Again on Blu-ray by\
+  \ completing the form below before 23:59 on 16th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Richard B. who won Mamma Mia! Here We Go Again on\
   \ Blu-ray!"

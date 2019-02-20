@@ -11,8 +11,8 @@ title: "Show you inner rock n' roll & retro side with Phix"
 competition-description: "<p>At Phix they combine their passion for British tailoring,\
   \ retro styling and rock n' roll to produce their exclusive range of jackets, coats,\
   \ shirting and accessories. Retro and Rock n Roll influences defined with nostalgia\
-  \ and finished with a modern British edge.</p>\r\n<p>Don't miss out their up to\
-  \ 50% discount at their coats & jackets, shirts and accessories! Buy them now!</p>"
+  \ and finished with a modern British edge.</p>\n<p>Don't miss out their up to 50%\
+  \ discount at their coats & jackets, shirts and accessories! Buy them now!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-f4f6bf10-7aad-48dc-8819-d64c788dff08.jpg"
 logo-left-href: "https://www.phixclothing.com/collections/mens-retro-jackets-coats"
 logo-left-image: "https://assets.expresslyapp.com/0e9a1752-b267-43cd-8030-d47bfb75e09b-thumb.png"

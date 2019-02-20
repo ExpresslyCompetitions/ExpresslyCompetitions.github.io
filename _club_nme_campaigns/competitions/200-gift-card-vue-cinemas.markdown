@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a £200 gift card at Vue cinemas!"
 competition-description: "<p>Looking forward to spending a great night out with friends?\
   \ NME AAA has the perfect solution for YOU! We’re giving away a £200 gift card to\
-  \ spend at VUE cinemas!</p>\r\n<p>If this sounds like the best plan for your weekend,\
-  \ click below!</p>"
+  \ spend at VUE cinemas!</p>\n<p>If this sounds like the best plan for your weekend,\
+  \ click below!</p>\n"
 hero-header: "Win a £200 gift card at Vue cinemas!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-07252430-15d2-4f3e-845e-9e5366fe903f.jpg"
@@ -22,22 +22,22 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-dd3d0f1b-7478-4cfe-8a7c-3a
 bg-image-first: "https://assets.expresslyapp.com/asset-5132afb3-0d22-4ab6-a808-7b4d3bd693d6.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-31c8cfc5-6412-4ede-995d-bd1e2d7c8b6a.jpg"
 section1-content: "<p>Vue Entertainment (Vue) is a leader in the premium entertainment\
-  \ cinema sector in the UK.</p>\r\n<p>Committed to continued growth and development\
+  \ cinema sector in the UK.</p>\n<p>Committed to continued growth and development\
   \ of its premium entertainment ‘big screen’ experience, Vue delivers the best choice\
-  \ of content, combined with the best technology in the best environment.</p>\r\n\
-  <p>Vue Cinemas around the UK offer a range of content: event cinema titles including\
+  \ of content, combined with the best technology in the best environment.</p>\n<p>Vue\
+  \ Cinemas around the UK offer a range of content: event cinema titles including\
   \ opera, ballet, musicals, national theatre, live streaming of sporting events and\
   \ concerts through to hosting Gaming championships and dedicating multiple screens\
-  \ to eGaming arenas.</p>"
+  \ to eGaming arenas.</p>\n"
 section2-content: "<p>We know that there is nothing better than immerse yourself in\
-  \ a film, storyline or signing along your favourite soundtrack…</p>\r\n<p>…AND we\
+  \ a film, storyline or signing along your favourite soundtrack…</p>\n<p>…AND we\
   \ know as well that movies bring friends together and now, thanks to NME AAA you\
   \ can treat yourself or take someone you love to VUE cinemas because we’re giving\
   \ away a £200 gift card to spend at VUE cinemas for one lucky NME AAA member to\
-  \ win!</p>"
+  \ win!</p>\n"
 entry-title: "Win a £200 gift card at Vue cinemas!"
 entry-content: "<p>Complete the form below before June 27th at 23:59 and enjoy your\
-  \ favourite movie and those popcorns at Vue cinemas!</p>"
+  \ favourite movie and those popcorns at Vue cinemas!</p>\n"
 has-winner: false
 prize-description: "A £200 gift card at Vue cinemas!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\

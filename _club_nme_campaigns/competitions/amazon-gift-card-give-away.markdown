@@ -11,7 +11,7 @@ title: "Win a £100 Amazon Gift card!"
 competition-description: "<p>Music cd’s, storage, food, health & beauty… at Amazon\
   \ they have something for everybody and now you can take advantage of all their\
   \ products because we’re giving away one amazing £100 Amazon Gift card for one of\
-  \ our lucky NME AAA members!</p>\r\n<p>Do you want it? Click below to know how!</p>"
+  \ our lucky NME AAA members!</p>\n<p>Do you want it? Click below to know how!</p>\n"
 hero-header: "Win a £100 Amazon Gift card!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-08d77aee-c707-4057-a694-ddc4b4229bdd.jpg"
@@ -25,17 +25,17 @@ section1-content: "<p>At Amazon their mission is raise the bar of the customer e
   \ by using the internet and technology to help consumers find, discover and buy\
   \ anything, and empower businesses and content creators to maximise their success.\
   \ That is why they have become a titan of e-commerce, logistics, payments, hardware,\
-  \ data storage, and media!</p>"
+  \ data storage, and media!</p>\n"
 section2-content: "<p>Amazon.com is a vast Internet-based enterprise that sells books,\
-  \ music, movies, housewares, electronics, toys, and many other goods!</p>\r\n<p>If\
+  \ music, movies, housewares, electronics, toys, and many other goods!</p>\n<p>If\
   \ you want to enjoy the best music, books & more now thanks to NME AAA you can,\
-  \ because we have a a £100 Amazon Gift card and we want to give it to YOU!</p>\r\
-  \n<p>Hurry up! Enter the form below and treat yourself with that cd you’ve always\
+  \ because we have a a £100 Amazon Gift card and we want to give it to YOU!</p>\n\
+  <p>Hurry up! Enter the form below and treat yourself with that cd you’ve always\
   \ wanted or your loved ones with that bbq for the summer with a £100 Amazon Gift\
-  \ card!</p>\r\n<p>Good luck!</p>"
+  \ card!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a £100 Amazon Gift card!"
-entry-content: "Enter the draw to win a £100 Amazon Gift card by completing the form\
-  \ below before 23:59 on 4th of August 2018."
+entry-content: "<p>Enter the draw to win a £100 Amazon Gift card by completing the\
+  \ form below before 23:59 on 4th of August 2018.</p>\n"
 has-winner: false
 prize-description: "A £100 Amazon Gift card!"
 special-conditions: "Multiple entries are allowed up to one every day."

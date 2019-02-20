@@ -13,8 +13,8 @@ competition-description: "<p>Calling all the NME fans, we have great news for yo
   \ collection of NME’s best albums of the year, including records by The 1975, Arctic\
   \ Monkeys, Idles, Shame, Parquet Courts, Brockhampton and Sunflower Bean AND our\
   \ second prize, five of NME’s best albums of 2018, including our winning album by\
-  \ The 1975.</p>\r\n<p>Does it sound like the best present of your 2018? Enter the\
-  \ form below for a chance to win!</p>"
+  \ The 1975.</p>\n<p>Does it sound like the best present of your 2018? Enter the\
+  \ form below for a chance to win!</p>\n"
 hero-header: "Win NME’s best albums of 2018 on vinyl!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-62ea053d-ddcd-4d72-bf42-658dccbd666f.jpg"
@@ -29,18 +29,18 @@ section1-content: "<p>Hasn't it been a huge year for music. From brilliant debut
   \ by the likes of Shame and Kali Uchis, to huge returns from Arctic Monkeys and\
   \ The 1975, we've been truly spoilt. And after intense discussion and a few temper\
   \ tantrums NME have managed to whittle down our favourite records to our top 100\
-  \ albums of the year!"
+  \ albums of the year!\n"
 section2-content: "<p>And to celebrate, now you can win a collection of NME's top\
-  \ albums on vinyl.</p>\r\n<p>Our first prizewinner will get a collection of NME’\
-  s best albums of the year, including records by The 1975, Arctic Monkeys, Idles,\
-  \ Shame, Parquet Courts, Brockhampton and Sunflower Bean.</p>\r\n<p>Our second prizewinner\
+  \ albums on vinyl.</p>\n<p>Our first prizewinner will get a collection of NME’s\
+  \ best albums of the year, including records by The 1975, Arctic Monkeys, Idles,\
+  \ Shame, Parquet Courts, Brockhampton and Sunflower Bean.</p>\n<p>Our second prizewinner\
   \ will get five of NME’s best albums of 2018, including our winning album by The\
-  \ 1975.</p>"
+  \ 1975.</p>\n"
 section3-content: "<p>Sound good? Well to win all you have to do is enter the form\
-  \ below for a chance to win.</p>\r\n<p>Good luck!</p>"
+  \ below for a chance to win.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win NME’s best albums of 2018 on vinyl!"
-entry-content: "Enter the draw to win NME’s best albums of 2018 on vinyl\r\nby completing\
-  \ the form below before 23:59 on 31st of December 2018."
+entry-content: "<p>Enter the draw to win NME’s best albums of 2018 on vinyl\nby completing\
+  \ the form below before 23:59 on 31st of December 2018.</p>\n"
 has-winner: false
 prize-description: "NME’s best albums of 2018 on vinyl.\r\nEach winner will be randomly\
   \ assigned 1 of the two prizes: \r\n- A collection of NME’s best albums of the year,\

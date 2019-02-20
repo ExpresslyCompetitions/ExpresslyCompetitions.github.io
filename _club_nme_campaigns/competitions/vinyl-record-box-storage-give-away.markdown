@@ -12,7 +12,7 @@ competition-description: "<p>One of the best feelings of being a vinyl record co
   \ is searching through boxes full of them! music stores, thrift shops, old garages…\
   \ at NME AAA we found a smart and stylish way to organise your collection: we have\
   \ in our hands the Power Dynamics Vinyl Record Box Storage for you to keep your\
-  \ collections in check!</p>\r\n<p>Do you want it? Click below to know more!</p>"
+  \ collections in check!</p>\n<p>Do you want it? Click below to know more!</p>\n"
 hero-header: "Win a Power Dynamics Vinyl Record Box Storage!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9325b3de-bb5d-4b9c-9843-517b42f30484.jpg"
@@ -24,15 +24,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-d3f88853-debb-499f-ae90-e
 section1-content: "<p>This silver, Power Dynamics record carrying case neatly stores\
   \ 100 x 12\" vinyl records / LPs and protects them from wear and tear! Proper handling\
   \ and storage can mean the difference between warped, ruined records and an immaculate,\
-  \ long-lasting collection.</p>\r\n<p>This robust case keeps 100 x 12\" records neat\
+  \ long-lasting collection.</p>\n<p>This robust case keeps 100 x 12\" records neat\
   \ and tidy, and guards against bumps, blows, moisture and other mishaps of everyday\
-  \ life!\r\nBest of all, it makes your collection instantly portable, so you can\
-  \ carry your albums with you with ease.</p>\r\n<p>Think no more and click below\
-  \ for a chance to win the best storage option for your collection! the Power Dynamics\
-  \ Vinyl Record Box Storage!</p>"
+  \ life!\nBest of all, it makes your collection instantly portable, so you can carry\
+  \ your albums with you with ease.</p>\n<p>Think no more and click below for a chance\
+  \ to win the best storage option for your collection! the Power Dynamics Vinyl Record\
+  \ Box Storage!</p>\n"
 entry-title: "Win a Power Dynamics Vinyl Record Box Storage!"
 entry-content: "<p>Enter the draw to win the Power Dynamics Vinyl Record Box Storage\
-  \ by completing the form below before 23:59 on 21st July 2018.</p>"
+  \ by completing the form below before 23:59 on 21st July 2018.</p>\n"
 has-winner: false
 prize-description: "A '100 x 12' Power Dynamics Vinyl Record Box Storage."
 special-conditions: "Multiple entries are allowed up to one every day."

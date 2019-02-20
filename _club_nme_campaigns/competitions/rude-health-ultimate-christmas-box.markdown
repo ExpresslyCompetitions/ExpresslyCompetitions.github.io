@@ -12,8 +12,8 @@ competition-description: "<p>At Rude Health, they make their food out of great t
   \ and don’t add anything fake or artificial. They believe in living fast and dying\
   \ old, If you live like that… you’re in rude health club and we are sure you won’\
   t want to miss this: we’re giving away one Rude Health Ultimate Christmas Box to\
-  \ one lucky NME AAA member to win and try their delicious goodies!</p>\r\n<p>Want\
-  \ them? Click below for a chance to win!</p>"
+  \ one lucky NME AAA member to win and try their delicious goodies!</p>\n<p>Want\
+  \ them? Click below for a chance to win!</p>\n"
 hero-header: "Win the Rude Health Ultimate Christmas Box!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-492942dc-1fc6-46b4-ab7f-1307c927d132.jpg"
@@ -28,24 +28,24 @@ section1-content: "<p>In 2005, Nick and Camilla Barnard set out to create the wo
   s most enjoyable muesli. As well as being face-meltingly delicious, this Ultimate\
   \ Muesli turned out to be incredibly good for you. Twelve years later, it’s still\
   \ blowing people’s pyjamas off, and it’s been joined by a huge range of Rude Health\
-  \ cereals, snacks and drinks made using the best of the best ingredients.</p>"
+  \ cereals, snacks and drinks made using the best of the best ingredients.</p>\n"
 section2-content: "<p>With good food inside you, you can do just about anything and\
   \ that’s exactly how we want YOU to feel! With Christmas just around the corner,\
-  \ we want to treat you with The Ultimate Rude Health Christmas Box!</p>\r\n<p>This\
+  \ we want to treat you with The Ultimate Rude Health Christmas Box!</p>\n<p>This\
   \ amazing Christmas Box is bursting with merry mueslis, dashing drinks and Christmas\
   \ crackers (the edible kind). The lucky winner will receive Coconut Drink, Almond\
   \ Drink, Tiger Nut Drink, Cashew Drink, Honey Spelt Puffs, The Ultimate Muesli,\
   \ The Ultimate Granola, Bircher Soft and Fruity, Sprouted Porridge Oats, Ginger\
   \ and Turmeric Oaty, Black Sesame and Chia Oaty, Chickenpea and Lentil Crackers,\
   \ The Peanut Bar, The Coconut Bar, The Pumpkin Bar and The Sweet Potato and Cacao\
-  \ Bar.</p>"
+  \ Bar.</p>\n"
 section3-content: "<p>The perfect parcel for Crimbo-holics and grumpy grinches alike.\
   \ Enter the form below for a chance to win this amazing Christmas Box courtesy of\
-  \ Rude Health and get ready to try their delicious range of products!</p>\r\n<p>Good\
-  \ luck!</p>"
+  \ Rude Health and get ready to try their delicious range of products!</p>\n<p>Good\
+  \ luck!</p>\n"
 entry-title: "Win the Rude Health Ultimate Christmas Box!"
-entry-content: "Enter the draw to win the Rude Health Ultimate Christmas Box\r\nby\
-  \ completing the form below before 23:59 on 16th of December 2018."
+entry-content: "<p>Enter the draw to win the Rude Health Ultimate Christmas Box\n\
+  by completing the form below before 23:59 on 16th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Sally P. who won an amazing bundle of Rude Health\
   \ products!"

@@ -10,9 +10,8 @@ has_entry_page: true
 title: "Win the Fire TV Stick with Alexa Voice Remote!"
 competition-description: "<p>The most powerful streaming media stick, with the fastest\
   \ Wi-Fi and most accurate voice search-now is in our hands and we want to give it\
-  \ to YOU!: The ultimate Fire TV Stick with Alexa Voice remote!</p>\r\n<p>Looking\
-  \ forward to stream your favourite shows on the big screen? Click below to know\
-  \ more!</p>"
+  \ to YOU!: The ultimate Fire TV Stick with Alexa Voice remote!</p>\n<p>Looking forward\
+  \ to stream your favourite shows on the big screen? Click below to know more!</p>\n"
 hero-header: "Win the Fire TV Stick with Alexa Voice Remote!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-e28918ee-557d-464f-afcc-9417cc134791.jpg"
@@ -25,12 +24,12 @@ section1-content: "<p>With the Fire TV Stick there’s something always on, just
   \ your Fire TV Stick into an HDTV and start streaming in minutes! Has the fastest\
   \ Wi-Fi and most accurate voice search of any streaming media stick.</p> <p>Shows\
   \ start faster and stream more smoothly than ever before! Access to Amazon Video,\
-  \ Netflix, Curzon Home Cinema, live TV, YouTube, Facebook.. and many more!</p>\r\
-  \n<p>Enter the form below for a chance to win and be ready to entertain your way\
-  \ with the brand new Fire TV Stick with Alexa Voice Remote!</p>"
+  \ Netflix, Curzon Home Cinema, live TV, YouTube, Facebook.. and many more!</p>\n\
+  <p>Enter the form below for a chance to win and be ready to entertain your way with\
+  \ the brand new Fire TV Stick with Alexa Voice Remote!</p>\n"
 entry-title: "Win the Fire TV Stick with Alexa Voice Remote!"
 entry-content: "<p>Enter the draw to win the innovative Fire TV Stick with Alexa Voice\
-  \ Remote by completing the form below before 23:59 on 1st July 2018.</p>"
+  \ Remote by completing the form below before 23:59 on 1st July 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Debbie W. who won  the Fire TV Stick with Alexa\
   \ Voice Remote!"

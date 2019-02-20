@@ -11,9 +11,9 @@ title: "Win Life in Technicolor: A Celebration of Coldplay book!"
 competition-description: "<p>We have a very special book of the story of the most\
   \ successful UK band of modern times: Coldplay. The first book written about the\
   \ band by someone from the inside. Life in Technicolor contains fascinating unpublished\
-  \ personal memorabilia as well as visual content from the band’s collection.</p>\r\
-  \n<p>Want to have full access to Coldplay's art archives? Click below for a chance\
-  \ to win.</p>"
+  \ personal memorabilia as well as visual content from the band’s collection.</p>\n\
+  <p>Want to have full access to Coldplay's art archives? Click below for a chance\
+  \ to win.</p>\n"
 hero-header: "Win Life in Technicolor: A Celebration of Coldplay book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-410bc27b-6898-44da-942f-cb63218bd20b.jpg"
@@ -28,14 +28,14 @@ section1-content: "<p>Life in Technicolor is the first behind-the-scenes look at
   \ than ten people. One of these people was Debs Wild, a record company talent scout\
   \ who immediately knew she'd seen the future. To celebrate the band's twentieth\
   \ anniversary, Debs Wild - the discoverer of Coldplay - and Malcolm Croft look back\
-  \ on the band's phenomenal rise to glory.</p>\r\n<p>Life In Technicolor: A Celebration\
+  \ on the band's phenomenal rise to glory.</p>\n<p>Life In Technicolor: A Celebration\
   \ of Coldplay charts the band's extraordinary history from the very first rehearsal\
   \ right through to the conclusion of their record-breaking A Head Full of Dreams\
   \ Tour. With a unique insider's perspective and never-before-seen photos, this book\
-  \ will delight Coldplay's legions of fans across the globe.</p>"
+  \ will delight Coldplay's legions of fans across the globe.</p>\n"
 entry-title: "Win Life in Technicolor: A Celebration of Coldplay book!"
-entry-content: "Enter the draw to win Life in Technicolor: A Celebration of Coldplay\
-  \ book by completing the form below before 23:59 on 15th March 2019."
+entry-content: "<p>Enter the draw to win Life in Technicolor: A Celebration of Coldplay\
+  \ book by completing the form below before 23:59 on 15th March 2019.</p>\n"
 has-winner: false
 prize-description: "Life in Technicolor: A Celebration of Coldplay book."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

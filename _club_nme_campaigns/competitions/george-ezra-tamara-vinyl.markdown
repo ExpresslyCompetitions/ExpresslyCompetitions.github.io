@@ -12,8 +12,8 @@ competition-description: "<p>George Ezra returns with his highly anticipated sop
   \ album Staying At Tamara’s. Three years after the release of his 4x platinum, number\
   \ one debut album Wanted On Voyage, George returns with a collection of “songs about\
   \ escapism, dreaming, anxieties and love. We are giving away his brand new album\
-  \ on vinyl edition to one of our lucky members!</p>\r\n<p>Want to enjoy George Ezra’\
-  s new tunes? Click below for a chance to win!</p>"
+  \ on vinyl edition to one of our lucky members!</p>\n<p>Want to enjoy George Ezra’\
+  s new tunes? Click below for a chance to win!</p>\n"
 hero-header: "Win George Ezra ‘Staying at Tamara’s’ vinyl!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ee6fdea3-ac5f-4e52-8f6a-f5f8d8de73f6.jpg"
@@ -29,11 +29,11 @@ section1-content: "<p>Uninhibited, feel-good new single ‘Paradise’ previews 
   \ in Kent; a converted cow shed in north Wales; and in an Airbnb in Barcelona owned\
   \ by the Tamara of the album’s title. The result is a finger-snapping, brass-blaring,\
   \ wind-in-the-hair album that shines with positivity and encouragement, alongside\
-  \ moments of more subdued reflection.</p>\r\n<p>This album is a MUST! Enter the\
-  \ form below for a chance to win and it could be coming home with you! Good luck!</p>"
+  \ moments of more subdued reflection.</p>\n<p>This album is a MUST! Enter the form\
+  \ below for a chance to win and it could be coming home with you! Good luck!</p>\n"
 entry-title: "Win George Ezra ‘Staying at Tamara’s’ vinyl!"
-entry-content: "Enter the draw to win George Ezra ‘Staying at Tamara’s’ vinyl by completing\
-  \ the form below before 23:59 on 7th of January 2019."
+entry-content: "<p>Enter the draw to win George Ezra ‘Staying at Tamara’s’ vinyl by\
+  \ completing the form below before 23:59 on 7th of January 2019.</p>\n"
 has-winner: false
 prize-description: "George Ezra ‘Staying at Tamara’s’ vinyl."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

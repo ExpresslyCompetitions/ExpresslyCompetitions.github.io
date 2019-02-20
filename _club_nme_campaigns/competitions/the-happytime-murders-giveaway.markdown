@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win The Happytime Murders on DVD & a DVD player to watch it!"
 competition-description: "<p>Discover what happens on the other side of the street\
   \ in the outrageous comedy,\_The Happytime Murders, courtesy of STXinternational,\
-  \ a division of STX Entertainment, and Sony Pictures Home Entertainment.</p>\r\n\
-  <p>We are giving away 6 copies of this fun comedy The Happytime Murders to 6 lucky\
-  \ NME AAA members PLUS 1 amazing DVD player to 1 of them to win!</p>\r\n<p>Does\
-  \ it sound like the best plan for your weekend? Enter below for a chance to win!</p>"
+  \ a division of STX Entertainment, and Sony Pictures Home Entertainment.</p>\n<p>We\
+  \ are giving away 6 copies of this fun comedy The Happytime Murders to 6 lucky NME\
+  \ AAA members PLUS 1 amazing DVD player to 1 of them to win!</p>\n<p>Does it sound\
+  \ like the best plan for your weekend? Enter below for a chance to win!</p>\n"
 hero-header: "Win The Happytime Murders on DVD & a DVD player to watch it!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4e2f18ab-3994-4c07-8f55-95612c24d2de.jpg"
@@ -28,25 +28,26 @@ section1-content: "<p>No Sesame. All Street. The Happytime Murders, out today on
   \ is a fun comedy set in the underbelly of Los Angeles where puppets and humans\
   \ coexist. Two clashing detectives with a shared secret, one human and one puppet,\
   \ are forced to work together again to solve the brutal murders of the former cast\
-  \ of a beloved classic puppet television show.</p>\r\n<p>The Happytime Murders is\
+  \ of a beloved classic puppet television show.</p>\n<p>The Happytime Murders is\
   \ directed and produced by Brian Henson (The Muppet Christmas Carol) and features\
   \ an all-star comedy cast including Melissa McCarthy (The Boss, Spy, Bridesmaids),\
   \ Maya Rudolph (Bridesmaids), Joel McHale (TV’s Community), and Elizabeth Banks\
-  \ (The Hunger Games).</p>"
-section2-content: "Detective Phil Philips is a down-on-his-luck puppet who used to\
-  \ work in the Los Angeles Police Department. When two puppets from an old TV show\
-  \ wind up dead, Phil suspects something is afoot and returns to the LAPD as a consultant.\
-  \ Reunited with his former human police partner, Connie Edwards, the squabbling\
-  \ twosome soon find themselves in a race against time to save former cast members\
-  \ before the killer strikes again."
+  \ (The Hunger Games).</p>\n"
+section2-content: "<p>Detective Phil Philips is a down-on-his-luck puppet who used\
+  \ to work in the Los Angeles Police Department. When two puppets from an old TV\
+  \ show wind up dead, Phil suspects something is afoot and returns to the LAPD as\
+  \ a consultant. Reunited with his former human police partner, Connie Edwards, the\
+  \ squabbling twosome soon find themselves in a race against time to save former\
+  \ cast members before the killer strikes again.</p>\n"
 section3-content: "<p>This amazing DVD includes exclusive bonus features for you to\
   \ get stuck into! We are giving away 6 copies of this fun comedy The Happytime Murders\
-  \ to 6 lucky NME AAA members PLUS 1 amazing DVD player to 1 of them!</p>\r\n<p>Enter\
+  \ to 6 lucky NME AAA members PLUS 1 amazing DVD player to 1 of them!</p>\n<p>Enter\
   \ the form below for a chance to win and get ready to have the best night in watching\
-  \ this outrageous comedy! Good luck!</p>"
+  \ this outrageous comedy! Good luck!</p>\n"
 entry-title: "Win The Happytime Murders on DVD & a DVD player to watch it!"
-entry-content: "Enter the draw to win The Happytime Murders on DVD & a DVD player\
-  \ to watch it by completing the form below before 23:59 on 19th of January 2019."
+entry-content: "<p>Enter the draw to win The Happytime Murders on DVD &amp; a DVD\
+  \ player to watch it by completing the form below before 23:59 on 19th of January\
+  \ 2019.</p>\n"
 has-winner: false
 prize-description: "6 winners win The Happytime Murders on DVD & one of the 6 winners\
   \ win a  DVD player to watch it.\r\nDVD player (TBA)."

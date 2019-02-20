@@ -8,11 +8,11 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Christmas at York Museum Gardens"
-competition-description: "Christmas at York Museum Gardens: experience the magic after\
-  \ dark\n- York's newest Christmas attraction - The first ever enchanted trail through\
-  \ York Museum Gardens at Christmas - A spectacle of beautiful light installations\
-  \ and illuminations along the trail - An after-dark explosion of festive colour\
-  \ and twinkling lights "
+competition-description: "<p>Christmas at York Museum Gardens: experience the magic\
+  \ after dark</p>\n<ul>\n<li>York's newest Christmas attraction - The first ever\
+  \ enchanted trail through York Museum Gardens at Christmas - A spectacle of beautiful\
+  \ light installations and illuminations along the trail - An after-dark explosion\
+  \ of festive colour and twinkling lights</li>\n</ul>\n"
 banner-img: "seeticketsyorkmuseumgardens-main_image.jpg"
 logo-left-href: "https://www.seetickets.com/tour/christmas-at-york-museum-gardens"
 logo-left-image: "seetickets-logo.png"

@@ -11,8 +11,8 @@ title: "Win What Do You Meme? Adult Party Game - U.K. Edition!"
 competition-description: "<p>Want to have the Party Card Game everybody’s talking\
   \ about? We have a copy and this one is for YOU! We are giving away the hilarious\
   \ What Do You Meme? Adult Party Game U.K Edition, the game for friends for the social\
-  \ media generation, for you to have a BLAST!</p>\r\n<p>Click below for a chance\
-  \ to win!</p>"
+  \ media generation, for you to have a BLAST!</p>\n<p>Click below for a chance to\
+  \ win!</p>\n"
 hero-header: "Win What Do You Meme? Adult Party Game - U.K. Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d8c00896-1b0e-4cbb-96c5-75b9a351c607.jpg"
@@ -23,16 +23,16 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-e0f949b8-33a1-4856-a083-36
 bg-image-first: "https://assets.expresslyapp.com/asset-0aec9b9c-1332-45e4-a686-081f6e6216e5.jpg"
 section1-content: "<p>Think you've got what it takes to out-meme your friends IRL?\
   \ Compete to create the funniest meme by pairing caption cards with the photo card\
-  \ in play!</p>\r\n<p>A rotating judge picks the best combination each round. Play\
+  \ in play!</p>\n<p>A rotating judge picks the best combination each round. Play\
   \ until you're hungry, at which Point stop playing and order a pizza. The rules\
   \ are simple: each round, a rotating judge plays a photo card and everyone else\
   \ plays a caption card to complete the meme. The judge decides the funniest pairing,\
-  \ and whoever played the winning caption card wins the round. Lather, rinse, Repeat.</p>\r\
-  \n<p>Enter the form below for a chance to win the hilarious and funny What Do You\
-  \ Meme? Adult Party Game U.K Edition now! Good luck!</p>"
+  \ and whoever played the winning caption card wins the round. Lather, rinse, Repeat.</p>\n\
+  <p>Enter the form below for a chance to win the hilarious and funny What Do You\
+  \ Meme? Adult Party Game U.K Edition now! Good luck!</p>\n"
 entry-title: "Win What Do You Meme? Adult Party Game - U.K. Edition!"
-entry-content: "Enter the draw to win What Do You Meme? Adult Party Game - U.K. Edition\r\
-  \n by completing the form below before 23:59 on 11th of February 2019."
+entry-content: "<p>Enter the draw to win What Do You Meme? Adult Party Game - U.K.\
+  \ Edition\nby completing the form below before 23:59 on 11th of February 2019.</p>\n"
 has-winner: false
 prize-description: "What Do You Meme? Adult Party Game - U.K. Edition"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

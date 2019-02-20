@@ -11,7 +11,7 @@ title: "Win Drake brand new album Scorpion!"
 competition-description: "<p>Drizzy fans! Drake’s fifth album Scorpion is finally\
   \ here and we have in our hands one copy and we want to give it to YOU!  If you\
   \ are Drakes biggest fan and can’t wait to listen to his brand new old-school prestige\
-  \ play, his most ambitious album of his career, click below and it could be yours!</p>"
+  \ play, his most ambitious album of his career, click below and it could be yours!</p>\n"
 hero-header: "Win Drake brand new album Scorpion!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-20b58854-91e8-4748-9337-67d6ad3cd393.jpg"
@@ -24,12 +24,12 @@ section1-content: "<p>Drakes new album Scorpion has revealed his shortcomings as
   \ writer and pop personality. With both singles ‘Nice For What’ and ‘God’s Plan’\
   \ #1 on the Billboard Hot 100 and with guest appearances on songs such as Blocboy\
   \ JB, the Migos, and Lil Baby rounded out the top ten, Scorpion is his most clever\
-  \ and effective album to the date!</p>\r\n<p>Want it now? Hurry up! enter the form\
-  \ below and you could be listening Survival, Nonstop or Talk up anywhere!</p>\r\n\
-  <p>Good luck!</p>"
+  \ and effective album to the date!</p>\n<p>Want it now? Hurry up! enter the form\
+  \ below and you could be listening Survival, Nonstop or Talk up anywhere!</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win Drake brand new album Scorpion!"
-entry-content: "Enter the draw to win Drake brand new album Scorpion by completing\
-  \ the form below before 23:59 on 20th of August 2018."
+entry-content: "<p>Enter the draw to win Drake brand new album Scorpion by completing\
+  \ the form below before 23:59 on 20th of August 2018.</p>\n"
 has-winner: false
 prize-description: "Drake brand new album Scorpion."
 special-conditions: "Multiple entries are allowed up to one every day."

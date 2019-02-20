@@ -15,7 +15,7 @@ competition-description: "<p>If you were thinking on what kind of look and mood 
   \ They have something for everybody, and now they're giving 3 lucky winners the\
   \ chance of winning £250 for shopping spree at their entire collection!</p><p>Take\
   \ a look at their products and treat yourself or your loved ones with the perfect\
-  \ gift!</p>"
+  \ gift!</p>\n"
 hero-header: "Win £250 for shopping spree at Rocket and get the party started! 3 prizes\
   \ for winners!"
 terms-confirmation: "N/A"
@@ -31,22 +31,22 @@ section1-content: "<p>At ROCKET they make awesome home, travel & lifestyle gifts
   \ accessories inspired by music. They take that visceral emotional connection music\
   \ has with each one of their humble earthlings, and use it to turn boring everyday\
   \ items into fun and soulful new designs. Their stuff makes for the perfect gift,\
-  \ but no shame in keeping some for yourself!</p>\r\n<p>If it sounds crazy, you’\
-  re right. It’s the good kind of crazy…</p>"
+  \ but no shame in keeping some for yourself!</p>\n<p>If it sounds crazy, you’re\
+  \ right. It’s the good kind of crazy…</p>\n"
 section2-content: "<p>So lucky for you their crazy-good designers cooked up a kick-ass\
   \ range that’s just about got everyone covered: from the wanderlust-bitten California\
   \ dreamer to the every-day-I’m-hustlin office warrior… from the fashionista to the\
-  \ Iphonista… from the next Jamie Oliver to the next dinner party!</p>\r\n<p>Dive\
-  \ right into the rabbit hole, but don’t be surprised if you end up filling your\
-  \ basket. After all, with nearly 1M products sold, it must be a mad world out there.</p>"
+  \ Iphonista… from the next Jamie Oliver to the next dinner party!</p>\n<p>Dive right\
+  \ into the rabbit hole, but don’t be surprised if you end up filling your basket.\
+  \ After all, with nearly 1M products sold, it must be a mad world out there.</p>\n"
 section3-content: "<p>Get ready to rumble because the party starts right here: NME\
   \ AAA is partnering with them to give 3 lucky winners £250 each to indulge in a\
-  \ shopping spree bonanza worthy of a Rockstar, only without the credit card hangover!</p>\r\
-  \n<p>They don’t call them The Good Vibes Co. for nothing! Enter below for a chance\
-  \ to win!</p>"
+  \ shopping spree bonanza worthy of a Rockstar, only without the credit card hangover!</p>\n\
+  <p>They don’t call them The Good Vibes Co. for nothing! Enter below for a chance\
+  \ to win!</p>\n"
 entry-title: "Win £250 for shopping spree at Rocket and get the party started!"
 entry-content: "<p>Enter the draw to win £250 for shopping spree at Rocket by completing\
-  \ the form below before 23:59 on 21/03/2018.\r\n</p>"
+  \ the form below before 23:59 on 21/03/2018.\n</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Graham O'mara, Ruth Roberts and Bryan McHugh who\
   \ won £250 for shopping spree at Rocket Design!"

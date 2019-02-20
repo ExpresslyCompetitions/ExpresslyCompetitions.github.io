@@ -14,8 +14,8 @@ competition-description: "<p>The Kinks have released a 50th Anniversary Edition 
   \ Green Preservation Society'. To celebrate the 50th Anniversary and their brand\
   \ new exhibition at London's Proud Central Gallery… we are giving away the official\
   \ vinyl and book from ‘The Kinks Are The Village Green Preservation Society’ exhibition\
-  \ to one lucky NME AAA member to win!</p>\r\n<p>Are you The Kinks biggest fan? Enter\
-  \ below for a chance to win!</p>"
+  \ to one lucky NME AAA member to win!</p>\n<p>Are you The Kinks biggest fan? Enter\
+  \ below for a chance to win!</p>\n"
 hero-header: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book!"
 terms-confirmation: "N/A"
@@ -31,18 +31,18 @@ section1-content: "<p>‘The Kinks Are The Village Green Preservation Society’
   \ including specially commissioned artworks by members of the band and vintage memorabilia,\
   \ together with a collection of photographs documenting this remarkable period in\
   \ the band’s history. Each work is hand-signed by surviving band members Ray Davies,\
-  \ Dave Davies and Mick Avory!</p>\r\n<p><i>(Credit:© Barrie Wentzell)</i></p>"
+  \ Dave Davies and Mick Avory!</p>\n<p><i>(Credit:© Barrie Wentzell)</i></p>\n"
 section2-content: "<p>‘The Kinks Are The Village Green Preservation Society’ is regarded\
   \ as one of the best British albums ever and we want YOU to enjoy their official\
-  \ vinyl and book as much as we do!</p>\r\n<p>If you are The Kinks biggest fan, HURRY\
+  \ vinyl and book as much as we do!</p>\n<p>If you are The Kinks biggest fan, HURRY\
   \ UP and think no more, enter the form below for a chance to win their vinyl and\
-  \ book and they could be coming home with you!</p>\r\n<p>Good luck!</p>\r\n<p><i>(Credit:©\
-  \ Barrie Wentzell)</i></p>"
+  \ book and they could be coming home with you!</p>\n<p>Good luck!</p>\n<p><i>(Credit:©\
+  \ Barrie Wentzell)</i></p>\n"
 entry-title: "‘Win The Kinks classic album 'The Kinks Are The Village Green Preservation\
   \ Society’ on vinyl and accompanying book!"
-entry-content: "Enter the draw to ‘Win The Kinks classic album 'The Kinks Are The\
+entry-content: "<p>Enter the draw to ‘Win The Kinks classic album 'The Kinks Are The\
   \ Village Green Preservation Society’ on vinyl and accompanying book by completing\
-  \ the form below before 23:59 on 14th of December 2018."
+  \ the form below before 23:59 on 14th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Veryan W. who won  The Kinks classic album 'The\
   \ Kinks Are The Village Green Preservation Society’ on vinyl!"

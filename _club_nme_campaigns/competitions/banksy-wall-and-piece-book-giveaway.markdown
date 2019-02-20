@@ -11,9 +11,9 @@ title: "Win Banksy 'Wall and Piece' book!"
 competition-description: "<p>Artistic genius, political activist, painter and decorator,\
   \ mythic legend or notorious graffiti artist? Right, we are talking about Banksy.\
   \ We have managed to get our hands on his book ‘Wall and Piece’ to one of our lucky\
-  \ members to win.</p>\r\n<p>If you want to know everything about the responsible\
-  \ for decorating the streets, walls, bridges and zoos of towns and cites throughout\
-  \ the world, click below for a chance to win.</p>"
+  \ members to win.</p>\n<p>If you want to know everything about the responsible for\
+  \ decorating the streets, walls, bridges and zoos of towns and cites throughout\
+  \ the world, click below for a chance to win.</p>\n"
 hero-header: "Win Banksy 'Wall and Piece' book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-71084c3f-4cd1-4818-8818-2f04f2a4e83f.jpg"
@@ -26,14 +26,14 @@ section1-content: "<p>The work of Banksy is unmistakable, except may be when it'
   \ squatting in the Tate or New York's Metropolitan Museum. His statements, incitements,\
   \ ironies and epigrams are by turns intelligent and cheeky comments on everything\
   \ from the monarchy and capitalism to the war in Iraq and farm animals. His identity\
-  \ remains unknown, but his work is prolific.</p>\r\n<p>And now for the first time,\
+  \ remains unknown, but his work is prolific.</p>\n<p>And now for the first time,\
   \ he's putting together the best of his work, old and new in a fully illustrated\
   \ colour volume. Get to know further this amazing, artistic and notorious graffiti\
   \ artist by the chance to win his book ‘Wall and Piece’ now. Enter the form below\
-  \ and it could be yours!</p>\r\n<p>Good luck!</p>"
+  \ and it could be yours!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Banksy 'Wall and Piece' book!"
-entry-content: "Enter the draw to win Banksy ‘Wall and Piece’ book by completing the\
-  \ form below before 23:59 on 18th of November 2018."
+entry-content: "<p>Enter the draw to win Banksy ‘Wall and Piece’ book by completing\
+  \ the form below before 23:59 on 18th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Judith M. who won Banksy 'Wall and Piece' book!"
 winner-banner: "https://assets.expresslyapp.com/asset-c50e4400-3fc0-44ca-bd7b-b2f21ade4aeb.jpg"

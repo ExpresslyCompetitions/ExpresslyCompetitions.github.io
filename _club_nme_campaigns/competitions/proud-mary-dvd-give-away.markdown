@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a copy of Proud Mary on DVD!"
 competition-description: "<p>Calling all Taraji Penda Henson fans! To celebrate the\
   \ release of her brand new movie Proud Mary on DVD, we have managed to get our hands\
-  \ on 3 copies of the DVD to give away to 3 lucky NME AAA members!</p>\r\n<p>Weekend\
-  \ = SORTED!</p>"
+  \ on 3 copies of the DVD to give away to 3 lucky NME AAA members!</p>\n<p>Weekend\
+  \ = SORTED!</p>\n"
 hero-header: "Win a copy of Proud Mary on DVD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-26d87b92-dc1b-4872-8972-81348fbb544d.jpg"
@@ -24,18 +24,18 @@ bg-image-second: "https://assets.expresslyapp.com/asset-76d61bfc-02d5-4736-ae32-
 section1-content: "<p>Lethal, professional hit-woman Mary (Taraji P. Henson) works\
   \ for the most notorious crime family in town.\_When Mary shoots a protected mobster\
   \ in order to save a young boy, she must take on a rogues’ gallery of crime figures,\
-  \ from the Russian Mafia to those closest to her, including her former lover.</p>\r\
-  \n<p>Armed with her wits and a closet full of guns Mary must do whatever it takes\
-  \ to be the last woman standing in this energetic and explosive action thriller.</p>\_"
+  \ from the Russian Mafia to those closest to her, including her former lover.</p>\n\
+  <p>Armed with her wits and a closet full of guns Mary must do whatever it takes\
+  \ to be the last woman standing in this energetic and explosive action thriller.</p>\_\
+  \n"
 section2-content: "<p>Proud Mary is out on DVD on 30th July and is packed with exclusive\
   \ features including Mary’s World, The Beginning of the End, If Looks Could Kill\
-  \ & many more!.</p> \r\n<p>This Proud Mary on DVD release from Sony Pictures Home\
+  \ & many more!.</p> \n<p>This Proud Mary on DVD release from Sony Pictures Home\
   \ Entertainment is the best plan for your weekend! Think no more and enter the form\
-  \ below for a chance to win one of 3 copies of this amazing DVD!</p>\r\n<p>Good\
-  \ luck!</p>"
+  \ below for a chance to win one of 3 copies of this amazing DVD!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a copy of Proud Mary on DVD!"
-entry-content: "Enter the draw to win a copy of Proud Mary on DVD!  by completing\
-  \ the form below before 23:59 on 30th of August 2018."
+entry-content: "<p>Enter the draw to win a copy of Proud Mary on DVD!  by completing\
+  \ the form below before 23:59 on 30th of August 2018.</p>\n"
 has-winner: false
 prize-description: "A copy of Proud Mary on DVD!"
 special-conditions: "Multiple entries are allowed up to one every day."

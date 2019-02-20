@@ -10,9 +10,8 @@ has_entry_page: true
 title: "Win the Sony SRS-XB10 Compact Portable Wireless Speaker!"
 competition-description: "<p>Are you the kind of person that listen to music anywhere\
   \ you go? Sure you won’t want to miss this: we are giving away the amazing Sony\
-  \ SRS-XB10 Compact Portable Wireless Speaker to one of our lucky NME AAA members!</p>\r\
-  \n<p>Wherever you go, bring some big beats with you. Click below for a chance to\
-  \ win!</p>"
+  \ SRS-XB10 Compact Portable Wireless Speaker to one of our lucky NME AAA members!</p>\n\
+  <p>Wherever you go, bring some big beats with you. Click below for a chance to win!</p>\n"
 hero-header: "Win the Sony SRS-XB10 Compact Portable Wireless Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-02d4d0bc-ce3e-40f0-90c4-36eb4ccde43a.jpg"
@@ -23,12 +22,12 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-07856da2-88be-4952-a908-47
 bg-image-first: "https://assets.expresslyapp.com/asset-e982b0ae-4375-4814-b4df-c4930e109242.jpg"
 section1-content: "<p>Compact and wireless so it’s easy to move… long battery life\
   \ and a water-resistant surface… EXTRA BASS so you can add extra music to your life!\
-  \ This Sony Speaker has it all!</p>\r\n<p>Don’t miss out this amazing opportunity\
+  \ This Sony Speaker has it all!</p>\n<p>Don’t miss out this amazing opportunity\
   \ of winning the Sony SRS-XB10 Compact Portable Wireless Speaker and get ready to\
-  \ enjoy your favourite tunes anywhere!</p>\r\n<p>Good luck!</p>"
+  \ enjoy your favourite tunes anywhere!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the Sony SRS-XB10 Compact Portable Wireless Speaker!"
-entry-content: "Enter the draw to win Sony SRS-XB10 Compact Portable Wireless Speaker\
-  \ by completing the form below before 23:59 on 7th of October 2018."
+entry-content: "<p>Enter the draw to win Sony SRS-XB10 Compact Portable Wireless Speaker\
+  \ by completing the form below before 23:59 on 7th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Ben M. who won the Sony SRS-XB10 Compact Portable\
   \ Wireless Speaker!"

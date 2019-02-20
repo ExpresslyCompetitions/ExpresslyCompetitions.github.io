@@ -14,8 +14,8 @@ competition-description: "<p>We have in our hands the best seller boarding game 
   \ your teammates will travel across the globe, treating infections while finding\
   \ resources for cures. You must work together, using your individual strengths,\
   \ to succeed. The clock is ticking as outbreaks and epidemics fuel the spreading\
-  \ plagues. Can you find all four cures in time?</p>\r\n<p>Do you have what it takes\
-  \ to save humanity? Click below for a chance to win.</p>"
+  \ plagues. Can you find all four cures in time?</p>\n<p>Do you have what it takes\
+  \ to save humanity? Click below for a chance to win.</p>\n"
 hero-header: "Win Pandemic Board Game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-849bbd97-b28c-4c7b-99dd-a3569c6e5e02.jpg"
@@ -27,17 +27,17 @@ bg-image-first: "https://assets.expresslyapp.com/asset-c34656e3-0bc8-4d62-ae53-d
 section1-content: "<p>The game board depicts several major population centres on a\
   \ stylised map of the Earth. On each turn, a player can use up to four actions to\
   \ travel between cities, treat infected populaces, discover a cure, or build a research\
-  \ station.</p>\r\n<p>Taking a unique role within the team, players must plan their\
+  \ station.</p>\n<p>Taking a unique role within the team, players must plan their\
   \ strategy to mesh with their specialists' strengths in order to conquer the diseases\
   \ which are spreading quickly and time is running out. If one or more diseases spread\
   \ beyond recovery or if too much time elapses, the players all lose. If they cure\
-  \ the four diseases, they all win!</p>\r\n<p>Lots of ways to lose, but only one\
-  \ way to win… are you ready so save the world? Enter the form below for a chance\
-  \ to win and show the humanity your skills to prove that you have what it takes\
-  \ to save them! Good luck!</p>"
+  \ the four diseases, they all win!</p>\n<p>Lots of ways to lose, but only one way\
+  \ to win… are you ready so save the world? Enter the form below for a chance to\
+  \ win and show the humanity your skills to prove that you have what it takes to\
+  \ save them! Good luck!</p>\n"
 entry-title: "Win Pandemic Board Game!"
-entry-content: "Enter the draw to win the  Pandemic Board Game by completing the form\
-  \ below before 23:59 on 5th March 2019."
+entry-content: "<p>Enter the draw to win the  Pandemic Board Game by completing the\
+  \ form below before 23:59 on 5th March 2019.</p>\n"
 has-winner: false
 prize-description: "Pandemic Board Game."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

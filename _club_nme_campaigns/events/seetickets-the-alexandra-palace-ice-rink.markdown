@@ -8,8 +8,8 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Alexandra Palace Ice Rink tickets"
-competition-description: "Tis the season! Get skating in the Alexandra Palace Ice\
-  \ Rink in London. Prebook your tickets here!"
+competition-description: "<p>Tis the season! Get skating in the Alexandra Palace Ice\
+  \ Rink in London. Prebook your tickets here!</p>\n"
 banner-img: "seeticketsalexanderpalace-main_image.jpg"
 logo-left-href: "https://www.seetickets.com/tour/the-alexandra-palace-ice-rink"
 logo-left-image: "seetickets-logo.png"

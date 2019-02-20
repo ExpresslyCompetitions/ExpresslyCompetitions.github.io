@@ -9,12 +9,12 @@ is_promoted: false
 has_entry_page: true
 title: "Win The Dark Crystal on Blu-Ray™ and the Ultimate Visual History book of the\
   \ movie!"
-competition-description: "Calling all The Dark Crystal fans! Get ready to return to\
-  \ the mystical world of Thrall! To celebrate the debut on 4K Ultra HD™ and the return\
-  \ on Blu-ray™ & DVD of the movie, we've managed to get our hands on 3 copies of\
-  \ the Blu-Ray™ and 3 copies of The Ultimate Visual History book of the movie! An\
-  \ exciting time and a must have for any Dark Crystal fan!\r\n<p>Sounds good? You\
-  \ know what to do…</p>"
+competition-description: "<p>Calling all The Dark Crystal fans! Get ready to return\
+  \ to the mystical world of Thrall! To celebrate the debut on 4K Ultra HD™ and the\
+  \ return on Blu-ray™ &amp; DVD of the movie, we've managed to get our hands on 3\
+  \ copies of the Blu-Ray™ and 3 copies of The Ultimate Visual History book of the\
+  \ movie! An exciting time and a must have for any Dark Crystal fan!</p>\n<p>Sounds\
+  \ good? You know what to do…</p>\n"
 hero-header: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
 terms-confirmation: "N/A"
@@ -28,31 +28,31 @@ bg-image-second: "https://assets.expresslyapp.com/asset-cf4c3273-c4ed-4cf6-988d-
 bg-image-third: "https://assets.expresslyapp.com/asset-e404f154-978d-489c-80a7-b4da46097b74.jpg"
 section1-content: "<p>The high fantasy adventure film directed by Jim Henson and Frank\
   \ Oz back in 1982 has been fully restored in 4K from the original camera negative\
-  \ and is coming home with you!</p> \r\n<p>To celebrate the debut on 4K Ultra HD™\
-  \ and the return on Blu-ray™ & DVD of the movie The Dark Crystal! we've got our\
-  \ hands on 3 copies of the amazing Blu-ray™ and 3 copies of the book of the movie\
-  \ for one lucky NME reader to win!</p> \r\n<p>The epic fantasy movie follows the\
-  \ spectacular story of a young hero who must find a legendary relic in order restore\
-  \ harmony to the universe!</p>"
+  \ and is coming home with you!</p> \n<p>To celebrate the debut on 4K Ultra HD™ and\
+  \ the return on Blu-ray™ & DVD of the movie The Dark Crystal! we've got our hands\
+  \ on 3 copies of the amazing Blu-ray™ and 3 copies of the book of the movie for\
+  \ one lucky NME reader to win!</p> \n<p>The epic fantasy movie follows the spectacular\
+  \ story of a young hero who must find a legendary relic in order restore harmony\
+  \ to the universe!</p>\n"
 section2-content: "<p>The sensational Blu-ray™ & DVD now at HMV  is packed with exclusive\
   \ bonus content including a collectable 30 page booklet with photos and numerous\
   \ behind the scenes stories! But that is just the beginning…The Ultimate Visual\
   \ History book is a lavish compendium featuring candid set photography, unseen concept\
   \ art and amazing removable pieces such as script pages and sketches form Henson!\
-  \ http://bit.ly/2jQDi0s </p>\r\n<p>Oh, and did I mention The Dark Crystal movie\
-  \ returns to the cinema as well? The Prince Charles Cinema in London will screen\
-  \ four very special sessions starting March 17! You can get the tickets here: https://princecharlescinema.com</p><p><br/>The\
+  \ http://bit.ly/2jQDi0s </p>\n<p>Oh, and did I mention The Dark Crystal movie returns\
+  \ to the cinema as well? The Prince Charles Cinema in London will screen four very\
+  \ special sessions starting March 17! You can get the tickets here: https://princecharlescinema.com</p><p><br/>The\
   \ chosen dates are: <br/>Saturday 17 March 2018 at 15:25 <br/>Sunday 18 March 2018\
-  \ at 18:00 <br/>Tuesday 20 March 2018 at 16:05 <br/>Thursday 22 March 2018 at 13:25</p>"
+  \ at 18:00 <br/>Tuesday 20 March 2018 at 16:05 <br/>Thursday 22 March 2018 at 13:25</p>\n"
 section3-content: "<p>The release from Sony Pictures Home Entertainment is perfect\
   \ for kicking off you weekend! Enter your details below for a chance to win this\
-  \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie!</p>\r\
-  \n<p>Good luck!</p>"
+  \ fantasy Epic movie on Blu-ray™ and the Ultimate Visual History book of the movie!</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win The Dark Crystal on Blu-ray™ and the Ultimate Visual History book\
   \ of the movie!"
 entry-content: "<p>The Dark Crystal on Blu-ray™ is loaded with additional exclusive\
   \ bonus content for you to get stuck into. <p><p>Enter the draw to win by completing\
-  \ the form below before 23.59pm on 19/03/2018.<p>"
+  \ the form below before 23.59pm on 19/03/2018.<p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Joanna, Jackie & Laura who won The Dark Crystal\
   \ on Blu-ray™ & the Ultimate Visual History book of the movie!"

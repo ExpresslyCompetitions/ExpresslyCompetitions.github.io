@@ -12,8 +12,8 @@ competition-description: "<p>Calling all Michael Bublé fans! Big news for YOU! 
   \ are giving away the brand new album of the global superstar Michael Bublé: LOVE.\
   \ This is his first studio album in two years and we are sure you won’t want to\
   \ miss it. The Canadian singer-songwriter returned to the studio with a new perspective\
-  \ on life and a renewed commitment to honouring the music he has always loved</p>\r\
-  \n<p>Want it? Click below for a chance to win!</p>"
+  \ on life and a renewed commitment to honouring the music he has always loved</p>\n\
+  <p>Want it? Click below for a chance to win!</p>\n"
 hero-header: "Win Michael Bublé new album: LOVE!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c3388fe2-71f6-4fce-a352-941ff44304ba.jpg"
@@ -28,15 +28,15 @@ section1-content: "<p>This amazing album is co-produced by Bublé himsef. He bri
   \ take on another Rogers & Hart standard, “My Funny Valentine.” Other standouts\
   \ are an ebullient “When You’re Smiling,” a swinging “Such A Night” as well as Bublé\
   ’s hand-picked favourites including “Unforgettable,” “Help Me Make It Through The\
-  \ Night,” and “I Only Have Eyes For You.’’.</p>\r\n<p>Michael Bublé has sold over\
+  \ Night,” and “I Only Have Eyes For You.’’.</p>\n<p>Michael Bublé has sold over\
   \ 60 million records worldwide, performed hundreds of sold-out shows around the\
   \ globe, and won four Grammys and multiple Juno Awards during the course of his\
   \ extraordinary career. The Deluxe CD includes 2 bonus tracks and a 16 page booklet.”\
-  </p>\r\n<p>Enter the form below for a chance to win this incredible album and get\
-  \ ready to feel delighted by Michael Bublé lovely voice. Good luck!</p>"
+  </p>\n<p>Enter the form below for a chance to win this incredible album and get\
+  \ ready to feel delighted by Michael Bublé lovely voice. Good luck!</p>\n"
 entry-title: "Win Michael Bublé new album: LOVE!"
-entry-content: "Enter the draw to win Michael Bublé new album: LOVE before 23:59 on\
-  \ 26th of December 2018."
+entry-content: "<p>Enter the draw to win Michael Bublé new album: LOVE before 23:59\
+  \ on 26th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Tonja B. who won the brand new album from Michael\
   \ Bublé!"

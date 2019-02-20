@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win the Andrew James Lumiglo Toaster 2 Slice!"
 competition-description: "<p>If breakfast is your favourite meal of the day, this\
   \ is for YOU! We have in our hands the stylish Lumiglo Toaster from Andrew James\
-  \ for one lucky NME AAA member to win!</p>\r\n<p>Click below for a chance to win!</p>"
+  \ for one lucky NME AAA member to win!</p>\n<p>Click below for a chance to win!</p>\n"
 hero-header: "Win the Andrew James Lumiglo Toaster 2 Slice!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-22496932-2f6e-4600-8522-5d981a2f1276.jpg"
@@ -22,15 +22,15 @@ bg-image-first: "https://assets.expresslyapp.com/asset-24d3db1f-9054-46e8-afdc-c
 section1-content: "<p>The stylish Lumiglo Toaster from Andrew James not only looks\
   \ fantastic, it is packed full of helpful features. With a matt black finish and\
   \ blue LED lights that illuminate during operation, this toaster has a slick modern\
-  \ look that also sits well in more traditional kitchens.</p>\r\n<p>It is the ideal\
+  \ look that also sits well in more traditional kitchens.</p>\n<p>It is the ideal\
   \ machine for any toast lover, with adjustable browning, wide bread slots and a\
   \ warming rack for croissants etc. Simple to use, and easy to clean, this toaster\
-  \ helps you create your perfect slice of toast.</p>\r\n<p>Enter the form below and\
-  \ start the day right with the stylish Lumiglo toaster from Andrew James!</p>\r\n\
-  <p>Good luck!</p>"
+  \ helps you create your perfect slice of toast.</p>\n<p>Enter the form below and\
+  \ start the day right with the stylish Lumiglo toaster from Andrew James!</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win the Andrew James Lumiglo Toaster 2 Slice!"
-entry-content: "Enter the draw to win Andrew James Lumiglo Toaster 2 Slice by completing\
-  \ the form below before 23:59 on 2nd of September 2018."
+entry-content: "<p>Enter the draw to win Andrew James Lumiglo Toaster 2 Slice by completing\
+  \ the form below before 23:59 on 2nd of September 2018.</p>\n"
 has-winner: true
 winner-title: "Congratulations to Alison J. who won the Andrew James Toaster!"
 winner-banner: "https://assets.expresslyapp.com/asset-732d2352-8b08-4cf7-ac17-eace45e25593.jpg"

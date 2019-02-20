@@ -11,10 +11,10 @@ title: "Feel comfortable with Charles Tyrwhitt"
 competition-description: "<p>For Charles Tyrwhitt, looking good in clothes just isn't\
   \ enough, you have to feel good too. Now you can find their polos in offer! Perfect\
   \ for a laid-back look, their 100% cotton polos are wonderfully soft and comfortable\
-  \ with a supercare finish that helps them stay sharp.</p>\r\n<p>Browse the range\
-  \ to discover versatile colors and patterns that will go with anything, and with\
-  \ their special offer you can get two amazing Charles Tyrwhitt polos for £55 or\
-  \ less! Get them now! </p>"
+  \ with a supercare finish that helps them stay sharp.</p>\n<p>Browse the range to\
+  \ discover versatile colors and patterns that will go with anything, and with their\
+  \ special offer you can get two amazing Charles Tyrwhitt polos for £55 or less!\
+  \ Get them now! </p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-7849140b-df74-41ff-ac41-7fc823cb7294.jpg"
 logo-left-href: "https://www.ctshirts.com/uk/home"
 logo-left-image: "https://assets.expresslyapp.com/asset-dd75b6c3-9930-46a4-b343-a0875b34638e.jpg"

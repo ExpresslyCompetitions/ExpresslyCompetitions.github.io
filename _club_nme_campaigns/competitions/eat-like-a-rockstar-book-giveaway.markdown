@@ -13,8 +13,8 @@ competition-description: "<p>With more than a hundred recipes from seven decades
   \ rock ‘n’ roll, pop, country, RnB, and disco, Mark Bego, along with Mary Wilson\
   \ of The Supremes, gathers beloved recipes from legendary rocker friends and invites\
   \ the ultimate music fan to put on an apron and join them at the table! We are giving\
-  \ away this incredible book to one of our NME readers! </p>\r\n<p>Click the link\
-  \ below for a chance to win! </p>"
+  \ away this incredible book to one of our NME readers! </p>\n<p>Click the link below\
+  \ for a chance to win! </p>\n"
 hero-header: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
   \ Greatest' book!"
 terms-confirmation: "N/A"
@@ -26,18 +26,18 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-8430a603-114b-4fcd-abca-c0
 bg-image-first: "https://assets.expresslyapp.com/asset-7de7410d-9c16-4559-8673-aafacc2e5ac3.jpg"
 section1-content: "<p>This wonderful, best-ever collection of recipes features each\
   \ rock star’s biography, their favorite recipe, and other fun facts, Eat Like a\
-  \ Rock Star is a must-have for every die-hard rocker-at-heart who loves to eat..</p>\r\
-  \n<p>There is nowhere else you will find Ray Parker Jr.’s Salmon and Eggs, Joey\
-  \ Fatone’s (NSYNC) Rice Balls, Micky Dolenz’s (The Monkees) Micky ‘D’ Cocktail,\
-  \ and Angela Bowie’s (David Bowie’s ex-wife’s) Rosti Hash Brown Potatoes all in\
-  \ one book. Whether it’s brunch, lunch, dinner, or desert you can find all kind\
-  \ of recipes here!</p>\r\n<p>Looking forward to improving your cooking skills? Enter\
-  \ the form below and surprise your loved ones with a nice meal!</p>"
+  \ Rock Star is a must-have for every die-hard rocker-at-heart who loves to eat..</p>\n\
+  <p>There is nowhere else you will find Ray Parker Jr.’s Salmon and Eggs, Joey Fatone’\
+  s (NSYNC) Rice Balls, Micky Dolenz’s (The Monkees) Micky ‘D’ Cocktail, and Angela\
+  \ Bowie’s (David Bowie’s ex-wife’s) Rosti Hash Brown Potatoes all in one book. Whether\
+  \ it’s brunch, lunch, dinner, or desert you can find all kind of recipes here!</p>\n\
+  <p>Looking forward to improving your cooking skills? Enter the form below and surprise\
+  \ your loved ones with a nice meal!</p>\n"
 entry-title: "Win 'Eat Like a Rock Star: More Than 100 Recipes from Rock ‘n' Roll's\
   \ Greatest' book!"
-entry-content: "Enter the draw to win Eat Like a Rock Star: More Than 100 Recipes\
+entry-content: "<p>Enter the draw to win Eat Like a Rock Star: More Than 100 Recipes\
   \ from Rock ‘n' Roll's Greatest book! by completing the form below before 23:59\
-  \ on 12th of October 2018."
+  \ on 12th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Linda M. who won Eat Like a Rock Star book."
 winner-banner: "https://assets.expresslyapp.com/asset-29332719-a80a-4a78-8c80-883111f9c728.jpg"

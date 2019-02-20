@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Stars in our eyes with this Baukjen top!"
-competition-description: "This season, the pentagonal symbol can be seen everywhere.\
+competition-description: "<p>This season, the pentagonal symbol can be seen everywhere.\
   \ We've incorporated it an everyday top, immediately giving it an elevated feel.\
   \ By day, we're pairing this with cargo pants and trainers, for the evening with\
-  \ denim and heels."
+  \ denim and heels.</p>\n"
 banner-img: "baukjen-main_image.jpg"
 logo-left-href: "https://www.baukjen.com/uk/shop/edits/bestsellers/alara-top-navy-with-silver-stars.htm"
 logo-left-image: "baukjen-logo.png"

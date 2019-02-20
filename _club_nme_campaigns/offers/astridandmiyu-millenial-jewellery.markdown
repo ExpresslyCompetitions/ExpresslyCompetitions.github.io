@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: false
 title: "Millennial jewellery at their finest! Shop Astrid and Miyu and add the perfect\
   \ *spark*"
-competition-description: "Astrid & Miyu is a young London based contemporary British\
-  \ jewellery brand, which embraces class and edge. Our pieces are unique yet versatile,\
-  \ edgy yet classic, glamorous yet subtle. We believe accessories should not overshadow\
-  \ the natural beauty of the woman wearing them."
+competition-description: "<p>Astrid &amp; Miyu is a young London based contemporary\
+  \ British jewellery brand, which embraces class and edge. Our pieces are unique\
+  \ yet versatile, edgy yet classic, glamorous yet subtle. We believe accessories\
+  \ should not overshadow the natural beauty of the woman wearing them.</p>\n"
 banner-img: "astrid-main_image.jpg"
 logo-left-href: "https://www.astridandmiyu.com/new-in"
 logo-left-image: "astrid-logo.png"

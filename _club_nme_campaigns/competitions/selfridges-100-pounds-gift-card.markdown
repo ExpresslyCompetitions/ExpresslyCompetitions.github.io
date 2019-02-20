@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a £100 Gift card at Selfridges!"
 competition-description: "<p>We wanted to give you something extraordinary so now\
   \ that winter is just around the corner… what better present than a Selfridges Gift\
-  \ Card? A ticket to a shopping spree to remember!</p>\r\n<p>Do you want it? Click\
-  \ below for a chance to win!</p>"
+  \ Card? A ticket to a shopping spree to remember!</p>\n<p>Do you want it? Click\
+  \ below for a chance to win!</p>\n"
 hero-header: "Win a £100 Gift card at Selfridges!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d87c412c-773f-46ff-9240-7b0a9a33de73.jpg"
@@ -22,14 +22,14 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-145b2735-64d1-43ab-89a3-d7
 bg-image-first: "https://assets.expresslyapp.com/asset-351b663c-4bbb-4d75-beb7-76422dbf0916.jpg"
 section1-content: "<p>It’s shopping, but not as you know it. Discover one-of-a-kind\
   \ experiences, world-class dining and luxury brands at one of Selfridges stores\
-  \ in the UK!</p>\r\n<p>Selfridges today is more than just the sum of its products\
+  \ in the UK!</p>\n<p>Selfridges today is more than just the sum of its products\
   \ - it's a shopping experience that promises to surprise, amaze and amuse its customers\
   \ by delivering extraordinary customer experiences! That's why we are giving away\
-  \ a fantastic £100 Gift card at Selfridges for you to spend at their stores!</p>\r\
-  \n<p>Enter the form below and get ready to look your best with Selfridges now!</p>"
+  \ a fantastic £100 Gift card at Selfridges for you to spend at their stores!</p>\n\
+  <p>Enter the form below and get ready to look your best with Selfridges now!</p>\n"
 entry-title: "Win a £100 Gift card at Selfridges!"
-entry-content: "Enter the draw to win a £100 Gift card at Selfridges by completing\
-  \ the form below before 23:59 on 10th of November 2018."
+entry-content: "<p>Enter the draw to win a £100 Gift card at Selfridges by completing\
+  \ the form below before 23:59 on 10th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Linda J. who won an amazing £100 Selfridges Gift\
   \ Card!"

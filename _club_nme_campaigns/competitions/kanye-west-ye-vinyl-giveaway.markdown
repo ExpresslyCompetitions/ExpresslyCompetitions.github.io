@@ -11,8 +11,8 @@ title: "Win Kanye West ‘ye’ Vinyl edition."
 competition-description: "<p>Calling al Kanye West lovers! We have great news to tell\
   \ you! To celebrate the release of Kanye’s new album ‘ye’ we have managed to get\
   \ our hands on his brand new album in vinyl edition for one of our lucky NME AAA\
-  \ members!</p>\r\n<p>Want to hear his amazing new tunes? Click below for a chance\
-  \ to win it!</p>"
+  \ members!</p>\n<p>Want to hear his amazing new tunes? Click below for a chance\
+  \ to win it!</p>\n"
 hero-header: "Win Kanye West ‘ye’ Vinyl edition."
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-bea694e9-f242-4299-991b-d347f2dec2b3.jpg"
@@ -23,15 +23,15 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-4b0f2517-46fc-4acb-8851-15
 bg-image-first: "https://assets.expresslyapp.com/asset-930d5c7f-ffe2-4d09-92f0-657d418859f1.jpg"
 section1-content: "<p>Kanye West has just released his most emotionally revealing\
   \ album to date, his eighth solo album\_‘ye’ with two seven-track records followed\
-  \ a week later by Kid Cudi collaborative LP\_‘Kids See Ghosts’.</p>\r\n<p>All Mine,\
+  \ a week later by Kid Cudi collaborative LP\_‘Kids See Ghosts’.</p>\n<p>All Mine,\
   \ No Mistakes, Yikes are some of his brand new tunes! The album maintains West’\
   s powerful reputation and all of his seven songs have landed spots on the Hot 100\
-  \ Billboard Charts.</p>\r\n<p>Think no more and enter the form below for a chance\
-  \ to win Kanye West most emotionally and powerful album he has ever made!</p>\r\n\
-  <p>Good luck!</p>"
+  \ Billboard Charts.</p>\n<p>Think no more and enter the form below for a chance\
+  \ to win Kanye West most emotionally and powerful album he has ever made!</p>\n\
+  <p>Good luck!</p>\n"
 entry-title: "Win Kanye West ‘ye’ Vinyl edition."
-entry-content: "Enter the draw to win Kanye West ‘ye’ Vinyl edition by completing\
-  \ the form below before 23:59 on 12th of August 2018."
+entry-content: "<p>Enter the draw to win Kanye West ‘ye’ Vinyl edition by completing\
+  \ the form below before 23:59 on 12th of August 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Laura J. who won Kanye West ‘ye’ Vinyl edition!"
 winner-banner: "https://assets.expresslyapp.com/asset-83da012a-5dfd-4d7a-967b-1417d0cd2ef2.jpg"

@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win one of 5 jackets of Pretty Green X Beatles White Album collection!"
 competition-description: "<p>Calling all Beatles fans! Sure you won’t want to miss\
   \ this! In order to celebrate the Beatles White Album 50th Anniversary, Pretty Green\
-  \ has done it again and have created the amazing brand new White Album collection!</p>\r\
-  \n<p>Thanks to Pretty Green, NME AAA is giving away 5 fantastic jackets (1S, 2M,\
-  \ 1L & 1XL) of the White Album collection to 5 lucky NME members to win!</p>\r\n\
-  <p>Want it now? Enter the form below for a chance to win!</p>"
+  \ has done it again and have created the amazing brand new White Album collection!</p>\n\
+  <p>Thanks to Pretty Green, NME AAA is giving away 5 fantastic jackets (1S, 2M, 1L\
+  \ & 1XL) of the White Album collection to 5 lucky NME members to win!</p>\n<p>Want\
+  \ it now? Enter the form below for a chance to win!</p>\n"
 hero-header: "Win one of 5 jackets of Pretty Green X Beatles White Album collection!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-6c148194-c2f3-4b9a-8bbd-45d69f9bb303.jpg"
@@ -30,21 +30,21 @@ section1-content: "<p>Pretty Green third Beatles collaboration is finally here a
   \ point for the collection. </p><p>McCullin photographed the band at various locations\
   \ around London such as Whitechapel, Old Street and the Sunday Times building on\
   \ Gray’s Inn Road. This new range incorporates key pieces inspired by what the band\
-  \ were wearing that day.</p>"
+  \ were wearing that day.</p>\n"
 section2-content: "<p>By 1968, psychedelia was in full swing and The Beatles were\
   \ still embracing elements of that look, so candy stripes and bright, block colours\
   \ all play a crucial role throughout our collection.</p> <p>They have also added\
   \ their own signature stamp to the range with original hand drawn and painted prints,\
-  \ as well as late 60s-influenced bold graphics.</p>"
+  \ as well as late 60s-influenced bold graphics.</p>\n"
 section3-content: "<p>Thanks to Pretty Green, NME AAA has managed to get their hands\
   \ on 5 amazing White Album collection jackets (1S, 2M, 1L & 1XL) to 5 lucky NME\
   \ AAA members to take home!</p><p>Enter the form below for a chance to win one of\
   \ 5 jackets of Pretty Green X Beatles White Album collection and get ready to stand\
-  \ out anywhere!</p>"
+  \ out anywhere!</p>\n"
 entry-title: "Win one of 5 jackets of Pretty Green X Beatles White Album collection!"
-entry-content: "Enter the draw to win one of 5 jackets of Pretty Green X Beatles White\
-  \ Album collection by completing the form below before 23:59 on 18th of September\
-  \ 2018."
+entry-content: "<p>Enter the draw to win one of 5 jackets of Pretty Green X Beatles\
+  \ White Album collection by completing the form below before 23:59 on 18th of September\
+  \ 2018.</p>\n"
 has-winner: false
 prize-description: "One jacket of Pretty Green X Beatles White Album collection. Each\
   \ winner will be randomly assigned 1 of the jackets from the available sizes: 1S,\

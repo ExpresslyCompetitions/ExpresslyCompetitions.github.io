@@ -11,8 +11,8 @@ title: "Win Jorja Smith Lost & Found vinyl edition!"
 competition-description: "<p>With a BRIT Award win, millions of streams and 10 magazine\
   \ front covers under her belt, Jorja Smith is the latest British sensation in the\
   \ world and we have amazing news for YOU: we are giving way her brand new album\
-  \ Lost & Found vinyl edition to one of our lucky NME AAA members!</p>\r\n<p>Want\
-  \ it? Click below for a chance to win!</p>"
+  \ Lost & Found vinyl edition to one of our lucky NME AAA members!</p>\n<p>Want it?\
+  \ Click below for a chance to win!</p>\n"
 hero-header: "Win Jorja Smith Lost & Found vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9eb29f25-481c-4dd3-9223-ea561880b04a.jpg"
@@ -23,15 +23,15 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-30c6f8cd-f77a-4e62-b837-07
 bg-image-first: "https://assets.expresslyapp.com/asset-0403a0bb-7e26-4f2f-ba2e-58b93e7015a8.jpg"
 section1-content: "<p>Lost & Found  is the rich fruit of Jorja’s past two years of\
   \ work and an artistic statement that’s why she has become one of the UK’s most-loved\
-  \ female-breakthrough stars of recent years!</p>\r\n<p>Lost & Found spans a number\
+  \ female-breakthrough stars of recent years!</p>\n<p>Lost & Found spans a number\
   \ of personal, and relatable topics that only Jorja Smith could unite so compellingly.\
   \ Written across the ages of 17-20, is a masterpiece of observation and experience,\
-  \ with an underlying innocence of a young artist finding her way in life.</p>\r\n\
+  \ with an underlying innocence of a young artist finding her way in life.</p>\n\
   <p>If you can’t resist to listen her brand new hits, enter the form below for a\
-  \ chance to win and you could be dancing and singing her songs anywhere!</p>"
+  \ chance to win and you could be dancing and singing her songs anywhere!</p>\n"
 entry-title: "Win Jorja Smith Lost & Found vinyl edition!"
-entry-content: "Enter the draw to win Jorja Smith Lost & Found vinyl edition by completing\
-  \ the form below before 23:59 on 20th of October 2018."
+entry-content: "<p>Enter the draw to win Jorja Smith Lost &amp; Found vinyl edition\
+  \ by completing the form below before 23:59 on 20th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Sue M. who won Jorja Smith brand new album on vinyl\
   \ edition!"

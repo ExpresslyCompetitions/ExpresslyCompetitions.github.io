@@ -11,7 +11,7 @@ title: "Win Years & Years brand new album Palo Santo vinyl edition"
 competition-description: "<p>Years & Years release their highly anticipated second\
   \ album Palo Santo and thanks to NME AAA it could be yours! If you’re one of the\
   \ biggest fans of the amazing British pop bad Years and Years… you know what to\
-  \ do!</p>"
+  \ do!</p>\n"
 hero-header: "Win Years & Years brand new album Palo Santo vinyl edition"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c0da783-db89-4160-9278-eddbf50239e0.jpg"
@@ -24,16 +24,16 @@ section1-content: "<p>On Palo Santo, Years & Years impact on pop feels truly tri
   \ one in which the minority is always the majority, and everyone is welcome. Part\
   \ full-blooded, escapist fantasia and part social comment, for Years and Years this\
   \ is about outlier pop as futurism once more, offering solutions when the wider\
-  \ world is transforming beyond recognition.</p>\r\n<p>With Olly drawing as much\
-  \ inspiration from cult sci-fi as the multi-sensory pop of Prince, Bowie or Gaga,\
-  \ in Palo Santo Years and Years have created the perfect space in which to tell\
-  \ their most intimate, personal stories; on identity, sexuality, performance, and\
-  \ ultimately, what it means to be human.</p>\r\n<p>Enter the form below for a chance\
-  \ to win Years & Years brand new album Palo Santo vinyl edition and get ready to\
-  \ get stuck into their new hits!</p>"
+  \ world is transforming beyond recognition.</p>\n<p>With Olly drawing as much inspiration\
+  \ from cult sci-fi as the multi-sensory pop of Prince, Bowie or Gaga, in Palo Santo\
+  \ Years and Years have created the perfect space in which to tell their most intimate,\
+  \ personal stories; on identity, sexuality, performance, and ultimately, what it\
+  \ means to be human.</p>\n<p>Enter the form below for a chance to win Years & Years\
+  \ brand new album Palo Santo vinyl edition and get ready to get stuck into their\
+  \ new hits!</p>\n"
 entry-title: "Win Years & Years brand new album Palo Santo vinyl edition"
-entry-content: "Enter the draw to win Years & Years brand new album Palo Santo vinyl\
-  \ edition by completing the form below before 23:59 on 17th of August 2018."
+entry-content: "<p>Enter the draw to win Years &amp; Years brand new album Palo Santo\
+  \ vinyl edition by completing the form below before 23:59 on 17th of August 2018.</p>\n"
 has-winner: false
 prize-description: "Years & Years brand new album Palo Santo vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."

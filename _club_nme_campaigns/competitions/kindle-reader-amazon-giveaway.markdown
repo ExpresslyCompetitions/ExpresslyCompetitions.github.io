@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Amazon’s Kindle E-Reader!"
 competition-description: "<p>We have in our hands the book lovers new best friend.\
   \ Yes, you have heard it right. We are giving away the brand new Amazon’s Kindle\
-  \ E-Reader to one of our lucky NME AAA members to win.</p>\r\n<p>If you want to\
-  \ indulge yourself into your favourite read… click below for a chance to win!</p>"
+  \ E-Reader to one of our lucky NME AAA members to win.</p>\n<p>If you want to indulge\
+  \ yourself into your favourite read… click below for a chance to win!</p>\n"
 hero-header: "Win Amazon’s Kindle E-Reader!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ce9453e7-1c81-4f63-8e7c-8e978b53b437.jpg"
@@ -24,15 +24,15 @@ bg-image-second: "https://assets.expresslyapp.com/asset-ec256ba6-a409-4e97-844f-
 section1-content: "<p>Look it up instantly without leaving your page, Share your library\
   \ with family, Translate passages instantly, Audible books… PLUS other features\
   \ you’ve come to expect from Kindle! This brand new E-Reader from Amazon has it\
-  \ all! </p>\r\n<p>You will never be without a book anymore! Browse Amazon’s expansive\
+  \ all! </p>\n<p>You will never be without a book anymore! Browse Amazon’s expansive\
   \ selection, choose a title and begin reading in seconds, you can download books\
-  \ in under 60 seconds! PLUS you can discover great books with Goodreads on Kindle!</p>"
+  \ in under 60 seconds! PLUS you can discover great books with Goodreads on Kindle!</p>\n"
 section2-content: "<p>Take the story with YOU! Think no more and don’t miss this amazing\
   \ opportunity! Enter the form below for a chance to win the brand new Amazon’s Kindle\
-  \ E-reader and enjoy & discover a new world of reads anywhere!</p>"
+  \ E-reader and enjoy & discover a new world of reads anywhere!</p>\n"
 entry-title: "Win Amazon’s Kindle E-Reader!"
-entry-content: "Enter the draw to win Amazon’s Kindle E-Reader\r\nby completing the\
-  \ form below before 23:59 on 17th of October 2018."
+entry-content: "<p>Enter the draw to win Amazon’s Kindle E-Reader\nby completing the\
+  \ form below before 23:59 on 17th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Brian W. who won the Kindle E-Reader from Amazon!"
 winner-banner: "https://assets.expresslyapp.com/asset-05bc03c8-7e93-4129-8da1-343c890e5ada.jpg"

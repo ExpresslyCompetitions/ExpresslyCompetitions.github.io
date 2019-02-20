@@ -10,8 +10,7 @@ has_entry_page: true
 title: "Win Travis Scott Astroworld vinyl edition!"
 competition-description: "<p>Travis Scott’s third solo studio album is finally here\
   \ and to celebrate his release we are giving away his new album on vinyl edition\
-  \ for one of our NME AAA members to win!</p>\r\n<p>Want it? You know what to do…\
-  </p>"
+  \ for one of our NME AAA members to win!</p>\n<p>Want it? You know what to do…</p>\n"
 hero-header: "Win Travis Scott Astroworld vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4e0ffdb7-763d-439f-83ce-0742b711cf9d.jpg"
@@ -23,13 +22,13 @@ bg-image-first: "https://assets.expresslyapp.com/asset-5deff427-bf00-4b9c-8230-1
 section1-content: "<p>On Travis Scott Astroworld  he reunites with previously featured\
   \ artists like Migos, The Weeknd, Nav, Kid Cudi, and 21 Savage PLUS a wave of fresh\
   \ collaborators like Gunna, Juice WRLD, Drake, Frank Ocean, and Pharrell to join\
-  \ the party!</p>\r\n<p>We are calling all the Scott’s fans because we are giving\
-  \ away his beautiful new creation of sounds: Astroworld! If you want to listen his\
-  \ new hits, HURRY UP and enter the form below and it could be coming home with you!</p>\r\
-  \n<p>Good Luck!</p>"
+  \ the party!</p>\n<p>We are calling all the Scott’s fans because we are giving away\
+  \ his beautiful new creation of sounds: Astroworld! If you want to listen his new\
+  \ hits, HURRY UP and enter the form below and it could be coming home with you!</p>\n\
+  <p>Good Luck!</p>\n"
 entry-title: "Win Travis Scott Astroworld vinyl edition!"
-entry-content: "Enter the draw to win Travis Scott Astroworld Vinyl edition\r\nby\
-  \ completing the form below before 23:59 on 16th of September 2018."
+entry-content: "<p>Enter the draw to win Travis Scott Astroworld Vinyl edition\nby\
+  \ completing the form below before 23:59 on 16th of September 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Dawn A. who won Travis Scott Astroworld vinyl edition"
 winner-banner: "https://assets.expresslyapp.com/asset-8a5f8918-615d-4467-8af0-c901f7d20f2e.jpg"

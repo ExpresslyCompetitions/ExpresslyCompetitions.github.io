@@ -8,11 +8,11 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Get David Bowie Special Edition Tours T-shirt"
-competition-description: "From the special edition range 'Tours that Rocked the World'…\
-  \ here comes the official and unique David Bowie’s 1978 World Tour T-shirt. \r\n\
+competition-description: "<p>From the special edition range 'Tours that Rocked the\
+  \ World'… here comes the official and unique David Bowie’s 1978 World Tour T-shirt.\n\
   Available in different sizes, this classic design in black tones with David Bowie’\
-  s '1978 World Tour' logo motif printed, will make you stand out. \r\n<p>Be the biggest\
-  \ Ziggy Stardust fan with this special edition. Buy it now!</p>"
+  s '1978 World Tour' logo motif printed, will make you stand out.</p>\n<p>Be the\
+  \ biggest Ziggy Stardust fan with this special edition. Buy it now!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-71b8aa96-fd18-4d90-ad97-79359a5fa6bb.jpg"
 logo-left-href: "https://nmemerch.com/collections/best-selling/products/ttrtw-david-bowie-mens-t-shirt?variant=39824012549"
 logo-left-image: "nmemerch-logo.jpg"

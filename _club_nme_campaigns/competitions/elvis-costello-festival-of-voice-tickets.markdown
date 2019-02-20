@@ -11,8 +11,8 @@ title: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
 competition-description: "<p>Get ready because NME AAA is giving away a pair of tickets\
   \ for one lucky winner and one guest to see perform live the talented Elvis Costello\
   \ at Festival of Voice 2018 which will take place at Wales Millennium Centre in\
-  \ Cardiff on Sunday 17th of June!</p>\r\n<p>If this sounds like the best plan for\
-  \ the weekend, click on the link below for a chance to win!</p>"
+  \ Cardiff on Sunday 17th of June!</p>\n<p>If this sounds like the best plan for\
+  \ the weekend, click on the link below for a chance to win!</p>\n"
 hero-header: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-591ae2cb-4be5-4fd0-bd6d-3008d65a4b88.jpg"
@@ -25,26 +25,26 @@ bg-image-second: "https://assets.expresslyapp.com/asset-a8d4b22a-e51a-46bd-833f-
 bg-image-third: "https://assets.expresslyapp.com/asset-bd70aba9-60c4-41e3-ba4a-5495a1687369.jpg"
 section1-content: "<p>Festival of Voice 2018 it’s a biennial arts festival taking\
   \ place in Cardiff packed with great music artists to celebrate culture and the\
-  \ voice.</p>\r\n<p>It is finally here to bring you an eclectic line-up of cultural\
+  \ voice.</p>\n<p>It is finally here to bring you an eclectic line-up of cultural\
   \ peformers from around the world: Patti Smith, Elvis Costello, Angélique Kidjo,\
   \ a brand new collaboration between Laura Marling and musician and producer Mike\
   \ Lindsay of Tunng – LUMP – and many more will  join the line-up of headline music\
-  \ artists performing at Wales Millennium Centre.</p>"
+  \ artists performing at Wales Millennium Centre.</p>\n"
 section2-content: "<p>Festival of Voice\_is thrilled\_to welcome\_Elvis\_Costello\
-  \ for a\_fabulous finale\_to close\_this magnificent series of events.</p>\r\n<p>Two\
+  \ for a\_fabulous finale\_to close\_this magnificent series of events.</p>\n<p>Two\
   \ Ivor\_Novello Awards for\_songwriting, a\_BAFTA for Alan Bleasdale’s television\
   \ drama series G.B.H, a Grammy for\_I Still Have That Other Girl, best known for\
   \ the\_songs,\_Alison,\_Pump It Up,\_Everyday\_I Write\_The\_Book,\_and his rendition\
   \ of the\_Nick Lowe\_song are some of his most recognised and acclaimed pieces of\
-  \ work. </p>"
+  \ work. </p>\n"
 section3-content: "<p>Want to come along with us? Competition closes on Friday 14th\
   \ of June at 23:59 so complete the form below for a chance to win a pair of tickets\
   \ and you could be singing along with Elvis Costello at Wales Millennium Centre\
-  \ in Cardiff on Sunday 17th of June.</p>\r\n<p>Good luck!</p>"
+  \ in Cardiff on Sunday 17th of June.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a pair of tickets to see Elvis Costello at Festival of Voice 2018!"
 entry-content: "<p>Complete the form below before June 14th at 23:59 to be in with\
   \ a chance to rock out with Elvis Costello at Festival of Voice 2018! at Wales Millennium\
-  \ Centre.</p>"
+  \ Centre.</p>\n"
 has-winner: false
 prize-description: "A pair of tickets to see Elvis Costello at Festival of Voice 2018\
   \ at Wales Millennium Centre on the 17th of June."

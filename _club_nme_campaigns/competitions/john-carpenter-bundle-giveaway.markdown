@@ -13,10 +13,10 @@ competition-description: "<p>Just in time for Halloween, a brand new 4K restorat
   \ will be back in cinemas around the country and ready to terrify audiences this\
   \ time looking better than ever! The film comes out on October 26 with very special\
   \ one night only Halloween screenings taking place on October 31. Find out where\
-  \ and buy tickets <a href=\"https://www.johncarpenter4k.co.uk\">here!</a></p> \r\
-  \n<p>Once again and NME AAA has managed to get special prizes for YOU: one bundle\
-  \ of John Carpenter goodies & two bundles of The Fog on Blu-ray and a T-Shirt!</p>\r\
-  \n<p>Sounds good to you? Enter below for a chance to win!</p>"
+  \ and buy tickets <a href=\"https://www.johncarpenter4k.co.uk\">here!</a></p> \n\
+  <p>Once again and NME AAA has managed to get special prizes for YOU: one bundle\
+  \ of John Carpenter goodies & two bundles of The Fog on Blu-ray and a T-Shirt!</p>\n\
+  <p>Sounds good to you? Enter below for a chance to win!</p>\n"
 hero-header: "Win one of 3 bundles of John Carpenter’s 4K Restorations!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-237bdd44-c8f5-436a-ab85-f045650f9a88.jpg"
@@ -27,23 +27,23 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-f591acd9-3e5a-4fd8-a171-52
 bg-image-first: "https://assets.expresslyapp.com/asset-2f365275-624a-442a-b144-368ba79d64e2.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-111ddbb2-812e-40fd-83c3-180e4d151163.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-edd0367a-7863-4ff0-8959-e57ab152fbb2.jpg"
-section1-content: "John Carpenter has maintained his place as one of the most loved\
+section1-content: "<p>John Carpenter has maintained his place as one of the most loved\
   \ and highly lauded directors in the realm of cult, fantasy and horror filmmaking\
   \ for over 40 years. From the moment that Halloween broke through to audiences worldwide\
   \ in 1978, Carpenter has created some of the most intense, imaginative, influential\
-  \ and successful films in cinema history!"
+  \ and successful films in cinema history!</p>\n"
 section2-content: "<p>To mark the release, STUDIOCANAL is offering one reader the\
   \ chance to win a bundle of John Carpenter goodies including a THE FOG T shirt,\
   \ ESCAPE FROM NEW YORK T shirt, a copy of ANTHOLOGY: MOVIES THEMES 1974-1998 on\
   \ vinyl, a keyring, 4 newly designed posters for THE FOG, ESCAPE FROM NEW YORK,\
   \ THEY LIVE and PRINCE OF DARKNESS and a set of 6 postcards! PLUS that’s not all\
-  \ two runners up will win a bundle of THE FOG on Blu-Ray and a T-shirt.</p>"
+  \ two runners up will win a bundle of THE FOG on Blu-Ray and a T-shirt.</p>\n"
 section3-content: "<p>Think no more and enter the form below for a chance to win one\
   \ of the 3 bundles that we are giving away to 3 lucky NME AAA members! Hurry up\
-  \ and it could be yours!</p>\r\n<p>Good luck!</p>"
+  \ and it could be yours!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win one of 3 bundles of John Carpenter’s 4K Restorations!"
-entry-content: "Enter the draw to win one of 3 bundles of John Carpenter’s 4K Restorations\
-  \ by completing the form below before 23:59 on 1st of November 2018."
+entry-content: "<p>Enter the draw to win one of 3 bundles of John Carpenter’s 4K Restorations\
+  \ by completing the form below before 23:59 on 1st of November 2018.</p>\n"
 has-winner: false
 prize-description: "One of 3 bundles of John Carpenter’s 4K Restorations.\r\nEach\
   \ winner will be randomly assigned 1 of the 3 bundles.\r\nBundles are: \r\n1x THE\

@@ -13,8 +13,8 @@ competition-description: "<p>Their sixth album, amo is finally here! the long aw
   \ Oli Sykes says that \"amo is a love album that explores every aspect of that most\
   \ powerful emotion’’…. So, if you want to explore the most powerful emotion of this\
   \ incredible album as well we have great news for you! We are giving away BMTH brand\
-  \ new album to one of our US members!</p>\r\n<p>Are you BTH biggest fan? Click below\
-  \ for a chance to win!</p>"
+  \ new album to one of our US members!</p>\n<p>Are you BTH biggest fan? Click below\
+  \ for a chance to win!</p>\n"
 hero-header: "Win Bring Me The Horizon amo CD!"
 terms-confirmation: "https://aaa.nme.com/etc/bring-me-the-horizon-amo.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a3143816-5eb6-436a-9cf8-09f052b5798d.jpg"
@@ -29,14 +29,13 @@ section1-content: "<p>amo is Bring me The Horizon's sixth studio album, and the 
   \ production. What has transpired is one of their most exhilarating, genre crossing\
   \ albums to date. While amo has some surprises, it very much sticks to the bands\
   \ successful fan pleasing formula of massive stadium bouncing rocks songs with huge\
-  \ singalong choruses.</p>\r\n<p>Bring Me The Horizon have been on a rocket of a\
-  \ journey over the last few years, selling over 4 Million albums globally to date,\
-  \ playing sell out shows in over 40 countries.We have their brand new album in our\
-  \ hands and we want it to give it you, think no more and enter below for a chance\
-  \ to win!</p>"
+  \ singalong choruses.</p>\n<p>Bring Me The Horizon have been on a rocket of a journey\
+  \ over the last few years, selling over 4 Million albums globally to date, playing\
+  \ sell out shows in over 40 countries.We have their brand new album in our hands\
+  \ and we want it to give it you, think no more and enter below for a chance to win!</p>\n"
 entry-title: "Win Bring Me The Horizon amo CD!"
-entry-content: "Enter the draw to win Bring Me The Horizon amo CD!\r\nby completing\
-  \ the form below before 23:59 on 28th of February 2019."
+entry-content: "<p>Enter the draw to win Bring Me The Horizon amo CD!\nby completing\
+  \ the form below before 23:59 on 28th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Bring Me The Horizon amo CD."
 special-conditions: "Multiple entries are allowed up to one every day."

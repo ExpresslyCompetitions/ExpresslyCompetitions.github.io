@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win a pair of gig tickets with BULLDOG Gin!"
 competition-description: "<p>Bringing premium taste to an incredible space, BULLDOG\
   \ Gin continues its partnership with London’s Printworks this November with the\
-  \ launch of an exclusive new age Ginporium right in the heart of the iconic venue!</p>\r\
-  \n<p>And to celebrate, we have two pairs of tickets to the forthcoming Printworks\
+  \ launch of an exclusive new age Ginporium right in the heart of the iconic venue!</p>\n\
+  <p>And to celebrate, we have two pairs of tickets to the forthcoming Printworks\
   \ Mount Kimbie Curates show on November 17th for you to win – basically, drink boutique\
-  \ BULLDOG cocktails, dance, repeat.</p>\r\n<p>Interested? Read on…</p>"
+  \ BULLDOG cocktails, dance, repeat.</p>\n<p>Interested? Read on…</p>\n"
 hero-header: "Win a pair of gig tickets with BULLDOG Gin!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4bfbc221-d7b2-4942-91cd-d32e24e69cb8.jpg"
@@ -26,18 +26,18 @@ bg-image-second: "https://assets.expresslyapp.com/asset-c593a079-6a6e-4726-9cff-
 bg-image-third: "https://assets.expresslyapp.com/asset-63c4d88d-3cec-49dd-bf61-c4876813f616.jpg"
 section1-content: "<p>Ahead of the release of their forthcoming DJ-Kicks mix, electronic\
   \ pioneers Mount Kimbie are curating a super special night on November 17th alongside\
-  \ Trip label boss Nina Kraviz and the eclectic Ben UFO at Printworks London.</p>\r\
-  \n <p>And the Ginporium?</p>"
-section2-content: "Serving up game-changing gin flavours such as the BULLDOG G, T\
-  \ & Turbo Tea (with Matcha green tea) alongside the classic BULLDOG Gin & Tonic\
-  \ (garnished with blackberries), this bespoke bar will deliver a ginspired experience\
-  \ for music fans."
+  \ Trip label boss Nina Kraviz and the eclectic Ben UFO at Printworks London.</p>\n\
+  \ <p>And the Ginporium?</p>\n"
+section2-content: "<p>Serving up game-changing gin flavours such as the BULLDOG G,\
+  \ T &amp; Turbo Tea (with Matcha green tea) alongside the classic BULLDOG Gin &amp;\
+  \ Tonic (garnished with blackberries), this bespoke bar will deliver a ginspired\
+  \ experience for music fans.</p>\n"
 section3-content: "<p>Needless to say, this night has all the makings of a bona fide\
   \ pre-Christmas banger. All you have to do is enter the competition via the link\
-  \ below.</p>\r\n<p>Good luck!</p>"
+  \ below.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a pair of gig tickets with BULLDOG Gin!"
-entry-content: "Enter the draw to win a pair of gig tickets with BULLDOG Gin! by completing\
-  \ the form below before 23:59 on 13th of November 2018."
+entry-content: "<p>Enter the draw to win a pair of gig tickets with BULLDOG Gin! by\
+  \ completing the form below before 23:59 on 13th of November 2018.</p>\n"
 has-winner: false
 prize-description: "A pair of gig tickets with BULLDOG Gin."
 prize-restrictions: "The winner(s) are responsible for expenses and arrangements not\

@@ -11,7 +11,7 @@ title: "Win a £50 Netflix Gift card!"
 competition-description: "<p>Calling all Netflix lovers! Sure you won’t want to miss\
   \ this! We’ve managed to get our hands on a £50 Netflix Gift card for YOU to get\
   \ stuck into your favourite shows! House of Paper, Stranger Things… and that is\
-  \ just the beginning!</p>\r\n<p>Do you want it? You know what to do…</p>"
+  \ just the beginning!</p>\n<p>Do you want it? You know what to do…</p>\n"
 hero-header: "Win a £50 Netflix Gift card!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-447354c7-4e7d-44d5-ab96-88ca72a1fdd8.jpg"
@@ -23,17 +23,17 @@ bg-image-first: "https://assets.expresslyapp.com/asset-8cfdf1d0-3824-4a8c-8bf0-2
 bg-image-second: "https://assets.expresslyapp.com/asset-42cc567e-3563-4040-92a7-3e2360fd07ae.jpg"
 section1-content: "<p>Netflix is the world's leading internet entertainment service\
   \ with 125 million memberships in over 190 countries enjoying TV series, documentaries\
-  \ and feature films across a wide variety of genres and languages.</p>\r\n<p>Members\
+  \ and feature films across a wide variety of genres and languages.</p>\n<p>Members\
   \ can watch as much as they want, anytime, anywhere, on any internet-connected screen.\
-  \ Members can play, pause and resume watching, all without commercials or commitments..</p>"
+  \ Members can play, pause and resume watching, all without commercials or commitments..</p>\n"
 section2-content: "<p>Netflix’s library contains a broad range of hit movies and shows\
   \ from major networks. TV series like Arrow, The Flash, Scandal, Grey’s Anatomy,The\
-  \ Walking Dead…. & many more!</p>\r\n<p>If you don’t want to miss any of the shows\
+  \ Walking Dead…. & many more!</p>\n<p>If you don’t want to miss any of the shows\
   \ hurry up! Enter the form below and you could be enjoying your favourite shows\
-  \ anywhere with a £50 Netflix Gift card!</p>\r\n<p>Good luck!</p>"
+  \ anywhere with a £50 Netflix Gift card!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a £50 Netflix Gift card!"
-entry-content: "Enter the draw to win a £50 Netflix Gift card by completing the form\
-  \ below before 23:59 on 3th of August 2018."
+entry-content: "<p>Enter the draw to win a £50 Netflix Gift card by completing the\
+  \ form below before 23:59 on 3th of August 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Robert P. who won a £50 Netflix Gift card!"
 winner-banner: "https://assets.expresslyapp.com/asset-f83d1a76-3318-4216-a08f-b0bfd32aa37a.jpg"

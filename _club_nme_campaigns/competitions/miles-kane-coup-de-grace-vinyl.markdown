@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Miles Kane Coup De Grace vinyl edition!"
 competition-description: "<p>He is BACK and this time, he comes with his third solo\
   \ album: Coup De Grace! Recorded in LA… we have in our hands the brand new album\
-  \ vinyl edition of the British singer Miles Kane for you to get stuck into!</p>\r\
-  \n<p>Want it? You know what to do.</p>"
+  \ vinyl edition of the British singer Miles Kane for you to get stuck into!</p>\n\
+  <p>Want it? You know what to do.</p>\n"
 hero-header: "Win Miles Kane Coup De Grace vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9f35a886-d6c2-48e0-9095-41227c85ef48.jpg"
@@ -22,15 +22,15 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-3e7e6529-c1d6-4798-8f8a-54
 bg-image-first: "https://assets.expresslyapp.com/asset-9e87c362-eff1-41da-a744-d9a856b52deb.jpg"
 section1-content: "<p>“This record for me is the most important record I’ve made to\
   \ date” said Miles. “It’s been 5 years in the making, a lot of emotion and excitement\
-  \ has gone into making this album!”</p>\r\n<p>Since joining The Little Flames 14\
-  \ years ago, Miles has seen the pop climate change considerably but still believes\
-  \ the magic’s in the music. He’s like an excitable schoolboy who just went to his\
-  \ first gig. His enthusiasm is contagious!</p>\r\n<p>If you want to get contagious\
-  \ with his brand new hits… enter the form below and you could be enjoying Miles\
-  \ tunes anywhere you want!</p>\r\n<p>Good luck!</p>"
+  \ has gone into making this album!”</p>\n<p>Since joining The Little Flames 14 years\
+  \ ago, Miles has seen the pop climate change considerably but still believes the\
+  \ magic’s in the music. He’s like an excitable schoolboy who just went to his first\
+  \ gig. His enthusiasm is contagious!</p>\n<p>If you want to get contagious with\
+  \ his brand new hits… enter the form below and you could be enjoying Miles tunes\
+  \ anywhere you want!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Miles Kane Coup De Grace vinyl edition!"
-entry-content: "Enter the draw to win Miles Kane Coup De Grace vinyl edition by completing\
-  \ the form below before 23:59 on 22th of September 2018."
+entry-content: "<p>Enter the draw to win Miles Kane Coup De Grace vinyl edition by\
+  \ completing the form below before 23:59 on 22th of September 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Emma S. who won Miles Kane Coup De Grace vinyl edition!"
 winner-banner: "https://assets.expresslyapp.com/asset-e986bead-6d7f-4362-9bb5-f3b87f4aabdd.jpg"

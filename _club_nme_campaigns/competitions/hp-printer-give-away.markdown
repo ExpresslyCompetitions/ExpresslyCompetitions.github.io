@@ -12,8 +12,8 @@ competition-description: "<p>Affordable power, mobile printing, vibrant colour, 
   \ instantly your photos from your favourite concert or festival... YES! we are talking\
   \ about the brand new HP DeskJet 3720 All-in-One Printer! and now, thanks to NME\
   \ AAA it could be yours! We’re giving away this amazing printer to one of our lucky\
-  \ NME AAA members!</p>\r\n<p>Does it sound good to you? Click below for a chance\
-  \ to win!</p>"
+  \ NME AAA members!</p>\n<p>Does it sound good to you? Click below for a chance to\
+  \ win!</p>\n"
 hero-header: "Win the HP DeskJet 3720 All-in-One Printer!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0ae908f3-d41f-4ccc-b7f4-be526712dda7.jpg"
@@ -25,12 +25,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-0712a81e-0cc0-41fe-9e6e-2
 section1-content: "<p>Make that moment, concert, festival and event special again\
   \ by printing right from your Apple, Android, and Windows devices with this amazing\
   \ printer! The world’s smallest all-in-one printer is an Instant Ink ready printer\
-  \ that fits and looks good virtually anywhere.</p>\r\n<p>Enter the form below and\
+  \ that fits and looks good virtually anywhere.</p>\n<p>Enter the form below and\
   \ don’t miss out this great opportunity of winning the HP DeskJet 3720 All-in-One\
-  \ Printer!</p>\r\n<p>Fit your space, fit your wireless life!</p>\r\n<p>Good luck!</p>"
+  \ Printer!</p>\n<p>Fit your space, fit your wireless life!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the HP DeskJet 3720 All-in-One Printer!"
-entry-content: "Enter the draw to win the HP DeskJet 3720 All-in-One Printer by completing\
-  \ the form below before 23:59 on 6th of August 2018."
+entry-content: "<p>Enter the draw to win the HP DeskJet 3720 All-in-One Printer by\
+  \ completing the form below before 23:59 on 6th of August 2018.</p>\n"
 has-winner: false
 prize-description: "The HP DeskJet 3720 All-in-One Printer!"
 special-conditions: "Multiple entries are allowed up to one every day."

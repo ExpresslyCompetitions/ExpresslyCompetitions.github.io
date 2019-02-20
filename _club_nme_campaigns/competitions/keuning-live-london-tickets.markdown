@@ -12,7 +12,7 @@ competition-description: "<p>Following years of touring the UK with one of the w
   s best live bands The Killers, Keuning plays his debut solo UK shows next month\
   \ showcasing his brand new material and YOU have a date with him because we are\
   \ giving away a pair of tickets to see him perform live at London’s Dingwalls on\
-  \ 10th December. </p>\r\n<p>Want to come with us? Click below for a chance to win!</p>"
+  \ 10th December. </p>\n<p>Want to come with us? Click below for a chance to win!</p>\n"
 hero-header: "Win a pair of tickets to see Keuning live in London!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-192613cc-c4a3-456c-9ab4-2d5a660af962.jpg"
@@ -28,30 +28,30 @@ section1-content: "<p>More than 17 years have passed since Iowa transplant Dave 
   \ Oasis as one of his faves.\_ An eager 20-year-old named Brandon Flowers, who shared\
   \ Keuning’s love of groups like New Order and the Cure, answered it, only to have\
   \ Dave promptly hand him a TASCAM-recorded four-track demo of “Mr. Brightside.”\
-  </p>\r\n<p>The result was the formation of The Killers, who have released five consecutive\
+  </p>\n<p>The result was the formation of The Killers, who have released five consecutive\
   \ chart-topping albums and toured the world thanks to a songwriting partnership\
   \ which molded such hits as “Somebody Told Me,” “When You Were Young,” “Read My\
-  \ Mind,” “A Dustland Fairy Tale,” “The World We Live In” and “Spaceman,” among others.</p>\r\
-  \n<p><i>(Credit:Dana Trippe)</i></p>"
+  \ Mind,” “A Dustland Fairy Tale,” “The World We Live In” and “Spaceman,” among others.</p>\n\
+  <p><i>(Credit:Dana Trippe)</i></p>\n"
 section2-content: "<p>Now, the founding member and guitarist from The Killers has\
-  \ released his new single ‘Boat Accident’, taken from Keuning’s debut album Prismism.</p>\r\
-  \n<p>Prismism is the result, a collection of 14 tracks – with all the instruments,\
+  \ released his new single ‘Boat Accident’, taken from Keuning’s debut album Prismism.</p>\n\
+  <p>Prismism is the result, a collection of 14 tracks – with all the instruments,\
   \ save some drum parts, played by Keuning himself – which, like the title says,\
   \ sees things from all sides, focusing on details without missing the big picture.\
   \ The album examines our basic relationships and interactions, with family, friends\
   \ and co-workers, how one can feel trapped by their surroundings, as well as those\
   \ that rely on them, emotionally and/or professionally. The album is inspired by\
-  \ the very thing that brought him here in the first place – the music.</p>"
+  \ the very thing that brought him here in the first place – the music.</p>\n"
 section3-content: "<p>Keuning plays his debut solo UK shows next month showcasing\
   \ his brand new material, with a date at Manchester’s Night & Day on 9th December\
-  \ and London’s Dingwalls on 10th December.</p>\r\n<p>We’ve got a pair of tickets\
-  \ to see the incredible Keuning live at London’s Dingwalls on December 10th and\
-  \ we want YOU to come along with us. PLUS the official Keuning t-shirt & tote bag\
-  \ could be yours too! Enter the form below for a chance to win and get ready to\
-  \ enjoy Keuning new music!</p>\r\n<p><i>(Credit:Dana Trippe)</i></p>"
+  \ and London’s Dingwalls on 10th December.</p>\n<p>We’ve got a pair of tickets to\
+  \ see the incredible Keuning live at London’s Dingwalls on December 10th and we\
+  \ want YOU to come along with us. PLUS the official Keuning t-shirt & tote bag could\
+  \ be yours too! Enter the form below for a chance to win and get ready to enjoy\
+  \ Keuning new music!</p>\n<p><i>(Credit:Dana Trippe)</i></p>\n"
 entry-title: "Win a pair of tickets to see Keuning live in London!"
-entry-content: "Enter the draw to win a pair of tickets to see Keuning live in London\
-  \ by completing the form below before 23:59 on 7th of December 2018."
+entry-content: "<p>Enter the draw to win a pair of tickets to see Keuning live in\
+  \ London by completing the form below before 23:59 on 7th of December 2018.</p>\n"
 has-winner: false
 prize-description: "A pair of tickets to see Keuning live in London and Keuning t-shirt\
   \ & tote bag."

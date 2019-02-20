@@ -11,8 +11,8 @@ title: "Win the Best of British board game!"
 competition-description: "<p>Can you answer the Best of British questions on real-life,\
   \ finger-on-the-pulse of 21st century British lifestyle situations? If you think\
   \ you can, we are sure you won’t want to miss this: we are giving away the Best\
-  \ of British board game to one lucky member to win!</p>\r\n<p>Want to have your\
-  \ weekend planned? Click below for a chance to win!</p>"
+  \ of British board game to one lucky member to win!</p>\n<p>Want to have your weekend\
+  \ planned? Click below for a chance to win!</p>\n"
 hero-header: "Win the Best of British board game!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b91a8c92-e62c-4e86-adc7-402cac5712c9.jpg"
@@ -25,13 +25,13 @@ section1-content: "</p>A brilliant new game that light heartedly delves into our
   \ life, reminding us of the diverse, unique and hilarious everyday things, people\
   \ and places that make Britain such an outstanding place to live.There's so much\
   \ about this wonderful country of ours that we take for granted: Blackpool rock,\
-  \ deep fried Mars Bars, Big Ben and Eros, Winston Churchill and Thunderbirds…</p>\r\
-  \n<p>We are giving away the funniest game to enjoy with your loved ones: The Best\
+  \ deep fried Mars Bars, Big Ben and Eros, Winston Churchill and Thunderbirds…</p>\n\
+  <p>We are giving away the funniest game to enjoy with your loved ones: The Best\
   \ of British board game. If you are looking forward to have a great fun night, enter\
-  \ the form below and it could be yours!</p>"
+  \ the form below and it could be yours!</p>\n"
 entry-title: "Win the Best of British board game!"
-entry-content: "Enter the draw to win the Best of British board game by completing\
-  \ the form below before 23:59 on 5th of November 2018."
+entry-content: "<p>Enter the draw to win the Best of British board game by completing\
+  \ the form below before 23:59 on 5th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Melanie B. who won the Best of British board game!"
 winner-banner: "https://assets.expresslyapp.com/asset-ca208f6c-d249-44bf-a7f0-c4c502623976.jpg"

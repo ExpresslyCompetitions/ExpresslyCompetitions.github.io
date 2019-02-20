@@ -13,9 +13,9 @@ competition-description: "<p>In celebration of their 30th anniversary Thunder re
   \ them before. ‘Please Remain Seated’ is the sound of a band taking a strange journey\
   \ into their own music, but also distilling thirty years of playing together in\
   \ order to create something truly compelling, taking in flavours of rock, blues,\
-  \ jazz and soul along the way.</p>\r\n<p>We are giving away Thunder ‘Please Remain\
+  \ jazz and soul along the way.</p>\n<p>We are giving away Thunder ‘Please Remain\
   \ Seated’ Deluxe Edition to one of our lucky members to win and listen this amazing\
-  \ compilation of their best songs. Want it? Click below for a chance to win.</p>"
+  \ compilation of their best songs. Want it? Click below for a chance to win.</p>\n"
 hero-header: "Win Thunder ‘Please Remain Seated’ Deluxe Edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9497da16-123a-408f-bbb8-a543b8044c69.jpg"
@@ -29,15 +29,15 @@ section1-content: "<p>Since forming in 1989, Thunder have notched up twenty Top 
   \ Their last album – 2017’s ‘Rip It Up’ – hit number 3 in the UK album charts, giving\
   \ the band their highest chart placing in 22 years. In celebration of their 30th\
   \ anniversary Thunder revisit and reinterpret a selection of their finest songs\
-  \ in a way you’ve never heard them before.</p>\r\n<p>‘Please Remain Seated’ is the\
+  \ in a way you’ve never heard them before.</p>\n<p>‘Please Remain Seated’ is the\
   \ sound of a band taking a strange journey into their own music, but also distilling\
   \ thirty years of playing together in order to create something truly compelling,\
   \ taking in flavours of rock, blues, jazz and soul along the way. Includes the hits\
-  \ – ‘She’s So Fine’ and ‘Low Life In High Places’.</p>\r\n<p>Enter the form below\
-  \ for a chance to win. Welcome to the delicate sound of Thunder...</p>"
+  \ – ‘She’s So Fine’ and ‘Low Life In High Places’.</p>\n<p>Enter the form below\
+  \ for a chance to win. Welcome to the delicate sound of Thunder...</p>\n"
 entry-title: "Win Thunder ‘Please Remain Seated’ Deluxe Edition!"
-entry-content: "Enter the draw to win Thunder ‘Please Remain Seated’ Deluxe Edition\
-  \ by completing the form below before 23:59 on 14th March 2019."
+entry-content: "<p>Enter the draw to win Thunder ‘Please Remain Seated’ Deluxe Edition\
+  \ by completing the form below before 23:59 on 14th March 2019.</p>\n"
 has-winner: false
 prize-description: "Thunder ‘Please Remain Seated’ Deluxe Edition."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

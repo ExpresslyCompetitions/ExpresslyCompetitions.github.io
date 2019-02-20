@@ -11,8 +11,8 @@ title: "Win the Macrimo Waterproof Bluetooth Speaker!"
 competition-description: "<p>Want to enjoy crystal clear music while camping, at the\
   \ beach, by the pool, in the shower without worrying that water, sand or dust could\
   \ damage your speaker? We have the solution for you, we’re giving away the ultimate\
-  \ Macrimo Waterproof Bluetooth Speaker to one lucky NME AAA member to win!</p>\r\
-  \n<p>Maybe is you?</p>"
+  \ Macrimo Waterproof Bluetooth Speaker to one lucky NME AAA member to win!</p>\n\
+  <p>Maybe is you?</p>\n"
 hero-header: "Win the Macrimo Waterproof Bluetooth Speaker!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-65caa322-8c66-424e-bfb8-bdb64fa83e74.jpg"
@@ -25,13 +25,13 @@ section1-content: "<p>This Waterproof Bluetooth Speaker is perfect for everyday 
   \ and outdoor use, such as shower, beach, pool, boat, bath, car, office and more.\
   \ With warm white, red, blue, green, purple, light blue, color change and musical\
   \ rhythm light modes, it can be used as a super cool night light, atmosphere mood\
-  \ light and party light, once you own it you will fall in love with it.</p>\r\n\
-  <p>Treat yourself with this ultimate Waterproof Bluetooth Speaker and stop worrying\
-  \ about damage it!</p>"
+  \ light and party light, once you own it you will fall in love with it.</p>\n<p>Treat\
+  \ yourself with this ultimate Waterproof Bluetooth Speaker and stop worrying about\
+  \ damage it!</p>\n"
 entry-title: "Win the Macrimo Waterproof Bluetooth Speaker!"
 entry-content: "<p>Enter the draw to win the ultimate Waterproof Bluetooth Speaker\
   \ and listen your favourite tunes anywhere! by completing the form below before\
-  \ 23:59 on 1st July 2018.</p>"
+  \ 23:59 on 1st July 2018.</p>\n"
 has-winner: false
 prize-description: "A Macrimo Waterproof Bluetooth Speaker!"
 special-conditions: "Multiple entries are allowed up to one every day. Starting June\

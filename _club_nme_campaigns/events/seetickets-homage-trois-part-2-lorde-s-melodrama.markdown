@@ -8,8 +8,8 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Homage &agrave; Trois Part 2: Lorde's Melodrama"
-competition-description: "Get tickets for Lorde's concert on Friday, 22 Dec 2017 at\
-  \ Firebug, Leicester!"
+competition-description: "<p>Get tickets for Lorde's concert on Friday, 22 Dec 2017\
+  \ at Firebug, Leicester!</p>\n"
 banner-img: "seetickets-main_image.jpg"
 logo-left-href: "https://www.seetickets.com/event/homage-trois-part-2-lorde-s-melodrama/firebug/1127588"
 logo-left-image: "seetickets-logo.png"

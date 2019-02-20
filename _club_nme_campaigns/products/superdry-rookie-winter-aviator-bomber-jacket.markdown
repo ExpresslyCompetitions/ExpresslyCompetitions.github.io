@@ -8,11 +8,11 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Superdry men's Rookie winter Aviator bomber jacket"
-competition-description: "This jacket is great for keeping you warm during those colder\
-  \ months and features a lining consisting of Sherpa and quilting, two front popper\
-  \ fastened pockets, a zipper fastening and ribbed cuffs and hem. The Rookie winter\
-  \ Aviator bomber jacket is finished with a Superdry International logo patch on\
-  \ one sleeve and a Superdry logo tab on one pocket."
+competition-description: "<p>This jacket is great for keeping you warm during those\
+  \ colder months and features a lining consisting of Sherpa and quilting, two front\
+  \ popper fastened pockets, a zipper fastening and ribbed cuffs and hem. The Rookie\
+  \ winter Aviator bomber jacket is finished with a Superdry International logo patch\
+  \ on one sleeve and a Superdry logo tab on one pocket.</p>\n"
 banner-img: "superdry-main_image.jpg"
 logo-left-href: "https://www.superdry.com/mens/jackets/bomber-jackets/details/70532/rookie-winter-aviator-bomber-jacket-beige"
 logo-left-image: "superdry-logo.png"

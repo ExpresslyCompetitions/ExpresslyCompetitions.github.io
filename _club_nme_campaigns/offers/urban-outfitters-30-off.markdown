@@ -11,9 +11,9 @@ title: "Always open, always awesome with Urban Outfitters!"
 competition-description: "<p>At Urban Outfitters they've been inspiring customers\
   \ through a unique combination of product, creativity and cultural understanding\
   \ offering experiential retail environments and a well-curated mix of women’s, men’\
-  s, accessories and home product assortments.</p>\r\n<p>They have something for everybody\
+  s, accessories and home product assortments.</p>\n<p>They have something for everybody\
   \ and now they are up to 30% OFF at selected lines! Hurry up and don't miss out\
-  \ on their amazing collection!</p>"
+  \ on their amazing collection!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-32cd190a-e476-4d4e-af38-1bc8fab2a630.jpg"
 logo-left-href: "https://www.urbanoutfitters.com/?ref=logo"
 logo-left-image: "https://assets.expresslyapp.com/asset-728a5c4d-ce53-4f85-a171-2c397512e583.jpg"

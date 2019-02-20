@@ -12,8 +12,8 @@ competition-description: "<p>We have in our hands an extensive live overview of 
   \ Bowie greatest hits, popular album tracks and fan favourites, performed live during\
   \ his amazing performance in Dublin, Ireland. The 2004 show was captured on film\
   \ for DVD, later on CD, but never released on vinyl. But now, we have a copy on\
-  \ vinyl edition to one of our lucky member and Bowie’s fan to win!</p>\r\n<p>Want\
-  \ it to be yours? Click below for a chance to win!</p>"
+  \ vinyl edition to one of our lucky member and Bowie’s fan to win!</p>\n<p>Want\
+  \ it to be yours? Click below for a chance to win!</p>\n"
 hero-header: "Win David Bowie ‘A Reality Tour’ Box set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-c4d7aa9b-3260-40f8-a35d-5e199a1ee28e.jpg"
@@ -26,16 +26,16 @@ section1-content: "<p>This amazing Box set features almost three hours of music 
   \ six sides of audiophile vinyl, with songs from Bowie's classic and modern rock\
   \ eras; Heroes, Ziggy Stardust, Changes, Fame, Under Pressure, All The Young Dudes,\
   \ Rebel, Rebel are all present along with many more great live versions from his\
-  \ expansive catalogue.</p>\r\n<p>This limited edition release is housed in a sturdy\
+  \ expansive catalogue.</p>\n<p>This limited edition release is housed in a sturdy\
   \ lift off lid box, with two first time poster inserts featuring the wonderful 12\"\
   \ x 12\" front cover image as well as a 12\" x 24\" double-sided poster featuring\
-  \ unique live performance shots from this great concert tour!</p>\r\n<p>If you are\
+  \ unique live performance shots from this great concert tour!</p>\n<p>If you are\
   \ David Bowie’s biggest fan, think no more and enter the form below for a chance\
   \ to win his fantastic ‘A Reality Tour’ Box-set and get ready to experience three\
-  \ hours of great music!</p>\r\n<p>Good luck!</p>"
+  \ hours of great music!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win David Bowie ‘A Reality Tour’ Box set!"
-entry-content: "Enter the draw to win David Bowie ‘A Reality Tour’ Box set by completing\
-  \ the form below before 23:59 on 19th of February 2019."
+entry-content: "<p>Enter the draw to win David Bowie ‘A Reality Tour’ Box set by completing\
+  \ the form below before 23:59 on 19th of February 2019.</p>\n"
 has-winner: false
 prize-description: "David Bowie ‘A Reality Tour’ Box set."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

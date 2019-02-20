@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Win an instax mini 9 camera and film"
-competition-description: "Fujifilm presents: instax mini 9, the perfect instant camera!\
-  \ Fujifilm creates innovative products and deliver effective solutions in a wide\
-  \ variety of fields to serve society, contribute to the quality of life, and enhance\
-  \ environmental sustainability."
+competition-description: "<p>Fujifilm presents: instax mini 9, the perfect instant\
+  \ camera! Fujifilm creates innovative products and deliver effective solutions in\
+  \ a wide variety of fields to serve society, contribute to the quality of life,\
+  \ and enhance environmental sustainability.</p>\n"
 banner-img: "fujifilm-main_image.jpg"
 logo-left-href: "http://www.fujifilm.com/products/instant_photo/cameras/instax_mini_9/"
 logo-left-image: "fujifilm-logo.png"

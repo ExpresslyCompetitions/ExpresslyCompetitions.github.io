@@ -11,8 +11,8 @@ title: "Win Jess Glynne Always in Between CD album!"
 competition-description: "<p>As she continues to make UK chart history with her 7th\
   \ #1 single ‘I’ll Be There’, Jess Glynne announces her glittering new album ‘Always\
   \ In Between’ and we have managed to get our hands on one copy to one of our lucky\
-  \ NME AAA members!</p>\r\n<p>Are you Jess Glynne’s biggest fan? Click below for\
-  \ a chance to win!</p>"
+  \ NME AAA members!</p>\n<p>Are you Jess Glynne’s biggest fan? Click below for a\
+  \ chance to win!</p>\n"
 hero-header: "Win Jess Glynne Always in Between CD album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-91d562b4-0264-42cf-9590-5517897e1e25.jpg"
@@ -25,12 +25,12 @@ section1-content: "<p>‘Always In Between’ finds Jess on a breath-taking jour
   \ self-acceptance as she comes to terms with her new-found fame, heartbreak and\
   \ the well-known pressure of writing a second album. The result is a triumph that\
   \ captures the heart of what being a 28-year old woman in 2018 can feel like trying\
-  \ to balance real life with everything that you want it to be.</p>\r\n<p>If you\
-  \ can’t wait to listen Jess new album, enter the form below and you could be enjoying\
-  \ her brand new hits!</p>\r\n<p>Good luck!</p>"
+  \ to balance real life with everything that you want it to be.</p>\n<p>If you can’\
+  t wait to listen Jess new album, enter the form below and you could be enjoying\
+  \ her brand new hits!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Jess Glynne Always in Between CD album!"
-entry-content: "Enter the draw to win Jess Glynne Always in Between CD album by completing\
-  \ the form below before 23:59 on 18th of October 2018."
+entry-content: "<p>Enter the draw to win Jess Glynne Always in Between CD album by\
+  \ completing the form below before 23:59 on 18th of October 2018.</p>\n"
 has-winner: false
 prize-description: "Jess Glynne Always in Between CD album"
 special-conditions: "Multiple entries are allowed up to one every day."

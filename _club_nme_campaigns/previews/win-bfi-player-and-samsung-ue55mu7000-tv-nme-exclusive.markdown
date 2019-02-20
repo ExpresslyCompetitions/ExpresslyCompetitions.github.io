@@ -8,13 +8,13 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win a 1-year BFI Player subscription and brand new 55inch UHD Samsung TV"
-competition-description: "BFI is the British cinema best-known icon and can give you\
-  \ access to the best British and Global movies. <br />\r\nBFI Player gives you access\
-  \ to the greatest global cinema on demand. You can rent the latest releases, subscribe\
-  \ to classics and explore the best from the BFI, national and regional archives.<br\
-  \ />\r\nWatching all the amazing titles is now possible with the new BFI player\
-  \ app on Samsung TVs, and a lucky NME AAA member will enjoy them for a year for\
-  \ free on a brand new Samsung UE55MU7000."
+competition-description: "<p>BFI is the British cinema best-known icon and can give\
+  \ you access to the best British and Global movies. <br />\nBFI Player gives you\
+  \ access to the greatest global cinema on demand. You can rent the latest releases,\
+  \ subscribe to classics and explore the best from the BFI, national and regional\
+  \ archives.<br />\nWatching all the amazing titles is now possible with the new\
+  \ BFI player app on Samsung TVs, and a lucky NME AAA member will enjoy them for\
+  \ a year for free on a brand new Samsung UE55MU7000.</p>\n"
 hero-header: "Win a 1-year BFI Player subscription and brand new 55inch UHD Samsung\
   \ TV"
 terms-confirmation: "N/A"
@@ -26,17 +26,16 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-677b2589-d3b5-4a44-b3c4-5e
 bg-image-first: "https://assets.expresslyapp.com/asset-12f0d86c-ad93-4b50-bf6a-9270bdc2a604.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-03062eb6-e9bb-4300-bd41-3845c710d546.jpg"
 section1-content: "<p>BFI player gives you access to the greatest global cinema on\
-  \ demand.</p>\r\n<p>Rent the latest releases, subscribe to classics and explore\
-  \ the best from the BFI, national and regional archives.</p>\r\n<p>Pictured: The\
-  \ Housemaid</p>"
+  \ demand.</p>\n<p>Rent the latest releases, subscribe to classics and explore the\
+  \ best from the BFI, national and regional archives.</p>\n<p>Pictured: The Housemaid</p>\n"
 section2-content: "<p>A beautiful TV from one of Samsung's latest series, including\
   \ top quality HDR1000, Dynamic Crystal Colour tech, a great operating systems with\
-  \ many apps...</p>\r\n<p>...and of course the brand new BFI Player app</p>"
+  \ many apps...</p>\n<p>...and of course the brand new BFI Player app</p>\n"
 entry-title: "Win a 1-year BFI Player subscription and brand new 55inch UHD Samsung\
   \ TV"
-entry-content: "Complete the form below to win a year BFI Player subscription for\
+entry-content: "<p>Complete the form below to win a year BFI Player subscription for\
   \ 1 year and a UE55MU7000 Samsung TV. Valid entries have to be submitted by 23:59\
-  \ on June 17th."
+  \ on June 17th.</p>\n"
 has-winner: false
 prize-description: "1 year of BFI player subscription worth £4.99 per month and 1\
   \ UE55MU7000 worth £799 (based on RRP)"

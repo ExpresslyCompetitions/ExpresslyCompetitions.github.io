@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Get an original Disturbed Fire Behind Men's T-Shirt"
-competition-description: "Heavy cotton classic fit adult Gildan t-shirt with taped\
+competition-description: "<p>Heavy cotton classic fit adult Gildan t-shirt with taped\
   \ neck and shoulders, pre-shrunk jersey knit and quarter-turned to eliminate creases.<br/>Fabric\
   \ - 100% Cotton (Heather Grey, 90% cotton 10% polyester) Weight - White 175gsm,\
-  \ Colours 185gsm"
+  \ Colours 185gsm</p>\n"
 banner-img: "nmemerch-disturbed_main.jpg"
 logo-left-href: "https://nmemerch.com/products/disturbed-fire-behind-mens-t-shirt?variant=26194868613"
 logo-left-image: "nmemerch-logo.jpg"

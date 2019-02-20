@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win a copy of the new TV show Britannia on Blu-ray™"
 competition-description: "<p>Get ready… because Britannia is coming home with you!\
-  \ The Top Sky drama series is coming to DVD and Blu-ray™!\r\nThis is certainly one\
+  \ The Top Sky drama series is coming to DVD and Blu-ray™!\nThis is certainly one\
   \ release that you don't want to miss! that’s why we've got our hands on 5 copies\
-  \ of this exciting and wild new show for you!</p>\r\n<p>Yes, we want you guys to\
-  \ have them! Click on the link to get involved.</p>"
+  \ of this exciting and wild new show for you!</p>\n<p>Yes, we want you guys to have\
+  \ them! Click on the link to get involved.</p>\n"
 hero-header: "Win a copy of the new TV show Britannia on Blu-ray™"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-05e761a1-027c-4949-9da7-9ca0ca6146ef.jpg"
@@ -24,20 +24,20 @@ bg-image-first: "https://assets.expresslyapp.com/asset-971414b2-135c-4585-9730-1
 bg-image-second: "https://assets.expresslyapp.com/asset-0fea18a6-b208-4355-b89f-be5364550782.jpg"
 section1-content: "<p>To celebrate the Blu-ray™ and DVD release of the British historical\
   \ fantasy series, we've managed to get on our hands 5 Blu-ray™ copies for you Roman\
-  \ Army fan to win.</p>\r\n<p>Starring BAFTA® award nominee Zoë Wanamaker (“My Family”\
+  \ Army fan to win.</p>\n<p>Starring BAFTA® award nominee Zoë Wanamaker (“My Family”\
   ), BAFTA® award nominee David Morrisey (“The Missing”, “The Walking Dead’’), Nikolaj\
   \ Lie Kaas (“Follow The Money”) and BAFTA® award winner Mackenzie Crook (“The Detectorists”\
   ), this new series story follows the Roman Imperial Army of 43AD, and their determination\
-  \ to take over the Celtic heart of Britannia.</p>"
+  \ to take over the Celtic heart of Britannia.</p>\n"
 section2-content: "<p>We know that this Britannia series Blu-ray™ release from Sony\
   \ Pictures Home Entertainment is the best plan for your weekend! and now, you can\
-  \ make it happen with NME!</p>\r\n<p>Enter your details below and don't miss out\
-  \ on your chance to win a copy of the British show of the year, Britannia!</p>\r\
-  \n<p>Good luck!</p>"
+  \ make it happen with NME!</p>\n<p>Enter your details below and don't miss out on\
+  \ your chance to win a copy of the British show of the year, Britannia!</p>\n<p>Good\
+  \ luck!</p>\n"
 entry-title: "Win a copy of the new TV show Britannia on Blu-ray™"
 entry-content: "<p>Britannia Blu-ray™ release is full of content for you to get stuck\
   \ into. <p><p>Enter the draw to win by completing the form below before 23.59pm\
-  \ on 02/04/2018.</p>"
+  \ on 02/04/2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Waris, Andrea, Lizzie, Alex & Perrie who won a copy\
   \ of the new TV show Britannia on Blu-ray™!"

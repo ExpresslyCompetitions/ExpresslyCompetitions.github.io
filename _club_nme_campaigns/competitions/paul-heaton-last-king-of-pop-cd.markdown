@@ -13,8 +13,8 @@ competition-description: "<p>We have in our hands the 2018 collection from the B
   \ 23 of the finest songs from throughout Paul's extraordinary music career, including\
   \ hits from his days in the Housemartins, through his time in the multi-platinum\
   \ pop co-operative The Beautiful South, his solo years, and up to the present day\
-  \ in his long-standing collaboration with former Beautiful South singer Jacqui Abbott.</p>\r\
-  \n<p>Want it? Click below for a chance to win it!</p>"
+  \ in his long-standing collaboration with former Beautiful South singer Jacqui Abbott.</p>\n\
+  <p>Want it? Click below for a chance to win it!</p>\n"
 hero-header: "Win Paul Heaton 'The Last King of Pop' CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-82339f30-56c6-4a8d-8eee-3267caf463fe.jpg"
@@ -30,11 +30,11 @@ section1-content: "<p>This collection has it all: from the Housemartins' gloriou
   \ also room for a 2018 re-record by Paul and Jacqui of the Beautiful South classic\
   \ 'A Little Time', and a brand new song, a deliciously infectious ska-pop paean\
   \ to a lifetime of jukebox dancing and pop music obsession entitled '7\" Singles’\
-  .</p>\r\n<p>A totally MUST to a Heaton fan. Enter the form below for a chance to\
-  \ win and enjoy this brilliant album now!</p>"
+  .</p>\n<p>A totally MUST to a Heaton fan. Enter the form below for a chance to win\
+  \ and enjoy this brilliant album now!</p>\n"
 entry-title: "Win Paul Heaton 'The Last King of Pop' CD!"
-entry-content: "Enter the draw to win Paul Heaton ‘The Last King of Pop’ CD by completing\
-  \ the form below before 23:59 on 14th of January 2019."
+entry-content: "<p>Enter the draw to win Paul Heaton ‘The Last King of Pop’ CD by\
+  \ completing the form below before 23:59 on 14th of January 2019.</p>\n"
 has-winner: false
 prize-description: "Paul Heaton 'The Last King of Pop' CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

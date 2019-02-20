@@ -11,10 +11,10 @@ title: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the offi
   \ t-shirt and poster of the festival!"
 competition-description: "<p>Win the chance to go along VIP style to this years amazing\
   \ 2000trees Festival taking place in Cheltenham next Thursday 12th, Friday 13th\
-  \ and Saturday 14th July thanks to NME AAA!</p>\r\n<p>We are giving away one pair\
+  \ and Saturday 14th July thanks to NME AAA!</p>\n<p>We are giving away one pair\
   \ of VIP weekend tickets for 2000trees Festival (no tent or bedding included) PLUS\
   \ the official t-shirt and poster of the festival for one lucky NME AAA member to\
-  \ win!</p>\r\n<p>Wanna be there now? You know what to do…</p>"
+  \ win!</p>\n<p>Wanna be there now? You know what to do…</p>\n"
 hero-header: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official t-shirt and poster of the festival!"
 terms-confirmation: "N/A"
@@ -28,23 +28,22 @@ bg-image-second: "https://assets.expresslyapp.com/asset-a55b1b9c-24c4-4a8a-ad78-
 bg-image-third: "https://assets.expresslyapp.com/asset-f39e27f9-819c-4140-a536-ecda43ca2738.jpg"
 section1-content: "<p>The multi-award-winning 2000trees Festival is a 3 day extravaganza\
   \ set in the stunning Cotswold Hills. You’ll get a friendly, intimate atmosphere\
-  \ plus amazing food and locally produced ciders, ales & lagers.</p>\r\n<p>Described\
-  \ as one of the friendliest festivals you’ll ever go to!</p>"
+  \ plus amazing food and locally produced ciders, ales & lagers.</p>\n<p>Described\
+  \ as one of the friendliest festivals you’ll ever go to!</p>\n"
 section2-content: "<p>The UK very best, 100% fully independent rock music festival\
   \ is about the music and we’ll give over 130 of the best bands that the world has\
-  \ to offer.</p>\r\n<p>Headliners such as At The Drive In, Enter Shikari and Twin\
-  \ Atlantic, long with a host of other bands like Turnstile, Moose Blood, Arcane\
-  \ Roots, Black Peaks, Marmozets, Creeper, Sløtface, Dream Wife and that is just\
-  \ the beginning!</p>"
+  \ to offer.</p>\n<p>Headliners such as At The Drive In, Enter Shikari and Twin Atlantic,\
+  \ long with a host of other bands like Turnstile, Moose Blood, Arcane Roots, Black\
+  \ Peaks, Marmozets, Creeper, Sløtface, Dream Wife and that is just the beginning!</p>\n"
 section3-content: "<p>If you want to come along with us… HURRY UP! enter the form\
   \ below for a chance to win one pair of VIP weekend tickets for 2000trees Festival\
-  \ PLUS the official t-shirt and poster of the festival.</p>\r\n<p>2000trees, the\
-  \ best weekend of your summer guaranteed.</p>\r\n<p>Good luck!</p>"
+  \ PLUS the official t-shirt and poster of the festival.</p>\n<p>2000trees, the best\
+  \ weekend of your summer guaranteed.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win one pair of VIP weekend tickets for 2000trees Festival PLUS the\
   \ official shirt and poster of the festival."
-entry-content: "Enter the draw to win one pair of VIP weekend tickets for 2000trees\
+entry-content: "<p>Enter the draw to win one pair of VIP weekend tickets for 2000trees\
   \ Festival PLUS the official t-shirt and poster of the festival by completing the\
-  \ form below before 23:59 on 10th of July 2018."
+  \ form below before 23:59 on 10th of July 2018.</p>\n"
 has-winner: false
 prize-description: "One pair of VIP weekend tickets for 2000trees Festival.\r\nOne\
   \ limited 2000trees print poster\_(to be collected on site)?\r\nOne 2000trees t-shirt\

@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a Casio Collection Unisex Watch!"
 competition-description: "<p>With over one million watches purchased every year, Casio\
   \ is one of the UK’s top five watch brands and we have managed to get our hands\
-  \ on one of them for YOU!</p>\r\n<p>Ready to stand out with your new watch? Click\
-  \ below for a chance to win!</p>"
+  \ on one of them for YOU!</p>\n<p>Ready to stand out with your new watch? Click\
+  \ below for a chance to win!</p>\n"
 hero-header: "Win a Casio Collection Unisex Watch!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-50f01ad2-7752-4aa5-9ea4-2766fa6bfe07.jpg"
@@ -23,12 +23,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-ef4184c8-bbb1-410a-a8b9-7
 section1-content: "<p>With warm shades of gold, cool stainless steel and black plastic,\
   \ these timeless design icons can be combined perfectly with today's style. It's\
   \ good to know that some things never change and Casio continually pushes the boundaries\
-  \ of innovative timepiece design and functionality.</p>\r\n<p>Enter the form below\
+  \ of innovative timepiece design and functionality.</p>\n<p>Enter the form below\
   \ for a chance to win one of the best watches in the UK: a Casio Collection Unisex\
-  \ Watch!</p>\r\n<p>Good luck!</p>"
+  \ Watch!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a Casio Collection Unisex Watch!"
-entry-content: "Enter the draw to win a Casio Collection Unisex Watch by completing\
-  \ the form below before 23:59 on 28th of October 2018."
+entry-content: "<p>Enter the draw to win a Casio Collection Unisex Watch by completing\
+  \ the form below before 23:59 on 28th of October 2018.</p>\n"
 has-winner: false
 prize-description: "A Casio Collection Unisex Watch."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\

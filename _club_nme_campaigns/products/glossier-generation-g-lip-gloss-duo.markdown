@@ -8,9 +8,9 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Generation G + Lip Gloss Duo by Glossier"
-competition-description: "Adaptable colour + cushiony shine. Wear them on their own,\
-  \ or layer together for extra impact. Generation G gives the look of just-blotted\
-  \ lipstick minus the blot, in shades that adapt to you - not the other way around."
+competition-description: "<p>Adaptable colour + cushiony shine. Wear them on their\
+  \ own, or layer together for extra impact. Generation G gives the look of just-blotted\
+  \ lipstick minus the blot, in shades that adapt to you - not the other way around.</p>\n"
 banner-img: "glossier-main_image.jpg"
 logo-left-href: "https://www.glossier.com/products/generation-g-lip-gloss-duo"
 logo-left-image: "glossier-logo.jpg"

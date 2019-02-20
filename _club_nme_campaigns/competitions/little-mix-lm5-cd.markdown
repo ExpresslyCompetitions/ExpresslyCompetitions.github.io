@@ -11,8 +11,8 @@ title: "Win Little Mix LM5 CD!"
 competition-description: "<p>Get ready: we have the best present for you this Christmas.\
   \ Yes, you guessed it.… we have in our hands the brand new album of  the girl band\
   \ of the moment: LITTLE MIX! This new album LM5 is the best they’ve done until date\
-  \ and we wanted to give it to you this Christmas!</p>\r\n<p>MIXERS! Want to dance\
-  \ Little Mix new tunes this holidays? Click below for a chance to win!</p>"
+  \ and we wanted to give it to you this Christmas!</p>\n<p>MIXERS! Want to dance\
+  \ Little Mix new tunes this holidays? Click below for a chance to win!</p>\n"
 hero-header: "Win Little Mix LM5 CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b215f75f-cb32-4bbb-a701-6cfc1e10b830.jpg"
@@ -25,12 +25,12 @@ section1-content: "<p>The X Factor winning girl band have done it again and they
   ve just released their fifth album LM5! You can see the growth of these ladies through\
   \ every song since their last LP Glory Days. The Cure, Woman Like Me, Strip, American\
   \ boy… are some of their new tunes, an empowering album we are pretty sure you won’\
-  t want to miss… </>\r\n<p>Enter the form below for a chance to win the best album\
+  t want to miss… </>\n<p>Enter the form below for a chance to win the best album\
   \ this Christmas: LM5! Get ready and enjoy great music with your loved ones this\
-  \ holidays!</p>\r\n<p>Good luck!</p>"
+  \ holidays!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Little Mix LM5 CD!"
-entry-content: "Enter the draw to win Little Mix LM5 CD by completing the form below\
-  \ before 23:59 on 18th of December 2018."
+entry-content: "<p>Enter the draw to win Little Mix LM5 CD by completing the form\
+  \ below before 23:59 on 18th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Chloe B. who won Little Mix album!"
 winner-banner: "https://assets.expresslyapp.com/asset-e1f3bbf5-9f3c-4791-a3ab-7be798953813.jpg"

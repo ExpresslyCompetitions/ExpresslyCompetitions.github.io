@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Anna Calvi Hunter vinyl edition!"
 competition-description: "<p>The third long player from from the BRIT award and double\
   \ Mercury Music Prize-nominated Anna Calvi is finally here and we have a copy of\
-  \ Hunter, her brand new album on vinyl edition to one of our lucky members!</p>\r\
-  \n<p>Are you Anna Calvi's biggest fan? Click below for a chance to win!</p>"
+  \ Hunter, her brand new album on vinyl edition to one of our lucky members!</p>\n\
+  <p>Are you Anna Calvi's biggest fan? Click below for a chance to win!</p>\n"
 hero-header: "Win Anna Calvi Hunter vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-dba0e88a-ecfa-49dc-afd5-f2109e0df16d.jpg"
@@ -23,14 +23,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-1b7f1472-46a5-417c-9044-8
 section1-content: "<p>Produced by Nick Launay at Konk Studios in London with some\
   \ further production in LA, the album was recorded with Anna's band - Mally Harpaz\
   \ on various instruments and Alex Thomas on drums - with the addition of Adrian\
-  \ Utley from Portishead on keys and Martyn Casey from The Bad Seeds on bass.</p>\r\
-  \n<p>Hunter is the embodiment of the feeling of truly letting go. For the songwriter\
+  \ Utley from Portishead on keys and Martyn Casey from The Bad Seeds on bass.</p>\n\
+  <p>Hunter is the embodiment of the feeling of truly letting go. For the songwriter\
   \ and virtuosic guitarist, it was a catharsis, an opportunity to be more truthful\
-  \ than ever!</p>\r\n<p>If you can't wait to listen her brand new hits! Enter the\
-  \ form below for a chance to win this amazing album, Hunter on vinyl edition!</p>"
+  \ than ever!</p>\n<p>If you can't wait to listen her brand new hits! Enter the form\
+  \ below for a chance to win this amazing album, Hunter on vinyl edition!</p>\n"
 entry-title: "Win Anna Calvi Hunter vinyl edition!"
-entry-content: "Enter the draw to win Anna Calvi Hunter vinyl edition by completing\
-  \ the form below before 23:59 on 5th of October 2018."
+entry-content: "<p>Enter the draw to win Anna Calvi Hunter vinyl edition by completing\
+  \ the form below before 23:59 on 5th of October 2018.</p>\n"
 has-winner: false
 prize-description: "Anna Calvi Hunter vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."

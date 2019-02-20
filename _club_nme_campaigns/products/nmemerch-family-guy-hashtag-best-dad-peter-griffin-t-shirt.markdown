@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Get brilliant Family Guy #bestdad Peter Griffin T-Shirt"
-competition-description: "Heavy cotton classic fit adult Gildan t-shirt with taped\
+competition-description: "<p>Heavy cotton classic fit adult Gildan t-shirt with taped\
   \ neck and shoulders, pre-shrunk jersey knit and quarter-turned to eliminate creases.<br/>Fabric\
   \ - 100% Cotton (Heather Grey, 90% cotton 10% polyester) Weight - White 175gsm,\
-  \ Colours 185gsm"
+  \ Colours 185gsm</p>\n"
 banner-img: "nmemerch-family_guy_main.jpg"
 logo-left-href: "https://nmemerch.com/collections/best-selling/products/family-guy-hashtag-t-shirt?variant=26277328069"
 logo-left-image: "nmemerch-logo.jpg"

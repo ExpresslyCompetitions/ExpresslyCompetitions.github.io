@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win a KitchenCraft 3-in-1 Fondue Set!"
 competition-description: "<p>If you're looking forward to make a great party, we have\
   \ the perfect guest for YOU! We’re giving away an amazing KitchenCraft 3-in-1 Fondue\
-  \ Set for one lucky NME AAA member to win!</p>\r\n<p>Want to make your party stand\
-  \ out? You know what to do…</p>"
+  \ Set for one lucky NME AAA member to win!</p>\n<p>Want to make your party stand\
+  \ out? You know what to do…</p>\n"
 hero-header: "Win a KitchenCraft 3-in-1 Fondue Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-344ec536-fd52-421a-b0ad-0ff94c32309c.jpg"
@@ -22,17 +22,17 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-5f254017-c428-4727-8283-4f
 bg-image-first: "https://assets.expresslyapp.com/asset-2634ff13-f9af-4923-a91f-2eab8554c948.jpg"
 section1-content: "<p>We have everything you need to discover: the deliciously dippy\
   \ world of fondue! the KitchenCraft 3-in-1 Fondue Set suitable for cheese, chocolate\
-  \ and meat fondues!</p>\r\n<p>This fondue set is ideal for cooking meat and sauces\
+  \ and meat fondues!</p>\n<p>This fondue set is ideal for cooking meat and sauces\
   \ or melting cheese and chocolate. The set comes complete with a stainless steel\
   \ and ceramic bowl which fit neatly onto a metal stand. It is perfect for dinner\
-  \ parties with six stainless steel forks that are colour coded for individual use</p>\r\
-  \n<p>Whether you’re a fondue fanatic, or you’re keen to discover this classic Swiss\
+  \ parties with six stainless steel forks that are colour coded for individual use</p>\n\
+  <p>Whether you’re a fondue fanatic, or you’re keen to discover this classic Swiss\
   \ dish, you’ll have great fun with KitchenCraft’s 3-in-1 Fondue Set so hurry up\
-  \ and enter the form below and indulge yourself into a savoury or sweet course!</p>"
+  \ and enter the form below and indulge yourself into a savoury or sweet course!</p>\n"
 entry-title: "Win a KitchenCraft 3-in-1 Fondue Set!"
-entry-content: "Enter the draw to win a KitchenCraft 3-in-1 Fondue Set and enjoy authentic\
-  \ cheese fondues by completing the form below before 23:59 on 28th of September\
-  \ 2018."
+entry-content: "<p>Enter the draw to win a KitchenCraft 3-in-1 Fondue Set and enjoy\
+  \ authentic cheese fondues by completing the form below before 23:59 on 28th of\
+  \ September 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Rhiannon H. who won a fantastic KitchenCraft 3-in-1\
   \ Fondue Set!"

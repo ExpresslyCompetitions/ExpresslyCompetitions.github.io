@@ -10,11 +10,11 @@ has_entry_page: true
 title: "Win Quiz Quoz: The Trivia Board Game for Everyone!"
 competition-description: "<p>Want to have the fast, fun trivia game anyone can win?\
   \ Yes, you are right, we have it for you: The Quiz Quoz game, the board game for\
-  \ everyone could be yours!</p>\r\n<p>Quiz Quoz is the new and original quiz game\
-  \ for both beginners and brainiacs! Packed into a retro portable cube, this unique\
-  \ game contains over 1000 trivia questions from a host of topics, from film to football\
-  \ to fashion.</p>\r\n<p>Want to have a fun and a great night in with friends? Click\
-  \ below for a chance tow win!</p>"
+  \ everyone could be yours!</p>\n<p>Quiz Quoz is the new and original quiz game for\
+  \ both beginners and brainiacs! Packed into a retro portable cube, this unique game\
+  \ contains over 1000 trivia questions from a host of topics, from film to football\
+  \ to fashion.</p>\n<p>Want to have a fun and a great night in with friends? Click\
+  \ below for a chance tow win!</p>\n"
 hero-header: "Win Quiz Quoz: The Trivia Board Game for Everyone!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4724fc79-6ff3-4c09-8bdd-4605394316dd.jpg"
@@ -29,11 +29,11 @@ section1-content: "<p>Quiz Quoz is the new and original quiz game for both begin
   \ The twist is that every answer is a number from 1 to 9. Players take turns rolling\
   \ dice to determine the difficulty of their question. The more questions you answer\
   \ correctly, the more counters you get to place on your Quiz Quoz board. First to\
-  \ get a line of 3 wins!</p>\r\n<p>Enter the form below for a chance to win the hilarious\
-  \ Quiz Quoz board game now!</p>"
+  \ get a line of 3 wins!</p>\n<p>Enter the form below for a chance to win the hilarious\
+  \ Quiz Quoz board game now!</p>\n"
 entry-title: "Win Quiz Quoz: The Trivia Board Game for Everyone!"
-entry-content: "Enter the draw to win Quiz Quoz: The Trivia Board Game for Everyone\r\
-  \nby completing the form below before 23:59 on 4th of February 2019."
+entry-content: "<p>Enter the draw to win Quiz Quoz: The Trivia Board Game for Everyone\n\
+  by completing the form below before 23:59 on 4th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Quiz Quoz: The Trivia Board Game for Everyone."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\

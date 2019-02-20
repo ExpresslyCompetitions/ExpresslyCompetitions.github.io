@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: false
 has_entry_page: false
 title: "Get official Alice Cooper Vintage Poster Men's Tee"
-competition-description: "This vintage poster design from Alice Cooper's 1979 Madhouse\
+competition-description: "<p>This vintage poster design from Alice Cooper's 1979 Madhouse\
   \ Rock Tour has been re-created as a tribute to the Godfather of Shock Rock!<br\
   \ />Heavy cotton classic fit adult Gildan t-shirt with taped neck and shoulders,\
-  \ pre-shrunk jersey knit and quarter-turned to eliminate creases."
+  \ pre-shrunk jersey knit and quarter-turned to eliminate creases.</p>\n"
 banner-img: "nmemerch-alice_cooper_tee2_main.jpg"
 logo-left-href: "https://nmemerch.com/products/alice-cooper-vintage-poster-mens-t-shirt?variant=26194878085"
 logo-left-image: "nmemerch-logo.jpg"

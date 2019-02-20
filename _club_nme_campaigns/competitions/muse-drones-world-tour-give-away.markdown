@@ -12,7 +12,7 @@ competition-description: "<p>Calling all MUSE fans! The British band have announ
   \ plans to release their ambitious 'Drones World Tour' to cinemas worldwide on July\
   \ 12 and NME AAA want to take YOU there! We’ve got our hands on 5 pairs of tickets\
   \ to 5 lucky NME AAA members to win to attend the screening at a cinema of their\
-  \ choice!</p>\r\n<p>Want to come along with us?</p>"
+  \ choice!</p>\n<p>Want to come along with us?</p>\n"
 hero-header: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-34625879-6742-492e-af60-47d4ee8716e6.jpg"
@@ -26,25 +26,25 @@ bg-image-third: "https://assets.expresslyapp.com/asset-dcc09eff-597a-4d27-915c-e
 section1-content: "<p>Filmed and recorded over multiple tour dates in 2016, the\_\
   'Drones World Tour'\_will showcase Muse’s career-spanning hits including ‘Psycho’\
   , ‘Madness’, ‘Uprising’, ‘Plug in Baby’, ‘Supermassive Black Hole’ and ‘Knights\
-  \ of Cydonia’ amongst others.</p>\r\n<p>The film contains never-before-seen special\
+  \ of Cydonia’ amongst others.</p>\n<p>The film contains never-before-seen special\
   \ effects, perfectly complimenting the awe inspiring level of creative stage production\
   \ MUSE fans have come to expect, ensuring the ultimate audio / visual sensory experience\
-  \ for fans of all ages.</p>"
+  \ for fans of all ages.</p>\n"
 section2-content: "<p>Alongside exclusive insight from the band talking about the\
   \ creative concept, highlights of the show include autonomous Drones flying across\
   \ the audience, giant projections and intricate, perfectly crafted LED laser works\
-  \ that create an eerie, dystopian world.</p>\r\n<p>The New York Times has described\
+  \ that create an eerie, dystopian world.</p>\n<p>The New York Times has described\
   \ the MUSE live experience as\_“an endless build-up, heading for one peak after\
   \ another — is what a MUSE concert sets out to deliver by every means available”\
-  .</p>"
+  .</p>\n"
 section3-content: "<p>We know you won't want to miss this amazing opportunity to attend\
   \ this innovative and unforgettable show from MUSE… thanks to NME AAA you could\
   \ be wining one of 5 pairs of tickets to MUSE 'Drones World Tour' to a cinema of\
-  \ your choice!</p> \r\n<p>Enter the form below and you could be watching MUSE on\
-  \ the big screen!</p>\r\n<p>Good luck!</p>"
+  \ your choice!</p> \n<p>Enter the form below and you could be watching MUSE on the\
+  \ big screen!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win one of 5 pairs of tickets to MUSE 'Drones World Tour'!"
-entry-content: "Enter the draw to win one of 5 pairs of tickets to see MUSE 'Drones\
-  \ World Tour' by completing the form below before 23:59 on 4th July 2018."
+entry-content: "<p>Enter the draw to win one of 5 pairs of tickets to see MUSE 'Drones\
+  \ World Tour' by completing the form below before 23:59 on 4th July 2018.</p>\n"
 has-winner: false
 prize-description: "One of 5 pairs of tickets to MUSE 'Drones World Tour'!"
 special-conditions: "Multiple entries are allowed up to one every day."

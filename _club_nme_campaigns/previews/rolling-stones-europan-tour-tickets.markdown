@@ -12,8 +12,8 @@ competition-description: "<p>\"There is no stopping us” and here they come aga
   \ The veteran British rockers, The Rolling Stones! have just announced their European\
   \ Tour and they will perform at home in May and June for two concerts in London\
   \ as well as gigs in Manchester, Edinburgh, and Cardiff! It would be the band’s\
-  \ first UK gigs in five years!</p> \r\n<p>What are you waiting for? Tickets are\
-  \ on sale now! Hurry up before they are sold out!</p>"
+  \ first UK gigs in five years!</p> \n<p>What are you waiting for? Tickets are on\
+  \ sale now! Hurry up before they are sold out!</p>\n"
 banner-img: "https://assets.expresslyapp.com/asset-cd081bf0-5d79-40c0-99af-5a5c2fa03e10.jpg"
 logo-left-href: "https://www.tickx.co.uk/"
 logo-left-image: "https://assets.expresslyapp.com/80c167db-20f6-48c0-b3af-cacfe885e812-thumb.png"

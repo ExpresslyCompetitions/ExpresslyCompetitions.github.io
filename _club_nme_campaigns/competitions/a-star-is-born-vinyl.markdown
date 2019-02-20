@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win a Star is Born vinyl edition!"
 competition-description: "<p>We are giving away the soundtrack of the most ambitious\
   \ movie of the moment: A Star is Born performed by the incredible stars Lady Gaga\
-  \ and Bradley Cooper!</p>\r\n<p>Want it now? You know what to do……</p>"
+  \ and Bradley Cooper!</p>\n<p>Want it now? You know what to do……</p>\n"
 hero-header: "Win a Star is Born vinyl edition!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9f6b7205-7541-4162-beaf-6537ed06303e.jpg"
@@ -22,14 +22,14 @@ bg-image-first: "https://assets.expresslyapp.com/asset-8a2ebcc3-31e0-4374-b288-4
 section1-content: "</p>Alongside Gaga and Cooper there are many co-writing credits\
   \ in the soundtrack: Jason Isbell, Willie Nelson’s son Lukas, Mark Ronson, Andrew\
   \ Wyatt, Julia Michaels and Justin Tranter… and many more! The set was released\
-  \ on Oct. 5 and its aiming to be nº1 on the Billboard 200 album charts!</p>\r\n\
-  <p>Maybe It’s Time, Parking Lot, Out Of Time… are some of the amazing songs you\
-  \ can find in the soundtrack, so if you can’t wait to listen the full album… enter\
-  \ the form below for a chance to win and get ready to get delighted by the voices\
-  \ of Lady Gaga and Bradley Cooper!</p>"
+  \ on Oct. 5 and its aiming to be nº1 on the Billboard 200 album charts!</p>\n<p>Maybe\
+  \ It’s Time, Parking Lot, Out Of Time… are some of the amazing songs you can find\
+  \ in the soundtrack, so if you can’t wait to listen the full album… enter the form\
+  \ below for a chance to win and get ready to get delighted by the voices of Lady\
+  \ Gaga and Bradley Cooper!</p>\n"
 entry-title: "Win a Star is Born vinyl edition!"
-entry-content: "Enter the draw to win a Star is Born vinyl edition by completing the\
-  \ form below before 23:59 on 12th of November 2018."
+entry-content: "<p>Enter the draw to win a Star is Born vinyl edition by completing\
+  \ the form below before 23:59 on 12th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Martin H. who won A star is born on vinyl edition!"
 winner-banner: "https://assets.expresslyapp.com/asset-1948b575-8210-4527-b92f-eb798734a0cf.jpg"

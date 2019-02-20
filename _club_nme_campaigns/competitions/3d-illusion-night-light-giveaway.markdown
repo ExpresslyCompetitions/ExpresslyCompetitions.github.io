@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win the 3D Illusion Guitar Night Light!"
 competition-description: "<p>We have the best gift for music lovers... the 3D Illusion\
   \ Guitar Night Light and we want to give it to you! This Guitar is illuminated using\
-  \ LEDs that never get hot producing a warm glow!</p>\r\n<p>Want to get this innovative\
-  \ 3D Illusion Guitar Night Light? Click below for a chance to win!</p>"
+  \ LEDs that never get hot producing a warm glow!</p>\n<p>Want to get this innovative\
+  \ 3D Illusion Guitar Night Light? Click below for a chance to win!</p>\n"
 hero-header: "Win the 3D Illusion Guitar Night Light!!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7c07eff5-b278-46d8-bfde-c4c454befe1a.jpg"
@@ -22,14 +22,14 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-3a98c1cd-d915-4b50-898e-e2
 bg-image-first: "https://assets.expresslyapp.com/asset-b64d5b75-5823-4429-8ccf-9f8a13bbe2a0.jpg"
 section1-content: "<p>This 3D visual creative lamp is an innovative artistic atmosphere\
   \ light with optical acrylic light guided by a variety of 2D graphics and a 3D visual\
-  \ impact!</p>\r\n<p> Led source, Touch- sensitive switch, Single or 7 colors changing...\
+  \ impact!</p>\n<p> Led source, Touch- sensitive switch, Single or 7 colors changing...\
   \ It is  used in various environment decorations improving environmental artistic\
-  \ places and showing warm fresh fashion 3D visual impact!</p>\r\n<p>Enter the form\
+  \ places and showing warm fresh fashion 3D visual impact!</p>\n<p>Enter the form\
   \ below for a chance to win this cool 3D Illusion Guitar Night Light and it could\
-  \ be yours!</p>"
+  \ be yours!</p>\n"
 entry-title: "Win the 3D Illusion Guitar Night Light!"
-entry-content: "Enter the draw to win the 3D Illusion Guitar Night Light by completing\
-  \ the form below before 23:59 on 19th of October 2018."
+entry-content: "<p>Enter the draw to win the 3D Illusion Guitar Night Light by completing\
+  \ the form below before 23:59 on 19th of October 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to  Gillian M. who won the 3D Illusion Guitar Night\
   \ Light!!"

@@ -11,9 +11,9 @@ title: "Win Adrift on Blu-ray™ & DVD!"
 competition-description: "<p>Calling all Shailene Woodley and Sam Claflin fans! We\
   \ have amazing news for YOU: celebrating the release of Sony Pictures Home Entertainment\
   \ new movie: Adrift, NME AAA has managed to get their hands on 3 Blu-ray™ & DVD’\
-  s of the film to 3 lucky NME AAA members to win!</p>\r\n<p>If you can’t wait to\
-  \ see this unforgettable story based on a real-life memoir, click below for a chance\
-  \ to win!</p>"
+  s of the film to 3 lucky NME AAA members to win!</p>\n<p>If you can’t wait to see\
+  \ this unforgettable story based on a real-life memoir, click below for a chance\
+  \ to win!</p>\n"
 hero-header: "Win Adrift on Blu-ray™ & DVD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b39a7e11-924f-4cd5-89a9-5107b799966a.jpg"
@@ -25,21 +25,21 @@ bg-image-first: "https://assets.expresslyapp.com/asset-4a7df765-1d2d-4e08-b189-c
 bg-image-second: "https://assets.expresslyapp.com/asset-5a963ae3-8581-45ac-9c25-68e87534cad3.jpg"
 section1-content: "<p>Adrift is based on the inspiring true story of two free spirits\
   \ whose chance encounter leads them first to love, and then to the adventure of\
-  \ a lifetime.</p>\r\n<p>As the two avid sailors set out on a journey across the\
-  \ ocean, Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn’t anticipate they\
-  \ would be sailing directly into one of the most catastrophic hurricanes in recorded\
-  \ history. In the aftermath of the storm, Tami awakens to find Richard badly injured\
-  \ and their boat in ruins. With no hope for rescue, Tami must find the strength\
-  \ and determination to save herself and the only man she has ever loved.</p>\_"
+  \ a lifetime.</p>\n<p>As the two avid sailors set out on a journey across the ocean,\
+  \ Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn’t anticipate they would\
+  \ be sailing directly into one of the most catastrophic hurricanes in recorded history.\
+  \ In the aftermath of the storm, Tami awakens to find Richard badly injured and\
+  \ their boat in ruins. With no hope for rescue, Tami must find the strength and\
+  \ determination to save herself and the only man she has ever loved.</p>\_\n"
 section2-content: "<p>The Blu-ray™ and DVD come with extensive bonus features including:\
   \ Director’s Commentary with Director Baltasar Kormákur and Shailene Woodley, making-of\
-  \ featurettes and deleted scenes.</p>\r\n<p>We are giving away 3 Blu-ray™ and DVD’\
+  \ featurettes and deleted scenes.</p>\n<p>We are giving away 3 Blu-ray™ and DVD’\
   s of the movie for 3 lucky members to win. Want to get to get your weekend sorted?\
   \ Enter the form below for a chance to win and enjoy a great night in with friends\
-  \ watching this unforgettable movie!</p>\r\n<p>Good luck!</p>"
+  \ watching this unforgettable movie!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Adrift on Blu-ray™ & DVD!"
-entry-content: "Enter the draw to win Adrift on Blu-ray™ & DVD by completing the form\
-  \ below before 23:59 on 5th of December 2018."
+entry-content: "<p>Enter the draw to win Adrift on Blu-ray™ &amp; DVD by completing\
+  \ the form below before 23:59 on 5th of December 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Harvey, Ben and Julie who won Adrift on Blu-ray!"
 winner-banner: "https://assets.expresslyapp.com/asset-76dd9957-89bb-45f5-8b23-3918b04e2247.jpg"

@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!"
 competition-description: "<p>Beast is finally coming home to you! The original movie\
   \ from the amazing director Michael Pearce is out on Blu-ray now and we have 5 copies\
-  \ to give away to 5 lucky NME members!</p>\r\n<p>Does it sound like the best plan\
-  \ for your weekend? Click below for a chance to win.</p>"
+  \ to give away to 5 lucky NME members!</p>\n<p>Does it sound like the best plan\
+  \ for your weekend? Click below for a chance to win.</p>\n"
 hero-header: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1af5ad80-4ced-40f9-895d-dbc0514b3499.jpg"
@@ -26,22 +26,23 @@ section1-content: "<p>Starring Jessie Buckley, Johnny Flynn, Geraldine James, Ol
   \ of Moll who is a 27 year old and still living at home, stifled by the small island\
   \ community around her and too beholden to her family to break away. When she meets\
   \ Pascal, a free-spirited stranger, a whole new world opens up to her and she begins\
-  \ to feel alive for the first time, falling madly in love.</p>\r\n<p>Finally breaking\
+  \ to feel alive for the first time, falling madly in love.</p>\n<p>Finally breaking\
   \ free from her family, Moll moves in with Pascal to start a new life. But when\
   \ he is arrested as the key suspect in a series of brutal murders, she is left isolated\
   \ and afraid. Choosing to stand with him against the suspicions of the community,\
-  \ Moll finds herself forced to make choices that will impact her life forever.</p>"
+  \ Moll finds herself forced to make choices that will impact her life forever.</p>\n"
 section2-content: "<p>This Blu-ray is the perfect movie for you to get stuck into\
   \ including special features such as: The Making of Beast - Featurette, A Look at\
   \ Beast - Photo Gallery & Optional English SDH and Spanish subtitles for the main\
-  \ feature!</p>\r\n<p>To celebrate the release of the movie, 5 lucky readers have\
-  \ the chance to win a Blu-ray copy and poster of Michael Pearce’s critically acclaimed\
+  \ feature!</p>\n<p>To celebrate the release of the movie, 5 lucky readers have the\
+  \ chance to win a Blu-ray copy and poster of Michael Pearce’s critically acclaimed\
   \ Beast starring the musician Johnny Flynn and Jessie Buckley who also is a singer\
-  \ and is going to be playing at Glaswegian Country in Wild Rose.</p>\r\n</p>Hurry\
-  \ up and enter the form below for a chance to win!</p>\r\n<p>Weekend=SORTED!</p>"
+  \ and is going to be playing at Glaswegian Country in Wild Rose.</p>\n</p>Hurry\
+  \ up and enter the form below for a chance to win!</p>\n<p>Weekend=SORTED!</p>\n"
 entry-title: "Win one of 5 copies of Beast on Blu-ray and a poster of the movie!"
-entry-content: "Enter the draw to win one of 5 copies of Beast on Blu-ray and a poster\
-  \ of the movieby completing the form below before 23:59 on 3rd of September 2018."
+entry-content: "<p>Enter the draw to win one of 5 copies of Beast on Blu-ray and a\
+  \ poster of the movieby completing the form below before 23:59 on 3rd of September\
+  \ 2018.</p>\n"
 has-winner: false
 prize-description: "One of 5 copies of Beast on Blu-ray and a poster of the movie."
 special-conditions: "Multiple entries are allowed up to one every day."

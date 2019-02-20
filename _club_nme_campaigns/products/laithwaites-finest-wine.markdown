@@ -9,9 +9,9 @@ is_promoted: false
 has_entry_page: false
 title: "Just in time for festive season! Finest wine and alcohol all at affordable\
   \ prices at Laithwaites "
-competition-description: "Family-run wine merchant going direct to winemakers in their\
-  \ vineyards. Founded in 1969 by Tony Laithwaite (a man and a van with help from\
-  \ his nan)."
+competition-description: "<p>Family-run wine merchant going direct to winemakers in\
+  \ their vineyards. Founded in 1969 by Tony Laithwaite (a man and a van with help\
+  \ from his nan).</p>\n"
 banner-img: "laithwaites-main_image.png"
 logo-left-href: "https://www.laithwaites.co.uk/wines/_/N-n?icamp=nav-latest"
 logo-left-image: "laithwaites-logo.png"

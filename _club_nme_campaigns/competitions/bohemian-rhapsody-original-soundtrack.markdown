@@ -10,8 +10,8 @@ has_entry_page: true
 title: "Win Bohemian Rhapsody original soundtrack!"
 competition-description: "<p>To celebrate the upcoming biographical film about the\
   \ British rock band Queen, focusing on lead singer Freddie Mercury's life, Bohemian\
-  \ Rhapsody, we have managed to get our hands on the original soundtrack of the movie.</p>\r\
-  \n<p>Want it? You know what to do…</p>"
+  \ Rhapsody, we have managed to get our hands on the original soundtrack of the movie.</p>\n\
+  <p>Want it? You know what to do…</p>\n"
 hero-header: "Win Bohemian Rhapsody original soundtrack!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9f93731c-a71c-4c7e-a7ad-7f574778cd66.jpg"
@@ -24,12 +24,12 @@ section1-content: "<p>Bohemian Rhapsody is a foot-stomping celebration of Queen,
   \ music and their extraordinary lead singer Freddie Mercury. Freddie defied stereotypes\
   \ and shattered convention to become one of the most beloved entertainers on the\
   \ planet. The film traces the meteoric rise of the band through their iconic songs\
-  \ and revolutionary sound.</p>\r\n<p>If you are Queen’s biggest fan, think no more\
+  \ and revolutionary sound.</p>\n<p>If you are Queen’s biggest fan, think no more\
   \ and enter the form below for a chance to win the original soundtrack of the movie:\
-  \ Bohemia Rhapsody!</p>\r\n<p>Good luck!</p>"
+  \ Bohemia Rhapsody!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Bohemian Rhapsody original soundtrack!"
-entry-content: "Enter the draw to win Bohemian Rhapsody original soundtrack by completing\
-  \ the form below before 23:59 on 22th of November 2018."
+entry-content: "<p>Enter the draw to win Bohemian Rhapsody original soundtrack by\
+  \ completing the form below before 23:59 on 22th of November 2018.</p>\n"
 has-winner: true
 winner-title: "CONGRATULATIONS to Jacqueline C. who won the soundtrack of the moment\
   \ Bohemian Rhapsody!"
