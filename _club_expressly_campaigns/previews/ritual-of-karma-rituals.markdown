@@ -3,7 +3,7 @@ campaign-uuid: "c-81bd93ec-a8db-45e5-98bc-fe65fc6b6381"
 type: "Preview"
 category: "Gifts"
 date: "2019-02-20T09:00:00.000Z"
-end-date: "2019-04-20T23:59:00.000Z"
+end-date: "2019-04-21T00:59:00.000+01:00"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -37,7 +37,7 @@ section3-content: "<p>If you want to immerse yourself in the positive vibes of s
   \n<p>Good luck!</p>"
 entry-title: "Win The Ritual of Karma from Rituals!"
 entry-content: "Enter the draw to win The Ritual of Karma from Rituals by completing\
-  \ the form below before 23:59 on 20th April 2019."
+  \ the form below before **23:59 on 20th April 2019**."
 has-winner: false
 prize-description: "The Ritual of Karma from Rituals."
 special-conditions: "Multiple entries are allowed up to one every day."
