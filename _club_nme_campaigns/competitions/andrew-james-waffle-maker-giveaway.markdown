@@ -23,8 +23,8 @@ banner-img: "https://assets.expresslyapp.com/asset-3d28d815-68fb-405c-ac34-2d390
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-c34f7445-8da4-49fb-8f15-900c460220d1.jpg"
 logo-left-title: "nme aaa"
-bg-image-hero: "https://assets.expresslyapp.com/asset-fe7ba3e1-ab52-407b-9f88-806b782278cc.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-d192914f-a84d-4450-b46f-df6f9f03a97f.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-cb3c7b74-3faa-4d82-994a-2315bfc0ab42.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-570939e0-d0bc-425b-9e7d-f1e74ea39510.jpg"
 section1-content: "<p>Make perfect waffles every time with ease using the handy measuring\
   \ scoop & easy-pour lip. The advanced design means that the waffle mixture is evenly\
   \ distributed. Along with the venting funnel, your waffles are cooked to perfection\
