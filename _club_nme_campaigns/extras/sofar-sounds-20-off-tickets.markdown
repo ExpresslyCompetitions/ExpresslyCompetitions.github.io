@@ -14,6 +14,7 @@ competition-description: "<p>From living rooms to rooftops, restaurants to retai
   \ world.</p>\r\n<p>They want YOU to be part of it, that's why they are offering\
   \ 20% off tickets for you to discover their live events experiences! Click below\
   \ and get ready to feel Sofar Sounds close to you!</p>"
+bottom-content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quam nulla, tincidunt vel purus vitae, ultricies eleifend mauris. Praesent pellentesque quam ac sapien sollicitudin, a venenatis nunc tincidunt. Quisque vestibulum consequat tortor, quis dapibus elit ullamcorper ullamcorper. Praesent venenatis, leo eu dignissim hendrerit, est est volutpat dolor, sit amet aliquam ligula dui nec ligula."
 banner-img: "https://assets.expresslyapp.com/asset-68b60899-0c8f-4857-88df-67f6bc1d2a7d.jpg"
 logo-left-href: "https://www.sofarsounds.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-80498a83-dba0-4643-bd4a-3368061b54ba.jpg"

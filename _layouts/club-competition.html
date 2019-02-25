@@ -19,17 +19,24 @@ active: selected-competitions
 
         <div class="hero-block-wrapper">
             <div class="hero-block-inner">
-                <div class="hero-block hero-block-header text-center px-3 my-3">
+                <div class="hero-block hero-block-header text-center {% if page.type != 'Extra' %} px-3 {% endif %} my-3">
                     <h1>{{page.hero-header}}</h1>
                     {% include image_url_builder.html image=page.logo-left-image %}
+                    {% if page.type != 'Extra' %}
                     <div class="advertiser-logo"><img src="{{image-url}}" /></div>
+                    {% endif %}
                 </div>
-                <div class="hero-block hero-block-sub text-center mb-3 px-3">
-                    {% if page.hero-subheader and page.hero-subheader != '' %}
+                <div class="hero-block hero-block-sub {% if page.type != 'Extra' %} text-center {% endif %} mb-3 px-3">
+                    {% if page.hero-subheader and page.hero-subheader != '' and page.type != 'Extra' %}
                     <h3 class="pb-2">{{page.hero-subheader}}</h3>
                     {% endif %}
+                    {% if page.type == 'Extra' %}
+                    <div class="pb-2">{{page.competition-description}}</div>
+                    {% endif %}
+                    {% if page.type != 'Extra' %}
                     <a href="#contact-anchor" class="btn btn-lg btn-primary px-5 d-none d-sm-inline">Enter now</a>
                     <a href="#contact-anchor" class="btn btn-sm btn-primary px-3 d-sm-none">Enter now</a>
+                    {% endif %}
                 </div>
             </div>
         </div>
@@ -49,14 +56,14 @@ active: selected-competitions
     <section class="our-work row row-he align-items-center">
         <div class="col-md-6 content p-4 text-justify">{{page.section1-content}}</div>
         {% include image_url_builder.html image=page.bg-image-first %}
-        <div class="col-md-6 px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="first-img"style="background-image: url({{image-url}})"></div>
+        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{image-url}})"></div>
     </section>
 
     {% if page.section2-content and page.bg-image-second %}
         <section class="quality row row-he align-items-center">
             <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
             {% include image_url_builder.html image=page.bg-image-second %}
-            <div class="col-md-6 order-md-first px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="second-img" style="background-image: url({{image-url}})"></div>
+            <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{image-url}})"></div>
         </section>
     {% endif %}
 
@@ -64,12 +71,12 @@ active: selected-competitions
         <section class="our-work row row-he align-items-center">
             <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
             {% include image_url_builder.html image=page.bg-image-third %}
-            <div class="col-md-6 px-0 bg-img {% if page.type == 'Extra' %} order-first {% endif %}" id="third-img" style="background-image: url({{image-url}})"></div>
+            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{image-url}})"></div>
         </section>
     {% endif %}
 
-    {% if page.bottom-content %}
-        <section class="our-work row row-he align-items-center">
+    {% if page.bottom-content and page.type == 'Extra' %}
+        <section class="our-work row row-he pt-4 align-items-center">
             <div class="col-12 content p-4 text-justify">{{page.bottom-content}}</div>
         </section>
     {% endif %}

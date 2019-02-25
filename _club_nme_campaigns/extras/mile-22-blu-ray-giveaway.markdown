@@ -16,6 +16,7 @@ competition-description: "<p>Calling all Mark Wahlberg and John Malkovich fans! 
   \ out of South East Asia…</p>\r\n<p>...want to know what’s next? Click below for\
   \ a chance to win!</p>"
 hero-header: "Win MILE 22 on Blu-ray!"
+bottom-content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quam nulla, tincidunt vel purus vitae, ultricies eleifend mauris. Praesent pellentesque quam ac sapien sollicitudin, a venenatis nunc tincidunt. Quisque vestibulum consequat tortor, quis dapibus elit ullamcorper ullamcorper. Praesent venenatis, leo eu dignissim hendrerit, est est volutpat dolor, sit amet aliquam ligula dui nec ligula."
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7879935f-b34d-4d9c-8ea7-93d8f24d0b5b.jpg"
 logo-left-href: "aaa.nme.com"

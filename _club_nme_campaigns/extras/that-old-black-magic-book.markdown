@@ -15,6 +15,7 @@ competition-description: "<p>The award-winning crime compendium London Noir and 
   \ world war British intelligence!</p>\r\n<p>If you were looking for a vocative,\
   \ brilliantly researched, imaginative, and informative book… this one is a must\
   \ for you!</p>"
+bottom-content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quam nulla, tincidunt vel purus vitae, ultricies eleifend mauris. Praesent pellentesque quam ac sapien sollicitudin, a venenatis nunc tincidunt. Quisque vestibulum consequat tortor, quis dapibus elit ullamcorper ullamcorper. Praesent venenatis, leo eu dignissim hendrerit, est est volutpat dolor, sit amet aliquam ligula dui nec ligula."
 banner-img: "https://assets.expresslyapp.com/asset-113cca44-49b9-42a9-b1b1-cfe08d4303ee.jpg"
 logo-left-href: "https://www.amazon.co.uk"
 logo-left-image: "https://assets.expresslyapp.com/9d6dc944-a1a1-4b9a-8932-54981a79676f-thumb.png"

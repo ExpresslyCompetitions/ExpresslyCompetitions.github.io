@@ -17,6 +17,7 @@ competition-description: "<p>Are you the kind of person that loves going to conc
   \ it and be one of them, click on the link below for a chance to win!</p>"
 hero-header: "[DEMO] Win one of 20 pairs of tickets to a Sofar Sounds secret performance\
   \ in the UK!"
+bottom-content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quam nulla, tincidunt vel purus vitae, ultricies eleifend mauris. Praesent pellentesque quam ac sapien sollicitudin, a venenatis nunc tincidunt. Quisque vestibulum consequat tortor, quis dapibus elit ullamcorper ullamcorper. Praesent venenatis, leo eu dignissim hendrerit, est est volutpat dolor, sit amet aliquam ligula dui nec ligula."
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-97887173-0f73-4434-89a2-b0ad3851a10c.jpg"
 logo-left-href: "https://www.sofarsounds.com"
