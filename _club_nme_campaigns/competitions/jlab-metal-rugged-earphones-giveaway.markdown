@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-02-04T09:00:00.000Z"
 end-date: "2019-02-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of JLab Metal Rugged earphones!"
 competition-description: "<p>We are giving away a pair of Jlab Metal Rugged earphones,\
