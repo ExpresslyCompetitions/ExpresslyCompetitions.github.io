@@ -83,7 +83,7 @@ clubs:
       parent-website-name: "Expressly"
       parent-website-url: "https://expressly.io/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
-      disable-entry-emails: false
+      disable-entry-emails: true
       ad-base-gpt-tag: "ads/expressly/base-gpt-tag.html"
       ad-base-top-leaderboard: "ads/expressly/base-topleaderboard.html"
       ad-base-bottom-leaderboard: "ads/expressly/base-bottomleaderboard.html"
@@ -132,7 +132,7 @@ clubs:
       parent-website-url: "http://www.nme.com/"
       icon-url:       "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/10/cropped-nme-site-icon-150x150.jpg"
       merchant-uuid:  "m-63a6456f-6a0f-4ad1-a1ed-4370cb79951d"
-      disable-entry-emails: false
+      disable-entry-emails: true
       consent-script: "consent/nme/consent-script.html"
       domain-migrations-enabled: false
       ad-base-gpt-tag: "ads/nme/base-gpt-tag.html"
