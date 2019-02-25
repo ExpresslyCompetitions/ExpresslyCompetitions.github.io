@@ -40,7 +40,7 @@ section2-content: "<p>You are in control of everything: you control the sound. T
   \ on the outside will indicate how much power you have left before your next charge!</p>\n"
 section3-content: "<p>A totally MUST for YOU. Enter the form below for a chance to\
   \ win and get ready to reach a whole new experience with the amazing JBuds Air True\
-  \ Wireless Earbuds! Good luck!/p>\n"
+  \ Wireless Earbuds!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a pair of JBuds Air True Wireless Earbuds!"
 entry-content: "<p>Enter the draw to win a pair of JBuds Air True Wireless Earbuds\
   \ by entering below before 23:59 on 20th of March 2019.\n\_</p>\n"
