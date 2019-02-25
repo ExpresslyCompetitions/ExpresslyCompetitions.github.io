@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-01-08T09:00:00.000Z"
 end-date: "2019-02-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Marshall Acton II Voice Speaker!"
 competition-description: "<p>Want to win the new Acton II Voice smart speaker from\
