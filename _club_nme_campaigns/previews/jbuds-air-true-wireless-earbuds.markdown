@@ -34,10 +34,9 @@ section2-content: "<p>Tune the JBuds Air sound to your personal preferences with
   \ Signature, Balanced and Bass Boost modes – all without requiring the use of an\
   \ app. Control your music and volume with a push or two on the outside of the earbud\
   \ and utilise the built-in microphone to activate voice assistants such as Siri**,\
-  \ Google Assistant, and other voice assistants, or take phone calls on the move.</p>\n\
-  <p>Also, the JBuds Air include a charging case that will fit in any bag or jacket\
-  \  with lights on the outside to indicate how much power you have left before your\
-  \ next charge!</p>\n"
+  \ Google Assistant or take phone calls on the move.</p>\n<p>Also, the JBuds Air\
+  \ include a charging case that will fit in any bag or jacket  with lights on the\
+  \ outside to indicate how much power you have left before your next charge!</p>\n"
 section3-content: "<p>Enter the form below for a chance to win a whole new audio experience\
   \ with the amazing JBuds Air True Wireless Earbuds!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a pair of JBuds Air True Wireless Earbuds!"
