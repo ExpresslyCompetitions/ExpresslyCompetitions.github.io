@@ -14,8 +14,8 @@ competition-description: "<p>A collection of Green & Black's intense chocolate p
   \ in our hands a selection of the greatest chocolates from Green & Black’s for you\
   \ to taste their amazing range. Hand-picked and delivered in a wicker gift hamper.\
   \ A great gift hamper for foodie friends with a wide variety of dark, milk and white\
-  \ chocolate bars in a wide range of our unique flavours.</p>\n<p>Indulge yourself\
-  \ in chocolate now. Click below for a chance to win.</p>\n"
+  \ chocolate bars in a wide range of unique flavours.</p>\n<p>Indulge yourself in\
+  \ chocolate now. Click below for a chance to win.</p>\n"
 hero-header: "Win Green & Black's Hamper Basket!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-71cd0859-c919-4162-a2f9-18713cfb8710.jpg"
