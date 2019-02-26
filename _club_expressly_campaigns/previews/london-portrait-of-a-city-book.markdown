@@ -24,7 +24,8 @@ logo-left-image: "https://assets.expresslyapp.com/asset-e85a7a90-e527-4c31-a00b-
 logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f586eeb5-3858-4e12-8c16-940c8cca236b.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-0f9995fc-162d-4e4d-b1bf-2eb3053dea1a.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-23fe1f4f-a1aa-45ae-bd05-191c4fed2b2e.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-c4e74b7a-619f-4b26-8180-89857ee59ea2.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-fa799496-c257-461d-9448-5ac4dcf4ced8.jpg"
 section1-content: "<p>London is a vast sprawling metropolis, constantly evolving and\
   \ growing, yet throughout its complex past and shifting present, the humor, unique\
   \ character, and bulldog spirit of the people have stayed constant. This book salutes\
