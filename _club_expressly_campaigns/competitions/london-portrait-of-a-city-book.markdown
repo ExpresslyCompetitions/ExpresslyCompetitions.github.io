@@ -1,9 +1,9 @@
 ---
 campaign-uuid: "c-2df638b6-e573-47ac-8220-532377c5570f"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2019-02-27T09:00:00.000Z"
-end-date: "2019-03-27T23:59:00.000Z"
+end-date: "2019-04-27T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -47,7 +47,7 @@ section3-content: "<p>We are giving away a work of art: London: Portrait of a Ci
   <p>Enter below for a chance to win. Good luck!</p>\n"
 entry-title: "Win London: Portrait of a City book!"
 entry-content: "<p>Enter the draw to win London: Portrait of a City book by entering\
-  \ below before 23:59 on 27th of March 2019.\n\_</p>\n"
+  \ below before 23:59 on 27th of April 2019.\n\_</p>\n"
 has-winner: false
 prize-description: "London: Portrait of a City book."
 special-conditions: "Multiple entries are allowed up to one every day."
