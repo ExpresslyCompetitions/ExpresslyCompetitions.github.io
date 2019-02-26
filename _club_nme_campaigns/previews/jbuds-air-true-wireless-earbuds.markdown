@@ -25,22 +25,21 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-a0f9eccf-b523-482d-9cef-12
 bg-image-first: "https://assets.expresslyapp.com/asset-c32d8e57-93ef-4d0c-8655-68d3f13e7e7b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-aa1928bf-2f9e-487d-a193-8303d7bd2db8.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-fc64ca84-5d75-4cef-a2c6-c58326b824cb.jpg"
-section1-content: "<p>The JBuds Air True Wireless Earbuds have it all: They automatically\
+section1-content: "<p>The JBuds Air True Wireless Earbuds have it all: they automatically\
   \ turn on and connect to each other once taken out of their charging case so you\
-  \ can keep going hassle-free. Their A Class 1 Bluetooth 5 connection keeps you going\
-  \ for 3-4 hours in each earbud plus 10 extra hours of charge in the case, that’\
-  s about 14 hours of your favorite music or podcast.</p>\n"
-section2-content: "<p>You are in control of everything: you control the sound. Tune\
-  \ the JBuds Air sound to your personal preferences with JLab Signature, Balanced\
-  \ and Bass Boost modes – without an app. Control all your music and volume with\
-  \ a push or two on the outside of the earbud. Utilize the built-in microphone to\
-  \ activate Siri**, Google Assistant, and other voice assistants, or take phone calls\
-  \ and keep GOing on the move.</p>\n<p>Also, the JBuds Air included charging case\
-  \ will fit in any bag or jacket pocket you’re taking on-the-GO with you. Lights\
-  \ on the outside will indicate how much power you have left before your next charge!</p>\n"
-section3-content: "<p>A totally MUST for YOU. Enter the form below for a chance to\
-  \ win and get ready to reach a whole new experience with the amazing JBuds Air True\
-  \ Wireless Earbuds!</p>\n<p>Good luck!</p>\n"
+  \ can keep going hassle-free. Their A Class 1 Bluetooth 5 connection ensures power\
+  \ is maintained for 3-4 hours in each earbud plus 10 extra hours of charge in the\
+  \ case, that’s about 14 hours of your favourite music or podcast.</p>\n"
+section2-content: "<p>Tune the JBuds Air sound to your personal preferences with JLab\
+  \ Signature, Balanced and Bass Boost modes – all without requiring the use of an\
+  \ app. Control your music and volume with a push or two on the outside of the earbud\
+  \ and utilise the built-in microphone to activate voice assistants such as Siri**,\
+  \ Google Assistant, and other voice assistants, or take phone calls on the move.</p>\n\
+  <p>Also, the JBuds Air include a charging case that will fit in any bag or jacket\
+  \  with lights on the outside to indicate how much power you have left before your\
+  \ next charge!</p>\n"
+section3-content: "<p>Enter the form below for a chance to win a whole new audio experience\
+  \ with the amazing JBuds Air True Wireless Earbuds!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a pair of JBuds Air True Wireless Earbuds!"
 entry-content: "<p>Enter the draw to win a pair of JBuds Air True Wireless Earbuds\
   \ by entering below before 23:59 on 20th of March 2019.\n\_</p>\n"
