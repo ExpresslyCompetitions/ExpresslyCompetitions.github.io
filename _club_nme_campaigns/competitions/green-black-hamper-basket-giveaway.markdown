@@ -3,7 +3,7 @@ campaign-uuid: "c-00a6b2cb-37bf-4f64-ae2f-a328d807b09f"
 type: "Competition"
 category: "Food"
 date: "2019-02-27T09:00:00.000Z"
-end-date: "2019-03-27T23:59:00.000Z"
+end-date: "2019-04-27T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -45,7 +45,7 @@ section3-content: "</p>We are giving away a fantastic collection of Green & Blac
   \ their amazing flavours!</p>\n"
 entry-title: "Win Green & Black's Hamper Basket!"
 entry-content: "<p>Enter the draw to win Green &amp; Black's Hamper Basket by entering\
-  \ below before 23:59 on 27th of March 2019.</p>\n"
+  \ below before 23:59 on 27th of April 2019.</p>\n"
 has-winner: false
 prize-description: "Green & Black's Hamper Basket."
 special-conditions: "Multiple entries are allowed up to one every day."
