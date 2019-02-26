@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-01-25T09:00:00.000Z"
 end-date: "2019-02-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win MILE 22 on Blu-ray!"
 competition-description: "<p>Calling all Mark Wahlberg and John Malkovich fans! We\
