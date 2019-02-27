@@ -19,9 +19,9 @@ competition-description: "<p>We have on our hands the best gift a Harry Potter f
 hero-header: "Win Harry Potter Complete 8 Film Collection!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-35ff0099-0b4e-44a6-8adc-aa0ab3983e22.jpg"
-logo-left-href: "http://greenandblacks.co.uk"
-logo-left-image: "https://assets.expresslyapp.com/asset-b15d9d29-0270-4e39-b0c2-d922320d0812.jpg"
-logo-left-title: "Green & Black's"
+logo-left-href: "aaa.nme.com"
+logo-left-image: "https://assets.expresslyapp.com/asset-9cea9aec-5862-4a44-a918-135d4e56c576.jpg"
+logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e29fa474-e5dd-401b-ade4-ccad8f4a08f1.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3d7b2cf7-1e1f-4836-92cd-ba8b1c3c665e.jpg"
 section1-content: "<p>When Harry Potter learns on his eleventh birthday that he is,\
