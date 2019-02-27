@@ -11,7 +11,7 @@ title: "Win Green & Black's Hamper Basket!"
 competition-description: "<p>A collection of Green & Black's intense chocolate products\
   \ including the bestselling Dark 85% and Roasted Almond bars alongside their best\
   \ selling organic Tasting Collection box with tasting notes could be yours. We have\
-  \ in our hands a selection of the greatest chocolates from Green & Black’s for you\
+  \ on our hands a selection of the greatest chocolates from Green & Black’s for you\
   \ to taste their amazing range. Hand-picked and delivered in a wicker gift hamper.\
   \ A great gift hamper for foodie friends with a wide variety of dark, milk and white\
   \ chocolate bars in a wide range of unique flavours.</p>\n<p>Indulge yourself in\
