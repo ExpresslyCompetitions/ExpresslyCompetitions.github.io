@@ -103,7 +103,7 @@ active: selected-competitions
              data-opens="{{ page.date | date_to_xmlschema }}"
              data-expiration="{{page.end-date | date_to_xmlschema}}">
             <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
-            <section class="contact row">
+            <section class="contact row {%if page.type == 'Extra' %} logged-out-only {% endif %}">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-8">
                     {% if page.type != 'Extra' %}
@@ -112,9 +112,6 @@ active: selected-competitions
                     <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
                     {% endif %}
                     <div class="hide-if-entered">
-                        {% if page.type == 'Extra' %}
-                        <h2 class="title text-center mb-5">Join {{ page.club-name }} for free and continue reading...</h2>
-                        {% endif %}
                         {% if page.disable-form == false %}
                         <div class="hide-if-expired ">
                             <div class=" {{restriction-classes}}">
@@ -129,6 +126,11 @@ active: selected-competitions
                                     <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}"/>
                                     <input type="hidden" name="version" value="1"/>
                                     <div class="logged-out-only">
+
+                                        {% if page.type == 'Extra' %}
+                                        <h2 class="title text-center mb-5">Join {{ page.club-name }} for free and continue reading...</h2>
+                                        {% endif %}
+
                                         {% assign form_input_id_prefix = 'form--competition--' %}
                                         {% include form_input_text.html id="forename" label="First Name" type="text"
                                         required="true" placeholder="Enter your forename" autocomplete="given-name"
@@ -161,82 +163,82 @@ active: selected-competitions
                                     <div class="small">
                                         {% capture terms_checkbox_label %}
                                         <span class="logged-in-only">
-                                            I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs
-    </a>
-    </span>
-    <span class="logged-out-only">
+                                            I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+                                        </span>
+                                        <span class="logged-out-only">
                                             By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
 and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
 you'll receive weekly email updates about offers and competitions available to members.
 You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
-<label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
-    <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout"/>
-    <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
-</label>
-</span>
-{% endcapture %}
-{% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
+                                            <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
+                                                <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout"/>
+                                                <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
+                                            </label>
+                                        </span>
+                                    {% endcapture %}
+                                    {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
 
-<div class="logged-out-only">
-    {% include optin-fragment.html
-    optin2p-hide=page.optin2p-create-hide
-    optin3p-hide=page.optin3p-create-hide%}
-</div>
-</div>
-{% assign form_input_id_prefix = '' %}
-</form>
+                                        <div class="logged-out-only">
+                                            {% include optin-fragment.html
+                                            optin2p-hide=page.optin2p-create-hide
+                                            optin3p-hide=page.optin3p-create-hide%}
+                                        </div>
+                                    </div>
+                                    {% assign form_input_id_prefix = '' %}
+                                </form>
 
-<input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-<input type="hidden" name="emailEntrant"
-       value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}"/>
-<input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}"/>
+                                <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
+                                <input type="hidden" name="emailEntrant"
+                                       value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}"/>
+                                <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}"/>
 
-<div class="text-center pt-3">
-    <button class="btn btn-primary disable-if-busy" id="action--enter" data>
-        <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
-        <span class="show-when-busy">Submitting Entry <img
-                src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
-    </button>
-</div>
-</div>
+                                <div class="text-center pt-3">
+                                    <button class="btn btn-primary disable-if-busy" id="action--enter" data>
+                                        <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}{% if page.type != 'Extra' %}Enter Competition{% else %}Sign Up{% endif %}
+                                        </span>
+                                        <span class="show-when-busy">Submitting Entry <img
+                                                src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+                                    </button>
+                                </div>
+                            </div>
 
-<div class=" {{restriction-classes}} display-restriction">
-    <h2 class="text-center">Competition not available in your country</h2>
-</div>
-</div>
-{% endif %}
-<h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
-</div>
-{% if page.type != 'Extra' %}
-<div class="show-if-entered">
-    <p>
-        You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
-    </p>
+                            <div class=" {{restriction-classes}} display-restriction">
+                                <h2 class="text-center">Competition not available in your country</h2>
+                            </div>
+                        </div>
+                    {% endif %}
+                    <h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
+                </div>
+                {% if page.type != 'Extra' %}
+                    <div class="show-if-entered">
+                        <p>
+                            You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
+                        </p>
 
-    <div class="hide-if-expired">
-        <div class="show-if-reenter-later text-center pt-3">
-            <b>You may submit more than one entry for this competition.<br>Please check back later to enter again.</b>
+                        <div class="hide-if-expired">
+                            <div class="show-if-reenter-later text-center pt-3">
+                                <b>You may submit more than one entry for this competition.<br>Please check back later to enter again.</b>
+                            </div>
+
+                            <div class="show-if-reenter-now text-center pt-3">
+                                <a data-reenter="{{page.campaign-uuid}}" data-campaign-title="{{page.title | uri_escape}}" href="#"
+                                   class="h-100 btn btn-primary px-5 disable-if-busy">Enter Competition Again</a>
+                            </div>
+                        </div>
+
+                        <div class="competition-banner mt-4">
+                            <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
+                                {% include image_url_builder.html image=page.banner-img %}
+                                <div class="advertiser-banner rounded" style="background-image: url({{image-url}})"></div>
+                            </a>
+                        </div>
+                    </div>
+                {% endif %}
+                </div>
+
+                <div class="col-sm-3"></div>
+            </section>
         </div>
-
-        <div class="show-if-reenter-now text-center pt-3">
-            <a data-reenter="{{page.campaign-uuid}}" data-campaign-title="{{page.title | uri_escape}}" href="#"
-               class="h-100 btn btn-primary px-5 disable-if-busy">Enter Competition Again</a>
-        </div>
-    </div>
-
-    <div class="competition-banner mt-4">
-        <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
-            {% include image_url_builder.html image=page.banner-img %}
-            <div class="advertiser-banner rounded" style="background-image: url({{image-url}})"></div>
-        </a>
-    </div>
-</div>
-{% endif %}
-</div>
-
-<div class="col-sm-3"></div>
-</section>
-</div>
 
 {% assign terms_start_date = page.date | date: '%B %d, %Y' %}
 {% assign terms_start_time = page.date | date: '%r' %}
