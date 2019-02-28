@@ -13,7 +13,8 @@ active: selected-competitions
 {% else %}
 {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
-<section class="hero {% if page.type == 'Extra' %} header-extra {% endif %}" style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
+<section class="hero {% if page.type == 'Extra' %} header-extra {% endif %}"
+         style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
 
     <div class="container">
 
@@ -105,11 +106,15 @@ active: selected-competitions
             <section class="contact row">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-8">
+                    {% if page.type != 'Extra' %}
                     <h2 class="title text-center">{{page.entry-title}}</h2>
                     {% assign end_date_pretty = page.end-date | date: '%B %d, %Y' %}
                     <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
-
+                    {% endif %}
                     <div class="hide-if-entered">
+                        {% if page.type == 'Extra' %}
+                        <h2 class="title text-center mb-5">Join {{ page.club-name }} for free and continue reading...</h2>
+                        {% endif %}
                         {% if page.disable-form == false %}
                         <div class="hide-if-expired ">
                             <div class=" {{restriction-classes}}">
@@ -202,6 +207,7 @@ You can unsubscribe at any time. Please tick here if you’d rather not receive 
 {% endif %}
 <h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
 </div>
+{% if page.type != 'Extra' %}
 <div class="show-if-entered">
     <p>
         You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
@@ -225,6 +231,7 @@ You can unsubscribe at any time. Please tick here if you’d rather not receive 
         </a>
     </div>
 </div>
+{% endif %}
 </div>
 
 <div class="col-sm-3"></div>
