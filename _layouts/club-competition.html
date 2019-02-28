@@ -7,11 +7,11 @@ active: selected-competitions
 {% include image_url_builder.html image=page.bg-image-hero %}
 {% capture terms_modal_id %}modal-{{page.campaign-uuid}}{% endcapture %}
 {% if page.country-restrictions %}
-    {% for restriction in page.country-restrictions  %}
-        {% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
-    {% endfor %}
+{% for restriction in page.country-restrictions  %}
+{% capture restriction-classes %}restriction-{{restriction}} {{restriction-classes}}{% endcapture %}
+{% endfor %}
 {% else %}
-    {% assign restriction-classes = 'restriction-GB' %}
+{% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
 <section class="hero" style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
 
@@ -23,7 +23,7 @@ active: selected-competitions
                     <h1>{{page.hero-header}}</h1>
                     {% include image_url_builder.html image=page.logo-left-image %}
                     {% if page.type != 'Extra' %}
-                    <div class="advertiser-logo"><img src="{{image-url}}" /></div>
+                    <div class="advertiser-logo"><img src="{{image-url}}"/></div>
                     {% endif %}
                 </div>
                 <div class="hero-block hero-block-sub {% if page.type != 'Extra' %} text-center {% endif %} mb-3 px-3">
@@ -40,7 +40,7 @@ active: selected-competitions
                 </div>
             </div>
         </div>
-
+        {% if page.type != 'Extra' %}
         <div class="down-arrow-spacer"></div>
         <div class="down-arrow mb-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
@@ -49,6 +49,7 @@ active: selected-competitions
                 </g>
             </svg>
         </div>
+        {% endif %}
     </div>
 </section>
 
@@ -56,163 +57,178 @@ active: selected-competitions
     <section class="our-work row row-he align-items-center">
         <div class="col-md-6 content p-4 text-justify">{{page.section1-content}}</div>
         {% include image_url_builder.html image=page.bg-image-first %}
-        <div class="col-md-6 px-0 bg-img" id="first-img"style="background-image: url({{image-url}})"></div>
+        <div class="col-md-6 px-0 bg-img" id="first-img" style="background-image: url({{image-url}})"></div>
     </section>
 
     {% if page.section2-content and page.bg-image-second %}
-        <section class="quality row row-he align-items-center">
-            <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
-            {% include image_url_builder.html image=page.bg-image-second %}
-            <div class="col-md-6 order-md-first px-0 bg-img" id="second-img" style="background-image: url({{image-url}})"></div>
-        </section>
+    <section class="quality row row-he align-items-center">
+        <div class="col-md-6 content p-4 text-justify">{{page.section2-content}}</div>
+        {% include image_url_builder.html image=page.bg-image-second %}
+        <div class="col-md-6 order-md-first px-0 bg-img" id="second-img"
+             style="background-image: url({{image-url}})"></div>
+    </section>
     {% endif %}
 
     {% if page.section3-content and page.bg-image-third %}
-        <section class="our-work row row-he align-items-center">
-            <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
-            {% include image_url_builder.html image=page.bg-image-third %}
-            <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{image-url}})"></div>
-        </section>
+    <section class="our-work row row-he align-items-center">
+        <div class="col-md-6 content p-4 text-justify">{{page.section3-content}}</div>
+        {% include image_url_builder.html image=page.bg-image-third %}
+        <div class="col-md-6 px-0 bg-img" id="third-img" style="background-image: url({{image-url}})"></div>
+    </section>
     {% endif %}
 
     {% if page.bottom-content and page.type == 'Extra' %}
-        <section class="our-work row row-he pt-4 align-items-center">
-            <div class="col-12 content p-4 text-justify">{{page.bottom-content}}</div>
-        </section>
+    <section class="our-work row row-he pt-4 align-items-center">
+        <div class="col-12 content p-4 text-justify">{{page.bottom-content}}</div>
+    </section>
     {% endif %}
 </div>
-{% if page.type == 'Extra' %}
-<div class="container-fluid hide-if-signed-in d-none">
-    <section class="row row-he align-items-center">
-        <div class="col-12 text-center" style="background: #eeeeee; padding-top: 3em; padding-bottom: 3em;">
-            <p>
-                To see this content, you have to be a registered user. Join now for FREE by completing the form below.
-            </p>
-        </div>
-    </section>
-</div>
-{% endif %}
-<hr class="my-5" />
+
+<hr class="my-5 {% if page.type == 'Extra' %} hide-if-signed-in d-none {% endif %}"/>
 
 <div id="contact-anchor" class="anchor"></div>
 
 {% if page.terms-confirmation == 'N/A' %}
-    {% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{% endcapture %}
-{% else %}
-    {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}" target="_blank">{% endcapture %}
-{% endif %}
+{% capture terms_checkbox_link %}<a href="javascript:" data-toggle="modal" data-target="#{{terms_modal_id}}">{%
+    endcapture %}
+    {% else %}
+    {% capture terms_checkbox_link %}<a href="{{club_base}}/etc/{{page.terms-confirmation}}" target="_blank">{%
+        endcapture %}
+        {% endif %}
 
-<div class="container" id="eid"
-     data-competition-toggle="{{page.campaign-uuid}}"
-     data-type="{{page.type | slugify}}"
-     data-opens="{{ page.date | date_to_xmlschema }}"
-     data-expiration="{{page.end-date | date_to_xmlschema}}">
-    <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
-    <section class="contact row">
-        <div class="col-sm-2"></div>
-        <div class="col-sm-8">
-            <h2 class="title text-center">{{page.entry-title}}</h2>
-            {% assign end_date_pretty = page.end-date | date: '%B %d, %Y' %}
-            <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
+        <div class="container" id="eid"
+             data-competition-toggle="{{page.campaign-uuid}}"
+             data-type="{{page.type | slugify}}"
+             data-opens="{{ page.date | date_to_xmlschema }}"
+             data-expiration="{{page.end-date | date_to_xmlschema}}">
+            <script>entrySet('eid', '{{page.campaign-uuid}}');</script>
+            <section class="contact row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <h2 class="title text-center">{{page.entry-title}}</h2>
+                    {% assign end_date_pretty = page.end-date | date: '%B %d, %Y' %}
+                    <p>{{page.entry-content | replace: '!end-date!', end_date_pretty }}</p>
 
-            <div class="hide-if-entered">
-                {% if page.disable-form == false %}
-                    <div class="hide-if-expired ">
-                        <div class=" {{restriction-classes}}">
-                            {% if page.country-restrictions %}{% capture allowed-countries %}{{page.country-restrictions|jsonify}}{% endcapture %}
-                            {% else %}{% capture allowed-countries %}["GB"]{% endcapture %}{% endif %}
-                            <form id="form--competition" method="post" x="sd" novalidate data-countries='{{allowed-countries}}'>
-                                <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-                                <input type="hidden" name="emailEntrant" value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}" />
-                                <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
-                                <input type="hidden" name="version" value="1"/>
-                                <div class="logged-out-only">
-                                    {% assign form_input_id_prefix = 'form--competition--' %}
-                                    {% include form_input_text.html id="forename" label="First Name" type="text" required="true" placeholder="Enter your forename" autocomplete="given-name" error="Please enter your first name" maxlength="32" %}
-                                    {% include form_input_text.html id="surname" label="Last Name" type="text" required="true" placeholder="Enter your surname" autocomplete="family-name" error="Please enter your last name" maxlength="32" %}
-                                    {% include form_input_gender.html id="gender" label="Gender" type="text" required="true" autocomplete="gender" error="Please select a gender" %}
-                                    {% include form_input_dob.html id="dob" label="DOB" type="text" required="true" placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of birth as dd/mm/yyyy. You must be over 18 to register" %}
-                                    {% include form_input_text.html id="email" label="Email" type="email" required="true" placeholder="Enter your email" autocomplete="username email" error="Please enter your email" maxlength="128" inputClass="disable-if-logged-in" %}
-                                    {% include form_input_text.html id="phone" label="Phone" type="text" required="true" placeholder="Enter your phone number" autocomplete="tel" maxlength="24" pattern="((0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9})|((\+1|001)[-. ]?)?\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})" error="Please enter a valid telephone number" %}
-                                    {% include form_input_address_autocomplete.html label="Address" error="Please enter your full address" countries=page.country-restrictions %}
-                                    {% if page.entry-extension %}
-                                        {% include extensions/{{ page.entry-extension }} %}
-                                    {% endif %}
-                                </div>
-
-                                 <div class="small">
-                                    {% capture terms_checkbox_label %}
-                                        <span class="logged-in-only">
-                                            I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
-                                        </span>
-                                        <span class="logged-out-only">
-                                            By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
-                                            and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
-                                            you'll receive weekly email updates about offers and competitions available to members.
-                                            You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
-                                            <label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
-                                                <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout" />
-                                                <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
-                                            </label>
-                                        </span>
-                                    {% endcapture %}
-                                    {% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
-
+                    <div class="hide-if-entered">
+                        {% if page.disable-form == false %}
+                        <div class="hide-if-expired ">
+                            <div class=" {{restriction-classes}}">
+                                {% if page.country-restrictions %}{% capture allowed-countries
+                                %}{{page.country-restrictions|jsonify}}{% endcapture %}
+                                {% else %}{% capture allowed-countries %}["GB"]{% endcapture %}{% endif %}
+                                <form id="form--competition" method="post" x="sd" novalidate
+                                      data-countries='{{allowed-countries}}'>
+                                    <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
+                                    <input type="hidden" name="emailEntrant"
+                                           value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}"/>
+                                    <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}"/>
+                                    <input type="hidden" name="version" value="1"/>
                                     <div class="logged-out-only">
-                                        {% include optin-fragment.html
-                                            optin2p-hide=page.optin2p-create-hide
-                                            optin3p-hide=page.optin3p-create-hide%}
+                                        {% assign form_input_id_prefix = 'form--competition--' %}
+                                        {% include form_input_text.html id="forename" label="First Name" type="text"
+                                        required="true" placeholder="Enter your forename" autocomplete="given-name"
+                                        error="Please enter your first name" maxlength="32" %}
+                                        {% include form_input_text.html id="surname" label="Last Name" type="text"
+                                        required="true" placeholder="Enter your surname" autocomplete="family-name"
+                                        error="Please enter your last name" maxlength="32" %}
+                                        {% include form_input_gender.html id="gender" label="Gender" type="text"
+                                        required="true" autocomplete="gender" error="Please select a gender" %}
+                                        {% include form_input_dob.html id="dob" label="DOB" type="text" required="true"
+                                        placeholder="DD/MM/YYYY" autocomplete="dob" error="Please enter your date of
+                                        birth as dd/mm/yyyy. You must be over 18 to register" %}
+                                        {% include form_input_text.html id="email" label="Email" type="email"
+                                        required="true" placeholder="Enter your email" autocomplete="username email"
+                                        error="Please enter your email" maxlength="128"
+                                        inputClass="disable-if-logged-in" %}
+                                        {% include form_input_text.html id="phone" label="Phone" type="text"
+                                        required="true" placeholder="Enter your phone number" autocomplete="tel"
+                                        maxlength="24"
+                                        pattern="((0|\+44|0044)\s*[1235789]\s*([0-9]\s*){8,9})|((\+1|001)[-.
+                                        ]?)?\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})" error="Please enter a
+                                        valid telephone number" %}
+                                        {% include form_input_address_autocomplete.html label="Address" error="Please
+                                        enter your full address" countries=page.country-restrictions %}
+                                        {% if page.entry-extension %}
+                                        {% include extensions/{{ page.entry-extension }} %}
+                                        {% endif %}
                                     </div>
-                                </div>
-                                {% assign form_input_id_prefix = '' %}
-                            </form>
 
-                            <input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
-                            <input type="hidden" name="emailEntrant" value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}" />
-                            <input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}" />
+                                    <div class="small">
+                                        {% capture terms_checkbox_label %}
+                                        <span class="logged-in-only">
+                                            I agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs
+    </a>
+    </span>
+    <span class="logged-out-only">
+                                            By signing-up, you agree to the specific {{ page.type  | downcase }} {{terms_checkbox_link}}T&amp;Cs</a>
+and to become a club member of  {{ page.club-name }}.  As a club member of  {{ page.club-name }},
+you'll receive weekly email updates about offers and competitions available to members.
+You can unsubscribe at any time. Please tick here if you’d rather not receive these emails
+<label class="custom-control custom-checkbox my-0 pt-0 ml-1" style="min-height: 1.05rem">
+    <input type="checkbox" class="custom-control-input" value="true" name="optout" id="{{form_input_id_prefix}}optout"/>
+    <span class="custom-control-indicator" style="height:1rem; min-height: 1rem"></span>
+</label>
+</span>
+{% endcapture %}
+{% include form_input_checkbox.html id="terms" label=terms_checkbox_label required="true" %}
 
-                            <div class="text-center pt-3">
-                                <button class="btn btn-primary disable-if-busy" id="action--enter" data>
-                                    <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
-                                    <span class="show-when-busy">Submitting Entry <img
-                                            src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
-                                </button>
-                            </div>
-                        </div>
+<div class="logged-out-only">
+    {% include optin-fragment.html
+    optin2p-hide=page.optin2p-create-hide
+    optin3p-hide=page.optin3p-create-hide%}
+</div>
+</div>
+{% assign form_input_id_prefix = '' %}
+</form>
 
-                        <div class=" {{restriction-classes}} display-restriction">
-                            <h2 class="text-center">Competition not available in your country</h2>
-                        </div>
-                    </div>
-                {% endif %}
-                <h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
-            </div>
-            <div class="show-if-entered">
-                <p>
-                    You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
-                </p>
+<input type="hidden" name="campaign" value="{{page.campaign-uuid}}"/>
+<input type="hidden" name="emailEntrant"
+       value="{% if page.disable-entry-emails == true %}false{% else %}true{% endif %}"/>
+<input type="hidden" name="competitionTitle" value="{{page.title | uri_escape }}"/>
 
-                <div class="hide-if-expired">
-                    <div class="show-if-reenter-later text-center pt-3">
-                        <b>You may submit more than one entry for this competition.<br>Please check back later to enter again.</b>
-                    </div>
+<div class="text-center pt-3">
+    <button class="btn btn-primary disable-if-busy" id="action--enter" data>
+        <span class="hide-when-busy">{% if page.is-demo == true %}[DEMO] {% endif %}Enter Competition</span>
+        <span class="show-when-busy">Submitting Entry <img
+                src="https://assets01.buyexpressly.com/microsite/spinner.gif" height="18px"></span>
+    </button>
+</div>
+</div>
 
-                    <div class="show-if-reenter-now text-center pt-3">
-                        <a data-reenter="{{page.campaign-uuid}}" data-campaign-title="{{page.title | uri_escape}}" href="#" class="h-100 btn btn-primary px-5 disable-if-busy">Enter Competition Again</a>
-                    </div>
-                </div>
+<div class=" {{restriction-classes}} display-restriction">
+    <h2 class="text-center">Competition not available in your country</h2>
+</div>
+</div>
+{% endif %}
+<h2 class="text-center {% if page.disable-form == false %}show-if-expired{% endif %}">Competition is now over</h2>
+</div>
+<div class="show-if-entered">
+    <p>
+        You've already submitted an entry to this competition. {{terms_checkbox_link}}Terms and Conditions</a>.
+    </p>
 
-                <div class="competition-banner mt-4">
-                    <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
-                        {% include image_url_builder.html image=page.banner-img %}
-                        <div class="advertiser-banner rounded" style="background-image: url({{image-url}})"></div>
-                    </a>
-                </div>
-            </div>
+    <div class="hide-if-expired">
+        <div class="show-if-reenter-later text-center pt-3">
+            <b>You may submit more than one entry for this competition.<br>Please check back later to enter again.</b>
         </div>
 
-        <div class="col-sm-3"></div>
-    </section>
+        <div class="show-if-reenter-now text-center pt-3">
+            <a data-reenter="{{page.campaign-uuid}}" data-campaign-title="{{page.title | uri_escape}}" href="#"
+               class="h-100 btn btn-primary px-5 disable-if-busy">Enter Competition Again</a>
+        </div>
+    </div>
+
+    <div class="competition-banner mt-4">
+        <a class="d-block" data-powerlink="{{page.campaign-uuid}}" href="{{page.logo-left-href}}">
+            {% include image_url_builder.html image=page.banner-img %}
+            <div class="advertiser-banner rounded" style="background-image: url({{image-url}})"></div>
+        </a>
+    </div>
+</div>
+</div>
+
+<div class="col-sm-3"></div>
+</section>
 </div>
 
 {% assign terms_start_date = page.date | date: '%B %d, %Y' %}
@@ -222,27 +238,27 @@ active: selected-competitions
 {% assign item-path-prefix = page.collection | prepend: "_" %}
 {% assign terms_competition_link = page.relative_path | replace: ".markdown", "" | replace: item-path-prefix, page.club_url %}
 {% include form_terms_modal.html
-    id=terms_modal_id
-    club-name=page.club-name
-    club-url=page.club_url
-    competition-name=page.title
-    competition-link=terms_competition_link
-    start-date=terms_start_date
-    start-time=terms_start_time
-    end-date=terms_end_date
-    end-time=terms_end_time
-    prize-description=page.prize-description
-    prize-restrictions=page.prize-restrictions
-    special-conditions=page.special-conditions %}
+id=terms_modal_id
+club-name=page.club-name
+club-url=page.club_url
+competition-name=page.title
+competition-link=terms_competition_link
+start-date=terms_start_date
+start-time=terms_start_time
+end-date=terms_end_date
+end-time=terms_end_time
+prize-description=page.prize-description
+prize-restrictions=page.prize-restrictions
+special-conditions=page.special-conditions %}
 
 {% if page.type == 'Extra' %}
 <script type="text/javascript">
-    if(!signedIn || (signedIn === undefined)) {
-        if (typeof(Storage) !== "undefined" && localStorage.getItem("profile.{{page.merchant-uuid}}")) {
+    if (!signedIn || (signedIn === undefined)) {
+        if (typeof (Storage) !== "undefined" && localStorage.getItem("profile.{{page.merchant-uuid}}")) {
             signedIn = !!localStorage.getItem("signedIn.{{page.merchant-uuid}}");
         }
     }
-    if(signedIn) {
+    if (signedIn) {
         document.getElementsByClassName('show-if-signed-in')[0].classList.remove('d-none');
     } else {
         document.getElementsByClassName('hide-if-signed-in')[0].classList.remove('d-none');
