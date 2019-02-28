@@ -10,6 +10,10 @@ body.competition {
     padding-top: 2rem;
     border-top: solid transparent 50px;
 
+    &.header-extra {
+      min-height: auto;
+    }
+
     .hero-block-wrapper {
       display: flex;
       vertical-align: middle;

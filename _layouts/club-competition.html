@@ -13,7 +13,7 @@ active: selected-competitions
 {% else %}
 {% assign restriction-classes = 'restriction-GB' %}
 {% endif %}
-<section class="hero" style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
+<section class="hero {% if page.type == 'Extra' %} header-extra {% endif %}" style="{% if page.type != 'Extra' %}background-image: url({{image-url}}){% endif %}">
 
     <div class="container">
 
@@ -96,7 +96,7 @@ active: selected-competitions
         endcapture %}
         {% endif %}
 
-        <div class="container" id="eid"
+        <div class="container my-5" id="eid"
              data-competition-toggle="{{page.campaign-uuid}}"
              data-type="{{page.type | slugify}}"
              data-opens="{{ page.date | date_to_xmlschema }}"
