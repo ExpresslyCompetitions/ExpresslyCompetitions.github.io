@@ -101,7 +101,7 @@ clubs:
 #      ad-processing-oop:     "ads/expressly/processing-oop.html"
       ad-thank-you-1:     "ads/expressly/card-thank-you-ad-1-slot.html"
       ad-thank-you-2:     "ads/expressly/card-thank-you-ad-2-slot.html"
-      ad-thank-you-oop:     "ads/expressly/thankyou-oop.html"
+#      ad-thank-you-oop:     "ads/expressly/thankyou-oop.html"
       top-banner-thank-you-slot:     "ads/expressly/top-banner-thank-you-slot.html"
       consent-script: "consent/expressly/consent-script.html"
       domain-migrations-enabled: true
