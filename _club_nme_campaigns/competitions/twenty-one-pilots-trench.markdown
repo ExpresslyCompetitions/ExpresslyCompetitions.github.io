@@ -32,7 +32,7 @@ entry-title: "Win Twenty One Pilots brand new album: TRENCH!"
 entry-content: "<p>Enter the draw to win Twenty One Pilots brand new album: TRENCH\
   \ by entering below before 23:59 on 28th of March 2019.\n\_</p>\n"
 has-winner: false
-prize-description: "Twenty One Pilots brand new album: TRENCH."
+prize-description: "Twenty One Pilots brand new album: TRENCH on CD."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
