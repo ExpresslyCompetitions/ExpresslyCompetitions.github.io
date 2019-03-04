@@ -31,7 +31,8 @@ section1-content: "<p>The two releases, capture the most compelling, ambitious a
   \ atmospheric segues which make the music an experience rather than a mere collection\
   \ of songs. Yet the band’s renowned ability to wield relentless grooves with striking\
   \ power and skyscraper hooks also reaches new heights. </p>\n<p>Moonlight, Exits,\
-  \ White Onions… are some of their brand new hits. Think no m\n"
+  \ White Onions… are some of their brand new hits. Think no more and enter below\
+  \ for a chance to hear all of them first!</p>\n"
 entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
 entry-content: "<p>Enter the draw to win  Foals ‘Everything Not Saved Will Be Lost’\
   \ Part 1 CD by entering below before 23:59 on 5th of April 2019.</p>\n"
