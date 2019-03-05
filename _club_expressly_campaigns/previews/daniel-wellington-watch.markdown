@@ -25,7 +25,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-27479197-72de-4ec3-8edd-b
 section1-content: "<p>With it's elegant design and fascinating appearance this watch\
   \ is an enhanced definitive for any occasion. The striking face and all-black NATO\
   \ strap makes the definitive Black Cornwall a real eye-catcher which embodies the\
-  \ timeless elegance of our definitive Collection.</p>\n<p>A unique piece to one\
+  \ timeless elegance of their definitive Collection.</p>\n<p>A unique piece to one\
   \ of our special winners. Whether you are attending a black-tie event, playing a\
   \ game of tennis or enjoying a sunny day at the beach club, a classic Daniel Wellington\
   \ watch is the perfect companion for every occasion and any setting. Enter the form\
