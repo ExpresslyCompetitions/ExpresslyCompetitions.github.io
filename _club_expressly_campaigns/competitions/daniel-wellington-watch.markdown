@@ -11,7 +11,7 @@ title: "Win Daniel Wellington Black Cornwall watch!"
 competition-description: "<p>Minimalistic and refined, the classic design with interchangeable\
   \ straps that came to be has become a staple, with truly wide-ranging appeal. A\
   \ few years on, this design is still part of the fabric of what makes Daniel Wellington\
-  \ so special.</p>\n<p>We have on our hands a special watch courtesy of Daniel Wellington:\
+  \ so special.</p>\n<p>We are giving away a special watch from Daniel Wellington:\
   \ Daniel Wellington Black Cornwall for you to stand out anywhere you go. Feel smart,\
   \ with Daniel Wellington you can.</p>\n"
 hero-header: "Win Daniel Wellington Black Cornwall watch!"
