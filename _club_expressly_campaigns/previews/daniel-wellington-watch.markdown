@@ -14,7 +14,7 @@ competition-description: "<p>Minimalistic and refined, the classic design with i
   \ so special.</p>\n<p>We have on our hands a special watch courtesy of Daniel Wellington:\
   \ Daniel Wellington Black Cornwall for you to stand out anywhere you go. Feel smart,\
   \ with Daniel Wellington you can.</p>\n"
-hero-header: "Win Daniel Wellington watch!"
+hero-header: "Win Daniel Wellington Black Cornwall watch!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d8fb83af-76fa-4820-b162-e9253ffaa3f4.jpg"
 logo-left-href: "http://club.expressly.io"
