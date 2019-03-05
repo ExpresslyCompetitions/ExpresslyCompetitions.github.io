@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-01-28T09:00:00.000Z"
 end-date: "2019-02-28T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Monsters and Men on Blu-ray!"
 competition-description: "<p>We have managed to get in our hands 4 Blu-ray’s of Reinaldo\
