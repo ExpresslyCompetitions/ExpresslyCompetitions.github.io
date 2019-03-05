@@ -22,7 +22,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-c1d464b9-bb16-4a08-baf1-
 logo-left-title: "Expressly Club"
 bg-image-hero: "https://assets.expresslyapp.com/asset-9eeb2a4f-0aa7-4e60-a633-161e26aa0963.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-27479197-72de-4ec3-8edd-bcc4236c9019.jpg"
-section1-content: "<p>With it's elegant design and fascinating appearance this watch\
+section1-content: "<p>With its elegant design and fascinating appearance this watch\
   \ is an enhanced definitive for any occasion. The striking face and all-black NATO\
   \ strap makes the definitive Black Cornwall a real eye-catcher which embodies the\
   \ timeless elegance of their definitive Collection.</p>\n<p>A unique piece to one\
