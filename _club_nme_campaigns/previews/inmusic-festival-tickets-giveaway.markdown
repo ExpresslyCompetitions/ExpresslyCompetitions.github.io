@@ -46,12 +46,14 @@ entry-content: "<p>Enter the draw to win a 3-day festival and 7-day camping tick
 has-winner: false
 prize-description: "Each winner will win the following prize: a 3-day festival and\
   \ 7-day camping ticket to INmusic festival, lake Jarun, Zagreb on 24th-26th June\
-  \ 2019.\r\nWinners will be notified by email on or around the 29th April the notification\
-  \ date. If the winner cannot be contacted within 24 hours  the Promoter reserves\
-  \ the right to offer the prize to the next eligible entrant drawn at random."
-special-conditions: "Multiple entries are allowed up to one every day.\r\nThe winners\
-  \ are responsible for all expenses and travel and accommodation arrangements included\
-  \ in the prize, including any necessary travel documents, passports and visas."
+  \ 2019."
+prize-restrictions: "The winners are responsible for all expenses and travel and accommodation\
+  \ arrangements included in the prize, including any necessary travel documents,\
+  \ passports and visas."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nWinners\
+  \ will be notified by email on or around the 29th April the notification date. If\
+  \ the winner cannot be contacted within 24 hours  the Promoter reserves the right\
+  \ to offer the prize to the next eligible entrant drawn at random."
 country-restrictions:
 - "GB"
 ---
