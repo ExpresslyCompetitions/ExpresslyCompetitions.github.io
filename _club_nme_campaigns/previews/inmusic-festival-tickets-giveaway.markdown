@@ -44,9 +44,9 @@ entry-title: "Win a 3-day festival and 7-day camping ticket for INmusic Festival
 entry-content: "<p>Enter the draw to win a 3-day festival and 7-day camping ticket\
   \ for INmusic Festival by entering below before 23:59 on 1st of May 2019.</p>\n"
 has-winner: false
-prize-description: "Each winner will win the following prize: a 3-day festival and\
-  \ 7-day camping ticket to INmusic festival, lake Jarun, Zagreb on 24th-26th June\
-  \ 2019."
+prize-description: "There will be 2 winners. Each winner will win the following prize:\
+  \ a 3-day festival and 7-day camping ticket to INmusic festival, lake Jarun, Zagreb\
+  \ on 24th-26th June 2019."
 prize-restrictions: "The winners are responsible for all expenses and travel and accommodation\
   \ arrangements included in the prize, including any necessary travel documents,\
   \ passports and visas."
