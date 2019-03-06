@@ -19,7 +19,7 @@ hero-header: "Win a 3-day festival and 7-day camping ticket for INmusic Festival
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0d68116e-f4e7-4a60-8d83-614781a27991.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-6b01151a-8b8b-4a8d-aa5c-85d7e93fb12c.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-5d77943f-5a71-4a17-aa78-ba0df6a37d62.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-0b741ae4-2c3b-4a98-8c32-6846bfebece5.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-51fc445d-6f8c-41ef-a702-ead2e6bdc6ad.jpg"
