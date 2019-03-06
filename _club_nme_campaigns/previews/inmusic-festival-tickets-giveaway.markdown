@@ -16,7 +16,7 @@ competition-description: "<p>What better way to kick off the summer in style tha
   \ and 7-day camping ticket for INmusic Festival 2019 to 2 lucky NME AAA members\
   \ to win! Want to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win a 3-day festival and 7-day camping ticket for INmusic Festival"
-terms-confirmation: "https://aaa.nme.com/etc/Inmusic-2019-Terms-and-conditions.pdf"
+terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0d68116e-f4e7-4a60-8d83-614781a27991.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5d77943f-5a71-4a17-aa78-ba0df6a37d62.jpg"
@@ -42,7 +42,7 @@ section3-content: "<p>INmusic offers something for everyone. An array of the bes
   \ luck!</p>\n"
 entry-title: "Win a 3-day festival and 7-day camping ticket for INmusic Festival!"
 entry-content: "<p>Enter the draw to win a 3-day festival and 7-day camping ticket\
-  \ for INmusic Festival by entering below before 23:59 on 1st of May 2019.</p>\n"
+  \ for INmusic Festival by entering below before 23:59 on 22nd of April 2019.</p>\n"
 has-winner: false
 prize-description: "There will be 2 winners. Each winner will win the following prize:\
   \ a 3-day festival and 7-day camping ticket to INmusic festival, lake Jarun, Zagreb\
