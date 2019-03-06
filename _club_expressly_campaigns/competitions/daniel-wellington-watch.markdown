@@ -3,9 +3,9 @@ campaign-uuid: "c-0bcec4d5-a218-4379-af67-0063f534d37c"
 type: "Competition"
 category: "Gifts"
 date: "2019-03-06T06:00:00.000Z"
-end-date: "2019-04-06T23:59:00.000Z"
+end-date: "2019-05-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Daniel Wellington Black Cornwall watch!"
 competition-description: "<p>Minimalistic and refined, the classic design with interchangeable\
@@ -32,7 +32,7 @@ section1-content: "<p>With its elegant design and fascinating appearance this wa
   \ below and it could be yours.</p>\n"
 entry-title: "Win Daniel Wellington Black Cornwall watch!"
 entry-content: "<p>Enter the draw to win Daniel Wellington Black Cornwall watch by\
-  \ entering below before 23:59 on 6th of April 2019.</p>\n"
+  \ entering below before 23:59 on 6th of May 2019.</p>\n"
 has-winner: false
 prize-description: "Daniel Wellington Black Cornwall watch."
 special-conditions: "Multiple entries are allowed up to one every day."
