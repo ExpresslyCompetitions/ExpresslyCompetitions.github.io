@@ -3,7 +3,7 @@ campaign-uuid: "c-7a88ffe7-2016-4e81-9c03-f3321832c758"
 type: "Preview"
 category: "Tickets"
 date: "2019-04-01T09:00:00.000Z"
-end-date: "2019-05-01T23:59:00.000Z"
+end-date: "2019-04-22T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -44,9 +44,14 @@ entry-title: "Win a 3-day festival and 7-day camping ticket for INmusic Festival
 entry-content: "<p>Enter the draw to win a 3-day festival and 7-day camping ticket\
   \ for INmusic Festival by entering below before 23:59 on 1st of May 2019.</p>\n"
 has-winner: false
-prize-description: "One of the two tickets to INmusic Festival. Each ticket is a 3-day\
-  \ festival and 7-day camping ticket."
-special-conditions: "Multiple entries are allowed up to one every day."
+prize-description: "Each winner will win the following prize: a 3-day festival and\
+  \ 7-day camping ticket to INmusic festival, lake Jarun, Zagreb on 24th-26th June\
+  \ 2019.\r\nWinners will be notified by email on or around the 29th April the notification\
+  \ date. If the winner cannot be contacted within 24 hours  the Promoter reserves\
+  \ the right to offer the prize to the next eligible entrant drawn at random."
+special-conditions: "Multiple entries are allowed up to one every day.\r\nThe winners\
+  \ are responsible for all expenses and travel and accommodation arrangements included\
+  \ in the prize, including any necessary travel documents, passports and visas."
 country-restrictions:
 - "GB"
 ---
