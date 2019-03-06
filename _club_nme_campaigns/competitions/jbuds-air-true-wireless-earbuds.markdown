@@ -13,7 +13,7 @@ competition-description: "<p>Time to GO on the move, in a pinch, out the door. G
   \ on an airplane. A 3-4-hour battery life with Bluetooth 5 gives you just enough\
   \ power to get through those music moments, and now, a pair could be yours because\
   \ we are giving away a pair of JBuds Air True Wireless Earbuds to one of our lucky\
-  \ NME AAA members to win.!</p>\n<p>Perfect for on-the-GO moments. Want them? Click\
+  \ NME AAA members to win!</p>\n<p>Perfect for on-the-GO moments. Want them? Click\
   \ below for a chance to win.</p>\n"
 hero-header: "Win a pair of JBuds Air True Wireless Earbuds!"
 terms-confirmation: "N/A"
