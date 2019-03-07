@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-02-06T09:00:00.000Z"
 end-date: "2019-03-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Ultimate Rude Health bundle!"
 competition-description: "<p>At Rude Health, they make their food out of great things\
