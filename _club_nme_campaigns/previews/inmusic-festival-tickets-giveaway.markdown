@@ -14,7 +14,7 @@ competition-description: "<p>What better way to kick off the summer in style tha
   \ missed live, from pioneering new artists to rock legends.</p>\n<p>We are pretty\
   \ sure you won’t want to miss this… that’s why we are giving away a 3-day festival\
   \ and 7-day camping ticket for INmusic Festival 2019 to 2 lucky NME AAA members\
-  \ to win! Want to come along with us? Click below for a chance to win!</p>\n"
+  \ to win! Want to come along with us? Click below for a chance to win!</p>\n<p><h1>TEST</h1></p>\n"
 hero-header: "Win a 3-day festival and 7-day camping ticket for INmusic Festival"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0d68116e-f4e7-4a60-8d83-614781a27991.jpg"
