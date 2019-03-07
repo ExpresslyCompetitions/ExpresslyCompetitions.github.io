@@ -5,7 +5,7 @@ category: "Food"
 date: "2018-12-05T09:00:00.000Z"
 end-date: "2019-02-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Hotel Chocolat The Large Chocolate Hamper!"
 competition-description: "<p>Tagged, tied and ready to give, Hotel Chocolat chocolate\
