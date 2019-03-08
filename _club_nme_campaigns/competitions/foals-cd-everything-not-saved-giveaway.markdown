@@ -31,8 +31,8 @@ section1-content: "<p>The two releases, capture the most compelling, ambitious a
   \ atmospheric segues which make the music an experience rather than a mere collection\
   \ of songs. Yet the band’s renowned ability to wield relentless grooves with striking\
   \ power and skyscraper hooks also reaches new heights. </p>\n"
-section2-content: "<p>*'This is the start of a new era, headlining Glasto is the most\
-  \ special show you can do. But it has to be the right time'* Foals told NME in their\
+section2-content: "<p>''This is the start of a new era, headlining Glasto is the most\
+  \ special show you can do. But it has to be the right time'' Foals told NME in their\
   \ exclusive interview after the release of their brand new album. You can read the\
   \ full article  on <a href=\"https://www.nme.com/big-read-foals-2019-everything-not-saved-will-be-lost-part-1\"\
   >this week's Big Read</a> on the band</p>\n<p>Don't miss out the oportunity of winning\
