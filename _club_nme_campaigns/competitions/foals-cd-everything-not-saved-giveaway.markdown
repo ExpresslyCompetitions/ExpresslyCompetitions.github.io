@@ -7,7 +7,7 @@ end-date: "2019-04-05T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
+title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 on CD!"
 competition-description: "<p>From playing chaotic house parties in their home city\
   \ of Oxford to becoming major festival headliners across Europe, Foals’ trajectory\
   \ has been remarkable. After more than a decade in the game, here they are again\
@@ -15,7 +15,7 @@ competition-description: "<p>From playing chaotic house parties in their home ci
   \ two astonishing new albums: ‘Everything Not Saved Will Be Lost’. A pair of releases,\
   \ separate but related, and we have their very first Part 1 to one of our lucky\
   \ members.</p>\n<p>Want to hear it first? Click below for a chance to win.</p>\n"
-hero-header: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
+hero-header: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 on CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-fda903b4-5087-4eb1-9a09-d8b0df70bff6.jpg"
 logo-left-href: "aaa.nme.com"
@@ -38,11 +38,11 @@ section2-content: "<p>''This is the start of a new era, headlining Glasto is the
   >this week's Big Read</a> on the band.</p>\n<p>Don't miss out the oportunity of\
   \ winning their brand new album ‘Everything Not Saved Will Be Lost’ now, enter the\
   \ form below and it could be coming home with you!</p>\n<p>Good luck!</p>\n"
-entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
+entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 on CD!"
 entry-content: "<p>Enter the draw to win  Foals ‘Everything Not Saved Will Be Lost’\
   \ Part 1 CD by entering below before 23:59 on 5th of April 2019.</p>\n"
 has-winner: false
-prize-description: "Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
+prize-description: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 on CD!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/\r\nfoals-cd-everything-not-saved-giveaway"
 country-restrictions:
