@@ -24,15 +24,21 @@ logo-left-image: "https://assets.expresslyapp.com/asset-9cea9aec-5862-4a44-a918-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-7c9899a0-2848-4775-a04c-38b83dacea6f.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-9272e2f0-5c38-4317-b278-2aed2890b34c.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-a2445441-936c-4382-aa53-3fddd90add47.jpg"
 section1-content: "<p>The two releases, capture the most compelling, ambitious and\
   \ cohesive creations they’ve ever produced. Eager to break the traditional pop song\
   \ structure which they felt they were becoming increasingly tapered to, the 20 tracks\
   \ defy expectation.</p>\n<p>There are exploratory, progressive-tinged tracks alongside\
   \ atmospheric segues which make the music an experience rather than a mere collection\
   \ of songs. Yet the band’s renowned ability to wield relentless grooves with striking\
-  \ power and skyscraper hooks also reaches new heights. </p>\n<p>Moonlight, Exits,\
-  \ White Onions… are some of their brand new hits. Think no more and enter below\
-  \ for a chance to hear all of them first!</p>\n"
+  \ power and skyscraper hooks also reaches new heights. </p>\n"
+section2-content: "<p>*'This is the start of a new era, headlining Glasto is the most\
+  \ special show you can do. But it has to be the right time'* Foals told NME in their\
+  \ exclusive interview after the release of their brand new album. You can read the\
+  \ full article  on <a href=\"https://www.nme.com/big-read-foals-2019-everything-not-saved-will-be-lost-part-1\"\
+  >this week's Big Read</a> on the band</p>\n<p>Don't miss out the oportunity of winning\
+  \ their brand new album ‘Everything Not Saved Will Be Lost’ now, enter the form\
+  \ below and it could be coming home with you!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
 entry-content: "<p>Enter the draw to win  Foals ‘Everything Not Saved Will Be Lost’\
   \ Part 1 CD by entering below before 23:59 on 5th of April 2019.</p>\n"
