@@ -35,9 +35,9 @@ section2-content: "<p>''This is the start of a new era, headlining Glasto is the
   \ special show you can do. But it has to be the right time'' Foals told NME in their\
   \ exclusive interview after the release of their brand new album. You can read the\
   \ full article  on <a href=\"https://www.nme.com/big-read-foals-2019-everything-not-saved-will-be-lost-part-1\"\
-  >this week's Big Read</a> on the band</p>\n<p>Don't miss out the oportunity of winning\
-  \ their brand new album ‘Everything Not Saved Will Be Lost’ now, enter the form\
-  \ below and it could be coming home with you!</p>\n<p>Good luck!</p>\n"
+  >this week's Big Read</a> on the band.</p>\n<p>Don't miss out the oportunity of\
+  \ winning their brand new album ‘Everything Not Saved Will Be Lost’ now, enter the\
+  \ form below and it could be coming home with you!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ Part 1 CD!"
 entry-content: "<p>Enter the draw to win  Foals ‘Everything Not Saved Will Be Lost’\
   \ Part 1 CD by entering below before 23:59 on 5th of April 2019.</p>\n"
