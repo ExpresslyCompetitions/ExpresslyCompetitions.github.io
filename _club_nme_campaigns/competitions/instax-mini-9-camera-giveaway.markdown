@@ -1,13 +1,13 @@
 ---
 campaign-uuid: "c-b54a1a08-deb6-4b27-b4e0-89efa5520aa3"
-type: "Preview"
+type: "Competition"
 category: "Technology"
 date: "2019-03-13T07:00:00.000Z"
 end-date: "2019-05-13T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win a Instax Mini 9 Camera!"
+title: "Win an Instax Mini 9 Camera!"
 competition-description: "<p>Meet your new best friend , the Instax Mini 9. Cute,\
   \ colourful and compact, this instant camera is just bursting with cool photo features,\
   \ and will always be by your side. If you want to capture your favourite moments,\
@@ -15,7 +15,7 @@ competition-description: "<p>Meet your new best friend , the Instax Mini 9. Cute
   \ including 10 shots to one lucky NME AAA member to win.</p>\n<p>Whether you’re\
   \ a pouter or a tongue sticker-outer the mini 9 has the answer to taking the perfect\
   \ selfie! Click below for a chance to win.</p>\n"
-hero-header: "Win a Instax Mini 9 Camera!"
+hero-header: "Win an Instax Mini 9 Camera!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5e425625-2aaf-410e-8736-9ac638177341.jpg"
 logo-left-href: "aaa.nme.com"
@@ -42,11 +42,11 @@ section3-content: "<p>It comes with incredible features: instant credit card-siz
   \ just screaming out for the perfect photo... hurry up! enter the form below for\
   \ a chance to win the brand new Instax Mini 9 Camera including 10 shots and get\
   \ ready to explore a whole new world through its lenses now!</p>\n"
-entry-title: "Win a Instax Mini 9 Camera!"
-entry-content: "<p>Enter the draw to win a Instax Mini 9 Camera by entering below\
+entry-title: "Win an Instax Mini 9 Camera!"
+entry-content: "<p>Enter the draw to win an Instax Mini 9 Camera by entering below\
   \ before 23:59 on 13th of May 2019.</p>\n"
 has-winner: false
-prize-description: "A Instax Mini 9 Camera in Cobalt Blue including 10 shots."
+prize-description: "An Instax Mini 9 Camera in Cobalt Blue including 10 shots."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
