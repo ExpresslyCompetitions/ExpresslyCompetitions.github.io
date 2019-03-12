@@ -59,7 +59,7 @@ layout: club-layout
                 {% include club_competition_card.html item=item %}
                 {% assign ad_count = ad_count | plus: 1 %}
                 {% if displayed_mobile_ad == 0 and page.ad-list-mobile %}
-                    <div class="competition-card promoted advertisement mobile-only">
+                    <div class="competition-card promoted advertisement">
                         {% include {{page.ad-list-mobile}} %}
                     </div>
                     {% assign displayed_mobile_ad = displayed_mobile_ad | plus: 1 %}
@@ -85,7 +85,7 @@ layout: club-layout
                 {% include club_competition_card.html item=item %}
                 {% assign ad_count = ad_count | plus: 1 %}
                 {% if displayed_mobile_ad == 0 and page.ad-list-mobile %}
-                    <div class="competition-card promoted advertisement mobile-only">
+                    <div class="competition-card promoted advertisement">
                         {% include {{page.ad-list-mobile}} %}
                     </div>
                     {% assign displayed_mobile_ad = displayed_mobile_ad | plus: 1 %}
@@ -94,7 +94,7 @@ layout: club-layout
         {% endfor %}
 
         {% if displayed_mobile_ad == 0 and page.ad-list-mobile %}
-            <div class="competition-card promoted advertisement mobile-only">
+            <div class="competition-card promoted advertisement">
                 {% include {{page.ad-list-mobile}} %}
             </div>
             {% assign displayed_mobile_ad = displayed_mobile_ad | plus: 1 %}
@@ -109,11 +109,6 @@ layout: club-layout
             {% include {{ ad_include_path}} %}
         {% endif %}
     </div>
-    {% if page.ad-list-side %}
-    <div class="advertisement desktop-only">
-        {% include {{page.ad-list-side}} %}
-    </div>
-    {% endif %}
     <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
 </main>
 {% if page.ad-list-oop %}
