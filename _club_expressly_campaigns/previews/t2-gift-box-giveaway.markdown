@@ -9,11 +9,11 @@ is_promoted: true
 has_entry_page: true
 title: "Win 'For the Love of Tea' Gift Box from T2 Tea!"
 competition-description: "<p>Knock the socks off everyone that comes to visit with\
-  \ a selection of 9 classic T2 teabags in a fancy pants display! There’s ten of each\
-  \ flavour and they’re all individually wrapped, meaning guests can pick their tea,\
-  \ brew it at leisure and sip to their heart’s content!</p>\n<p>At T2 they have something\
-  \ for everybody that's why we are giving away an amazing T2 Gift Box for you to\
-  \ try their delicious flavours. Click below for a chance to win.</p>\n"
+  \ a selection of 9 classic T2 teabags in a fancy pants display! There’s nine of\
+  \ each flavour and they’re all individually wrapped, meaning guests can pick their\
+  \ tea, brew it at leisure and sip to their heart’s content!</p>\n<p>At T2 they have\
+  \ something for everybody that's why we are giving away an amazing T2 Gift Box for\
+  \ you to try their delicious flavours. Click below for a chance to win.</p>\n"
 hero-header: "Win 'For the Love of Tea' Gift Box from T2 Tea!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9c68f84d-840a-4ef2-863f-373fb5bf4adb.jpg"
