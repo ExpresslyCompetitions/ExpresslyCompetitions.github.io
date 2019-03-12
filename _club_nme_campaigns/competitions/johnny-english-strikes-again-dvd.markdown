@@ -28,7 +28,7 @@ section1-content: "<p>Johnny English has a new mission: Dive headfirst into acti
   \ English must overcome the challenges of modern technology or his newest mission\
   \ will become the Secret Service’s last.</p>\n<p>This hilarious DVD includes: The\
   \ Comedy Genius of Rowan Atkinson, Johnny English Legacy, A Cast of Character, The\
-  \ Gadgets & The Car. If you want to be the first one watching this finny comedy,\
+  \ Gadgets & The Car. If you want to be the first one watching this funny comedy,\
   \ think no more and enter the form below for a chance to win it and take it home\
   \ with you.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Johnny English Strikes Again on DVD!"
