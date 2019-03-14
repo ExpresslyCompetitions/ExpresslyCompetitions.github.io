@@ -11,8 +11,9 @@ title: "Win a Weekend Pass for Parklife Festival 2019!"
 competition-description: "<p>Get your festival mood on because NME is running a competition\
   \ for one lucky winner and one guest to attend Parklife Festival 2019 which will\
   \ take place at the iconic Heaton Park in Manchester on Saturday 8th and Sunday\
-  \ 9th June 2019! More info <a>href=\"https://parklife.uk.com/”>here!</a></p>\n<p>If\
-  \ this sounds like the best plan of your summer, click below for a chance to win!</p>\n"
+  \ 9th June 2019! More info <a href=\"https://parklife.uk.com\">here!</a> </p>\n\
+  <p>If this sounds like the best plan of your summer, click below for a chance to\
+  \ win!</p>\n"
 hero-header: "Win a Weekend Pass for Parklife Festival 2019!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-66e08d61-0bb3-4b1a-91da-395dd3a1da44.jpg"
