@@ -1,3 +1,4 @@
 User-Agent: *
 Disallow: /profile
 Disallow: /history
+Disallow: /feed.xml
