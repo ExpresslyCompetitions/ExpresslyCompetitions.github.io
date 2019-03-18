@@ -1,16 +1,12 @@
 ---
 ---
-
 <?xml version="1.0" encoding="utf-8"?>
-
 <feed xmlns="http://www.w3.org/2005/Atom">
-
     <title>{{page.club-name}} Feed</title>
     <link href="{{page.club_url}}/feed.xml" rel="self" />
     <link href="{{page.club_url}}/" />
     <id>{{page.club_url}}/</id>
     <updated>{{ "now" | date_to_xmlschema }}</updated>
-
     {% assign campaigns = site[page.campaigns] | where_exp:"c","c.type != 'Preview'" | where_exp:"c","c.has_entry_page == true" | sort: 'date' %}
     {% for item in campaigns reversed  %}
         {% assign item-path-prefix = item.collection | prepend: "_" %}
@@ -30,5 +26,4 @@
             </author>
         </entry>
     {% endfor %}
-
 </feed>
