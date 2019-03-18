@@ -5,8 +5,6 @@ description: Expressly Competitions
 baseurl: ""
 url: "https://win.buyexpressly.com"
 future: true
-plugins:
-  - jekyll-feed
 
 # Build settings
 markdown: kramdown
@@ -279,10 +277,3 @@ defaults:
       type: "club_trustedreviews_pages"
     values:
       <<:     *TRUSTEDREVIEWS_CLUB
-
-feed:
-  collections:
-    nme_club:
-      path: "/nme/club/feed.xml"
-    expressly_club:
-      path: "/expressly-club/feed.xml"
