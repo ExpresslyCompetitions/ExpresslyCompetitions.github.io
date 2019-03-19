@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-01-16T09:00:00.000Z"
 end-date: "2019-03-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Fire 7 Tablet with Alexa!"
 competition-description: "<p>Whether you’re looking for watching, playing, reading\
