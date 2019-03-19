@@ -40,8 +40,8 @@ section3-content: "<p>Two years since their formation, the band have sold over 3
   \ MDRN LV vinyl and get ready to discover their brand new hits now! </p>\n<p>Good\
   \ luck!</p>\n<p><i>(Credit:Ashley Osborn)</i></p>\n"
 entry-title: "Win Picture This 'MDRN LV' vinyl!"
-entry-content: "<p>Enter the draw to win Picture This MDRN LV vinyl by entering below\
-  \ before 23:59 on 20th of April 2019.</p>\n"
+entry-content: "<p>Enter the draw to win Picture This 'MDRN LV' vinyl by entering\
+  \ below before 23:59 on 20th of April 2019.</p>\n"
 has-winner: false
 prize-description: "Picture This MDRN LV vinyl"
 special-conditions: "Multiple entries are allowed up to one every day"
