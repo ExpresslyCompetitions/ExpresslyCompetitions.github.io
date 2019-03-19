@@ -7,13 +7,13 @@ end-date: "2019-04-20T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win Picture This MDRN LV vinyl!"
+title: "Win Picture This 'MDRN LV' vinyl!"
 competition-description: "<p>Following the release of their iconic pop single ‘One\
   \ Drink’, acclaimed Irish international phenomenon Picture This return this year\
   \ with their eagerly anticipated new album, ‘MDRN LV' and we have managed to get\
   \ our hands on one copy to one of our lucky NME AAA members to win.</p>\n<p>Are\
   \ you their biggest fan? Click below for a chance to win.</p>\n"
-hero-header: "Win Picture This MDRN LV vinyl!"
+hero-header: "Win Picture This 'MDRN LV' vinyl!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4fd63511-119a-47ae-b4d8-4c3238d8f34a.jpg"
 logo-left-href: "aaa.nme.com"
@@ -39,7 +39,7 @@ section3-content: "<p>Two years since their formation, the band have sold over 3
   <p>What are you waiting for, enter the form below for a chance to win  Picture This\
   \ MDRN LV vinyl and get ready to discover their brand new hits now! </p>\n<p>Good\
   \ luck!</p>\n<p><i>(Credit:Ashley Osborn)</i></p>\n"
-entry-title: "Win Picture This MDRN LV vinyl!"
+entry-title: "Win Picture This 'MDRN LV' vinyl!"
 entry-content: "<p>Enter the draw to win Picture This MDRN LV vinyl by entering below\
   \ before 23:59 on 20th of April 2019.</p>\n"
 has-winner: false
