@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-4fd63511-119a-47ae-b4d8-4c323
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-04639d64-35fd-4460-a2f3-1116594b824c.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-b22f6756-ba9c-4f2a-92cb-96197774cbc7.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-c36134bc-3e43-4939-ae40-2dea118589df.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-3e0edfa2-789c-480b-a2dc-901b2b1c727b.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-412e488e-f870-4d6e-b4a3-fc7b6dd55499.jpg"
 bg-image-third: "https://assets.expresslyapp.com/asset-f8f2f52c-e865-46dd-98d1-88b5670a4be8.jpg"
@@ -28,17 +28,17 @@ section1-content: "<p>The biggest act in Ireland and the nation’s hottest musi
   \ 2017 full-length debut, ‘Picture This’. </p>\n<p>Certified triple-platinum in\
   \ Ireland, it held the #1 spot in the Irish Album Chart for four weeks, while topping\
   \ the Streaming Chart forseven weeks. Moreover, it remained in the Top 5 for 38\
-  \ consecutive weeks. </p>\n"
+  \ consecutive weeks. </p>\n<p><i>(Credit:Ashley Osborn)</i></p>\n"
 section2-content: "<p>‘One Drink’ introduces ‘MDRN LV’ with a funky guitar-driven\
   \ strut, danceable beat, and slick, soaring, and swaggering hook. Front man Ryan\
   \ Hennessy captivates with an undeniable and unbreakable chant.</p>\n<p>Other album\
   \ highlights include title track, the impassioned ‘Everything Or Nothing’ and First\
-  \ Dance contender ‘Dance Away With You’.</p>\n"
+  \ Dance contender ‘Dance Away With You’.</p>\n<p><i>(Credit:Ashley Osborn)</i></p>\n"
 section3-content: "<p>Two years since their formation, the band have sold over 300K\
   \ tickets, selling out a UK and Ireland tour and last summer a stadium tour in Ireland.</p>\n\
   <p>What are you waiting for, enter the form below for a chance to win  Picture This\
   \ MDRN LV vinyl and get ready to discover their brand new hits now! </p>\n<p>Good\
-  \ luck!</p>\n"
+  \ luck!</p>\n<p><i>(Credit:Ashley Osborn)</i></p>\n"
 entry-title: "Win Picture This MDRN LV vinyl!"
 entry-content: "<p>Enter the draw to win Picture This MDRN LV vinyl by entering below\
   \ before 23:59 on 20th of April 2019.</p>\n"
