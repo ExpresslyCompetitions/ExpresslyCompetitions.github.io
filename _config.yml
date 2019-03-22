@@ -25,6 +25,12 @@ collections:
   club_expressly_pages:
     output: true
     permalink: /expressly-club/:name
+  club_gms_campaigns:
+    output: true
+    permalink: /gms/club/:path
+  club_gms_pages:
+    output: true
+    permalink: /gms/club/:name
   club_nme_campaigns:
     output: true
     permalink: /nme/club/:path
@@ -79,7 +85,7 @@ clubs:
       company-name:   "Expressly Ltd."
       company-url:    "https://buyexpressly.com"
       company-terms:  "https://expressly.io/terms-and-conditions"
-      company-privacy: "https://expressly.io/privacy"
+      company-privacy: "https://www.givemesport.com/privacy-statement"
       parent-website-name: "Expressly"
       parent-website-url: "https://expressly.io/"
       merchant-uuid:  "748f710d-3801-41d2-9235-3c42bf7c6b80"
@@ -115,6 +121,57 @@ clubs:
       countries:
         - "GB"
         - "US"
+  gms_club: &GMS_CLUB
+      campaigns:      "club_gms_campaigns"
+      pages:          "club_gms_pages"
+      club-name:      "GiveMeSport Club"
+      club_url:       "https://club.givemesport.com"
+      club_dir:       "/gms/club"
+#      club-copyright: "&copy; 2018 Expressly Limited"
+#      club-logo-nav:  "https://www.givemesport.com/content/img/touch-icon-192x192.png"
+      company-name:   "GiveMeSport"
+      company-url:    "https://www.givemesport.com/"
+      company-terms:  "https://www.givemesport.com/terms-and-conditions"
+      company-privacy: "https://www.timeincuk.com/privacy/"
+      parent-website-name: "GiveMeSport"
+      parent-website-url: "https://www.givemesport.com/"
+      icon-url:       "https://www.givemesport.com/content/img/touch-icon-192x192.png"
+      merchant-uuid:  "m-f6d5c49d-107b-4f5f-b112-04b3bd4ac445"
+      disable-entry-emails: true
+      consent-script: "consent/gms/consent-script.html"
+      domain-migrations-enabled: false
+#      ad-base-gpt-tag: "ads/gms/base-gpt-tag.html"
+#      ad-base-top-leaderboard: "ads/gms/base-topleaderboard.html"
+#      ad-base-bottom-leaderboard: "ads/gms/base-bottomleaderboard.html"
+#      ad-list-mobile: "ads/gms/listpage-mobile-mpu.html"
+#     ad-list-oop: "ads/gms/listpage-oop.html"
+#      ad-processing-mpu-left: "ads/gms/processing-mpu-left.html"
+#      ad-processing-mpu-right: "ads/gms/processing-mpu-right.html"
+#      ad-processing-oop: "ads/gms/processing-oop.html"
+#      ad-script: "ads/gms/ad-script.html"
+#      ad-top: "ads/gms/top-ad-slot.html"
+#      ad-content: "ads/gms/content-ad-slot.html"
+#      ad-body: "ads/gms/body-ad-slot.html"
+#      ad-thank-you-1: "ads/gms/conversant-medium-rectangle.html"
+#      ad-thank-you-top-banner: "ads/gms/conversant-top-banner.html"
+#      ad-thank-you-oop: "ads/gms/thankyou-oop.html"
+#      ad-processing-conv: "ads/gms/processing-page-conversant.html"
+#      ad-processing-mpu: "ads/gms/processing-page-mpu.html"
+#      ad-thankyou-mpu-topleft: "ads/gms/thankyou-mpu-topleft.html"
+#      ad-thankyou-mpu-topright: "ads/gms/thankyou-mpu-topright.html"
+#      ad-thankyou-mpu-bottomleft: "ads/gms/thankyou-mpu-bottomleft.html"
+#      ad-thankyou-mpu-bottomright: "ads/gms/thankyou-mpu-bottomright.html"
+      ga-code:        ""
+      ga-domain:      "club.givemesport.com"
+#      ga-extra-include: extensions/gms/ga.html
+#      brand-nav-include: nme-nav-bar.html
+      privacy-url:    "https://www.givemesport.com/privacy-statement"
+      terms-url:      "https://www.givemesport.com/terms-and-conditions"
+      optin2p-label-override: "Please email me with special offers and news from GiveMeSport and <a href='https://www.timeincuk.com/brands/' target='_blank'>other iconic brands</a> within <a href='https://www.timeincuk.com/brands/' target='_blank'>the Time Inc. UK Group</a> (such as UNCUT). You can unsubscribe at any time."
+      optin2p-update-hide: true
+      optin3p-update-hide: true
+      countries:
+        - "GB"
   nme_club: &NME_CLUB
       campaigns:      "club_nme_campaigns"
       pages:          "club_nme_pages"
@@ -237,6 +294,26 @@ defaults:
       type: "club_expressly_pages"
     values:
       <<:     *EXPRESSLY_CLUB
+  -
+    scope:
+      path: "/gms/club"
+      type: "pages"
+    values:
+      layout: "club-layout"
+      <<:     *GMS_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_gms_campaigns"
+    values:
+      layout: "club-competition"
+      <<:     *GMS_CLUB
+  -
+    scope:
+      path: ""
+      type: "club_gms_pages"
+    values:
+      <<:     *GMS_CLUB
   -
     scope:
       path: "/nme/club"
