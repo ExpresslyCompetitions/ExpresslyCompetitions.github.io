@@ -28,8 +28,8 @@ section1-content: "<p>Born into a dirt poor farming family in Locust Ridge, Tenn
   \ with \"Dumb Blonde\" in 1967 to the classic worldwide smashes of songs like \"\
   Jolene\" (her first real breakthrough solo single in 1974), \"Here You Come Again\"\
   , \"I Will Always Love You\", \"Islands In The Stream\" and so many more, this has\
-  \ been an incredible journey.</p>\n<p>We have in our hands a special compilation\
-  \ of the talented Dolly Parton hits : ‘The Very Best of Dolly Parton’. If want to\
+  \ been an incredible journey.</p>\n<p>We have on our hands a special compilation\
+  \ of the talented Dolly Parton hits: ‘The Very Best of Dolly Parton’. If want to\
   \ add this gift to your collection, enter the form below for a chance to win and\
   \ it will be coming home with you.</p>\n"
 entry-title: "Win ‘The Very Best of Dolly Parton’ CD!"
