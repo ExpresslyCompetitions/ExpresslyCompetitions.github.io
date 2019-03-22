@@ -161,7 +161,7 @@ clubs:
 #      ad-thankyou-mpu-topright: "ads/gms/thankyou-mpu-topright.html"
 #      ad-thankyou-mpu-bottomleft: "ads/gms/thankyou-mpu-bottomleft.html"
 #      ad-thankyou-mpu-bottomright: "ads/gms/thankyou-mpu-bottomright.html"
-      ga-code:        ""
+      ga-code:        "UA-110278937-5"
       ga-domain:      "club.givemesport.com"
 #      ga-extra-include: extensions/gms/ga.html
 #      brand-nav-include: nme-nav-bar.html
