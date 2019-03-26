@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-e9c35da0-795e-4932-ac28-7d8cf
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-04639d64-35fd-4460-a2f3-1116594b824c.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-b5804252-a3da-47e0-a458-4e42e4260196.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-4e3e9c3e-7059-4e61-acba-bd6a1c918896.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-54cee331-3126-4368-ad90-6f64d0da8f90.jpg"
 section1-content: "<p>Treat your mum our yourself to a subscription to your favourite\
   \ magazine: Marie Claire! The iconic glossy magazine for women who want to Think\
