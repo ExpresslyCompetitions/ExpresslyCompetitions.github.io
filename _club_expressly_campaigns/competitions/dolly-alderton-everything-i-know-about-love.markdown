@@ -2,10 +2,10 @@
 campaign-uuid: "c-f2766fda-c48b-4a45-949f-a17da64d2367"
 type: "Competition"
 category: "Gifts"
-date: "2019-03-27T09:00:00.000Z"
-end-date: "2019-04-27T23:59:00.000Z"
+date: "2019-03-27T07:00:00.000Z"
+end-date: "2019-05-27T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 'Everything I know about Love' book!"
 competition-description: "<p>Award-winning journalist Dolly Alderton survived her\
@@ -33,7 +33,7 @@ section1-content: "<p>Award-winning journalist Dolly Alderton survived her twent
   \ journalist Dolly Alderton: 'Everything I know about Love' now!</p>\n"
 entry-title: "Win 'Everything I know about Love' book!"
 entry-content: "<p>Enter the draw to win 'Everything I know about Love' by entering\
-  \ below before 23:59 on 27th of April 2019.</p>\n"
+  \ below before 23:59 on 27th of May 2019.</p>\n"
 has-winner: false
 prize-description: "'Everything I know about Love' book"
 special-conditions: "Multiple entries are allowed up to one every day."
