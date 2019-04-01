@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-03-27T08:00:00.000Z"
 end-date: "2019-03-29T12:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a 1-year subscription to 'Marie Claire'!"
 competition-description: "<p>Mother's day is just around the corner. So what are you\
