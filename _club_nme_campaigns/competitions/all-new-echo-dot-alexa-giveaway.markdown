@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-01-30T09:00:00.000Z"
 end-date: "2019-03-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the All-new Echo Dot Smart speaker with Alexa!"
 competition-description: "<p>The most popular Echo is now even better with a new speaker\
