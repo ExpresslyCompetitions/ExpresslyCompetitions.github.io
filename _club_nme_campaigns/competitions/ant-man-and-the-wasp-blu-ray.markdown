@@ -35,7 +35,9 @@ section1-content: "<p>Despite a history of crime, Scott turned his life around a
 entry-title: "Win Ant-Man and the Wasp on Blu-ray!"
 entry-content: "<p>Enter the draw to win Ant-Man and The Wasp on Blu-ray\nby completing\
   \ the form below before 23:59 on 3rd  of February 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gill who won Ant-Man and the Wasp on Blu-Ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-dd76de2a-fafa-4b84-a352-5fa658eb6683.jpg"
 prize-description: "Ant-Man and the Wasp on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/ant-man-and-the-wasp-blu-ray"
