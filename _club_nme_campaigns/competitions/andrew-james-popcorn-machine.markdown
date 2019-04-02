@@ -36,7 +36,9 @@ section1-content: "<p>Make traditional sweet and salty popcorn perfect for a mov
 entry-title: "Win Andrew James Classic Popcorn Maker Machine!"
 entry-content: "<p>Enter the draw to win Andrew James Classic Popcorn Maker Machine\
   \ by completing the form below before 23:59 on 17th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dink who won the Andrew James Popcorn Maker Machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-0333069f-4872-4f39-9887-4207c687e818.jpg"
 prize-description: "Andrew James Classic Popcorn Maker Machine."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/andrew-james-popcorn-machine"
