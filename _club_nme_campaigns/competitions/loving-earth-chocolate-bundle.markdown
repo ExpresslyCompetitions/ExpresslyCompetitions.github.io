@@ -44,7 +44,10 @@ section3-content: "<p>If you can't wait to try their amazing range of chocolates
 entry-title: "Win a bundle of Loving Earth Chocolate Bars!"
 entry-content: "<p>Enter the draw to win a bundle of Loving Earth Chocolate Bars by\
   \ completing the form below before 23:59 on 16th of February 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rachael who won an incredible bundle of Loving Earth\
+  \ chocolate bars!"
+winner-banner: "https://assets.expresslyapp.com/asset-a14e25d5-7eb0-4286-8b78-ea7842f149fc.jpg"
 prize-description: "A bundle of Loving Earth Chocolate Bars including: Crunchy Mint\
   \ Dark Chocolate, Dark Chocolate, Hazelnut Mylk Chocolate, Lemon Cheesecake Caramel\
   \ Chocolate, Creamy Chocolate, Salted Caramel and 3 of their 30g hearts"
