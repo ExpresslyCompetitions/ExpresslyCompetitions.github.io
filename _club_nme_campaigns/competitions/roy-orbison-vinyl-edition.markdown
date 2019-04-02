@@ -40,7 +40,9 @@ section1-content: "<p>Working once again at the world-famous Abbey Road Studios,
 entry-title: "Win Roy Orbison Unchained Melodies vinyl edition!"
 entry-content: "<p>Enter the draw to win Roy Orbison Unchained Melodies vinyl edition\
   \ by completing the form below before 23:59 on 28th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "COGRATULATIONS to Nicholas who won Roy Orbison's new record!"
+winner-banner: "https://assets.expresslyapp.com/asset-57d977b7-027a-477d-89f7-8f448b54b502.jpg"
 prize-description: "Roy Orbison Unchained Melodies vinyl edition."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/roy-orbison-vinyl-edition"
