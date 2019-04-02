@@ -36,7 +36,9 @@ section1-content: "<p>Enter mankind’s greatest conflict with Battlefield™ V 
 entry-title: "Win Battlefield V game!"
 entry-content: "<p>Enter the draw to win Battlefield V game by completing the form\
   \ below before 23:59 on 2nd of February 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sarah who won the Battlefield V Game for PS4!"
+winner-banner: "https://assets.expresslyapp.com/asset-fd2f71a6-27b0-44a1-a32e-d65272b5befd.jpg"
 prize-description: "Battlefield V game. Winner chooses the platform for the game."
 special-conditions: "Multiple entries are allowed up to one every day\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/battlefield-v-game-giveaway"
