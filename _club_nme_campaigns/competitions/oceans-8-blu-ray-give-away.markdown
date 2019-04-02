@@ -36,7 +36,9 @@ section1-content: "<p>Five years, eight months, 12 days...and counting. That’s
 entry-title: "Win Ocean’s 8 on Blu-Ray!"
 entry-content: "<p>Enter the draw to win Ocean’s 8 on Blu-Ray by completing the form\
   \ below before 23:59 on 6h of January 2018.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Maggie who won the amazing movie Ocean's 8 on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-def1f42d-e7a1-4849-aa7e-7752c91b5b24.jpg"
 prize-description: "Ocean’s 8 on Blu-Ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/oceans-8-blu-ray-give-away"
