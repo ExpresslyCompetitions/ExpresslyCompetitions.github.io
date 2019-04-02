@@ -32,7 +32,9 @@ section1-content: "<p>Mary Poppins is back to help the next generation of the Ba
 entry-title: "Win Mary Poppins Returns original soundtrack!"
 entry-content: "<p>Enter the draw to win Mary Poppins Returns CD by completing the\
   \ form below before 23:59 on 31st of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dorothy M. who won't Mary Poppins soundtrack!"
+winner-banner: "https://assets.expresslyapp.com/asset-22702178-5849-4c03-91b5-15dd620c3e5d.jpg"
 prize-description: "Mary Poppins Returns original soundtrack."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/mary-poppins-returns-cd"
