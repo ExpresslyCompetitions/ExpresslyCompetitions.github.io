@@ -28,7 +28,10 @@ section1-content: "<p>p&gt;Compact and wireless so it’s easy to move… long b
 entry-title: "Win the Sony Portable Wireless Speaker!"
 entry-content: "<p>Enter the draw to win Sony Portable Wireless Speaker by completing\
   \ the form below before 23:59 25th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Justine who won the amazing Sony Portable Wireless\
+  \ Speaker!"
+winner-banner: "https://assets.expresslyapp.com/asset-b2a03eef-edf4-407b-9a64-7550232b2ee9.jpg"
 prize-description: "Sony Portable Wireless Speaker"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/sony-wireless-speaker-giveaway"
