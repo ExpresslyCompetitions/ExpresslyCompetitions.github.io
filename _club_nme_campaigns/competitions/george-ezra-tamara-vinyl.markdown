@@ -34,7 +34,9 @@ section1-content: "<p>Uninhibited, feel-good new single ‘Paradise’ previews 
 entry-title: "Win George Ezra ‘Staying at Tamara’s’ vinyl!"
 entry-content: "<p>Enter the draw to win George Ezra ‘Staying at Tamara’s’ vinyl by\
   \ completing the form below before 23:59 on 7th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Vicky who won the incredible album from George Ezra!"
+winner-banner: "https://assets.expresslyapp.com/asset-d6527878-fe11-45ae-a04e-5a74e190b568.jpg"
 prize-description: "George Ezra ‘Staying at Tamara’s’ vinyl."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/george-ezra-tamara-vinyl"
