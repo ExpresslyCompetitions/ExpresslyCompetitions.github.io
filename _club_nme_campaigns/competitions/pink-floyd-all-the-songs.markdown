@@ -38,7 +38,9 @@ section1-content: "<p>Organized chronologically by album, this massive, 544-page
 entry-title: "Win Pink Floyd All The Songs book!"
 entry-content: "<p>Enter the draw to win Pink Floyd All The Songs book by completing\
   \ the form below before 23:59 on 26th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jay who won the amazing book from Pink Floyd!"
+winner-banner: "https://assets.expresslyapp.com/asset-a84a7097-037b-4da6-a771-1929af93efaa.jpg"
 prize-description: "Pink Floyd All The Songs book."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/pink-floyd-all-the-songs"
