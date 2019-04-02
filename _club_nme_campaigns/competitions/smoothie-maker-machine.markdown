@@ -32,7 +32,10 @@ section1-content: "<p>This powerful appliance can function as a blender, a grind
 entry-title: "Win Andrew James Smoothie Maker!"
 entry-content: "<p>Enter the draw to win Andrew James Smoothie Maker Machine by completing\
   \ the form below before 23:59 on 27th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kate who won the delicious Andrew James Smoothie\
+  \ Maker Machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-c2888b79-9ffd-4b2a-97b3-fb93113e6c7b.jpg"
 prize-description: "Andrew James Smoothie Maker."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/smoothie-maker-machine"
