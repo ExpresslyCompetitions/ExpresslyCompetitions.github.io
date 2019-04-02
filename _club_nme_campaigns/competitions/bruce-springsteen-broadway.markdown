@@ -36,7 +36,9 @@ section1-content: "<p>Springsteen On Broadway is the solo acoustic performance w
 entry-title: "Win Springsteen On Broadway CD!"
 entry-content: "<p>Enter the draw to win Springsteen On Broadway CD by completing\
   \ the form below before 24th of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Claire B. who won Springsteen On Broadway CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-368b0a72-6cf7-4063-bd5c-d1f2752f448a.jpg"
 prize-description: "Springsteen On Broadway CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/bruce-springsteen-on-broadway-cd"
