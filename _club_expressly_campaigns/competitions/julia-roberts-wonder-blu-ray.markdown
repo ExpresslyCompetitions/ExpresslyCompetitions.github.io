@@ -2,7 +2,7 @@
 campaign-uuid: "c-22c3fb29-0dc6-4415-9d07-46a78d641406"
 type: "Competition"
 category: "Entertainment"
-date: "2019-04-03T08:00:00.000Z"
+date: "2019-04-03T06:00:00.000Z"
 end-date: "2019-05-03T22:59:00.000Z"
 disable-form: false
 is_promoted: false
