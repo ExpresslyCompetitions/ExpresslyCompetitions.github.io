@@ -7,13 +7,13 @@ end-date: "2019-05-04T22:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Andrew James Ice Cream Machine!"
+title: "Win the Andrew James Ice Cream Machine!"
 competition-description: "<p>Summer is just around the corner and with the heat coming\
   \ up… what a better way to kick off the summer than with a delicious Ice cream?\
   \ We are giving away an amazing Ice Cream Maker Machine for you to indulge yourself\
   \ in your favourite flavours! Homemade Ice cream in 20 minutes!</p>\n<p>Want it?\
   \ Click below for a chance to win!</p>\n"
-hero-header: "Win Andrew James Ice Cream Machine!"
+hero-header: "Win the Andrew James Ice Cream Machine!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-7ef3997e-3cdc-49f8-b5c2-80a8608522e2.jpg"
 logo-left-href: "aaa.nme.com"
@@ -30,7 +30,7 @@ section1-content: "<p>With the Andrew James Ice cream Maker Machine you could ha
   \ Chocolate and Peanut Butter, Banana, Espresso…. delicious!</p>\n<p>Enter the form\
   \ below for a chance to win and get ready for summer now with the Andrew James Ice\
   \ Cream Maker Machine! Good luck!</p>\n"
-entry-title: "Win Andrew James Ice Cream Machine!"
+entry-title: "Win the Andrew James Ice Cream Machine!"
 entry-content: "<p>Enter the draw to win Andrew James Ice Cream Machine by entering\
   \ below before 23:59 on 4th of May 2019.</p>\n"
 has-winner: false
