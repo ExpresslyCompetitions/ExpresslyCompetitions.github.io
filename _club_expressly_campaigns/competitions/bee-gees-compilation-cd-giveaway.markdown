@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win The Bee Gees ‘Timeless: The All Time Greatest Hits’ CD!"
 competition-description: "<p>‘Timeless: The All Time Greatest Hits’ is the new career-spanning\
   \ collection of top hits by one of music’s most legendary and acclaimed groups,\
-  \ the Bee Gees. We are giving away a copy of this work of art to one lucky NME AAA\
-  \ member to win and enjoy all of Bee Gees favourite songs.</p>\n<p>Want it? Click\
-  \ below for a chance to win.</p>\n"
+  \ the Bee Gees. We are giving away a copy of this work of art to one lucky members\
+  \ to win and enjoy all of Bee Gees favourite songs.</p>\n<p>Want it? Click below\
+  \ for a chance to win.</p>\n"
 hero-header: "Win The Bee Gees ‘Timeless: The All Time Greatest Hits’ CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-003128dd-cf56-44ed-acdf-9ac46a309217.jpg"
