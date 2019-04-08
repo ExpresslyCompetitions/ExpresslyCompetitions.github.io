@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-03-04T09:00:00.000Z"
 end-date: "2019-04-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win House Of Cards season 6 on Blu-ray!"
 competition-description: "<p>Say goodbye to the White House as the sixth and final\
