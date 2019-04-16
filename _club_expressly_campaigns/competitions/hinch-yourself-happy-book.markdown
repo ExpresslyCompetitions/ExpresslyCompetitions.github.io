@@ -8,13 +8,13 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win Hinch Yourself Happy book!"
-competition-description: "<p>At over 2 million followers and counting, she has taken\
-  \ the nation by storm with her infectiously addictive charm, clever tidying tips\
-  \ and passionate belief in cleaning. Mrs Hinch invites you into her home and while\
-  \ inside you'll discover how a spot of cleaning is the perfect way to cleanse the\
-  \ soul.</p>\n<p>We have a copy of the best seller Hinch Yourself Happy: All The\
-  \ Best Cleaning Tips To Shine Your Sink And Soothe Your Soul for you. Enter below\
-  \ for a chance to win.</p>\n"
+competition-description: "<p>At over 2 million followers and counting, Sophie Hinchliffe\
+  \ has taken the nation by storm with her infectiously addictive charm, clever tidying\
+  \ tips and passionate belief in cleaning. Mrs Hinch invites you into her home and\
+  \ while inside you'll discover how a spot of cleaning is the perfect way to cleanse\
+  \ the soul.</p>\n<p>We have a copy of the best seller Hinch Yourself Happy: All\
+  \ The Best Cleaning Tips To Shine Your Sink And Soothe Your Soul for you. Enter\
+  \ below for a chance to win.</p>\n"
 hero-header: "Win Hinch Yourself Happy book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f79f314a-ee1c-4672-85ed-230263bdf6d7.jpg"
