@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-03-16T09:00:00.000Z"
 end-date: "2019-04-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Girl in the Spider’s Web on Blu-ray!"
 competition-description: "<p>The Girl in the Spiders Web, is available on Digital\
