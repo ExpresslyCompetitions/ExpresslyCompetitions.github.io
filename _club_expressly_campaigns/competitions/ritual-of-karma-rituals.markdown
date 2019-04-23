@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-02-20T09:00:00.000Z"
 end-date: "2019-04-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Ritual of Karma from Rituals!"
 competition-description: "<p>According to ancient Hindu belief, living with good intent\
