@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-02-06T09:00:00.000Z"
 end-date: "2019-04-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of Pandora Silver Earrings!"
 competition-description: "<p>We are giving away a beautiful pair of earrings from\
