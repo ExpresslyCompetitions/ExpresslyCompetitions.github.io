@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2019-04-01T09:00:00.000Z"
 end-date: "2019-04-22T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a 3-day festival and 7-day camping ticket for INmusic Festival!"
 competition-description: "<p>What better way to kick off the summer in style than\
