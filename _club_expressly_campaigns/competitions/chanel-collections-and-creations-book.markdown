@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-01-30T09:00:00.000Z"
 end-date: "2019-03-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Chanel: Collections and Creations book!"
 competition-description: "<p>Chanel's combination of tradition, originality and style\
