@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-02-13T09:00:00.000Z"
 end-date: "2019-04-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Calvin Klein Eternity Set!"
 competition-description: "<p>One of the world's leading lifestyle brands, Calvin Klein\
