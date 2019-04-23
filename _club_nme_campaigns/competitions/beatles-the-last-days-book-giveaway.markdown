@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win ‘And in the End: The Last Days of the Beatles’ book!"
-competition-description: "<p>‘And in the End: The Last Days of the Beatles’ book follows\
+competition-description: "<p>‘And in the End: The Last Days of the Beatles’ book follow\
   \ the story of the last acrimonious days of the Beatles, a final chapter reconstructing\
   \ for the first time the seismic events of 1969, the year that saw the band reach\
   \ new highs of musical creativity and new lows of internal strife. Two years after\
