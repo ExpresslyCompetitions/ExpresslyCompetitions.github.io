@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-01-23T09:00:00.000Z"
 end-date: "2019-03-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Gucci Guilty Eau de Toilette for Women!"
 competition-description: "<p>Gucci Guilty for women Indulge yourself in moments of\
