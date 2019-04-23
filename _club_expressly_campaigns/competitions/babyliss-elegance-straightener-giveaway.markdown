@@ -2,8 +2,8 @@
 campaign-uuid: "c-edcca375-7959-4736-a90f-c901fc4dad6d"
 type: "Competition"
 category: "Gifts"
-date: "2019-04-24T08:00:00.000Z"
-end-date: "2019-05-24T22:59:00.000Z"
+date: "2019-04-24T07:00:00.000Z"
+end-date: "2019-06-24T22:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -32,7 +32,7 @@ section1-content: "<p>The BaByliss Pro 235 Elegance Straightener provides Salon 
   \ hair. </p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win the BaByliss Elegance Straightener!"
 entry-content: "<p>Enter the draw to win the BaByliss Elegance Straightener by entering\
-  \ below before 23:59 on 24th of May 2019.</p>\n"
+  \ below before 23:59 on 24th of June 2019.</p>\n"
 has-winner: false
 prize-description: "The BaByliss Elegance Straightener!"
 special-conditions: "Multiple entries are allowed up to one every day"
