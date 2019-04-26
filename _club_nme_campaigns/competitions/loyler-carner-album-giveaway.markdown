@@ -7,14 +7,14 @@ end-date: "2019-05-27T22:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Loyle Career 'Not Waving, But Drowning' CD!"
+title: "Win Loyle Carner 'Not Waving, But Drowning' CD!"
 competition-description: "<p>'Not Waving, But Drowning' is tha name of the brand new\
   \ album from the South London boy Loyle Carner. He’s back with an affecting second\
   \ album which features appearances from Jordan Rakei, Jorja Smith, Sampha and even\
   \ his mum Jean. We are giving away a copy of Loyle's most personal album to date\
   \ to one lucky NME AAA member to win.</p>\n<p>Want to hear it first? Click below\
   \ for a chance to win\n"
-hero-header: "Win Loyle Career 'Not Waving, But Drowning' CD!"
+hero-header: "Win Loyle Carner 'Not Waving, But Drowning' CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-6dde3ba1-3878-4485-83ff-386fc573c919.jpg"
 logo-left-href: "aaa.nme.com"
@@ -28,11 +28,11 @@ section1-content: "<p>Loyle's album is the most personal album to date. It's fif
   \ a couple of tracks named after his favourite chefs. It already sounds like an\
   \ excellent soundtrack to breezy summer evenings.</p>\n<p>Enter the form below for\
   \ a chance to win and get ready to listen his amazing brand new songs!</p>\n"
-entry-title: "Win Loyle Career 'Not Waving, But Drowning' CD!"
+entry-title: "Win Loyle Carner 'Not Waving, But Drowning' CD!"
 entry-content: "<p>Enter the draw to win  Loyle Career 'Not Waving, But Drowning'\
   \ CD by entering below before 23:59 on 27th of May 2019.</p>\n"
 has-winner: false
-prize-description: "Loyle Career 'Not Waving, But Drowning' CD."
+prize-description: "Loyle Carner 'Not Waving, But Drowning' CD."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
