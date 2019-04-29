@@ -7,12 +7,12 @@ end-date: "2019-05-29T22:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Marina Love+Fear cd!"
+title: "Win Marina Love+Fear CD!"
 competition-description: "<p>Following a three year hiatus from the music industry,\
   \ Marina is back with the release of her album ‘LOVE + FEAR’ across all platforms.\
   \ We have managed to get ourselves with one copy to one lucky member to win!</p>\n\
   <p>Are you Marina’s biggest fan? Click below for a chance to win.</p>\n"
-hero-header: "Win Marina Love+Fear cd!"
+hero-header: "Win Marina Love+Fear CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b0b222de-3214-4485-8774-0ed0b11e186e.jpg"
 logo-left-href: "http://club.expressly.io"
@@ -31,7 +31,7 @@ section1-content: "<p>Marina used her break as a period of reflection and to red
   \ sides of human nature’’.</p>\n<p>If you can’t wait to hear her brand new hits,\
   \ enter the form below for a chance to win and get ready to enjoy her incredible\
   \ voice now.</p>\n"
-entry-title: "Win Marina Love+Fear cd!"
+entry-title: "Win Marina Love+Fear CD!"
 entry-content: "<p>Enter the draw to win Marina Love+Fear cd by entering below before\
   \ 23:59 on 29th of May 2019.</p>\n"
 has-winner: false
