@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-02-27T06:50:00.000Z"
 end-date: "2019-04-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Green & Black's Hamper Basket!"
 competition-description: "<p>A collection of Green & Black's intense chocolate products\
