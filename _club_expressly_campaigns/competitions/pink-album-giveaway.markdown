@@ -32,8 +32,7 @@ entry-content: "<p>Enter the draw to win Pink ‘Hurts 2B Human’ album by comp
   \ the form below before 23:59 on the 2nd of June  2019.</p>\n"
 has-winner: false
 prize-description: "Pink ‘Hurts 2B Human’ album. (CD)"
-special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/pink-album-giveaway\r\
-  \n\r\nMultiple entries are allowed up to one every day."
+special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
 ---
