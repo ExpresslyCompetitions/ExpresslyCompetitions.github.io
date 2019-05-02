@@ -19,7 +19,7 @@ competition-description: "<p>K-pop superstars BLACKPINK will finally be in the U
   \ tickets each, which also come with the option of attending soundcheck.</p>\n<p>Want\
   \ to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to BLACKPINK’s 2019 World Tour with Kia!"
-terms-confirmation: "nme/club/etc/kia-terms-conditions.pdf"
+terms-confirmation: "kia-terms-conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-8f27d12b-764b-4db8-bef7-7bca5eff6aaf.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-fbf88d4f-4314-43b0-bda1-e5ef736f74df.jpg"
