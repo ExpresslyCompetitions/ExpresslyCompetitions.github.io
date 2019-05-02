@@ -2,7 +2,7 @@
 campaign-uuid: "c-e4ac0c52-73cd-423e-af52-afb25ffb8d4e"
 type: "Preview"
 category: "Tickets"
-date: "2019-05-02T12:00:00.000Z"
+date: "2019-05-03T09:00:00.000Z"
 end-date: "2019-05-17T23:59:00.000Z"
 disable-form: false
 is_promoted: true
@@ -19,7 +19,7 @@ competition-description: "<p>K-pop superstars BLACKPINK will finally be in the U
   \ tickets each, which also come with the option of attending soundcheck.</p>\n<p>Want\
   \ to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to BLACKPINK’s 2019 World Tour with Kia!"
-terms-confirmation: "kia-terms-conditions.pdf"
+terms-confirmation: "kia-terms-and-conditions-nmeaaa.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-8f27d12b-764b-4db8-bef7-7bca5eff6aaf.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-fbf88d4f-4314-43b0-bda1-e5ef736f74df.jpg"
