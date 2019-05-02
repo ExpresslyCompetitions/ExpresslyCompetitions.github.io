@@ -20,14 +20,14 @@ competition-description: "<p>K-pop superstars BLACKPINK will finally be in the U
   \ to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to BLACKPINK’s 2019 World Tour with Kia!"
 terms-confirmation: "kia-terms-and-conditions-nmeaaa.pdf"
-banner-img: "https://assets.expresslyapp.com/asset-8f27d12b-764b-4db8-bef7-7bca5eff6aaf.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-d8041b5b-10b1-4594-a470-b3ad55cdddbc.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-fbf88d4f-4314-43b0-bda1-e5ef736f74df.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-ecafbac7-4b63-4c8f-a017-cf78b51fe724.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-ae2fe22b-7e97-47ac-ad1a-976daf100ea2.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-acb6f6c1-20f7-42f5-8231-0a7b82d00c71.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-2fb11dd8-74a9-425d-a6a3-d631b57c72d0.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-09369232-5aab-4758-bcdc-ad16f026c407.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-ef9f418f-09d8-4680-86e4-3b49abc32087.jpg"
 section1-content: "<p>K-pop superstars BLACKPINK will finally be in the UK’s area\
   \ for the very first time this May, as their 2019 World Tour with Kia arrives on\
   \ these shores.</p>\n<p>After making waves in the US with a historic Coachella appearance,\
