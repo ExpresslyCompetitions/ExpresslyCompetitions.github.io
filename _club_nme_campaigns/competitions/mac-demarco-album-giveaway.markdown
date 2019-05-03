@@ -23,7 +23,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-508b32aa-3f22-4bce-8bb4-54
 bg-image-first: "https://assets.expresslyapp.com/asset-48b7041c-75fc-4c7c-8c13-7ba3df077b54.jpg"
 section1-content: "<p>'Here Comes The Cowboy' is the brand new album of Mac DeMarco\
   \ and it is not about cowboys at all. A great album where he steps back and wants\
-  \ to be listened by his fans, another amazing album and worthy addition his brilliant\
+  \ to be listened by his fans, another amazing album and worthy addition to his brilliant\
   \ catalogue.</p>\n<p>Enter the form below for a chance to win the brand new album\
   \ from the Canadian singer 'Here Comes The Cowboy' now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Mac DeMarco 'Here Comes The Cowboy' CD!"
