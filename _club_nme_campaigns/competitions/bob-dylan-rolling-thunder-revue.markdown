@@ -28,7 +28,7 @@ section1-content: "<p>This collection provides the listener with an intimate ins
   \ to win and get ready to listen his greatest tunes now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Bob Dylan ‘The Rolling Thunder Revue’ Box Set!"
 entry-content: "<p>Enter the draw to win Bob Dylan ‘The Rolling Thunder Revue’ Box\
-  \ Set\nby completing the form below before 23:59 on the 3rd of June  2019.</p>\n"
+  \ Set\nby completing the form below before 23:59 on the 6th of June  2019.</p>\n"
 has-winner: false
 prize-description: "Bob Dylan ‘The Rolling Thunder Revue’ Box Set."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
