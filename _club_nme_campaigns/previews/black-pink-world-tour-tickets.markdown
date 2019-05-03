@@ -12,12 +12,13 @@ competition-description: "<p>K-pop superstars BLACKPINK will finally be in the U
   s area for the very first time this May, as their 2019 World Tour with Kia arrives\
   \ on these shores. After making waves in the US with a historic Coachella appearance,\
   \ Jennie, Jisoo, Lisa, and Rosé will bring their fierce pop songs and powerful choreography\
-  \ to London’s SSE Arena Wembley on May 22.</p>\n<p> NME and Kia Motors UK are giving\
-  \ 10 lucky fans the chance to see them live: Five winners will receive two standing\
-  \ tickets each, which include the option to attend soundcheck before the concert\
-  \ and a ‘send-off’ at the end. Another five winners, meanwhile, will win two standing\
-  \ tickets each, which also come with the option of attending soundcheck.</p>\n<p>Want\
-  \ to come along with us? Click below for a chance to win!</p>\n"
+  \ to London’s SSE Arena Wembley on May 22.</p>\n<p>NME and Kia Motors UK are giving\
+  \ 10 lucky fans the chance to witness the trailblazing Korean girl-group up close:\
+  \ five winners will receive two standing ‘golden circle zone’ tickets each, which\
+  \ include the option to attend soundcheck before the concert and a ‘send-off’ at\
+  \ the end. Another five winners, meanwhile, will win two standing ‘golden circle\
+  \ zone’ tickets each, which also come with the option of attending soundcheck. </p>\n\
+  <p>Want to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to BLACKPINK’s 2019 World Tour with Kia!"
 terms-confirmation: "kia-terms-and-conditions-nmeaaa.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-d8041b5b-10b1-4594-a470-b3ad55cdddbc.jpg"
@@ -36,10 +37,11 @@ section1-content: "<p>K-pop superstars BLACKPINK will finally be in the UK’s a
 section2-content: "<p>Want to find out why stars like Halsey, Ariana Grande, and Drake\
   \ have declared their love for the girl group? Here’s your chance - NME and Kia\
   \ Motors UK are giving 10 lucky fans the chance to witness the trailblazing Korean\
-  \ girl-group up close.</p>\n<p>\n<p>Five winners will receive two standing tickets\
-  \ each, which include the option to attend soundcheck before the concert and a ‘\
-  send-off’ at the end. Another five winners, meanwhile, will win two standing tickets\
-  \ each, which also come with the option of attending soundcheck.</p>\n"
+  \ girl-group up close. </p>\n<p>Five winners will receive two standing ‘golden circle\
+  \ zone’ tickets each, which include the option to attend soundcheck before the concert\
+  \ and a ‘send-off’ at the end. Another five winners, meanwhile, will win two standing\
+  \ ‘golden circle zone’ tickets each, which also come with the option of attending\
+  \ soundcheck. </p>\n"
 section3-content: "<p>To be in the running to catch BLACKPINK’s first ever London\
   \ show, fill in the form below.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win tickets to BLACKPINK’s 2019 World Tour with Kia!"
