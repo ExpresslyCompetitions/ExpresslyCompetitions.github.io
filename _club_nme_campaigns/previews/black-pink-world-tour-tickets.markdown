@@ -27,9 +27,9 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-fbf88d4f-4314-43b0-bda1-e5ef736f74df.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-ae2fe22b-7e97-47ac-ad1a-976daf100ea2.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-acb6f6c1-20f7-42f5-8231-0a7b82d00c71.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-2fb11dd8-74a9-425d-a6a3-d631b57c72d0.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-ef9f418f-09d8-4680-86e4-3b49abc32087.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-8aecbf5f-42c9-4a50-a967-7d3e7eb2097d.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-2c1af3df-63aa-44f7-a335-23939d2aa237.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-f4d20ef7-2c90-45b8-b389-0b10d0ee6d5a.jpg"
 section1-content: "<p>K-pop superstars BLACKPINK will finally be in the UK’s area\
   \ for the very first time this May, as their BLACKPINK 2019 WORLD TOUR with Kia\
   \ [IN YOUR AREA] arrives on these shores.</p>\n<p>After making waves in the US with\
