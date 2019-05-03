@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win Mac DeMarco 'Here Comes The Cowboy' CD!"
-competition-description: "<p>The Canadian singer-songwriter, porducer, Mac DeMarco\
+competition-description: "<p>The Canadian singer-songwriter, producer, Mac DeMarco\
   \ is back with an incredible fourth album: 'Here Comes The Cowboy' and we have on\
   \ our hands a copy to give away to one lucky NME AAA member to win. Nobody, Finally\
   \ Alone, Hey Cowgirl and some of his brand new hits you won't want to miss out...</p>\n\
