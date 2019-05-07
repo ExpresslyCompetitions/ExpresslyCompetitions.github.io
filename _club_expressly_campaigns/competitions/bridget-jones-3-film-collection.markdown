@@ -11,8 +11,8 @@ title: "Win Bridget Jones 3-Film Collection!"
 competition-description: "<p>We have on our hands one of the best movies of all times:\
   \ Bridget Jones! If you are one of her biggest fans, we are sure you won't want\
   \ to miss the chance to win the 3-film collection: Bridget Jones's Diary,  Bridget\
-  \ Jones: The Edge of Reason & Bridget Jones's Baby!</p>\n<p>Does it sounds like\
-  \ a plan to you? Click below for a chance to win.</p>\n"
+  \ Jones: The Edge of Reason & Bridget Jones's Baby!</p>\n<p>Does it sound like a\
+  \ plan to you? Click below for a chance to win.</p>\n"
 hero-header: "Win Bridget Jones 3-Film Collection!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9cc7e805-6b41-4880-8008-2d214dcaf01d.jpg"
