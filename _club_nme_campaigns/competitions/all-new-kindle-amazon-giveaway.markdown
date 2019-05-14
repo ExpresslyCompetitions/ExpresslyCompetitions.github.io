@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 title: "Win Amazon's 'All-new Kindle'"
 competition-description: "<p>Meet the all-new Kindle, now with a built-in adjustable\
-  \ front light so you can read indoors, outdoors and at more times of day. Purpose-built\
+  \ front light so you can read indoors, outdoors and at more times of the day. Purpose-built\
   \ for reading, Kindle features a glare-free touchscreen display that reads like\
   \ printed paper, even in direct sunlight. With Kindle, your story starts here!</p>\n\
   <p>Want it? Click below for a chance to win!</p>\n"
