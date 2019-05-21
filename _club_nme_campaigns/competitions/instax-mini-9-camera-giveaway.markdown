@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-03-13T07:00:00.000Z"
 end-date: "2019-05-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win an Instax Mini 9 Camera!"
 competition-description: "<p>Meet your new best friend , the Instax Mini 9. Cute,\
