@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2019-05-07T09:00:00.000Z"
 end-date: "2019-05-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!"
 competition-description: "<p>K-pop superstars BLACKPINK will finally be in the UK’\
@@ -49,6 +49,8 @@ entry-content: "<p>Enter the draw to wintickets to BLACKPINK 2019 WORLD TOUR wit
   \ Kia [IN YOUR AREA]! by completing the form below before 23:59 on the 17th of May\
   \ 2019.</p>\n"
 has-winner: false
+winner-title: "CONGRATULATIONS to: Ellis H, Carragh W, Saratta S, Betsy K, Sheila\
+  \ M, James C, Amar B."
 prize-description: "Tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!\
   \ \r\n\r\nThere will be two prizes (‘Prize A’, and ‘Prize B’). ‘Prize A’: there\
   \ will be 5 winners who will receive 2x standing tickets, which include the option\
