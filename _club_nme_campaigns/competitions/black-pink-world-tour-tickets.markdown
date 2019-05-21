@@ -48,9 +48,10 @@ entry-title: "Win tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!"
 entry-content: "<p>Enter the draw to wintickets to BLACKPINK 2019 WORLD TOUR with\
   \ Kia [IN YOUR AREA]! by completing the form below before 23:59 on the 17th of May\
   \ 2019.</p>\n"
-has-winner: false
-winner-title: "CONGRATULATIONS to: Ellis H, Carragh W, Saratta S, Betsy K, Sheila\
-  \ M, James C, Amar B."
+has-winner: true
+winner-title: "CONGRATULATIONS to: Ellis H, Carragh W, Saratta S, Tara C, James R,\
+  \ Lauren B, Betsy K, Sheila M, James C, Amar B."
+winner-banner: "https://assets.expresslyapp.com/asset-782bf8b9-6e61-4077-a9ef-0d82299fd2d9.jpg"
 prize-description: "Tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!\
   \ \r\n\r\nThere will be two prizes (‘Prize A’, and ‘Prize B’). ‘Prize A’: there\
   \ will be 5 winners who will receive 2x standing tickets, which include the option\
