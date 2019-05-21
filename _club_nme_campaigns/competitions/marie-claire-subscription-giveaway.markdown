@@ -34,8 +34,8 @@ entry-title: "Win a 1-year subscription to 'Marie Claire'!"
 entry-content: "<p>Enter the draw to win a 1-year subscription to 'Marie Claire' by\
   \ entering below before 12:00pm on 29th of March 2019.</p>\n"
 has-winner: true
-winner-title: "CONGRATULATIONS to Pascale Brondy who won our special Mother's Day\
-  \ giveaway: A 1-year subscription to 'Marie Claire'"
+winner-title: "CONGRATULATIONS to Pascale B. who won our special Mother's Day giveaway:\
+  \ A 1-year subscription to 'Marie Claire'"
 winner-banner: "https://assets.expresslyapp.com/asset-7ef3867c-af0b-4b3a-bab6-61aa8db6b1f1.jpg"
 prize-description: "A 1-year subscription to 'Marie Claire'"
 special-conditions: "Multiple entries are allowed up to one every day\r\nWinner will\
