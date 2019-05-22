@@ -15,11 +15,10 @@ competition-description: "<p>K-pop superstars BLACKPINK will finally be in the U
   \ fierce pop songs and powerful choreography to London’s The SSE Arena Wembley on\
   \ May 22.</p>\n<p>NME and Kia Motors UK are giving 10 lucky fans the chance to witness\
   \ the trailblazing Korean girl-group up close: five winners will receive two standing\
-  \ ‘golden circle zone’ tickets each, which include the option to attend soundcheck\
-  \ before the concert and a ‘send-off’ after the concert. Another five winners, meanwhile,\
-  \ will win two standing ‘golden circle zone’ tickets each, which also come with\
-  \ the option of attending soundcheck. </p>\n<p>Want to come along with us? Click\
-  \ below for a chance to win!</p>\n"
+  \ tickets each, which include the option to attend soundcheck before the concert\
+  \ and a ‘send-off’ after the concert. Another five winners, meanwhile, will win\
+  \ two standing tickets each, which also come with the option of attending soundcheck.\
+  \ </p>\n<p>Want to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!"
 terms-confirmation: "black-pink-final.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-d8041b5b-10b1-4594-a470-b3ad55cdddbc.jpg"
@@ -38,10 +37,10 @@ section1-content: "<p>K-pop superstars BLACKPINK will finally be in the UK’s a
   \ May 22.</p>\n"
 section2-content: "<p>Here’s your chance - NME and Kia Motors UK are giving 10 lucky\
   \ fans the chance to witness the trailblazing Korean girl-group up close.</p>\n\
-  <p>Five winners will receive two standing ‘golden circle zone’ tickets each, which\
-  \ include the option to attend soundcheck before the concert and a ‘send-off’ after\
-  \ the concert. Another five winners, meanwhile, will win two standing ‘golden circle\
-  \ zone’ tickets each, which also come with the option of attending soundcheck.</p>\n"
+  <p>Five winners will receive two standing tickets each, which include the option\
+  \ to attend soundcheck before the concert and a ‘send-off’ after the concert. Another\
+  \ five winners, meanwhile, will win two standing tickets each, which also come with\
+  \ the option of attending soundcheck.</p>\n"
 section3-content: "<p>To be in the running to catch BLACKPINK’s first ever London\
   \ show, fill in the form below.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win tickets to BLACKPINK 2019 WORLD TOUR with Kia [IN YOUR AREA]!"
