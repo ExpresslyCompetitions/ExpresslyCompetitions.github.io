@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-05-22T07:00:00.000Z"
 end-date: "2019-07-22T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win the Sony Portable Wireless Speaker!"
 competition-description: "<p>You loved it and here is it again! We are giving away\
