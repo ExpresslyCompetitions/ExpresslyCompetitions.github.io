@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-05-22T06:00:00.000Z"
 end-date: "2019-07-22T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Calvin Klein 'Eternity Moment' Perfume!"
 competition-description: "<p>Eternity Moment by Calvin Klein is a feminine floral\
