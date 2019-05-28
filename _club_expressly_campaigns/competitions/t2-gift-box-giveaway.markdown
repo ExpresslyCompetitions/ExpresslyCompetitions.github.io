@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-03-13T07:00:00.000Z"
 end-date: "2019-05-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'For the Love of Tea' Gift Box from T2 Tea!"
 competition-description: "<p>Knock the socks off everyone that comes to visit with\
