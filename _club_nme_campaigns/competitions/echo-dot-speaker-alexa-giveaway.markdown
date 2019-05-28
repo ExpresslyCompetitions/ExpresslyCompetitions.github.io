@@ -27,7 +27,7 @@ section1-content: "<p>Make your life easier at home with the brand new Echo Dot 
   \ scores, cinema listings, restaurant hours or information.</p>\n<p>Alexa has tens\
   \ of thousands of skills and counting. Skills are like apps and help you do more,\
   \ such as playing True or False, tracking your fitness with Fitbit or falling asleep\
-  \ to rain sounds.</p>\n<p>Welcome the brand new Echon Dot with Alexa into your life.\
+  \ to rain sounds.</p>\n<p>Welcome the brand new Echo Dot with Alexa into your life.\
   \ Click below for a chance to win and get ready to explore a whole new world of\
   \ advantages now!</p>\n"
 entry-title: "Win The Echo Dot Speaker with Alexa!"
