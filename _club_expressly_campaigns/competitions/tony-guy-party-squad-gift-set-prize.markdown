@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-03-20T07:00:00.000Z"
 end-date: "2019-05-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Toni&Guy Party Squad Gift Set!"
 competition-description: "<p>Ensure you're always ready to party with Toni&Guy's Party\
