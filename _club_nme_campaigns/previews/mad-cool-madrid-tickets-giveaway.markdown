@@ -15,7 +15,7 @@ competition-description: "<p>Hey you! We have tickets to Mad Cool Festival 2019 
   \ info <a href=\"https://madcoolfestival.es/en/index.php\">here!</a> </p></p>\n\
   <p>Want to come along with us? Click below for a chance to win.</p>\n\_\n"
 hero-header: "Win a pair of tickets to 'Mad Cool' Festival!"
-terms-confirmation: "N/A"
+terms-confirmation: "mad-cool-terms-and-conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a030241a-3f80-4083-84e7-45fe6f84712a.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-4fb78c65-aae1-4523-90a5-1ec7b1df25c3.jpg"
