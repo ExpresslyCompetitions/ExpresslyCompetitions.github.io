@@ -2,7 +2,7 @@
 campaign-uuid: "c-f8f6c750-7a0d-4c49-bcb0-caa2805bfba6"
 type: "Preview"
 category: "Tickets"
-date: "2019-05-29T13:05:19.505Z"
+date: "2019-05-29T13:05:20.000Z"
 end-date: "2019-05-30T23:59:00.000Z"
 disable-form: false
 is_promoted: true
@@ -15,7 +15,7 @@ competition-description: "<p>Thought the first weekend of All Points East 2019 c
   \ tickets to 3 lucky NME AAA members to win.</p>\n<p>Want to come along with us?\
   \ Click below for a chance to win.</p>\n"
 hero-header: "Win a pair of tickets to All Points East 2019!"
-terms-confirmation: "N/A"
+terms-confirmation: "all-points-east-terms.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-041af740-8467-438e-b011-5c301cbcc999.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-9498786c-0d8a-4e74-a6c0-8fc90d47d024.jpg"
