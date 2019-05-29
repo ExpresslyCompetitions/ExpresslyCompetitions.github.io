@@ -2,8 +2,8 @@
 campaign-uuid: "c-b1cac1fb-40ee-4ced-86db-02a3e4f5454c"
 type: "Preview"
 category: "Tickets"
-date: "2019-04-18T09:00:00.000Z"
-end-date: "2019-05-18T22:59:00.000Z"
+date: "2019-05-29T09:00:00.000Z"
+end-date: "2019-06-25T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -39,13 +39,12 @@ section3-content: "<p>If you are over 18, complete the form below to be in with 
   \ chance to get Mad Cool in Madrid!</p>\n\_<p>Good luck!</p>\n"
 entry-title: "Win a pair of tickets to 'Mad Cool' Festival!"
 entry-content: "<p>Enter the draw to win a pair of tickets to 'Mad Cool' Festival\
-  \ by entering below before 23:59 on 18th of May 2019.</p>\n"
+  \ by entering below before 23:59 on 25th of June 2019.</p>\n"
 has-winner: false
-prize-description: "A pair of tickets to 'Mad Cool' Festival!"
+prize-description: "Winner wins x2 general admittance tickets to 3-day festival."
 prize-restrictions: "The winner is responsible for all expenses and travel and accommodation\
   \ arrangements included in the prize, including any necessary travel documents,\
   \ passports and visas."
-special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
 - "GB"
 ---
