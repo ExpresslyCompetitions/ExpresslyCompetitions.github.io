@@ -3,7 +3,7 @@ campaign-uuid: "c-201c178b-0fc2-412f-9219-15eaad7681b0"
 type: "Preview"
 category: "Tickets"
 date: "2019-01-15T10:23:53.000Z"
-end-date: "2019-03-31T10:23:53.000Z"
+end-date: "2019-08-31T10:23:53.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
