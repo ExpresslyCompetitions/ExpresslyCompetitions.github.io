@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-b4c1986a-6b71-42dd-bdf5-24187
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5a650bea-3e66-48e7-bf13-f2d2ee7c1cdb.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-1dc9a593-54ed-4b44-8104-63e80247bb18.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-c077d28f-6377-472e-8357-8df2e12db787.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-d6d17284-c4ab-40de-a7cf-4bbaeeac1f58.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-c41a4e1e-e702-4dad-bdbd-e1a00c74ebbc.jpg"
 section1-content: "<p>Based on a true fantasy, ROCKETMAN is an epic musical fantasy\
