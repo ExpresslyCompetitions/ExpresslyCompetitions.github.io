@@ -34,7 +34,7 @@ section1-content: "<p>When Tim \"Avicii\" Bergling passed away on April 20, 2018
   \ could be yours.</p>\n"
 entry-title: "Win ‘TIM’ Avicii CD!"
 entry-content: "<p>Enter the draw to win ‘TIM’ Avicii CD by completing the form below\
-  \ before 23:59 on the 13th of August  2019.</p>\n"
+  \ before 23:59 on the 13th of July 2019.</p>\n"
 has-winner: false
 prize-description: "‘TIM’ Avicii CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
