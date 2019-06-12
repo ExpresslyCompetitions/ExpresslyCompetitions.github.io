@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-04-10T08:00:00.000Z"
 end-date: "2019-06-10T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win David Bowie 'Spying Through A Keyhole' Box Set!"
 competition-description: "<p>2019 marks 50 years since David Bowie’s first hit, Space\
