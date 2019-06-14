@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-ff3bcee9-be7e-4280-8388-5a953c64c1ab"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
-date: "2019-06-14T17:00:00.000Z"
+date: "2019-06-14T12:00:00.000Z"
 end-date: "2019-06-16T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win four tickets with camping to Open'er Festival 2019!"
 competition-description: "<p>Oh yes, it's that time of year again and we want to officially\

@@ -25,7 +25,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-a46e77c9-ee99-4afa-8c07-79
 bg-image-first: "https://assets.expresslyapp.com/asset-675c1f44-a04e-4e09-98ee-7ae4db208d24.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-0c2c9fcf-925f-4d76-8494-88935905cbd3.jpg"
 section1-content: "<p>We have on our hands 2 double passes with camping to the Electric\
-  \ Castle Festival 2019 at the Bánffy Castle domain in Bonțida - a tiny historic\
+  \ Castle Festival 2019 at the Bánffy Castle domain in Bon?ida - a tiny historic\
   \ village near Cluj Napoca in Transylvania, Romania, taking place from July 17th-21th\
   \ to give away!</p>  \n<p>By mixing arts and technology with an eclectic musical\
   \ line-up, unique architectural concept and the breathtaking scenery of the amazing\
