@@ -11,7 +11,7 @@ title: "Win a Rocketman bundle!"
 competition-description: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
   \ rewards programme which <a href=\"https://comparethemarket.com/information/rewards-terms/\"\
-  >offers you 2 for 1 cinema tickets</a>cinema tickets at participating cinemas every\
+  >offers you 2 for 1 cinema tickets</a> cinema tickets at participating cinemas every\
   \ Tuesday or Wednesday for a year, we are giving you the chance to win one of 5\
   \ Rocketman bundles we are giving away to 5 lucky NME AAA winners, including: a\
   \ goody pack which will contain a limited edition Rocketman gold jacket, a film\
@@ -39,7 +39,7 @@ section1-content: "<p>Based on a true fantasy, ROCKETMAN is an epic musical fant
 section2-content: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
   \ rewards programme which <a href=\"https://comparethemarket.com/information/rewards-terms/\"\
-  >offers you 2 for 1 cinema tickets</a>cinema tickets at participating cinemas every\
+  >offers you 2 for 1 cinema tickets</a> cinema tickets at participating cinemas every\
   \ Tuesday or Wednesday for a year we are giving you the chance to win one of 5 Rocketman\
   \ bundles we are giving away to 5 lucky NME AAA winners, including: a goody pack\
   \ which will contain a limited edition Rocketman gold jacket, a film soundtrack\
