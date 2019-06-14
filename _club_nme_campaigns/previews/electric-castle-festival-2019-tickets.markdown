@@ -2,8 +2,8 @@
 campaign-uuid: "c-bb7cca1d-cfaf-4cc1-83f6-3043d151fc87"
 type: "Preview"
 category: "Tickets"
-date: "2019-06-12T17:00:00.000Z"
-end-date: "2019-06-17T23:59:00.000Z"
+date: "2019-06-14T14:00:00.000Z"
+end-date: "2019-06-18T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -16,7 +16,7 @@ competition-description: "<p>What better way to start the summer than with an am
   \ with camping ticket for Electric Festival 2019 to 2 lucky NME AAA members to win!\
   \ Want to come along with us? Click below for a chance to win!</p>\n"
 hero-header: "Win tickets to Electric Castle Festival 2019!"
-terms-confirmation: "N/A"
+terms-confirmation: "electric-castle.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-16aa9dd6-094d-4db4-857b-e797ba571a0f.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-49e9c8fd-32fd-40df-b853-b6b790a1e62a.jpg"
@@ -41,7 +41,7 @@ section2-content: "<p>Artistic performances, immersive installations, stand-up c
   \ 2019!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win tickets to Electric Castle Festival 2019!"
 entry-content: "<p>Enter the draw to win tickets to Electric Castle Festival 2019\
-  \ by completing the form below before 23:59 on the 17th of June 2019.</p>\n"
+  \ by completing the form below before 23:59 on the 18th of June 2019.</p>\n"
 has-winner: false
 prize-description: "One of 2 double passes with camping to Electric Castle Festival\
   \ 2019."
