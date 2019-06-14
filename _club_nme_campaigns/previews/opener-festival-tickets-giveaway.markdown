@@ -15,14 +15,14 @@ competition-description: "<p>Oh yes, it's that time of year again and we want to
   \ for a chance to win.</p>\n"
 hero-header: "Win four tickets with camping to Open'er Festival 2019!"
 terms-confirmation: "opener-terms-conditions.pdf"
-banner-img: "https://assets.expresslyapp.com/asset-7ff556f5-72c0-4c56-a83c-78a650c387e7.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-987fe480-38d2-413b-9eb4-10e5d97280e5.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-49e9c8fd-32fd-40df-b853-b6b790a1e62a.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-c01edfbe-2ed1-4417-a815-cd501dec05db.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-43ac01ba-20c8-4640-a122-cf85b54568dc.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-645e980b-51b6-441e-b915-1ea1f1392fc6.jpg"
-bg-image-third: "https://assets.expresslyapp.com/asset-72cf4b6c-2218-4f26-9d89-1092cc820a14.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-08c3fb71-4430-4aad-9f6d-eaa3c81e3078.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-632d056c-a9c5-475f-9149-f592a8f76421.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-ae3de6d2-de23-423a-87df-0b97d0bbc58d.jpg"
+bg-image-third: "https://assets.expresslyapp.com/asset-c50fa90d-8d74-45a3-8141-8e1caaa1dfa4.jpg"
 section1-content: "<p>Pfft, who needs Glastonbury when you have a line-up like this?</p>\n\
   <p>Happening at Poland's Gdynia-Kosakowo Airport over a whopping four days (3th-6th\
   \ July 2019), the Open'er Festival has bagged some pretty impressive headliners\
