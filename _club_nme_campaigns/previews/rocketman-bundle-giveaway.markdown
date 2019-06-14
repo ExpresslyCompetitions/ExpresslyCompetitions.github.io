@@ -33,12 +33,15 @@ section1-content: "<p>Based on a true fantasy, ROCKETMAN is an epic musical fant
   \ most iconic figures in pop culture. ROCKETMAN also stars Jamie Bell as Elton’\
   s longtime lyricist and writing partner Bernie Taupin, Richard Madden as Elton’\
   s first manager, John Reid, and Bryce Dallas Howard as Elton’s mother Sheila Farebrother.</p>\n"
-section2-content: "<p>Calling all NME AAA members, we are giving away 5 Rocketman\
-  \ bundles to 5 lucky NME AAA winners to win, including: a goody pack which will\
-  \ contain a limited edition Rocketman gold jacket, a film soundtrack and 2 adult\
-  \ tickets to see Rocketman in cinemas (at Vue, Cineworld, Everyman or Odeon cinema\
-  \ nationwide)!</p>\n<p>Enter the form below for a chance to win such an amazing\
-  \ prize now!</p>\n<p>Good luck!</p>\n"
+section2-content: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
+  \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
+  \ rewards programme which offers you 2 for 1 cinema tickets at participating cinemas\
+  \ every Tuesday or Wednesday for a year we are giving you the chance to win 5 Rocketman\
+  \ bundles to 5 lucky NME AAA winners, including: a goody pack which will contain\
+  \ a limited edition Rocketman gold jacket, a film soundtrack and 2 adult tickets\
+  \ to see Rocketman in cinemas (at Vue, Cineworld, Everyman or Odeon cinema nationwide)!</p>\n\
+  <p>Enter the form below for a chance to win such an amazing prize now!</p>\n<p>Good\
+  \ luck!</p>\n"
 entry-title: "Win a Rocketman bundle!"
 entry-content: "<p>Enter the draw to win a Rocketman bundle! by completing the form\
   \ below before 23:59 on the 5th of July 2019.</p>\n"
