@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win a Rocketman bundle!"
 competition-description: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
-  \ rewards programme which [offers you 2 for 1](https://comparethemarket.com/information/rewards-terms/)\
+  \ rewards programme which [offers you 2 for 1](http://https://comparethemarket.com/information/rewards-terms)\
   \ cinema tickets at participating cinemas every Tuesday or Wednesday for a year,\
   \ we are giving you the chance to win one of 5 Rocketman bundles we are giving away\
   \ to 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
@@ -37,10 +37,10 @@ section1-content: "<p>Based on a true fantasy, ROCKETMAN is an epic musical fant
   s first manager, John Reid, and Bryce Dallas Howard as Elton’s mother Sheila Farebrother.</p>\n"
 section2-content: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
-  \ rewards programme which [offers you 2 for 1](http://comparethemarket.com/information/rewards-terms/)\
-  \ cinema tickets at participating cinemas every Tuesday or Wednesday for a year\
-  \ we are giving you the chance to win one of 5 Rocketman bundles we are giving away\
-  \ to 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
+  \ rewards programme which[ offers you 2 for 1 ](http://https://comparethemarket.com/information/rewards-terms)cinema\
+  \ tickets at participating cinemas every Tuesday or Wednesday for a year we are\
+  \ giving you the chance to win one of 5 Rocketman bundles we are giving away to\
+  \ 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
   \ edition Rocketman gold jacket, a film soundtrack and 2 adult tickets to see Rocketman\
   \ in cinemas (at Vue, Cineworld, Everyman or Odeon cinema nationwide)!</p>\n<p>Enter\
   \ the form below for a chance to win such an amazing prize now!</p>\n<p>Good luck!</p>\n"
