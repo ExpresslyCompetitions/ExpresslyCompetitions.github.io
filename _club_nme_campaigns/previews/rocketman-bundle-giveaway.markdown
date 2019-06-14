@@ -10,13 +10,13 @@ has_entry_page: true
 title: "Win a Rocketman bundle!"
 competition-description: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
-  \ rewards programme which <a href=\"https://comparethemarket.com/information/rewards-terms/“\
-  >offers you 2 for 1</a> \ncinema tickets at participating cinemas every Tuesday\
-  \ or Wednesday for a year, we are giving you the chance to win one of 5 Rocketman\
-  \ bundles we are giving away to 5 lucky NME AAA winners, including: a goody pack\
-  \ which will contain a limited edition Rocketman gold jacket, a film soundtrack\
-  \ and 2 adult tickets to see Rocketman in cinemas (at Vue, Cineworld, Everyman or\
-  \ Odeon cinema nationwide)!</p>\n<p>Want it? Click below for a chane to win!</p>\n"
+  \ rewards programme which [offers you 2 for 1](https://comparethemarket.com/information/rewards-terms/)\
+  \ cinema tickets at participating cinemas every Tuesday or Wednesday for a year,\
+  \ we are giving you the chance to win one of 5 Rocketman bundles we are giving away\
+  \ to 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
+  \ edition Rocketman gold jacket, a film soundtrack and 2 adult tickets to see Rocketman\
+  \ in cinemas (at Vue, Cineworld, Everyman or Odeon cinema nationwide)!</p>\n<p>Want\
+  \ it? Click below for a chane to win!</p>\n"
 hero-header: "Win a Rocketman bundle!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b4c1986a-6b71-42dd-bdf5-2418765edf0d.jpg"
@@ -37,14 +37,13 @@ section1-content: "<p>Based on a true fantasy, ROCKETMAN is an epic musical fant
   s first manager, John Reid, and Bryce Dallas Howard as Elton’s mother Sheila Farebrother.</p>\n"
 section2-content: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhere\
   \ now and in partnership with comparethemarket.com’s Meerkat Movies, the customer\
-  \ rewards programme which <a href=\"https://comparethemarket.com/information/rewards-terms/“\
-  >offers you 2 for 1</a> cinema tickets at participating cinemas every Tuesday or\
-  \ Wednesday for a year we are giving you the chance to win one of 5 Rocketman bundles\
-  \ we are giving away to 5 lucky NME AAA winners, including: a goody pack which will\
-  \ contain a limited edition Rocketman gold jacket, a film soundtrack and 2 adult\
-  \ tickets to see Rocketman in cinemas (at Vue, Cineworld, Everyman or Odeon cinema\
-  \ nationwide)!</p>\n<p>Enter the form below for a chance to win such an amazing\
-  \ prize now!</p>\n<p>Good luck!</p>\n"
+  \ rewards programme which [offers you 2 for 1](http://comparethemarket.com/information/rewards-terms/)\
+  \ cinema tickets at participating cinemas every Tuesday or Wednesday for a year\
+  \ we are giving you the chance to win one of 5 Rocketman bundles we are giving away\
+  \ to 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
+  \ edition Rocketman gold jacket, a film soundtrack and 2 adult tickets to see Rocketman\
+  \ in cinemas (at Vue, Cineworld, Everyman or Odeon cinema nationwide)!</p>\n<p>Enter\
+  \ the form below for a chance to win such an amazing prize now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a Rocketman bundle!"
 entry-content: "<p>Enter the draw to win a Rocketman bundle! by completing the form\
   \ below before 23:59 on the 5th of July 2019.</p>\n"
