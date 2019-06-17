@@ -16,7 +16,7 @@ competition-description: "<p>To celebrate the release of ROCKETMAN, in cinemas e
   \ we are giving away to 5 lucky NME AAA winners, including: a goody pack which will\
   \ contain a limited edition Rocketman gold jacket, a film soundtrack and 2 adult\
   \ tickets to see Rocketman in cinemas (at Vue, Cineworld, Everyman or Odeon cinema\
-  \ nationwide)!</p>\n<p>Want it? Click below for a chane to win!</p>\n"
+  \ nationwide)!</p>\n<p>Want it? Click below for a chance to win!</p>\n"
 hero-header: "Win a Rocketman bundle!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-b4c1986a-6b71-42dd-bdf5-2418765edf0d.jpg"
