@@ -15,7 +15,7 @@ competition-description: "<p>To celebrate the release of ROCKETMAN we are giving
   \ (at Vue, Cineworld, Everyman or Odeon cinema nationwide)!</p>\n<p>Want it? Click\
   \ below for a chance to win!</p>\n"
 hero-header: "Win a Rocketman bundle!"
-terms-confirmation: "N/A"
+terms-confirmation: "Rocketman-terms-conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-b4c1986a-6b71-42dd-bdf5-2418765edf0d.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-5a650bea-3e66-48e7-bf13-f2d2ee7c1cdb.jpg"
