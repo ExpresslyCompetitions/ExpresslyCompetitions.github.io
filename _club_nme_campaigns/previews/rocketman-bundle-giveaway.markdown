@@ -46,7 +46,7 @@ section2-content: "<p>To celebrate the release of ROCKETMAN, in cinemas everywhe
   \ nationwide)!</p>\n<p>Enter the form below for a chance to win such an amazing\
   \ prize now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a Rocketman bundle!"
-entry-content: "<p>Enter the draw to win a Rocketman bundle! by completing the form\
+entry-content: "<p>Enter the draw to win a Rocketman bundle by completing the form\
   \ below before 23:59 on the 5th of July 2019.</p>\n"
 has-winner: false
 prize-description: "A winner wins: a goody pack which will contain a limited edition\
