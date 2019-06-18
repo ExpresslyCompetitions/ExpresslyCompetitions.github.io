@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-06-17T17:00:00.000Z"
 end-date: "2019-07-01T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a Rocketman bundle!"
 competition-description: "<p>To celebrate the release of ROCKETMAN (In Cinemas Now)\
