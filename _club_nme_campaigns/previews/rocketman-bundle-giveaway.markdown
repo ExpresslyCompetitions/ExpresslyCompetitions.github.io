@@ -37,9 +37,8 @@ section2-content: "<p>To celebrate the release of ROCKETMAN (In Cinemas Now) we 
   \ 5 lucky NME AAA winners, including: a goody pack which will contain a limited\
   \ edition Rocketman gold jacket, a film soundtrack and 2 adult tickets to see Rocketman\
   \ in cinemas (at Vue, Cineworld, Everyman or Odeon cinema nationwide)! Click <a\
-  \ href=\"https://youtu.be/kjtX62f72W8\">here!</a> </p> to watch the trailer!</p>\n\
-  <p>Enter the form below for a chance to win such an amazing prize now!</p>\n<p>Good\
-  \ luck!</p>\n"
+  \ href=\"https://youtu.be/kjtX62f72W8\">here to watch the trailer!</a> </p> \n<p>Enter\
+  \ the form below for a chance to win such an amazing prize now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win a Rocketman bundle!"
 entry-content: "<p>Enter the draw to win a Rocketman bundle by completing the form\
   \ below before 23:59 on the 1st of July 2019.</p>\n"
