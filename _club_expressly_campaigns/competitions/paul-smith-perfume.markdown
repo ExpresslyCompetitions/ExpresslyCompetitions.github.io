@@ -36,5 +36,5 @@ has-winner: false
 prize-description: "Paul Smith Rose perfume"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
-- "US"
+- "GB"
 ---
