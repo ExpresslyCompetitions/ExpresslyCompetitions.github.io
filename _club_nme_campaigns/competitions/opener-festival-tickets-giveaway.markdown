@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2019-06-14T12:00:00.000Z"
 end-date: "2019-06-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win four tickets with camping to Open'er Festival 2019!"
 competition-description: "<p>Oh yes, it's that time of year again and we want to officially\
