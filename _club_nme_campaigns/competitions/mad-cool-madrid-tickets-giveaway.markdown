@@ -5,7 +5,7 @@ category: "Tickets"
 date: "2019-05-29T09:00:00.000Z"
 end-date: "2019-06-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to 'Mad Cool' Festival!"
 competition-description: "<p>Hey you! We have tickets to Mad Cool Festival 2019 in\
