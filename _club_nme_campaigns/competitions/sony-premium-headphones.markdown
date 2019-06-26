@@ -30,7 +30,7 @@ section1-content: "<p>The headphones’ Advanced Direct Vibe Structure ensures y
   \ Headphones now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the Sony Premium Xtra Bass Headphones!"
 entry-content: "<p>Enter the draw to win Sony Premium Xtra Bass Headphones by completing\
-  \ the form below before 23:59 on the 25th of August 2019.</p>\n"
+  \ the form below before 23:59 on the 26th of August 2019.</p>\n"
 has-winner: false
 prize-description: "The Sony Premium Xtra Bass Headphones."
 special-conditions: "Multiple entries are allowed up to one every day."
