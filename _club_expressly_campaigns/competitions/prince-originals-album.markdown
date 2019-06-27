@@ -9,8 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "Win Prince ‘Originals’ album!"
 competition-description: "<p>Calling all Prince fans! We have managed to get our hands\
-  \ with one copy of Prince’s brans new album including 14 unreleased tracks we are\
-  \ pretty sure you wont want to miss. You’re My Love, Jungle Love, Manic Monday…\
+  \ with one copy of Prince’s brand new album including 14 unreleased tracks we are\
+  \ pretty sure you won't want to miss. You’re My Love, Jungle Love, Manic Monday…\
   \ and many more.</p>\n<p>Want it? Click below for a chance to win.</p>\n"
 hero-header: "Win Prince ‘Originals’ album!"
 terms-confirmation: "N/A"
