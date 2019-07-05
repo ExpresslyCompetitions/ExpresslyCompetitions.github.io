@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-05-01T06:00:00.000Z"
 end-date: "2019-07-01T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Uncommon People: The Rise and Fall of the Rock Stars 1955-1994' book!"
 competition-description: "<p>In Uncommon People, David Hepworth zeroes in on defining\
