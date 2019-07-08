@@ -34,7 +34,8 @@ entry-content: "<p>Enter the draw to win  Ben Platt ‘Sing To Me Instead’ alb
   \ completing the form below before 23:59 on the 5th of August 2019.</p>\n"
 has-winner: false
 prize-description: "Ben Platt ‘Sing To Me Instead’ album."
-special-conditions: "This competition is also available on: http://aaa.nme.com/competitons/ben-platt-album"
+special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
+  \ competition is also available on: http://aaa.nme.com/competitons/ben-platt-album"
 country-restrictions:
 - "GB"
 ---
