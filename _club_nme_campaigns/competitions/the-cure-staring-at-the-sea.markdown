@@ -40,6 +40,7 @@ entry-content: "<p>Enter the draw to win The Cure 'Staring at the Sea' album by 
   \ the form below before 23:59 on the 6th of September 2019.</p>\n"
 has-winner: false
 prize-description: "The Cure 'Staring at the Sea' album."
+special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
 ---
