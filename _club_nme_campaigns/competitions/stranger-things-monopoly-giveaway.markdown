@@ -35,7 +35,8 @@ entry-content: "<p>Enter the draw to win the Stranger Things Monopoly by complet
   \ the form below before 23:59 on the 8th of August 2019.</p>\n"
 has-winner: false
 prize-description: "The Stranger Things Monopoly."
-special-conditions: "This competition is also available on: http://club.expressly.io/competitons/stranger-things-monopoly-giveaway"
+special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
+  \ competition is also available on: http://club.expressly.io/competitons/stranger-things-monopoly-giveaway"
 country-restrictions:
 - "GB"
 ---
