@@ -34,7 +34,8 @@ entry-content: "<p>Enter the draw to win Ed Sheeran ‘No.6 Collaborations Proje
   \ by completing the form below before 23:59 on the 9th of August 2019.</p>\n"
 has-winner: false
 prize-description: "Ed Sheeran ‘No.6 Collaborations Project’"
-special-conditions: "This competition is also available on: http://aaa.nme.com/competitons/ed-sheeran-new-album"
+special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
+  \ competition is also available on: http://aaa.nme.com/competitons/ed-sheeran-new-album"
 country-restrictions:
 - "GB"
 ---
