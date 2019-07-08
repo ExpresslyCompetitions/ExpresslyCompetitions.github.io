@@ -36,8 +36,8 @@ entry-content: "<p>Enter the draw to win Stormzy ‘Gang Signs &amp; Prayer’ C
   \ the form below before 23:59 on the 4th of August 2019.</p>\n"
 has-winner: false
 prize-description: "Stormzy ‘Gang Signs & Prayer’ CD."
-special-conditions: "This competition is also available on: http://club.expressly.io/competitons/\
-  \ stormzy-gang-sings-prayer-cd"
+special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
+  \ competition is also available on: http://club.expressly.io/competitons/ stormzy-gang-sings-prayer-cd"
 country-restrictions:
 - "GB"
 ---
