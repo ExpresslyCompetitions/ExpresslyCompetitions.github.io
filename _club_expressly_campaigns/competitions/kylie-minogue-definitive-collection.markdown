@@ -39,7 +39,8 @@ entry-content: "<p>Enter the draw to win Kylie Minogue Step Back In Time: The De
   \ Collection by completing the form below before 23:59 on the 15th of August 2019.</p>\n"
 has-winner: false
 prize-description: "Kylie Minogue Step Back In Time: The Definitive Collection"
-special-conditions: "This competition is also available on: http://aaa.nme.com/competitons/kylie-minogue-definitive-collection"
+special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
+  \ competition is also available on: http://aaa.nme.com/competitons/kylie-minogue-definitive-collection"
 country-restrictions:
 - "GB"
 ---
