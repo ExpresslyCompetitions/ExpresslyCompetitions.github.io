@@ -15,7 +15,7 @@ competition-description: "<p>Liam Gallagher is back and he returns with a new si
   \ want to hear it first? Click below for a chance to win.</p>\n"
 hero-header: "Win Liam Gallagher 'Why Me, Why Not' vinyl edition!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-26588240-860d-4ab8-9919-52acfee937b7.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-f0d53349-4a69-4f56-b7d4-900f67764b94.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3a778f07-b947-4f11-b07c-6a9de89e6eb4.jpg"
 logo-left-title: "NME AAA"
