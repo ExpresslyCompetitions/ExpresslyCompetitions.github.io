@@ -36,8 +36,7 @@ entry-content: "<p>Enter the draw to win Sh!thead Card Game by completing the fo
 has-winner: false
 prize-description: "Sh!thead Card Game"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
-  \ competition is also available on: \r\nhttp://club.expressly.io/competitons/\r\n\
-  sh!it-head-card-game"
+  \ competition is also available on: http://club.expressly.io/competitons/head-card-game"
 country-restrictions:
 - "GB"
 ---
