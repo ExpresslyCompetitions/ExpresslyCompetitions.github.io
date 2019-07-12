@@ -31,8 +31,8 @@ section1-content: "<p>Serfs Up! is Fat White Family's third album and their firs
   \ Serfs Up! was finished in late autumn 2018 with the help of long-time collaborator,\
   \ Liam D. May and features a guest appearance from Baxter Dury on Tastes Good With\
   \ The Money</p>\n<p>Enter the form below for a chance to win it now!</p>\n"
-entry-title: "Win Fat White Family  'Serfs Up' CD!"
-entry-content: "<p>Enter the draw to win Stranger Things Soundtrack Season 3 by completing\
+entry-title: "Win Fat White Family 'Serfs Up' CD!"
+entry-content: "<p>Enter the draw to win Fat White Family 'Serfs Up' CD by completing\
   \ the form below before 23:59 on the 13th of August 2019.</p>\n"
 has-winner: false
 prize-description: "Fat White Family  'Serfs Up' CD"
