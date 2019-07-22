@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-05-15T06:00:00.000Z"
 end-date: "2019-07-15T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Amazon's 'All-new Kindle'"
 competition-description: "<p>Meet the all-new Kindle, now with a built-in adjustable\
