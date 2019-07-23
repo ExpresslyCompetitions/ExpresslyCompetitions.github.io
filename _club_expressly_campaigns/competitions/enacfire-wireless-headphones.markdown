@@ -29,8 +29,8 @@ section1-content: "<p>Easy to pair and easy to enjoy, Enacfire bluetooth 5.0 Tru
   \ below for a chance to win them now!</p>\n<p>Wireless life is a trend, a new proposition.\
   \ Easy link, simple live. Good luck!</p>\n"
 entry-title: "Win a pair of Enacfire Wireless Headphones!"
-entry-content: "<p>Enter the draw to win a pair of Wireless Headphones by completing\
-  \ the form below before 23:59 on the 23rd of August 2019.</p>\n"
+entry-content: "<p>Enter the draw to win a pair of Enacfire Wireless Headphones by\
+  \ completing the form below before 23:59 on the 23rd of September 2019.</p>\n"
 has-winner: false
 prize-description: "A pair of Enacfire Wireless Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
