@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-24T06:00:00.000Z"
 end-date: "2019-09-24T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of Swarovski earrings!"
 competition-description: "<p>Keep it simple and chic with this elegant and feminine\
