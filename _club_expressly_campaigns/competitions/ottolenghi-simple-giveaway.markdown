@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-05-15T05:00:00.000Z"
 end-date: "2019-07-15T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Ottolenghi SIMPLE book!"
 competition-description: "<p>Yotam Ottolenghi’s award-winning recipes are always a\
