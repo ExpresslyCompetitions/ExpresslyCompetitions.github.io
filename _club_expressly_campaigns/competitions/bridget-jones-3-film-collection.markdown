@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-05-08T06:00:00.000Z"
 end-date: "2019-07-08T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Bridget Jones 3-Film Collection!"
 competition-description: "<p>We have on our hands one of the best movies of all times:\
