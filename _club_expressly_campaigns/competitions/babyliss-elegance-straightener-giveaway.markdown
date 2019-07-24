@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-04-24T07:00:00.000Z"
 end-date: "2019-06-24T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the BaByliss Elegance Straightener!"
 competition-description: "<p>Nothing better than achieving beautiful salon sleek hair.\
