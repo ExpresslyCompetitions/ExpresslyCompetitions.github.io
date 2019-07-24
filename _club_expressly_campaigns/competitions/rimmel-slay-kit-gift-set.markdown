@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-04-10T06:00:00.000Z"
 end-date: "2019-06-10T22:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The 360 Slay Kit Gift Set from Rimmel!"
 competition-description: "<p>Slay all year with the Rimmel 360 Slay Kit! From beginners\
