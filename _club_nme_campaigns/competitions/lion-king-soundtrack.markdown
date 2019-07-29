@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win The Lion King Soundtrack!"
-competition-description: "<p>Disney’s “The Lion King, directed by Jon Favreau, journeys\
+competition-description: "<p>Disney’s The Lion King, directed by Jon Favreau, journeys\
   \ to the African savanna where a future king is born. We are giving away a copy\
   \ of the original soundtrack of the movie to one lucky member to win. Unforgettable\
   \ music by an award-winning team, including Oscar and Grammy winning superstar Elton\
