@@ -30,7 +30,10 @@ section1-content: "<p>Get things going with Extra Bass! A passive radiator works
 entry-title: "Win The Sony Portable Speaker with extra bass!"
 entry-content: "<p>Enter the draw to win a Sony Portable Speaker with extra bass by\
   \ entering below before 23:59 on 15th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Emma F. who won the Sony Portable Speaker with extra\
+  \ bass!"
+winner-banner: "https://assets.expresslyapp.com/asset-60efd7de-b60e-4689-a23e-6627bc88e00e.jpg"
 prize-description: "The Sony Portable Speaker with extra bass!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/sony-compact-portable-speaker-giveaway"
