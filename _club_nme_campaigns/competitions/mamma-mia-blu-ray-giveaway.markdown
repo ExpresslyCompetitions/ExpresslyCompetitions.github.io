@@ -32,7 +32,9 @@ section1-content: "<p>You’re invited to return to the magical Greek island of 
 entry-title: "Win Mamma Mia on Blu-ray!"
 entry-content: "<p>Enter the draw to win Mamma Mia on Blu-ray by entering below before\
   \ 23:59 on 12th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michelle O. who won Mamma Mia on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-50f487d8-88bf-4a53-86c9-ab9bb568dc09.jpg"
 prize-description: "Mamma Mia on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/mamma-mia-blu-ray-giveaway"
