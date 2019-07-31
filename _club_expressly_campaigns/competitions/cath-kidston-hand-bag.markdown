@@ -32,7 +32,9 @@ section1-content: "<p>It all began in 1993 with a small shop in West London, sel
 entry-title: "Win Cath Kidston bag!"
 entry-content: "<p>Enter the draw to win Cath Kidston bag by completing the form below\
   \ before 23:59 on 4th March 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Amanda R. who won a fantastic bag from Cath Kidston!"
+winner-banner: "https://assets.expresslyapp.com/asset-6fa25123-3173-4c26-97ce-ebf6ccded9dc.jpg"
 prize-description: "Cath Kidston bag."
 special-conditions: "Enter the draw to win Cath Kidston bag by completing the form\
   \ below before 23:59 on 4th March 2019."
