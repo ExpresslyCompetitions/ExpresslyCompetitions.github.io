@@ -32,7 +32,9 @@ section1-content: "<p>The 10-song track “Encore” was produced by The Special
 entry-title: "Win The Specials 'Encore' CD!"
 entry-content: "<p>Enter the draw to win The Specials 'Encore' CD by entering below\
   \ before 23:59 on 6th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sarah R. who won The Specials 'Encore' CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-5340e75d-f349-4f16-b857-641b6225c2dd.jpg"
 prize-description: "The Specials 'Encore' CD."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
