@@ -29,7 +29,10 @@ section1-content: "<p>Stainless Steel Chopping Blades, Includes Jug & 4 Cups, 2 
 entry-title: "Win Andrew James Smoothie Maker!"
 entry-content: "<p>Enter the draw to win Win Andrew James Smoothie Maker!\nby entering\
   \ below before 23:59 on 19th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Maria G. who won the amazing Andrew James Smoothie\
+  \ Maker machine!"
+winner-banner: "https://assets.expresslyapp.com/asset-d3c899d2-5fed-49b7-a29c-737de01cf1e7.jpg"
 prize-description: "Andrew James Smoothie Maker!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/andrew-james-prize-smoothie"
