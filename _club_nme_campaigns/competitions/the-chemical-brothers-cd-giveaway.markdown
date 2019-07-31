@@ -35,7 +35,10 @@ section1-content: "<p>Following on from the critical and commercial success of t
 entry-title: "Win The Chemical Brothers ‘ No Geographic’ CD!"
 entry-content: "<p>Enter the draw to win The Chemical Brothers ‘ No Geographic’ CD\
   \ by entering below before 23:59 on 16th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carol G. who won  The Chemical Brothers ‘ No Geographic’\
+  \ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-4bbb781d-09b7-4779-9780-a521b19cba20.jpg"
 prize-description: "The Chemical Brothers ‘ No Geographic’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/the-chemical-brothers-cd-giveaway"
