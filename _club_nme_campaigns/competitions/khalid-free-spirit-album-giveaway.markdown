@@ -30,7 +30,9 @@ section1-content: "<p>Featuring different artists such as John Mayer and SAFE th
 entry-title: "Win Khalid ‘Free Spirit’ new album!"
 entry-content: "<p>Enter the draw to win Khalid ‘Free Spirit’ new album by entering\
   \ below before 23:59 on 11th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Graham D. who won Khalid ‘Free Spirit’ new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-d14fe04c-cd87-4e03-a9a0-1cf7ce6b4ed9.jpg"
 prize-description: "Khalid ‘Free Spirit’ new album"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/khalid-free-spirit-album-giveaway"
