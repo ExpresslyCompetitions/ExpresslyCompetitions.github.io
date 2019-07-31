@@ -34,7 +34,9 @@ entry-title: "Win Lewis Capaldi ‘Divinely Uninspired To A Hellish Extent’ ne
 entry-content: "<p>Enter the draw to win ewis Capaldi ‘Divinely Uninspired To A Hellish\
   \ Extent’ new album by completing the form below before 23:59 on the 21st of June\
   \  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Isobel G. who won Lewis Capaldi cd!"
+winner-banner: "https://assets.expresslyapp.com/asset-6df5c74c-06d2-490c-9130-8afcd4f4a1e6.jpg"
 prize-description: "Lewis Capaldi ‘Divinely Uninspired To A Hellish Extent’ new album."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/lewis-capaldi-new-album"
