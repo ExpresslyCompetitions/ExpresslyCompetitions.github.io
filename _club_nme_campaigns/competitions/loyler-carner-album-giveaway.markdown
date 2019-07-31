@@ -31,7 +31,10 @@ section1-content: "<p>Loyle's album is the most personal album to date. It's fif
 entry-title: "Win Loyle Carner 'Not Waving, But Drowning' CD!"
 entry-content: "<p>Enter the draw to win  Loyle Career 'Not Waving, But Drowning'\
   \ CD by entering below before 23:59 on 27th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to George S. who won Loyle Carner 'Not Waving, but\
+  \ Drowning' CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-5cdc9d22-c85c-4d59-8eff-d72543403bb4.jpg"
 prize-description: "Loyle Carner 'Not Waving, But Drowning' CD."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
