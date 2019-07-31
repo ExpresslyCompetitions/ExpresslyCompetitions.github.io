@@ -44,7 +44,9 @@ section3-content: "<p>T2 Tea is sourced from the finest seasonal ingredients fro
 entry-title: "Win 'For the Love of Tea' Gift Box from T2 Tea!"
 entry-content: "<p>Enter the draw to win J'For the Love of Tea' Gift Box from T2 Tea\
   \ by entering below before 23:59 on 13th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jane S. who won a delicious Gift Box from T2 Tea!"
+winner-banner: "https://assets.expresslyapp.com/asset-8bc4c40f-23bb-4746-8b24-0469689f5366.jpg"
 prize-description: "A 'For the Love of Tea' Gift Box from T2 Tea including: China\
   \ Jasmine, French Earl Grey, Gorgeus Geisha, Just Peppermint, Lemongrass & Ginger,\
   \ Strawberry Sensation, Tummy Tea, Melbourne Breakfast & New York Breakfast."
