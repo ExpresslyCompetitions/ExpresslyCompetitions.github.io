@@ -33,7 +33,9 @@ section1-content: "<p>You’re The Man is the first-ever planned “lost” Taml
 entry-title: "Win Marvin Gaye ‘You’re the Man’ vinyl!"
 entry-content: "<p>Enter the draw to win Marvin Gaye ‘You’re the Man’ vinyl! by entering\
   \ below before 23:59 on 3rd of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Martin B. who won Marvin Gaye ‘You’re the Man’ vinyl!"
+winner-banner: "https://assets.expresslyapp.com/asset-ff2e2b8a-a673-4ed8-bf5e-f29f8e7946dd.jpg"
 prize-description: "Marvin Gaye ‘You’re the Man’ vinyl"
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
