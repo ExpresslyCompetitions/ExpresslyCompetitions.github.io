@@ -32,7 +32,10 @@ section1-content: "<p>Recorded just over a month after the release of ‘Nevermi
 entry-title: "Win Nirvana Live at the Paramount vinyl!"
 entry-content: "<p>Enter the draw to win Nirvana Live at the Paramount vinyl by entering\
   \ below before 23:59 on 17th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jacqueline A. who won Nirvana Live at the Paramount\
+  \ vinyl."
+winner-banner: "https://assets.expresslyapp.com/asset-c775ebe2-764a-4a67-b8fd-650998c82990.jpg"
 prize-description: "Nirvana Live at the Paramount vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
