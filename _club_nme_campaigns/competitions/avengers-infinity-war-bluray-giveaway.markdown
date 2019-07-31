@@ -30,7 +30,9 @@ section1-content: "<p>The Avengers and their Super Hero allies must be willing t
 entry-title: "Win The Avengers Infinity War on Blu-ray!"
 entry-content: "<p>Enter the draw to win The Avengers Infinity War on Blu-ray by completing\
   \ the form below before 23:59 on 30th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sue L. who won The Avengers on Blu.ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-f92ed14a-cbf9-4e53-a332-80137a18d673.jpg"
 prize-description: "The Avengers Infinity War on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/avengers-infinity-war-bluray"
