@@ -31,7 +31,10 @@ section1-content: "<p>Starring Julia Roberts, Owen Wilson, Jacob Tremblay, Mandy
 entry-title: "Win Julia Robert’s ‘Wonder’ on DVD!"
 entry-content: "<p>Enter the draw to win Julia Robert’s ‘Wonder’ on DVD by entering\
   \ below before 23:59 on 3rd of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lucinda J,B. who won the amazing Julia Roberts movie\
+  \ 'Wonder' on DVD!"
+winner-banner: "https://assets.expresslyapp.com/asset-eb5084bc-6dde-4372-8ad7-4d3003e323be.jpg"
 prize-description: "Julia Robert’s ‘Wonder’ on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
