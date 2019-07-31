@@ -34,7 +34,9 @@ section1-content: "<p>This amazing perfume scent seizes the attention with a fla
 entry-title: "Win Gucci Guilty Eau de Toilette for Women!"
 entry-content: "<p>Enter the draw to win Gucci Guilty Eau de Toilette for Women by\
   \ completing the form below before 23:59 on 23rd of March 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joanne M. who won the best perfume from Gucci!"
+winner-banner: "https://assets.expresslyapp.com/asset-3b1a9a7b-c433-4437-a69f-1a2f89ea93a2.jpg"
 prize-description: "Gucci Guilty Eau de Toilette for Women!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
