@@ -31,7 +31,9 @@ section1-content: "<p>The Black Keys' ninth studio album is finally here! 'Let's
 entry-title: "Win The Black Keys new album: ‘Let’s Rock’"
 entry-content: "<p>Enter the draw to win The Black Keys new album: ‘Let’s Rock’ by\
   \ completing the form below before 23:59 on the 17th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joe F. who won The Black Keys 'Let's Rock' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-f63683f5-f96f-414c-8199-45654df68c13.jpg"
 prize-description: "The Black Keys new album: ‘Let’s Rock’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/the-black-keys-lets-rock"
