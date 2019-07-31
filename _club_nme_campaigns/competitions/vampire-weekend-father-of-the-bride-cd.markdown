@@ -29,7 +29,9 @@ section1-content: "<p>Produced by Ariel Rechtshaid and frontman Ezra Koenig,‘F
 entry-title: "Win Vampire Weekend ‘Father Of The Bride’ album!"
 entry-content: "<p>Enter the draw to win Vampire Weekend ‘Father Of the Bride’ album\
   \ by completing the form below before 23:59 on the 9th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Alex C. who won Vampire Weekend album!"
+winner-banner: "https://assets.expresslyapp.com/asset-058e63ac-a1fa-43fa-9f17-659bc91f4c4c.jpg"
 prize-description: "Vampire Weekend ‘Father Of The Bride’ album."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/vampire-weekend-father-of-the-bride-cd"
