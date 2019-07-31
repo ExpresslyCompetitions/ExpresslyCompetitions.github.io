@@ -29,7 +29,10 @@ section1-content: "<p>This collection provides the listener with an intimate ins
 entry-title: "Win Bob Dylan ‘The Rolling Thunder Revue’ Box Set!"
 entry-content: "<p>Enter the draw to win Bob Dylan ‘The Rolling Thunder Revue’ Box\
   \ Set\nby completing the form below before 23:59 on the 6th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joshua W. who won Bob Dylan 'The Rolling Thunder\
+  \ Revue' Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-bb186d6a-cae8-45c5-bfab-5dbd463d7bc6.jpg"
 prize-description: "Bob Dylan ‘The Rolling Thunder Revue’ Box Set."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/bob-dylan-rolling-thunder-revenue"
