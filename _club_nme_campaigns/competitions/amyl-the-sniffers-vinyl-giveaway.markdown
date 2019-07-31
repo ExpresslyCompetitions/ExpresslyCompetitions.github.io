@@ -30,7 +30,9 @@ section1-content: "<p>The debut album from Amyl and the Sniffers is the sound of
 entry-title: "Win Amyl & The Sniffers vinyl!"
 entry-content: "<p>Enter the draw to win  Amyl &amp; The Sniffers vinyl by completing\
   \ the form below before 23:59 on the 25th  of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to William H. who won Amyl & the Sniffers vinyl!"
+winner-banner: "https://assets.expresslyapp.com/asset-b1e8ea03-cce0-4048-9af9-8cc0fdefaf9d.jpg"
 prize-description: "Amyl & The Sniffers vinyl."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
