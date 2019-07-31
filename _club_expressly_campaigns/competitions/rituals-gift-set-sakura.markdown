@@ -32,7 +32,10 @@ section1-content: "<p>For centuries, the Japanese have celebrated the annual flo
 entry-title: "Win 'The Ritual of Sakura' from Rituals!"
 entry-content: "<p>Enter the draw to win  'The Ritual of Sakura' from Rituals\nby\
   \ completing the form below before 23:59 on the 7th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Graham W. who won the amazing Sakura Gift Pack from\
+  \ Rituals!"
+winner-banner: "https://assets.expresslyapp.com/asset-585f903e-e2b4-4110-bbd6-3872307f0e2b.jpg"
 prize-description: "'The Ritual of Sakura' from Rituals."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
