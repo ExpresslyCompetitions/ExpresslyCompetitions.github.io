@@ -33,7 +33,10 @@ section1-content: "<p>‘Timeless: The All-Time Greatest Hits’ is the new care
 entry-title: "Win The Bee Gees ‘Timeless: The All Time Greatest Hits’ CD!"
 entry-content: "<p>Enter the draw to the Bee Gees ‘Timeless: The All Time Greatest\
   \ Hits’ CD\nby entering below before 23:59 on 4th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Denis O. who won The Bee Gees ‘Timeless: The All\
+  \ Time Greatest Hits’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-82fb107d-9088-4207-b2fe-553dbf5ddf43.jpg"
 prize-description: "The Bee Gees ‘Timeless: The All Time Greatest Hits’ CD."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/bee-gees-compilation-cd-giveaway"
