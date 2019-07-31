@@ -32,7 +32,9 @@ section1-content: "<p>Cybertron has fallen. When Optimus Prime sends Bumblebee t
 entry-title: "Win Bumblebee on Blu-ray!"
 entry-content: "<p>Enter the draw to win Bumblebee on Blu-ray by completing the form\
   \ below before 23:59 on the 16th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Patrick L. who won Bumblebee on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-5cd411a5-34ad-43fd-982e-7a18b99f95b4.jpg"
 prize-description: "Bumblebee on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
