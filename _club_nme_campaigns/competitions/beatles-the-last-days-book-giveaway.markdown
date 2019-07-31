@@ -40,7 +40,10 @@ section1-content: "<p>This is the story of the last acrimonious days of the Beat
 entry-title: "Win ‘And in the End: The Last Days of the Beatles’ book!"
 entry-content: "<p>Enter the draw to win ‘And in the End: The Last Days of the Beatles’\
   \ book by entering below before 23:59 on 23rd of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gill C. who won ‘And in the End: The Last Days of\
+  \ the Beatles’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-b4dfee30-4ed9-4f49-a8f5-947467cb2e88.jpg"
 prize-description: "‘And in the End: The Last Days of the Beatles’ book!"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/beatles-the-last-days-book-giveaway"
