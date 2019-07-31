@@ -34,7 +34,9 @@ section1-content: "<p>Marina used her break as a period of reflection and to red
 entry-title: "Win Marina Love+Fear CD!"
 entry-content: "<p>Enter the draw to win Marina Love+Fear cd by entering below before\
   \ 23:59 on 29th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Denis O. who won Marina Love+Fear CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-05576776-465d-402e-8451-a54e6778d067.jpg"
 prize-description: "Marina Love+Fear cd."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/marina-love-fear-cd"
