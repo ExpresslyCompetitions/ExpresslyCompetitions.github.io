@@ -29,7 +29,9 @@ section1-content: "<p>To ensure the fine detail of La Boheme and the 2\_hand qua
 entry-title: "Win Cluse La Boheme watch!"
 entry-content: "<p>Enter the draw to win Cluse La Boheme watch\nby completing the\
   \ form below before 23:59 on 25th of February 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rachel C. who won a Cluse watch!"
+winner-banner: "https://assets.expresslyapp.com/asset-abecfc51-2f43-4782-9145-540ea8d9c076.jpg"
 prize-description: "Cluse La Boheme watch in black."
 country-restrictions:
 - "GB"
