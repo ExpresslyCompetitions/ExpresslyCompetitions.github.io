@@ -41,7 +41,9 @@ section1-content: "<p>Tom Kerridge is a professional English chef who has worked
 entry-title: "Win Tom Kerridge's Fresh Start book!"
 entry-content: "<p>Enter the draw to win Tom Kerridge's Fresh Start book by completing\
   \ the form below before 23:59 on 9th of February 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chris M. who won the best book ever from Tom Kerridge!"
+winner-banner: "https://assets.expresslyapp.com/asset-e3d4d9bb-e1bc-4029-b890-d526b12bef7b.jpg"
 prize-description: "Tom Kerridge's Fresh Start book."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
