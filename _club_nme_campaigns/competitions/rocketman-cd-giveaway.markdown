@@ -29,7 +29,9 @@ section1-content: "<p>Rocketman is a 2019 biographical musical drama film based 
 entry-title: "Win Rocketman soundtrack CD!"
 entry-content: "<p>Enter the draw to win Rocketman soundtrack CD  by completing the\
   \ form below before 23:59 on the 28th  of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kevin W. who won the soundtrack of the year: Rocketman!"
+winner-banner: "https://assets.expresslyapp.com/asset-a982a86c-8616-4d9d-855b-297fa69c9aba.jpg"
 prize-description: "Rocketman soundtrack CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/rocketman-cd-giveaway"
