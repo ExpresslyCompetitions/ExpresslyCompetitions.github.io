@@ -34,7 +34,10 @@ section1-content: "<p>Dreamboats and Petticoats, the beloved album series, bring
 entry-title: "Win Dreamboats And Petticoats best hits!"
 entry-content: "<p>Enter the draw to win Dreamboats And Petticoats best hits by entering\
   \ below before 23:59 on 22th of May 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gerri T. who won Dreamboats And Petticoats best\
+  \ hits!"
+winner-banner: "https://assets.expresslyapp.com/asset-36e49317-e965-48d1-93c7-f4cc1fc21a8e.jpg"
 prize-description: "Dreamboats And Petticoats best hits."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/dreamboats-petticoats-hits-cd"
