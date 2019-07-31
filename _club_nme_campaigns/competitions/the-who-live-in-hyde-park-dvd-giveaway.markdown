@@ -31,7 +31,10 @@ section1-content: "<p>On a glorious summer evening the band delivered a brillian
 entry-title: "Win ‘The Who: Live in Hyde Park’ DVD!"
 entry-content: "<p>Enter the draw to win ‘The Who: Live in Hyde Park’ DVD by completing\
   \ the form below before 23:59 on the 13th of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Roger O. who won the DVD of 'The Who: Live in Hyde\
+  \ Park'"
+winner-banner: "https://assets.expresslyapp.com/asset-c66d4984-ade4-4b71-8218-45370352ad09.jpg"
 prize-description: "‘The Who: Live in Hyde Park’ DVD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/the-who-live-in-hyde-park-dvd-giveaway"
