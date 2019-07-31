@@ -40,7 +40,10 @@ entry-title: "Win ‘Prince and the Purple Rain Era Studio Sessions: 1983 and 19
 entry-content: "<p>Enter the draw to win  ‘Prince and the Purple Rain Era Studio Sessions:\
   \ 1983 and 1984’ book by completing the form below before 23:59 on the 10th of June\
   \  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tom L. who won 'Prince and the Purple Rain Era Studio\
+  \ Sessions: 1983 and 1984’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-4f335683-3e15-4d89-90af-1df7aeaad5cd.jpg"
 prize-description: "‘Prince and the Purple Rain Era Studio Sessions: 1983 and 1984’\
   \ book!"
 special-conditions: "This competition is also available on: https://aaa.nme.com/competitions/prince-purple-rain-book\r\
