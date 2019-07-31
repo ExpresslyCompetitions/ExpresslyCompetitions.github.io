@@ -38,7 +38,10 @@ section1-content: "<p>I Am Easy to Find is a 24-minute film by Mills starring Al
 entry-title: "Win The National ‘I Am Easy To Find’ CD!"
 entry-content: "<p>Enter the draw to win The National ‘I Am Easy To Find’ CD by completing\
   \ the form below before 23:59 on the 24th  of June  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Katy L. who won The National 'I Am Easy To Find'\
+  \ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-c271f33d-7012-4387-a7b2-b7cf96dace7c.jpg"
 prize-description: "The National ‘I Am Easy To Find’ CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/he-national-cd-giveaway"
