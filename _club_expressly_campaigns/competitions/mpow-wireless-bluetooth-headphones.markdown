@@ -33,7 +33,10 @@ section1-content: "<p>Drawing on extensive research and development, Mpow headph
 entry-title: "Win a pair of Mpow Wireless Bluetooth Headphones!"
 entry-content: "<p>Enter the draw to win  a pair of Mpow Wireless Bluetooth Headphones\
   \ by entering below before 23:59 on 25th of April 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Martin R. who won a pair of Mpow Wireless Bluetooth\
+  \ Headphones!"
+winner-banner: "https://assets.expresslyapp.com/asset-535103da-c24e-492f-a1bb-036941b45800.jpg"
 prize-description: "A pair of Mpow Wireless Bluetooth Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://aaa.nme.com/competitions/\r\nmpow-wireless-bluetooth-headphones"
