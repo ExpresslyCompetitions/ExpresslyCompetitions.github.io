@@ -37,7 +37,9 @@ section1-content: "<p>Free Solo is an edge-of-your seat thriller and an inspirin
 entry-title: "Win ‘Free Solo’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘Free Solo’ on Blu-ray by entering below\
   \ before 23:59 on 18th of April 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ian F. who won 'Free Solo' on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-fa8b727f-67e7-4b0d-bd4e-ac700c94d335.jpg"
 prize-description: "‘Free Solo’ on Blu-ray."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/\r\nfree-solo-blu-ray-giveaway"
