@@ -38,7 +38,10 @@ section1-content: "<p>‘Seven Days Walking’: seven bodies of music to be rele
 entry-title: "Win Ludovico Einaudi ‘Seven Days Walking, Day One’ CD!"
 entry-content: "<p>Enter the draw to win Ludovico Einaudi ‘Seven Days Walking, Day\
   \ One’ CD by entering below before 23:59 on 26th of April 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Andrea T. who won the amazing album of Ludovico\
+  \ Einaudi"
+winner-banner: "https://assets.expresslyapp.com/asset-fae5696b-d08c-4851-b2d8-d60282084249.jpg"
 prize-description: "Ludovico Einaudi ‘Seven Days Walking, Day One’ CD"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/\r\nludovico-einaudi-seven-days-walking-cd"
