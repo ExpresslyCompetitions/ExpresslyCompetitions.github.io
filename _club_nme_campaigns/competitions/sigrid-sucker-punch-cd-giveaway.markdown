@@ -33,7 +33,9 @@ section1-content: "<p>Sigrid’s defiant pop was catapulted into the public cons
 entry-title: "Win Sigrid ‘Sucker Punch’ CD!"
 entry-content: "<p>Enter the draw to winSigrid ‘Sucker Punch’ CD by entering below\
   \ before 23:59 on 19th of April 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Natalie W. who won Sigrid 'Sucker Punch' CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-2366df8c-94d3-46ad-8198-7c7326700dcc.jpg"
 prize-description: "Sigrid ‘Sucker Punch’ CD"
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/sigrid-sucker-punch-cd-giveaway"
