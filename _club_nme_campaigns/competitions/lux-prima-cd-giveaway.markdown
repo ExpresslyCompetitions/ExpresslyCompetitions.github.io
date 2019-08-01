@@ -35,7 +35,10 @@ section2-content: "<p>'Lux Prima' captures two greats adding to both of their le
 entry-title: "Win Karen O and Danger Mouse ‘Lux Prima’ CD!"
 entry-content: "<p>Enter the draw to win Karen O and Danger Mouse ‘Lux Prima’ CD by\
   \ entering below before 23:59 on 16th of April 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rachel C. who won Karen O and Danger Mouse ‘Lux\
+  \ Prima’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-3cf4bd50-83c7-4ecc-bf7a-8c6d70b95af2.jpg"
 prize-description: "Karen O and Danger Mouse ‘Lux Prima’ CD."
 special-conditions: "Multiple entries are allowed up to one every day"
 country-restrictions:
