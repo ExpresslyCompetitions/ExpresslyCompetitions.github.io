@@ -38,7 +38,10 @@ section1-content: "<p>Isaac's dad and godfather both worked in kitchens, so Isaa
 entry-title: "Win Isaac Carew ‘The Dirty Dishes’ book!"
 entry-content: "<p>Enter the draw to win Isaac Carew ‘The Dirty Dishes’ book by entering\
   \ below before 23:59 on 15th of April 2019.\n\_</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Nicholas S. who won Isaac Carew ‘The Dirty Dishes’\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-d8ba53fa-0048-42a1-af4c-a65de54d0faa.jpg"
 prize-description: "Isaac Carew ‘The Dirty Dishes’ book."
 special-conditions: "Multiple entries are allowed up to one every day\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/\r\nisaac-carew-the-dirty-dishes-book"
