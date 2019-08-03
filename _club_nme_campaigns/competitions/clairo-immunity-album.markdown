@@ -39,5 +39,5 @@ has-winner: false
 prize-description: "Clairo 'Immunity' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
-- "US"
+- "GB"
 ---
