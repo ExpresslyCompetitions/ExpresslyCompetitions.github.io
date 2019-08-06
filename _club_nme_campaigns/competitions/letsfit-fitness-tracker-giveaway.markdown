@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win a LetsFit Fitness tracker!"
 competition-description: "<p>We are giving away an amazing Fitness tracker from LetsFit!\
-  \ The slimmest and styliest smart fitness watch that tracks your activities throughout\
+  \ The slimmest and stylist smart fitness watch that tracks your activities throughout\
   \ the day. This smart bracelet can automatically record your daily activities, such\
   \ as steps, calories burned and minutes of activity.</p>\n<p>A Healthy life good\
   \ companion, enter below for a chance to win!</p>\n"
