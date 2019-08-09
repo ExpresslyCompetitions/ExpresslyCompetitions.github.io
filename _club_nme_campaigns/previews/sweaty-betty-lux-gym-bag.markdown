@@ -28,10 +28,12 @@ section1-content: "<p>Going to the gym has never been so stylish!\_Let us introd
   \ workouts to work. Quilted woven fabric, lightweight, multiple pockets... this\
   \ beautiful bag will become your best friend for the studio and weekends away!</p>\n"
 section2-content: "<p>The perfect gym bag in every way. This smart and glam bag has\
-  \ everything you are looking for: \n<ol>\n<li>Quilted woven fabric</li>\n<li>Internal\
-  \ and external pockets</li>\n<li>Waterproof, lighweight</li>\n</ol>\n<p>The best\
-  \ companion for the studio and weekends away! Click below to buy it now and enjoy\
-  \ our exclusive discount!</p>\n"
+  \ everything you are looking for: \n<ol>\n<li>Quilted woven fabric is durable and\
+  \ lightweight</li>\n<li>Internal and external pockets for valuables and yoga mat\
+  \ strap</li>\n<li>Waterproof, lighweight</li>\n<li>Perfect for the studio and weekends\
+  \ away</li>\n<li>Dimensions: H 26cm x W 43cm x D 24cm</li>\n</ol>\n<p>The best companion\
+  \ for the studio and weekends away! Click below to buy it now and enjoy our exclusive\
+  \ discount!</p>\n"
 entry-title: "Get Sweaty Betty Lux Gym Bag!"
 entry-content: "<p>Enter below to buy Sweaty Betty Lux Gym Bag before 23:59 on the\
   \ 13th of September 2019.</p>\n"
