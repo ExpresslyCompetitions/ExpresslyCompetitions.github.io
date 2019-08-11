@@ -10,10 +10,10 @@ has_entry_page: true
 title: "Win Peaky Blinders series 1-4!"
 competition-description: "<p>Thomas Shelby heads up one of Birmingham's most feared\
   \ criminal organisations. But when he sees an opportunity to move up in the world,\
-  \ it becomes clear that his ambition knows no bounds. Do you which series are we\
-  \ talking about? we are pretty sure you do…. we are talking about the show of the\
-  \ moment: Peaky Blinders!</p>\n<p>We are giving away the full series 1- 4 for you\
-  \ to get stuck into! Enter below for a chance to win.</p>\n"
+  \ it becomes clear that his ambition knows no bounds. Do you know which series are\
+  \ we talking about? we are pretty sure you do…. we are talking about the show of\
+  \ the moment: Peaky Blinders!</p>\n<p>We are giving away the full series 1- 4 for\
+  \ you to get stuck into! Enter below for a chance to win.</p>\n"
 hero-header: "Win Peaky Blinders series 1-4!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-aea86f35-fcc6-4f21-aa41-f9f08795ae14.jpg"
