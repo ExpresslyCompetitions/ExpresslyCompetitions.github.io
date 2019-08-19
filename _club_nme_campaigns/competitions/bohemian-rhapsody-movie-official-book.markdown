@@ -9,7 +9,7 @@ is_promoted: false
 has_entry_page: true
 title: "Win Bohemian Rhapsody: The Official Book of the Movie!"
 competition-description: "<p>We have on our hands Bohemian Rhapsody: The Official\
-  \ Book of the Movie to giveaway to one lucky Queen fan! See how 1970s London, Live\
+  \ Book of the Movie to give away to one lucky Queen fan! See how 1970s London, Live\
   \ Aid and many other pivotal moments and places in the history of the band were\
   \ recreated for the film, with then-and-now imagery highlighting how carefully the\
   \ people, events, music and costumes were recreated for this hotly anticipated movie.</p>\n\
