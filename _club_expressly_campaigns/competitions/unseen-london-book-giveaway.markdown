@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-06-05T09:00:00.000Z"
 end-date: "2019-08-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Unseen London' book!"
 competition-description: "<p>From Tower Bridge to Battersea Power Station, Big Ben\
