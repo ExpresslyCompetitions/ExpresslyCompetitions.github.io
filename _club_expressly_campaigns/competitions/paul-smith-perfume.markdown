@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-06-19T06:00:00.000Z"
 end-date: "2019-08-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Paul Smith Perfume!"
 competition-description: "<p>Fresh. Modern. Airy. Individual. Addictive. Sensual.\
