@@ -29,7 +29,7 @@ section1-content: "<p>It’s been a long time coming, but its finally here, Mabe
   \ luck!</p>\n"
 entry-title: "Win Mabel ‘High Expectations’ album!"
 entry-content: "<p>Enter the draw to win Mabel ‘High Expectations’ album by completing\
-  \ the form below before 23:59 on the 19th of September 2019.</p>\n"
+  \ the form below before 23:59 on the 22nd of September 2019.</p>\n"
 has-winner: false
 prize-description: "Mabel ‘High Expectations’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
