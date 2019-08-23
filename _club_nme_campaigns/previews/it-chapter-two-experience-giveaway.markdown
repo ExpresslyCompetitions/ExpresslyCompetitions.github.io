@@ -7,8 +7,8 @@ end-date: "2019-08-26T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win an overnight stay in London, tickets for entry to the Vaults experience\
-  \ and an exclusive screening of IT Chapter Two!"
+title: "Win an overnight stay in London with AAA tickets for the Vaults experience\
+  \ and a screening of IT Chapter Two!"
 competition-description: "<p>Win an overnight stay in London with AAA tickets for\
   \ entry to the Vaults experience, followed by an exclusive screening of IT Chapter\
   \ Two!</p>\n<p>To celebrate the global release of 2017’s smash hit horror IT, NME\
@@ -18,8 +18,8 @@ competition-description: "<p>Win an overnight stay in London with AAA tickets fo
   \ decaying ruins of the Neibolt House itself. Then you’ll get to see IT Chapter\
   \ Two before almost anyone. And you might even get to meet some of the film’s cast\
   \ too.</p>\n<p>Enter below for a chance to win.</p>\n"
-hero-header: "Win an overnight stay in London, tickets for entry to the Vaults experience\
-  \ and an exclusive screening of IT Chapter Two!"
+hero-header: "Win an overnight stay in London with AAA tickets for the Vaults experience\
+  \ and a screening of IT Chapter Two!"
 terms-confirmation: "IT-2-terms-and-conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-3c858774-5b7e-443a-a640-e8a718087da2.jpg"
 logo-left-href: "aaa.nme.com"
@@ -40,8 +40,8 @@ section2-content: "<p>We’ll offer you a night in a London hotel, transfers fro
   \ experience takes place on Sunday, September 1st. Enter the draw below to win tickets\
   \ to the Vault experience and overnight stay in London by entering below before\
   \ 23:59 on 26th August 2019.</p>\n"
-entry-title: "Win an overnight stay in London, tickets for entry to the Vaults experience\
-  \ and an exclusive screening of IT Chapter Two!"
+entry-title: "Win an overnight stay in London with AAA tickets for the Vaults experience\
+  \ and a screening of IT Chapter Two!"
 entry-content: "<p>Enter the draw below to win tickets to the Vault experience and\
   \ overnight stay in London by entering below before 23:59 on 26th August 2019.</p>\n"
 has-winner: false
