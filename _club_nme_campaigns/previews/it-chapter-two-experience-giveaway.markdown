@@ -26,8 +26,8 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b4a6a69e-9999-4c3a-b8cd-71d7a1985784.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-04aad79c-011f-4f6c-91c5-12aaa7d37653.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-1dcce1be-3fef-4fb0-a52d-4a5cbdedb8e1.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-22ffd7e1-186e-4ce5-9c0b-77b2bf525447.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-6f007034-c93a-45af-904d-af9c51fa4959.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-6e472aeb-eb3d-48a1-8136-c812a7c972a6.jpg"
 section1-content: "<p>To celebrate the global release of 2017’s smash hit horror IT,\
   \ NME has teamed up with the creators of 2019’s must see sequel, IT Chapter Two,\
   \ to offer two pairs of you AAA entry to the Vaults experience in Waterloo, London.\
