@@ -1,8 +1,8 @@
 ---
 campaign-uuid: "c-2f2fd425-1642-4dd3-a291-be7f4d4602f5"
-type: "Preview"
+type: "Competition"
 category: "Tickets"
-date: "2019-08-23T16:00:00.000Z"
+date: "2019-08-23T12:00:00.000Z"
 end-date: "2019-08-26T23:59:00.000Z"
 disable-form: false
 is_promoted: true
