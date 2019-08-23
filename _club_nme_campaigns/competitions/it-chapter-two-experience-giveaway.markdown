@@ -3,7 +3,7 @@ campaign-uuid: "c-2f2fd425-1642-4dd3-a291-be7f4d4602f5"
 type: "Competition"
 category: "Tickets"
 date: "2019-08-23T12:00:00.000Z"
-end-date: "2019-08-26T23:59:00.000Z"
+end-date: "2019-08-28T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -20,7 +20,7 @@ competition-description: "<p>Win an overnight stay in London with AAA tickets fo
   \ too.</p>\n<p>Enter below for a chance to win.</p>\n"
 hero-header: "Win an overnight stay in London with AAA tickets for the Vaults experience\
   \ and a screening of IT Chapter Two!"
-terms-confirmation: "IT-2-terms-and-conditions.pdf"
+terms-confirmation: "IT 2 2019 Terms and conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-3c858774-5b7e-443a-a640-e8a718087da2.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-b4a6a69e-9999-4c3a-b8cd-71d7a1985784.jpg"
@@ -39,11 +39,11 @@ section2-content: "<p>We’ll offer you a night in a London hotel, transfers fro
   \ airport or railway station and we’ll even throw in breakfast too.</p>\n<p>The\
   \ experience takes place on Sunday, September 1st. Enter the draw below to win tickets\
   \ to the Vault experience and overnight stay in London by entering below before\
-  \ 23:59 on 26th August 2019.</p>\n"
+  \ 23:59 on 28th August 2019.</p>\n"
 entry-title: "Win an overnight stay in London with AAA tickets for the Vaults experience\
   \ and a screening of IT Chapter Two!"
 entry-content: "<p>Enter the draw below to win tickets to the Vault experience and\
-  \ overnight stay in London by entering below before 23:59 on 26th August 2019.</p>\n"
+  \ overnight stay in London by entering below before 23:59 on 28th August 2019.</p>\n"
 has-winner: false
 prize-description: "An overnight stay in London, tickets for entry to the Vaults experience\
   \ and an exclusive screening of IT Chapter Two!"
