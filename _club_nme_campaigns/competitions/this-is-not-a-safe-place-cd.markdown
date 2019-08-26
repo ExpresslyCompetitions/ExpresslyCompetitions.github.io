@@ -2,7 +2,7 @@
 campaign-uuid: "c-229d4d49-2661-4c0c-b779-6632d8fdfd7b"
 type: "Competition"
 category: "Music"
-date: "2019-08-19T10:33:58.819Z"
+date: "2019-08-19T10:33:59.000Z"
 end-date: "2019-09-19T09:00:00.000Z"
 disable-form: false
 is_promoted: false
