@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-06-26T07:00:00.000Z"
 end-date: "2019-08-26T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Sony Premium Xtra Bass Headphones!"
 competition-description: "<p>The perfect pairing for those who live life on the go.\
