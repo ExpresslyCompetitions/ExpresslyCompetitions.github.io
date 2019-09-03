@@ -28,7 +28,7 @@ section1-content: "<p>The Kaiser Chiefs have released six original studio albums
   \ a copy to you. Enter below for a chance to win.</p>\n"
 entry-title: "Win Kaiser Chiefs ‘Duck’ album!"
 entry-content: "<p>Enter the draw to win Kaiser Chiefs ‘Duck’ by completing the form\
-  \ below before 23:59 on the 30th of September 2019.</p>\n"
+  \ below before 23:59 on the 03th of September 2019.</p>\n"
 has-winner: false
 prize-description: "Kaiser Chiefs ‘Duck’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
