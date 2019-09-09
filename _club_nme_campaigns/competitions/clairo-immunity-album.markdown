@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-08-03T07:00:00.000Z"
 end-date: "2019-09-03T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Clairo 'Immunity' album!"
 competition-description: "<p>In 2018, multi-instrumentalist, songwriter and producer\
