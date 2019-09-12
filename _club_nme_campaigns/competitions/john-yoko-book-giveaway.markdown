@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-10T06:00:00.000Z"
 end-date: "2019-09-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Imagine John Yoko book!"
 competition-description: "<p>Imagine John Yoko is the definitive inside story told\
