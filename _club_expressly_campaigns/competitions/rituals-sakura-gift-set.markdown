@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-06-26T06:00:00.000Z"
 end-date: "2019-08-26T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the Ritual of Sakura Gift Set!"
 competition-description: "<p>Rituals helps you slow down, to find happiness in the\
