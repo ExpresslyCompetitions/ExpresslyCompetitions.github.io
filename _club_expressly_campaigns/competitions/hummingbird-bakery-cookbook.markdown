@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-03T07:00:00.000Z"
 end-date: "2019-09-03T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Hummingbird Bakery CookBook!"
 competition-description: "<p>From their first shop in Notting Hill's Portobello Road,\
