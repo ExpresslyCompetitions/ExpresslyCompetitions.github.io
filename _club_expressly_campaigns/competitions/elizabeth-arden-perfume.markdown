@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-10T06:00:00.000Z"
 end-date: "2019-09-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Elizabeth Arden Red Door perfume!"
 competition-description: "<p>Unlock your world and experience the romantic sophistication\
