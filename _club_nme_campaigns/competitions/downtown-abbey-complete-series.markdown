@@ -9,7 +9,7 @@ is_promoted: true
 has_entry_page: true
 title: "Win Downton Abbey Complete Series!"
 competition-description: "<p>Following the release of the incredible Downton Abbey\
-  \ movie, we are giving away the complete series of the award-winning drama Downtown\
+  \ movie, we are giving away the complete series of the award-winning drama Downton\
   \ Abbey to one lucky NME AAA member to win. All 52 episodes including: Christmas\
   \ at Downton, A Journey to the Highlands, The London Season, A Moorland Holiday\
   \ & Downton Abbey The Finale!</p>\n<p>Want to add it to your collection? Click below\
