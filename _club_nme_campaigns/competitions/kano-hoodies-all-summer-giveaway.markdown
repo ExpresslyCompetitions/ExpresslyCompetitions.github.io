@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-09-21T06:00:00.000Z"
 end-date: "2019-11-21T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Kano 'Hoodies All Summer' album!"
 competition-description: "<p>The sixth studio album from Kano is finally here and\
