@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-17T06:00:00.000Z"
 end-date: "2019-09-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Mary Berry’s Quick Cooking book!"
 competition-description: "<p>Mary Berry is the nation's favourite baker and author\
