@@ -25,7 +25,7 @@ bg-image-hero: "https://assets.expresslyapp.com/asset-99bb741d-71b6-42d6-a86a-cb
 bg-image-first: "https://assets.expresslyapp.com/asset-e5a3785c-7a10-494b-9772-793635dabb77.jpg"
 section1-content: "<p>The brand new album from the English Rock Band, Keane: 'Cause\
   \ and Effect' is coming to you. A brand new record known already as the band's redemption\
-  \ following the strugles with addiction and break-up of some of the band member's\
+  \ following the struggles with addiction and break-up of some of the band member's\
   \ went through.</p>\n<p>Stupid Things, Phases, I'm Not Leaving... and many more\
   \ songs you could discover in their brand new record. Enter below for a chance to\
   \ win it now.</p>\n<p>Good luck!</p>\n"
