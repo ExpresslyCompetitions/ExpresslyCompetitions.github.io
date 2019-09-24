@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win The Cure Curaetion-25 Anniversary Box Set!"
 competition-description: "<p>Calling all The Cure fans! ‘Curaetion-25: From There\
   \ To Here | From Here To There’ is finally coming to us and we are giving away a\
-  \ copy to you. This fabulous  Box Set captured the night of the 25th Meltdown Festival\
+  \ copy to you. This fabulous Box Set captured the night of the 25th Meltdown Festival\
   \ at London’s Royal Festival Hall in June 2018.</p>\n<p>Does it sound like a plan\
   \ for your weekend? Click below for a chance to win.</p>\n"
 hero-header: "Win The Cure Curaetion-25 Anniversary Box Set!"
