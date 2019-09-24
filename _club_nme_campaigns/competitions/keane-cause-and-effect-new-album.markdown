@@ -10,11 +10,11 @@ has_entry_page: true
 title: "Win Keane 'Cause and Effect' new album!"
 competition-description: "<p>After seven years... It's finally here, the brand new\
   \ album from the English Rock Band Keane: 'Cause and Effect'. A brand new record\
-  \ known already as the band's redemption following the strugles with addiction and\
-  \ break-up of some of the band member's went through.</p>\n<p>We are giving you\
-  \ the chance of winning a copy of 'Cause and Effect' and enjoy their brand new hits\
-  \ such as: You're Not Home, Love Too Much... and many more. Click below for a chance\
-  \ to win now.</p>\n"
+  \ known already as the band's redemption following the struggles with addiction\
+  \ and break-up of some of the band member's went through.</p>\n<p>We are giving\
+  \ you the chance of winning a copy of 'Cause and Effect' and enjoy their brand new\
+  \ hits such as: You're Not Home, Love Too Much... and many more. Click below for\
+  \ a chance to win now.</p>\n"
 hero-header: "Win Keane 'Cause and Effect' new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-ba1ae047-0cff-4e07-b9de-fe1cd60db95a.jpg"
