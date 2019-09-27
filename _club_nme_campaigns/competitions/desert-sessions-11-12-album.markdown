@@ -7,7 +7,7 @@ end-date: "2019-11-28T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
-title: "Win Josh Homme 'Desert Sessions Vol. 11/12' CD!"
+title: "Win 'Desert Sessions Vol. 11/12' CD!"
 competition-description: "<p>After nearly sixteen years since its last entry, the\
   \ longest-running mix tape in existence, Desert Sessions returns with two stunning\
   \ new volumes in its already storied catalog, Vol. 11 & 12, featuring collaborations\
@@ -15,7 +15,7 @@ competition-description: "<p>After nearly sixteen years since its last entry, th
   \ Azar, Matt Sweeney, David Catching, comedian Matt Berry, Töôrnst Hülpft and newcomer\
   \ Libby Grace.</p>\n<p>We are giving away a copy of this brand new album to one\
   \ lucky NME AAA member to win. Click below and it could be yours!</p>\n"
-hero-header: "Win Josh Homme 'Desert Sessions Vol. 11/12' CD!"
+hero-header: "Win 'Desert Sessions Vol. 11/12' CD!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-6f231503-377e-4f39-84b8-08d82a6bd08d.jpg"
 logo-left-href: "aaa.nme.com"
@@ -33,11 +33,11 @@ section1-content: "<p>In 1997, Josh Homme and a handful of friends retreated to 
   <p>After nearly sixteen years since its last entry, the longest-running mix tape\
   \ in existence, Desert Sessions returns with two stunning new volumes in its already\
   \ storied catalog, Vol. 11 & 12.</p>\n<p>Click below for a chance to win it now!</p>\n"
-entry-title: "Win Josh Homme 'Desert Sessions Vol. 11/12' CD!"
+entry-title: "Win 'Desert Sessions Vol. 11/12' CD!"
 entry-content: "<p>Enter the draw to win Josh Homme 'Desert Sessions Vol. 11/12' CD\
   \ by completing the form below before 23:59 on the 28th of November 2019.</p>\n"
 has-winner: false
-prize-description: "Josh Homme 'Desert Sessions Vol. 11/12' CD"
+prize-description: "'Desert Sessions Vol. 11/12' CD!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
