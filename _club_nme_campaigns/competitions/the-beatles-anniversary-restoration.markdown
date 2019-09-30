@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-07-24T07:00:00.000Z"
 end-date: "2019-09-24T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Beatles 'A Hard Day's Night' 50th Anniversary Restoration!"
 competition-description: "<p>In 1964 the biggest band on the planet made their big\
