@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-07-27T06:00:00.000Z"
 end-date: "2019-09-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Good, The Bad & The Queen 'Merrie Land' album!"
 competition-description: "<p>'Merrie Land' is The Good, The Bad & The Queen first\
