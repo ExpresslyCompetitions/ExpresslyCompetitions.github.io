@@ -11,8 +11,8 @@ title: "Win Sanctuary Spa 'Sumptuous Selection Gift'"
 competition-description: "<p>The Sanctuary Spa was born as the ultimate act of love.\
   \ Now, they offer so much more than beauty products, expertly created to revive,\
   \ uplift & replenish. That's why we are giving you the chance of wining an amazing\
-  \ Sanctuary Spa 'Sumptuous Selection Gift' including shower, scrub, soften and smooth\
-  \ for the silkiest skin and unbeatable bliss.</p>\n<p>Delve into their collection\
+  \ Sanctuary Spa 'Sumptuous Selection Gift' including: shower, scrub, soften and\
+  \ smooth for the silkiest skin and unbeatable bliss.</p>\n<p>Delve into their collection\
   \ of sumptuous goodies now. Click below for a chance to win.</p>\n"
 hero-header: "Win Sanctuary Spa 'Sumptuous Selection Gift'"
 terms-confirmation: "N/A"
