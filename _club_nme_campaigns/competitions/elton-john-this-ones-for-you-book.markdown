@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-07-31T07:00:00.000Z"
 end-date: "2019-09-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Elton John 'This One's For You' book!"
 competition-description: "<p>'This One's For You' tells the extraordinary story of\
