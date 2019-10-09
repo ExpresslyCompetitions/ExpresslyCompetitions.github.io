@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-08-07T06:00:00.000Z"
 end-date: "2019-10-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Testaments: The Sequel to The Handmaid’s Tale!"
 competition-description: "<p>If you can’t get enough of the award-winning TV adaptation\
