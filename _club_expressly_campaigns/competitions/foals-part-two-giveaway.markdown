@@ -3,7 +3,7 @@ campaign-uuid: "c-fe16b82f-4756-49cc-a616-eec5bd49d5ad"
 type: "Competition"
 category: "Music"
 date: "2019-09-19T09:00:00.000Z"
-end-date: "2019-10-19T23:59:00.000Z"
+end-date: "2019-11-19T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -33,7 +33,7 @@ section1-content: "<p>Foals' creative ambition for 'Everything Not Saved Will Be
   \ chance to win a copy of their brand new album. Good luck!</p>\n"
 entry-title: "Win Foals ‘Everything Not Saved Will Be Lost’ part 2!"
 entry-content: "<p>Enter the draw to win Foals ‘Everything Not Saved Will Be Lost’\
-  \ part 2 by completing the form below before 23:59 on the 19th of October 2019.</p>\n"
+  \ part 2 by completing the form below before 23:59 on the 19th of November 2019.</p>\n"
 has-winner: false
 prize-description: "Foals ‘Everything Not Saved Will Be Lost’ part 2"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
