@@ -2,8 +2,8 @@
 campaign-uuid: "c-bfbc0210-2915-427c-895c-4093b83c62e9"
 type: "Competition"
 category: "Music"
-date: "2019-10-15T08:00:00.000Z"
-end-date: "2019-11-15T23:59:00.000Z"
+date: "2019-10-14T08:00:00.000Z"
+end-date: "2019-11-14T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -34,7 +34,7 @@ section1-content: "<p>The set is bookended with a step into the past and an eye 
   \ it home with you.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Rick Astley ‘The Best Of Me’ album!"
 entry-content: "<p>Enter the draw to win Rick Astley ‘The Best Of Me’ album by completing\
-  \ the form below before 23:59 on the 15th of November 2019.</p>\n"
+  \ the form below before 23:59 on the 14th of November 2019.</p>\n"
 has-winner: false
 prize-description: "Rick Astley ‘The Best Of Me’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
