@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-08-14T07:00:00.000Z"
 end-date: "2019-10-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Elvis Presley 'Live 1969' Box Set!"
 competition-description: "<p>'Live 1969' Box Set showcases this incredibly, important\
