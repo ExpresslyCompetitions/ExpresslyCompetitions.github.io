@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-08-21T06:00:00.000Z"
 end-date: "2019-10-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Burt's Bees beauty pack!"
 competition-description: "<p>A great present for everyday occasions, Burt’s Bees beauty\
