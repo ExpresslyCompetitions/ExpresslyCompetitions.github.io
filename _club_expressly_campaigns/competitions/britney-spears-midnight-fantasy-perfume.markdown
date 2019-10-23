@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-08-14T06:00:00.000Z"
 end-date: "2019-10-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Britney Spears 'Midnight Fantasy' perfume!"
 competition-description: "<p>Midnight Fantasy is Britney Spear's fourth fragrance\
