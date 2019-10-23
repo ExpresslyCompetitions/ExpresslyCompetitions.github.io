@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-08-21T07:00:00.000Z"
 end-date: "2019-10-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Led Zeppelin All the Songs: The Story Behind Every Track!"
 competition-description: "<p>Fifty years after their first practice in a Soho basement,\
