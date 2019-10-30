@@ -33,7 +33,9 @@ section1-content: "<p>This slim and stylish smart fitness watch tracks your acti
 entry-title: "Win a LetsFit Fitness tracker!"
 entry-content: "<p>Enter the draw to win a LetsFit Fitness tracker by completing the\
   \ form below before 23:59 on the 6th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brandon H. who won the best Fitness Tracker!"
+winner-banner: "https://assets.expresslyapp.com/asset-bc3b4668-8b10-4d8d-a93a-758cbe69e741.jpg"
 prize-description: "A LetsFit Fitness tracker."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/letsfit-fitness-tracker-giveaway"
