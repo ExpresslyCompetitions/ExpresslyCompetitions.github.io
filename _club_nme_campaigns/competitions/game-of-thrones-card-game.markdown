@@ -34,7 +34,9 @@ section1-content: "<p>In a land where summers span decades and winters can last 
 entry-title: "Win Game of Thrones Card Game!"
 entry-content: "<p>Enter the draw to win Game of Thrones Card Game  by completing\
   \ the form below before 23:59 on the 11th  of July  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jean S. who won this great game!"
+winner-banner: "https://assets.expresslyapp.com/asset-41ecda40-2f3e-4353-820c-eff8a4e6adf7.jpg"
 prize-description: "Game of Thrones Card Game."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/game-of-thrones-card-game"
