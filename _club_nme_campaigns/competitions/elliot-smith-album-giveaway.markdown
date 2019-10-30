@@ -33,7 +33,9 @@ section1-content: "<p>This amazing Expanded Edition features the original tracks
 entry-title: "Win Elliot Smith 20th Anniversary album!"
 entry-content: "<p>Enter the draw to win Elliot Smith 20th Anniversary album by completing\
   \ the form below before 23:59 on the 2nd of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Maureen F. who won Elliot smith album!"
+winner-banner: "https://assets.expresslyapp.com/asset-b22d3860-4bc6-433d-b93e-c02894025276.jpg"
 prize-description: "Elliot Smith 20th Anniversary album"
 special-conditions: "This competition is also available on: http://club.expressly.io/competitons/elliot-smith-album-giveaway"
 country-restrictions:
