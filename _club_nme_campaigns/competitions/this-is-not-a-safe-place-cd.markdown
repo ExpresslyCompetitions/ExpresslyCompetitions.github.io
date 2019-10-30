@@ -33,7 +33,9 @@ section1-content: "<p>This Is Not a Safe Place' sees the rejuvenated Oxford four
 entry-title: "Win Ride new album!"
 entry-content: "<p>Enter the draw to win Ride new album by completing the form below\
   \ before 23:59 on the 19th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Bobby W. who won the brand new album from Ride!"
+winner-banner: "https://assets.expresslyapp.com/asset-dcf4b64f-df61-4e18-87f6-8dbfc9651bbf.jpg"
 prize-description: "Ride new album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/this-is-not-a-safe-place-cd"
