@@ -30,7 +30,9 @@ section1-content: "<p>Slipknot's sixth studio album, produced by the band themse
 entry-title: "Win Slipknot ‘We Are Not Your Kind’ album!"
 entry-content: "<p>Enter the draw to win Slipknot ‘We Are Not Your Kind’ album by\
   \ completing the form below before 23:59 on the 9th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tegan W. who won Slipknot album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e5a820b7-b0bb-4567-8bc0-b67b4eb67ccb.jpg"
 prize-description: "Slipknot ‘We Are Not Your Kind’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/slipknot-album-giveaway"
