@@ -30,7 +30,9 @@ section1-content: "<p>It’s been a long time coming, but its finally here, Mabe
 entry-title: "Win Mabel ‘High Expectations’ album!"
 entry-content: "<p>Enter the draw to win Mabel ‘High Expectations’ album by completing\
   \ the form below before 23:59 on the 22nd of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Julia M. who won Mabel's new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-af20c638-b471-469d-bdf8-94f434dd8085.jpg"
 prize-description: "Mabel ‘High Expectations’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/mabel-high-expectations-album"
