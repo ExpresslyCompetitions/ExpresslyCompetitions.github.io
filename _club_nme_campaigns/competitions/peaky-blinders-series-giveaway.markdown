@@ -30,7 +30,9 @@ section1-content: "<p>A crime thriller with a spectacular cast that includes Sam
 entry-title: "Win Peaky Blinders series 1-4!"
 entry-content: "<p>Enter the draw to win Peaky Blinders series 1-4 by completing the\
   \ form below before 23:59 on the 8th of September 2019</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jafrin S. who won the best series ever!"
+winner-banner: "https://assets.expresslyapp.com/asset-9a74fd0f-1e08-4e83-8238-fad3c693029d.jpg"
 prize-description: "Peaky Blinders series 1-4"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/peaky-blinders-series-giveaway"
