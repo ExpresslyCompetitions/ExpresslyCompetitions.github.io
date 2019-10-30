@@ -31,7 +31,9 @@ section1-content: "<p>Elegant new look, same classic scent. With an elegant desi
 entry-title: "Win Elizabeth Arden Red Door perfume!"
 entry-content: "<p>Enter the draw to win Elizabeth Arden Red Door perfume by completing\
   \ the form below before 23:59 on the 10th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tracy B. who won this incredible perfume!"
+winner-banner: "https://assets.expresslyapp.com/asset-1d0ba16d-914e-40a2-9a79-ed0cfcb0736f.jpg"
 prize-description: "Elizabeth Arden Red Door perfume!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
