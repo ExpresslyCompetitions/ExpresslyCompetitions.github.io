@@ -31,7 +31,10 @@ section1-content: "<p>Fever Dream is the third studio album by Icelandic band Of
 entry-title: "Win Of Monsters and Men album!"
 entry-content: "<p>Enter the draw to win Of Monsters and Men album by completing the\
   \ form below before 23:59 on the 13th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Adrian B. who won the brand new album of Of Monsters\
+  \ and Men!"
+winner-banner: "https://assets.expresslyapp.com/asset-90bf6b9c-4876-43d9-b159-3beceb82d5ae.jpg"
 prize-description: "Of Monsters and Men album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/fever-dream-of-monsters-and-men"
