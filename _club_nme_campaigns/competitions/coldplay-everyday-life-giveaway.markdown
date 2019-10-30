@@ -25,7 +25,7 @@ section1-content: "<p>’Everyday Life’ is Coldplay eight studio album. An inc
   \ 53-minute and 16 track brand new album divided in two halves for you to enjoy.\
   \ A double album with the first half titled Sunrise and the other Sunset. Church,\
   \ Daddy, Orphans… are some of their brand new songs you could find in their new\
-  \ record./p>\n<p>Want it? Click below for a chance win it now.</p>\n<p>Good luck!</p>\n"
+  \ record.</p>\n<p>Want it? Click below for a chance win it now.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Coldplay ‘Everyday Life’ new album!"
 entry-content: "<p>Enter the draw to win Coldplay ‘Everyday Life’ new album by completing\
   \ the form below before 23:59 on the 30th of December 2019.</p>\n"
