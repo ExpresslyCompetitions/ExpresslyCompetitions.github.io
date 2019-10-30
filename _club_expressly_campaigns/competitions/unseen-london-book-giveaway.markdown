@@ -38,7 +38,9 @@ section1-content: "<p>Peter Dazeley takes you deep into the boiler room of the c
 entry-title: "Win 'Unseen London' book!"
 entry-content: "<p>Enter the draw to win 'Unseen London' book by completing the form\
   \ below before 23:59 on the 5th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Celso G. who won this amazing book!"
+winner-banner: "https://assets.expresslyapp.com/asset-7ef3b576-271d-4378-956b-7fb39ab9d787.jpg"
 prize-description: "'Unseen London' book."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
