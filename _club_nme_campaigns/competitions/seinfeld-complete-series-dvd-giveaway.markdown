@@ -33,7 +33,9 @@ section1-content: "<p>The Complete Series 1 to 9 Box Set contains all nine seaso
 entry-title: "Win Seinfeld The Complete Series on DVD!"
 entry-content: "<p>Enter the draw to win Seinfeld The Complete Series on DVD by completing\
   \ the form below before 23:59 on the 5th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jane C. who won the complete series of Seindfeld!"
+winner-banner: "https://assets.expresslyapp.com/asset-7e3c21a6-97ef-4070-baa0-26018540401e.jpg"
 prize-description: "Seinfeld The Complete Series on DVD"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/seinfeld-complete-series-dvd-giveaway"
