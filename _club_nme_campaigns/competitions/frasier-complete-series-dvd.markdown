@@ -35,7 +35,9 @@ section1-content: "<p>Frasier The Complete Series includes all eleven seasons of
 entry-title: "Win Frasier The Complete Series on DVD!"
 entry-content: "<p>Enter the draw to win Frasier The Complete Series on DVD by completing\
   \ the form below before 23:59 on the 15th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen T. who won the complete series of Frasier!"
+winner-banner: "https://assets.expresslyapp.com/asset-e33e234f-b5c4-4fee-ad72-24a857805929.jpg"
 prize-description: "Frasier The Complete Series on DVD"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/frasier-complete-series-dvd"
