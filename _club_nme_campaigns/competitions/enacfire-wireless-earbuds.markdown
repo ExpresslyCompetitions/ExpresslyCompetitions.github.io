@@ -31,7 +31,9 @@ section1-content: "<p>Easy to pair and easy to enjoy, Enacfire bluetooth 5.0 Tru
 entry-title: "Win a pair of Enacfire Wireless Earbuds!"
 entry-content: "<p>Enter the draw to win a pair of Wireless Earbuds by completing\
   \ the form below before 23:59 on the 23rd of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Claire S. who won this incredible pair of Earbuds!"
+winner-banner: "https://assets.expresslyapp.com/asset-d8d34036-baef-4527-b09d-751f6acd9fd4.jpg"
 prize-description: "A pair of Enacfire Wireless Headphones."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/enacfire-wireless-earbuds"
