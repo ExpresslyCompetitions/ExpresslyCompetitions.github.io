@@ -35,7 +35,9 @@ section1-content: "<p>In 2018, multi-instrumentalist, songwriter and producer Cl
 entry-title: "Win Clairo 'Immunity' album!"
 entry-content: "<p>Enter the draw to win Clairo 'Immunity' album by completing the\
   \ form below before 23:59 on the 3rd of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Antonia R. who won Clairo's new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-55988353-0a54-49ef-89e2-8dff43059483.jpg"
 prize-description: "Clairo 'Immunity' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
