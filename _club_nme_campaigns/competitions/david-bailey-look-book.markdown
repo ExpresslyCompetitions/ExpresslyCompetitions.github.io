@@ -39,7 +39,9 @@ section1-content: "<p>David Bailey was part of a new generation who revolutionis
 entry-title: "Win David Bailey 'Look' book!"
 entry-content: "<p>Enter the draw to win David Bailey ‘Look’ book album by completing\
   \ the form below before 23:59 on the 12th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lisa H. who won this amazing book!"
+winner-banner: "https://assets.expresslyapp.com/asset-11b7cfa8-d2ce-4cec-a446-68b498453533.jpg"
 prize-description: "David Bailey 'Look' book."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/david-bailey-look-book"
