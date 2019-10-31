@@ -35,7 +35,9 @@ section1-content: "<p>When Tim \"Avicii\" Bergling passed away on April 20, 2018
 entry-title: "Win ‘TIM’ Avicii CD!"
 entry-content: "<p>Enter the draw to win ‘TIM’ Avicii CD by completing the form below\
   \ before 23:59 on the 13th of July 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen B. who won 'TIM' Avicii CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-870ed21a-090a-4f93-a7e6-dd8005f20c32.jpg"
 prize-description: "‘TIM’ Avicii CD."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/avicii-tim-cd-giveaway"
