@@ -32,7 +32,9 @@ section1-content: "<p>With an integrated modern technology such as Vinyl-MP3 rec
 entry-title: "Win a 1byone Stereo Turntable!"
 entry-content: "<p>Enter the draw to win  a 1byone Stereo Turntable by completing\
   \ the form below before 23:59 on the 29th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS  to Amanda R. who won this incredible turntable!"
+winner-banner: "https://assets.expresslyapp.com/asset-bde5a482-dacc-48c8-be20-d7405b7a9013.jpg"
 prize-description: "A 1byone Stereo Turntable."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/speed-stereo-turntable"
