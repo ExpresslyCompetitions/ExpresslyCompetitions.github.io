@@ -29,7 +29,9 @@ section1-content: "<p>It is the first time he will release a record via an indep
 entry-title: "Win Will Young ‘Lexicon’ album!"
 entry-content: "<p>Enter the draw to win Will Young ‘Lexicon’ album by completing\
   \ the form below before 23:59 on the 24th of July 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Pippa A. who won Will Young album!"
+winner-banner: "https://assets.expresslyapp.com/asset-03d955e9-f2c0-4c89-95ff-76b73e7ba601.jpg"
 prize-description: "Will Young ‘Lexicon’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/will-young-lexicon-giveaway"
