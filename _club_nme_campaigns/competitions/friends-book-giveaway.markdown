@@ -33,7 +33,9 @@ entry-title: "Win ‘I'll Be There For You: The ultimate book’ for Friends fan
 entry-content: "<p>Enter the draw to win ‘I'll Be There For You: The ultimate book’\
   \ for Friends fans everywhere  by completing the form below before 23:59 on the\
   \ 20th of July  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Steve F. who won Friends ultimate book!"
+winner-banner: "https://assets.expresslyapp.com/asset-55cd7927-f54a-40da-94a7-efb5f036447f.jpg"
 prize-description: "‘I'll Be There For You: The ultimate book’ for Friends fans everywhere."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/friends-book-giveaway"
