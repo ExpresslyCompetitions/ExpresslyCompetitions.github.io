@@ -31,7 +31,9 @@ section1-content: "<p>’50 Years of Glastonbury’ celebrates the mud and mayhe
 entry-title: "Win ’50 years of Glastonbury’ book!"
 entry-content: "<p>Enter the draw to win  ’50 years of Glastonbury’ book by completing\
   \ the form below before 23:59 on the 1st of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Julie T. who won Glastonbury's book!"
+winner-banner: "https://assets.expresslyapp.com/asset-893eb151-9b31-41f4-95dc-40ae790fbc66.jpg"
 prize-description: "’50 years of Glastonbury’ book."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/50-years-glastonbury-book"
