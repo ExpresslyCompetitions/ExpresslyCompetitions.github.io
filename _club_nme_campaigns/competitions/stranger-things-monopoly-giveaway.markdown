@@ -33,7 +33,9 @@ section1-content: "<p>In this Monopoly game inspired by the Netflix Original Ser
 entry-title: "Win the Stranger Things Monopoly!"
 entry-content: "<p>Enter the draw to win the Stranger Things Monopoly by completing\
   \ the form below before 23:59 on the 8th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Conrad M. who won this funny game!"
+winner-banner: "https://assets.expresslyapp.com/asset-7e167011-d16a-48a5-a2c0-5ce191d98dc3.jpg"
 prize-description: "The Stranger Things Monopoly."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/stranger-things-monopoly-giveaway"
