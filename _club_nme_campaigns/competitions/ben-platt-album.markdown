@@ -32,7 +32,9 @@ section1-content: "<p>'Sing to Me Instead' sees him making a remarkable arrival 
 entry-title: "Win Ben Platt 'Sing To Me Instead' album!"
 entry-content: "<p>Enter the draw to win Ben Platt ‘Sing To Me Instead’ album by completing\
   \ the form below before 23:59 on the 5th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Katty H. who won Ben Platt's album!"
+winner-banner: "https://assets.expresslyapp.com/asset-5c96de2d-0da3-44b4-a678-59f51cd1e4d7.jpg"
 prize-description: "Ben Platt 'Sing To Me Instead' album."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/ben-platt-album"
