@@ -33,7 +33,9 @@ section1-content: "<p>The fact that there is a dare on the line can make things 
 entry-title: "Win Sh!thead Card Game!"
 entry-content: "<p>Enter the draw to win Sh!thead Card Game by completing the form\
   \ below before 23:59 on the 12th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Janine H. who won this hilarious game!"
+winner-banner: "https://assets.expresslyapp.com/asset-f8d9896e-c3e5-44d1-8e02-7d5e9cabce10.jpg"
 prize-description: "Sh!thead Card Game"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/head-card-game"
