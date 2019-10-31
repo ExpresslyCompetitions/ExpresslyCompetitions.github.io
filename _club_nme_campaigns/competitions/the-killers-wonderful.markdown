@@ -32,7 +32,10 @@ section1-content: "<p>Wonderful Wonderful was produced by Jacknife Lee, it was r
 entry-title: "Win The Killers 'Wonderful Wonderful' album!"
 entry-content: "<p>Enter the draw to win The Killers 'Wonderful Wonderful' album by\
   \ completing the form below before 23:59 on the 29th of July 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen M. who won the brand new album from The\
+  \ Killers!"
+winner-banner: "https://assets.expresslyapp.com/asset-5d35220e-fd8e-4324-8502-2123f6f31c83.jpg"
 prize-description: "The Killers 'Wonderful Wonderful' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
