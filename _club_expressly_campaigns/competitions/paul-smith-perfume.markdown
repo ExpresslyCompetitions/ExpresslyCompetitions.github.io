@@ -32,7 +32,9 @@ section1-content: "<p>The rose at the heart of this fragrance bears Paul Smithâ€
 entry-title: "Win Paul Smith Rose Perfume!"
 entry-content: "<p>Enter the draw to win Paul Smith Rose Perfume by completing the\
   \ form below before 23:59 on the 19th of August  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Louise C. who won this amazing perfume!"
+winner-banner: "https://assets.expresslyapp.com/asset-aa0a7ba0-d66d-4b40-a9a3-e546fb5cb1ba.jpg"
 prize-description: "Paul Smith Rose perfume"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
