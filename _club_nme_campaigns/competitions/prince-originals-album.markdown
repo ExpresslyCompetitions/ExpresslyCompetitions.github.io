@@ -28,7 +28,9 @@ section1-content: "<p>Sourced directly from Prince's vast archive of Vault recor
 entry-title: "Win Prince ‘Originals’ album!"
 entry-content: "<p>Enter the draw to win  Prince ‘Originals’ album by completing the\
   \ form below before 23:59 on the 27th of July 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Douglas J. who won Prince's album!"
+winner-banner: "https://assets.expresslyapp.com/asset-a7bf2c92-1cdb-485a-b357-128e95d8df45.jpg"
 prize-description: "Prince ‘Originals’ album."
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: http://club.expressly.io/competitons/prince-originals-album"
