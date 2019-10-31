@@ -28,7 +28,9 @@ section1-content: "<p>In Depression-era London, a now-grown Jane and Michael Ban
 entry-title: "Win Mary Poppins Returns on DVD!"
 entry-content: "<p>Enter the draw to win Mary Poppins Returns on DVD by completing\
   \ the form below before 23:59 on the 12th of August 2019</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carole B. who won Mary Poppins Returns on DVD!"
+winner-banner: "https://assets.expresslyapp.com/asset-a7bf5390-b0d5-4054-a058-c1c9d48736a8.jpg"
 prize-description: "Mary Poppins Returns on DVD."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
