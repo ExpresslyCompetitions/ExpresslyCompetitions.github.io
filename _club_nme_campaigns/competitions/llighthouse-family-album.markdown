@@ -31,7 +31,9 @@ section1-content: "<p>Lighthouse Family - Tunde Baiyewu and Paul Tucker - achiev
 entry-title: "Win Lighthouse Family album!"
 entry-content: "<p>Enter the draw to win Lighthouse Family album by completing the\
   \ form below before 23:59 on the 18th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen T. who won the Lighthouse Family album!"
+winner-banner: "https://assets.expresslyapp.com/asset-5562df6e-d56c-4a27-b524-b4aa0d6a6d35.jpg"
 prize-description: "Lighthouse Family album."
 special-conditions: "This competition is also available on: http://club.expressly.io/competitons/lighthouse-family-album"
 country-restrictions:
