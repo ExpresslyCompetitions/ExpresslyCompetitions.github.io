@@ -32,7 +32,9 @@ section1-content: "<p>Ed Sheeran brand new album ‘No.6 Collaborations Project�
 entry-title: "Win Ed Sheeran ‘No.6 Collaborations Project’"
 entry-content: "<p>Enter the draw to win Ed Sheeran ‘No.6 Collaborations Project’\
   \ by completing the form below before 23:59 on the 9th of August 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Darren B. who won Ed Sheeran new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-8bfc87eb-d483-428b-8d8e-a654ab4921ac.jpg"
 prize-description: "Ed Sheeran ‘No.6 Collaborations Project’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/ed-sheeran-new-album"
