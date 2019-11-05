@@ -12,7 +12,7 @@ competition-description: "<p>We have on our hands an amazing Fire 7 Tablet and w
   \ want to give it away to one lucky NME AAA member. The best-selling tablet now\
   \ with 2X  storage, faster quad-core processor and hands free with Alexa. Enjoy\
   \ millions of movies, TV episodes, games, apps, e-books, songs and many more!</p>\n\
-  <p>Do you want it? Think no more and enter below for a chance to win it!</p>\n"
+  <p>Do you want it? Think no more and enter below for a chance to win it.</p>\n"
 hero-header: "Win the All-new Fire 7 Tablet!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-120dd69a-9017-4f9c-b039-03588cce232c.jpg"
