@@ -11,7 +11,7 @@ title: "Win The Happy Buddha Gift Set from Rituals!"
 competition-description: "<p>This wonderful gift pack is the perfect present for a\
   \ friend, family member or for treating yourself! Contains a Shower Foam, body scrub,\
   \ body cream and hand soap. With these fresh and revitalising products you will\
-  \ create a moment of happiness every day.</p>\n<p>Click below for a chance to win.</p>\n"
+  \ create a moment of happiness every day.</p>\n<p>Click below for a chance to win!</p>\n"
 hero-header: "Win The Happy Buddha Gift Set from Rituals!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-0a718ef3-b2e6-4f1f-b5ea-911318609254.jpg"
