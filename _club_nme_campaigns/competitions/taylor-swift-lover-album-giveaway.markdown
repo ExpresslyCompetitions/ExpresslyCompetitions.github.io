@@ -29,7 +29,9 @@ section1-content: "<p>London Boy, Cornelia Street, The Man… are some of her am
 entry-title: "Win Taylor Swift ‘Lover’ album!"
 entry-content: "<p>Enter the draw to win Taylor Swift ‘Lover’ album by completing\
   \ the form below before 23:59 on the 30th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen L. who won Taylor's new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-de6931af-ac8e-4679-ae22-47cfc93a98db.jpg"
 prize-description: "Taylor Swift ‘Lover’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/taylor-swift-lover-album-giveaway"
