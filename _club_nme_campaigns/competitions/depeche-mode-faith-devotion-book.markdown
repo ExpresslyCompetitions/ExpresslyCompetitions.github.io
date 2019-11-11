@@ -37,7 +37,9 @@ section1-content: "<p>Emerging from the unlikely locale of Basildon at the dawn 
 entry-title: "Win Depeche Mode: Faith & Devotion book!"
 entry-content: "<p>Enter the draw to win Depeche Mode: Faith &amp; Devotion book by\
   \ completing the form below before 23:59 on the 2nd of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Barrie B. who won Depeche Mode book!"
+winner-banner: "https://assets.expresslyapp.com/asset-81d62596-2871-4903-8c44-2cc809d3e516.jpg"
 prize-description: "Depeche Mode: Faith & Devotion book"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/depeche-mode-faith-devotion-book"
