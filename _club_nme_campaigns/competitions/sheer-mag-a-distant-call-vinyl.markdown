@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-08-31T08:00:00.000Z"
 end-date: "2019-10-31T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Sheer Mag 'A Distant Call' on vinyl edition!"
 competition-description: "<p>Philadelphia's Sheer Mag return with their sophomore\
