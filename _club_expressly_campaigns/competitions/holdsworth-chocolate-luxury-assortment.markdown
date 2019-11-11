@@ -33,7 +33,10 @@ section1-content: "<p>From the raw couverture callets to the perfectly tempered 
 entry-title: "Win a Holdsworth Chocolate Luxury Assortment!"
 entry-content: "<p>Enter the draw to win  a Holdsworth Chocolate Luxury Assortment\
   \ by completing the form below before 23:59 on the 30th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Elisabeth R. who won a Holdsworth Chocolate Luxury\
+  \ Assortment!"
+winner-banner: "https://assets.expresslyapp.com/asset-a145d20a-63cf-459e-b6a2-94a48afc945e.jpg"
 prize-description: "A Holdsworth Chocolate Luxury Assortment."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
