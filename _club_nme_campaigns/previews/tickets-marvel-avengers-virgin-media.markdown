@@ -23,7 +23,7 @@ hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in
 terms-confirmation: "Marvel-event-November 21st Event Ticketing Terms and Conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-59e39436-0341-4960-9984-c3264c84b8ba.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-14678207-a71f-498d-8a59-b56735fc835f.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-3aa2ba98-b7ae-41cd-a44d-aedba4bdbfed.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-a1c5e5d7-a502-4ac1-bd0a-3b868a8517b5.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-66a5d3b9-58d1-441d-8b6d-8ca497429829.jpg"
