@@ -36,14 +36,14 @@ section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a
   \ of gameplay, using the best gear for an optimal gaming experience. There’ll also\
   \ be Avengers costume displays, a Marvel’s Avengers Artwork Gallery, great giveaways\
   \ and experiential photo opportunities.</p>\n"
-section2-content: "<p>*  - Location: Victoria House, 37 Southampton Row, Holborn,\
-  \ London, WC1B 4DA</p>\n<p>* - Session time: 12.30-13.30pm on Thursday 21st November</p>\n\
-  <p>* - Please arrive 10 minutes before your session to guarantee entry and bring\
-  \ along your confirmation email</p>\n<p>*- Late-comers may not be admitted</p>\n\
-  <p>* - Over 16s Only, ID will be required</p>\n<p>* - A bag search will be in operation</p>\n\
-  <p>* - Your ticket exclude all food, drink, spending money, travel and any other\
-  \ costs connected to the Prize</p>\n<p>* - If you require any special assistance,\
-  \ please let us know.</p>\n<p>@VirginMedia. @PlayAvengers and #EmbraceYourPowers</p>\n"
+section2-content: "<p>*Location: Victoria House, 37 Southampton Row, Holborn, London,\
+  \ WC1B 4DA</p>\n<p>*Session time: 12.30-13.30pm on Thursday 21st November</p>\n\
+  <p>*Please arrive 10 minutes before your session to guarantee entry and bring along\
+  \ your confirmation email</p>\n<p>*Late-comers may not be admitted</p>\n<p>*Over\
+  \ 16s Only, ID will be required</p>\n<p>*A bag search will be in operation</p>\n\
+  <p>*Your ticket exclude all food, drink, spending money, travel and any other costs\
+  \ connected to the Prize</p>\n<p>*If you require any special assistance, please\
+  \ let us know.</p>\n<p>@VirginMedia. @PlayAvengers and #EmbraceYourPowers</p>\n"
 entry-title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
 entry-content: "<p>Enter below for a chance to win a pair of tickets to an exclusive\
