@@ -26,8 +26,8 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-14678207-a71f-498d-8a59-b56735fc835f.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-06703b8e-8f84-48ac-bdfd-a62f603e265b.png"
-bg-image-first: "https://assets.expresslyapp.com/asset-2ee47159-a29c-4828-a244-b189f5925674.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-bf5c31e0-5b4b-4615-a2d0-f12a74402b1b.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-995e43ff-10ae-4ca4-a98c-3d9f210bce4f.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-cc17b406-df6d-4eee-8ab0-7d3b4ed32ca6.jpg"
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
   \ exclusive play of Marvel’s Avengers before it’s official release and we’ve got\
   \ XX pairs of tickets to give away.You’ll be given a hero’s welcome as you play\
