@@ -21,13 +21,13 @@ competition-description: "<p>Virgin Media has teamed up with Square Enix to brin
 hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
 terms-confirmation: "N/A"
-banner-img: "https://assets.expresslyapp.com/asset-e4ef4866-ec81-41ef-b412-edec246dd957.jpg"
+banner-img: "https://assets.expresslyapp.com/asset-b973b23b-13cc-4088-a385-720772e44257.jpg"
 logo-left-href: "aaa.nme.com"
-logo-left-image: "https://assets.expresslyapp.com/asset-36f781b4-2928-4a23-b37e-c6e7a3ead013.jpg"
+logo-left-image: "https://assets.expresslyapp.com/asset-14678207-a71f-498d-8a59-b56735fc835f.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-6a2e12b4-3caa-41f9-afc0-d65a16999fc4.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-178b1103-f721-4fb7-b191-0a68ccf8aad7.jpg"
-bg-image-second: "https://assets.expresslyapp.com/asset-67a901a0-3498-49ad-8064-cfe661918316.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-06703b8e-8f84-48ac-bdfd-a62f603e265b.png"
+bg-image-first: "https://assets.expresslyapp.com/asset-2ee47159-a29c-4828-a244-b189f5925674.jpg"
+bg-image-second: "https://assets.expresslyapp.com/asset-bf5c31e0-5b4b-4615-a2d0-f12a74402b1b.jpg"
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
   \ exclusive play of Marvel’s Avengers before it’s official release and we’ve got\
   \ XX pairs of tickets to give away.You’ll be given a hero’s welcome as you play\
