@@ -11,7 +11,7 @@ title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partn
   \ with Virgin Media!"
 competition-description: "<p>Virgin Media has teamed up with Square Enix to bring\
   \ you a UK exclusive play of Marvel’s Avengers before it’s official release and\
-  \ we’ve got XX pairs of tickets to give away. You’ll be given a hero’s welcome as\
+  \ we’ve got a pair of tickets to give away. You’ll be given a hero’s welcome as\
   \ you play the superheroes you love, months ahead of the game’s official UK release\
   \ in May next year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will\
   \ include 30 minutes of gameplay, using the best gear for an optimal gaming experience.\
@@ -30,12 +30,12 @@ bg-image-first: "https://assets.expresslyapp.com/asset-995e43ff-10ae-4ca4-a98c-3
 bg-image-second: "https://assets.expresslyapp.com/asset-cc17b406-df6d-4eee-8ab0-7d3b4ed32ca6.jpg"
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
   \ exclusive play of Marvel’s Avengers before it’s official release and we’ve got\
-  \ XX pairs of tickets to give away.You’ll be given a hero’s welcome as you play\
-  \ the superheroes you love, months ahead of the game’s official UK release in May\
-  \ next year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will include\
-  \ 30 minutes of gameplay, using the best gear for an optimal gaming experience.\
-  \ There’ll also be Avengers costume displays, a Marvel’s Avengers Artwork Gallery,\
-  \ great giveaways and experiential photo opportunities.</p>\n"
+  \ a pair of tickets to give away.You’ll be given a hero’s welcome as you play the\
+  \ superheroes you love, months ahead of the game’s official UK release in May next\
+  \ year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will include 30 minutes\
+  \ of gameplay, using the best gear for an optimal gaming experience. There’ll also\
+  \ be Avengers costume displays, a Marvel’s Avengers Artwork Gallery, great giveaways\
+  \ and experiential photo opportunities.</p>\n"
 section2-content: "<p>*  - Location: Victoria House, 37 Southampton Row, Holborn,\
   \ London, WC1B 4DA</p>\n<p>* - Session time: 12.30-13.30pm on Thursday 21st November</p>\n\
   <p>* - Please arrive 10 minutes before your session to guarantee entry and bring\
