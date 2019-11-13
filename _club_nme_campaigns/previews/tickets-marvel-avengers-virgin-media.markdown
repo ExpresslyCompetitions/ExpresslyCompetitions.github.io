@@ -25,7 +25,7 @@ banner-img: "https://assets.expresslyapp.com/asset-87c6db90-2b89-4b44-9dde-ad003
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3aa2ba98-b7ae-41cd-a44d-aedba4bdbfed.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-a1c5e5d7-a502-4ac1-bd0a-3b868a8517b5.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-0382560e-d17e-4d98-a6f0-77bf693bd1e3.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-66a5d3b9-58d1-441d-8b6d-8ca497429829.jpg"
 bg-image-second: "https://assets.expresslyapp.com/asset-92ed6cd9-b211-4b96-8a40-0e97b3856436.jpg"
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
