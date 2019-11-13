@@ -29,7 +29,9 @@ section1-content: "<p>’Hollywood’s Bleeding is the third studio album by the
 entry-title: "Win Post Malone ‘Hollywood's Bleeding’ album!"
 entry-content: "<p>Enter the draw to win Post Malone ‘Hollywood's Bleeding’ album\
   \ by completing the form below before 23:59 on the 13th of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen H. who won Post Malone's album!"
+winner-banner: "https://assets.expresslyapp.com/asset-0223e88b-c477-45c1-98c5-f1dc09c78e78.jpg"
 prize-description: "Post Malone ‘Hollywood's Bleeding’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/post-malone-album-giveaway"
