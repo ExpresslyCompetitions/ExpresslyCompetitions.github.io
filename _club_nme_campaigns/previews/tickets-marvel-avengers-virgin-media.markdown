@@ -12,7 +12,7 @@ title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partn
 competition-description: "<p>Virgin Media has teamed up with Square Enix to bring\
   \ you a UK exclusive play of Marvel’s Avengers before it’s official release and\
   \ we’ve got a pair of tickets to give away. You’ll be given a hero’s welcome as\
-  \ you play the superheroes you love, months ahead of the game’s official UK release\
+  \ you play the Super Heroes you love, months ahead of the game’s official UK release\
   \ in May next year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will\
   \ include 30 minutes of gameplay, using the best gear for an optimal gaming experience.\
   \ There’ll also be Avengers costume displays, a Marvel’s Avengers Artwork Gallery,\
@@ -20,7 +20,7 @@ competition-description: "<p>Virgin Media has teamed up with Square Enix to brin
   \ a chance to win now!</p>\n"
 hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
-terms-confirmation: "Marvel-event-November 21st Event Ticketing Terms and Conditions.pdf"
+terms-confirmation: "Marvel-definitive-November 21st Event Ticketing Terms and Conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a0650456-1bd6-4a5d-a6aa-b85c1609bfb0.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3aa2ba98-b7ae-41cd-a44d-aedba4bdbfed.jpg"
@@ -31,7 +31,7 @@ bg-image-second: "https://assets.expresslyapp.com/asset-92ed6cd9-b211-4b96-8a40-
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
   \ exclusive play of Marvel’s Avengers before it’s official release and we’ve got\
   \ a pair of tickets to give away.You’ll be given a hero’s welcome as you play the\
-  \ superheroes you love, months ahead of the game’s official UK release in May next\
+  \ Super Heroes you love, months ahead of the game’s official UK release in May next\
   \ year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will include 30 minutes\
   \ of gameplay, using the best gear for an optimal gaming experience. There’ll also\
   \ be Avengers costume displays, a Marvel’s Avengers Artwork Gallery, great giveaways\
