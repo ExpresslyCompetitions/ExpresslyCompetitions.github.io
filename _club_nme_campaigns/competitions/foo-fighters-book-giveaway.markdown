@@ -36,7 +36,9 @@ section1-content: "<p>From the ashes of Nirvana, Dave Grohl rose as a one-man ba
 entry-title: "Win Foo Fighters: The Band that Dave Made!"
 entry-content: "<p>Enter the draw to win Foo Fighters: The Band that Dave Made by\
   \ completing the form below before 23:59 on the 12th of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Hilary L. who won the incredible Foo Fighters book!"
+winner-banner: "https://assets.expresslyapp.com/asset-e05b0e43-3d46-451e-b32b-475126190f40.jpg"
 prize-description: "Foo Fighters: The Band that Dave Made"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/foo-fighters-book-giveaway"
