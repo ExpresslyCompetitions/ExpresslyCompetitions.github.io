@@ -20,7 +20,7 @@ competition-description: "<p>Virgin Media has teamed up with Square Enix to brin
   \ a chance to win now!</p>\n"
 hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
-terms-confirmation: "Marvel-definitive-November 21st Event Ticketing Terms and Conditions.pdf"
+terms-confirmation: "marvel-event-Terms and Conditions.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a0650456-1bd6-4a5d-a6aa-b85c1609bfb0.jpg"
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3aa2ba98-b7ae-41cd-a44d-aedba4bdbfed.jpg"
