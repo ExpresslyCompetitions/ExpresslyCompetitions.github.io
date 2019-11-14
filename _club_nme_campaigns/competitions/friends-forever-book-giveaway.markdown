@@ -9,12 +9,12 @@ is_promoted: false
 has_entry_page: true
 title: "Win 'Friends Forever' book!"
 competition-description: "<p>Calling all Friends fans! In order to celebrate the 25th\
-  \ Friends Anniversary we have managed to get our hands on the amazing Friends Forever\
+  \ Friends Anniversary we have managed to get our hands on the amazing 'Friends Forever'\
   \ book, a MUST for a Friend fan. A fully illustrated and authorized episode guide\
-  \ celebrating the 25th anniversary of the hit-television show including a look behind\
-  \ the scenes of cult-favourite episodes, exclusive photos from Warner Bros., brand\
+  \ celebrating the 25th Anniversary of the hit-television show including a look behind\
+  \ the scenes of cult-favourite episodes, exclusive photos from Warner Bros, brand\
   \ new interviews with show creators Marta Kauffman, David Crane, and set designer\
-  \ John Shaffner, and more.</p>\n<p>Click below for a chance to win now!</p>\n"
+  \ John Shaffner and more.</p>\n<p>Click below for a chance to win now!</p>\n"
 hero-header: "Win 'Friends Forever' book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-29f6821e-5903-4b32-8383-c0c5416e5587.jpg"
