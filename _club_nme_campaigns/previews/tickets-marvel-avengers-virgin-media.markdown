@@ -2,7 +2,7 @@
 campaign-uuid: "c-501099af-8dc7-4e10-8a25-f0a155f89669"
 type: "Preview"
 category: "Event"
-date: "2019-11-13T13:00:00.000Z"
+date: "2019-11-15T13:00:00.000Z"
 end-date: "2019-11-18T17:00:00.000Z"
 disable-form: false
 is_promoted: true
