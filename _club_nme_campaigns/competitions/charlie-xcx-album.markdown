@@ -30,7 +30,7 @@ section1-content: "<p>The art of collaboration is at the heart of the album, a v
   \ ideals, a pairing which resulted in her striking album cover.</p>\n"
 entry-title: "Win Charli XCX  album!"
 entry-content: "<p>Enter the draw to win Charlie XCX  album by completing the form\
-  \ below before 23:59 on the 15th of December 2019.</p>\n"
+  \ below before 23:59 on the 16th of January 2020.</p>\n"
 has-winner: false
 prize-description: "Charlie XCX  album!"
 special-conditions: "Multiple entries are allowed up to one every day."
