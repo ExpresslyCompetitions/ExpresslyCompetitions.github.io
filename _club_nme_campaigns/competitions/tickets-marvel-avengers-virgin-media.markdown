@@ -3,12 +3,12 @@ campaign-uuid: "c-501099af-8dc7-4e10-8a25-f0a155f89669"
 type: "Competition"
 category: "Event"
 date: "2019-11-15T11:00:00.000Z"
-end-date: "2019-11-18T17:00:00.000Z"
+end-date: "2019-11-19T17:00:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
-  \ with Virgin Media!"
+  \ with Virgin Media! <p><i>© Marvel 2019</i></p>"
 competition-description: "<p>Virgin Media has teamed up with Square Enix to bring\
   \ you a UK exclusive play of Marvel’s Avengers before it’s official release and\
   \ we’ve got a pair of tickets to give away. You’ll be given a hero’s welcome as\
@@ -19,7 +19,7 @@ competition-description: "<p>Virgin Media has teamed up with Square Enix to brin
   \ great giveaways and experiential photo opportunities.</p>\n<p>Click below for\
   \ a chance to win now!</p>\n<p><i>© Marvel 2019</i></p>\n"
 hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
-  \ with Virgin Media!"
+  \ with Virgin Media! <p><i>© Marvel 2019</i></p>"
 terms-confirmation: "marvel-event-terms-conditions-final.pdf"
 banner-img: "https://assets.expresslyapp.com/asset-a0650456-1bd6-4a5d-a6aa-b85c1609bfb0.jpg"
 logo-left-href: "aaa.nme.com"
@@ -46,9 +46,9 @@ section2-content: "<p>*Location: Victoria House, 37 Southampton Row, Holborn, Lo
   \ let us know.</p>\n<p>@VirginMedia. @PlayAvengers and #EmbraceYourPowers</p>\n\
   <p><i>© Marvel 2019</i></p>\n"
 entry-title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
-  \ with Virgin Media!"
+  \ with Virgin Media! <p><i>© Marvel 2019</i></p>"
 entry-content: "<p>Enter below for a chance to win a pair of tickets to an exclusive\
-  \ Marvel’s Avengers event in partnership with Virgin Media before 18th of November\
+  \ Marvel’s Avengers event in partnership with Virgin Media before 19th of November\
   \ 2019.</p>\n"
 has-winner: false
 prize-description: "A pair of tickets to an exclusive Marvel’s Avengers event in partnership\
