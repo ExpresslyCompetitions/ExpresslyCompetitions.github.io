@@ -17,7 +17,7 @@ competition-description: "<p>Virgin Media has teamed up with Square Enix to brin
   \ include 30 minutes of gameplay, using the best gear for an optimal gaming experience.\
   \ There’ll also be Avengers costume displays, a Marvel’s Avengers Artwork Gallery,\
   \ great giveaways and experiential photo opportunities.</p>\n<p>Click below for\
-  \ a chance to win now!</p>\n<p><i>© 2019 Marvel</i></p>\n"
+  \ a chance to win now!</p>\n<p><i>© 2019 MARVEL</i></p>\n"
 hero-header: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
 terms-confirmation: "terms-and-conditions-marvel-event.pdf"
@@ -35,7 +35,7 @@ section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a
   \ year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will include 30 minutes\
   \ of gameplay, using the best gear for an optimal gaming experience. There’ll also\
   \ be Avengers costume displays, a Marvel’s Avengers Artwork Gallery, great giveaways\
-  \ and experiential photo opportunities.</p>\n<p><i>© 2019 Marvel</i></p>\n"
+  \ and experiential photo opportunities.</p>\n<p><i>© 2019 MARVEL</i></p>\n"
 section2-content: "<p>*Location: Victoria House, 37 Southampton Row, Holborn, London,\
   \ WC1B 4DA</p>\n<p>*Session time: 12.30-13.30pm on Thursday 21st November</p>\n\
   <p>*Please arrive 10 minutes before your session to guarantee entry and bring along\
@@ -44,7 +44,7 @@ section2-content: "<p>*Location: Victoria House, 37 Southampton Row, Holborn, Lo
   <p>*Your ticket exclude all food, drink, spending money, travel and any other costs\
   \ connected to the Prize</p>\n<p>*If you require any special assistance, please\
   \ let us know.</p>\n<p>@VirginMedia. @PlayAvengers and #EmbraceYourPowers</p>\n\
-  <p><i>© 2019 Marvel</i></p>\n"
+  <p><i>© 2019 MARVEL</i></p>\n"
 entry-title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
 entry-content: "<p>Enter below for a chance to win a pair of tickets to an exclusive\
