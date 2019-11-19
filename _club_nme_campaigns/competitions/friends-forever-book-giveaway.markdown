@@ -21,7 +21,7 @@ banner-img: "https://assets.expresslyapp.com/asset-29f6821e-5903-4b32-8383-c0c54
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-3aa2ba98-b7ae-41cd-a44d-aedba4bdbfed.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-43f85679-f393-4ca3-aca6-41c1a84dd509.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-6fe2dcdc-b424-4952-84c3-6758832c9aec.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-7343ca0b-dc3f-41fc-8bd0-5bac1cff6b4d.jpg"
 section1-content: "<p>The beloved show Friends introduced the world to six young New\
   \ Yorkers living together, falling in love, breaking up and getting into hilarious\
