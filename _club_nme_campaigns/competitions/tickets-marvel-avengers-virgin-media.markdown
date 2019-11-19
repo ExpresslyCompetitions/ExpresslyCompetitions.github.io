@@ -11,7 +11,7 @@ title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partn
   \ with Virgin Media!"
 competition-description: "<p>Virgin Media has teamed up with Square Enix to bring\
   \ you a UK exclusive play of Marvel’s Avengers before it’s official release and\
-  \ we’ve got a pair of tickets to give away. You’ll be given a hero’s welcome as\
+  \ we’ve got 5 pairs of tickets to give away. You’ll be given a hero’s welcome as\
   \ you play the Super Heroes you love, months ahead of the game’s official UK release\
   \ in May next year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will\
   \ include 30 minutes of gameplay, using the best gear for an optimal gaming experience.\
@@ -30,7 +30,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-02a37a3f-cf04-4f76-87d6-b
 bg-image-second: "https://assets.expresslyapp.com/asset-92ed6cd9-b211-4b96-8a40-0e97b3856436.jpg"
 section1-content: "<p>Virgin Media has teamed up with Square Enix to bring you a UK\
   \ exclusive play of Marvel’s Avengers before it’s official release and we’ve got\
-  \ a pair of tickets to give away.You’ll be given a hero’s welcome as you play the\
+  \ 5 pairs of tickets to give away.You’ll be given a hero’s welcome as you play the\
   \ Super Heroes you love, months ahead of the game’s official UK release in May next\
   \ year.</p>\n<p>The exclusive Marvel’s Avengers gameplay event will include 30 minutes\
   \ of gameplay, using the best gear for an optimal gaming experience. There’ll also\
@@ -51,8 +51,8 @@ entry-content: "<p>Enter below for a chance to win a pair of tickets to an exclu
   \ Marvel’s Avengers event in partnership with Virgin Media before 19th of November\
   \ 2019.</p>\n"
 has-winner: false
-prize-description: "A pair of tickets to an exclusive Marvel’s Avengers event in partnership\
-  \ with Virgin Media!"
+prize-description: "1 of 5 pairs of tickets to an exclusive Marvel’s Avengers event\
+  \ in partnership with Virgin Media!"
 country-restrictions:
 - "GB"
 ---
