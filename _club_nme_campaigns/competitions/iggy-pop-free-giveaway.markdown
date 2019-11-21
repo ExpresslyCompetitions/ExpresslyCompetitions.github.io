@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-09-14T06:00:00.000Z"
 end-date: "2019-11-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Iggy Pop 'Free' album!"
 competition-description: "<p>Calling all Iggy Pop fans! The brand new album of the\
