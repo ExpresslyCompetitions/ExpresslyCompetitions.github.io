@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-09-11T06:00:00.000Z"
 end-date: "2019-11-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Aretha Franklin 'Amazing Grace' on Blu-ray!"
 competition-description: "<p>In 1972, Aretha Franklin, the undisputed Queen of Soul,\
