@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-09-18T06:00:00.000Z"
 end-date: "2019-11-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Downton Abbey Complete Series!"
 competition-description: "<p>Following the release of the incredible Downton Abbey\
