@@ -5,7 +5,7 @@ category: "Event"
 date: "2019-11-15T11:00:00.000Z"
 end-date: "2019-11-19T17:00:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a pair of tickets to an exclusive Marvel’s Avengers event in partnership\
   \ with Virgin Media!"
