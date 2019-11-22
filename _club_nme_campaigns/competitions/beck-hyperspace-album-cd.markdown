@@ -8,11 +8,11 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win Beck 'Hyperspace' new album!"
-competition-description: "<p>He's back & better than ever and we have his 14th album\
-  \ on our hands. You got it right, we're talking about the American Musician Beck!\
-  \ 'Hyperspace' is Beck's brand 11-track album and we want to give it away to one\
-  \ lucky NME AAA member. Are you his biggest fan?</p>\n<p>Click below for a chance\
-  \ to win it now.</p>\n"
+competition-description: "<p>He's back & better than ever and... we have his 14th\
+  \ album on our hands. You got it right, we're talking about the American Musician\
+  \ Beck! 'Hyperspace' is Beck's brand 11-track album and we want to give it away\
+  \ to one lucky NME AAA member. Are you his biggest fan?</p>\n<p>Click below for\
+  \ a chance to win it now.</p>\n"
 hero-header: "Win Beck 'Hyperspace' new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9d406144-cf88-4332-bc17-d9c82cc7d348.jpg"
