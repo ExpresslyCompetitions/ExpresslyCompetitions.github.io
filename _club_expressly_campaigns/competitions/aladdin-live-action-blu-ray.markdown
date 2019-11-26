@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-09-25T06:00:00.000Z"
 end-date: "2019-11-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Aladdin Live Action Blu-ray!"
 competition-description: "<p>From Disney comes the thrilling and vibrant live-action\
