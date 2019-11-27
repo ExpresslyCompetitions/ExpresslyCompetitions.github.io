@@ -7,7 +7,7 @@ end-date: "2019-12-26T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
-title: "Win Martin and Shirlie Kemp ‘In The Swift Of It’ album!"
+title: "Win Martin and Shirlie Kemp ‘In The Swing Of It’ album!"
 competition-description: "<p>For Martin Kemp and his wife Shirlie, recording a Swing\
   \ album together has been as much of a surprise to them as it will no doubt be to\
   \ their fans.The album is an 'open love letter' of carefully selected, uplifting\
@@ -15,7 +15,7 @@ competition-description: "<p>For Martin Kemp and his wife Shirlie, recording a S
   \ two new tracks written by their songwriter daughter Harleymoon Kemp.</p>\n<p>We\
   \ are giving away a copy of their brand new album to you. Click below for a chance\
   \ to win.</p>\n"
-hero-header: "Win Martin and Shirlie Kemp ‘In The Swift Of It’ album!"
+hero-header: "Win Martin and Shirlie Kemp ‘In The Swing Of It’ album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-60b3a9c2-b6b7-403b-8184-136468a7072b.jpg"
 logo-left-href: "aaa.nme.com"
@@ -35,11 +35,12 @@ section1-content: "<p>Recording a Swing album together has been as much of a sur
   <p>The album is an 'open love letter' of carefully selected, uplifting Swing covers,\
   \ chosen by the couple to reflect on their relationship and includes two new tracks\
   \ written by their songwriter daughter Harleymoon Kemp.</p>\n"
-entry-title: "Win Martin and Shirlie Kemp ‘In The Swift Of It’ album!"
-entry-content: "<p>Enter the draw to win Martin and Shirlie Kemp ‘In The Swift Of\
-  \ It’ album by completing the form below before 23:59 on the 26th of December 2019.</p>\n"
+entry-title: "Win Martin and Shirlie Kemp ‘In The Swing Of It’ album!"
+entry-content: "<p>Enter the draw to win Win Martin and Shirlie Kemp ‘In The Swing\
+  \ Of It’ album by completing the form below before 23:59 on the 26th of December\
+  \ 2019.</p>\n"
 has-winner: false
-prize-description: "Martin and Shirlie Kemp ‘In The Swift Of It’ album!"
+prize-description: "Martin and Shirlie Kemp ‘In The Swing Of It’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/martin-shirlie-album-giveaway"
 country-restrictions:
