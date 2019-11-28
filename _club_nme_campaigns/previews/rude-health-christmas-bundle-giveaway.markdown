@@ -29,9 +29,10 @@ bg-image-second: "https://assets.expresslyapp.com/asset-cbab0667-8323-44d7-a272-
 section1-content: "<p>At Rude Health, they make their food out of great things and\
   \ don’t add anything fake or artificial. In 2005, Nick and Camilla Barnard set out\
   \ to create the world’s most enjoyable muesli. As well as being face-meltingly delicious,\
-  \ this Ultimate Muesli turned out to be incredibly good for you.Twelve years later,\
-  \ it’s still blowing people’s pyjamas off, and it’s been joined by a huge range\
-  \ of Rude Health cereals, snacks and drinks made using the best of the best ingredients.</p>\n"
+  \ this Ultimate Muesli turned out to be incredibly good for you.</p>\n<p>Twelve\
+  \ years later, it’s still blowing people’s pyjamas off, and it’s been joined by\
+  \ a huge range of Rude Health cereals, snacks and drinks made using the best of\
+  \ the best ingredients.</p>\n"
 section2-content: "<p>Christmas has come early. We’ve got a spread that will have\
   \ Father Christmas quivering in his boots. Think 15 (mostly) edible items that will\
   \ butter up the in-laws in no time.Clear some space on the kitchen table for this\
