@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-09-28T06:00:00.000Z"
 end-date: "2019-11-28T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Desert Sessions Vol. 11/12' CD!"
 competition-description: "<p>After nearly sixteen years since its last entry, the\
