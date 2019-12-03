@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-10-02T06:00:00.000Z"
 end-date: "2019-12-02T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Rocketman 4K Ultra HD!"
 competition-description: "<p>We are giving away the epic musical story about Elton\
