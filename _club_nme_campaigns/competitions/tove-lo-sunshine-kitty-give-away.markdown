@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-10-05T06:00:00.000Z"
 end-date: "2019-12-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Tove Lo 'Sunshine Kitty' album!"
 competition-description: "<p>Calling all Tove Lo fans, we have amazing news for you:\
