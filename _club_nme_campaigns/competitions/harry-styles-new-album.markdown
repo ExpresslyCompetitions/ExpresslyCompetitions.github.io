@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win Harry Styles 'Fine Line' new album!"
 competition-description: "<p>Calling all Harry Styles fans, we have amazing news for\
   \ you. In order to celebrate the release of the second studio album by the British\
-  \ pop singer and former One Direction member... we have managed to get our hands\
-  \ on one copy of his brand new record 'Fine Line' to one lucky NME AAA member to\
-  \ win!</p>\n<p>Does it sound good to you? Click below and it could be yours!</p>\n"
+  \ pop singer and former One Direction... we have managed to get our hands on one\
+  \ copy of his brand new record 'Fine Line' to give away to one lucky NME AAA member!</p>\n\
+  <p>Does it sound good to you? Click below and it could be yours!</p>\n"
 hero-header: "Win Harry Styles 'Fine Line' new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-3ee038c2-2d0d-4a27-9fe7-980d4a3c83b1.jpg"
