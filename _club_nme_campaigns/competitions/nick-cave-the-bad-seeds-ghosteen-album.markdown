@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-10-09T06:00:00.000Z"
 end-date: "2019-12-09T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Nick Cave and The Bad Seeds 'Ghosteen' album!"
 competition-description: "<p>Ghosteen is the seventeenth studio album from Nick Cave\
