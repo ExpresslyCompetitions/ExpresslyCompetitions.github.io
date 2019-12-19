@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-11-29T08:00:00.000Z"
 end-date: "2019-12-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win an amazing Rude Health Christmas Bundle!"
 competition-description: "<p>Christmas has come early. We’ve got a spread that will\
