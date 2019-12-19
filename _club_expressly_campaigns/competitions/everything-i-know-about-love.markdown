@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-10-16T06:00:00.000Z"
 end-date: "2019-12-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Everything I Know About Love' book!"
 competition-description: "<p>Award-winning journalist Dolly Alderton survived her\
