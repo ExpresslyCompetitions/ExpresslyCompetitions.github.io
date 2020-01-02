@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-10-30T07:00:00.000Z"
 end-date: "2019-12-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Coldplay ‘Everyday Life’ new album!"
 competition-description: "<p>Calling all Coldplay fans! It’s finally happening, Coldplay’\
