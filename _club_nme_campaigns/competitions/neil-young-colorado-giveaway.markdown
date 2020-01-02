@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-10-23T06:00:00.000Z"
 end-date: "2019-12-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Neil Young with Crazy Horse 'Colorado' album!"
 competition-description: "<p>Colorado is the upcoming 39th studio album by Canadian\
