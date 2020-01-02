@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-10-19T06:00:00.000Z"
 end-date: "2019-12-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Yungblud '21st Century Liability' album!"
 competition-description: "<p>We have managed to get our hands on one copy of '21st\
