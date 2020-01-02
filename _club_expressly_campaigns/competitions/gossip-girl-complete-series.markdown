@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-10-23T06:00:00.000Z"
 end-date: "2019-12-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Gossip Girl Complete Series!"
 competition-description: "<p>Based on the best-selling series of young-adult novels\
