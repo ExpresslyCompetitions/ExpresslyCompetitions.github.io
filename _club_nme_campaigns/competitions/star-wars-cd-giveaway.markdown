@@ -25,8 +25,8 @@ section1-content: "<p>’The original motion picture soundtrack for ‘Star Wars
   \ Rise of Skywalker’ is finally here and we want to give away a copy to you. Farewell,\
   \ Reunion, A New Home… are some of the amazing tunes you could find in the album.\
   \ The album features a new score conducted and composed by five-time Academy Award-winning\
-  \ composer John Williams.\n<p>Want it? Click below and it could be coming home with\
-  \ you. Good luck!</p>\n"
+  \ composer John Williams.</p>\n<p>Want it? Click below and it could be coming home\
+  \ with you. Good luck!</p>\n"
 entry-title: "Win ‘Star Wars: The Rise of Skywalker’ CD!"
 entry-content: "<p>Enter the draw to win ‘Star Wars: The Rise of Skywalker’ CD by\
   \ completing the form below before 23:59 on the 27th of January 2020.</p>\n"
