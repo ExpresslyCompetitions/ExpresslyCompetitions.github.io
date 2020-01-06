@@ -2,7 +2,7 @@
 campaign-uuid: "c-92e94be3-31e4-4927-bc94-0aeac64725a9"
 type: "Competition"
 category: "Music"
-date: "2010-12-09T08:00:00.000Z"
+date: "2019-12-09T08:00:00.000Z"
 end-date: "2020-01-09T23:59:00.000Z"
 disable-form: false
 is_promoted: false
