@@ -5,7 +5,7 @@ category: "Food"
 date: "2019-11-27T07:00:00.000Z"
 end-date: "2019-12-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a Hotel Chocolat Christmas Hamper!"
 competition-description: "<p>Christmas is just around the corner and we want it to\
