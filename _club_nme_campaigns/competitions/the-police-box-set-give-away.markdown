@@ -11,9 +11,8 @@ title: "Win The Police Box Set!"
 competition-description: "<p>We are giving away 'Every Move You Make: The Studio Recordings',\
   \ a limited edition 6-CD box set edition from one of the best Bristish Rock bands\
   \ of all time: The Police. The Box Set features all five studio albums + a bonus\
-  \ disc. The collection features 14 top-20 singles, including five number ones!</p>\n\
-  <p>Such an amazing prize you won't want to miss. Click below for a chance to win\
-  \ it now.</p>\n"
+  \ disc.</p>\n<p>Such an amazing prize you won't want to miss. Click below for a\
+  \ chance to win it now.</p>\n"
 hero-header: "Win The Police Box Set!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f6c44be4-3d43-4a00-b4a8-dd5fba3ede5e.jpg"
