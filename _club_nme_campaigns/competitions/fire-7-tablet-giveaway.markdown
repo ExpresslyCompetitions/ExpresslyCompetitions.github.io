@@ -5,7 +5,7 @@ category: "Technology"
 date: "2019-11-06T07:00:00.000Z"
 end-date: "2020-01-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win the All-new Fire 7 Tablet!"
 competition-description: "<p>We have on our hands an amazing Fire 7 Tablet and we\
