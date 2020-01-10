@@ -12,7 +12,7 @@ competition-description: "<p>Vex King is a social media influencer, writer, mind
   \ and lifestyle entrepreneur. Vex experienced many challenges when he was growing\
   \ up and now, he just released this amazing book, a movement to help others use\
   \ the power of positivity to transform themselves and their lives into something\
-  \ greater</p>\n<p>Want it? Click below for a chance to win.</p>\n"
+  \ greater.</p>\n<p>Want it? Click below for a chance to win.</p>\n"
 hero-header: "Win ‘Good Vibes, Good Life’ book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-895d3004-0dca-4247-81b2-4dfef1151c21.jpg"
