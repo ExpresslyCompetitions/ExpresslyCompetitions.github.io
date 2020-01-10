@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-11-09T07:00:00.000Z"
 end-date: "2020-01-09T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Poppy 'Am I A Girl?' album!"
 competition-description: "<p>'Am I A Girl?' is the sophomore album by YouTube sensation\
