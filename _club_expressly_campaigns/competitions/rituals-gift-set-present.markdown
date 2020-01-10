@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-11-06T06:00:00.000Z"
 end-date: "2020-01-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Happy Buddha Gift Set from Rituals!"
 competition-description: "<p>This wonderful gift pack is the perfect present for a\
