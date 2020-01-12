@@ -12,9 +12,8 @@ competition-description: "<p>Stormzy is back! Following the release of 'Gang Sig
   \ and Prayer' (2017), his award-winning, platinum-selling debut album, Stormzy may\
   \ no longer be stepping between the street and the sermon, but he's still walking\
   \ between two worlds: that of the celebrity and of the everyman.</p>\n<p>In order\
-  \ to celebrate the release of his brand new album ‘Gang Signs and Prayer’ we are\
-  \ giving away a copy for you to enjoy it. Click below and it could be coming home\
-  \ with you.</p>\n"
+  \ to celebrate the release of his brand new album, we are giving away a copy for\
+  \ you to enjoy it. Click below and it could be coming home with you.</p>\n"
 hero-header: "Win Stormzy ‘Heavy Is The Head’ new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1d65b03d-2cfb-427c-9683-64ffaefe4329.jpg"
