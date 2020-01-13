@@ -35,5 +35,5 @@ prize-description: "’’Joker’’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/the-joker-blu-ray-give-away"
 country-restrictions:
-- "US"
+- "GB"
 ---
