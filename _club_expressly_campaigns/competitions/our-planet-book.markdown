@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-11-20T06:00:00.000Z"
 end-date: "2020-01-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Our Planet' book!"
 competition-description: "<p>From deep oceans to remote forests to ice caps, 'Our\
