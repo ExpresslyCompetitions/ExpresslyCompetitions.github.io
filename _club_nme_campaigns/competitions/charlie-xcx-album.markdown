@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-11-16T08:00:00.000Z"
 end-date: "2020-01-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Charli XCX  album!"
 competition-description: "<p>Charli XCX is back with a brand new album: Charli. An\
