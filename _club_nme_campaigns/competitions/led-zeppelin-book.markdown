@@ -8,12 +8,12 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win ‘Led Zeppelin’ by Led Zeppelin book!"
-competition-description: "<p>Led Zeppelin by Led Zeppelin is the first and only official\
-  \ illustrated book to be produced in collaboration with the members of the band.\
-  \ It covers the group’s unparalleled musical career and features photographs of\
-  \ Jimmy Page, Robert Plant, John Paul Jones and John Bonham on and offstage, in\
-  \ candid moments and in the recording studio</p>\n<p>We are giving away a copy of\
-  \ the book to one lucky NME AAA member. Click below for a chance to win.</p>\n"
+competition-description: "<p>‘Led Zeppelin’ by Led Zeppelin is the first and only\
+  \ official illustrated book to be produced in collaboration with the members of\
+  \ the band. It covers the group’s unparalleled musical career and features photographs\
+  \ of Jimmy Page, Robert Plant, John Paul Jones and John Bonham on and offstage,\
+  \ in candid moments and in the recording studio</p>\n<p>We are giving away a copy\
+  \ of the book to one lucky NME AAA member. Click below for a chance to win.</p>\n"
 hero-header: "Win ‘Led Zeppelin’ by Led Zeppelin book!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4140f4ca-3c0a-4c0b-b20f-5e32bf54c86b.jpg"
@@ -22,7 +22,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-10953888-0637-403c-ae90-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-f96b0a5f-97a4-453e-8efd-6906381b83ba.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-ef0471e1-acef-4a00-8646-0ff786daac5b.jpg"
-section1-content: "<p>Led Zeppelin by Led Zeppelin is the first and only official\
+section1-content: "<p>‘Led Zeppelin’ by Led Zeppelin is the first and only official\
   \ illustrated book to be produced in collaboration with the members of the band.\
   \ Celebrating 50 years since their formation, it covers the group’s unparalleled\
   \ musical career and features photographs of Jimmy Page, Robert Plant, John Paul\
