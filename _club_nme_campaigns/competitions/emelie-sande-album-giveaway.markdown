@@ -41,7 +41,9 @@ section1-content: "<p>With all lyrics written by Emeli and working with the like
 entry-title: "Win Emelie Sande ‘Real Life’ album!"
 entry-content: "<p>Enter the draw to win Emelie Sande ‘Real Life’ album by completing\
   \ the form below before 23:59 on the 17th of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Louise C. who won Emelie Sande ‘Real Life’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-349ca737-5891-4b3c-9952-5b683e8fdcfd.jpg"
 prize-description: "Emelie Sande ‘Real Life’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/emelie-sande-album-giveaway"
