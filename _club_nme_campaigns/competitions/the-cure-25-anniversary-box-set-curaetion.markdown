@@ -31,7 +31,10 @@ section1-content: "<p>’In 2018 The Cure performed two historic shows celebrati
 entry-title: "Win The Cure Curaetion-25 Anniversary Box Set!"
 entry-content: "<p>Enter the draw to win The Cure Curaetion-25 Anniversary Box Set\
   \ by completing the form below before 23:59 on the 24th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Teresa L. who won The Cure Curaetion-25 Anniversary\
+  \ Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-4baf010a-1708-48c9-aac1-3a2c32715a7e.jpg"
 prize-description: "The Cure Curaetion-25 Anniversary Box Set"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/the-cure-25-anniversary-box-set-curaetion"
