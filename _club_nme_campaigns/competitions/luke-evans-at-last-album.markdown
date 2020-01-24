@@ -35,7 +35,9 @@ section1-content: "<p>The bold and imaginative selection of songs that have been
 entry-title: "Win Luke Evans ‘At Last’ album!"
 entry-content: "<p>Enter the draw to win  Luke Evans ‘At Last’ album by completing\
   \ the form below before 23:59 on the 23rd of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Elzbieta Z. who won Luke Evans ‘At Last’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-c5de3785-30e9-430a-97c4-dfda40a08614.jpg"
 prize-description: "Luke Evans ‘At Last’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/luke-evans-at-last-album"
