@@ -30,7 +30,10 @@ section1-content: "<p>Philadelphia's Sheer Mag return with their sophomore album
 entry-title: "Win Sheer Mag 'A Distant Call' on vinyl edition!"
 entry-content: "<p>Enter the draw to win Sheer Mag 'A Distant Call' on vinyl by completing\
   \ the form below before 23:59 on the 31st of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joanna H. who won Sheer Mag 'A Distant Call' on\
+  \ vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-8b80d2f2-5631-4239-8935-545fe32369ad.jpg"
 prize-description: "Sheer Mag 'A Distant Call' on vinyl edition"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
