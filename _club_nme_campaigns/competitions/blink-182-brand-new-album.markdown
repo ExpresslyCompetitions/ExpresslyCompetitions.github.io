@@ -33,7 +33,9 @@ section1-content: "<p>’Nine’ is the ninth studio album by the California roc
 entry-title: "Win Blink-182 ‘Nine’ album!"
 entry-content: "<p>Enter the draw to win Blink-182 ‘Nine’ album by completing the\
   \ form below before 23:59 on the 23rd of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chris J. who won Blink-182 ‘Nine’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-665aeca3-e7bb-4e79-b8a9-e2c98c77017e.jpg"
 prize-description: "Blink-182 ‘Nine’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/blink-182-brand-new-album"
