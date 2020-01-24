@@ -37,7 +37,10 @@ section1-content: "<p>All the Songs is about the music, detailing the Page's stu
 entry-title: "Win Led Zeppelin All the Songs: The Story Behind Every Track!"
 entry-content: "<p>Enter the draw to win Led Zeppelin All the Songs: The Story Behind\
   \ Every Track by completing the form below before 23:59 on the 21st of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rosalind W. who won Led Zeppelin All the Songs:\
+  \ The Story Behind Every Track!"
+winner-banner: "https://assets.expresslyapp.com/asset-c94a1431-65be-4ac4-8481-048a5dab6c26.jpg"
 prize-description: "Led Zeppelin All the Songs: The Story Behind Every Track"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
