@@ -34,7 +34,10 @@ section1-content: "<p>’Hey, I’m Just Like You’ is a return to Tegan and Sa
 entry-title: "Win Tegan and Sara brand new album!"
 entry-content: "<p>Enter the draw to win Tegan and Sara brand new album by completing\
   \ the form below before 23:59 on the 30th of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stuart H. who won the amazing album from Tegan and\
+  \ Sara!"
+winner-banner: "https://assets.expresslyapp.com/asset-a253946d-665f-42c2-9fd7-027ea5bdcbc3.jpg"
 prize-description: "Tegan and Sara brand new album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/tegan-sara-hey-im-just-like.you"
