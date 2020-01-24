@@ -34,7 +34,9 @@ section1-content: "<p>Produced by Nick Launay, the album was recorded with Anna'
 entry-title: "Win Anna Calvi ‘Hunter’ vinyl!"
 entry-content: "<p>Enter the draw to win Anna Calvi ‘Hunter’ vinyl by completing the\
   \ form below before 23:59 on the 20th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Simon D who won Anna Calvi's vinyl!"
+winner-banner: "https://assets.expresslyapp.com/asset-93cc6986-838d-478d-9488-2f9184c6d4a0.jpg"
 prize-description: "Anna Calvi ‘Hunter’ vinyl"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/anna-calvi-hunter-vinyl"
