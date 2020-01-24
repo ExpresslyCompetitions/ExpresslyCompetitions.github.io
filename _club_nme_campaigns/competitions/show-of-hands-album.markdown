@@ -33,7 +33,9 @@ section1-content: "<p>With its arresting cover of a felled marionette, ‘Battle
 entry-title: "Win Show Of Hands new album!"
 entry-content: "<p>Enter the draw to win a Show Of Hands new album by completing the\
   \ form below before 23:59 on the 3rd of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Eva P. who won the Show Of Hands new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-0fc1e450-d854-4b22-8e51-c57aa3bf5dc7.jpg"
 prize-description: "Show Of Hands new album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/show-of-hands-album"
