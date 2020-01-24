@@ -30,7 +30,10 @@ section1-content: "<p>'Live In the City of Angels' is a 40-track live album, rec
 entry-title: "Win Simple Minds ‘Live In The City Of Angels’ Box Set!"
 entry-content: "<p>Enter the draw to win Simple Minds ‘Live In The City Of Angels’\
   \ Box Set by completing the form below before 23:59 on the 10th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to James K. Simple Minds ‘Live In The City Of Angels’\
+  \ Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-51aa2aa4-0c91-4ab2-a481-4c4f103e5ffc.jpg"
 prize-description: "Simple Minds ‘Live In The City Of Angels’ Box Set"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/simple-minds-live-angels-box-set"
