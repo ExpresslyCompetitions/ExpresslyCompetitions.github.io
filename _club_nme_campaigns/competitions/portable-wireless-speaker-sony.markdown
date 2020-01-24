@@ -32,7 +32,10 @@ entry-title: "Win the Sony Compact and Portable Waterproof Wireless Speaker!"
 entry-content: "<p>Enter the draw to win  the Sony Compact and Portable Waterproof\
   \ Wireless Speaker by completing the form below before 23:59 on the 3rd of November\
   \ 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tim G. who won the Sony Compact and Portable Waterproof\
+  \ Wireless Speaker!"
+winner-banner: "https://assets.expresslyapp.com/asset-021c9288-857e-4239-97a5-a6a13bf13f97.jpg"
 prize-description: "The Sony Compact and Portable Waterproof Wireless Speaker."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
