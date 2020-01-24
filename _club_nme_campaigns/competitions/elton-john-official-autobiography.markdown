@@ -30,7 +30,9 @@ section1-content: "<p>'In ‘ME’ Elton also writes powerfully about getting cl
 entry-title: "Win ‘ME’ Elton John Official Autobiography!"
 entry-content: "<p>Enter the draw to win ‘ME’ Elton John Official Autobiography by\
   \ completing the form below before 23:59 on the 11th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Laura S. who won ‘ME’ Elton John Official Autobiography!"
+winner-banner: "https://assets.expresslyapp.com/asset-94d83c3b-f12e-4415-b224-285e30a0052f.jpg"
 prize-description: "‘ME’ Elton John Official Autobiography"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/elton-john-official-autobiography"
