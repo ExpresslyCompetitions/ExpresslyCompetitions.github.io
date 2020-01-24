@@ -33,7 +33,10 @@ section1-content: "<p>In Before We Was We, their first official book, Madness te
 entry-title: "Win ‘Before We Was We’ Madness official book!"
 entry-content: "<p>Enter the draw to win ‘Before We Was We’ Madness official book\
   \ by completing the form below before 23:59 on the 22nd of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kevin W.  who won ‘Before We Was We’ Madness official\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-653c7dad-b17f-46ea-a54e-8d805c52d02c.jpg"
 prize-description: "‘Before We Was We’ Madness official book"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/madness-book-before-we-was-we"
