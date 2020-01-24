@@ -37,7 +37,9 @@ section1-content: "<p>‘The Greatest Hits’ is a comprehensive, cohesive and c
 entry-title: "Win Thunder ‘The Greatest Hits’ Box Set!"
 entry-content: "<p>Enter the draw to win Thunder ‘The Greatest Hits’ Box Set by completing\
   \ the form below before 23:59 on the 21st of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kay B. who won Thunder ‘The Greatest Hits’ Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-5a2264a0-2a28-4ec6-9176-1bf0432a3a66.jpg"
 prize-description: "Thunder ‘The Greatest Hits’ Box Set"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitions/thunder-greatest-hits-giveaway"
