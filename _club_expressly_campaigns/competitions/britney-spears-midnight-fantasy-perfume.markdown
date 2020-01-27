@@ -33,7 +33,10 @@ section1-content: "<p>This fragrance, Midnight Fantasy is Britney Spears fourth 
 entry-title: "Win Britney Spears 'Midnight Fantasy' perfume!"
 entry-content: "<p>Enter the draw to win Britney Spears 'Midnight Fantasy' perfume\
   \ by completing the form below before 23:59 on the 14th of September 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jenny M. who won Britney Spears 'Midnight Fantasy'\
+  \ perfume!"
+winner-banner: "https://assets.expresslyapp.com/asset-a017ae03-53ac-474c-a81e-e6432d8442f6.jpg"
 prize-description: "Britney Spears 'Midnight Fantasy' perfume."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
