@@ -34,7 +34,9 @@ section1-content: "<p>Give the gift of serious softening and hydration with Burt
 entry-title: "Win Burt's Bees beauty pack!"
 entry-content: "<p>Enter the draw to win Burt's Bees beauty pack by completing the\
   \ form below before 23:59 on the 21st of October 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lucy M. who won Burt's Bees beauty pack!"
+winner-banner: "https://assets.expresslyapp.com/asset-36cb1728-5caa-4866-8d9f-deeba655610e.jpg"
 prize-description: "Burt's Bees beauty pack"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
