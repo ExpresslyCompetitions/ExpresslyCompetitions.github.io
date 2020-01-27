@@ -34,7 +34,9 @@ section1-content: "<p>The students first learn that Serena van der Woodsen, once
 entry-title: "Win Gossip Girl Complete Series!"
 entry-content: "<p>Enter the draw to win Gossip Girl Complete Series by completing\
   \ the form below before 23:59 on the 23rd of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Alan D. who won Gossip Girl Complete Series!"
+winner-banner: "https://assets.expresslyapp.com/asset-d432fa3c-ace0-49db-877c-e5d82a20f991.jpg"
 prize-description: "Gossip Girl Complete Series"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
