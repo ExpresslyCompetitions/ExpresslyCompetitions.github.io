@@ -32,7 +32,10 @@ section1-content: "<p>Van Morrison sixth studio album is finally here. ‘Three 
 entry-title: "Win Van Morrison ‘Three Chords And The Truth’ album!"
 entry-content: "<p>Enter the draw to win Van Morrison ‘Three Chords And The Truth’\
   \ album by completing the form below before 23:59 on the 7th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brian B. who won Van Morrison ‘Three Chords And\
+  \ The Truth’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e64edd27-4aee-49d6-acb2-3f68c486a622.jpg"
 prize-description: "Van Morrison ‘Three Chords And The Truth’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/van-morrison-album-giveaway"
