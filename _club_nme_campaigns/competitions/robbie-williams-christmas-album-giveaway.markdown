@@ -32,7 +32,10 @@ section1-content: "<p>Christmas is just around the corner and we have the best g
 entry-title: "Win Robbie Williams ‘The Christmas Present’ Deluxe Edition!"
 entry-content: "<p>Enter the draw to win Robbie Williams ‘The Christmas Present’ Deluxe\
   \ Edition by completing the form below before 23:59 on the 12th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Nikki H. who won Robbie Williams ‘The Christmas\
+  \ Present’ Deluxe Edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-ba35a094-0131-4b34-a98d-b267eb0482bb.jpg"
 prize-description: "Robbie Williams ‘The Christmas Present’ Deluxe Edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/robbie-williams-christmas-album-giveaway"
