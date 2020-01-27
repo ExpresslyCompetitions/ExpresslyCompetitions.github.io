@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-11-23T08:00:00.000Z"
 end-date: "2020-01-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Beck 'Hyperspace' new album!"
 competition-description: "<p>He's back & better than ever and... we have his 14th\
