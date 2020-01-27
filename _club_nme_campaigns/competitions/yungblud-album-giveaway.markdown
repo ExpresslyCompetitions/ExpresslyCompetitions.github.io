@@ -30,7 +30,10 @@ section1-content: "<p>Calling all Yungblud fans! we have great news for you: we 
 entry-title: "Win Yungblud '21st Century Liability' album!"
 entry-content: "<p>Enter the draw to win Yungblud '21st Century Liability' album by\
   \ completing the form below before 23:59 on the 19th of December  2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Robert W. who won Yungblud '21st Century Liability'\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-24eac33e-a8b0-4e74-8204-36aecec03c35.jpg"
 prize-description: "Yungblud '21st Century Liability' album"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
