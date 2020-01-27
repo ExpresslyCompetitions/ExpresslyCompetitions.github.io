@@ -31,7 +31,9 @@ section1-content: "<p>Last Christmas is a romantic comedy with a twist, inspired
 entry-title: "Win ‘Last Christmas’ The Soundtrack!"
 entry-content: "<p>Enter the draw to win ‘Last Christmas’ The Soundtrack by completing\
   \ the form below before 23:59 on the 15th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS TO Phill W. who won ‘Last Christmas’ The Soundtrack!"
+winner-banner: "https://assets.expresslyapp.com/asset-0e631f6a-6383-4b7c-8c8c-6fd2ed96b379.jpg"
 prize-description: "‘Last Christmas’ The Soundtrack!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
