@@ -33,7 +33,10 @@ section1-content: "<p>Ghosteen is the seventeenth studio album from Nick Cave an
 entry-title: "Win Nick Cave and The Bad Seeds 'Ghosteen' album!"
 entry-content: "<p>Enter the draw to win Nick Cave and The Bad Seeds 'Ghosteen' album\
   \ by completing the form below before 23:59 on the 8th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carol G. who won Nick Cave and The Bad Seeds 'Ghosteen'\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e3b9b5c2-5bcf-4e3c-aeab-b282cf804c76.jpg"
 prize-description: "Nick Cave and The Bad Seeds 'Ghosteen' album"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
