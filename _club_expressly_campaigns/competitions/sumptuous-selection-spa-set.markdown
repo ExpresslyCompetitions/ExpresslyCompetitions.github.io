@@ -30,7 +30,10 @@ section1-content: "<p>Shower, scrub, soften and smooth for the silkiest skin and
 entry-title: "Win a Sanctuary Spa 'Sumptuous Selection Gift'!"
 entry-content: "<p>Enter the draw to win Sanctuary Spa 'Sumptuous Selection Gift'\
   \ by completing the form below before 23:59 on the 9th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Fiona K. who won Sanctuary Spa 'Sumptuous Selection\
+  \ Gift'!"
+winner-banner: "https://assets.expresslyapp.com/asset-d9e1691d-fed9-4fbb-8cc6-3e32d4497185.jpg"
 prize-description: "A Sanctuary Spa 'Sumptuous Selection Gift'!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
