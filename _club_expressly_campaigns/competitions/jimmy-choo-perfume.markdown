@@ -39,7 +39,9 @@ section1-content: "<p>Sparkling and vivacious, Jimmy Choo Blossom is akin to the
 entry-title: "Win Jimmy Choo Blossom Eau de Parfum!"
 entry-content: "<p>Enter the draw to win Jimmy Choo Blossom Eau de Parfum by completing\
   \ the form below before 23:59 on the 11th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Teresa Lee who won Jimmy Choo Blossom Eau de Parfum!"
+winner-banner: "https://assets.expresslyapp.com/asset-d28bb8b1-67f0-43f7-93f7-29b8cfbb8a5e.jpg"
 prize-description: "Jimmy Choo Blossom Eau de Parfum!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
