@@ -34,7 +34,9 @@ section1-content: "<p>Jeff Lynne’s ELO, whose music has touched fans deeply ac
 entry-title: "Win ‘From Out Of Nowhere’ by Jeff Lynne’s ELO!"
 entry-content: "<p>Enter the draw to win ‘From Out Of Nowhere’ by Jeff Lynne’s ELO\
   \ by completing the form below before 23:59 on the 30th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sandra S. who won Jeff Lynne’s ELO album!"
+winner-banner: "https://assets.expresslyapp.com/asset-4a280275-b00b-49ad-8b6a-7132e813906f.jpg"
 prize-description: "‘From Out Of Nowhere’ by Jeff Lynne’s ELO"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/jeff-lynnes-album-giveaway"
