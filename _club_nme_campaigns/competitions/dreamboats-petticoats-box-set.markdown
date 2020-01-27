@@ -33,7 +33,10 @@ section1-content: "<p>The beloved Dreamboats & Petticoats series returns with Si
 entry-title: "Win Dreamboats & Petticoats ‘Silver Linings’ Box Set!"
 entry-content: "<p>Enter the draw to win Dreamboats &amp; Petticoats ‘Silver Linings’\
   \ Box Set by completing the form below before 23:59 on the 11th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Malcom C. who won Dreamboats & Petticoats ‘Silver\
+  \ Linings’ Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-bae1d9cc-11a1-401e-93c2-19423f48434f.jpg"
 prize-description: "Dreamboats & Petticoats ‘Silver Linings’ Box Set"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/dreamboats-petticoats-box-set"
