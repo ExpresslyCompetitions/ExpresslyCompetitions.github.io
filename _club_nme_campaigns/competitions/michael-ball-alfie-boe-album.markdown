@@ -33,7 +33,10 @@ section1-content: "<p>They’re back. The world’s ultimate musical duo, Michae
 entry-title: "Win Michael Ball and Alfie Boe ‘Back Together’ album!"
 entry-content: "<p>Enter the draw to win Michael Ball and Alfie Boe ‘Back Together’\
   \ album by completing the form below before 23:59 on the 15th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS TO Chris P. who won Michael Ball and Alfie Boe ‘Back\
+  \ Together’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-6901c155-ce54-4d7a-8abf-f97a1d3b5c75.jpg"
 prize-description: "Michael Ball and Alfie Boe ‘Back Together’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/michael-ball-alfie-boe-album"
