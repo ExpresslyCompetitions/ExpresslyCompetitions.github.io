@@ -29,7 +29,9 @@ section1-content: "<p>Pick Your Poison is a card game of unbelievable what would
 entry-title: "Win Pick Your Poison Card Game!"
 entry-content: "<p>Enter the draw to win Pick Your Poison Card Game by completing\
   \ the form below before 23:59 on the 8th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dorothy M. who won this amazing game!"
+winner-banner: "https://assets.expresslyapp.com/asset-6e0825f6-d900-4498-9d7a-5203ea9aa7de.jpg"
 prize-description: "Pick Your Poison Card Game"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/pick-your-poison-card-game-giveaway"
