@@ -38,7 +38,10 @@ section1-content: "<p>The eighth studio album by the English alternative rock gr
 entry-title: "Win elbow 'Giants Of All Sizes' vinyl edition!"
 entry-content: "<p>Enter the draw to win elbow 'Giants Of All Sizes' vinyl edition\
   \ by completing the form below before 23:59 on the 16th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Phil B. who won elbow 'Giants Of All Sizes' vinyl\
+  \ edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-a8e985e3-dc8e-4aa5-8599-6f2c3c8af4a2.jpg"
 prize-description: "elbow 'Giants Of All Sizes' vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
