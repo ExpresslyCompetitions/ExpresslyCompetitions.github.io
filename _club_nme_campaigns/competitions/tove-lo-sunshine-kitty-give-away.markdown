@@ -31,7 +31,9 @@ section1-content: "<p>'Sunshine Kitty' is the fourth studio album by Swedish sin
 entry-title: "Win Tove Lo 'Sunshine Kitty' album!"
 entry-content: "<p>Enter the draw to win Tove Lo 'Sunshine Kitty' album by completing\
   \ the form below before 23:59 on the 5th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen A. who won Tove Lo 'Sunshine Kitty' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-31928e50-6069-4063-930f-ee3c52846260.jpg"
 prize-description: "Tove Lo 'Sunshine Kitty' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
