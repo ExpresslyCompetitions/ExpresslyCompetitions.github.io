@@ -33,7 +33,10 @@ section1-content: "<p>Combining a tradition of craftsmanship with the latest adv
 entry-title: "Win Tous Chinese Freshwater Cultured Pearl Stretch Bracelet!"
 entry-content: "<p>Enter the draw to win Tous Chinese Freshwater Cultured Pearl Stretch\
   \ Bracelet by completing the form below before 23:59 on the 4th of November 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Louise L. who won Tous Chinese Freshwater Cultured\
+  \ Pearl Stretch Bracelet!"
+winner-banner: "https://assets.expresslyapp.com/asset-4738eb30-4fcd-46bb-8741-245af022dbe5.jpg"
 prize-description: "Tous Chinese Freshwater Cultured Pearl Stretch Bracelet"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
