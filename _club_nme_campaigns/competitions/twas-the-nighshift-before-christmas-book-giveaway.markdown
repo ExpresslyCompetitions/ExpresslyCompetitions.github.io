@@ -32,7 +32,10 @@ section1-content: "<p>Christmas is coming, the goose is getting fat… but 1.4 m
 entry-title: "Win ’Twas The Nightshift Before Christmas’ book!"
 entry-content: "<p>Enter the draw to win ’Twas The Nightshift Before Christmas’ book\
   \ by completing the form below before 23:59 on the 22nd of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Paul E. who won ’Twas The Nightshift Before Christmas’\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-65895d54-ce53-40f5-8164-d74981b00ba8.jpg"
 prize-description: "’Twas The Nightshift Before Christmas’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitons/jane-mcdonald-christmas-concert-special-dvd"
