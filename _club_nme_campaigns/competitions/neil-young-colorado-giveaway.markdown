@@ -28,7 +28,10 @@ section1-content: "<p>This incarnation of Crazy Horse is Neil Young on vocals, g
 entry-title: "Win Neil Young with Crazy Horse 'Colorado' album!"
 entry-content: "<p>Enter the draw to win Neil Young with Crazy Horse 'Colorado' album\
   \ by completing the form below before 23:59 on the 23rd of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kevin W. who won Neil Young with Crazy Horse 'Colorado'\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-cbbbb4cf-fa90-48bc-add7-909c02b802f1.jpg"
 prize-description: "Neil Young with Crazy Horse 'Colorado' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
