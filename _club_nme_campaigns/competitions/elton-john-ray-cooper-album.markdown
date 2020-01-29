@@ -34,7 +34,7 @@ section1-content: "<p>First broadcast by BBC Radio 1 in 1979 and the subject of 
   \ I’ve ever given in my life.’’</p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win Elton John with Ray Cooper ‘Live From Moscow’ album!"
 entry-content: "<p>Enter the draw to win Elton John with Ray Cooper ‘Live From Moscow’\
-  \ album by completing the form below before 23:59 on the 30th of February 2019.</p>\n"
+  \ album by completing the form below before 23:59 on the 29th of February 2019.</p>\n"
 has-winner: false
 prize-description: "Elton John with Ray Cooper ‘Live From Moscow’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
