@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-11-27T07:00:00.000Z"
 end-date: "2020-01-27T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Glastonbury 50: The Official Story of Glastonbury Festival!"
 competition-description: "<p>Glastonbury 50 is the authorised, behind-the-scenes,\
