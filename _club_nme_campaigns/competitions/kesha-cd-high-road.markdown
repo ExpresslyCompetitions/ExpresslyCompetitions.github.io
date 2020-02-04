@@ -32,7 +32,7 @@ section1-content: "<p>For the album Kesha enlisted an eclectic roster of collabo
   \ and plenty of lust and laughter, 'High Road' traverses the emotional spectrum.</p>\n"
 entry-title: "Win Kesha 'High Road' new record!"
 entry-content: "<p>Enter the draw to win Kesha 'High Road' new record by completing\
-  \ the form below before 23:59 on the 1st of April 2019.</p>\n"
+  \ the form below before 23:59 on the 1st of April 2020.</p>\n"
 has-winner: false
 prize-description: "Kesha 'High Road' new record!"
 special-conditions: "Multiple entries are allowed up to one every day."
