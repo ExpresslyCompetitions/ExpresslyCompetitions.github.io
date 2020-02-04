@@ -27,7 +27,7 @@ section1-content: "<p>We have managed to get our hands on one copy of  the brand
   <p>Enter below and it could be yours.</p>\n"
 entry-title: "Win Louis Tomlinson 'Walls' new album!"
 entry-content: "<p>Enter the draw to Louis Tomlinson 'Walls' new album by completing\
-  \ the form below before 23:59 on the 29th of March 2019.</p>\n"
+  \ the form below before 23:59 on the 29th of March 2020.</p>\n"
 has-winner: false
 prize-description: "Louis Tomlinson 'Walls' new album!"
 special-conditions: "Multiple entries are allowed up to one every day."
