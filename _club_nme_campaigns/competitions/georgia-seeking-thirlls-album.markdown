@@ -31,7 +31,7 @@ section1-content: "<p>Georgia's deep, brooding reflections carry us through euph
   \ drums.</p>\n<p>Think no more and enter below for a chance to win. Good luck!</p>\n"
 entry-title: "Win Georgia ‘Seeking Thrills’ album!"
 entry-content: "<p>Enter the draw to win Georgia ‘Seeking Thrills’ album by completing\
-  \ the form below before 23:59 on the 17th of February 2019.</p>\n"
+  \ the form below before 23:59 on the 17th of February 2020.</p>\n"
 has-winner: false
 prize-description: "Georgia ‘Seeking Thrills’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
