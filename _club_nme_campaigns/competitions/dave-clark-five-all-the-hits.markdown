@@ -32,7 +32,7 @@ section1-content: "<p>This new UK release will be available in a 1CD Digipack wi
   \ airwaves.</p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win The Dave Clark Five ‘All The Hits’ album!"
 entry-content: "<p>Enter the draw to win The Dave Clark Five ‘All The Hits’ album\
-  \ by completing the form below before 23:59 on the 28th of February 2019.</p>\n"
+  \ by completing the form below before 23:59 on the 28th of February 2020.</p>\n"
 has-winner: false
 prize-description: "The Dave Clark Five ‘All The Hits’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
