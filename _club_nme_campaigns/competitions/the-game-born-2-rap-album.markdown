@@ -27,7 +27,7 @@ section1-content: "<p>We are giving away the latest album of the gangsta rapper 
   \ to win it now.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win The Game 'Born 2 Rap' album!"
 entry-content: "<p>Enter the draw to win The Game 'Born 2 Rap' album by completing\
-  \ the form below before 23:59 on the 25th of March 2019.</p>\n"
+  \ the form below before 23:59 on the 25th of March 2020.</p>\n"
 has-winner: false
 prize-description: "The Game 'Born 2 Rap' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
