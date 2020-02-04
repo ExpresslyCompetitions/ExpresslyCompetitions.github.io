@@ -32,7 +32,7 @@ section1-content: "<p>‘Led Zeppelin’ by Led Zeppelin is the first and only o
   \ the world.</p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win ‘Led Zeppelin’ by Led Zeppelin book!"
 entry-content: "<p>Enter the draw to win ‘Led Zeppelin’ by Led Zeppelin book by completing\
-  \ the form below before 23:59 on the 22nd of March 2019.</p>\n"
+  \ the form below before 23:59 on the 22nd of March 2020.</p>\n"
 has-winner: false
 prize-description: "‘Led Zeppelin’ by Led Zeppelin book!"
 special-conditions: "Multiple entries are allowed up to one every day."
