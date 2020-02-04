@@ -28,7 +28,7 @@ section1-content: "<p>Water-resistant design, Portable and durable, Built-in mic
   \ for a chance to win and let’s get the party started right now!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win the new Sony Portable Speaker"
 entry-content: "<p>Enter the draw to win the new Sony Portable Speaker\nby completing\
-  \ the form below before 23:59 on the 14th of February 2019.</p>\n"
+  \ the form below before 23:59 on the 14th of February 2020.</p>\n"
 has-winner: false
 prize-description: "The new Sony Portable Speaker"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\n\r\n\
