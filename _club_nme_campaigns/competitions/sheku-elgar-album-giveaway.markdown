@@ -33,7 +33,7 @@ section1-content: "<p>Armed with the inspiration of the 1965 recording by his he
   \ Cello Concerto.</p>\n<p>Click below and it could be yours!</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Sheku Kanneh-Mason new album!"
 entry-content: "<p>Enter the draw to win Sheku Kanneh-Mason new album by completing\
-  \ the form below before 23:59 on the 15th of March 2019.</p>\n"
+  \ the form below before 23:59 on the 15th of March 2020.</p>\n"
 has-winner: false
 prize-description: "Sheku Kanneh-Mason new album!"
 special-conditions: "Multiple entries are allowed up to one every day."
