@@ -28,7 +28,7 @@ section1-content: "<p>Rare is Selena Gomez third and brand new album. An album w
   \ songs for you to discover.</p>\n<p>Think no more\n"
 entry-title: "Win Selena Gomez ‘Rare’ album!"
 entry-content: "<p>Enter the draw to win Selena Gomez ‘Rare’ album by completing the\
-  \ form below before 23:59 on the 20th of February 2019.</p>\n"
+  \ form below before 23:59 on the 20th of February 2020.</p>\n"
 has-winner: false
 prize-description: "Selena Gomez ‘Rare’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
