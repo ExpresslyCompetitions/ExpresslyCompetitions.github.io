@@ -32,7 +32,7 @@ section1-content: "<p>This highly collectable book invites the reader into the i
   \ below for a chance to take it home with you.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Nick Cave ‘Stranger Than Kindness’ book!"
 entry-content: "<p>Enter the draw to win Nick Cave ‘Stranger Than Kindness’ book by\
-  \ completing the form below before 23:59 on the 4th of March 2019.</p>\n"
+  \ completing the form below before 23:59 on the 4th of March 2020.</p>\n"
 has-winner: false
 prize-description: "Nick Cave ‘Stranger Than Kindness’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
