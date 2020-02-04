@@ -27,7 +27,7 @@ section1-content: "<p>’’Making this album has been a real emotional and hone
   \ Eternal, Louisa.</p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win Louisa new album: ‘Heavy Love’"
 entry-content: "<p>Enter the draw to win  Louisa new album: ‘Heavy Love’ by completing\
-  \ the form below before 23:59 on the 3rd of March 2019.</p>\n"
+  \ the form below before 23:59 on the 3rd of March 2020.</p>\n"
 has-winner: false
 prize-description: "Louisa new album: ‘Heavy Love’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
