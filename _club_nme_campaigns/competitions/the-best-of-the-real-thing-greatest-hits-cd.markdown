@@ -28,7 +28,7 @@ section1-content: "<p>The Real Thing’s incredible rise from the streets of Tox
   \ it? Enter below and it could be yours!</p>\n"
 entry-title: "Win ‘The Best Of’ The Real Thing Greatest Hits!"
 entry-content: "<p>Enter the draw to win  ‘The Best Of’ The Real Thing Greatest Hits\
-  \ by completing the form below before 23:59 on the 16th of February 2019.</p>\n"
+  \ by completing the form below before 23:59 on the 16th of February 2020.</p>\n"
 has-winner: false
 prize-description: "‘The Best Of’ The Real Thing Greatest Hits!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
