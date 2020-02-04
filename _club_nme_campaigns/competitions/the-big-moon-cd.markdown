@@ -29,7 +29,7 @@ section1-content: "<p>The British post-punk group arrived like a breath of fresh
   \ Bicycle Club).</p>\n<p>Click below and it could be yours!</p>\n"
 entry-title: "Win The Big Moon album 'Walking Like We Do'!"
 entry-content: "<p>Enter the draw to win The Big Moon album 'Walking Like We Do' by\
-  \ completing the form below before 23:59 on the 11th of March 2019.</p>\n"
+  \ completing the form below before 23:59 on the 11th of March 2020.</p>\n"
 has-winner: false
 prize-description: "The Big Moon album 'Walking Like We Do'!"
 special-conditions: "Multiple entries are allowed up to one every day."
