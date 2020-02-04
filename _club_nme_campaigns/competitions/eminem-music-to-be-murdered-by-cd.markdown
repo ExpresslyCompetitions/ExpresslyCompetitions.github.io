@@ -26,7 +26,7 @@ section1-content: "<p>Eminem returns with an album title that pays homage to Alf
   \ below for a chance to take it home with you.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Eminem’s new album: ‘Music To Be Murdered By’"
 entry-content: "<p>Enter the draw to win Eminem’s new album: ‘Music To Be Murdered\
-  \ By’ by completing the form below before 23:59 on the 1st of March 2019.</p>\n"
+  \ By’ by completing the form below before 23:59 on the 1st of March 2020.</p>\n"
 has-winner: false
 prize-description: "Eminem’s new album: ‘Music To Be Murdered By’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
