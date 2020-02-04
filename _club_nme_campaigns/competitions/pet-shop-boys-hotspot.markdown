@@ -29,7 +29,7 @@ section1-content: "<p>’Hotspot’ was mostly recorded in Hansa Studios, Berlin
   \ RAK Studios in London.</p>\n<p>Enter below and it could be yours!</p>\n"
 entry-title: "Win The Pet Shop Boys new album: Hotspot!"
 entry-content: "<p>Enter the draw to win The Pet Shop Boys new album: Hotspot by completing\
-  \ the form below before 23:59 on the 24th of February 2019.</p>\n"
+  \ the form below before 23:59 on the 24th of February 2020.</p>\n"
 has-winner: false
 prize-description: "The Pet Shop Boys new album: Hotspot!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\n\r\n\
