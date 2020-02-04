@@ -28,7 +28,7 @@ section1-content: "<p> ‘R.Y.C.’ is the second studio album by the British pr
   <p>Enter below and it could be yours!</p>\n"
 entry-title: "Win Mura Masa ‘R.Y.C.’ record!"
 entry-content: "<p>Enter the draw to win Mura Masa ‘R.Y.C.’ record by completing the\
-  \ form below before 23:59 on the 27th of February 2019.</p>\n"
+  \ form below before 23:59 on the 27th of February 2020.</p>\n"
 has-winner: false
 prize-description: "Mura Masa ‘R.Y.C.’ record!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
