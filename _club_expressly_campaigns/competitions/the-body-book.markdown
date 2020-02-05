@@ -31,7 +31,10 @@ section1-content: "<p>Bill Bryson sets off to explore the human body, how it fun
 entry-title: "Win 'The Body: A Guide for Occupants' book!"
 entry-content: "<p>Enter the draw to win 'The Body: A Guide for Occupants' book by\
   \ completing the form below before 23:59 on the 30th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tracy B. who won 'The Body: A Guide for Occupants'\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-eec78b5e-593f-4fd5-82da-9cb853a31c3b.jpg"
 prize-description: "'The Body: A Guide for Occupants' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
