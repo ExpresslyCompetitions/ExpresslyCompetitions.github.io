@@ -29,7 +29,10 @@ section1-content: "<p>Have yourself a Merry Little Christmas or give one this ye
 entry-title: "Win a Hotel Chocolat Christmas Hamper!"
 entry-content: "<p>Enter the draw to win a Hotel Chocolat Christmas Hamper by completing\
   \ the form below before 23:59 on the 27th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Johanna B. who won the delicious Hotel Chocolat\
+  \ Christmas Hamper!"
+winner-banner: "https://assets.expresslyapp.com/asset-bf204b62-4cf2-46c1-b0c5-c6cff82e4f2d.jpg"
 prize-description: "A Hotel Chocolat Christmas Hamper."
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
