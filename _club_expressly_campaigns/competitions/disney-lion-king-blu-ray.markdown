@@ -35,7 +35,9 @@ section1-content: "<p>Disney’s “The Lion King, directed by Jon Favreau, jour
 entry-title: "Win Disney's The Lion King on Blu-ray!"
 entry-content: "<p>Enter the draw to win Disney's The Lion King on Blu-ray by completing\
   \ the form below before 23:59 on the 29th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carly B. who won Disney's The Lion King on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-a89d4037-a5ac-4941-b56e-5276db0fb954.jpg"
 prize-description: "Disney's The Lion King on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
