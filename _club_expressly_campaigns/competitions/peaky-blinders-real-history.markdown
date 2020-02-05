@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2019-12-04T06:00:00.000Z"
 end-date: "2020-02-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Peaky Blinders: The Real Story' Book!"
 competition-description: "<p>The Peaky Blinders as we know them, thanks to the hit\
