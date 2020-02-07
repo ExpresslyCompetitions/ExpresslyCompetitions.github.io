@@ -30,7 +30,10 @@ section1-content: "<p>'Something To Tell You' is American pop rock band Haims se
 entry-title: "Win Haim's 'Something To Tell You' album!"
 entry-content: "<p>Enter the draw to win Haim's 'Something To Tell You' album by completing\
   \ the form below before 23:59 on the 2nd of January 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to James P. who won Haim's 'Something To Tell You'\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-80d8dc5b-1d30-4f09-91ab-1dcaf5b01f0b.jpg"
 prize-description: "Haim 'Something To Tell You' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
