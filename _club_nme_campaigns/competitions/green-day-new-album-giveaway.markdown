@@ -3,9 +3,9 @@ campaign-uuid: "c-da7f7b8e-dce0-4c33-8987-26a9eb234663"
 type: "Competition"
 category: "Music"
 date: "2020-02-06T06:00:00.000Z"
-end-date: "2020-03-06T23:59:00.000Z"
+end-date: "2020-04-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Green Day ‘Father Of All…’ new album!"
 competition-description: "<p>We are giving away the thirteenth brand new album from\
@@ -29,7 +29,7 @@ section1-content: "<p>Green Day is back and better than ever. Here they come wit
   .</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Green Day ‘Father Of All…’ new album!"
 entry-content: "<p>Enter the draw to win Green Day ‘Father Of All…’ new album by completing\
-  \ the form below before 23:59 on the 6th of March 2020.</p>\n"
+  \ the form below before 23:59 on the 6th of April 2020.</p>\n"
 has-winner: false
 prize-description: "Green Day ‘Father Of All…’ new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
