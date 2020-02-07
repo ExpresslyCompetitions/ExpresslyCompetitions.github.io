@@ -27,13 +27,13 @@ section1-content: "<p>The book is told in four parts. The first is composed of t
   \ of Prince's writing and photos. The third section shows us Prince's evolution\
   \ through candid images that take us up to the cusp of his greatest achievement,\
   \ which we see in the book's fourth section: his original handwritten treatment\
-  \ for Purple Rain―the final stage in Prince's self-creation, as he retells the autobiography\
+  \ for Purple Rain?the final stage in Prince's self-creation, as he retells the autobiography\
   \ we've seen in the first three parts as a heroic journey.</p>\n<p>This work is\
   \ not just a tribute to Prince, but an original and energizing literary work, full\
   \ of Prince’s ideas and vision, his voice and image, his undying gift to the world.</p>\n"
 entry-title: "Win Prince ‘The Beautiful Ones’ book!"
 entry-content: "<p>Enter the draw to win Prince ‘The Beautiful Ones’ book by completing\
-  \ the form below before 23:59 on the 17th of March 2020.</p>\n"
+  \ the form below before 23:59 on the 18th of March 2020.</p>\n"
 has-winner: false
 prize-description: "Prince ‘The Beautiful Ones’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
