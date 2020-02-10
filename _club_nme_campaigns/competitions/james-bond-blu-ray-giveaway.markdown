@@ -29,7 +29,10 @@ section1-content: "<p>Experience Bond with this fitting tribute to the most icon
 entry-title: "Win The James Bond Collection 1-24 on Blu-ray!"
 entry-content: "<p>Enter the draw to win The James Bond Collection 1-24 on Blu-ray\
   \ by completing the form below before 23:59 on the 6th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Patricia A. who won The James Bond Collection 1-24\
+  \ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-bbdf1546-ad1d-48ce-83fd-a137f4acef80.jpg"
 prize-description: "The James Bond Collection 1-24 on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitons/james-bond-blu-ray-giveaway"
