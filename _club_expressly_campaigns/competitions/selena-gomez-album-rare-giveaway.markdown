@@ -2,8 +2,8 @@
 campaign-uuid: "c-33d3a90a-0b25-43af-b720-69ff5756e249"
 type: "Competition"
 category: "Music"
-date: "2020-01-15T08:00:00.000Z"
-end-date: "2020-02-15T23:59:00.000Z"
+date: "2020-01-20T08:00:00.000Z"
+end-date: "2020-02-20T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
