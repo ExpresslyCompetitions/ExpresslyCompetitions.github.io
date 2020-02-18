@@ -5,7 +5,7 @@ category: "Music"
 date: "2019-12-11T07:00:00.000Z"
 end-date: "2020-02-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Harry Styles 'Fine Line' new album!"
 competition-description: "<p>Calling all Harry Styles fans, we have amazing news for\
