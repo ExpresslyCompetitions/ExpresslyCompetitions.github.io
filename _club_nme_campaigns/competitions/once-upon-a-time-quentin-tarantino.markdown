@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2019-12-18T07:00:00.000Z"
 end-date: "2020-02-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Once Upon a Time in... Hollywood' on Blu-ray!"
 competition-description: "<p>We are giving away the movie everybody is talking about:\
