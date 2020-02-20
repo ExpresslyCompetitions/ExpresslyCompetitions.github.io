@@ -20,7 +20,7 @@ logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-510971e4-c7d4-4351-ac95-869bbb3249e8.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-c1f60ce6-9893-4967-bcfc-2f9048842dc5.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-d0d4e622-d02e-4b95-a8c6-a4cf7d7edc42.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-fbe9dc87-0104-44b9-b8ba-75f882ba9def.jpg"
 section1-content: "<p>She has become the biggest thing in healthy eating. Ella is\
   \ keen to embrace all aspects of wellbeing, prioritising self-care. In the book\
   \ she will share the important insights learned from her chart-topping podcast,\
