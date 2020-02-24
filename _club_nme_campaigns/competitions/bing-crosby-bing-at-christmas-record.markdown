@@ -32,7 +32,10 @@ section1-content: "<p>This album gives the world the chance to hear these belove
 entry-title: "Win Bing Crosby ‘Bing At Christmas’ record!"
 entry-content: "<p>Enter the draw to win Bing Crosby ‘Bing At Christmas’ record by\
   \ completing the form below before 23:59 on the 9th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Louise C. who won Bing Crosby ‘Bing At Christmas’\
+  \ record!"
+winner-banner: "https://assets.expresslyapp.com/asset-9c4ab8b9-0d58-4049-baa3-ea63e078d105.jpg"
 prize-description: "Bing Crosby ‘Bing At Christmas’ record!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/bing-crosby-bing-at-christmas-record"
