@@ -37,7 +37,9 @@ section1-content: "<p>The beloved show Friends introduced the world to six young
 entry-title: "Win 'Friends Forever' book!"
 entry-content: "<p>Enter the draw to win 'Friends Forever' book by completing the\
   \ form below before 23:59 on the 14th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brian W. who won the 'Friends Forever' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-71403c66-3a5e-4f4e-a208-683ee82c8d01.jpg"
 prize-description: "'Friends Forever' book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: http://club.expressly.io/competitions/friends-forever-book-giveaway"
