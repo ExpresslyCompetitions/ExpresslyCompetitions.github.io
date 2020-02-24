@@ -31,7 +31,9 @@ section1-content: "<p>‘Recorded in New York, LA and London, Michael returned t
 entry-title: "Win Michael Kiwanuka ‘KIWANUKA’ vinyl!"
 entry-content: "<p>Enter the draw to win Michael Kiwanuka ‘KIWANUKA’ vinyl by completing\
   \ the form below before 23:59 on the 20th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Craig A. who won Michael Kiwanuka ‘KIWANUKA’ vinyl!"
+winner-banner: "https://assets.expresslyapp.com/asset-73f48f3e-0543-45ca-ba37-4d14ed4cd448.jpg"
 prize-description: "Michael Kiwanuka ‘KIWANUKA’ vinyl!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/michael-kiwanuka-vinyl"
