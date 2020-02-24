@@ -37,7 +37,10 @@ entry-title: "Win ‘You’re In My Heart: Rod Stewart with the Royal Philharmon
 entry-content: "<p>Enter the draw to win ‘You’re In My Heart: Rod Stewart with the\
   \ Royal Philharmonic Orchestra’ Deluxe Album by completing the form below before\
   \ 23:59 on the 25th of December 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Anthony M. who won ‘You’re In My Heart: Rod Stewart\
+  \ with the Royal Philharmonic Orchestra’ Deluxe Album!"
+winner-banner: "https://assets.expresslyapp.com/asset-9e9bca60-959b-4b91-88fd-6bbd7ac4f637.jpg"
 prize-description: "‘You’re In My Heart: Rod Stewart with the Royal Philharmonic Orchestra’\
   \ Deluxe Album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
