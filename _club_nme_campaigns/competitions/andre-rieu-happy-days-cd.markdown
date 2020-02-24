@@ -29,7 +29,9 @@ section1-content: "<p>Happy Days includes an exclusive BONUS DVD: Happy Days in 
 entry-title: "Win André Rieu ‘Happy Days’ CD!"
 entry-content: "<p>Enter the draw to win André Rieu ‘Happy Days’ CD by completing\
   \ the form below before 23:59 on the 13th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carol G. who won André Rieu ‘Happy Days’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-be90a652-482f-4b71-b262-dc039c40d8dd.jpg"
 prize-description: "André Rieu ‘Happy Days’ CD"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/andre-rieu-happy-days-cd"
