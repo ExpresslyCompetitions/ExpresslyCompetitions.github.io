@@ -32,7 +32,9 @@ section1-content: "<p>Lewis Capaldi quickly amassed 300 million plays across str
 entry-title: "Win Lewis Capaldi Extended Album!"
 entry-content: "<p>Enter the draw to win Lewis Capaldi Extended Album by completing\
   \ the form below before 23:59 on the 16th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chris A. who won Lewis Capaldi Extended Album!"
+winner-banner: "https://assets.expresslyapp.com/asset-d9edcdff-2980-4b7e-970c-e94f7e091f8b.jpg"
 prize-description: "Lewis Capaldi Extended Album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/lewis-capaldi-giveaway-cd"
