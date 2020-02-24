@@ -32,7 +32,10 @@ section1-content: "<p>Following the release of 'Gang Signs and Prayer' (2017), h
 entry-title: "Win Stormzy ‘Heavy Is The Head’ new album!"
 entry-content: "<p>Enter the draw to win Stormzy ‘Heavy Is The Head’ new album by\
   \ completing the form below before 23:59 on the 12th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Aaron M. who won Stormzy ‘Heavy Is The Head’ new\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-740db2db-2271-4db5-95cc-325f447ca241.jpg"
 prize-description: "Stormzy ‘Heavy Is The Head’ new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/stormzy-album-giveaway"
