@@ -31,7 +31,10 @@ section1-content: "<p>’Once Upon A Mind’ is James Blunt sixth studio album. 
 entry-title: "Win James Blunt ‘Once Upon A Mind’ album!"
 entry-content: "<p>Enter the draw to win James Blunt ‘Once Upon A Mind’ album by completing\
   \ the form below before 23:59 on the 3rd of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Howard W. who won James Blunt ‘Once Upon A Mind’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-9092ef40-0f15-434b-8d4e-a91bcaa44a27.jpg"
 prize-description: "James Blunt ‘Once Upon A Mind’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitons/james-blunt-once-upon-a-mind"
