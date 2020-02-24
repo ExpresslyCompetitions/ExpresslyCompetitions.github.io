@@ -33,7 +33,10 @@ section1-content: "<p>In a posthumous new album, Leonard Cohen has robbed death 
 entry-title: "Win Leonard Cohen ‘Thanks for the Dance’ album!"
 entry-content: "<p>Enter the draw to win Leonard Cohen ‘Thanks for the Dance’ album\
   \ by completing the form below before 23:59 on the 2nd of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Paul B. who won Leonard Cohen ‘Thanks for the Dance’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-43cb457c-6d6f-4a96-93cd-ae490aadcff4.jpg"
 prize-description: "Leonard Cohen ‘Thanks for the Dance’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitons/leonard-cohen-album"
