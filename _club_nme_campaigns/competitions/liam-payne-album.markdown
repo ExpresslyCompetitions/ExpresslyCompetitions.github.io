@@ -27,7 +27,9 @@ section1-content: "<p>‘LP1’ shows a more grown-up side to the former One Dir
 entry-title: "Win Liam Payne ‘LP1’ album!"
 entry-content: "<p>Enter the draw to win Liam Payne ‘LP1’ album by completing the\
   \ form below before 23:59 on the 19th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dominic J. who won Liam Payne ‘LP1’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-67cb61d5-7b85-4e0e-ba92-f2eccd1a56cb.jpg"
 prize-description: "Liam Payne ‘LP1’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/liam-payne-album"
