@@ -11,7 +11,7 @@ title: "Win 'From This Place' Pat Metheny brand new record!"
 competition-description: "<p>'From This Place' is the brand new album from the American\
   \ jazz guitarist and composer Pat Metheny. It is a kind of musical culmination that\
   \ reflects a wide range of expressions that have interested Pat Metheny over the\
-  \ years. We are giving away a copy of it to one lucky NME AAA member to win.</p<\n\
+  \ years. We are giving away a copy of it to one lucky NME AAA member to win.</p>\n\
   <p>Click below and it could be yours.</p>\n"
 hero-header: "Win 'From This Place' Pat Metheny brand new record!"
 terms-confirmation: "N/A"
