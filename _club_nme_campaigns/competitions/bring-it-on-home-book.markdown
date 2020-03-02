@@ -35,7 +35,9 @@ section1-content: "<p>’Bring It On Home includes almost 100 new interviews wit
 entry-title: "Win ‘Bring It On Home’ book!"
 entry-content: "<p>Enter the draw to win ‘Bring It On Home’ book by completing the\
   \ form below before 23:59 on the 26th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Gemma M. who won ‘Bring It On Home’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-c0cb5ec6-ad60-411e-b14e-e5a21c81766c.jpg"
 prize-description: "‘Bring It On Home’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/bring-it-on-home-book"
