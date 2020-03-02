@@ -32,7 +32,10 @@ section1-content: "<p>In over fifty years from his very first recordings right t
 entry-title: "Win 'Legacy: The Very Best of Bowie’ vinyl edition!"
 entry-content: "<p>Enter the draw to win 'Legacy: The Very Best of Bowie’ vinyl edition\
   \ by completing the form below before 23:59 on the 2nd of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen H. who won 'Legacy: The Very Best of Bowie’\
+  \ vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-37fa69f7-086a-4aab-bd19-117b08594d1b.jpg"
 prize-description: "'Legacy: The Very Best of Bowie’ vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/vinyl-legacy-bowie"
