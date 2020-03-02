@@ -2,8 +2,8 @@
 campaign-uuid: "c-4d24679b-0c15-4d0c-aee8-7e173060d1c2"
 type: "Competition"
 category: "Music"
-date: "2020-03-27T06:00:00.000Z"
-end-date: "2020-04-27T23:59:00.000Z"
+date: "2020-02-27T06:00:00.000Z"
+end-date: "2020-03-27T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -34,7 +34,7 @@ entry-title: "Win Simon and Garfunkel 50th Anniversary vinyl edition: 'Bridge Ov
   \ Troubled Water’"
 entry-content: "<p>Enter the draw to win Simon and Garfunkel 50th Anniversary vinyl\
   \ edition: 'Bridge Over Troubled Water’ by completing the form below before 23:59\
-  \ on the 25th of March 2020.</p>\n"
+  \ on the 27th of March 2020.</p>\n"
 has-winner: false
 prize-description: "Simon and Garfunkel 50th Anniversary vinyl edition: 'Bridge Over\
   \ Troubled Water’"
