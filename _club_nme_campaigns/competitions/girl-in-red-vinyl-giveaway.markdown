@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-04T07:00:00.000Z"
 end-date: "2020-03-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Girl in Red 'Beginnings' on vinyl edition!"
 competition-description: "<p>Girl in Red is the project of Marie Ulven, 20, hailing\
