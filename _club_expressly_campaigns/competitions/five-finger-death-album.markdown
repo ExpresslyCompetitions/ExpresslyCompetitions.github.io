@@ -26,7 +26,7 @@ section1-content: "<p>Five Finger Death Punch have sold more than 10 million alb
   \ it first? Enter below for a chance to win it now.</p>\n"
 entry-title: "Win Five Finger Death Punch ‘F8’ album!"
 entry-content: "<p>Enter the draw to win Five Finger Death Punch ‘F8’ album by completing\
-  \ the form below before 23:59 on the 10th of April 2020.</p>\n"
+  \ the form below before 23:59 on the 12th of April 2020.</p>\n"
 has-winner: false
 prize-description: "Five Finger Death Punch ‘F8’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
