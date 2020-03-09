@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-08T07:00:00.000Z"
 end-date: "2020-03-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Police Box Set!"
 competition-description: "<p>We are giving away 'Every Move You Make: The Studio Recordings',\
