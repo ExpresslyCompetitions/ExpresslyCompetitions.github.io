@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2020-01-15T07:00:00.000Z"
 end-date: "2020-03-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Judy on Blu-ray!"
 competition-description: "<p>We have on our hands the amazing movie played by the\
