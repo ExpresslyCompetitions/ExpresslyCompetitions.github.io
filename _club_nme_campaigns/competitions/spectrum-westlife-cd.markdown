@@ -28,7 +28,10 @@ section1-content: "<p>’Spectrum’ is Westlife’s seventh studio album by the
 entry-title: "Win ‘Spectrum’ the brand new album from Westlife!"
 entry-content: "<p>Enter the draw to win ‘Spectrum’ the brand new album from Westlife\
   \ by completing the form below before 23:59 on the 30th of January 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to John A. who won ‘Spectrum’ the brand new album from\
+  \ Westlife!"
+winner-banner: "https://assets.expresslyapp.com/asset-cd8d5aee-7e05-43a5-86d7-09b51effbb80.jpg"
 prize-description: "‘Spectrum’ the brand new album from Westlife!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/spectrum-westlife-cd"
