@@ -29,7 +29,9 @@ section1-content: "<p>Water-resistant design, Portable and durable, Built-in mic
 entry-title: "Win the new Sony Portable Speaker"
 entry-content: "<p>Enter the draw to win the new Sony Portable Speaker\nby completing\
   \ the form below before 23:59 on the 14th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Graham W. who won the new Sony Portable Speaker"
+winner-banner: "https://assets.expresslyapp.com/asset-4f3a88aa-538d-4f8f-b441-992d52ce5a12.jpg"
 prize-description: "The new Sony Portable Speaker"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\n\r\n\
   This competition is also available on: https://club.expressly.io/competitions/sony-speaker-portable-prize"
