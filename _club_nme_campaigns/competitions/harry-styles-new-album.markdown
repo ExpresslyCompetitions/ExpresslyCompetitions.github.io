@@ -28,7 +28,9 @@ section1-content: "<p>'Fine Line' is the second studio album by the British pop 
 entry-title: "Win Harry Styles 'Fine Line' new album!"
 entry-content: "<p>Enter the draw to win Harry Styles 'Fine Line' new album by completing\
   \ the form below before 23:59 on the 11th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ryan C. who won Harry Styles 'Fine Line' new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e98279d0-384e-4f7e-9f23-f73c2bc89ea9.jpg"
 prize-description: "Harry Styles 'Fine Line' new album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
