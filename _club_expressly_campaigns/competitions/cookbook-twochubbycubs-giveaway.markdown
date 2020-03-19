@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-08T06:00:00.000Z"
 end-date: "2020-03-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Twochubbycubs The Cookbook!"
 competition-description: "<p>We have on our hands the delicious debut cookbook from\
