@@ -29,7 +29,10 @@ section1-content: "<p>’Western Stars’ is Bruce Springsteen’s 19th studio a
 entry-title: "Win Bruce Springsteen ‘Western Stars’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win Bruce Springsteen ‘Western Stars’ on Blu-ray\
   \ by completing the form below before 23:59 on the 3rd of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chirag P. who won Bruce Springsteen ‘Western Stars’\
+  \ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-22352f10-dda1-4003-8566-041c15c1f099.jpg"
 prize-description: "Bruce Springsteen ‘Western Stars’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/bruce-springsteen-western-stars"
