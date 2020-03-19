@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-15T07:00:00.000Z"
 end-date: "2020-03-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Sheku Kanneh-Mason new album!"
 competition-description: "<p>Award-winning cellist Sheku made history when his debut\
