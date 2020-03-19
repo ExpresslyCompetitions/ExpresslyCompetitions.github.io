@@ -32,7 +32,9 @@ section1-content: "<p>Vex King is a social media influencer, writer, mind coach 
 entry-title: "Win ‘Good Vibes, Good Life’ book!"
 entry-content: "<p>Enter the draw to win ‘Good Vibes, Good Life’ book by completing\
   \ the form below before 23:59 on the 10th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Bruce P. who won ‘Good Vibes, Good Life’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-569736ad-8e22-4d80-871b-539f0c8e1bad.jpg"
 prize-description: "‘Good Vibes, Good Life’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/good-vibes-good-life-book"
