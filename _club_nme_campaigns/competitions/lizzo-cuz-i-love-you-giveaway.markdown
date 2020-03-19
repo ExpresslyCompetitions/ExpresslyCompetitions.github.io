@@ -28,7 +28,9 @@ section1-content: "<p>We have on our hands the amazing third album of the phenom
 entry-title: "Win Lizzo ‘Cuz I Love You’ album!"
 entry-content: "<p>Enter the draw to win the  Lizzo ‘Cuz I Love You’ album by completing\
   \ the form below before 23:59 on the 9th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephen H. who won Lizzo ‘Cuz I Love You’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-f1042f5a-94ef-4e42-b560-6fe632d7a9ef.jpg"
 prize-description: "Lizzo ‘Cuz I Love You’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/lizzo-cuz-i-love-you-giveaway"
