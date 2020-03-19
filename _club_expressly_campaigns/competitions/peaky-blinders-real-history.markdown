@@ -35,7 +35,10 @@ section1-content: "<p>In this gripping social history, Chinn shines a light on t
 entry-title: "Win Peaky Blinders 'The Real Story' Book!"
 entry-content: "<p>Enter the draw to win Peaky Blinders 'The Real Story' Book by completing\
   \ the form below before 23:59 on the 4th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Stephanie E. who won Peaky Blinders 'The Real Story'\
+  \ Book!"
+winner-banner: "https://assets.expresslyapp.com/asset-f39c1f9b-871a-434a-aee2-daa62edc51e4.jpg"
 prize-description: "Peaky Blinders 'The Real Story' Book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
