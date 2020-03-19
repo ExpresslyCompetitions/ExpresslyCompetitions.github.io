@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-11T06:00:00.000Z"
 end-date: "2020-03-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Big Moon album 'Walking Like We Do'!"
 competition-description: "<p>We have on our hands the album of The British post-punk\
