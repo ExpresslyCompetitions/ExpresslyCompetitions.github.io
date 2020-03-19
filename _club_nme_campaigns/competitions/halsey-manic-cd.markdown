@@ -28,7 +28,9 @@ section1-content: "<p>’Manic' is Halsey’s third album, a follow-up to her ac
 entry-title: "Win Halsey ‘Manic’ album!"
 entry-content: "<p>Enter the draw to win Halsey ‘Manic’ album by completing the form\
   \ below before 23:59 on the 6th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Luke M. who won Halsey ‘Manic’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-aba794b5-a672-4ac6-acef-d1747f94dcfe.jpg"
 prize-description: "Halsey ‘Manic’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/halsey-manic-cd"
