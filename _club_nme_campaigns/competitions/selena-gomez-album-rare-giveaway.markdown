@@ -29,7 +29,9 @@ section1-content: "<p>Rare is Selena Gomez third and brand new album. An album w
 entry-title: "Win Selena Gomez ‘Rare’ album!"
 entry-content: "<p>Enter the draw to win Selena Gomez ‘Rare’ album by completing the\
   \ form below before 23:59 on the 20th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony W. who won Selena Gomez ‘Rare’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-6c3547d7-d3c8-428a-b0b4-55f2449b73b6.jpg"
 prize-description: "Selena Gomez ‘Rare’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/selena-gomez-album-rare-giveaway"
