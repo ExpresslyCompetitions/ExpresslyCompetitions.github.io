@@ -30,7 +30,10 @@ section1-content: "<p>Quentin Tarantino’s Once Upon a Time... in Hollywood vis
 entry-title: "Win 'Once Upon a Time in... Hollywood' on Blu-ray!"
 entry-content: "<p>Enter the draw to win 'Once Upon a Time in... Hollywood' on Blu-ray\
   \ by completing the form below before 23:59 on the 18th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lisa M. who won 'Once Upon a Time in... Hollywood'\
+  \ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-71fb51f2-ca66-44ca-b78f-f3b18e3d5073.jpg"
 prize-description: "'Once Upon a Time in... Hollywood' on Blu-ray"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
