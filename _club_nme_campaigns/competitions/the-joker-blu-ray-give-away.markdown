@@ -30,7 +30,9 @@ section1-content: "<p>’’Joker” centres around the iconic arch-nemesis and 
 entry-title: "Win ''Joker’’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ’Joker’’ on Blu-ray by completing the form\
   \ below before 23:59 on the 13th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lynda J. who won ’’Joker’’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-b2bd0099-4a6b-4341-b355-8636ad5db4b8.jpg"
 prize-description: "’’Joker’’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/the-joker-blu-ray-give-away"
