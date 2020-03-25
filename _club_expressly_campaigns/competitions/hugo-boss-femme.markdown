@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-01-22T06:00:00.000Z"
 end-date: "2020-03-22T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Hugo Boss Femme Perfume!"
 competition-description: "<p>A feminine fragrant blend of lily, jasmine, freesia and\
