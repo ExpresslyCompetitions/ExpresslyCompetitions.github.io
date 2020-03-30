@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win ‘I’m Not a Dog on a Chain’ Morrisey new record!"
-competition-description: "<p>We have managed to get on our hands Morrisey first new\
+competition-description: "<p>We have managed to get our hands on Morrisey first new\
   \ studio album since 2017, ‘I Am Not A Dog On A Chain’. The album was recorded at\
   \ La Fabrique in France in 2018 and we want to give it away to you.</p>\n<p>Want\
   \ it? Click below for a chance to win.</p>\n"
