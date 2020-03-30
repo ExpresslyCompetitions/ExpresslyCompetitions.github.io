@@ -32,7 +32,7 @@ entry-content: "<p>Enter the draw to win J Hus ‘Big Conspiracy’ album by com
 has-winner: false
 prize-description: "J Hus ‘Big Conspiracy’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
-  \ competition is also available on: https://club.expressly.io/competitions/j-hus-album"
+  \ competition is also available on: https://aaa.nme.com/competitions/j-hus-album"
 country-restrictions:
 - "GB"
 ---
