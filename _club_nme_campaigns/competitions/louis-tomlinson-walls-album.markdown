@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-01-29T06:00:00.000Z"
 end-date: "2020-03-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Louis Tomlinson 'Walls' new album!"
 competition-description: "<p>We are giving away the brand new album of the ex-former\
