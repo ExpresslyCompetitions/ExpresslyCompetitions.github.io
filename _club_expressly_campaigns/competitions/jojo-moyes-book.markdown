@@ -26,7 +26,10 @@ section1-content: "<p>'The Giver of Stars' is a mesmerising tale of female frien
 entry-title: "Win Jojo Moyes 'The Giver of Stars' book!"
 entry-content: "<p>Enter the draw to win Jojo Moyes 'The Giver of Stars' book by completing\
   \ the form below before 23:59 on the 18th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joyce S. who won Jojo Moyes 'The Giver of Stars'\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-f986aab5-d966-4bc1-86c6-5afb20c02c8c.jpg"
 prize-description: "Jojo Moyes 'The Giver of Stars' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
