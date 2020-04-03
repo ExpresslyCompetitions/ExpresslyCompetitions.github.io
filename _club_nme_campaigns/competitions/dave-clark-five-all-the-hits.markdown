@@ -33,7 +33,10 @@ section1-content: "<p>This new UK release will be available in a 1CD Digipack wi
 entry-title: "Win The Dave Clark Five ‘All The Hits’ album!"
 entry-content: "<p>Enter the draw to win The Dave Clark Five ‘All The Hits’ album\
   \ by completing the form below before 23:59 on the 28th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Nigel G. who won The Dave Clark Five ‘All The Hits’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-c8d463a3-ebae-4696-a18d-254e9a716936.jpg"
 prize-description: "The Dave Clark Five ‘All The Hits’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://club.expressly.io/competitions/dave-clark-five-all-the-hits"
