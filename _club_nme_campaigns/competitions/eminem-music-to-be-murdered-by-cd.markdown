@@ -27,7 +27,10 @@ section1-content: "<p>Eminem returns with an album title that pays homage to Alf
 entry-title: "Win Eminem’s new album: ‘Music To Be Murdered By’"
 entry-content: "<p>Enter the draw to win Eminem’s new album: ‘Music To Be Murdered\
   \ By’ by completing the form below before 23:59 on the 1st of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Mark W. who won Eminem’s new album: ‘Music To Be\
+  \ Murdered By’"
+winner-banner: "https://assets.expresslyapp.com/asset-8c0da811-68f3-40ef-82b7-9acee0e7f4ce.jpg"
 prize-description: "Eminem’s new album: ‘Music To Be Murdered By’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/eminem-music-to-be-murdered-by-cd"
