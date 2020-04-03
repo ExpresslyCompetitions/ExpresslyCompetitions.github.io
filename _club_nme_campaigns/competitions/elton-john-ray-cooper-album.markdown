@@ -35,7 +35,10 @@ section1-content: "<p>First broadcast by BBC Radio 1 in 1979 and the subject of 
 entry-title: "Win Elton John with Ray Cooper ‘Live From Moscow’ album!"
 entry-content: "<p>Enter the draw to win Elton John with Ray Cooper ‘Live From Moscow’\
   \ album by completing the form below before 23:59 on the 29th of February 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Paul M. who won Elton John with Ray Cooper ‘Live\
+  \ From Moscow’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-3c346813-b742-4295-8d54-e4d42721c7c7.jpg"
 prize-description: "Elton John with Ray Cooper ‘Live From Moscow’ album"
 special-conditions: "Multiple entries are allowed up to one every day.\r\nThis competition\
   \ is also available on: https://club.expressly.io/competitions/elton-john-ray-cooper-album"
