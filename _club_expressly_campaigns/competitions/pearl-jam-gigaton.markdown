@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win Pearl Jam ‘Gigaton’ album!"
-competition-description: "<p>We are giving away the eleventh studio album by the American\
+competition-description: "<p>We are giving away the 11th studio album by the American\
   \ rock band Pearl Jam: ‘Gigaton’. An album produced by Josh Evans and Pearl Jam.\
   \ 'Gigaton' marks the band's first studio album since 2013's GRAMMY award-winning\
   \ 'Lightning Bolt’.</p>\n<p>Click below for a chance to win.</p>\n"
