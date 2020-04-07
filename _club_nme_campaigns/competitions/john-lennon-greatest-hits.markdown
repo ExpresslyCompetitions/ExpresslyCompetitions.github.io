@@ -33,7 +33,7 @@ section1-content: "<p>Greatest Hits 1970-2002 is the first attempt to consolidat
   \ was hailed as a return to those golden days, represent the later years.</p>\n"
 entry-title: "Win John Lennon Greatest Hits Box Set!"
 entry-content: "<p>Enter the draw to win John Lennon Greatest Hits Box Set by completing\
-  \ the form below before 23:59 on the 8th of May 2020.</p>\n"
+  \ the form below before 23:59 on the 8th of June 2020.</p>\n"
 has-winner: false
 prize-description: "John Lennon Greatest Hits Box Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
