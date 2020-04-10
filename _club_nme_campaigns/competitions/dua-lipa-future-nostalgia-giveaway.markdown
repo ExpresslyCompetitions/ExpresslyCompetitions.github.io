@@ -3,7 +3,7 @@ campaign-uuid: "c-64418a5b-cac4-4a36-a16f-98001231c94b"
 type: "Competition"
 category: "Music"
 date: "2020-02-12T06:00:00.000Z"
-end-date: "2020-04-12T23:59:00.000Z"
+end-date: "2020-06-12T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -28,7 +28,7 @@ section1-content: "<p>We have on our hands the second studio album from the amaz
   \ below for a chance to win.</p>\n"
 entry-title: "Win Dua Lipa 'Future Nostalgia' album!"
 entry-content: "<p>Enter the draw to win Dua Lipa 'Future Nostalgia' album by completing\
-  \ the form below before 23:59 on the 12th of April 2020.</p>\n"
+  \ the form below before 23:59 on the 12th of June 2020.</p>\n"
 has-winner: false
 prize-description: "Dua Lipa 'Future Nostalgia' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
