@@ -31,8 +31,7 @@ entry-content: "<p>Enter the draw to win Gerry Cinnamon 'The Bonny' album by com
   \ the form below before 23:59 on the 15th of June 2020.</p>\n"
 has-winner: false
 prize-description: "Gerry Cinnamon 'The Bonny' album!"
-special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
-  \ competition is also available on: https://club.expressly.io/competitions/gerry-cinnamon-the-bonny"
+special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
 ---
