@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-02-19T06:00:00.000Z"
 end-date: "2020-04-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'ARI' by Ariana Grande Perfume!"
 competition-description: "<p>Playful, timeless and confident, ARI by ariana Grande\
