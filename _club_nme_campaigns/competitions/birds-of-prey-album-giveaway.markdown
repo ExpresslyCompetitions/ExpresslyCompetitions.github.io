@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-02-19T06:00:00.000Z"
 end-date: "2020-04-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Birds of Prey: The Album' soundtrack!"
 competition-description: "<p>From the 'Harley Quinn' movie 'Birds of Prey' starring\
