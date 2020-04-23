@@ -30,7 +30,10 @@ section1-content: "<p>’Why Me? Why Not’ is subsequently a clear upgrade on A
 entry-title: "Win Liam Gallagher ‘Why Me? Why Not’ vinyl edition!"
 entry-content: "<p>Enter the draw to win Liam Gallagher ‘Why Me? Why Not’ vinyl edition\
   \ by completing the form below before 23:59 on the 10th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Andrew C. who won Liam Gallagher ‘Why Me? Why Not’\
+  \ vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-cdeed1be-366a-472c-8281-b112a126a12c.jpg"
 prize-description: "Liam Gallagher ‘Why Me? Why Not’ vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/liam-gallagher-why-me-why-not-vinyl"
