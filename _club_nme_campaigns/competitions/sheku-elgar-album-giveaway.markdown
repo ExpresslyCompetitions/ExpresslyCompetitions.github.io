@@ -34,7 +34,9 @@ section1-content: "<p>Armed with the inspiration of the 1965 recording by his he
 entry-title: "Win Sheku Kanneh-Mason new album!"
 entry-content: "<p>Enter the draw to win Sheku Kanneh-Mason new album by completing\
   \ the form below before 23:59 on the 15th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michael W. who won Sheku Kanneh-Mason new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-6004c465-b509-48e1-8e4a-34956d90d0da.jpg"
 prize-description: "Sheku Kanneh-Mason new album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
