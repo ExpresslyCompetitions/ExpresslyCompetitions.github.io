@@ -32,7 +32,9 @@ section1-content: "<p>Following the 40th anniversary vinyl box, we present a lim
 entry-title: "Win The Police Box Set!"
 entry-content: "<p>Enter the draw to win The Police Box Set  by completing the form\
   \ below before 23:59 on the 8th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kevin W. who won The Police Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-442223f1-90b7-4129-b09c-b9fdfb04e2f2.jpg"
 prize-description: "The Police Box Set"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
