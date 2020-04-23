@@ -28,7 +28,9 @@ section1-content: "<p>’’Making this album has been a real emotional and hone
 entry-title: "Win Louisa new album: ‘Heavy Love’"
 entry-content: "<p>Enter the draw to win  Louisa new album: ‘Heavy Love’ by completing\
   \ the form below before 23:59 on the 3rd of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michael B. who won Louisa new album: ‘Heavy Love’"
+winner-banner: "https://assets.expresslyapp.com/asset-37b6bc86-621d-4db6-b3a3-b64dd425ad19.jpg"
 prize-description: "Louisa new album: ‘Heavy Love’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/louisa-heavy-love-album"
