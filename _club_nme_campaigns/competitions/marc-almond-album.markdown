@@ -28,7 +28,10 @@ section1-content: "<p>’Dust’, ‘Chaos’, ‘Dreaming Of Sea’ are some of
 entry-title: "Win Marc Almond ‘Chaos and a Dancing Star’ album!"
 entry-content: "<p>Enter the draw to win  Marc Almond ‘Chaos and a Dancing Star’ album\
   \ by completing the form below before 23:59 on the 17th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Vikki V. who won Marc Almond ‘Chaos and a Dancing\
+  \ Star’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-84dfc804-7ede-4b3a-81c9-7b0700fa6416.jpg"
 prize-description: "Marc Almond ‘Chaos and a Dancing Star’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/marc-almond-album"
