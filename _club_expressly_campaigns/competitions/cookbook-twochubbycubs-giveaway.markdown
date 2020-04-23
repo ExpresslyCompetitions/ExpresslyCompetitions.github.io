@@ -27,7 +27,9 @@ section1-content: "<p>The must-have cookbook from slimming bloggers James and Pa
 entry-title: "Win Twochubbycubs The Cookbook!"
 entry-content: "<p>Enter the draw to win Twochubbycubs The Cookbook by completing\
   \ the form below before 23:59 on the 8th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Katherine M. who won Twochubbycubs The Cookbook!"
+winner-banner: "https://assets.expresslyapp.com/asset-0b6dcd7e-5c0c-4a78-aa10-57cd96ff3a57.jpg"
 prize-description: "The Twochubbycubs The Cookbook!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
