@@ -28,7 +28,9 @@ section1-content: "<p>Brilliant. There is no other word to describe Rosalia’s 
 entry-title: "Win Rosalía ‘El Mal Querer’ album!"
 entry-content: "<p>Enter the draw to win Rosalía ‘El Mal Querer’ album by completing\
   \ the form below before 23:59 on the 20th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Denise W. who won  Rosalía ‘El Mal Querer’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-8de6ea8c-3215-4fe0-9760-464bb08ca799.jpg"
 prize-description: "Rosalía ‘El Mal Querer’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/rosalia-el-mal-querer-album"
