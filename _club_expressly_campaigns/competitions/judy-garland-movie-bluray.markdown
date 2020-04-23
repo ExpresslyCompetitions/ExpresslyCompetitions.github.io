@@ -31,7 +31,9 @@ section1-content: "<p>Winter 1968 and showbiz legend Judy Garland arrives in Swi
 entry-title: "Win Judy on Blu-ray!"
 entry-content: "<p>Enter the draw to win Judy on Blu-ray by completing the form below\
   \ before 23:59 on the 15th of March 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Marion P. who won Judy on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-4a0c9edb-2fcd-4d79-b56f-a0ad3d6bac76.jpg"
 prize-description: "Judy on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
