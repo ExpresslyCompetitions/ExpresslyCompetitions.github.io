@@ -33,7 +33,10 @@ section1-content: "<p>This highly collectable book invites the reader into the i
 entry-title: "Win Nick Cave ‘Stranger Than Kindness’ book!"
 entry-content: "<p>Enter the draw to win Nick Cave ‘Stranger Than Kindness’ book by\
   \ completing the form below before 23:59 on the 4th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Roger C. who won Nick Cave ‘Stranger Than Kindness’\
+  \ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-8e85f6ea-7136-4cab-9d91-e3a6c435b7d9.jpg"
 prize-description: "Nick Cave ‘Stranger Than Kindness’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/nick-cave-stranger-than-kindness-book"
