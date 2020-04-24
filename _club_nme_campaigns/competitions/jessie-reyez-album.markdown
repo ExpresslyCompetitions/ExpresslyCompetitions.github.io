@@ -11,7 +11,7 @@ title: "Win Jessie Reyez 'Before Love Came To Kill Us' CD!"
 competition-description: "<p>'Before Love Came To Kill Us' is the debut studio album\
   \ by the Canadian singer-songwriter Jessie Reyez. One of the most successful albums\
   \ of the year featuring her singles 'Imported', 'Crazy' and 'Love in the Dark'.\
-  \ We are giving away one copy Reyez new album to one lucky NME AAA member.</p>\n\
+  \ We are giving away one copy of Reyez new album to one lucky NME AAA member.</p>\n\
   <p>Maybe it's you? Click below for a chance to win now!</p>\n"
 hero-header: "Win Jessie Reyez 'Before Love Came To Kill Us' CD!"
 terms-confirmation: "N/A"
