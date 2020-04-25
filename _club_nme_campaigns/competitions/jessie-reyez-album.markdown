@@ -24,7 +24,7 @@ bg-image-first: "https://assets.expresslyapp.com/asset-7730ff9b-8be6-4185-8dd6-1
 section1-content: "<p>'Before Love Came To Kill Us' is the debut studio album by the\
   \ Canadian singer-songwriter Jessie Reyez. Her album features the singles 'Imported',\
   \ 'Crazy' and 'Love in the Dark'.</p>\n<p>Are you her biggest fan? We are giving\
-  \ away a copy of here cd to one lucky NME AAA member. Enter below and it could be\
+  \ away a copy of her cd to one lucky NME AAA member. Enter below and it could be\
   \ yours.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win Jessie Reyez 'Before Love Came To Kill Us' CD!"
 entry-content: "<p>Enter the draw to win Jessie Reyez 'Before Love Came To Kill Us'\
