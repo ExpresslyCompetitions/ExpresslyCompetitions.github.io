@@ -35,7 +35,10 @@ entry-title: "Win Simon and Garfunkel 50th Anniversary vinyl edition: 'Bridge Ov
 entry-content: "<p>Enter the draw to win Simon and Garfunkel 50th Anniversary vinyl\
   \ edition: 'Bridge Over Troubled Water’ by completing the form below before 23:59\
   \ on the 25th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Kim N. who won Simon and Garfunkel 50th Anniversary\
+  \ vinyl edition: 'Bridge Over Troubled Water’"
+winner-banner: "https://assets.expresslyapp.com/asset-e748d10b-87ed-4119-9f50-a2ba73987022.jpg"
 prize-description: "Simon and Garfunkel 50th Anniversary vinyl edition: 'Bridge Over\
   \ Troubled Water’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
