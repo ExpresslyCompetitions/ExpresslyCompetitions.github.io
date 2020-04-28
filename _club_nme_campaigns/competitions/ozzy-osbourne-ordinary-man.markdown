@@ -29,7 +29,10 @@ section1-content: "<p>’Ordinary Man’ is the twelfth solo studio album by the
 entry-title: "Win Ozzy Osbourne ‘Ordinary Man’ new album!"
 entry-content: "<p>Enter the draw to win Ozzy Osbourne ‘Ordinary Man’ new album by\
   \ completing the form below before 23:59 on the 24th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Leslie E. who won Ozzy Osbourne ‘Ordinary Man’ new\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-24fa9a83-111e-4199-b49d-84e56f8e25f0.jpg"
 prize-description: "Ozzy Osbourne ‘Ordinary Man’ new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/ozzy-osbourne-ordinary-man"
