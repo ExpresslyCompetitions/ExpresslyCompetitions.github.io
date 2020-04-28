@@ -28,7 +28,9 @@ section1-content: "<p>We are giving away the latest album of the gangsta rapper 
 entry-title: "Win The Game 'Born 2 Rap' album!"
 entry-content: "<p>Enter the draw to win The Game 'Born 2 Rap' album by completing\
   \ the form below before 23:59 on the 25th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen B. who won The Game 'Born 2 Rap' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-9278f51a-d485-4a63-abc1-6f4f158c2b86.jpg"
 prize-description: "The Game 'Born 2 Rap' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
