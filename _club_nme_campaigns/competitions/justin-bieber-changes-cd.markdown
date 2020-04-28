@@ -28,7 +28,9 @@ section1-content: "<p>Justin Bieber is back with his new album ‘Changes’ an 
 entry-title: "Win Justin Bieber ‘Changes’ CD!"
 entry-content: "<p>Enter the draw to win Justin Bieber ‘Changes’ CD by completing\
   \ the form below before 23:59 on the 25th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to William H who won Justin Bieber ‘Changes’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-a3c805a8-8f55-4443-848b-862176148fb0.jpg"
 prize-description: "Justin Bieber ‘Changes’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/justin-bieber-changes-cd"
