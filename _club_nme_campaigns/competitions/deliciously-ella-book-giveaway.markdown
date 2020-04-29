@@ -31,7 +31,10 @@ entry-title: "Win ‘Deliciously Ella Quick & Easy: Plant-based Deliciousness’
 entry-content: "<p>Enter the draw to win ‘Deliciously Ella Quick &amp; Easy: Plant-based\
   \ Deliciousness’ book by completing the form below before 23:59 on the 21st of March\
   \ 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Fiona K. who won ‘Deliciously Ella Quick & Easy:\
+  \ Plant-based Deliciousness’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-ca14744b-b805-48df-819e-69218df80201.jpg"
 prize-description: "‘Deliciously Ella Quick & Easy: Plant-based Deliciousness’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/deliciously-ella-book-giveaway"
