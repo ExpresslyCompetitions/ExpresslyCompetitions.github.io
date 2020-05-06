@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-03-04T06:00:00.000Z"
 end-date: "2020-05-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Paul Smith 'Women' Perfume!"
 competition-description: "<p>Paul Smith Woman is a perennially elegant perfume but\
