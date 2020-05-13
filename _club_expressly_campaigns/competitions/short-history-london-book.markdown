@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-03-11T06:00:00.000Z"
 end-date: "2020-05-11T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'A Short History of London' book!"
 competition-description: "<p>From the prehistoric occupants of the Thames Valley to\
