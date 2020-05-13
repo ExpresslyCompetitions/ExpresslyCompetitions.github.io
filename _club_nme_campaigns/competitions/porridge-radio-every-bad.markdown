@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-03-07T06:00:00.000Z"
 end-date: "2020-05-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Porridge Radio 'Every Bad' album!"
 competition-description: "<p>Porridge Radio grew out of Dana Margolin's bedroom, where\
