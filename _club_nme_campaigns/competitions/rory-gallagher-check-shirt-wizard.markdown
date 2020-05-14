@@ -29,7 +29,10 @@ section1-content: "<p>Featuring fantastic live versions of tracks from that albu
 entry-title: "Win Rory Gallagher ‘Check Shirt Wizard’ Live In ’77!"
 entry-content: "<p>Enter the draw to win Rory Gallagher ‘Check Shirt Wizard’ Live\
   \ In ’77 by completing the form below before 23:59 on the 13th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Ian S. who won Rory Gallagher ‘Check Shirt Wizard’\
+  \ Live In ’77!"
+winner-banner: "https://assets.expresslyapp.com/asset-ba7e76f4-f8aa-4685-9eea-301bb9618659.jpg"
 prize-description: "Rory Gallagher ‘Check Shirt Wizard’ Live In ’77"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/rory-gallagher-check-shirt-wizard"
