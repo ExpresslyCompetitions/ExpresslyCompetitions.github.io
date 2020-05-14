@@ -28,7 +28,10 @@ section1-content: "<p>Unlike most who have tackled similar material, American St
 entry-title: "Win James Taylor ‘American Standard’ CD!"
 entry-content: "<p>Enter the draw to win ‘James Taylor ‘American Standard’ CD by completing\
   \ the form below before 23:59 on the 6th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Heather T. who won James Taylor ‘American Standard’\
+  \ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-305b1a53-7880-47bc-a9e0-d08b56dc004a.jpg"
 prize-description: "James Taylor ‘American Standard’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/james-taylor-american-standard"
