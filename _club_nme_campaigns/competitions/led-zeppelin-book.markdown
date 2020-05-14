@@ -33,7 +33,9 @@ section1-content: "<p>‘Led Zeppelin’ by Led Zeppelin is the first and only o
 entry-title: "Win ‘Led Zeppelin’ by Led Zeppelin book!"
 entry-content: "<p>Enter the draw to win ‘Led Zeppelin’ by Led Zeppelin book by completing\
   \ the form below before 23:59 on the 22nd of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dawn D. who won ‘Led Zeppelin’ by Led Zeppelin book!"
+winner-banner: "https://assets.expresslyapp.com/asset-8795b478-24d9-4b1e-9d46-9ba05b2e5566.jpg"
 prize-description: "‘Led Zeppelin’ by Led Zeppelin book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
