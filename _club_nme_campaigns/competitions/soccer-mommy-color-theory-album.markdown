@@ -35,7 +35,9 @@ section1-content: "<p>For Sophie Allison, aka Soccer Mommy, 'color theory' is a 
 entry-title: "Win Soccer Mommy ‘Color Theory’ album!"
 entry-content: "<p>Enter the draw to win Soccer Mommy ‘Color Theory’ album by completing\
   \ the form below before 23:59 on the 2nd of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Bruce P. who won Soccer Mommy ‘Color Theory’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-f2ed712f-4e18-46f3-afba-077cc59a4ca9.jpg"
 prize-description: "Soccer Mommy ‘Color Theory’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/soccer-mommy-color-theory-album"
