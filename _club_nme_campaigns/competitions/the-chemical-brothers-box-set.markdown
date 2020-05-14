@@ -34,7 +34,10 @@ section1-content: "<p>This new fully expanded version of the classic album from 
 entry-title: "Win The Chemical Brothers ‘Surrender’ 20th Anniversary Box Set!"
 entry-content: "<p>Enter the draw to win The Chemical Brothers ‘Surrender’ 20th Anniversary\
   \ Box Set by completing the form below before 23:59 on the 3rd of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Teresa Lee who won The Chemical Brothers ‘Surrender’\
+  \ 20th Anniversary Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-57ddb773-6ea9-4efb-834b-d5649c5f47ac.jpg"
 prize-description: "The Chemical Brothers ‘Surrender’ 20th Anniversary Box Set!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/the-chemical-brothers-box-set"
