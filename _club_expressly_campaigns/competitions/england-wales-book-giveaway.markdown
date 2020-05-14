@@ -30,7 +30,10 @@ section1-content: "<p>Forget hurrying. Forget putting your foot down and racing 
 entry-title: "Win 'Take the Slow Road: England and Wales' book!"
 entry-content: "<p>Enter the draw to win 'Take the Slow Road: England and Wales' book\
   \ by completing the form below before 23:59 on the 29th of March 2019.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lisa P. who won 'Take the Slow Road: England and\
+  \ Wales' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-a6949ad1-f316-43bd-a71a-61d84f388da4.jpg"
 prize-description: "'Take the Slow Road: England and Wales' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
