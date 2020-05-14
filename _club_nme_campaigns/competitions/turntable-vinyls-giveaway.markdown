@@ -31,7 +31,9 @@ section1-content: "<p>The 1byone Belt-Drive Briefcase Turntable is a perfect com
 entry-title: "Win an amazing 1byone Turntable!"
 entry-content: "<p>Enter the draw to win an amazing 1byone Turntable by completing\
   \ the form below before 23:59 on the 5th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Colin P. who won an amazing 1byone Turntable!"
+winner-banner: "https://assets.expresslyapp.com/asset-9c35bec9-203e-4f79-9d77-6609f5a13216.jpg"
 prize-description: "An amazing 1byone Turntable!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
