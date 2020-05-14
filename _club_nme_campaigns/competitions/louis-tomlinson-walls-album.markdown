@@ -28,7 +28,9 @@ section1-content: "<p>We have managed to get our hands on one copy of  the brand
 entry-title: "Win Louis Tomlinson 'Walls' new album!"
 entry-content: "<p>Enter the draw to Louis Tomlinson 'Walls' new album by completing\
   \ the form below before 23:59 on the 29th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lucinda P. who won Louis Tomlinson 'Walls' new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-15732ec0-be41-49de-b5fc-c45d6b18b6cc.jpg"
 prize-description: "Louis Tomlinson 'Walls' new album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
