@@ -3,7 +3,7 @@ campaign-uuid: "c-ab50b614-89cd-4cff-9057-b848b0bf4d63"
 type: "Competition"
 category: "Music"
 date: "2020-03-18T06:00:00.000Z"
-end-date: "2020-05-18T23:59:00.000Z"
+end-date: "2020-07-18T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>We have the ninth studio album by the Scottish rock group 
   \ shit. It's about trying to take back control'.</p>\n"
 entry-title: "Win Biffy Clyro 'A Celebration Of Endings' album!"
 entry-content: "<p>Enter the draw to win Biffy Clyro 'A Celebration Of Endings' album\
-  \ by completing the form below before 23:59 on the 18th of May 2020.</p>\n"
+  \ by completing the form below before 23:59 on the 18th of July 2020.</p>\n"
 has-winner: false
 prize-description: "Biffy Clyro 'A Celebration Of Endings' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
