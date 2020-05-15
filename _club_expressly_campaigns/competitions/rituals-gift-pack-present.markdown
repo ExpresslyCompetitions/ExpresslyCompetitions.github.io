@@ -31,7 +31,10 @@ section1-content: "<p>This wonderful gift pack is the perfect present for a frie
 entry-title: "Win The Ritual of Happy Buddha Gift Set!"
 entry-content: "<p>Enter the draw to win The Ritual of Happy Buddha Gift Set by completing\
   \ the form below before 23:59 on the 12th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jenna D. who won The Ritual of Happy Buddha Gift\
+  \ Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-8f85656b-5baa-47c2-a64d-69087efa5c60.jpg"
 prize-description: "The Ritual of Happy Buddha Gift Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
