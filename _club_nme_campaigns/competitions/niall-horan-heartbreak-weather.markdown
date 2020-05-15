@@ -26,7 +26,10 @@ section1-content: "<p>’Heartbreak Weather’ is the second studio album by the
 entry-title: "Win Niall Horan ‘Heartbreak Weather’ album!"
 entry-content: "<p>Enter the draw to win Niall Horan ‘Heartbreak Weather’ album by\
   \ completing the form below before 23:59 on the 16th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony W. who won Niall Horan ‘Heartbreak Weather’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-cb12fc9b-7e42-4967-9286-91ba642822ce.jpg"
 prize-description: "Niall Horan ‘Heartbreak Weather’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/niall-horan-heartbreak-weather"
