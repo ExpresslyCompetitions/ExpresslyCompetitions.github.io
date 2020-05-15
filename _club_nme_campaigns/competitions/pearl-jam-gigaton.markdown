@@ -27,7 +27,9 @@ section1-content: "<p>Produced by Josh Evans and Pearl Jam, 'Gigaton' marks the 
 entry-title: "Win Pearl Jam ‘Gigaton’ album!"
 entry-content: "<p>Enter the draw to win ‘Pearl Jam ‘Gigaton’ album by completing\
   \ the form below before 23:59 on the 10th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Digger M. who won Pearl Jam ‘Gigaton’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-2669a97e-11a7-4877-bf66-5dfa143a5781.jpg"
 prize-description: "Pearl Jam ‘Gigaton’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/pearl-jam-gigaton"
