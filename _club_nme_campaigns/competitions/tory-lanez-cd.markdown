@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-03-14T06:00:00.000Z"
 end-date: "2020-05-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Tory Lanez 'Love Me Now' CD!"
 competition-description: "<p>We are giving away the album of the 27 year old rapper,\
