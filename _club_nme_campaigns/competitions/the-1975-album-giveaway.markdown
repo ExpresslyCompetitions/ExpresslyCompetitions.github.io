@@ -3,7 +3,7 @@ campaign-uuid: "c-5ebe379c-9187-4a0a-b5e5-9bb179eb6776"
 type: "Competition"
 category: "Music"
 date: "2020-04-01T06:00:00.000Z"
-end-date: "2020-06-01T23:59:00.000Z"
+end-date: "2020-07-01T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>'Notes On A Conditional Form is the fourth brand new album
   \ and it could be yours.</p>\n<p>Good luck!</p>\n"
 entry-title: "Win The 1975 new album 'Notes On A Conditional Form'"
 entry-content: "<p>Enter the draw to win The 1975 new album 'Notes On A Conditional\
-  \ Form' by completing the form below before 23:59 on the 1st of June 2020.</p>\n"
+  \ Form' by completing the form below before 23:59 on the 1st of July 2020.</p>\n"
 has-winner: false
 prize-description: "The 1975 new album 'Notes On A Conditional Form'"
 special-conditions: "Multiple entries are allowed up to one every day."
