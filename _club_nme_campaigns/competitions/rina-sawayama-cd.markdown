@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-03-21T06:00:00.000Z"
 end-date: "2020-05-21T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Rina Sawayama 'SAWAYAMA’ album!"
 competition-description: "<p>'SAWAYAMA' is the debut album from Japanese pop Rina\
