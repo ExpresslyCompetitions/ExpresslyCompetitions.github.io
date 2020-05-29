@@ -8,10 +8,10 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win 'The New Abnormal’ The Strokes new album!"
-competition-description: "<p>We are giving away the sixth studio album by the American\
-  \ indie rock band The Strokes: ‘The New Abnormal’. A 9-track album we are pretty\
-  \ sure you won’t want to miss featuring their singles 'At the Door' and 'Bad Decisions’\
-  .</p>\n<p>Enter below for a chance to win.</p>\n"
+competition-description: "<p>The boys are back. We are giving away the sixth studio\
+  \ album by the American Rock band The Strokes: ‘The New Abnormal’. A 9-track album\
+  \ we are pretty sure you won’t want to miss. Featuring their amazing singles 'At\
+  \ the Door' and 'Bad Decisions’.</p>\n<p>Enter below for a chance to win.</p>\n"
 hero-header: "Win 'The New Abnormal’ The Strokes new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-1e78f248-154f-4188-9203-b8ba3816a8b7.jpg"
