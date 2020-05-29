@@ -30,8 +30,7 @@ entry-content: "<p>Enter the draw to win ''The New Abnormal’ The Strokes new a
   \ by completing the form below before 23:59 on the 30th of July 2020.</p>\n"
 has-winner: false
 prize-description: "'The New Abnormal’ The Stokes new album!"
-special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
-  \ competition is also available on: https://club.expressly.io/competitions/the-new-abnormal-strokes-album"
+special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
 - "GB"
 ---
