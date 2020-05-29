@@ -20,11 +20,11 @@ logo-left-image: "https://assets.expresslyapp.com/asset-92eb0398-1825-485f-986a-
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-e93f2ebf-872f-41c1-9dbc-6431eed21bea.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-7be35de8-8449-4bdc-82ed-753d514cebb4.jpg"
-section1-content: "<p>The American indie rock band, The Strokes, are back with their\
-  \ sixth studio album ‘The New Abnormal’. The artwork features the 1981 painting\
-  \ 'Bird On Money' by American artist Jean-Michel Basquiat. The album contains the\
-  \ singles 'At the Door' and 'Bad Decisions'.</p>\n<p>Does it sound good to you?\
-  \ Click below and they could be yours!</p>\n"
+section1-content: "<p>The American Rock band, The Strokes, are back with their sixth\
+  \ studio album ‘The New Abnormal’. The artwork features the 1981 painting 'Bird\
+  \ On Money' by American Artist Jean-Michel Basquiat. The album contains the singles\
+  \ 'At the Door' and 'Bad Decisions'.</p>\n<p>Does it sound good to you? Click below\
+  \ and they could be yours!</p>\n"
 entry-title: "Win 'The New Abnormal’ The Strokes new album!"
 entry-content: "<p>Enter the draw to win ''The New Abnormal’ The Strokes new album\
   \ by completing the form below before 23:59 on the 30th of July 2020.</p>\n"
