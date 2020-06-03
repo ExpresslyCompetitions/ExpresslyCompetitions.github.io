@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-03-28T06:00:00.000Z"
 end-date: "2020-05-28T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Blossoms 'Foolish Loving Spaces' album!"
 competition-description: "<p>'Foolish Loving Spaces' is the brand new album of the\
