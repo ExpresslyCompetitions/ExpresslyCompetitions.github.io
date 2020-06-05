@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-06-06T06:00:00.000Z"
 end-date: "2020-08-06T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 'A Hero's Death' by Fontaines D.C"
 competition-description: "<p>Barely a year after the release of their hugely acclaimed\
