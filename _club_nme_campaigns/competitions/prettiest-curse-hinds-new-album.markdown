@@ -13,7 +13,7 @@ competition-description: "<p>’The Prettiest Curse’ is a record positively bu
   \ and unleashing songs which sound bigger, bolder, and more complex than anything\
   \ they have done before. We have great news because we are giving away a copy of\
   \ the brand new album by the Hinds.</p>\n<p>Click below for a chance to take it\
-  \ home with you now./p>\n"
+  \ home with you now.</p>\n"
 hero-header: "Win ‘The Prettiest Curse’ by Hinds"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-9c148529-acee-4759-b8bd-e5e6dc15bc0b.jpg"
