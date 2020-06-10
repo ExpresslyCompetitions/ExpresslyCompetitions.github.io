@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-04-08T06:00:00.000Z"
 end-date: "2020-06-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Elton John Greatest Hits Box Set!"
 competition-description: "<p>Greatest Hits 1970-2002 is the first attempt to consolidate\
