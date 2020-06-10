@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-04-08T06:00:00.000Z"
 end-date: "2020-06-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Mrs Hinch: The Little Book of Lists' book!"
 competition-description: "<p>Mrs Hinch's Little Book of Lists is the perfect way to\
