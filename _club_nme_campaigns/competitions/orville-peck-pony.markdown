@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-04-04T06:00:00.000Z"
 end-date: "2020-06-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Orville Peck 'Pony' album!"
 competition-description: "<p>Combining the lulling ambience of shoegaze with the iconic\
