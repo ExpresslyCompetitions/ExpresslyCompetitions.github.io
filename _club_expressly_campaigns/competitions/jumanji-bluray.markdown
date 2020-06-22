@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2020-04-15T06:00:00.000Z"
 end-date: "2020-06-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Jumanji: The Next Level' on Blu-ray!"
 competition-description: "<p>The gang is back but the game has changed. We are giving\
