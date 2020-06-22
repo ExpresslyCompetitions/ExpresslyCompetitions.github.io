@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-02-12T06:00:00.000Z"
 end-date: "2020-06-12T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Dua Lipa 'Future Nostalgia' album!"
 competition-description: "<p>She's back and better than ever. The amazing Dua Lipa\
