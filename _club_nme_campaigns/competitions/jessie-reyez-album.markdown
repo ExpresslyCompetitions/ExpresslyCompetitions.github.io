@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-04-25T06:00:00.000Z"
 end-date: "2020-06-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Jessie Reyez 'Before Love Came To Kill Us' CD!"
 competition-description: "<p>'Before Love Came To Kill Us' is the debut studio album\
