@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-04-29T06:00:00.000Z"
 end-date: "2020-06-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'The Gentlemen' on Blu-ray!"
 competition-description: "<p>We have on our hands 'The Gentlemen', a star-studded\
