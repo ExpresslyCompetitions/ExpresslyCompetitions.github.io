@@ -21,7 +21,7 @@ logo-left-image: "https://assets.expresslyapp.com/asset-50457dcf-e8fb-4aa3-a7ee-
 logo-left-title: "ExpresslyClub"
 bg-image-hero: "https://assets.expresslyapp.com/asset-3946f254-d869-4ec3-a73f-31cb44a5d51d.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-c16523e9-3954-4a95-8b9a-7241237043dd.jpg"
-section1-content: "<p>Beth O'leary studied English at university before she started\
+section1-content: "<p>Beth O'Leary studied English at university before she started\
   \ working in children's book publishing. She lives as close to the countryside as\
   \ she can get while still being in reach of London, and wrote her first novel, The\
   \ Flatshare, on her train journey to and from work. A deeply satisfying love and\
