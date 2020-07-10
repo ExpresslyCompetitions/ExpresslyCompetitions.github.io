@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-06-19T06:00:00.000Z"
 end-date: "2020-09-10T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win Haim 'Women In Music Pt. III' album!"
 competition-description: "<p>They are back! The sisters’ Haim much-delayed third record\
@@ -26,7 +26,7 @@ section1-content: "<p>'Women In Music Pt. III’ is the third record from the Am
   \ could discover and enjoy inside of it.</p>\n<p>Are you their biggest fan? Click\
   \ below for a chance to win.</p>\n"
 entry-title: "Win Haim 'Women In Music Pt. III' album!"
-entry-content: "<p>Enter the draw to win ‘Haim 'Women In Music Pt. III' album by completing\
+entry-content: "<p>Enter the draw to win Haim 'Women In Music Pt. III' album by completing\
   \ the form below before 23:59 on the 10th of September 2020.</p>\n"
 has-winner: false
 prize-description: "Haim 'Women In Music Pt. III' album!"
