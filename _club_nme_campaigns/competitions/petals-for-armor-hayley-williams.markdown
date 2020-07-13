@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-09T06:00:00.000Z"
 end-date: "2020-07-09T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Petals For Armor' by Hayley Williams!"
 competition-description: "<p>'Petals For Armor' is the debut solo studio album from\
