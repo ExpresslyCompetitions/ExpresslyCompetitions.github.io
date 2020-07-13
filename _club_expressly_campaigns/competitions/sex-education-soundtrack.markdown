@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-06T06:00:00.000Z"
 end-date: "2020-07-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Sex Education Soundtrack!"
 competition-description: "<p>We have on our hands the soundtrack that everybody is\
