@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-06T06:00:00.000Z"
 end-date: "2020-07-06T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Depeche Mode 'Spirits In The Forest' Box Set!"
 competition-description: "<p>We are giving away 'Spirits In The Forest', a special\
