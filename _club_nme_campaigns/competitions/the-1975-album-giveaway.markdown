@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-04-01T06:00:00.000Z"
 end-date: "2020-07-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The 1975 new album 'Notes On A Conditional Form'"
 competition-description: "<p>In order to celebrate the release of the fourth new record\
