@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-02T06:00:00.000Z"
 end-date: "2020-07-02T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Glass Animals 'How To Be a Human Being' album!"
 competition-description: "<p>'How To Be A Human Being’ is a scrapbook of the time\
