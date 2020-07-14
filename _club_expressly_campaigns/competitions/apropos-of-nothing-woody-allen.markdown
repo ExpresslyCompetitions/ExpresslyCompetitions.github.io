@@ -12,7 +12,7 @@ competition-description: "<p>In this candid and often hilarious memoir, the cele
   \ director, comedian, writer, and actor offers a comprehensive, personal look at\
   \ his tumultuous life. A hugely entertaining, deeply honest, rich and brilliant\
   \ self-portrait of a celebrated artist who is ranked among the greatest filmmakers\
-  \ of our time.</p>\n<p>Click below for a chance to win.</p>\n"
+  \ of our time.</p>\n<p>Click below for a chance to win his autobiography now.</p>\n"
 hero-header: "Win 'Apropos of Nothing' by Woody Allen"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-62e3d5ee-8b8b-4343-be16-85ff5c7da14f.jpg"
