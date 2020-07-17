@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-13T06:00:00.000Z"
 end-date: "2020-07-13T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'You Know I'm Not Going Anywhere' by The Districts"
 competition-description: "<p>'You Know I'm Not Going Anywhere' is the 4th studio album\
