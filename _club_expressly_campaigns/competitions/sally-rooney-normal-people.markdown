@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-05-20T06:00:00.000Z"
 end-date: "2020-07-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Normal People' by Sally Rooney book!"
 competition-description: "<p>Normal People is a story of mutual fascination, friendship\
