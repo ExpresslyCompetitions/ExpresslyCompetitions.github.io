@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-05-20T06:00:00.000Z"
 end-date: "2020-07-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Song For Our Daughter' by Laura Marling"
 competition-description: "<p>'Song For Our Daughter' is Laura Marling’s exquisite\
