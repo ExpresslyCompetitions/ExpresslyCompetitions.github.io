@@ -33,7 +33,7 @@ entry-content: "<p>Enter the draw to win ‘The Suburbs’ by Arcade Fire  by co
 has-winner: false
 prize-description: "‘The Suburbs’ by Arcade Fire"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
-  \ competition is also available on: https://club.expressly.io/competitions/arcade-fire-the-suburbs"
+  \ competition is also available on: https://aaa.nme.com/competitions/arcade-fire-the-suburbs"
 country-restrictions:
 - "GB"
 ---
