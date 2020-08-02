@@ -27,7 +27,7 @@ section1-content: "<p>We are giving away the ninth and seventh international stu
   \ to hear it first? Click below and it could be coming home to you.</p>\n"
 entry-title: "Win ‘Such Pretty Forks In The Road’ by Alanis Morissette"
 entry-content: "<p>Enter the draw to win ‘Such Pretty Forks In The Road’ by Alanis\
-  \ Morissette by completing the form below before 23:59 on the 4rd of September 2020.</p>\n"
+  \ Morissette by completing the form below before 23:59 on the 4th of September 2020.</p>\n"
 has-winner: false
 prize-description: "‘Such Pretty Forks In The Road’ by Alanis Morissette"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
