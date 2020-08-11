@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-06-03T06:00:00.000Z"
 end-date: "2020-08-03T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The 'How Not To Die' Cookbook!"
 competition-description: "<p>From the author of the global bestseller 'How Not To\
