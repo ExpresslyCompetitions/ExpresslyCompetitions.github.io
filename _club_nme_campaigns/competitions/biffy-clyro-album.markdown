@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-03-18T06:00:00.000Z"
 end-date: "2020-07-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Biffy Clyro 'A Celebration Of Endings' album!"
 competition-description: "<p>We are giving away a copy of 'A Celebration Of Endings'\
