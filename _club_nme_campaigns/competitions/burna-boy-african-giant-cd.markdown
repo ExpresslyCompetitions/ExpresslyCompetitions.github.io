@@ -9,8 +9,8 @@ is_promoted: false
 has_entry_page: true
 title: "Win Burna Boy ‘African Giant’ CD!"
 competition-description: "<p>’African Giant’ is Burna Boy’s fourth studio album. He\
-  \ has gone from Nigerian superstar to international sensation and he’s creator of\
-  \ an enigmatic new genre: ‘Afrofusion.</p>\n<p>We are giving away a copy of his\
+  \ has gone from Nigerian superstar to international sensation and he’s the creator\
+  \ of an enigmatic new genre: ‘Afrofusion.</p>\n<p>We are giving away a copy of his\
   \ record to you. Click below for a chance to win.</p>\n"
 hero-header: "Win Burna Boy ‘African Giant’ CD!"
 terms-confirmation: "N/A"
