@@ -5,7 +5,7 @@ category: "Technology"
 date: "2020-06-10T06:00:00.000Z"
 end-date: "2020-08-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win an amazing pair of Mpow Wireless Headphones!"
 competition-description: "<p>Bring music where you sweat! We are giving away a pair\
