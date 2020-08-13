@@ -27,7 +27,10 @@ section1-content: "<p>‘I Am Not A Dog On A Chain’ is Morrisey first new stud
 entry-title: "Win ‘I’m Not a Dog on a Chain’ Morrisey new record!"
 entry-content: "<p>Enter the draw to win ‘I’m Not a Dog on a Chain’ Morrisey new record\
   \ by completing the form below before 23:59 on the 28th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Luke M. who won ‘I’m Not a Dog on a Chain’ Morrisey\
+  \ new record!"
+winner-banner: "https://assets.expresslyapp.com/asset-79b02a87-7809-4064-b81c-dbe52fcbbf7b.jpg"
 prize-description: "‘I’m Not a Dog on a Chain’ Morrisey new record!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/morrisey-album-giveaway"
