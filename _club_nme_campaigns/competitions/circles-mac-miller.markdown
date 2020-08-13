@@ -31,7 +31,9 @@ section1-content: "<p>'Circles', like 'Swimming' MUST be heard, to be truly appr
 entry-title: "Win ‘Circles’ by Mac Miller"
 entry-content: "<p>Enter the draw to win ‘Circles’ by Mac Miller by completing the\
   \ form below before 23:59 on the 4th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Cheryl H. who won ‘Circles’ by Mac Miller."
+winner-banner: "https://assets.expresslyapp.com/asset-3d3166f9-e2d8-4810-bb36-85c7ad901a7b.jpg"
 prize-description: "‘Circles’ by Mac Miller"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/circles-mac-miller"
