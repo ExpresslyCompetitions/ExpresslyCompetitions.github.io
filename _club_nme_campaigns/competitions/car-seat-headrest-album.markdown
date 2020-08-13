@@ -31,7 +31,9 @@ section1-content: "<p>’Making A Door Less Open' s the new album from Car Seat 
 entry-title: "Win Car Seat Headrest new album!"
 entry-content: "<p>Enter the draw to win Car Seat Headrest new album by completing\
   \ the form below before 23:59 on the 5th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Helen T. who won Car Seat Headrest new album!"
+winner-banner: "https://assets.expresslyapp.com/asset-aa698157-0493-4b8e-b69e-da1824057b04.jpg"
 prize-description: "Car Seat Headrest new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/car-seat-headrest-album"
