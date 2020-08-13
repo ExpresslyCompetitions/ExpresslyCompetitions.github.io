@@ -28,7 +28,10 @@ section1-content: "<p>Carly’s brand new record ‘Side B’ is the follow up t
 entry-title: "Win Carly Rae Jepsen new album ‘Dedicated: Side B’"
 entry-content: "<p>Enter the draw to win Carly Rae Jepsen new album ‘Dedicated: Side\
   \ B' by completing the form below before 23:59 on the 28th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Nicola L. who won Carly Rae Jepsen new album ‘Dedicated:\
+  \ Side B’"
+winner-banner: "https://assets.expresslyapp.com/asset-ff3ef4b8-82de-4eff-a50d-935309e8804f.jpg"
 prize-description: "Carly Rae Jepsen new album ‘Dedicated: Side B’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/carly-rae-new-album"
