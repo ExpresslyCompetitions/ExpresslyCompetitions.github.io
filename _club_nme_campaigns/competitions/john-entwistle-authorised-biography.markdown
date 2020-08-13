@@ -39,7 +39,10 @@ entry-title: "Win ‘The Ox: The Last of the Great Rock Stars: The Authorised Bi
 entry-content: "<p>Enter the draw to win ‘The Ox: The Last of the Great Rock Stars:\
   \ The Authorised Biography of The Who's John Entwistle’ book by completing the form\
   \ below before 23:59 on the 18th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sheena R. who won ‘The Ox: The Last of the Great\
+  \ Rock Stars' book."
+winner-banner: "https://assets.expresslyapp.com/asset-9b8b8cc4-12dc-47be-93fe-d04894b3ea8f.jpg"
 prize-description: "‘The Ox: The Last of the Great Rock Stars: The Authorised Biography\
   \ of The Who's John Entwistle’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
