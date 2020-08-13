@@ -28,7 +28,10 @@ section1-content: "<p>’Earth’ is the brand new album from the Radiohead guit
 entry-title: "Win ‘Earth’ the brand new album from Ed O’Brien!"
 entry-content: "<p>Enter the draw to win ‘Earth’ the brand new album from Ed O’Brien\
   \ by completing the form below before 23:59 on the 29th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Peter H. who won ‘Earth’ the brand new album from\
+  \ Ed O’Brien!"
+winner-banner: "https://assets.expresslyapp.com/asset-e36ce5e3-d1c0-4f6a-9d2b-28a7ac797621.jpg"
 prize-description: "‘Earth’ the brand new album from Ed O’Brien!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/earth-ed-obrien-album"
