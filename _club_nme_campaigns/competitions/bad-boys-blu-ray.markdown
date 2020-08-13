@@ -32,7 +32,9 @@ section1-content: "<p>The Bad Boys Mike Lowrey (Will Smith) and Marcus Burnett (
 entry-title: "Win ‘Bad Boys For Life’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘Bad Boys For Life’ on Blu-ray by completing\
   \ the form below before 23:59 on the 5th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Aaron M. who won ‘Bad Boys For Life’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-b601998c-b6d4-43ca-b0fa-fc064dc5b285.jpg"
 prize-description: "‘Bad Boys For Life’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/bad-boys-blu-ray"
