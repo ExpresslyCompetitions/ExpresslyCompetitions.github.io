@@ -29,7 +29,9 @@ section1-content: "<p>We have managed to get ourselvs with one copy of the album
 entry-title: "Win Tory Lanez 'Love Me Now' CD!"
 entry-content: "<p>Enter the draw to win Tory Lanez 'Love Me Now' CD by completing\
   \ the form below before 23:59 on the 14th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Larry M. who won Tory Lanez 'Love Me Now' CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-7ec0868e-bc9d-4193-a091-428e65469404.jpg"
 prize-description: "Tory Lanez 'Love Me Now' CD!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
