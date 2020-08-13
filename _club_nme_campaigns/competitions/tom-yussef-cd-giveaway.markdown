@@ -36,7 +36,10 @@ section1-content: "<p>'What Kinda Music' is an astonishing collaboration between
 entry-title: "Win Tom Misch and Yussef Dayes ‘What Kinda Music’ CD!"
 entry-content: "<p>Enter the draw to win Tom Misch and Yussef Dayes ‘What Kinda Music’\
   \ CD by completing the form below before 23:59 on the 28th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony W. who won Tom Misch and Yussef Dayes ‘What\
+  \ Kinda Music’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-412065a1-f2d8-44c9-9918-dacd96f0ad78.jpg"
 prize-description: "Tom Misch and Yussef Dayes ‘What Kinda Music’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/tom-yussef-cd-giveaway"
