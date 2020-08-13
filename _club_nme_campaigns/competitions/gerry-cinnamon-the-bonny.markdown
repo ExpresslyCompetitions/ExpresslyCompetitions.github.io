@@ -29,7 +29,9 @@ section1-content: "<p>Everything that Gerry has achieved has been done entirely 
 entry-title: "Win Gerry Cinnamon 'The Bonny' album!"
 entry-content: "<p>Enter the draw to win Gerry Cinnamon 'The Bonny' album by completing\
   \ the form below before 23:59 on the 15th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Louise C. who won Gerry Cinnamon 'The Bonny' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e974eda0-e998-44b0-8026-a57a484181a5.jpg"
 prize-description: "Gerry Cinnamon 'The Bonny' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
