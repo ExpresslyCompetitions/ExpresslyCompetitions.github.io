@@ -31,7 +31,9 @@ section1-content: "<p>The band self-released a load of demos and a garden-shed-r
 entry-title: "Win Porridge Radio 'Every Bad' album!"
 entry-content: "<p>Enter the draw to win Porridge Radio 'Every Bad' album by completing\
   \ the form below before 23:59 on the 07th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Nigel S. who won  Porridge Radio 'Every Bad' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-d0c11d6b-856c-4db3-a6e5-739cbc554c24.jpg"
 prize-description: "Porridge Radio 'Every Bad' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
