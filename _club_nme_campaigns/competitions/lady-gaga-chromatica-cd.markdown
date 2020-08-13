@@ -27,7 +27,10 @@ section1-content: "<p>Lady Gaga’s sixth studio album is finally here. ‘Chrom
 entry-title: "Win ‘Chromatica’ the brand new album by Lady Gaga"
 entry-content: "<p>Enter the draw to win ‘Chromatica’ the brand new album by Lady\
   \ Gaga  by completing the form below before 23:59 on the 29th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Samuel F. who won  ‘Chromatica’ the brand new album\
+  \ by Lady Gaga"
+winner-banner: "https://assets.expresslyapp.com/asset-9b863ce8-0857-4033-89ec-69593161180e.jpg"
 prize-description: "‘Chromatica’ the brand new album by Lady Gaga"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/lady-gaga-chromatica-cd"
