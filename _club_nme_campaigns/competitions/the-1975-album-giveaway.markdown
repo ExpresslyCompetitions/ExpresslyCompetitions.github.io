@@ -30,7 +30,9 @@ section1-content: "<p>'Notes On A Conditional Form is the fourth brand new album
 entry-title: "Win The 1975 new album 'Notes On A Conditional Form'"
 entry-content: "<p>Enter the draw to win The 1975 new album 'Notes On A Conditional\
   \ Form' by completing the form below before 23:59 on the 1st of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rod C. who won"
+winner-banner: "https://assets.expresslyapp.com/asset-5898d5f5-f94f-4944-9d7e-cf02909f6a53.jpg"
 prize-description: "The 1975 new album 'Notes On A Conditional Form'"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
