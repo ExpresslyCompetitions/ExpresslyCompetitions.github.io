@@ -29,7 +29,9 @@ section1-content: "<p> This set reproduces the original UK release including the
 entry-title: "Win The Jam ‘Snap’ vinyl edition!"
 entry-content: "<p>Enter the draw to win The Jam ‘Snap’ vinyl edition by completing\
   \ the form below before 23:59 on the 6th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jill H. who won The Jam ‘Snap’ vinyl edition!"
+winner-banner: "https://assets.expresslyapp.com/asset-e2c861df-f076-4765-96f1-74e0875e9e2a.jpg"
 prize-description: "The Jam ‘Snap’ vinyl edition!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/snap-the-jam-vinyl-edition"
