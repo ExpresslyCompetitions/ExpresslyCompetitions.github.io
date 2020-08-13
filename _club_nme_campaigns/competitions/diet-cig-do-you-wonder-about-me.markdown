@@ -28,7 +28,10 @@ section1-content: "<p>'Do You Wonder About Me?’ is the brand new album of Diet
 entry-title: "Win ‘Do You Wonder About Me?’ by Diet Cig"
 entry-content: "<p>Enter the draw to win ‘Do You Wonder About Me?’ by Diet Cig by\
   \ completing the form below before 23:59 on the 1st of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Digger M. who  ‘Do You Wonder About Me?’ by Diet\
+  \ Cig"
+winner-banner: "https://assets.expresslyapp.com/asset-20ca2e41-7f4a-402c-9a12-b93e41cbfa15.jpg"
 prize-description: "‘Do You Wonder About Me?’ by Diet Cig"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/diet-cig-do-you-wonder-about-me"
