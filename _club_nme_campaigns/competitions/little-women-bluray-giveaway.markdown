@@ -33,7 +33,9 @@ section1-content: "<p>In the years after the Civil War, Jo March lives in New Yo
 entry-title: "Win ‘Little Women’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘Little Women’ on Blu-ray by completing the\
   \ form below before 23:59 on the 15th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Luke M. who won ‘Little Women’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-d7ebf06b-65fb-430b-a0f8-e2a63153e10c.jpg"
 prize-description: "‘Little Women’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/little-women-bluray-giveaway"
