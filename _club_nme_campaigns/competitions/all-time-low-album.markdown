@@ -28,7 +28,10 @@ entry-title: "Multiple entries are allowed up to one every day.  This competitio
   \ is also available on: https://club.expressly.io/competitions"
 entry-content: "<p>Enter the draw to win All Time Low 'Wake Up, Sunshine’ CD by completing\
   \ the form below before 23:59 on the 8th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Francesca J. who won All Time Low 'Wake Up, Sunshine’\
+  \ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-25f647d1-2d98-436b-9776-fa7bdb06059f.jpg"
 prize-description: "All Time Low 'Wake Up, Sunshine’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/all-time-low-album"
