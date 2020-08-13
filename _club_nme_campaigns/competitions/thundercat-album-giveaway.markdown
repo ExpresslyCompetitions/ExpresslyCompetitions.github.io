@@ -27,7 +27,10 @@ section1-content: "<p>‘It Is What It Is’ features the singles 'King of the H
 entry-title: "Win Thundercat ‘It Is What It Is’ new album!"
 entry-content: "<p>Enter the draw to win Thundercat ‘It Is What It Is’ new album by\
   \ completing the form below before 23:59 on the 7th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Denis O. who won Thundercat ‘It Is What It Is’ new\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-efc45db0-a095-43d3-a719-93c4660dbf0c.jpg"
 prize-description: "Thundercat ‘It Is What It Is’ new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/thundercat-album-giveaway"
