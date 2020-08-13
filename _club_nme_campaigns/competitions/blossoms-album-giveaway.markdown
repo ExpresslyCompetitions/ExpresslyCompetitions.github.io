@@ -35,7 +35,10 @@ section1-content: "<p>'Foolish Loving Spaces' is the follow-up to Blossoms' 2018
 entry-title: "Win Blossoms 'Foolish Loving Spaces' album!"
 entry-content: "<p>Enter the draw to win Blossoms 'Foolish Loving Spaces' album by\
   \ completing the form below before 23:59 on the 28th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Dorothy M. who won Blossoms 'Foolish Loving Spaces'\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-18064f80-ae9c-4a42-8ae5-2253a4490795.jpg"
 prize-description: "Blossoms 'Foolish Loving Spaces' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
