@@ -30,7 +30,10 @@ section1-content: "<p>'From This Place' is the brand new album from the American
 entry-title: "Win 'From This Place' Pat Metheny brand new record!"
 entry-content: "<p>Enter the draw to win 'From This Place' Pat Metheny brand new record\
   \ by completing the form below before 23:59 on the 26th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brian R. who won 'From This Place' Pat Metheny brand\
+  \ new record!"
+winner-banner: "https://assets.expresslyapp.com/asset-fb6b997d-d189-4611-8390-cd2120837d3c.jpg"
 prize-description: "'From This Place' Pat Metheny brand new record!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
