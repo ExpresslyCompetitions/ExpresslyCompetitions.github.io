@@ -30,7 +30,9 @@ section1-content: "<p>’Heartwork’ is the eighth full length album from the i
 entry-title: "Win The Used ‘Heartwork’ album!"
 entry-content: "<p>Enter the draw to win The Used ‘Heartwork’ album by completing\
   \ the form below before 23:59 on the 24th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Brian R. who won The Used ‘Heartwork’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-f4890185-091a-4e0f-8560-75942fde40b8.jpg"
 prize-description: "The Used ‘Heartwork’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/the-used-album"
