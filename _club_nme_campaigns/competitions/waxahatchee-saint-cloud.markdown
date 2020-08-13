@@ -30,7 +30,9 @@ section1-content: "<p>’Saint Cloud’ is the result is a classic Americana sou
 entry-title: "Win Waxahatchee ‘Saint Cloud’ album!"
 entry-content: "<p>Enter the draw to win Waxahatchee ‘Saint Cloud’ album by completing\
   \ the form below before 23:59 on the 20th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Margaret M. who won Waxahatchee ‘Saint Cloud’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-bbef1a66-bddd-476f-8c76-cd0fbff3e8f3.jpg"
 prize-description: "Waxahatchee ‘Saint Cloud’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/waxahatchee-saint-cloud"
