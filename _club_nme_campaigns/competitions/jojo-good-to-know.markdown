@@ -27,7 +27,9 @@ section1-content: "<p>We have on our hands Jojo’s fourth studio album ‘Good 
 entry-title: "Win Jojo ‘Good To Know’ album!"
 entry-content: "<p>Enter the draw to win Jojo ‘Good To Know’ album by completing the\
   \ form below before 23:59 on the 14th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joanna H. who won Jojo ‘Good To Know’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-e83d7a89-d08a-4e62-be87-137788e0f8c7.jpg"
 prize-description: "Jojo ‘Good To Know’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/jojo-good-to-know"
