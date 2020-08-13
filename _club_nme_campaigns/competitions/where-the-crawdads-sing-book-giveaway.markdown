@@ -28,7 +28,9 @@ section1-content: "<p> ‘Where the Crawdads Sing’ is a story lovingly told-on
 entry-title: "Win ‘Where the Crawdads Sing’ book!"
 entry-content: "<p>Enter the draw to win ‘Where the Crawdads Sing’ book by completing\
   \ the form below before 23:59 on the 7th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sue M. who won ‘Where the Crawdads Sing’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-27084709-c81f-4454-a1fd-ea4f21433f9f.jpg"
 prize-description: "‘Where the Crawdads Sing’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/where-the-crawdads-sing-book-giveaway"
