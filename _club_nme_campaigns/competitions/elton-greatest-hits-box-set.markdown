@@ -34,7 +34,9 @@ section1-content: "<p>Greatest Hits 1970-2002 is the first attempt to consolidat
 entry-title: "Win Elton John Greatest Hits Box Set!"
 entry-content: "<p>Enter the draw to win Elton John Greatest Hits Box Set by completing\
   \ the form below before 23:59 on the 8th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Katy H. who won Elton John Greatest Hits Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-cdf1f65f-a7e0-4fc0-9c60-7684e4b2a01f.jpg"
 prize-description: "Elton John Greatest Hits Box Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
