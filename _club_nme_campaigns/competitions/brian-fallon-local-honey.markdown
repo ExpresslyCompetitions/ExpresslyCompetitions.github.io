@@ -31,7 +31,9 @@ section1-content: "<p>The lead singer of beloved heartland-punk band The Gasligh
 entry-title: "Win Brian Fallon ‘Local Honey’ CD!"
 entry-content: "<p>Enter the draw to win Brian Fallon ‘Local Honey’ CD by completing\
   \ the form below before 23:59 on the 16th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jamie P. who won Brian Fallon ‘Local Honey’ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-e71fff4a-5dc0-40bf-aec2-6465cd8992f9.jpg"
 prize-description: "Brian Fallon ‘Local Honey’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/brian-fallon-local-honey"
