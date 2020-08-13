@@ -28,7 +28,9 @@ section1-content: "<p>’Duality’ is the debut studio album by the British hou
 entry-title: "Win Duke Dumont ‘Duality’ album!"
 entry-content: "<p>Enter the draw to win Duke Dumont ‘Duality’ album by completing\
   \ the form below before 23:59 on the 23rd of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Cheryl H. who won Duke Dumont ‘Duality’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-7e55ffd0-c9b9-43c6-9b03-d8e0b3ae8f42.jpg"
 prize-description: "Duke Dumont ‘Duality’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/duke-dumont-duality"
