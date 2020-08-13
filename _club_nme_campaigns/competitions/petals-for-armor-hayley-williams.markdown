@@ -32,7 +32,9 @@ section1-content: "<p>'Petals For Armor' is the debut solo studio album from the
 entry-title: "Win 'Petals For Armor' by Hayley Williams!"
 entry-content: "<p>Enter the draw to win Petals For Armor' by Hayley Williams by completing\
   \ the form below before 23:59 on the 9th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Samuel L. who won 'Petals For Armor' by Hayley Williams!"
+winner-banner: "https://assets.expresslyapp.com/asset-b5aedc21-635d-4d05-9895-5c3078293d87.jpg"
 prize-description: "'Petals For Armor' by Hayley Williams!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
