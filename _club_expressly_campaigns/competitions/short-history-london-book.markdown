@@ -29,7 +29,9 @@ section1-content: "<p>Based in part on his experiences of and involvement in the
 entry-title: "Win 'A Short History of London' book!"
 entry-content: "<p>Enter the draw to win  'A Short History of London' book by completing\
   \ the form below before 23:59 on the 11th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carlos H. who won 'A Short History of London' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-31387ca3-976b-4290-abe0-d9b7bd65ddc5.jpg"
 prize-description: "'A Short History of London' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
