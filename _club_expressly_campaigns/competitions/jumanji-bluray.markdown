@@ -28,7 +28,9 @@ section1-content: "<p>The gang is back but the game has changed. As they return 
 entry-title: "Win 'Jumanji: The Next Level' on Blu-ray!"
 entry-content: "<p>Enter the draw to win 'Jumanji: The Next Level' on Blu-ray! by\
   \ completing the form below before 23:59 on the 15th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Linda B. who won 'Jumanji: The Next Level' on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-2ca2d0df-079a-4abe-9449-98a4ecde40ff.jpg"
 prize-description: "'Jumanji: The Next Level' on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
