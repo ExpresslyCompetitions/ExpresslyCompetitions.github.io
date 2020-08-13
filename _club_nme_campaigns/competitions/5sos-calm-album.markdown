@@ -28,7 +28,9 @@ section1-content: "<p>’Calm’ is the fourth studio album by the Australian po
 entry-title: "Win 5 Seconds Of Summer ‘Calm’ Album!"
 entry-content: "<p>Enter the draw to win 5 Seconds Of Summer ‘Calm’ Album by completing\
   \ the form below before 23:59 on the 17th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Howard W. who won 5 Seconds Of Summer ‘Calm’ Album!"
+winner-banner: "https://assets.expresslyapp.com/asset-62144108-9454-46d0-853e-c84d2deeb754.jpg"
 prize-description: "5 Seconds Of Summer ‘Calm’ Album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/5sos-calm-album"
