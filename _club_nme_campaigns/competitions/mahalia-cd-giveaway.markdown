@@ -28,7 +28,10 @@ section1-content: "<p>Mahalia first began making music at just 12 years old. She
 entry-title: "Win Mahalia ‘Love and Compromise’ album!"
 entry-content: "<p>Enter the draw to win Mahalia ‘Love and Compromise’ album by completing\
   \ the form below before 23:59 on the 12th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Christine B. who won Mahalia ‘Love and Compromise’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-c6ca0811-862a-4ce1-89fc-5ce31e44acbc.jpg"
 prize-description: "Mahalia ‘Love and Compromise’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/mahalia-cd-giveaway"
