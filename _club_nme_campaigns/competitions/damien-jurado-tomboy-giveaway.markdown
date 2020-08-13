@@ -28,7 +28,10 @@ section1-content: "<p>Damien Jurado is back with a brand new album: ‘What’s 
 entry-title: "Win ‘What’s New, Tomboy?’ by Damien Jurado"
 entry-content: "<p>Enter the draw to win ‘What’s New, Tomboy?’ by Damien Jurado\n\
   by completing the form below before 23:59 on the 8th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rebeca K. who won ‘What’s New, Tomboy?’ by Damien\
+  \ Jurado"
+winner-banner: "https://assets.expresslyapp.com/asset-47a1033a-eb3e-4ddf-9fd2-5b155bcf41ea.jpg"
 prize-description: "'What’s New, Tomboy?’ by Damien Jurado"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/damien-jurado-tomboy-giveaway"
