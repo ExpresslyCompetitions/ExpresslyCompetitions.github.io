@@ -29,7 +29,9 @@ section1-content: "<p>We have on our hands the second studio album from the amaz
 entry-title: "Win Dua Lipa 'Future Nostalgia' album!"
 entry-content: "<p>Enter the draw to win Dua Lipa 'Future Nostalgia' album by completing\
   \ the form below before 23:59 on the 12th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Derek R. who won Dua Lipa 'Future Nostalgia' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-5f6b2d5b-6734-453d-9392-b08bef60562b.jpg"
 prize-description: "Dua Lipa 'Future Nostalgia' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
