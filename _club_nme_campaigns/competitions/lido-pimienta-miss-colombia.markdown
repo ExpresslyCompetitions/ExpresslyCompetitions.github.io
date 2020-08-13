@@ -31,7 +31,9 @@ section1-content: "<p>Lido Pimienta has performed, exhibited, and curated around
 entry-title: "Win Lido Pimienta 'Miss Colombia' album!"
 entry-content: "<p>Enter the draw to win Lido Pimienta 'Miss Colombia' album by completing\
   \ the form below before 23:59 on the 22nd of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Wendy C. who won Lido Pimienta 'Miss Colombia' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-06be6760-b33e-47bf-a930-dd3f80b8842b.jpg"
 prize-description: "Lido Pimienta 'Miss Colombia' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
