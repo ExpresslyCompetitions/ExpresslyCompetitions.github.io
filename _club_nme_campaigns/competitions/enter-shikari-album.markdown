@@ -33,7 +33,10 @@ entry-title: "Win Enter Shikari 'Nothing Is True & Everything Is Possible’ alb
 entry-content: "<p>Enter the draw to win Enter Shikari 'Nothing Is True &amp; Everything\
   \ Is Possible’ album by completing the form below before 23:59 on the 21st of May\
   \ 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Caroline J. who won Enter Shikari 'Nothing Is True\
+  \ & Everything Is Possible’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-94ffaf08-f488-4a82-aa06-266ae06e80f3.jpg"
 prize-description: "Enter Shikari 'Nothing Is True & Everything Is Possible’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/enter-shikari-album"
