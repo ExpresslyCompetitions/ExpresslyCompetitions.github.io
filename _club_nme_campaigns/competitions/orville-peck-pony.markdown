@@ -29,7 +29,9 @@ section1-content: "<p> 'Pony' delivers a diverse collection of stories that sing
 entry-title: "Win Orville Peck 'Pony' album!"
 entry-content: "<p>Enter the draw to win Orville Peck 'Pony' album by completing the\
   \ form below before 23:59 on the 6th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Paul B. who won Orville Peck 'Pony' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-f8dbc6cb-47c8-4444-884e-2234ee57b40f.jpg"
 prize-description: "Orville Peck 'Pony' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
