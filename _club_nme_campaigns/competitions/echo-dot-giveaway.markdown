@@ -32,7 +32,10 @@ section1-content: "<p>With a new speaker and design, Echo Dot is a voice-control
 entry-title: "Win an amazing Echo Dot Smart Speaker with Alexa!"
 entry-content: "<p>Enter the draw to win an amazing Echo Dot Smart Speaker with Alexa\
   \ by completing the form below before 23:59 on the 29th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Lucinda D. who won an amazing Echo Dot Smart Speaker\
+  \ with Alexa!"
+winner-banner: "https://assets.expresslyapp.com/asset-ac9a06af-084b-4550-9ed3-db0aa497e6b3.jpg"
 prize-description: "An amazing Echo Dot Smart Speaker with Alexa!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
