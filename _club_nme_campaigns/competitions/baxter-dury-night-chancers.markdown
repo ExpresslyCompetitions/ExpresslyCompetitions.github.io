@@ -28,7 +28,10 @@ section1-content: "<p>We are giving you the chance of winning a copy of the bran
 entry-title: "Win Baxter Dury ‘The Night Chancers’ album!"
 entry-content: "<p>Enter the draw to win Baxter Dury ‘The Night Chancers’ album by\
   \ completing the form below before 23:59 on the 13th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Joanne E. who won Baxter Dury ‘The Night Chancers’\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-384d93a4-b2df-4b38-b0c8-649f3eb04a38.jpg"
 prize-description: "Baxter Dury ‘The Night Chancers’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/baxter-dury-night-chancers"
