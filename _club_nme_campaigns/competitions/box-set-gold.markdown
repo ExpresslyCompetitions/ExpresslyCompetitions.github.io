@@ -29,7 +29,9 @@ section1-content: "<p>Bros are one of the biggest bands from the 1980s, consisti
 entry-title: "Win 'Bros: Gold' Box Set!"
 entry-content: "<p>Enter the draw to win 'Bros: Gold' Box Set by completing the form\
   \ below before 23:59 on the 2nd of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Wendy C. who won 'Bros: Gold' Box Set!"
+winner-banner: "https://assets.expresslyapp.com/asset-a39a7f20-9e66-423d-b49d-af5a7f4dbe69.jpg"
 prize-description: "'Bros: Gold' Box Set!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/box-set-gold"
