@@ -34,7 +34,10 @@ section1-content: "<p>'How To Be A Human Being’ is a scrapbook of the time Gla
 entry-title: "Win Glass Animals 'How To Be a Human Being' album!"
 entry-content: "<p>Enter the draw to win Glass Animals 'How To Be a Human Being' album\
   \ by completing the form below before 23:59 on the 2nd of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony W. who won Glass Animals 'How To Be a Human\
+  \ Being' album!"
+winner-banner: "https://assets.expresslyapp.com/asset-9553045d-4347-4a57-b462-43cc5d4fec50.jpg"
 prize-description: "Glass Animals 'How To Be a Human Being' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
