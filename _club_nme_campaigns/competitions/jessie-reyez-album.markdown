@@ -29,7 +29,10 @@ section1-content: "<p>'Before Love Came To Kill Us' is the debut studio album by
 entry-title: "Win Jessie Reyez 'Before Love Came To Kill Us' CD!"
 entry-content: "<p>Enter the draw to win Jessie Reyez 'Before Love Came To Kill Us'\
   \ CD by completing the form below before 23:59 on the 25th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jean S. who won Jessie Reyez 'Before Love Came To\
+  \ Kill Us' CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-21c23f0c-b566-4ca5-88c2-3803193cc406.jpg"
 prize-description: "Jessie Reyez 'Before Love Came To Kill Us' CD!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
