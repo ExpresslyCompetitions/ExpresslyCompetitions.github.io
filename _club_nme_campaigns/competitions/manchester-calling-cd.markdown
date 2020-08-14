@@ -25,7 +25,10 @@ section1-content: "<p>The album is the follow-up to their 2017 release 'Crooked 
 entry-title: "Win ‘Manchester Calling’ Paul Heaton & Jacqui Abbot album!"
 entry-content: "<p>Enter the draw to win Manchester Calling’ Paul Heaton &amp; Jacqui\
   \ Abbot album by completing the form below before 23:59 on the 23rd of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Shirley K. who won ‘Manchester Calling’ Paul Heaton\
+  \ & Jacqui Abbot album!"
+winner-banner: "https://assets.expresslyapp.com/asset-bb31ae0a-53aa-44ee-b66a-4175051bb410.jpg"
 prize-description: "‘Manchester Calling’ Paul Heaton & Jacqui Abbot album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/manchester-calling-cd"
