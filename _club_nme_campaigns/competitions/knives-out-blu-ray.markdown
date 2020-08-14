@@ -31,7 +31,9 @@ section1-content: "<p>When renowned crime novelist Harlan Thrombey (Christopher 
 entry-title: "Win ‘Knives Out’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘Knives Out’ on Blu-ray by completing the\
   \ form below before 23:59 on the 9th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tom W. who won ‘Knives Out’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-26b04866-9d9b-4eb5-a36f-628ad48ece48.jpg"
 prize-description: "‘Knives Out’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/knives-out-blu-ray"
