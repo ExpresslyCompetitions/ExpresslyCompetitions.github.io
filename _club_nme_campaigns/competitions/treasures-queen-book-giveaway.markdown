@@ -31,7 +31,9 @@ section1-content: "<p>Queen has been awarded Best Band, Best Album, Best Single,
 entry-title: "Win ‘The Treasures of Queen’ book!"
 entry-content: "<p>Enter the draw to win ‘The Treasures of Queen’ book by completing\
   \ the form below before 23:59 on the 20th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tony H. who won ‘The Treasures of Queen’ book!"
+winner-banner: "https://assets.expresslyapp.com/asset-0b46ac08-32a3-4700-92c5-290b92e54a54.jpg"
 prize-description: "‘The Treasures of Queen’ book!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/treasures-queen-book-giveaway"
