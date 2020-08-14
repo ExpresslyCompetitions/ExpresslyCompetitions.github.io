@@ -38,7 +38,10 @@ section1-content: "<p>In 2014 Dan Snaith aka Caribou released Our Love to overwh
 entry-title: "Win ‘Suddenly’ the brand new album from Caribou!"
 entry-content: "<p>Enter the draw to win ‘Suddenly’ the brand new album from Caribou\
   \ by completing the form below before 23:59 on the 4th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Craig A. who won ‘Suddenly’ the brand new album\
+  \ from Caribou!"
+winner-banner: "https://assets.expresslyapp.com/asset-153c7280-f41d-42f8-b75f-faa1cd052bd4.jpg"
 prize-description: "‘Suddenly’ the brand new album from Caribou"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
