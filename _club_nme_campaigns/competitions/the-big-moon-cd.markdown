@@ -30,7 +30,10 @@ section1-content: "<p>The British post-punk group arrived like a breath of fresh
 entry-title: "Win The Big Moon album 'Walking Like We Do'!"
 entry-content: "<p>Enter the draw to win The Big Moon album 'Walking Like We Do' by\
   \ completing the form below before 23:59 on the 11th of March 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chris P. who won The Big Moon album 'Walking Like\
+  \ We Do'!"
+winner-banner: "https://assets.expresslyapp.com/asset-770a8259-818a-4656-aacc-8f5cc6e1e7ba.jpg"
 prize-description: "The Big Moon album 'Walking Like We Do'!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
