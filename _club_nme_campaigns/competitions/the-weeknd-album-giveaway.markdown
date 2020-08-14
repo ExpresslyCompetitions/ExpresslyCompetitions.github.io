@@ -27,7 +27,10 @@ section1-content: "<p>We are giving away the fourth studio album from the Canadi
 entry-title: "Win The Weeknd ‘After Hours’ brand new album!"
 entry-content: "<p>Enter the draw to win The Weeknd ‘After Hours’ brand new album\
   \ by completing the form below before 23:59 on the 26th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Paul E. who won The Weeknd ‘After Hours’ brand new\
+  \ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-1b9cb9a3-bc69-480b-bd43-abae7eeee3ae.jpg"
 prize-description: "The Weeknd ‘After Hours’ brand new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/the-weeknd-album-giveaway"
