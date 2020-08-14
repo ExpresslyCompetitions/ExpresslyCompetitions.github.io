@@ -28,7 +28,9 @@ section1-content: "<p>At the height of the First World War, two young British so
 entry-title: "Win 1917 on Blu-ray!"
 entry-content: "<p>Enter the draw to win 1917 on Blu-ray by completing the form below\
   \ before 23:59 on the 27th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Mark W. who won 1917 on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-95d78219-86cd-4266-9e42-ae7d656a9ef9.jpg"
 prize-description: "1917 on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/1917-bluray-giveaway"
