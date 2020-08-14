@@ -28,7 +28,9 @@ section1-content: "<p>Paul Smith Woman is a perennially elegant perfume but with
 entry-title: "Win Paul Smith 'Women' Perfume!"
 entry-content: "<p>Enter the draw to win Paul Smith 'Women' Perfume by completing\
   \ the form below before 23:59 on the 4th of May 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to John T. who won Paul Smith 'Women' Perfume!"
+winner-banner: "https://assets.expresslyapp.com/asset-e6555215-a995-45cc-88b4-b9f5251bc935.jpg"
 prize-description: "Paul Smith 'Women' Perfume!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
