@@ -29,7 +29,9 @@ section1-content: "<p>Based on a true story, an eccentric, determined team of Am
 entry-title: "Win ‘Le Mans ’66’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘Le Mans ’66’ on Blu-ray by completing the\
   \ form below before 23:59 on the 17th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jeffrey S. who won ‘Le Mans ’66’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-30563560-79e2-49d0-9411-ac40cf90104b.jpg"
 prize-description: "‘Le Mans ’66’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/le-mans-66-blu-ray"
