@@ -29,7 +29,9 @@ section1-content: "<p>Smoothing tourmaline-ceramic plates gives an effortless gl
 entry-title: "Win a fantastic BaByliss Straightener!"
 entry-content: "<p>Enter the draw to win a fantastic BaByliss Straightener by completing\
   \ the form below before 23:59 on the 26th of April 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Jayne C. who won a fantastic BaByliss Straightener!"
+winner-banner: "https://assets.expresslyapp.com/asset-e5f457d3-b430-4c09-bbe3-26bd8b7e1472.jpg"
 prize-description: "A fantastic BaByliss Straightener!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
