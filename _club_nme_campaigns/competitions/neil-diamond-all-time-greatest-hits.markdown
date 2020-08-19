@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-06-17T06:00:00.000Z"
 end-date: "2020-08-17T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Neil Diamond ‘All-Time Greatest Hits’!"
 competition-description: "<p>We have on our hands a copy of Neil Diamond ‘All-Time\
