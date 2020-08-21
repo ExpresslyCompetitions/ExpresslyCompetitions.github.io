@@ -3,9 +3,9 @@ campaign-uuid: "c-44ef726b-d8f0-4c5c-b480-9472e75d95da"
 type: "Competition"
 category: "Music"
 date: "2020-08-14T06:00:00.000Z"
-end-date: "2020-09-14T23:59:00.000Z"
+end-date: "2020-10-14T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win ‘Imploding The Mirage’ by The Killers!"
 competition-description: "<p>The sixth album from the Las Vegas band, The Killers,\
@@ -31,7 +31,7 @@ section1-content: "<p>’Imploding The Mirage’ is the sixth studio album by th
   \ below for a chance to win.</p>\n"
 entry-title: "Win ‘Imploding The Mirage’ by The Killers!"
 entry-content: "<p>Enter the draw to win ‘Imploding The Mirage’ by The Killers by\
-  \ completing the form below before 23:59 on the 14th of September 2020.</p>\n"
+  \ completing the form below before 23:59 on the 14th of October 2020.</p>\n"
 has-winner: false
 prize-description: "‘Imploding The Mirage’ by The Killers!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
