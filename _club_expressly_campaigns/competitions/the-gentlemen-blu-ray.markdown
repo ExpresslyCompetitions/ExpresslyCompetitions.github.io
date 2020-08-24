@@ -30,7 +30,9 @@ section1-content: "<p>From writer/director Guy Ritchie comes 'The Gentlemen', a 
 entry-title: "Win 'The Gentlemen' on Blu-ray!"
 entry-content: "<p>Enter the draw to win 'The Gentlemen' on Blu-ray by completing\
   \ the form below before 23:59 on the 29th of June 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Christina B. who won  'The Gentlemen' on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-f7a86366-1364-44bd-be46-f32ba52ae01f.jpg"
 prize-description: "'The Gentlemen' on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
