@@ -32,7 +32,9 @@ section1-content: "<p>Jane Austen’s beloved comedy about finding your equal an
 entry-title: "Win ‘EMMA’ on Blu-ray!"
 entry-content: "<p>Enter the draw to win ‘EMMA’ on Blu-ray by completing the form\
   \ below before 23:59 on the 2nd of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Michael O. who won ‘EMMA’ on Blu-ray!"
+winner-banner: "https://assets.expresslyapp.com/asset-c508874e-8f0f-44d8-9da8-e8c989e800ec.jpg"
 prize-description: "'EMMA’ on Blu-ray!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/emma-bluray-giveaway"
