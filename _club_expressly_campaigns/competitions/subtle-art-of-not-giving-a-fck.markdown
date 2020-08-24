@@ -35,7 +35,10 @@ entry-title: "Win 'The Subtle Art of Not Giving A F*ck' book!"
 entry-content: "<p>Enter the draw to win Enter Shikari 'Nothing Is True &amp; Everything\
   \ Is Possible’ album by completing the form below before 23:59 on the 22nd of June\
   \ 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Rosie D. who won 'The Subtle Art of Not Giving A\
+  \ F*ck' book!"
+winner-banner: "https://assets.expresslyapp.com/asset-dfe59114-ea1c-4fb8-ab54-d1f785e50efb.jpg"
 prize-description: "'The Subtle Art of Not Giving A F*ck' book!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
