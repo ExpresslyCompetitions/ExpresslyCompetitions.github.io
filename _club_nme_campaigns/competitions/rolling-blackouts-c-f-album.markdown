@@ -33,7 +33,10 @@ section1-content: "<p>Led by singer-songwriter-guitarists Tom Russo, Joe White a
 entry-title: "Win ‘Sideways to New Italy’ by Rolling Blackouts C.F."
 entry-content: "<p>Enter the draw to win ‘Sideways to New Italy’ by Rolling Blackouts\
   \ C.F. by completing the form below before 23:59 on the 12th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to David B. who won ‘Sideways to New Italy’ by Rolling\
+  \ Blackouts C.F."
+winner-banner: "https://assets.expresslyapp.com/asset-b7dcfbd4-40bd-45ec-9284-245a9fae8c0d.jpg"
 prize-description: "‘Sideways to New Italy’ by Rolling Blackouts C.F."
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/rolling-blackouts-c-f-album"
