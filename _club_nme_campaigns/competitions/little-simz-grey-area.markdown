@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-06-20T06:00:00.000Z"
 end-date: "2020-08-20T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Grey Area' by Little Simz"
 competition-description: "<p>'Grey Area' is the third studio album by the British\
