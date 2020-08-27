@@ -28,7 +28,7 @@ section1-content: "<p>She's long been the creative engine behind her synth-pop b
   \ vocals.</p>\n<p>Click below and it could be yours.</p>\n"
 entry-title: "Win PVRIS new album: 'Use Me'"
 entry-content: "<p>Enter the draw to win PVRIS new album: 'Use Me' by completing the\
-  \ form below before 23:59 on the 25th of September 2020.</p>\n"
+  \ form below before 23:59 on the 25th of October 2020.</p>\n"
 has-winner: false
 prize-description: "PVRIS new album: 'Use Me'"
 special-conditions: "Multiple entries are allowed up to one every day."
