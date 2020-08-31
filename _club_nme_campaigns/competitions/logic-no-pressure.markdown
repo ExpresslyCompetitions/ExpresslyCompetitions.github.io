@@ -30,7 +30,7 @@ section1-content: "<p>Grammy-nominated, multi-platinum artist Logic gets back to
   \ he loves when he's under 'no pressure'.</p>\n"
 entry-title: "Win ‘No Pressure’ by Logic"
 entry-content: "<p>Enter the draw to win ‘No Pressure’ by Logic by completing the\
-  \ form below before 23:59 on the 31st of September 2020.</p>\n"
+  \ form below before 23:59 on the 30th of September 2020.</p>\n"
 has-winner: false
 prize-description: "‘No Pressure’ by Logic"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
