@@ -16,7 +16,7 @@ competition-description: "<p>Grammy award-winning singing sensation Gregory Port
 hero-header: "Win Gregory Porter ‘All Rise’ new album!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-5ae15315-efab-4e4d-9611-372ebaa42c10.jpg"
-logo-left-href: "AAA.nme.com"
+logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-4cadb4b8-ab9d-4310-bff7-8d4437a5e10b.jpg"
 logo-left-title: "NME AAA"
 bg-image-hero: "https://assets.expresslyapp.com/asset-6acf48c0-1b2d-4109-85cb-88b9479da6b7.jpg"
