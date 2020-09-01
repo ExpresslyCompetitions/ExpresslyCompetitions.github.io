@@ -9,10 +9,10 @@ is_promoted: false
 has_entry_page: true
 title: "Win Sea Girls new album: ‘Open Up Your Head’"
 competition-description: "<p>After a long year with electric live shows, they are\
-  \ back with with their emotionally charged, deeply personal, hook laden debut album\
-  \ 'Open Up Your Head’. An album that isn’t afraid of dreaming big or broaching the\
-  \ endless hellscape that is shit mental health.</p>\n<p>A record you should not\
-  \ miss. Click below and it could be yours.</p>\n"
+  \ back with their emotionally charged, deeply personal, hook laden debut album 'Open\
+  \ Up Your Head’. An album that isn’t afraid of dreaming big or broaching the endless\
+  \ hellscape that is shit mental health.</p>\n<p>A record you should not miss. Click\
+  \ below and it could be yours.</p>\n"
 hero-header: "Win Sea Girls new album: ‘Open Up Your Head’"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4922008d-9919-4b71-8a6a-3eabe26796c5.jpg"
