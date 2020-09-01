@@ -28,7 +28,7 @@ section1-content: "<p>Along with producer Troy Miller (Laura Mvula, Jamie Cullum
   \ mix of jazz, soul, blues and gospel.</p>\n<p>Click below and it could be yours.</p>\n"
 entry-title: "Win Gregory Porter ‘All Rise’ new album!"
 entry-content: "<p>Enter the draw to win Gregory Porter ‘All Rise’ new album by completing\
-  \ the form below before 23:59 on the 2nd of October 2020.</p>\n"
+  \ the form below before 23:59 on the 1st of October 2020.</p>\n"
 has-winner: false
 prize-description: "Gregory Porter ‘All Rise’ new album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
