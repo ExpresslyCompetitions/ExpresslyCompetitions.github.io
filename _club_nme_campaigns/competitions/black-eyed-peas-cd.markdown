@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-01T06:00:00.000Z"
 end-date: "2020-09-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Translation' by the Black Eyed Peas!"
 competition-description: "<p>They are back and better than ever! We have on our hands\
