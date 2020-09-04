@@ -3,7 +3,7 @@ campaign-uuid: "c-a74cf419-25ba-46dc-a551-14dbc8395093"
 type: "Competition"
 category: "Music"
 date: "2020-07-04T06:00:00.000Z"
-end-date: "2020-09-04T06:00:00.000Z"
+end-date: "2020-09-05T23:59:00.000Z"
 disable-form: false
 is_promoted: true
 has_entry_page: true
@@ -28,7 +28,7 @@ section1-content: "<p>We have managed to get our hands on the soundtrack from th
   \ and 'Boss Bitch' by Doja Cat. Enter below and it could be yours.</p>\n"
 entry-title: "Win 'Birds of Prey: The Album'"
 entry-content: "<p>Enter the draw to win 'Birds of Prey: The Album' by completing\
-  \ the form below before 23:59 on the 4th of September 2020.</p>\n"
+  \ the form below before 23:59 on the 5th of September 2020.</p>\n"
 has-winner: false
 prize-description: "Birds of Prey: The Album"
 special-conditions: "Multiple entries are allowed up to one every day."
