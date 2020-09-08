@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win 'Goats Head Soup' by The Rolling Stones"
-competition-description: "<p>We have on our hands a deluxe edition of 1973’s ‘Goats\
+competition-description: "<p>We have on our hands a Deluxe Edition of 1973’s ‘Goats\
   \ Head Soup’ album by the Rolling Stones, featuring 10 unreleased tracks and a full\
   \ concert from the same year. This record includes the newly released outtake ‘\
   Criss Cross’ alongside rarities such as ‘Scarlet’, which features Led Zeppelin’\
