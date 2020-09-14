@@ -30,7 +30,9 @@ section1-content: "<p>Public Practice is reanimating the spirit of late '70s New
 entry-title: "Win 'Gentle Grip' by Public Practice!"
 entry-content: "<p>Enter the draw to win 'Gentle Grip' by Public Practice by completing\
   \ the form below before 23:59 on the 27th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Sharon B. who won 'Gentle Grip' by Public Practice!"
+winner-banner: "https://assets.expresslyapp.com/asset-d6572bab-c67d-43b6-9167-a2f89ed64cd1.jpg"
 prize-description: "'Gentle Grip' by Public Practice"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
