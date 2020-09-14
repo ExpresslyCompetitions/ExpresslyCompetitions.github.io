@@ -29,7 +29,10 @@ section1-content: "<p>Jessie Ware rediscovers her strut, on a record filled with
 entry-title: "Win Jessie Ware ‘What’s Your Pleasure?’ CD!"
 entry-content: "<p>Enter the draw to win Jessie Ware ‘What’s Your Pleasure?’ CD by\
   \ completing the form below before 23:59 on the 26th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Denise W. who won  Jessie Ware ‘What’s Your Pleasure?’\
+  \ CD!"
+winner-banner: "https://assets.expresslyapp.com/asset-a5345c62-3f9f-4715-b806-e93466fedffc.jpg"
 prize-description: "Jessie Ware ‘What’s Your Pleasure?’ CD!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/jessie-ware-whats-your-pleasure-cd"
