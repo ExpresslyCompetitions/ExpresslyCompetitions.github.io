@@ -29,7 +29,10 @@ section1-content: "<p>'You Know I'm Not Going Anywhere' is the 4th studio album 
 entry-title: "Win 'You Know I'm Not Going Anywhere' by The Districts"
 entry-content: "<p>Enter the draw to win 'You Know I'm Not Going Anywhere' by The\
   \ Districts by completing the form below before 23:59 on the 13th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Georgina S. who won 'You Know I'm Not Going Anywhere'\
+  \ by The Districts"
+winner-banner: "https://assets.expresslyapp.com/asset-e7a24fdb-4bba-4fca-a243-9b5f47116762.jpg"
 prize-description: "'You Know I'm Not Going Anywhere' by The Districts"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
