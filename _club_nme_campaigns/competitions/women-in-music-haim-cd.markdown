@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-06-19T06:00:00.000Z"
 end-date: "2020-09-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Haim 'Women In Music Pt. III' album!"
 competition-description: "<p>They are back! The sisters’ Haim much-delayed third record\
