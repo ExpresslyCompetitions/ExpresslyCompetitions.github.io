@@ -30,7 +30,9 @@ section1-content: "<p>The fifteenth studio album by the English singer-songwrite
 entry-title: "Win Paul Weller ‘On Sunset’ album!"
 entry-content: "<p>Enter the draw to win Paul Weller ‘On Sunset’ album by completing\
   \ the form below before 23:59 on the 25th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Tracey H. who won Paul Weller ‘On Sunset’ album!"
+winner-banner: "https://assets.expresslyapp.com/asset-5d8fd6d6-b8ca-4936-bcc3-14175d58793a.jpg"
 prize-description: "Paul Weller ‘On Sunset’ album!"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/paul-weller-on-sunset-album"
