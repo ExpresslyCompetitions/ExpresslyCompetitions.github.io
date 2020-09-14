@@ -30,7 +30,9 @@ section1-content: "<p>Originally intended to be released in 1975, the album has 
 entry-title: "Win ‘Homegrown’ by Neil Young"
 entry-content: "<p>Enter the draw to win ‘Homegrown’ by Neil Young album by completing\
   \ the form below before 23:59 on the 22nd of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Carol F. who won ‘Homegrown’ by Neil Young"
+winner-banner: "https://assets.expresslyapp.com/asset-85f11784-bf44-4b04-ac67-49384949e0b4.jpg"
 prize-description: "‘Homegrown’ by Neil Young"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/homegrown-neil-young-cd"
