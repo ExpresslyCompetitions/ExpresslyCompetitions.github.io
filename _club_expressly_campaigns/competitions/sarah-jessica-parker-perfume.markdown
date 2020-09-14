@@ -35,7 +35,9 @@ section1-content: "<p>Loveliness is everywhere. A touch, a face, a memory, pink 
 entry-title: "Win Sarah Jessica Parker Perfume!"
 entry-content: "<p>Enter the draw to win Sarah Jessica Parker Perfume by completing\
   \ the form below before 23:59 on the 13th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Margaret A. who won Sarah Jessica Parker Perfume!"
+winner-banner: "https://assets.expresslyapp.com/asset-bd79db50-7061-4ec1-850d-8a31833f570a.jpg"
 prize-description: "Sarah Jessica Parker Perfume!"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
