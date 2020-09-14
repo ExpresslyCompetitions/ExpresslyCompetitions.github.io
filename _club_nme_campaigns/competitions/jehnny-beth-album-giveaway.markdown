@@ -28,7 +28,9 @@ section1-content: "<p>‘To Love is To Live’  is the debut solo studio album f
 entry-title: "Win ‘To Love is To Live’ by Jehnny Beth"
 entry-content: "<p>Enter the draw to win ‘To Love is To Live’ by completing the form\
   \ below before 23:59 on the 18th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Toby O. who won ‘To Love is To Live’ by Jehnny Beth"
+winner-banner: "https://assets.expresslyapp.com/asset-6d624582-f872-445c-a08c-bdec4bd0bb94.jpg"
 prize-description: "‘To Love is To Live’ by Jehnny Beth"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/jehnny-beth-album-giveaway"
