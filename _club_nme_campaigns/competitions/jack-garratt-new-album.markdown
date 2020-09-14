@@ -30,7 +30,10 @@ section1-content: "<p>’Love, Death & Dancing’ is a shrine to Garratt’s sur
 entry-title: "Win ‘Love, Death & Dancing’ by Jack Garratt"
 entry-content: "<p>Enter the draw to win ‘Love, Death &amp; Dancing’ by Jack Garratt\
   \ by completing the form below before 23:59 on the 15th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Chris J. who won  ‘Love, Death & Dancing’ by Jack\
+  \ Garratt"
+winner-banner: "https://assets.expresslyapp.com/asset-d02dd881-f454-4fb0-8ea2-b482f55fb1fc.jpg"
 prize-description: "‘Love, Death & Dancing’ by Jack Garratt"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
   \ competition is also available on: https://club.expressly.io/competitions/jack-garratt-new-album"
