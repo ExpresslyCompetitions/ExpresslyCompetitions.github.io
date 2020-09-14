@@ -31,7 +31,10 @@ section1-content: "<p>Laura Marling’s exquisite seventh album 'Song For Our Da
 entry-title: "Win 'Song For Our Daughter' by Laura Marling"
 entry-content: "<p>Enter the draw to win 'Song For Our Daughter' by Laura Marling\n\
   by completing the form below before 23:59 on the 20th of July 2020.</p>\n"
-has-winner: false
+has-winner: true
+winner-title: "CONGRATULATIONS to Karl B. who won 'Song For Our Daughter' by Laura\
+  \ Marling"
+winner-banner: "https://assets.expresslyapp.com/asset-1363293f-9b12-4121-af93-e32ea1195501.jpg"
 prize-description: "'Song For Our Daughter' by Laura Marling"
 special-conditions: "Multiple entries are allowed up to one every day."
 country-restrictions:
