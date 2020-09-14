@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-08T06:00:00.000Z"
 end-date: "2020-09-08T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'The Very Best Of Ennio Morricone'"
 competition-description: "<p>We are giving away an excellent collection of materpieces\
