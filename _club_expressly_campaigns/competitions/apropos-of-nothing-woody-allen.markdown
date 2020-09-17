@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-07-15T06:00:00.000Z"
 end-date: "2020-09-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Apropos of Nothing' by Woody Allen"
 competition-description: "<p>In this candid and often hilarious memoir, the celebrated\
