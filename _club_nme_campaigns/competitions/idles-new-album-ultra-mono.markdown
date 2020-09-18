@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: true
 has_entry_page: true
 title: "Win IDLES new album: 'Ultra Mono'"
-competition-description: "<p>Following Brutalism and Joy as an Act of Resistance,\
+competition-description: "<p>Following 'Brutalism' and 'Joy as an Act of Resistance',\
   \ two releases that garnered global critical acclaim, IDLES return with their highly\
   \ anticipated third album: 'Ultra Mono'. The rock album ever made to date. We are\
   \ giving away a copy of their brand new record to one lucky NME AAA member to win.</p>\n\
