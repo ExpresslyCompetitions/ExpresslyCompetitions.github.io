@@ -10,9 +10,9 @@ has_entry_page: true
 title: "Win IDLES new album: 'Ultra Mono'"
 competition-description: "<p>Following 'Brutalism' and 'Joy as an Act of Resistance',\
   \ two releases that garnered global critical acclaim, IDLES return with their highly\
-  \ anticipated third album: 'Ultra Mono'. The rock album ever made to date. We are\
-  \ giving away a copy of their brand new record to one lucky NME AAA member to win.</p>\n\
-  <p>Are you a massive IDLES fan? Click below for a chance to win.</p>\n"
+  \ anticipated third album: 'Ultra Mono'. The best rock album ever made to date.\
+  \ We are giving away a copy of their brand new record to one lucky NME AAA member\
+  \ to win.</p>\n<p>Are you a massive IDLES fan? Click below for a chance to win.</p>\n"
 hero-header: "Win IDLES new album: 'Ultra Mono'"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-4198a15d-5e96-4633-8c07-9aa872d97c85.jpg"
