@@ -31,7 +31,7 @@ section1-content: "<p>A combination of the prettiest Cath Kidston prints, the co
   \ a natural exfoliate of crushed walnut shell that is safe for the environment.</p>\n"
 entry-title: "Win Cath Kidston Beauty Set!"
 entry-content: "<p>Enter the draw to win Cath Kidston Beauty Set by completing the\
-  \ form below before 23:59 on the 23rd of October 2020.</p>\n"
+  \ form below before 23:59 on the 23rd of November 2020.</p>\n"
 has-winner: false
 prize-description: "Cath Kidston Beauty Set!"
 special-conditions: "Multiple entries are allowed up to one every day."
