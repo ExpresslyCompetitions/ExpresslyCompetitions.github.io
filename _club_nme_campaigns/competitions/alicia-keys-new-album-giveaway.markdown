@@ -28,7 +28,7 @@ section1-content: "<p>Alicia's seventh album 'Alicia' was originally due in Marc
   \ to finish.</p>\n<p>Enter below for a chance to win it now.</p>\n"
 entry-title: "Win 'Alicia' the brand new album by Alicia Keys!"
 entry-content: "<p>Enter the draw to win  'Alicia' the brand new album by Alicia Keys\
-  \ by completing the form below before 23:59 on the 23rd of October 2020.</p>\n"
+  \ by completing the form below before 23:59 on the 23rd of November 2020.</p>\n"
 has-winner: false
 prize-description: "'Alicia' the brand new album by Alicia Keys!"
 special-conditions: "Multiple entries are allowed up to one every day."
