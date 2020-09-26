@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-22T06:00:00.000Z"
 end-date: "2020-09-22T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Pain Olympics' by Crack Cloud"
 competition-description: "<p>We have managed to get our hands on the brand new record\
