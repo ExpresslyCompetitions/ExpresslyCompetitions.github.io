@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-25T06:00:00.000Z"
 end-date: "2020-09-25T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Arlo Parks 'Super Sad Generation' on vinyl edition!"
 competition-description: "<p>We have on our hands a limited edition LP Red transparent\
