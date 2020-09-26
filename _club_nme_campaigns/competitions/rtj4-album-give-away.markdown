@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-18T06:00:00.000Z"
 end-date: "2020-09-18T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'RTJ4' by Run The Jewels!"
 competition-description: "<p> 'RTJ4' represents two years of intensive writing, recording,\
