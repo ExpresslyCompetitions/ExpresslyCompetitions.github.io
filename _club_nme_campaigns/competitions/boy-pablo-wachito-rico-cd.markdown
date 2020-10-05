@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-10-03T06:00:00.000Z"
 end-date: "2020-12-03T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win 'Wachito Rico' by Boy Pablo"
 competition-description: "<p>The 21-year-old Norwegian/Chilean artist, Boy Pablo,\
