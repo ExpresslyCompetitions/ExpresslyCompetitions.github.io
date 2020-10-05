@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-08-01T06:00:00.000Z"
 end-date: "2020-10-01T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Don't Forget About Me, Demos' on vinyl edition by Dominic Fike"
 competition-description: "<p>'Don't Forget About Me, Demos' is the debut EP album\
