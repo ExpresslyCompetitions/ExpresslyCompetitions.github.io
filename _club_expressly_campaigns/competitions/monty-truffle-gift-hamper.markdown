@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-07-22T06:00:00.000Z"
 end-date: "2020-09-22T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win a Monty Bojangles 100 Truffle Trunk Gift Hamper!"
 competition-description: "<p>Calling all chocolate lovers! We are giving away the\
