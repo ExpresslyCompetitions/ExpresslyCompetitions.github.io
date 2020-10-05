@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-07-29T06:00:00.000Z"
 end-date: "2020-09-29T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Ellie Goulding new album: 'Brightest Blue'"
 competition-description: "<p>She's BACK! We have on our hands the fourth studio album\
