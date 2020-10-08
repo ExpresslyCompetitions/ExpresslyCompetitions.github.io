@@ -33,7 +33,7 @@ section1-content: "<p>’As Long As You Are’ is the sixth studio album by The 
   \ career. \n</p>\n<p>Click below and it could be yours.</p>\n"
 entry-title: "Win Future Islands new album: ‘As Long As You Are’"
 entry-content: "<p>Enter the draw to win Future Islands new album: ‘As Long As You\
-  \ Are’ by completing the form below before 23:59 on the 8th of November  2020.</p>\n"
+  \ Are’ by completing the form below before 23:59 on the 9th of November  2020.</p>\n"
 has-winner: false
 prize-description: "Future Islands new album: ‘As Long As You Are’"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
