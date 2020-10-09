@@ -37,7 +37,7 @@ section1-content: "<p>National Album Day celebrates our love of the album and th
 entry-title: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National\
   \ Album Day releases!"
 entry-content: "<p>Enter the draw to win a pair of Bowers &amp; Wilkins speakers;\
-  \ PLUS: £250 of special National Album Day releasesby completing the form below\
+  \ PLUS: £250 of special National Album Day releases by completing the form below\
   \ before 23:59 on the 10th of November 2020.</p>\n"
 has-winner: false
 prize-description: "A pair of Bowers & Wilkins speakers plus £250 of special National\
