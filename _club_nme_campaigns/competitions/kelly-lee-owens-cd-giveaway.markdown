@@ -19,7 +19,7 @@ banner-img: "https://assets.expresslyapp.com/asset-e34a0b51-83e1-4663-b0d2-1457f
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-cb890b44-4d58-40ec-b54c-07b411dd6753.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-ebac0ff7-1e8e-43a2-b400-4e52af756e40.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-7e9bd330-08f3-4dc7-b7be-e4fd6a02ad26.jpg"
 bg-image-first: "https://assets.expresslyapp.com/asset-40645b03-cf7d-4591-a056-3477553da160.jpg"
 section1-content: "<p>'Inner Song' is a miraculous record from one of Britain’s most\
   \ innovative producers, and new opportunities are arising. It's a leap in artistry\
