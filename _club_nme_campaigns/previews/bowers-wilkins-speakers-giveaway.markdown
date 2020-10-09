@@ -27,13 +27,13 @@ section1-content: "<p>National Album Day celebrates our love of the album and th
   \ campaign.</p>\n<p>Bowers & Wilkins 606 S2 Anniversary Edition speakers are engineered\
   \ to deliver a higher quality sound, so you can experience the National Album Day\
   \ limited edition 10 x vinyl re-releases as the artists intended. Albums include:</p>\n\
-  <ul>\n<li>Alphaville – Forever Young</li>\n<li></li>\n<li>Dexys Midnight Runners\
-  \ - Searching For The Young Soul Rebels</li>\n<li></li>\n<li>ZZ Top – Eliminator</li>\n\
-  <li>Ice-T – Rhyme Pays</li>\n<li>Rod Stewart – Greatest Hits Vol 1</li>\n<li>Roxette\
-  \ – Look Sharp</li>\n<li>Tears For Fears – The Seeds Of Love</li>\n<li>Blues Brothers\
-  \ – 40th Edition Soundtrack (limited edition NAD release)</li>\n<li>Dire Straits\
-  \ – Complete collection LP box set</li>\n<li>Stranger Things – Soundtrack</p></li>\n\
-  </ul>\n<p>Click below for a chance to win.</p>\n"
+  <ul>\n<li>Alphaville – Forever Young</li>\n<li>Dexys Midnight Runners - Searching\
+  \ For The Young Soul Rebels</li>\n<li>ZZ Top – Eliminator</li>\n<li>Ice-T – Rhyme\
+  \ Pays</li>\n<li>Rod Stewart – Greatest Hits Vol 1</li>\n<li>Roxette – Look Sharp</li>\n\
+  <li>Tears For Fears – The Seeds Of Love</li>\n<li>Blues Brothers – 40th Edition\
+  \ Soundtrack (limited edition NAD release)</li>\n<li>Dire Straits – Complete collection\
+  \ LP box set</li>\n<li>Stranger Things – Soundtrack</p></li>\n</ul>\n<p>Click below\
+  \ for a chance to win.</p>\n"
 entry-title: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National\
   \ Album Day releases!"
 entry-content: "<p>Enter the draw to win a pair of Bowers &amp; Wilkins speakers;\
