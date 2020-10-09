@@ -1,11 +1,11 @@
 ---
 campaign-uuid: "c-67cf6bbd-36fb-48b8-b933-233f31113533"
-type: "Preview"
+type: "Competition"
 category: "Gifts"
 date: "2020-10-09T06:00:00.000Z"
 end-date: "2020-11-10T23:59:00.000Z"
 disable-form: false
-is_promoted: false
+is_promoted: true
 has_entry_page: true
 title: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National Album\
   \ Day releases!"
