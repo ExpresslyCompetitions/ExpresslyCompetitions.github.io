@@ -20,8 +20,8 @@ banner-img: "https://assets.expresslyapp.com/asset-f166d3c9-da98-462b-ba23-a4bb2
 logo-left-href: "aaa.nme.com"
 logo-left-image: "https://assets.expresslyapp.com/asset-cb890b44-4d58-40ec-b54c-07b411dd6753.jpg"
 logo-left-title: "NME AAA"
-bg-image-hero: "https://assets.expresslyapp.com/asset-6c696d54-af71-4f4b-b75f-6bf141c251d7.jpg"
-bg-image-first: "https://assets.expresslyapp.com/asset-ff38e26d-4f72-4b0d-9967-388a7d761c2e.jpg"
+bg-image-hero: "https://assets.expresslyapp.com/asset-751b931d-af1c-45b5-bf93-e589a0f13ba0.jpg"
+bg-image-first: "https://assets.expresslyapp.com/asset-9c53924d-2ae9-422f-bb3b-b9109cc9f726.jpg"
 section1-content: "<p>National Album Day celebrates our love of the album and this\
   \ year pays tribute to the 80s. Take part via @AlbumDayUK and our #MyAlbumEscspe\
   \ campaign.</p>\n<p>Bowers & Wilkins 606 S2 Anniversary Edition speakers are engineered\
