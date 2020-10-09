@@ -8,13 +8,13 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National Album\
-  \ Day releases"
+  \ Day releases!"
 competition-description: "<p>We’ve teamed up with National Album Day and their Official\
   \ Audio Partner Bowers & Wilkins to offer you this incredible prize: an amazing\
   \ pair of Bowers & Wilkins speakers plus £250 of special National Album Day releases.</p>\n\
   <p>Want to know more? Click below for a chance to win.</p>\n"
 hero-header: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National\
-  \ Album Day releases"
+  \ Album Day releases!"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-f166d3c9-da98-462b-ba23-a4bb27ac8f61.jpg"
 logo-left-href: "aaa.nme.com"
@@ -30,7 +30,7 @@ section1-content: "<p>National Album Day celebrates our love of the album and th
   \ Stranger Things Soundtrack and Dire Straits complete collection LP box set.</p>\n\
   <p>Click below for a chance to win.</p>\n"
 entry-title: "Win a pair of Bowers & Wilkins speakers; PLUS: £250 of special National\
-  \ Album Day releases"
+  \ Album Day releases!"
 entry-content: "<p>Enter the draw to win a pair of Bowers &amp; Wilkins speakers;\
   \ PLUS: £250 of special National Album Day releasesby completing the form below\
   \ before 23:59 on the 10th of November  2020.</p>\n"
