@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-08-05T06:00:00.000Z"
 end-date: "2020-10-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Jamie Oliver '7 Ways: Easy Ideas for Every Day of the Week' book!"
 competition-description: "<p>We have on our hands the essential new cookbook from\
