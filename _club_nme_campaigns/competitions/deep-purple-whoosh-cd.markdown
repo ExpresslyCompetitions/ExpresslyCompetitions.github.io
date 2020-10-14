@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-08-12T06:00:00.000Z"
 end-date: "2020-10-12T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Whoosh!' by Deep Purple"
 competition-description: "<p>Deep Purple are back with an album you should not miss.\
