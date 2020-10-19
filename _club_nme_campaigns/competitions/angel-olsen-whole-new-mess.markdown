@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-08-15T06:00:00.000Z"
 end-date: "2020-10-15T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Angel Olsen 'Whole New Mess' record on vinyl edition!"
 competition-description: "<p>'Whole New Mess' is Olsen’s first solo album since her\
