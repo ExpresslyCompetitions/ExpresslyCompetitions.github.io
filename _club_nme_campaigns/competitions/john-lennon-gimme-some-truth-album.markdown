@@ -31,7 +31,7 @@ section1-content: "<p>John Lennon's 80th Birthday is marked by the release of a 
   Happy Xmas (War Is Over)’.</p>\n<p>Click below for a chance to win.</p>\n"
 entry-title: "Win John Lennon 'Gimme Some Truth' album!"
 entry-content: "<p>Enter the draw to win John Lennon 'Gimme Some Truth' album by completing\
-  \ the form below before 23:59 on the 21th of December 2020.</p>\n"
+  \ the form below before 23:59 on the 21st of December 2020.</p>\n"
 has-winner: false
 prize-description: "John Lennon 'Gimme Some Truth' album!"
 special-conditions: "Multiple entries are allowed up to one every day."
