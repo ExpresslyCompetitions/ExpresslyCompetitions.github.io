@@ -3,7 +3,7 @@ campaign-uuid: "c-aa99a338-b92b-42c2-956b-12178976bbf5"
 type: "Competition"
 category: "Music"
 date: "2020-09-28T06:00:00.000Z"
-end-date: "2020-10-28T23:59:00.000Z"
+end-date: "2020-11-28T23:59:00.000Z"
 disable-form: false
 is_promoted: false
 has_entry_page: true
@@ -29,7 +29,7 @@ section1-content: "<p>Over the past few months, Machine Gun Kelly has been shari
   \ below and it could be yours.</p>\n"
 entry-title: "Win ‘Tickets To My Downfall’ by Machine Gun Kelly"
 entry-content: "<p>Enter the draw to win ‘Tickets To My Downfall’ by Machine Gun Kelly\
-  \ by completing the form below before 23:59 on the 28th of October 2020.</p>\n"
+  \ by completing the form below before 23:59 on the 28th of November 2020.</p>\n"
 has-winner: false
 prize-description: "‘Tickets To My Downfall’ by Machine Gun Kelly"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
