@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-08-19T06:00:00.000Z"
 end-date: "2020-10-19T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Down in the Weeds, Where the World Once Was Bright Eye' by Bright Eyes"
 competition-description: "<p>We are giving away the brand new record by Bright Eyes:\
