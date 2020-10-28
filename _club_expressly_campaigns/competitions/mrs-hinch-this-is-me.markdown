@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-08-26T06:00:00.000Z"
 end-date: "2020-10-26T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Mrs Hinch 'This Is Me' book!"
 competition-description: "<p>From the No. 1 Sunday Times Bestselling Author of 'Hinch\
