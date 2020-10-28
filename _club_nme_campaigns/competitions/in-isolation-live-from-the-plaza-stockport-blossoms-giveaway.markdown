@@ -32,7 +32,7 @@ section1-content: "<p>’In Isolation’  is the new record by the Blossoms. A c
 entry-title: "Win ‘In Isolation’ Live From The Plaza Theatre, Stockport by Blossoms"
 entry-content: "<p>Enter the draw to win ‘In Isolation’ Live From The Plaza Theatre,\
   \ Stockport by Blossoms by completing the form below before 23:59 on the 29th of\
-  \ November 2020</p>\n"
+  \ November 2020.</p>\n"
 has-winner: false
 prize-description: "‘In Isolation’ Live From The Plaza Theatre, Stockport by Blossoms"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
