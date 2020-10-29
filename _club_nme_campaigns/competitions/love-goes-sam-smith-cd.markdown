@@ -9,11 +9,9 @@ is_promoted: true
 has_entry_page: true
 title: "Win 'Love Goes' by Sam Smith"
 competition-description: "<p>The Grammy, BRIT, Golden Globe and Oscar-winning Sam\
-  \ Smith is back with an amazing brand new album: 'Love Goes'. The album shows the\
-  \ most experimental time of Sam's life, personally & musically. An album full of\
-  \ incredible collaborations such as Burna Boy. We have one copy of his new record\
-  \ to give away to one lucky NME AAA member.</p>\n<p>Click below for a chance to\
-  \ win it now.</p>\n"
+  \ Smith is back with an amazing brand new album: 'Love Goes'. An album full of incredible\
+  \ collaborations such as Burna Boy. We have one copy of the new record to give away\
+  \ to one lucky NME AAA member.</p>\n<p>Click below for a chance to win it now.</p>\n"
 hero-header: "Win 'Love Goes' by Sam Smith"
 terms-confirmation: "N/A"
 banner-img: "https://assets.expresslyapp.com/asset-d8d519d4-169b-4ebe-8c4b-eeeb4462f72e.jpg"
@@ -28,7 +26,7 @@ section1-content: "<p>For ‘Love Goes’, Sam has enlisted a roll call of rever
   \ of songs written over the last two years, all displaying individuality with every-one\
   \ telling a different story.</p>\n<p>'‘The last two years has been the most experimental\
   \ time of my life, personally but also musically. The result has been so magical\
-  \ and so therapeutic and fun. My love for music is so broad and all of my  musical\
+  \ and so therapeutic and fun. My love for music is so broad and all of my musical\
   \ guilty pleasures became pleasures.'' Sam said.</p>\n<p>Click below and it could\
   \ be yours!</p>\n"
 entry-title: "Win 'Love Goes' by Sam Smith"
