@@ -32,8 +32,7 @@ section1-content: "<p>Sir Cliff Richard celebrates his 80th Birthday with the re
   \ title The Air That I Breathe.</p>\n<p>Click below for a chance to win.</p>\n"
 entry-title: "Win ‘Music... The Air That I Breathe’ by Cliff Richard"
 entry-content: "<p>Enter the draw to win ‘Music... The Air That I Breathe’ by Cliff\
-  \ Richard by Blossoms by completing the form below before 23:59 on the 2nd of December\
-  \ 2020.</p>\n"
+  \ Richard by completing the form below before 23:59 on the 2nd of December 2020.</p>\n"
 has-winner: false
 prize-description: "‘Music... The Air That I Breathe’ by Cliff Richard"
 special-conditions: "Multiple entries are allowed up to one every day.\r\n\r\nThis\
