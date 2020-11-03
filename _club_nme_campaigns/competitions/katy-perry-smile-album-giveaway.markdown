@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-02T06:00:00.000Z"
 end-date: "2020-11-02T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Katy Perry 'Smile' new album!"
 competition-description: "<p>She's back and better than ever. Yes, we are talking\
