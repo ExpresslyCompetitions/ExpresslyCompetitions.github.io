@@ -2,7 +2,7 @@
 campaign-uuid: "c-9ab65a29-4db5-4a74-9d92-7d5bed4ba863"
 type: "Competition"
 category: "Entertainment"
-date: "2020-11-10T06:00:00.000Z"
+date: "2020-11-11T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
 is_promoted: true
