@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-09-09T06:00:00.000Z"
 end-date: "2020-11-09T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'A Beautiful Day in the Neighborhood' on DVD!"
 competition-description: "<p>'A Beautiful Day in the Neighborhood', a timely story\
