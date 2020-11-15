@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-05T06:00:00.000Z"
 end-date: "2020-11-05T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Declan McKenna 'Zeros' studio album!"
 competition-description: "<p>We have on our hands the second brand new album by the\
