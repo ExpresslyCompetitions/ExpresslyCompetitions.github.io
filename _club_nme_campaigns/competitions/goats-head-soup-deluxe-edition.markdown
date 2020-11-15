@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-09T06:00:00.000Z"
 end-date: "2020-11-09T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Goats Head Soup' by The Rolling Stones"
 competition-description: "<p>We have on our hands a Deluxe Edition of 1973’s ‘Goats\
