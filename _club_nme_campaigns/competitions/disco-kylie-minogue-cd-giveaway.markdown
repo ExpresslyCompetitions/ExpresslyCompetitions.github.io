@@ -8,7 +8,7 @@ disable-form: false
 is_promoted: false
 has_entry_page: true
 title: "Win ‘DISCO’ by Kylie Minogue"
-competition-description: "<p>DISCO’ is Kylie Minogue new album. Her most consistent\
+competition-description: "<p>'DISCO’ is Kylie Minogue new album. Her most consistent\
   \ and enjoyable album in a decade and her new record since Kylie’s 2018 album ‘\
   Golden’, which hit number 1 in both the UK and Australia. We have managed to get\
   \ our hands on one copy to give away to one lucky member.</p>\n<p>Are you her biggest\
