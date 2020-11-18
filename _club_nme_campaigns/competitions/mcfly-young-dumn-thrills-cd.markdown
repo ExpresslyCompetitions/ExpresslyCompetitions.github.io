@@ -10,7 +10,7 @@ has_entry_page: true
 title: "Win 'Young Dumb Thrills' by McFly"
 competition-description: "<p>The boys are back with their first studio album since\
   \ “Above The Noise”. YES, you guessed it... we are talking about McFly and their\
-  \ brand new record: 'Young Dumb Thrills'. A 12-track record featuring amazing collaborations\
+  \ brand new record: 'Young Dumb Thrills'. A 12-track album featuring amazing collaborations\
   \ such as  Rat boy and Mark Hoppus. We are giving away a copy of their album to\
   \ one lucky NME AAA member.</p>\n<p>Click below for a chance to win.</p>\n"
 hero-header: "Win 'Young Dumb Thrills' by McFly"
