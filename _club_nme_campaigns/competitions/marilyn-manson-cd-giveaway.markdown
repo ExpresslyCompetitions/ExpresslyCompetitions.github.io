@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-16T06:00:00.000Z"
 end-date: "2020-11-16T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Marilyn Manson new album 'We Are Chaos'"
 competition-description: "<p>Marilyn Manson returns with his eleventh studio album\
