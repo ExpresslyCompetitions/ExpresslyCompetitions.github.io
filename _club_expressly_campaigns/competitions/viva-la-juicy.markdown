@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-09-02T06:00:00.000Z"
 end-date: "2020-11-02T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Viva La Juicy' perfume!"
 competition-description: "<p>'Viva la Juicy' is presented as a gourmet floral fragrance,\
