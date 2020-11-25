@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-23T06:00:00.000Z"
 end-date: "2020-11-23T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Alicia' the brand new album by Alicia Keys!"
 competition-description: "<p>She's back and better than ever. The American singer\
