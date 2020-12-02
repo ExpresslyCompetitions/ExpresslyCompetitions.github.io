@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-26T06:00:00.000Z"
 end-date: "2020-11-26T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win Dizzee Rascal 'E3 AF' new album!"
 competition-description: "<p>Calling all Dizzee Rascal fans: in order to celebrate\
