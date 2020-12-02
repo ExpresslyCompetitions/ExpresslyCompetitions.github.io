@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-09-30T06:00:00.000Z"
 end-date: "2020-11-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Live Around The World' by Queen & Adam Lambert!"
 competition-description: "<p>Since their first appearance together in 2009,  the combination\
