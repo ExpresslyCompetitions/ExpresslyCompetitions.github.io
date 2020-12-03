@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-09-30T06:00:00.000Z"
 end-date: "2020-11-30T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win David Attenborough 'A Life on Our Planet' book!"
 competition-description: "<p>'A Life on Our Planet' is Sir David Attenborough witness\
