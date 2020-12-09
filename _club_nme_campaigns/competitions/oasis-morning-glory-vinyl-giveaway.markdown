@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-10-07T06:00:00.000Z"
 end-date: "2020-12-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win '(What’s The Story) Morning Glory?' on vinyl edition!"
 competition-description: "<p>We have on our hands the best-selling album of the 1990’\
