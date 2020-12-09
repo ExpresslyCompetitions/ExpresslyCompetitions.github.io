@@ -5,7 +5,7 @@ category: "Gifts"
 date: "2020-11-04T06:00:00.000Z"
 end-date: "2020-12-04T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'The Ritual of Sakura Gift Set' by Rituals"
 competition-description: "<p>This wonderful gift pack is the perfect present for a\
