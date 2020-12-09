@@ -5,7 +5,7 @@ category: "Gift"
 date: "2020-10-07T06:00:00.000Z"
 end-date: "2020-12-07T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Ritual of Jing Gift Set by Rituals!"
 competition-description: "<p>Inspired by the ancient Chinese concept of Jing, representing\
