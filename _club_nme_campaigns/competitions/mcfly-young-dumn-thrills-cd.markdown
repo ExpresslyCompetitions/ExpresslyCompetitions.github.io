@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-11-18T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Young Dumb Thrills' by McFly"
 competition-description: "<p>The boys are back with their first studio album since\
