@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2020-10-14T06:00:00.000Z"
 end-date: "2020-12-14T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Les Misérables: The Staged Concert' on Blu-ray!"
 competition-description: "<p>Seen by over 120 million people worldwide, Les Misérables\
