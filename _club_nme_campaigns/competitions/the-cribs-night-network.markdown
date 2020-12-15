@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-11-25T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win The Cribs new album: ‘Night Network’"
 competition-description: "<p>The Cribs are back with their brand new eighth album,\
