@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-11-28T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Cheap Queen' by King Princess"
 competition-description: "<p>We are giving away the debut studio album by the American\
