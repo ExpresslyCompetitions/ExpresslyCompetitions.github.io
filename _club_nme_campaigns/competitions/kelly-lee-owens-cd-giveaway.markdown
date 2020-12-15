@@ -5,7 +5,7 @@ category: "Music"
 date: "2020-10-10T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Inner Song' by Kelly Lee Owens"
 competition-description: "<p>Kelly Lee Owens second album is finally here. A record\
