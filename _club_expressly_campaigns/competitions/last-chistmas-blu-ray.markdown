@@ -5,7 +5,7 @@ category: "Entertainment"
 date: "2020-11-11T06:00:00.000Z"
 end-date: "2020-12-10T23:59:00.000Z"
 disable-form: false
-is_promoted: true
+is_promoted: false
 has_entry_page: true
 title: "Win 'Last Christmas' on Blu-ray!"
 competition-description: "<p>London during Christmas is the most wonderful time of\
